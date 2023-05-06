@@ -55,8 +55,9 @@ Globals:
   ResearchRootUIDToDisplay: "Colonization"
 
   # Urls for accessing auto-updater, should be changed for mods, if unused, set to ""
-  URL: ""
-  DownloadSite: ""
+  URL: "https://github.com/TeamStarDrive/StarTrekShatteredAlliance#readme"
+  DownloadSite: "https://github.com/TeamStarDrive/StarTrekShatteredAlliance/releases"
+
 
   # mod information
   Mod:
