@@ -1,0 +1,70 @@
+Version=1
+HullName=FreeBorg/Borg_Cylinder
+VisibleName=Cylinder
+Role=cruiser
+Style=FreeBorg
+Size=14,56
+MeshOffset=0,-32
+IconPath=ShipIcons/Borg_Cylinder
+ModelPath=mod Model/FreeBorg/Borg_Cylinder
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___|___
+___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___
+___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___
+O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  
+O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |IC |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  
+___|O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |___

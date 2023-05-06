@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
+  <UID>Kling_DisruptorBeamMk1</UID> 
+  <Version>2</Version>
+
+  <Cost>33</Cost>
+  <!-- Tech Level Used by AI for Upgrading Ships -->
+  <TechLevel>2</TechLevel>
+  
+  <!-- common traits shared by all ship modules -->
+  <XSize>2</XSize>
+  <YSize>6</YSize>
+  <ModuleType>MainGun</ModuleType>
+  <Name>Kling_DisruptorBeamMk1</Name>
+  <Restrictions>O</Restrictions>
+
+  <IconTexturePath>Modules/Kling_DisruptorBeamMk1</IconTexturePath>3
+
+
+  <NameIndex>18334</NameIndex>
+  <DescriptionIndex>18335</DescriptionIndex>
+
+  <!-- Mass and Health -->
+  <Mass>60</Mass>
+  <Health>10570</Health>
+  <HealthMax>10570</HealthMax>
+
+  <!-- Power Drawn -->
+  <PowerDraw>10</PowerDraw>
+
+  <!-- for Weapons -->
+  
+  <WeaponType>Kling_DisruptorBeamMk1</WeaponType>
+  <FieldOfFire>15</FieldOfFire>
+  <AccuracyPercent>0.58</AccuracyPercent>
+  <!-- Description -->
+  <Description>This heavy-mount fusion beam has a fixed spinal facing and a 45 degree field of fire.</Description>
+  
+
+</ShipModule>

@@ -1,0 +1,53 @@
+Version=1
+HullName=FreeBorg/Borg_Sphere
+VisibleName=Sphere
+Role=capital
+Style=FreeBorg
+Size=38,38
+MeshOffset=0,-16
+IconPath=ShipIcons/Borg_Sphere
+ModelPath=mod Model/FreeBorg/Borg_Sphere
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Thruster=264,264,0,30
+Slots
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|O  |O  |O  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |O  |O  |O  |___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |O  |O  |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |O  |O  |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |O  |O  |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |O  |O  |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___|___
+___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |O  |O  |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___
+___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___
+___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___
+___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___
+___|___|O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |___|___
+___|O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |___
+___|O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |___
+___|O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |___
+E  |E  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |E  |E  
+E  |E  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |E  |E  
+E  |E  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |E  |E  
+E  |E  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |E  |E  
+E  |E  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |IC |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |E  |E  
+E  |E  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |E  |E  
+E  |E  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |E  |E  
+E  |E  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |E  |E  
+E  |E  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |E  |E  
+E  |E  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |E  |E  
+___|O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |___
+___|O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |___
+___|O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |___
+___|___|O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |___|___
+___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___
+___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___
+___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___
+___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |O  |O  |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___
+___|___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |O  |O  |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___|___
+___|___|___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |O  |O  |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |O  |O  |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |O  |O  |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|O  |O  |O  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |O  |O  |O  |___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |___|___|___|___|___|___|___|___|___|___|___|___|___|___

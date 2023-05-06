@@ -1,0 +1,36 @@
+Version=1
+Name=Platforms-Platform Base mk4
+Hull=Platforms/Platform Base
+Role=platform
+ModName=trek ships
+Style=Platforms
+Size=8,7
+GridCenter=4,4
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Crystal Armor Small;Shield_1KW;Extreme Fusion Reactor;station phasor beem mk1;NuclearReactorSmall;Crystal Armor Med
+Modules=18
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0
+4,0;0
+3,1;1;2,2
+2,2;0
+5,2;0
+2,3;0
+3,3;2;2,2
+5,3;0
+1,4;3;2,2
+5,4;4
+6,4;0
+0,5;0
+3,5;0
+4,5;0
+5,5;0
+6,5;5;2,2
+0,6;0
+1,6;0

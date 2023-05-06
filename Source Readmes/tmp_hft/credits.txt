@@ -1,0 +1,21 @@
+Name and Class of model:  Hydran Stiger Fighter
+Original Textures: Taldren
+Kitbash Modeler: Thu11s
+Kitbash Textures: Thu11s
+
+Steps to install
+----------------
+
+Unzip and replace the "hft" folder in \Assets\Models\ and your done. This is a straight replacment and not a new class. Enjoy
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+THIS PATCH IS NOT MADE, DISTRIBUTED, OR SUPPORTED BY INTERPLAY
+ TM & (C) INTERPLAY & PARAMOUNT PICTURES.
+
+Copyright notices: 
+
+Star Trek, Star Fleet Command, Star Trek: Deep Space Nine, Star Trek: The Next Generation,
+Star Trek: Voyager (and the various logo devices used in them) are copyright Paramount Pictures,
+as are the characters, related images, and sound from the productions. 

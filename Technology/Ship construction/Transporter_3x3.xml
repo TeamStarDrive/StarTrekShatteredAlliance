@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Transporter_3x3</UID>
+  <TechnologyType>ShipGeneral</TechnologyType>
+  <Cost>1750</Cost>
+  <NameIndex>18288</NameIndex>
+  <DescriptionIndex>18289</DescriptionIndex>
+  <LeadsTo />
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>Transporter_3x3</ModuleUID>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Transporter_4x4</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

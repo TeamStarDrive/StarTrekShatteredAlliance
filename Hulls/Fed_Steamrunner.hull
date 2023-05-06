@@ -1,0 +1,46 @@
+Version=1
+HullName=Terran/Fed_Steamrunner
+VisibleName=Steamrunner Class
+Role=cruiser
+Style=fed
+Size=24,32
+MeshOffset=0,0
+IconPath=ShipIcons/Fed_Steamrunner
+ModelPath=mod Model/Terran/Hunter/Fed_Steamrunner
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|___|___|O  |O  |___|___|___|___|___|___|O  |O  |___|___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___|___
+___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___
+___|___|___|___|O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |___|___|___|___
+___|___|___|O  |O  |O  |O  |O  |IO |IO |IO |I  |I  |IO |IO |IO |O  |O  |O  |O  |O  |___|___|___
+___|___|O  |O  |O  |IO |IO |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |IO |IO |O  |O  |O  |___|___
+___|O  |O  |O  |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |O  |O  |O  |___
+___|O  |O  |O  |IO |IO |I  |I  |IO |IO |I  |I  |I  |I  |IO |IO |I  |I  |IO |IO |O  |O  |O  |___
+O  |O  |O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  |O  |O  
+O  |O  |O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  |O  |O  
+O  |O  |O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  |O  |O  
+O  |O  |O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  |O  |O  
+O  |O  |O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  |O  |O  
+___|O  |O  |O  |O  |IO |IO |I  |I  |IO |IO |IO |IO |IO |IO |I  |I  |IO |IO |IO |O  |O  |O  |___
+___|O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |___
+___|O  |E  |E  |E  |O  |O  |IO |IO |O  |O  |O  |O  |O  |O  |IO |IO |O  |O  |E  |E  |E  |O  |___
+___|O  |E  |E  |E  |O  |O  |O  |O  |O  |O  |O  |OC |O  |O  |O  |O  |O  |O  |E  |E  |E  |O  |___
+___|O  |E  |E  |E  |___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___|E  |E  |E  |O  |___
+___|___|E  |E  |E  |___|___|O  |O  |___|___|___|___|___|___|O  |O  |___|___|E  |E  |E  |___|___
+___|___|E  |E  |E  |___|___|___|___|___|___|___|___|___|___|___|___|___|___|E  |E  |E  |___|___
+___|___|E  |E  |E  |___|___|___|___|___|___|___|___|___|___|___|___|___|___|E  |E  |E  |___|___
+___|___|E  |E  |E  |___|___|___|___|___|___|___|___|___|___|___|___|___|___|E  |E  |E  |___|___
+___|___|E  |E  |E  |___|___|___|___|___|___|___|___|___|___|___|___|___|___|E  |E  |E  |___|___
+___|___|E  |E  |E  |___|___|___|___|___|___|___|___|___|___|___|___|___|___|E  |E  |E  |___|___
+___|___|E  |E  |E  |O  |O  |___|___|___|___|___|___|___|___|___|___|O  |O  |E  |E  |E  |___|___
+___|___|E  |E  |E  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |E  |E  |E  |___|___
+___|O  |E  |E  |E  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |E  |E  |E  |O  |___
+___|O  |E  |E  |E  |O  |O  |O  |IO |IO |I  |I  |I  |I  |IO |IO |O  |O  |O  |E  |E  |E  |O  |___
+___|O  |E  |E  |E  |O  |O  |O  |IO |IO |I  |I  |I  |I  |IO |IO |O  |O  |O  |E  |E  |E  |O  |___
+___|O  |E  |E  |E  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |E  |E  |E  |O  |___
+___|___|E  |E  |E  |___|___|___|O  |O  |IO |IO |IO |IO |IO |O  |___|___|___|E  |E  |E  |___|___
+___|___|___|___|___|___|___|___|___|O  |O  |O  |O  |O  |IO |___|___|___|___|___|___|___|___|___

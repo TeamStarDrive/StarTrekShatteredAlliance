@@ -1,0 +1,28 @@
+﻿<SolarSystemData>
+  <Name>Klinzhai</Name>
+  <RingList>
+    <Ring>
+      <Planet>Qo'noS</Planet>
+      <SpecialDescription> Home planet of the Klingons. </SpecialDescription>
+      <WhichPlanet>25</WhichPlanet>
+      <HomePlanet>true</HomePlanet>
+      <Station>Yes</Station>
+	  <MaxPopDefined>25.0</MaxPopDefined>
+    </Ring>
+	<Ring>
+      <Asteroids>Yes</Asteroids>
+    </Ring>
+    <Ring>
+      <Planet>Praxis</Planet>
+      <WhichPlanet>25</WhichPlanet>
+    </Ring>
+	<Ring>
+      <Asteroids>Yes</Asteroids>
+    </Ring>
+	<Ring>
+      <Planet>Kobek</Planet>
+      <WhichPlanet>23</WhichPlanet>
+	  <HasRings>Yes</HasRings>
+    </Ring>
+  </RingList>
+</SolarSystemData>

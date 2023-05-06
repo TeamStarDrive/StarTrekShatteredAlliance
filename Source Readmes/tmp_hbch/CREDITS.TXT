@@ -1,0 +1,22 @@
+Name and Class of model:  Hydran Overlord Heavy Battlecruiser
+Original Modeler: Taldren
+Original Textures: Taldren
+Kitbash Modeler: Thu11s
+Kitbash Textures: Thu11s
+
+Steps to install
+----------------
+
+Unzip and into a folder called "hbch" and place in \Assets\Models\ . Then edit the shiplist.txt and change the BCH to point at the "HBCH" .mod. Enjoy
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+THIS PATCH IS NOT MADE, DISTRIBUTED, OR SUPPORTED BY INTERPLAY
+ TM & (C) INTERPLAY & PARAMOUNT PICTURES.
+
+Copyright notices: 
+
+Star Trek, Star Fleet Command, Star Trek: Deep Space Nine, Star Trek: The Next Generation,
+Star Trek: Voyager (and the various logo devices used in them) are copyright Paramount Pictures,
+as are the characters, related images, and sound from the productions. 

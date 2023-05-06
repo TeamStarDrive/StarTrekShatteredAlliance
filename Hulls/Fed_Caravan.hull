@@ -1,0 +1,37 @@
+Version=1
+HullName=Fed/Fed_Caravan
+VisibleName=Caravan Class
+Role=freighter
+Style=fed
+Size=8,23
+MeshOffset=0,8
+IconPath=ShipIcons/Fed_Caravan
+ModelPath=mod Model/Terran/Hunter/Fed_Caravan
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|I  |I  |___|___|___
+___|___|I  |I  |I  |I  |___|___
+___|___|I  |I  |I  |I  |___|___
+___|I  |I  |IO |IO |I  |I  |___
+___|I  |I  |IO |IO |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|___|___|I  |I  |___|___|___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |IC |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+E  |E  |___|E  |E  |___|E  |E  
+E  |E  |IO |E  |E  |IO |E  |E  
+E  |E  |IO |E  |E  |IO |E  |E  
+E  |E  |___|E  |E  |___|E  |E  
+E  |E  |___|E  |E  |___|E  |E  
+E  |E  |___|___|___|___|E  |E  
+E  |E  |___|___|___|___|E  |E  

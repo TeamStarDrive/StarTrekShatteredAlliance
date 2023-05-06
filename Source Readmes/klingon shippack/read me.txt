@@ -1,0 +1,168 @@
+This folder contains the Klingon mining freighter, cargoship, colonyship, assaultship, repairship and constructionship.
+
+
+The Klingon mining freighter and cargoshipy were intended for Zero Hour project, which was cancelled.
+
+For these items the following conditions apply:
+
+-------------------------
+Usage Policy
+-------------------------
+
+These files are sanctioned for reuse in other Armada II Modifications through free distribution. Such the distributor need not contact me directly, though they will at all times, without excuse include this complete ReadMe in such a re-released file / completion project.
+
+Unless specifically stated, these files are solely for Armada II use, and will not be converted to any other game, or for any other use without express permission. Conversion of these files is authorised only after acknowledgement by me.
+
+Unless otherwise stated, these files are exclusive to FileFront, and should not be hosted elsewhere.
+
+- Contact: ash87uk@sky.com
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Important Note:
+Make a backup of your existing files, because files in this folder will overwrite stock files!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Credits:
+
+As allways, thanks to Wrath of Achilles for his Texture Tutorial and Major A Payne for his SodTutorial. 
+
+Constructionship animation: apoclaydon/blade.
+
+All meshes, textures, etc are by me. 
+
+The ODF files are edited stock files.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Please note:
+
+I cannot be hold responsible for any damage or problems otherwise regarding this model. 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+You may use this ship in your mod, just give credit where its due. 
+
+THIS MATERIAL IS NOT MADE OR SUPPORTED BY ACTIVISION.
+
+Thank you for downloading.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Installation instructions
+
+Open the SOD folder -->
+
+Put the sod files into the sod folder of Armada II. When prompted to overwrite, click 'yes'. 
+
+Open the ODF folder -->
+
+Put the odf ship files into the odf ship folder of Armada II. When prompted to overwrite, click 'yes'. 
+
+Open the RGB folder -->
+
+put the tga into the texture RGB folder of Armada II. When prompted to overwrite, click 'yes'. 
+
+( I include the MS3D files for those who are interested.)
+
+Open the Bitmaps folder -->
+
+Open the Bitmaps folder of Armada II --> open Admiralslog --> open ShipImages and put the images there. When prompted to overwrite, click 'yes'.  
+**********************************************************
+
+****************************************
+Open Armada2 Sprites --> open gui_global
+
+find the lines:
+
+# Klingon wireframes
+
+@reference=256
+
+delete the following lines:
+
+kassaultw1			klingwireframe02	0	192	48	48		
+kassaultw2			klingwireframe02	48	192	48	48		
+kassaultw3			klingwireframe02	96	192	48	48		
+kassaultw4			klingwireframe02	144	192	48	48		
+kassaultw5			klingwireframe02	192	192	48	48
+
+kcargow1			klingwireframe03	0	48	48	48		
+kcargow2			klingwireframe03	48	48	48	48		
+kcargow3			klingwireframe03	96	48	48	48		
+kcargow4			klingwireframe03	144	48	48	48		
+kcargow5			klingwireframe03	192	48	48	48	
+
+kcolonyw1			klingwireframe03	0	96	48	48		
+kcolonyw2			klingwireframe03	48	96	48	48		
+kcolonyw3			klingwireframe03	96	96	48	48		
+kcolonyw4			klingwireframe03	144	96	48	48		
+kcolonyw5			klingwireframe03	192	96	48	48
+
+kconstw1			klingwireframe03	0	144	48	48		
+kconstw2			klingwireframe03	48	144	48	48		
+kconstw3			klingwireframe03	96	144	48	48		
+kconstw4			klingwireframe03	144	144	48	48		
+kconstw5			klingwireframe03	192	144	48	48
+
+kfreightw1			klingwireframe03	0	192	48	48		
+kfreightw2			klingwireframe03	48	192	48	48		
+kfreightw3			klingwireframe03	96	192	48	48		
+kfreightw4			klingwireframe03	144	192	48	48		
+kfreightw5			klingwireframe03	192	192	48	48
+
+ksrepairw1			klingwireframe04	0	0	48	48		
+ksrepairw2			klingwireframe04	48	0	48	48		
+ksrepairw3			klingwireframe04	96	0	48	48		
+ksrepairw4			klingwireframe04	144	0	48	48		
+ksrepairw5			klingwireframe04	192	0	48	48
+
+next:
+
+find the line:
+
+@reference=128 (if not present, just add the reference)
+
+add below that list:
+
+kfreightw1			wfkfreight		0	0	128	128
+
+kcargow1			wfkcargo		0	0	128	128
+
+kassaultw1			wfkassault		0	0	128	128
+
+kcolonyw1			wfkcolony		0	0	128	128
+
+kconstw1			wfkconst		0	0	128	128
+
+ksrepairw1			wfksrepair		0	0	128	128
+
+
+********************************************************************
+
+
+
+
+That should do it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+﻿<SolarSystemData>
+  <Name>Cardassia</Name>
+  <RingList>
+    <Ring>
+      <Planet>Cardassia I</Planet>
+      <SpecialDescription>Cardassia I is the innermost and smallest planet in the Cardassia system. This planet is not at all suitable for colonization.  </SpecialDescription>
+      <WhichPlanet>12</WhichPlanet>
+	  <HasRings>Yes</HasRings>
+    </Ring>
+    <Ring>
+      <Planet>Cardassia II</Planet>
+      <SpecialDescription>Cardassia II is covered with an opaque layer of clouds composed of sulfuric acid. Consequently, this planet is very ill-suited to colonization and has thus far been quite ignored by colonization efforts.  </SpecialDescription>
+      <WhichPlanet>12</WhichPlanet>
+    </Ring>
+	<Ring>
+      <Asteroids>Yes</Asteroids>
+    </Ring>
+    <Ring>
+      <Planet>Hutet</Planet>
+      <SpecialDescription>Hutet is a small M class planet ready for colonization.</SpecialDescription>
+      <WhichPlanet>25</WhichPlanet>  
+    </Ring>
+    <Ring>
+      <Planet>Cardassia Minor</Planet>
+      <SpecialDescription>Cardassia Minor is much like Cardassia Prime and is ready for colonization.</SpecialDescription>
+      <WhichPlanet>24</WhichPlanet>
+      <Population>0</Population>
+    </Ring>
+    <Ring>
+      <Planet>Cardassia Prime</Planet>
+      <SpecialDescription>Cardassia Prime is the birthplace of Cardassia and the home to many billions of people. Consequently, some of the finest Shipyards and Equipment manufacturers in the galaxy can be found in Cardassia Prime's Orbit. </SpecialDescription>
+      <WhichPlanet>25</WhichPlanet>
+	  <HomePlanet>true</HomePlanet>
+      <Station>Yes</Station>
+	  <MaxPopDefined>20.0</MaxPopDefined>
+    </Ring>
+    <Ring>
+      <Asteroids>Yes</Asteroids>
+    </Ring>
+  </RingList>
+</SolarSystemData>

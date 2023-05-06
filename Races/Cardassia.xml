@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmpireData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <PortraitName>Cardassia</PortraitName>
+  <MusicCue>sd_races_Terran</MusicCue>
+  <DiplomacyDialogPath>Cardassia</DiplomacyDialogPath>
+  <StartingShip>Kimal Class mk1</StartingShip>
+  <StartingScout>Cardassia scout mk1</StartingScout>
+  <PrototypeShip>Cardassia prototype</PrototypeShip>
+  <DefaultSmallTransport>Small Transport</DefaultSmallTransport>
+  <DefaultTroopShip>Human Troop</DefaultTroopShip>
+  <DefaultColonyShip>Colony Ship</DefaultColonyShip>
+  <DefaultConstructor>Terran Constructor</DefaultConstructor>
+  <DefaultAssaultShuttle>Terran Assault Shuttle</DefaultAssaultShuttle>
+  <DefaultSupplyShuttle>Terran-Supply</DefaultSupplyShuttle>
+  <DefaultResearchStation>Basic Research Station</DefaultResearchStation>
+  <ThrustColor0R>95</ThrustColor0R>
+  <ThrustColor0G>158</ThrustColor0G>
+  <ThrustColor0B>160</ThrustColor0B>
+  <ThrustColor1R>176</ThrustColor1R>
+  <ThrustColor1G>196</ThrustColor1G>
+  <ThrustColor1B>222</ThrustColor1B>
+  
+  <ExcludedDTraits>
+    <string>Pacifist</string>
+  </ExcludedDTraits>
+  
+  <!-- Rebel Faction data.-->
+  <RebelName>Confederate Rebels</RebelName>
+  <RebelSing>Confederate</RebelSing>
+  <RebelPlur>Confederates</RebelPlur>
+  <TroopNameIndex>2083</TroopNameIndex>
+  <TroopDescriptionIndex>2092</TroopDescriptionIndex>
+
+  <!-- Fertility multipliers for environments. The default is 1 in the code, but the tags are included here for reference -->
+  <EnvTerran>1</EnvTerran>
+  <EnvOceanic>1</EnvOceanic>
+  <EnvSteppe>1</EnvSteppe>
+  <EnvTundra>1</EnvTundra>
+  <EnvSwamp>1</EnvSwamp>
+  <EnvDesert>1</EnvDesert>
+  <EnvIce>1</EnvIce>
+  <EnvBarren>1</EnvBarren>
+  <PreferredEnv>Terran</PreferredEnv> <!-- Terraformers will terraform a planet to this environment -->
+  
+  <Traits>
+    <Name>Cardassia</Name>
+    <Singular>Cardasian</Singular>
+    <Plural>Cardasian</Plural>
+    <VideoPath>Cardassia</VideoPath>
+    <ShipType>Cardassia</ShipType>
+    <Adj1>smooth-skinned</Adj1>
+    <Adj2>simian</Adj2>
+    <HomeSystemName>Cardassia</HomeSystemName>
+    <HomeworldName>Cardassia Prime</HomeworldName>
+    <FlagIndex>8</FlagIndex>
+    <R>681</R>
+    <G>114</G>
+    <B>306</B>
+    <RaceDescription>add starfleet disc stuff.    </RaceDescription>
+    <PhysicalTraitAlluring>false</PhysicalTraitAlluring> 								<!--( 3)-->	
+	<PhysicalTraitRepulsive>false</PhysicalTraitRepulsive> 								<!--(-3)-->
+	<PhysicalTraitEagleEyed>false</PhysicalTraitEagleEyed> 								<!--( 2)-->
+	<PhysicalTraitBlind>false</PhysicalTraitBlind> 										<!--(-2)-->
+	<PhysicalTraitEfficientMetabolism>false</PhysicalTraitEfficientMetabolism> 			<!--( 3)-->
+	<PhysicalTraitGluttonous>false</PhysicalTraitGluttonous> 							<!--(-3)-->
+	<PhysicalTraitFertile>false</PhysicalTraitFertile> 									<!--( 3)-->
+	<PhysicalTraitLessFertile>false</PhysicalTraitLessFertile> 							<!--(-3)-->
+	<PhysicalTraitSmart>false</PhysicalTraitSmart> 										<!--( 3)-->
+	<PhysicalTraitDumb>false</PhysicalTraitDumb> 										<!--(-3)-->
+	<PhysicalTraitReflexes>false</PhysicalTraitReflexes> 								<!--( 3)-->
+	<PhysicalTraitPonderous>false</PhysicalTraitPonderous> 								<!--(-3)-->
+	<PhysicalTraitSavage>false</PhysicalTraitSavage> 									<!--( 2)-->
+	<PhysicalTraitTimid>true</PhysicalTraitTimid> 										<!--(-2)-->
+	<SociologicalTraitEfficient>false</SociologicalTraitEfficient> 						<!--( 4)-->
+	<SociologicalTraitWasteful>false</SociologicalTraitWasteful> 						<!--(-4)-->
+	<SociologicalTraitIndustrious>true</SociologicalTraitIndustrious> 					<!--( 3)-->
+	<SociologicalTraitLazy>false</SociologicalTraitLazy> 								<!--(-3)-->
+	<SociologicalTraitMercantile>false</SociologicalTraitMercantile> 					<!--( 3)-->
+	<SociologicalTraitMeticulous>false</SociologicalTraitMeticulous> 					<!--( 1)-->
+	<SociologicalTraitCorrupt>true</SociologicalTraitCorrupt> 							<!--(-1)-->
+	<SociologicalTraitSkilledEngineers>false</SociologicalTraitSkilledEngineers> 		<!--( 2)-->
+	<SociologicalTraitHaphazardEngineers>false</SociologicalTraitHaphazardEngineers> 	<!--(-2)-->
+	<HistoryTraitAstronomers>false</HistoryTraitAstronomers> 							<!--( 2)-->
+	<HistoryTraitCybernetic>false</HistoryTraitCybernetic> 								<!--( 7)-->
+	<HistoryTraitManifestDestiny>false</HistoryTraitManifestDestiny> 					<!--( 3)-->
+	<HistoryTraitMilitaristic>false</HistoryTraitMilitaristic> 							<!--( 4)-->
+	<HistoryTraitNavalTraditions>false</HistoryTraitNavalTraditions> 					<!--( 4)-->
+	<HistoryTraitPackMentality>false</HistoryTraitPackMentality> 						<!--( 2)-->
+	<HistoryTraitPrototypeFlagship>true</HistoryTraitPrototypeFlagship> 				<!--( 1)-->
+	<HistoryTraitSpiritual>false</HistoryTraitSpiritual> 								<!--( 2)-->
+	<HistoryTraitPollutedHomeWorld>false</HistoryTraitPollutedHomeWorld> 				<!--(-2)-->
+	<HistoryTraitIndustrializedHomeWorld>true</HistoryTraitIndustrializedHomeWorld> 	<!--( 1)-->
+	<HistoryTraitDuplicitous>true</HistoryTraitDuplicitous> 							<!--( 2)-->
+	<HistoryTraitHonest>false</HistoryTraitHonest> 										<!--(-2)-->
+	<HistoryTraitHugeHomeWorld>true</HistoryTraitHugeHomeWorld>			 			<!--( 3)-->
+	<HistoryTraitSmallHomeWorld>false</HistoryTraitSmallHomeWorld>						<!--(-3)-->
+  </Traits>
+  <Faction>0</Faction>
+</EmpireData>

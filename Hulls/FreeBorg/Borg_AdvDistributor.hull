@@ -1,0 +1,57 @@
+Version=1
+HullName=FreeBorg/Borg_AdvDistributor
+VisibleName=Advanced Collector
+Role=freighter
+Style=FreeBorg
+Size=6,43
+MeshOffset=0,-8
+IconPath=ShipIcons/Borg_AdvDistributor
+ModelPath=mod Model/FreeBorg/Borg_AdvDistributor
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+E  |E  |O  |O  |E  |E  
+E  |E  |I  |I  |E  |E  
+E  |E  |I  |I  |E  |E  
+E  |E  |I  |I  |E  |E  
+E  |E  |I  |I  |E  |E  
+E  |IO |I  |I  |IO |E  
+E  |IO |I  |I  |IO |E  
+E  |IO |I  |I  |IO |E  
+E  |IO |I  |I  |IO |E  
+E  |IO |I  |I  |IO |E  
+E  |IO |I  |I  |IO |E  
+E  |IO |I  |I  |IO |E  
+___|IO |I  |I  |IO |___
+___|IO |I  |I  |IO |___
+E  |I  |I  |I  |I  |E  
+E  |I  |I  |I  |I  |E  
+E  |I  |I  |I  |I  |E  
+E  |I  |I  |I  |I  |E  
+E  |I  |I  |I  |I  |E  
+E  |I  |I  |I  |I  |E  
+E  |I  |I  |I  |I  |E  
+E  |I  |I  |IC |I  |E  
+E  |I  |I  |I  |I  |E  
+E  |I  |I  |I  |I  |E  
+E  |I  |I  |I  |I  |E  
+E  |I  |I  |I  |I  |E  
+E  |I  |I  |I  |I  |E  
+E  |I  |I  |I  |I  |E  
+___|IO |I  |I  |IO |___
+___|IO |I  |I  |IO |___
+___|IO |I  |I  |IO |___
+E  |IO |I  |I  |IO |E  
+E  |IO |I  |I  |IO |E  
+E  |IO |I  |I  |IO |E  
+E  |IO |I  |I  |IO |E  
+E  |IO |I  |I  |IO |E  
+E  |IO |I  |I  |IO |E  
+E  |E  |I  |I  |E  |E  
+E  |E  |I  |I  |E  |E  
+E  |E  |I  |I  |E  |E  
+E  |E  |I  |I  |E  |E  
+E  |E  |I  |I  |E  |E  
+O  |O  |O  |O  |O  |O  

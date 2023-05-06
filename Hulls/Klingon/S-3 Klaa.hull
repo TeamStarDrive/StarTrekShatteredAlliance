@@ -1,0 +1,30 @@
+Version=1
+HullName=Klingon/S-3 Klaa
+VisibleName=S-3 Klaa
+Role=station
+Style=Klingon
+Size=18,16
+MeshOffset=0,8
+IconPath=ShipIcons/Kling_Small_Turret
+ModelPath=mod Model/Klingon/Kling_Small_Turret
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|IO |IO |IO |IO |IO |IO |IO |IO |___|___|___|___|___
+___|___|___|___|IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |___|___|___|___
+___|___|___|___|IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |___|___|___|___
+___|___|___|___|IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |___|___|___|___
+___|___|___|___|___|IO |IO |IO |IO |IO |IO |IO |IO  |___|___|___|___|___
+___|___|___|___|___|___|IO |IO |IO |IO |IO |IO |___|___|___|___|___|___
+___|___|___|___|___|IO |IO |IO |IO |IO |IO |IO |IO |___|___|___|___|___
+___|___|___|___|___|IO |IO |IO |IO |IO |IO |IO |IO |___|___|___|___|___
+___|___|___|___|IO |IO |IO |IO |IO |IOC|IO |IO |IO  |IO |___|___|___|___
+IO |IO |___|___|IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |___|___|IO |IO 
+IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO 
+IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO 
+IO |IO |IO |IO |IO |___|IO |IO |IO |IO |IO |IO |___|IO |IO |IO |IO |IO 
+___|IO |IO |IO |IO |___|___|___|IO |IO |___|___|___|IO |IO |IO |IO |___
+___|IO |IO |IO |IO |IO |___|___|___|___|___|___|IO |IO |IO |IO |IO |___
+___|___|IO |IO |IO |IO |___|___|___|___|___|___|IO |IO |IO |IO |___|___

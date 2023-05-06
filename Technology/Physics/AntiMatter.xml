@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>AntiMatter</UID>
+  <TechnologyType>ShipGeneral</TechnologyType>
+  <Cost>2500</Cost>
+  <NameIndex>513</NameIndex>
+  <DescriptionIndex>514</DescriptionIndex>
+  <LeadsTo />
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>warpcore_2x2</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>AntiMatterReactor</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

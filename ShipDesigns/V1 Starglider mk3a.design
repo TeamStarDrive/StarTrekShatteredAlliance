@@ -1,0 +1,62 @@
+Version=1
+Name=V1 Starglider mk3a
+Hull=Romulan/V1 Starglider
+Role=frigate
+ModName=trek ships
+Style=Romulan
+Size=12,10
+GridCenter=6,5
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=CombatEngine_2x1;CompositeAlloys Small;Fighter Shield;LaserCannon;Shield_1KW;torpedo mk2;TorpedoBay_2x1;warpcore_2x2;romulan disrupter cannon;Cockpit;EnergyPDRapid
+Modules=44
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0;1,2;90;2
+10,0;0;1,2;270;1
+0,2;1
+1,2;0;1,2;90;2
+2,2;1
+4,2;1
+5,2;1
+6,2;1
+7,2;1
+9,2;1
+10,2;0;1,2;270;1
+11,2;1
+0,3;1
+2,3;2
+3,3;1
+4,3;3
+5,3;4;2,2
+7,3;3
+8,3;1
+9,3;2
+11,3;1
+0,4;1
+1,4;0;1,2;90;2
+2,4;2
+3,4;5;2,4
+7,4;6;2,1
+9,4;2
+10,4;0;1,2;270;1
+11,4;1
+0,5;1
+2,5;0;1,2;90;2
+5,5;7;2,2
+7,5;8;2,2
+9,5;0;1,2;270;1
+11,5;1
+1,6;0;1,2;90;2
+10,6;0;1,2;270;1
+5,7;9
+6,7;9
+7,7;3
+8,7;1
+4,8;1
+5,8;10;2,2
+7,8;1

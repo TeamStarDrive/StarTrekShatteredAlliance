@@ -1,0 +1,77 @@
+# global BlackBox game settings, see GamePlayGlobals.cs for more info
+# mods will inherit these values as defaults
+Globals:
+  # game start settings
+  MaxOpponents: 13
+  DefaultNumOpponents: 4
+  TurnTimer: 5 # default time in seconds for a single turn
+
+  # gameplay modifiers
+  ShipDestroyThreshold: 0.4 # ships with internal slots below this ratio will Die
+  RemnantDesignStrMultiplier: 4
+  CostBasedOnSizeThreshold: 3000
+  HangarCombatShipCostMultiplier: 2
+  RequiredExpansionPopRatio: 0.3 # required empire pop ratio before expansion is considered
+  ShipyardBonus: 0.25 # default 0.25, this also improves repair rate
+  CustomMineralDecay: 1 # default 1
+  VolcanicActivity: 1 # default 1
+  GravityWellRange: 8000 # sets the default gravity well range, 0 means disabled
+  StartingPlanetRichnessBonus: 1 # bonus richness for empire capitals (default is 1 for richness of 2)
+  ShipMaintenanceMultiplier: 1 # default 1
+  ResearchStationProductionPerResearch: 1.5 # default 1.5
+  RushCostPercentage: 1 # default 1, How much rushing costs in percentage of production cost
+  MinAcceptableShipWarpRange: 600000 # minimum ship warp range which is accepted as good
+  BaseShipyardRepair: 100.0 # base amount of ship repair per turn from planetary buildings
+  BonusRepairPerColonyLevel: 0.5 # +bonus based on colony level, 0.2 would be +20% increase per level
+  InCombatRepairModifier: 0.1 # repair rate modifier when a ship or planet is in combat
+  BaseSelfRepair: 1.0 # base repair rate multiplier from ship command/engineering modules
+  BonusRepairPerCrewLevel: 0.2 # +bonus rate based on crew level, 0.2 would be +20% increase per each crew level
+  InCombatSelfRepairModifier: 0 # repair rate modifier for command/engineering self repair when in combat  
+
+  # feature flags
+  DisableShipPicker: true
+  ChangeResearchCostBasedOnSize: true
+  DisplayEnvPreferenceInRaceDesign: true
+  EnableShipTechLineFocusing: true
+  UseHullBonuses: false
+  UseDestroyers: false
+  EnableECM: false
+  UseCombatRepair: false
+  UsePlanetaryProjection: false
+  DisableRemnantStory: false
+  DisablePirates: false
+  AIUsesPlayerDesigns: false
+
+  # visuals modifiers
+  SpaceportScale: 0.5
+  ExplosionVisualIncreaser: 1 # default: 1
+  ShipExplosionVisualIncreaser: 1 # default: 1
+  ModuleDamageVisualIntensity: 1 # default: 1
+
+  # misc settings
+  CustomMenuMusic: ""
+  # In case an event building has defense drones and drones are not researched
+  DefaultEventDrone: "Xeno Fighter"
+  ResearchRootUIDToDisplay: "Colonization"
+
+  # Urls for accessing auto-updater, should be changed for mods, if unused, set to ""
+  URL: ""
+  DownloadSite: ""
+
+  # mod information
+  Mod:
+    Name: "Star Trek"
+    Version: "v2.5c"
+    SupportedBlackBoxVersions: "develop,mars-1.41"
+    IconPath: mod_icon.png
+    Description: "5 STARTREK RACES THEIR SHIPS AND WEAPONS."
+    Author: "Threepwood and tbh mostly The StarDrive+ Team"
+    UseVanillaShips: true
+    UseVanillaTechs: true
+    UseVanillaModules: true
+    UseVanillaWeapons: true
+    UseVanillaBuildings: true
+    UseVanillaRaces: true
+
+    # TODO: DEPRECATED FLAG leaving here for compatibility, duplicates `UseVanillaTechs` and can be removed eventually
+    ClearVanillaTechs: false

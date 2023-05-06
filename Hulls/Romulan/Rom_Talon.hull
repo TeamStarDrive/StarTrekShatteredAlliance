@@ -1,0 +1,22 @@
+Version=1
+HullName=Romulan/Rom_Talon
+VisibleName=Talon Class
+Role=fighter
+Style=Romulan
+Size=8,8
+MeshOffset=0,0
+IconPath=ShipIcons/Rom_Talon
+ModelPath=mod Model/Romulan/Rom_Talon
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|O  |O  |___|___|___
+___|___|___|IO |IO |___|___|___
+E  |___|___|IO |IO |___|___|E  
+E  |O  |___|IO |IO |___|O  |E  
+E  |IO |IO |I  |IC |IO |IO |E  
+E  |IO |IO |I  |I  |IO |IO |E  
+E  |___|O  |I  |I  |O  |___|E  
+___|___|___|IO |IO |___|___|___

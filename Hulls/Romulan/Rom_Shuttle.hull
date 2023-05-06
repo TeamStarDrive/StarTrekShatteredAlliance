@@ -1,0 +1,19 @@
+Version=1
+HullName=Romulan/Rom_Shuttle
+VisibleName=Kestrel Class
+Role=scout
+Style=Romulan
+Size=4,5
+MeshOffset=0,-8
+IconPath=ShipIcons/Rom_Shuttle
+ModelPath=mod Model/Romulan/Rom_Shuttle
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|O  |O  |___
+___|IO |IO |___
+E  |I  |IC |E  
+E  |IO |IO |E  
+E  |___|___|E  

@@ -1,0 +1,44 @@
+Version=1
+HullName=Klingon/Kling_TekEt
+VisibleName=Tek'Et Class
+Role=freighter
+Style=Klingon
+Size=12,30
+MeshOffset=0,0
+IconPath=ShipIcons/Kling_TekEt
+ModelPath=mod Model/Klingon/Kling_TekEt
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|IO |IO |___|___|___|___|___
+___|___|___|___|___|IO |IO |___|___|___|___|___
+___|___|___|E  |___|IO |IO |___|E  |___|___|___
+___|___|___|E  |IO |IO |IO |IO |E  |___|___|___
+___|___|___|E  |IO |IO |IO |IO |E  |___|___|___
+___|___|___|E  |IO |IO |IO |IO |E  |___|___|___
+E  |E  |___|E  |IO |IO |IO |IO |E  |___|E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |___|I  |I  |I  |I  |I  |I  |___|E  |E  
+E  |E  |___|I  |I  |I  |I  |I  |I  |___|E  |E  
+___|___|___|I  |I  |I  |I  |I  |I  |___|___|___
+___|___|___|I  |I  |IC |I  |I  |I  |___|___|___
+___|___|I  |I  |I  |E  |E  |I  |I  |I  |___|___
+___|I  |I  |I  |I  |E  |E  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |E  |E  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |E  |E  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |E  |E  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |E  |E  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |E  |E  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |E  |E  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |E  |E  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |E  |E  |I  |I  |I  |I  |___
+___|I  |I  |E  |E  |E  |E  |E  |E  |I  |I  |___
+___|I  |I  |E  |E  |E  |E  |E  |E  |I  |I  |___
+___|I  |I  |E  |E  |E  |E  |E  |E  |I  |I  |___
+___|I  |I  |E  |E  |E  |E  |E  |E  |I  |I  |___
+___|I  |I  |E  |E  |E  |E  |E  |E  |I  |I  |___
+___|___|___|E  |E  |___|___|E  |E  |___|___|___

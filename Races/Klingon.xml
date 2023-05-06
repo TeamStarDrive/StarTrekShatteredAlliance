@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmpireData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <PortraitName>Klingon</PortraitName>
+  <MusicCue>sd_races_Terran</MusicCue>
+  <DiplomacyDialogPath>Klingon</DiplomacyDialogPath>
+  <StartingShip>V11 Stormbird mk1</StartingShip>
+  <StartingScout>Klingon Scout</StartingScout>
+  <PrototypeShip>Klingon_Prototype</PrototypeShip>
+  <DefaultSmallTransport>Small Transport</DefaultSmallTransport>
+  <DefaultTroopShip>Human Troop</DefaultTroopShip>
+  <DefaultColonyShip>Colony Ship</DefaultColonyShip>
+  <DefaultConstructor>Terran Constructor</DefaultConstructor>
+  <DefaultAssaultShuttle>Terran Assault Shuttle</DefaultAssaultShuttle>
+  <DefaultSupplyShuttle>Terran-Supply</DefaultSupplyShuttle>
+  <DefaultResearchStation>Basic Research Station</DefaultResearchStation>
+  <ThrustColor0R>95</ThrustColor0R>
+  <ThrustColor0G>158</ThrustColor0G>
+  <ThrustColor0B>160</ThrustColor0B>
+  <ThrustColor1R>176</ThrustColor1R>
+  <ThrustColor1G>196</ThrustColor1G>
+  <ThrustColor1B>222</ThrustColor1B>
+  
+  <ExcludedDTraits>
+    <string>Pacifist</string>
+  </ExcludedDTraits>
+  
+  <!-- Rebel Faction data.-->
+  <RebelName>Confederate Rebels</RebelName>
+  <RebelSing>Confederate</RebelSing>
+  <RebelPlur>Confederates</RebelPlur>
+  <TroopNameIndex>2083</TroopNameIndex>
+  <TroopDescriptionIndex>2092</TroopDescriptionIndex>
+
+  <!-- Fertility multipliers for environments. The default is 1 in the code, but the tags are included here for reference -->
+  <EnvTerran>1</EnvTerran>
+  <EnvOceanic>1</EnvOceanic>
+  <EnvSteppe>1</EnvSteppe>
+  <EnvTundra>1</EnvTundra>
+  <EnvSwamp>1</EnvSwamp>
+  <EnvDesert>1</EnvDesert>
+  <EnvIce>1</EnvIce>
+  <EnvBarren>1</EnvBarren>
+  <PreferredEnv>Terran</PreferredEnv> <!-- Terraformers will terraform a planet to this environment -->
+  
+  <Traits>
+    <Name>Klingons</Name>
+    <Singular>Klingon</Singular>
+    <Plural>klingons</Plural>
+    <VideoPath>Klingon</VideoPath>
+    <ShipType>Klingon</ShipType>
+    <Adj1>smooth-skinned</Adj1>
+    <Adj2>simian</Adj2>
+    <HomeSystemName>Klinzhai</HomeSystemName>
+    <HomeworldName>Qo'noS</HomeworldName>
+    <FlagIndex>6</FlagIndex>
+    <R>606</R>
+    <G>304</G>
+    <B>503</B>
+    <RaceDescription>add starfleet disc stuff.    </RaceDescription>
+    <PhysicalTraitAlluring>false</PhysicalTraitAlluring> 								<!--( 3)-->	
+	<PhysicalTraitRepulsive>true</PhysicalTraitRepulsive> 								<!--(-3)-->
+	<PhysicalTraitEagleEyed>false</PhysicalTraitEagleEyed> 								<!--( 2)-->
+	<PhysicalTraitBlind>false</PhysicalTraitBlind> 										<!--(-2)-->
+	<PhysicalTraitEfficientMetabolism>true</PhysicalTraitEfficientMetabolism> 			<!--( 3)-->
+	<PhysicalTraitGluttonous>false</PhysicalTraitGluttonous> 							<!--(-3)-->
+	<PhysicalTraitFertile>false</PhysicalTraitFertile> 									<!--( 3)-->
+	<PhysicalTraitLessFertile>false</PhysicalTraitLessFertile> 							<!--(-3)-->
+	<PhysicalTraitSmart>false</PhysicalTraitSmart> 										<!--( 3)-->
+	<PhysicalTraitDumb>false</PhysicalTraitDumb> 										<!--(-3)-->
+	<PhysicalTraitReflexes>true</PhysicalTraitReflexes> 								<!--( 3)-->
+	<PhysicalTraitPonderous>false</PhysicalTraitPonderous> 								<!--(-3)-->
+	<PhysicalTraitSavage>true</PhysicalTraitSavage> 									<!--( 2)-->
+	<PhysicalTraitTimid>false</PhysicalTraitTimid> 										<!--(-2)-->
+	<SociologicalTraitEfficient>false</SociologicalTraitEfficient> 						<!--( 4)-->
+	<SociologicalTraitWasteful>false</SociologicalTraitWasteful> 						<!--(-4)-->
+	<SociologicalTraitIndustrious>false</SociologicalTraitIndustrious> 					<!--( 3)-->
+	<SociologicalTraitLazy>false</SociologicalTraitLazy> 								<!--(-3)-->
+	<SociologicalTraitMercantile>false</SociologicalTraitMercantile> 					<!--( 3)-->
+	<SociologicalTraitMeticulous>false</SociologicalTraitMeticulous> 					<!--( 1)-->
+	<SociologicalTraitCorrupt>false</SociologicalTraitCorrupt> 							<!--(-1)-->
+	<SociologicalTraitSkilledEngineers>false</SociologicalTraitSkilledEngineers> 		<!--( 2)-->
+	<SociologicalTraitHaphazardEngineers>true</SociologicalTraitHaphazardEngineers> 	<!--(-2)-->
+	<HistoryTraitAstronomers>false</HistoryTraitAstronomers> 							<!--( 2)-->
+	<HistoryTraitCybernetic>false</HistoryTraitCybernetic> 								<!--( 7)-->
+	<HistoryTraitManifestDestiny>false</HistoryTraitManifestDestiny> 					<!--( 3)-->
+	<HistoryTraitMilitaristic>true</HistoryTraitMilitaristic> 							<!--( 4)-->
+	<HistoryTraitNavalTraditions>true</HistoryTraitNavalTraditions> 					<!--( 4)-->
+	<HistoryTraitPackMentality>false</HistoryTraitPackMentality> 						<!--( 2)-->
+	<HistoryTraitPrototypeFlagship>true</HistoryTraitPrototypeFlagship> 				<!--( 1)-->
+	<HistoryTraitSpiritual>false</HistoryTraitSpiritual> 								<!--( 2)-->
+	<HistoryTraitPollutedHomeWorld>true</HistoryTraitPollutedHomeWorld> 				<!--(-2)-->
+	<HistoryTraitIndustrializedHomeWorld>true</HistoryTraitIndustrializedHomeWorld> 	<!--( 1)-->
+	<HistoryTraitDuplicitous>false</HistoryTraitDuplicitous> 							<!--( 2)-->
+	<HistoryTraitHonest>false</HistoryTraitHonest> 										<!--(-2)-->
+	<HistoryTraitHugeHomeWorld>false</HistoryTraitHugeHomeWorld>			 			<!--( 3)-->
+	<HistoryTraitSmallHomeWorld>false</HistoryTraitSmallHomeWorld>						<!--(-3)-->
+  </Traits>
+  <Faction>0</Faction>
+</EmpireData>

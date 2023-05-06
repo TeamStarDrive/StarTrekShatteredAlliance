@@ -1,0 +1,24 @@
+Version=1
+HullName=Klingon/Kling_Raptor
+VisibleName=D1 Raptor
+Role=fighter
+Style=Klingon
+Size=8,10
+MeshOffset=0,0
+IconPath=ShipIcons/Kling_Raptor
+ModelPath=mod Model/Klingon/Kling_Raptor
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|O  |O  |___|___|___
+___|___|___|O  |O  |___|___|___
+___|___|___|O  |O  |___|___|___
+___|___|___|O  |O  |___|___|___
+___|___|___|O  |O  |___|___|___
+E  |___|___|O  |OC |___|___|E  
+E  |___|___|IO |IO |___|___|E  
+E  |IO |I  |I  |I  |I  |IO |E  
+E  |IO |I  |I  |I  |I  |IO |E  
+E  |___|___|E  |E  |___|___|E  

@@ -1,0 +1,19 @@
+Version=1
+HullName=Cardassia/Car_Peltast
+VisibleName=Peltast Class
+Role=scout
+Style=Cardassia
+Size=4,5
+MeshOffset=0,-8
+IconPath=ShipIcons/Car_Peltast
+ModelPath=mod Model/Cardassia/Car_Peltast
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|O  |O  |___
+O  |I  |I  |O  
+___|I  |IC |___
+___|E  |E  |___
+___|E  |E  |___

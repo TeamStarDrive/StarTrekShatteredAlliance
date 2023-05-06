@@ -1,0 +1,27 @@
+Version=1
+Name=Kestrel Class mk2
+Hull=Romulan/Rom_Shuttle
+Role=scout
+ModName=trek ships
+Style=Romulan
+Size=4,5
+GridCenter=2,2
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=romulan disrupter cannon;WarpEngine_1x1;Fighter Shield;NuclearReactorSmall;CombatEngine_2x1;Cockpit
+Modules=9
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0;2,2
+0,2;1
+1,2;2
+2,2;3
+3,2;1
+0,3;4;1,2;90;2
+1,3;3
+2,3;5
+3,3;4;1,2;270;1

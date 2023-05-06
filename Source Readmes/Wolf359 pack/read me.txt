@@ -1,0 +1,116 @@
+Wolf 359 pack by Aad Moerman
+
+The 3 models in this pack were originally intended for Zero Hour, but couldn't be used. The models were rebuild from scratch, as the originals were far to high in polycount. 
+I've edited the textures in some ways.
+ 
+As allways, thanks to Wrath of Achilles for his Texture Tutorial and Major A Payne for his SodTutorial. 
+
+
+Credits:
+
+Original textures : LC Amaral
+
+Shipnames: captmaxwell
+
+Please note:
+I cannot be hold responsible for any damage or problems otherwise regarding this model. 
+
+
+You may use this ship in your mod, just give credit where its do. 
+
+
+Enjoy!!
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+The Cheyenne class was designed by Starfleet as a fast cruiser-scout. Her armament is limited to phasers as her hullspace was limited.
+Units of the New Orleans class mainly served as a testbed for torpedolaunching systems and is therefore armed with special torpedo bays.
+The unusual silhouette of the Springfield Class was designed to combine the power of a cruiser with transportcapabilities. 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Installation instructions
+
+Open the sod folder
+copy the 3 sod files into the Armada 2 sod folder.
+
+Open the odf folder
+copy the 3 odf files into the Armada 2 odf ship folder. 
+
+Open the texture folder
+copy the tga into the Armada 2 texture RGB folder. 
+
+Open the bitmaps folder
+copy the bitmaps images
+Open Armada 2 Bitmaps folder --> open Admiralslog --> open ShipImages and paste the images in here. 
+
+( I include the MS3D files for those who are interested.)
+
+****************************************
+Open techtree file
+
+Open
+tech1
+
+under Federation ships add:
+
+fcheyen.odf   1 fyard.odf            	    	    // cruiser (Cheyenne class)
+fnewor.odf    1 fyard.odf			    // cruiser (New Orleans class)
+fspring.odf   1 fyard.odf			    // cruiser (Springfield class)
+
+***************************************
+Open
+fulltech
+
+add under Federation:
+
+fcheyen.odf   0
+fnewor.odf    0
+fspring.odf   0
+
+
+****************************************
+
+Open Sprites --> open gui_global
+find:
+ 
+# Federation build buttons
+@reference=64
+
+add below that list:
+
+b_fcheyen			gbfcheyen		0	0	64	64
+b_fnewor			gbfnewor		0	0	64	64
+b_fspring			gbfspring		0	0	64	64
+
+find:
+
+# Federation wireframes
+@reference=128 (if not present, just add the reference)
+
+add below that list:
+
+fcheyenw1			wffcheyen		0	0	128	128
+fneworw1			wffnewor		0	0	128	128
+fspringw1			wffspring		0	0	128	128
+
+********************************************************************
+
+Open ODF-folder --> open station folder
+open fyard
+
+add under the list of builditems
+
+buildItemXx = "fcheyen" ( The X stands for the next number on the list)
+buildItemXx = "fnewor" ( The X stands for the next number on the list)
+buildItemXx = "fspring" ( The X stands for the next number on the list)
+
+*******************************************************************
+
+That's it!
+
+
+
+
+
+

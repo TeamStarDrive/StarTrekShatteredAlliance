@@ -1,0 +1,109 @@
+Qeh'Ral Class battleship by Aad Moerman
+
+The Qeh'Ral Class has always been on of my favourites. This file contains a complete new model with new textures.
+
+Important Note:
+Make a backup of your existing files, because most files in this folder will overwrite the stock files!
+
+I edited the ODF files and changed the armament somewhat.
+
+I hane also added 2 extra hardpoints:
+
+hardpoint "hp32" is placed at the front, just below the lower bridge structure.
+hardpoint "hp33" is placed at the rear, on top of the main hull at the small hangardoor.
+
+Credits:
+
+As allways, thanks to Wrath of Achilles for his Texture Tutorial and Major A Payne for his SodTutorial. 
+
+All meshes, textures, etc are by me. 
+
+The Odf files are edited stock files.
+
+Please note:
+I cannot be hold responsible for any damage or problems otherwise regarding this model. 
+
+
+You may use this ship in your mod, just give credit where its do. 
+
+
+Thank you for downloading.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Installation instructions
+
+Open the Qeh'Ral folder
+
+Put the sod files into the sod folder of Armada II. 
+
+Put the odf files into the odf ship folder of Armada II.  
+
+Put the tga into the texture RGB folder of Armada II.  
+( I include the MS3D files for those who are interested.)
+
+Open the Bitmaps folder of Armada II --> open Admiralslog --> open ShipImages and put the images there. 
+
+**************************************
+
+*****************************************************
+
+Open Sprites --> open gui_global
+find:
+ 
+# Klingon build buttons
+@reference=64
+
+add below that list:
+
+b_kbattle2				gbkbattle2			0	0	64	64
+
+next:
+
+find the lines:
+
+# Klingon wireframes
+@reference=256
+
+delete the following lines:
+
+kbattle2w1			klingwireframe01	0	48	48	48		
+kbattle2w2			klingwireframe01	48	48	48	48		
+kbattle2w3			klingwireframe01	96	48	48	48		
+kbattle2w4			klingwireframe01	144	48	48	48		
+kbattle2w5			klingwireframe01	192	48	48	48	
+
+and:
+
+kbektaw1			klingwireframe04	0	96	48	48		
+kbektaw2			klingwireframe04	48	96	48	48		
+kbektaw3			klingwireframe04	96	96	48	48		
+kbektaw4			klingwireframe04	144	96	48	48		
+kbektaw5			klingwireframe04	192	96	48	48
+
+Then
+
+find:
+
+# Klingon wireframes
+@reference=128 (if not present, just add the reference)
+
+add below that list:
+
+kbattle2w1				wfkbattle2			0	0	128	128
+kbektaw1				wfkbekta			0	0	128	128
+
+
+********************************************************************
+********************************************************************
+
+
+
+
+That's it!
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+Version=1
+HullName=Romulan/Rom_V8Warbird
+VisibleName=V8 Warbird
+Role=corvette
+Style=Romulan
+Size=12,9
+MeshOffset=0,-24
+IconPath=ShipIcons/Rom_V8Warbird
+ModelPath=mod Model/Romulan/Rom_V8Warbird
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+E  |___|___|___|___|O  |O  |___|___|___|___|E  
+E  |___|___|___|O  |O  |O  |O  |___|___|___|E  
+E  |O  |___|O  |IO |IO |IO |IO |O  |___|O  |E  
+E  |O  |O  |O  |I  |I  |IC |I  |O  |O  |O  |E  
+E  |O  |O  |O  |I  |I  |I  |I  |O  |O  |O  |E  
+E  |___|O  |O  |IO |I  |I  |IO |O  |O  |___|E  
+E  |___|___|O  |IO |IO |IO |IO |O  |___|___|E  
+___|___|___|___|IO |IO |IO |IO |___|___|___|___
+___|___|___|___|O  |E  |E  |O  |___|___|___|___

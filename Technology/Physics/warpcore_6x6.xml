@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>warpcore_6x6</UID>
+  <TechnologyType>ShipGeneral</TechnologyType>
+  <Cost>5000</Cost>
+  <NameIndex>18292</NameIndex>
+  <DescriptionIndex>18293</DescriptionIndex>
+  <LeadsTo />
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>warpcore_6x6</ModuleUID>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>warpcore_5x5</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

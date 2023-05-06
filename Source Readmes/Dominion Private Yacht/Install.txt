@@ -1,0 +1,77 @@
+The Dominion latest Jem'Hadar creation of their ships:  The Founder's Private Yacht.  This ship 
+is exclusively for the founder's traveling & safety purposes on special surveillance mission. Heavily 
+shielded/armor plating hull and fast moving craft with basic phasers, torpedoes, pulse phasers 
+and phase-cloaking system.
+
+
+'Founder's Private Yacht' class ship installation:
+
+1.Copy any .SOD files into the SOD directory.
+
+2.Copy any .tga files into the Textures\RGB directory.
+
+3.Copy sprite.spr(*) & weapon.spr(*) files into the sprites directory.
+
+4.Copy dcruise5.odf file into the odf\ships directory.
+
+5.Copy dmpcloak & dmpcloakd.odf files into the odf\special weapons directory.
+
+6.Copy any .bmp into bitmaps\AdmiralsLog\ShipImages directory.
+
+7.Copy ed-comb.odf file into odf\other directory.
+
+7.Copy events.dat file into Star Trek Armada2 Main Directory.
+
+
+
+EDITING the techtree.tt files:
+
+1. Open your tech1.tt file and add this to the 'Dominion Ships' list:
+
+    dcruise5.odf  4 dyard2.odf dresear2.odf dupgrade.odf zsuperbl.odf    // cruiser5 (founder's yacht)
+ 
+2. Open your fulltech.tt file and add this to Dominion section list:
+
+    dcruise5.odf 0
+
+3. Open your earlytech.tt file and add this to the 'Dominion Ships'  list:
+
+    dcruise5.odf  4 dyard2.odf dresear2.odf dupgrade.odf zsuperbl.odf    // cruiser5 (founder's yacht)
+
+4. Go to your 'dsuperbl.odf' folder and add the ship to the station's build list:
+
+    buildItemXX = "dcruise5"
+
+    (where 'XX' is the next number of item to be built)
+
+
+
+
+CREDITS:
+
+STGamerNew2002(me)
+MESH AND SOD: LeOmAn
+TEXTURE: LeOmAn
+BORG Texture: Lt_Commander(GREAT job he done!)
+kahless2369
+Iggy
+
+And the list of other people/modders who helped me make this mod are the same from the 
+'Dominion Ultimate 1.1'.  So I'll save the space here to list them, but THANK & APPRECIATE 
+their help fully(for they KNOW who they are)!  If you really want to know who are they, 
+just look at the README/Install text from the previous Dominion mod to get their names/credits. 
+:-)   I would also like to give a personal KUDOS to 'Lt_Commander' for really helping me out 
+with the BORG TEXTURE.  He done a GREAT job of it and I say for anyone who needs any kind 
+of TEXTURE assistance, you can count on his help fully! ;-)  
+Thanks again, Lt._Commander(I may need your help again oneday soon)!
+
+
+'*' - If you DON'T want your own personal files to be altered in anyway, 
+I STRONGELY suggest you BACK-UP your files BEFORE installing the mod!  
+I will not be HELD responsible for ANY UNEXAMPLAINED CRASHES/PROBLEMS to your computer, 
+so take your OWN RISK here!  If you have good EDITING skills, then I suggest to COPY the 
+files here in a seperate folder and do your own editing as you please.  
+If you need any kind of info of my mod, please email me at: zion2001@optonline.net 
+and I'll do my BEST to help out.   Again thanks for using my mod and credit me/anyone 
+when using the mods.  "Victory is Life!"
+

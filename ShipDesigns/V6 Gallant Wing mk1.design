@@ -1,0 +1,55 @@
+Version=1
+Name=V6 Gallant Wing mk1
+Hull=Romulan/Rom_V6GallantWing
+Role=frigate
+ModName=trek ships
+Style=Romulan
+Size=10,7
+GridCenter=5,4
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=SteelArmorSmall;LaserTurret;BasicFuelCell;Fighter Shield;Engine;Beam1x2;Cockpit;NuclearReactorMed;WarpEngine_1x1;PowerConduit;NuclearReactorSmall;Maneuvering_Thruster_1x1
+Modules=37
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+4,0;0
+5,0;0
+3,1;0
+4,1;1;2,2
+6,1;0
+2,2;0
+3,2;2
+6,2;3
+7,2;0
+0,3;4
+1,3;5;1,2
+2,3;3
+3,3;6
+4,3;7;2,2
+6,3;2
+7,3;3
+8,3;2
+9,3;4
+0,4;8
+2,4;9
+3,4;10
+6,4;10
+7,4;9
+8,4;2
+9,4;4
+0,5;8
+1,5;11
+2,5;9
+3,5;0
+4,5;0
+5,5;0
+6,5;0
+7,5;9
+8,5;11
+9,5;8
+0,6;4
+9,6;4

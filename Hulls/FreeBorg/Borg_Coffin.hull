@@ -1,0 +1,37 @@
+Version=1
+HullName=FreeBorg/Borg_Coffin
+VisibleName=Coffin
+Role=frigate
+Style=FreeBorg
+Size=12,23
+MeshOffset=0,-8
+IconPath=ShipIcons/Borg_Coffin
+ModelPath=mod Model/FreeBorg/Borg_Coffin
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO 
+IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO 
+IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO 
+IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO 
+IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO 
+IO |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |IO 
+IO |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |IO 
+___|IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |___
+___|IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |___
+___|IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |___
+___|IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |___
+___|IO |IO |IO |I  |I  |IC |I  |IO |IO |IO |___
+___|IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |___
+IO |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |IO 
+IO |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |IO 
+IO |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |IO 
+IO |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |IO 
+IO |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |IO 
+IO |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |IO 
+IO |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |IO 
+IO |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |IO 
+___|E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |___
+___|E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |___

@@ -1,0 +1,41 @@
+Version=1
+HullName=Terran/Fed_Constellation
+VisibleName=Constellation Class
+Role=frigate
+Style=Terran
+Size=14,27
+MeshOffset=0,24
+IconPath=ShipIcons/Fed_Constellation.png
+ModelPath=mod Model/Terran/Hunter/Fed_Constellation
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|___|O  |O  |___|___|___|___|___|___
+___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |___|___|___
+___|___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___|___
+___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___
+O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  
+O  |O  |O  |IO |I  |I  |I  |I  |I  |I  |IO |O  |O  |O  
+O  |O  |IO |I  |I  |I  |I  |I  |I  |I  |I  |IO |O  |O  
+O  |O  |IO |I  |I  |I  |I  |I  |I  |I  |I  |IO |O  |O  
+O  |O  |IO |I  |I  |I  |I  |I  |I  |I  |I  |IO |O  |O  
+O  |O  |IO |I  |I  |I  |I  |I  |I  |I  |I  |IO |O  |O  
+___|O  |O  |IO |I  |I  |I  |I  |I  |I  |IO |O  |O  |___
+___|O  |O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |O  |___
+___|___|O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |___|___
+___|___|___|O  |IO |IO |I  |I  |IO |IO |O  |___|___|___
+___|___|___|O  |E  |E  |I  |I  |E  |E  |O  |___|___|___
+___|___|___|___|E  |E  |I  |IC |E  |E  |___|___|___|___
+___|___|___|___|E  |E  |I  |I  |E  |E  |___|___|___|___
+___|___|___|___|E  |E  |IO |IO |E  |E  |___|___|___|___
+___|___|___|___|E  |E  |IO |IO |E  |E  |___|___|___|___
+___|___|___|___|E  |E  |O  |O  |E  |E  |___|___|___|___
+___|___|___|___|E  |E  |O  |O  |E  |E  |___|___|___|___
+___|___|___|___|E  |E  |___|___|E  |E  |___|___|___|___
+___|___|___|___|E  |E  |___|___|E  |E  |___|___|___|___
+___|___|___|___|E  |E  |___|___|E  |E  |___|___|___|___
+___|___|___|___|E  |E  |___|___|E  |E  |___|___|___|___
+___|___|___|___|E  |E  |___|___|E  |E  |___|___|___|___
+___|___|___|___|E  |___|___|___|___|E  |___|___|___|___

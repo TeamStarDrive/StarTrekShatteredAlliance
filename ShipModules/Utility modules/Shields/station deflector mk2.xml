@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Cost>288</Cost>
+  <RepairDifficulty>12</RepairDifficulty>
+  
+  <!-- common traits shared by all ship modules -->
+  <ModuleType>Shield</ModuleType>
+  <XSize>6</XSize>
+  <YSize>6</YSize>
+  <UID>station deflector mk2</UID> 
+  <Version>2</Version>
+
+  <Restrictions>IO</Restrictions>
+  <Name>station deflector mk2</Name>
+  <IconTexturePath>Modules/station deflector mk2</IconTexturePath>
+  <Mass>11000</Mass>
+  <Health>96188</Health>
+  <HealthMax>96188</HealthMax>
+  <energyreq>0</energyreq>
+  
+  <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
+  
+  
+  <PowerDraw>900</PowerDraw>
+
+  <NameIndex>18462</NameIndex>
+  <DescriptionIndex>18463</DescriptionIndex>
+
+  <!-- for shield items -->
+  <ShieldPowerMax>499900</ShieldPowerMax>
+  <ShieldRechargeDelay>10</ShieldRechargeDelay>
+  <ShieldRechargeRate>9200</ShieldRechargeRate>
+  <ShieldRadius>590</ShieldRadius>
+  <ShieldRechargeCombatRate>1300</ShieldRechargeCombatRate>
+  <ShieldEnergyResist>0.89</ShieldEnergyResist>
+  <ShieldBeamResist>0.99</ShieldBeamResist>
+  <ShieldKineticResist>0.47</ShieldKineticResist>
+  <PlasmaResist>0.03</PlasmaResist>
+  <Deflection>30</Deflection>
+</ShipModule>

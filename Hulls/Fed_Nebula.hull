@@ -1,0 +1,45 @@
+Version=1
+HullName=Terran/Fed_Nebula
+VisibleName=Nebula Class
+Role=capital
+Style=fed
+Size=32,31
+MeshOffset=0,72
+IconPath=ShipIcons/Fed_Nebula.png
+ModelPath=mod Model/Terran/Hunter/Fed_Nebula
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___|___
+___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___
+___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___
+___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___
+___|___|O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |___|___
+___|O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |___
+___|O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |___
+O  |O  |O  |O  |O  |O  |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |O  |O  |O  |O  |O  |O  
+O  |O  |O  |O  |O  |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |O  |O  |O  |O  |O  
+O  |O  |O  |O  |O  |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |O  |O  |O  |O  |O  
+O  |O  |O  |O  |O  |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |O  |O  |O  |O  |O  
+O  |O  |O  |O  |O  |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |O  |O  |O  |O  |O  
+O  |O  |O  |O  |O  |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |O  |O  |O  |O  |O  
+O  |O  |O  |O  |O  |O  |E  |E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  |E  |O  |O  |O  |O  |O  |O  
+O  |O  |O  |O  |O  |O  |E  |E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  |E  |O  |O  |O  |O  |O  |O  
+___|O  |O  |O  |O  |O  |E  |E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  |E  |O  |O  |O  |O  |O  |___
+___|O  |O  |O  |O  |O  |E  |E  |E  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |E  |E  |E  |O  |O  |O  |O  |O  |___
+___|___|O  |O  |O  |O  |E  |E  |E  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |E  |E  |E  |O  |O  |O  |O  |___|___
+___|___|___|O  |O  |O  |E  |E  |E  |O  |O  |O  |IO |IO |IO |IO |IOC|IO |IO |IO |O  |O  |O  |E  |E  |E  |O  |O  |O  |___|___|___
+___|___|___|___|O  |O  |E  |E  |E  |O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  |E  |E  |E  |O  |O  |___|___|___|___
+___|___|___|___|___|O  |E  |E  |E  |O  |O  |IO |I  |I  |I  |I  |I  |I  |I  |I  |IO |O  |O  |E  |E  |E  |O  |___|___|___|___|___
+___|___|___|___|___|___|E  |E  |E  |O  |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |O  |E  |E  |E  |___|___|___|___|___|___
+___|___|___|___|___|___|E  |E  |E  |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |E  |E  |E  |___|___|___|___|___|___
+___|___|___|___|___|___|E  |E  |E  |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |E  |E  |E  |___|___|___|___|___|___
+___|___|___|___|___|___|E  |E  |E  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |E  |E  |E  |___|___|___|___|___|___
+___|___|___|___|___|___|E  |E  |E  |O  |O  |IO |IO |O  |O  |O  |O  |O  |O  |IO |IO |O  |O  |E  |E  |E  |___|___|___|___|___|___
+___|___|___|___|___|___|E  |E  |E  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |E  |E  |E  |___|___|___|___|___|___
+___|___|___|___|___|___|E  |E  |E  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |E  |E  |E  |___|___|___|___|___|___
+___|___|___|___|___|___|E  |E  |E  |___|O  |O  |O  |O  |___|___|___|___|O  |O  |O  |O  |___|E  |E  |E  |___|___|___|___|___|___

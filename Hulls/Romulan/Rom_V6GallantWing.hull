@@ -1,0 +1,21 @@
+Version=1
+HullName=Romulan/Rom_V6GallantWing
+VisibleName=V6 Gallant Wing
+Role=corvette
+Style=Romulan
+Size=10,7
+MeshOffset=0,8
+IconPath=ShipIcons/Rom_V6GallantWing
+ModelPath=mod Model/Romulan/Rom_V6GallantWing
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|O  |O  |___|___|___|___
+___|___|___|O  |O  |O  |O  |___|___|___
+___|___|O  |O  |IO |IO |O  |O  |___|___
+E  |O  |IO |IO |I  |I  |IO |IO |O  |E  
+E  |O  |IO |I  |I  |IC |I  |IO |O  |E  
+E  |O  |O  |O  |IO |IO |O  |O  |O  |E  
+E  |___|___|___|___|___|___|___|___|E  

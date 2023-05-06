@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Cost>650</Cost>
+  <!-- common traits shared by all ship modules -->
+  <ModuleType>Hangar</ModuleType>
+  
+  <CorvetteModule>false</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  
+  <XSize>6</XSize>
+  <YSize>6</YSize>
+  <UID>Shuttlebay_5x9</UID> 
+  <Version>2</Version>
+
+  <Restrictions>IO</Restrictions>
+  <Name>Shuttlebay_5x9</Name>
+  <IconTexturePath>Modules/Shuttlebay_5x9</IconTexturePath>
+  <Mass>290</Mass>
+  <Health>17000</Health>
+  <HealthMax>17000</HealthMax>
+  <energyreq>40</energyreq>
+  
+  <CrewRequired>10</CrewRequired>
+  
+  <PowerDraw>40</PowerDraw>
+
+
+  <NameIndex>18296</NameIndex>
+  <DescriptionIndex>18297</DescriptionIndex>
+
+
+
+  <!-- for Hangar items -->
+  <hangarShipUID>Vulcan Scout</hangarShipUID>
+  <hangerTimerConstant>80</hangerTimerConstant>
+  <MaximumHangarShipSize>196</MaximumHangarShipSize>
+  <PermittedHangarRoles>
+    <string>frigate</string>
+    <string>corvette</string>
+    <string>fighter</string>
+  </PermittedHangarRoles>
+
+
+  <!-- for shield items -->
+  
+  <ShieldPowerMax>0</ShieldPowerMax>
+  <ShieldRechargeDelay>0</ShieldRechargeDelay>
+  <ShieldRechargeRate>0</ShieldRechargeRate>
+  <ShieldRadius>0</ShieldRadius>
+
+
+  <!-- for PowerPlant Items -->
+  
+  <PowerFlowMax>0</PowerFlowMax>
+  <PowerStoreMax>0</PowerStoreMax>
+  
+  <!-- for Weapons -->
+  
+  
+  <!-- for Engines -->
+  <Thrust>0</Thrust>
+  
+  
+
+</ShipModule>

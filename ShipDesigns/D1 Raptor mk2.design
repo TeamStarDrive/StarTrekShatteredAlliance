@@ -1,0 +1,42 @@
+Version=1
+Name=D1 Raptor mk2
+Hull=Klingon/Kling_Raptor
+Role=fighter
+ModName=trek ships
+Style=Klingon
+Size=8,10
+GridCenter=4,5
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=SteelArmorSmall;Kling_DisruptorCannonMk1;PowerSolar;LaserCannon;Shield_1KW;WarpEngine_1x1;CombatEngine_2x1;Internal Bulkhead;Extreme Fusion Reactor;Cockpit;Fighter Shield
+Modules=24
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0
+4,0;0
+3,1;1;2,2
+3,3;2
+4,3;3
+3,4;4;2,2
+0,5;5
+7,5;5
+0,6;6;1,2;90;2
+3,6;0
+4,6;0
+7,6;6;1,2;90;2
+1,7;0
+2,7;7
+3,7;8;2,2
+5,7;7
+6,7;0
+0,8;6;1,2;90;2
+1,8;9
+2,8;10
+5,8;10
+6,8;9
+7,8;6;1,2;90;2
+3,9;6;2,1

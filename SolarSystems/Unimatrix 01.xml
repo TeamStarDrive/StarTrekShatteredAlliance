@@ -1,0 +1,44 @@
+﻿<SolarSystemData>
+  <Name>Unimatrix 01</Name>
+  <RingList>
+    <Ring>
+      <Planet>Two of Seven</Planet>
+      <WhichPlanet>9</WhichPlanet>
+    </Ring>
+	<Ring>
+      <Asteroids>Yes</Asteroids>
+    </Ring>
+    <Ring>
+      <Planet>One of Seven</Planet>
+      <SpecialDescription>Home planet of the Borg.</SpecialDescription>
+      <WhichPlanet>25</WhichPlanet>
+      <HomePlanet>true</HomePlanet>
+      <Station>Yes</Station>
+	  <HasRings>Yes</HasRings>
+	  <MaxPopDefined>35.0</MaxPopDefined>
+    </Ring>
+    <Ring>
+      <Planet>Three of Seven</Planet>
+      <WhichPlanet>7</WhichPlanet>
+    </Ring>
+	<Ring>
+      <Planet>Four of Seven</Planet>
+      <WhichPlanet>16</WhichPlanet>
+    </Ring>
+	<Ring>
+      <Planet>Five of Seven</Planet>
+      <WhichPlanet>25</WhichPlanet>
+    </Ring>
+	<Ring>
+      <Planet>Six of Seven</Planet>
+      <WhichPlanet>25</WhichPlanet>
+    </Ring>
+	<Ring>
+      <Asteroids>Yes</Asteroids>
+    </Ring>
+	<Ring>
+      <Planet>Seven of Seven</Planet>
+      <WhichPlanet>17</WhichPlanet>
+    </Ring>
+  </RingList>
+</SolarSystemData>

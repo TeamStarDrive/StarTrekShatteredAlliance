@@ -1,0 +1,33 @@
+Version=1
+HullName=Klingon/Kling_D4Predator
+VisibleName=D4 Predator
+Role=corvette
+Style=Klingon
+Size=12,19
+MeshOffset=0,-8
+IconPath=ShipIcons/Kling_D4Predator
+ModelPath=mod Model/Klingon/Kling_D4Predator
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|IO |IO |IO |IO |___|___|___|___
+___|___|___|___|IO |IO |IO |IO |___|___|___|___
+___|___|___|___|___|IO |IO |___|___|___|___|___
+___|___|___|___|___|IO |IO |___|___|___|___|___
+___|___|___|___|___|O  |O  |___|___|___|___|___
+___|___|___|___|___|O  |O  |___|___|___|___|___
+___|___|___|___|___|O  |O  |___|___|___|___|___
+___|___|___|___|IO |IO |IO |IO |___|___|___|___
+___|___|___|___|IO |IO |IO |IO |___|___|___|___
+___|___|___|IO |IO |IO |IOC|IO |IO |___|___|___
+IO |___|IO |IO |IO |IO |IO |IO |IO |IO |___|IO 
+E  |IO |IO |IO |IO |I  |I  |IO |IO |IO |IO |E  
+E  |E  |IO |IO |IO |I  |I  |IO |IO |IO |E  |E  
+E  |E  |O  |IO |IO |I  |I  |IO |IO |O  |E  |E  
+E  |E  |O  |IO |IO |I  |I  |IO |IO |O  |E  |E  
+E  |E  |O  |O  |O  |IO |IO |O  |O  |O  |E  |E  
+E  |___|___|___|___|___|___|___|___|___|___|E  
+E  |___|___|___|___|___|___|___|___|___|___|E  
+E  |___|___|___|___|___|___|___|___|___|___|E  

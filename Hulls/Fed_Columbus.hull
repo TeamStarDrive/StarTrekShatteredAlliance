@@ -1,0 +1,41 @@
+Version=1
+HullName=Fed/Fed_Columbus
+VisibleName=Columbus Class
+Role=freighter
+Style=fed
+Size=8,27
+MeshOffset=0,-8
+IconPath=ShipIcons/Fed_Columbus
+ModelPath=mod Model/Terran/Hunter/Fed_Columbus
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|IO |IO |IO |IO |___|___
+___|IO |IO |IO |IO |IO |IO |___
+___|IO |IO |IO |IO |IO |IO |___
+___|IO |IO |IO |IO |IO |IO |___
+___|IO |IO |IO |IO |IO |IO |___
+___|IO |IO |E  |E  |IO |IO |___
+___|IO |IO |E  |E  |IO |IO |___
+___|IO |IO |E  |E  |IO |IO |___
+___|___|IO |E  |E  |IO |___|___
+___|___|___|E  |E  |___|___|___
+___|___|___|E  |E  |___|___|___
+___|___|___|E  |E  |___|___|___
+I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |IC |I  |I  |I  
+I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |E  |E  |I  |I  |I  
+I  |I  |I  |E  |E  |I  |I  |I  
+I  |I  |I  |E  |E  |I  |I  |I  
+I  |I  |I  |E  |E  |I  |I  |I  
+I  |I  |I  |E  |E  |I  |I  |I  
+I  |I  |I  |E  |E  |I  |I  |I  
+I  |I  |I  |E  |E  |I  |I  |I  
+I  |E  |E  |E  |E  |E  |E  |I  
+I  |E  |E  |E  |E  |E  |E  |I  

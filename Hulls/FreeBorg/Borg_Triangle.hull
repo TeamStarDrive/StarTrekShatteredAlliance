@@ -1,0 +1,21 @@
+Version=1
+HullName=FreeBorg/Borg_Triangle
+VisibleName=Triangle
+Role=fighter
+Style=FreeBorg
+Size=4,7
+MeshOffset=0,-8
+IconPath=ShipIcons/Borg_Triangle
+ModelPath=mod Model/FreeBorg/Borg_Triangle
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|O  |O  |___
+___|O  |O  |___
+O  |IO |IO |O  
+IO |IO |IC |IO 
+E  |I  |I  |E  
+___|E  |E  |___
+___|E  |___|___

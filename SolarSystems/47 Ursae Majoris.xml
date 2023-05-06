@@ -1,0 +1,51 @@
+﻿<SolarSystemData>
+  <Name>47 Ursae Majoris</Name>
+  <RingList>
+    <Ring>
+      <Planet>Fox</Planet>
+      <WhichPlanet>25</WhichPlanet>
+    </Ring>
+    <Ring>
+      <Planet>Raven</Planet>
+      <WhichPlanet>17</WhichPlanet>
+    </Ring>
+    <Ring>
+      <Planet>Coyote</Planet>
+      <WhichPlanet>25</WhichPlanet>
+      <HomePlanet>true</HomePlanet>
+      <Station>Yes</Station>  
+    </Ring>
+    <Ring>
+      <Planet>Bear</Planet>
+      <SpecialDescription>Settled in the  year 2243 by the urss Alabama under captin Robert.E.Lee after a 
+voyage of 230 years> Coyote is one of 6 moons of the vast Gasgiant Bear and the only one capable of suporting life.
+home to many indijionus life forms includein dangerouise Bboids and the small intelagent monkey like Chirrups</SpecialDescription>
+      <WhichPlanet>17</WhichPlanet>
+      <HasRings>Yes</HasRings>
+    </Ring>
+    <Ring>
+      <Asteroids>Yes</Asteroids>
+    </Ring>
+    <Ring>
+      <Planet>Wolf</Planet>
+      <WhichPlanet>17</WhichPlanet>
+    </Ring>
+    <Ring>
+      <Planet>Hawk</Planet>
+      <WhichPlanet>26</WhichPlanet>
+    </Ring>
+    <Ring>
+      <Asteroids>Yes</Asteroids>
+    </Ring>
+    <Ring>
+      <Planet>Eagle</Planet>
+      <WhichPlanet>10</WhichPlanet>
+    </Ring>
+    <Ring>
+      <Asteroids>Yes</Asteroids>
+    </Ring>
+    <Ring>
+      <Asteroids>Yes</Asteroids>
+    </Ring>
+  </RingList>
+</SolarSystemData>

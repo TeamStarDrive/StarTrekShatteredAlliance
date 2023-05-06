@@ -1,0 +1,41 @@
+Version=1
+HullName=Cardassia/Car_Korinar
+VisibleName=Korinar Class
+Role=frigate
+Style=Cardassia
+Size=12,27
+MeshOffset=0,-8
+IconPath=ShipIcons/Car_Korinar
+ModelPath=mod Model/Cardassia/Car_Korinar
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|O  |O  |___|___|O  |O  |___|___|___
+___|___|O  |O  |O  |O  |O  |O  |O  |O  |___|___
+___|O  |O  |O  |O  |IO |IO |O  |O  |O  |O  |___
+___|O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |___
+O  |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |O  
+O  |O  |O  |IO |I  |I  |I  |I  |IO |O  |O  |O  
+O  |E  |E  |IO |I  |I  |I  |I  |IO |E  |E  |O  
+O  |E  |E  |IO |I  |I  |I  |I  |IO |E  |E  |O  
+IO |E  |E  |IO |I  |I  |I  |I  |IO |E  |E  |IO 
+IO |E  |E  |IO |IO |I  |I  |IO |IO |E  |E  |IO 
+___|___|O  |O  |IO |I  |I  |IO |O  |O  |___|___
+___|___|___|O  |IO |I  |I  |IO |O  |___|___|___
+___|___|___|O  |IO |I  |I  |IO |O  |___|___|___
+___|___|___|O  |IO |I  |IC |IO |O  |___|___|___
+___|___|___|O  |IO |I  |I  |IO |O  |___|___|___
+___|___|___|O  |IO |IO |IO |IO |O  |___|___|___
+___|___|___|O  |O  |IO |IO |O  |O  |___|___|___
+___|___|___|___|O  |IO |IO |O  |___|___|___|___
+___|___|___|___|O  |IO |IO |O  |___|___|___|___
+___|___|___|___|O  |IO |IO |O  |___|___|___|___
+___|___|___|IO |E  |IO |IO |E  |IO |___|___|___
+___|___|IO |E  |E  |E  |E  |E  |E  |IO |___|___
+___|___|IO |E  |E  |E  |E  |E  |E  |IO |___|___
+___|___|IO |E  |E  |E  |E  |E  |E  |IO |___|___
+___|___|___|E  |E  |IO |IO |E  |E  |___|___|___
+___|___|___|E  |E  |___|___|E  |E  |___|___|___
+___|___|___|IO |E  |___|___|E  |IO |___|___|___

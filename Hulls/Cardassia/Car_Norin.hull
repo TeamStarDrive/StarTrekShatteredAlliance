@@ -1,0 +1,26 @@
+Version=1
+HullName=Cardassia/Car_Norin
+VisibleName=Norin Class
+Role=corvette
+Style=Cardassia
+Size=10,12
+MeshOffset=0,0
+IconPath=ShipIcons/Car_Norin
+ModelPath=mod Model/Cardassia/Car_Norin
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+O  |O  |O  |O  |O  |O  |O  |O  |O  |O  
+E  |O  |O  |O  |IO |IO |O  |O  |O  |E  
+E  |O  |IO |IO |I  |I  |IO |IO |O  |E  
+E  |O  |IO |IO |I  |I  |IO |IO |O  |E  
+___|O  |O  |IO |I  |I  |IO |O  |O  |___
+___|O  |O  |IO |I  |I  |IO |O  |O  |___
+___|___|___|IO |I  |IC |IO |___|___|___
+___|___|___|___|IO |IO |___|___|___|___
+___|___|O  |E  |E  |E  |E  |O  |___|___
+___|___|O  |E  |E  |E  |E  |O  |___|___
+___|___|O  |E  |___|___|E  |O  |___|___
+___|___|O  |E  |___|___|E  |O  |___|___

@@ -1,0 +1,19 @@
+Version=1
+HullName=Terran/Fed_Peregrine
+VisibleName=Peregrine Class
+Role=scout
+Style=fed
+Size=4,5
+MeshOffset=0,-8
+IconPath=ShipIcons/Fed_Peregrine
+ModelPath=mod Model/Terran/Hunter/Fed_Peregrine
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|O  |O  |___
+O  |O  |O  |O  
+O  |I  |IC |O  
+___|E  |E  |___
+___|E  |E  |___

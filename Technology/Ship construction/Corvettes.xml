@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Corvettes</UID>
+  <TechnologyType>ShipHull</TechnologyType>
+  <Cost>200</Cost>
+  <NameIndex>585</NameIndex>
+  <DescriptionIndex>586</DescriptionIndex>
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>FrigateConstruction</UID>
+    </LeadsToTech>
+    <LeadsToTech>
+      <UID>Ace Training</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked />
+  <BuildingsUnlocked />
+  <BonusUnlocked>
+    <UnlockedBonus>
+      <Name>Mass Reduction</Name>
+      <Bonus>-0.03</Bonus>
+      <BonusIndex>18088</BonusIndex>
+      <Type>Cordrazine</Type>
+    </UnlockedBonus>
+    <UnlockedBonus>
+      <Name>Fuel Cell Upgrade</Name>
+      <Bonus>0.15</Bonus>
+      <BonusIndex>572</BonusIndex>
+      <Type>Cordrazine</Type>
+    </UnlockedBonus>
+    <UnlockedBonus>
+      <Name>Power Flow Bonus</Name>
+      <Bonus>0.10</Bonus>
+      <BonusIndex>18089</BonusIndex>
+      <Type>Cordrazine</Type>
+    </UnlockedBonus>
+    <UnlockedBonus>
+      <Name>Fuel Cell Upgrade</Name>
+      <Bonus>0.15</Bonus>
+      <BonusIndex>572</BonusIndex>
+      <Type>Pollops</Type>
+    </UnlockedBonus>
+    <UnlockedBonus>
+      <Name>Power Flow Bonus</Name>
+      <Bonus>0.08</Bonus>
+      <BonusIndex>18089</BonusIndex>
+      <Type>Pollops</Type>
+    </UnlockedBonus>
+  </BonusUnlocked>
+  <TroopsUnlocked />
+  <HullsUnlocked>
+  <UnlockedHull>
+      <Name>FreeBorg/Borg_Scout</Name>
+      <ShipType>FreeBorg</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>FreeBorg/Borg_Triangle</Name>
+      <ShipType>FreeBorg</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>Cardassia/Car_Sartan</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>Cardassia/Car_Rasilak</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>Cardassia/Car_Janissary</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Cardassia/Car_Hideki</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>Klingon/Kling_KTar</Name>
+      <ShipType>Klingon</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>Klingon/Kling_D12Brel</Name>
+      <ShipType>Klingon</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Romulan/Rom_Shuttle</Name>
+      <ShipType>Romulan</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Romulan/Rom_Talon</Name>
+      <ShipType>Romulan</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Romulan/Rom_V6GallantWing</Name>
+      <ShipType>Romulan</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Romulan/Rom_V8Warbird</Name>
+      <ShipType>Romulan</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Terran/Hunter</Name>
+      <ShipType>Terran</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Terran/Fed_Oberth</Name>
+      <ShipType>fed</ShipType>
+    </UnlockedHull>
+	  <UnlockedHull>
+      <Name>Terran/Fed_Danube</Name>
+      <ShipType>fed</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Corsair/Corsair Asteroid Base</Name>
+      <ShipType>Corsair</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Cordrazine/Litving</Name>
+      <ShipType>Cordrazine</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Ralyeh/Missionary</Name>
+      <ShipType>Ralyeh</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Opteris/Worker</Name>
+      <ShipType>Opteris</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Kulrathi/Razor</Name>
+      <ShipType>Kulrathi</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Vulfen/Type III</Name>
+      <ShipType>Vulfen</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Pollops/Thicket</Name>
+      <ShipType>Pollops</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Draylok/Crescent</Name>
+      <ShipType>Draylok</ShipType>
+    </UnlockedHull>
+  </HullsUnlocked>
+  <UnlockedAtGameStart>
+    <RaceRequirements>
+      <RacialTrait>Militaristic</RacialTrait>
+    </RaceRequirements>
+  </UnlockedAtGameStart>
+  <Militaristic>true</Militaristic>
+</Technology>

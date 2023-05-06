@@ -1,0 +1,177 @@
+This is the edited version of the Prometheus class.
+
+The chrash problem with version 1.0 had to do with the ODF file of the fprom. Now the seperationweapon works fine.
+
+I have added some details in my textures, as it was hard to make out where the torpedolaunchers were placed.
+In her normal mode, the ship has 4 tt, all in the gamma section.
+In assault mode, the alpha unit activates 2 forward tubes, the same as on the beta unit. All 3 sections in assault mode have now
+8 tubes.
+
+KNOWN ISSUE
+
+There could be a problem when using the seperation weapon. The game might chrash. I hope somebody can find what is wrong.
+If so, please contact me at: aad.moerman@hetnet.nl
+
+The fusion weapon works fine.
+
+Make a backup of your existing files, just to be on the safe side!
+
+***************************************
+Important Note:
+
+You need to install the Star Trek Armada II Patch Project 1.2.5  first, otherwise the special weapons won't work.
+
+The Fleet Ops Patch Project 1.2.X patch is required for MVAM support.
+
+Credits:
+
+MVAM special weapons ODF by Icewolf132.
+
+Federation Ship Names by by Captain Maxwell.
+
+As allways, thanks to Wrath of Achilles for his Texture Tutorial and Major A Payne for his SodTutorial. 
+
+All meshes, textures, etc are by me.
+
+The weapon files are edited stock files.
+ 
+
+Please note:
+
+I cannot be hold responsible for any damage or problems otherwise regarding this model. 
+
+
+You may use this ship in your mod, just give credit where its do. 
+
+
+Thank you for downloading.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Installation instructions
+
+Open the fPrometheus folder
+
+Open the SOD folder -->
+Copy and paste the sod files into the sod folder of Armada II. When prompted to overwrite, click 'yes'. 
+
+Open the ODF folder --> Open shipsfolder
+Copy and paste the ODF files into the ODF ship folder.When prompted to overwrite, click 'yes'. 
+ 
+Open the Photons folder
+Copy and paste put the photon files in the photons ODF folder of Armada II. When prompted to overwrite, click 'yes'. 
+
+Open the special weapon folder
+Copy and paste the files in the special weapon ODF folder of Armada II. 
+
+Open the RGB folder
+Copy and paste the tga files into the texture RGB folder of Armada II. When prompted to overwrite, click 'yes'. 
+
+Open the Bitmaps folder
+Copy the images 
+Open Armada II Bitmapsfolder --> open Admiralslog --> open ShipImages and paste the images there. When prompted to overwrite, click 'yes'. 
+
+( I include the MS3D files for those who are interested.)
+
+**********************************************************
+Open ARmada 2 ODF-folder --> open station folder
+open fyard2 
+
+add under the list of builditems
+
+buildItemXx = "fprom" ( The X stands for the next number on the list)
+
+
+**************************************
+Open techtree file
+
+Open
+tech1
+
+under Federation ships add:
+fprom.odf  	 2 fyard2.odf fresear2.odf               // battlecruiser (prometheus class)
+
+under // ***[ FEDERATION SPECIAL WEAPONS ]**************  add:
+
+gMVAM_int.odf    0				    // prometheus class integration
+gMVAM_sep.odf    0				    // prometheus class seperation
+
+***************************************
+Open
+fulltech
+
+add under Federation:
+
+fprom.odf    0
+
+add under the list of Federation special weapons:
+
+gMVAM_int.odf    0				    
+gMVAM_sep.odf    0
+
+****************************************
+Open Sprites --> open gui_global
+
+find the lines:
+ 
+# Federation build buttons
+@reference=64
+
+add below that list:
+
+b_fprom				gbfprom			0	0	64	64
+
+next:
+
+find the lines:
+
+# Special weapon buttons
+@reference=64
+
+add below that list:
+
+b_gMVAM_int			gbgMVAM_int		0	0	64	64	  
+b_gMVAM_sep		        gbgMVAM_sep		0	0	64	64
+
+next:
+
+find the lines:
+
+# Federation wireframes
+@reference=128 (if not present, just add the reference)
+
+add below that list:
+
+fpromw1				wffprom			0	0	128	128
+
+fpromaw1			wffproma		0	0	128	128
+
+fprombw1			wffpromb		0	0	128	128
+
+fpromgw1			wffpromg		0	0	128	128
+
+********************************************************************
+
+
+
+
+That should do it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+Version=1
+HullName=Terran/Fed_Oberth
+VisibleName=Oberth Class
+Role=corvette
+Style=fed
+Size=6,10
+MeshOffset=0,-32
+IconPath=ShipIcons/Fed_Oberth.png
+ModelPath=mod Model/Terran/Hunter/Fed_Oberth
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|O  |O  |O  |O  |___
+O  |O  |IO |IO |O  |O  
+E  |O  |I  |I  |O  |E  
+E  |IO |I  |IC |IO |E  
+E  |IO |I  |I  |IO |E  
+E  |O  |I  |I  |O  |E  
+E  |___|O  |O  |___|E  
+E  |___|O  |O  |___|E  
+___|___|O  |O  |___|___
+___|___|O  |O  |___|___

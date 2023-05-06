@@ -1,0 +1,77 @@
+Version=1
+Name=ODS photon turet mk4
+Hull=Cardassia/ODS turret
+Role=station
+ModName=trek ships
+Style=Cardassia
+Size=54,35
+GridCenter=45,24
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Ceramic Armor Med;Ceramic Armor Small;AdvancedCellSmall;station torpedo launcher mk2;Sensor1x2;ArmoredShield4x4;warpcore_2x2;Cockpit;TorpedoBay_2x1
+Modules=59
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+42,15;0;2,2
+44,15;0;2,2
+46,15;0;2,2
+39,17;0;2,2
+44,17;0;2,2
+49,17;0;2,2
+38,19;0;2,2
+42,19;1
+43,19;1
+44,19;2
+45,19;2
+46,19;1
+47,19;1
+50,19;0;2,2
+40,20;1
+41,20;3;8,7;90;2
+49,20;1
+37,21;0;2,2
+39,21;1
+40,21;1
+49,21;1
+50,21;1
+51,21;0;2,2
+40,22;1
+49,22;1
+40,23;1
+49,23;1
+39,24;0;2,2
+49,24;0;2,2
+36,25;0;2,2
+52,25;0;2,2
+40,26;1
+49,26;1
+37,27;0;2,2
+40,27;1
+41,27;4;1,2;90;2
+42,27;5;4,4
+46,27;6;2,2
+48,27;7
+49,27;1
+51,27;0;2,2
+39,28;1
+40,28;1
+48,28;2
+49,28;1
+50,28;1
+38,29;0;2,2
+41,29;1
+46,29;8;2,1
+48,29;1
+50,29;0;2,2
+46,30;1
+47,30;1
+39,31;0;2,2
+44,31;0;2,2
+49,31;0;2,2
+42,33;0;2,2
+44,33;0;2,2
+46,33;0;2,2

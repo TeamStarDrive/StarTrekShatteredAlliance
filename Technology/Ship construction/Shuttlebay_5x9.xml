@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Shuttlebay_5x9</UID>
+  <TechnologyType>ShipGeneral</TechnologyType>
+  <Cost>2250</Cost>
+  <NameIndex>18296</NameIndex>
+  <DescriptionIndex>18297</DescriptionIndex>
+  <LeadsTo />
+  <LeadsToTech>
+      <UID>cruiser dock</UID>
+    </LeadsToTech>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>Shuttlebay_5x9</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

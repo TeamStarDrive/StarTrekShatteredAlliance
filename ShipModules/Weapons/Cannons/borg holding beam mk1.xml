@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Cost>30</Cost>
+  <TechLevel>2</TechLevel>
+  <!-- common traits shared by all ship modules -->
+  <ModuleType>Turret</ModuleType>
+  <XSize>2</XSize>
+  <YSize>2</YSize>
+  <Name>borg holding beam mk1</Name>
+  <Restrictions>O</Restrictions>
+  <UID>borg holding beam mk1</UID> 
+  <Version>2</Version>
+
+  <IconTexturePath>Modules/borg holding beam mk1</IconTexturePath>
+  <Mass>20</Mass>
+  <Health>9760</Health>
+  <HealthMax>9760</HealthMax>
+  <energyreq>0</energyreq>
+  <Description>A crude but effective high-energy cannon weapon </Description>
+  <CrewRequired>12</CrewRequired>
+  
+  <PowerDraw>5</PowerDraw>
+
+
+  <NameIndex>18393</NameIndex>
+  <DescriptionIndex>18394</DescriptionIndex>
+
+
+
+  <!-- for shield items -->
+  
+  <ShieldPowerMax>0</ShieldPowerMax>
+  <ShieldRechargeDelay>0</ShieldRechargeDelay>
+  <ShieldRechargeRate>0</ShieldRechargeRate>
+  <ShieldRadius>0</ShieldRadius>
+  <radius>0</radius>
+
+  <!-- for PowerPlant Items -->
+  
+  <PowerFlowMax>0</PowerFlowMax>
+  <PowerStoreMax>0</PowerStoreMax>
+  
+  <!-- for Weapons -->
+  <WeaponType>borg holding beam mk1</WeaponType>
+  <FieldOfFire>90</FieldOfFire>
+   
+  
+  <!-- for Engines -->
+  <Thrust>0</Thrust>
+  
+  
+
+</ShipModule>

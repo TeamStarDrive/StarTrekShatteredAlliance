@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>PhotonTorpedo_Mk2</UID>
+  <TechnologyType>ShipWeapons</TechnologyType>
+  <Cost>1860</Cost>
+  <NameIndex>18362</NameIndex>
+  <DescriptionIndex>18363</DescriptionIndex>
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>HeavyPhotonTorpedo_Mk1</UID>
+    </LeadsToTech>
+	<LeadsToTech>
+      <UID>Advanced Torpedos</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>Fed_PhotonTorpedo_Mk2</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Kling_PhotonTorpedoMk2</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>borg torpedo mk2</ModuleUID>
+      <Type>FreeBorg</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Car_PhotonTorpedoMk2</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>torpedo</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>torpedo mk2</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>station torpedo launcher mk2</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

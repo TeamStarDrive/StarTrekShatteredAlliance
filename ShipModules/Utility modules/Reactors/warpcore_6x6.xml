@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Cost>610</Cost>
+  <!-- Tech Level Used by AI for Upgrading Ships -->
+  <TechLevel>4</TechLevel>
+  <RepairDifficulty>6</RepairDifficulty>
+
+  <!-- common traits shared by all ship modules -->
+  <XSize>6</XSize>
+  <YSize>6</YSize>
+  <ModuleType>PowerPlant</ModuleType>
+  <Name>warpcore_6x6</Name>
+  <Restrictions>I</Restrictions>
+  <UID>warpcore_6x6</UID> 
+  <Version>2</Version>
+
+  <IconTexturePath>Modules/warpcore_6x6</IconTexturePath>
+  
+  <Mass>135</Mass>
+  <Health>19450</Health>
+  <HealthMax>199450</HealthMax>
+  <energyreq>0</energyreq>
+  
+  <Description>Harnesses a matter/anti-matter reaction to create large amounts of power</Description>
+  <CrewRequired>10</CrewRequired>
+  
+  <PowerDraw>0</PowerDraw>
+  <BonusRepairRate>800.0</BonusRepairRate>
+  <EMPProtection>1600</EMPProtection>
+
+  <NameIndex>18292</NameIndex>
+  <DescriptionIndex>18293</DescriptionIndex>
+
+  <!-- for PowerPlant Items -->
+  <ExplosionDamage>10000</ExplosionDamage>
+  <ExplosionRadius>100</ExplosionRadius> 
+  <PowerFlowMax>34000</PowerFlowMax>
+  <PowerStoreMax>99050</PowerStoreMax>
+  <PowerRadius>30</PowerRadius>
+  <!-- for Engines -->
+  <Thrust>3500000</Thrust>
+  <TurnThrust>5925000</TurnThrust>
+  <WarpThrust>15990000</WarpThrust>
+</ShipModule>

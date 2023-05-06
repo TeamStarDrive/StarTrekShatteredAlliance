@@ -1,0 +1,34 @@
+Version=1
+Name=Triangle mk1a
+Hull=FreeBorg/Borg_Triangle
+Role=fighter
+ModName=trek ships
+Style=FreeBorg
+Size=4,7
+GridCenter=2,3
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=LaserBeamTurret2x2;PowerSolar;Fighter Shield;Maneuvering_Thruster_1x1;Cockpit;NuclearReactorSmall;Engine;WarpEngine_1x1
+Modules=16
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0;2,2
+0,2;1
+1,2;1
+2,2;2
+3,2;1
+0,3;3
+1,3;4
+2,3;5
+3,3;3
+0,4;6
+1,4;5
+2,4;5
+3,4;6
+1,5;7
+2,5;6
+1,6;7

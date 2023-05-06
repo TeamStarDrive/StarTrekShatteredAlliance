@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Cost>150</Cost>
+  <!-- common traits shared by all ship modules -->
+  <XSize>3</XSize>
+  <YSize>6</YSize>
+  <ModuleType>MissileLauncher</ModuleType>
+  <Name>Fed_HeavyPhotonTorpedo_Mk1</Name>
+  <Restrictions>O</Restrictions>
+  <UID>Fed_HeavyPhotonTorpedo_Mk1</UID> 
+  <Version>2</Version>
+
+  <IconTexturePath>Modules/Fed_HeavyPhotonTorpedo_Mk1</IconTexturePath>
+  <Mass>250</Mass>
+  <Health>11900</Health>
+  <HealthMax>11900</HealthMax>
+  <energyreq>50</energyreq>
+  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  
+  
+  <PowerDraw>10</PowerDraw>
+  <TechLevel>3</TechLevel>  
+  <!-- for shield items -->
+  
+  <ShieldPowerMax>0</ShieldPowerMax>
+  <ShieldRechargeDelay>0</ShieldRechargeDelay>
+  <ShieldRechargeRate>0</ShieldRechargeRate>
+  <ShieldRadius>0</ShieldRadius>
+  <radius>0</radius>
+
+  <NameIndex>18320</NameIndex>
+  <DescriptionIndex>18321</DescriptionIndex>
+
+  <!-- for PowerPlant Items -->
+  
+  <PowerFlowMax>0</PowerFlowMax>
+  <PowerStoreMax>0</PowerStoreMax>
+
+  <!-- for Weapons -->
+  <WeaponType>Fed_HeavyPhotonTorpedo_Mk1</WeaponType>
+  <OrdinanceCapacity>4000</OrdinanceCapacity>
+  <FieldOfFire>90</FieldOfFire>
+
+  <!-- for Engines -->
+  <Thrust>0</Thrust>
+
+
+
+</ShipModule>

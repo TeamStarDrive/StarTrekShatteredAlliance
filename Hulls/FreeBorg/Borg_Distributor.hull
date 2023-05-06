@@ -1,0 +1,41 @@
+Version=1
+HullName=FreeBorg/Borg_Distributor
+VisibleName=Distributor
+Role=freighter
+Style=FreeBorg
+Size=12,27
+MeshOffset=0,24
+IconPath=ShipIcons/Borg_Distributor
+ModelPath=mod Model/FreeBorg/Borg_Distributor
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|E  |___|___|___|___|___|___|___|___|E  |___
+___|E  |___|___|___|___|___|___|___|___|E  |___
+___|E  |___|___|___|___|___|___|___|___|E  |___
+___|E  |___|___|___|___|___|___|___|___|E  |___
+E  |E  |___|O  |___|___|___|___|O  |___|E  |E  
+E  |E  |___|O  |O  |O  |O  |O  |O  |___|E  |E  
+E  |E  |___|O  |O  |O  |O  |O  |O  |___|E  |E  
+E  |E  |O  |O  |O  |O  |O  |O  |O  |O  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |IC |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  
+E  |E  |___|E  |E  |E  |E  |E  |E  |___|E  |E  
+E  |E  |___|___|E  |E  |E  |E  |___|___|E  |E  
+E  |___|___|___|___|E  |E  |___|___|___|___|E  
+E  |___|___|___|___|___|___|___|___|___|___|E  

@@ -1,0 +1,39 @@
+Version=1
+HullName=Cardassia/OWP
+VisibleName=OWP
+Role=station
+Style=Cardassia
+Size=28,25
+MeshOffset=0,-4
+IconPath=ShipIcons/Car_Large_Turret
+ModelPath=mod Model/Cardassia/Car_Large_Turret
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|IO |IO |IO |IO |IO |O  |O  |IO |IO |IO |IO |IO |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |___|___|___|___|___|___|___
+___|___|___|___|___|___|IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |___|___|___|___|___|___
+___|___|___|___|___|IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |___|___|___|___|___
+___|___|___|___|___|IO |IO |IO |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |IO |IO |IO |___|___|___|___|___
+___|___|___|___|___|IO |IO |IO |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |IO |IO |IO |___|___|___|___|___
+___|___|___|___|___|IO |IO |IO |O  |O  |IO |IO |I  |I  |I  |I  |IO |IO |O  |O  |IO |IO |IO |___|___|___|___|___
+___|___|___|___|___|IO |IO |IO |O  |O  |IO |IO |I  |I  |IC |I  |IO |IO |O  |O  |IO |IO |IO |___|___|___|___|___
+___|___|___|___|IO |IO |IO |IO |O  |O  |IO |IO |I  |I  |I  |I  |IO |IO |O  |O  |IO |IO |IO |IO |___|___|___|___
+___|___|___|IO |IO |IO |IO |IO |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |IO |IO |IO |IO |IO |___|___|___
+___|___|IO |IO |IO |IO |IO |IO |IO |O  |IO |IO |IO |IO |IO |IO |IO |IO |O  |IO |IO |IO |IO |IO |IO |IO |___|___
+___|IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |___
+IO |IO |IO |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |O  |IO |IO 
+IO |IO |O  |O  |O  |IO |___|___|___|IO |IO |IO |IO |O  |O  |IO |IO |IO |IO |___|___|___|IO |O  |O  |O  |O  |IO 
+IO |O  |O  |IO |IO |___|___|___|___|___|IO |IO |IO |IO |IO |IO |IO |IO |___|___|___|___|___|IO |IO |O  |IO |IO 
+___|IO |IO |IO |___|___|___|___|___|___|IO |IO |IO |IO |IO |IO |IO |IO |___|___|___|___|___|___|IO |IO |IO |___
+___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___

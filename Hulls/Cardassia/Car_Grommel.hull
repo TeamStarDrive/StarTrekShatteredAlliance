@@ -1,0 +1,38 @@
+Version=1
+HullName=Cardassia/Car_Grommel
+VisibleName=Grommel Class
+Role=freighter
+Style=Cardassia
+Size=4,24
+MeshOffset=0,0
+IconPath=ShipIcons/Car_Grommel
+ModelPath=mod Model/Cardassia/Car_Grommel
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|I  |I  |___
+I  |I  |I  |I  
+I  |I  |I  |I  
+I  |I  |I  |I  
+I  |I  |I  |I  
+I  |I  |I  |I  
+I  |I  |I  |I  
+I  |I  |I  |I  
+I  |I  |I  |I  
+I  |I  |I  |I  
+I  |I  |I  |I  
+I  |I  |I  |I  
+I  |I  |IC |I  
+I  |I  |I  |I  
+I  |I  |I  |I  
+I  |I  |I  |I  
+I  |I  |I  |I  
+I  |I  |I  |I  
+I  |I  |I  |I  
+I  |E  |E  |I  
+E  |E  |E  |E  
+___|E  |E  |___
+___|E  |E  |___
+___|E  |E  |___

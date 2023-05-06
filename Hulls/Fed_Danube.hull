@@ -1,0 +1,22 @@
+Version=1
+HullName=Terran/Fed_Danube
+VisibleName=Danube Class revised
+Role=fighter
+Style=Terran
+Size=4,6
+MeshOffset=0,8
+IconPath=ShipIcons/Fed_Danube
+ModelPath=mod Model/Terran/Hunter/Fed_Danube
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Thruster=-21,28,0,32
+Thruster=19,29,0,32
+Slots
+___|IO |IO |___
+___|IO |IO |___
+E  |I  |I  |E  
+E  |I  |IC |E  
+E  |IO |IO |E  
+___|IO |IO |___

@@ -1,0 +1,33 @@
+Version=1
+HullName=Terran/Fed_Centaur
+VisibleName=Centaur Class revised
+Role=frigate
+Style=fed
+Size=12,17
+MeshOffset=0,-24
+IconPath=ShipIcons/Fed_Centaur.png
+ModelPath=mod Model/Terran/Hunter/Fed_Centaur
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Thruster=-79,124,0,32
+Thruster=80,122,0,32
+Slots
+___|___|___|___|___|IO |IO |___|___|___|___|___
+___|___|___|IO |IO |IO |IO |IO |IO |___|___|___
+___|___|IO |IO |O  |O  |O  |O  |IO |IO |___|___
+___|___|IO |O  |O  |O  |O  |O  |O  |IO |___|___
+___|IO |O  |O  |IO |IO |IO |IO |O  |O  |IO |___
+___|IO |O  |IO |I  |I  |I  |I  |IO |O  |IO |___
+___|___|O  |IO |I  |I  |I  |I  |IO |O  |___|___
+IE |___|___|IO |I  |I  |I  |I  |IO |___|___|IE 
+IE |IO |IO |O  |IO |I  |I  |IO |O  |IO |IO |IE 
+IE |IO |IO |O  |IO |I  |IC |IO |O  |IO |IO |IE 
+IE |IO |O  |___|O  |IO |IO |O  |___|O  |IO |IE 
+IE |IO |O  |___|O  |IO |IO |O  |___|O  |IO |IE 
+IE |IE |___|___|___|IO |IO |___|___|___|IE |IE 
+IE |IE |___|___|___|___|___|___|___|___|IE |IE 
+IE |E  |___|___|___|___|___|___|___|___|IE |IE 
+IE |IE |___|___|___|___|___|___|___|___|IE |IE 
+IE |IE |___|___|___|___|___|___|___|___|IE |IE 

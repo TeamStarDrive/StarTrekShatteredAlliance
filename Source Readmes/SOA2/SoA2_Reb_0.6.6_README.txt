@@ -1,0 +1,350 @@
+Thank you for downloading the Star Trek Sacrifice of Angels 2 version 0.6R
+
+SoA2 0.6.6R and above will work ONLY on SoaSE: Rebellion version 1.80
+
+SoA 2 is still a work in progress, and probably will always remain a work in progress. Until ether Our interest, or Fan interest in the mod fades away. There are still Models, Weapons, Abilitys, Research, and Factions that need to be added to and/or replaced. Many changes will come as time progresses. 
+
+Do not be lazy.. Read the entire Readme file. There is important information here. We take no responsibility if you damage your Sins installation, or your computer, because you failed to follow the directions provided here. Nor will we, and The Sins Mod Community hold back our sarcasim if you post a question that has already been answered here on this readme. READ IT ALL! Top to bottom.
+
+______________________________________________________________________________________________________________________
+
+IMPORTANT: SoA 2 is an English Language Mod! IF YOUR SINS INSTALLATION IS IN ANOTHER LANGUAGE PLEASE RENAME THE English.str FILE IN THE MODS "String" FOLDER TO YOUR NATIVE LANGUAGE. EXAMPLE: English.str to German.str ETC.
+
+______________________________________________________________________________________________________________________
+
+
+Installation of the Mod:
+Tutorial: http://soa2.soase.x90x.net/Install_Rebellion.html
+
+Win 7 / Vista
+C:\Users\[username]\Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\...
+
+Win XP
+C:\Documents and Settings\[username]\My Documents\My Games\Ironclad Games\Sins of a Solar Empire Rebellion\...
+
+There are 2 different folders for Rebellion mods, the released folder with version, and the developer folder with version.
+
+Regular EXE access --> ...\Mods-Rebellion vX.XX
+Developer EXE access --> ...\Mods-Rebellion vX.XX Dev
+Sins Mods are very specific to version and expansion type.
+vX.XX is the version of Rebellion. There may be multiple folders for different versions of each upgrade. Place the mod in the most current version folder only if the mod was made for that version. Older version folders or the mods in them are no longer used by the game.
+
+
+NOTE: [username] is your windows account name. Whatever administraitor user name you log into windows as.
+
+
+
+Now Basically drag the SoA 2 folder you extracted from the 7z compressed archive into your Mods-Rebellion v1.80 folder.. Thats it.
+
+Go into your Mods-Rebellion 1.80 folder, and double check the SoA 2 installation. Open it up the SoA 2 folder you just put in there. You should see the folders GameInfo, Mesh, Textures, an entity manifest, and so on. If you see just another SoA2 folder then you did it wrong. The correct intallation is ...\Mods-Rebellion v1.80\SoA2
+
+For best results run the mod on a CLEAN install of Sins: Rebellion with NO OTHER MODS ACTIVE. Download the latest version of Sins, via Steam. (Rebellion v1.80 as of this mod version)
+
+The SoA 2 0.6R series, and greater will work ONLY on Sins of a Solar Empire: Rebellion. Patched to version 1.80. Yes I already stated that above. I am stating it AGAIN to make sure you are reading this. We have had way too many people asking "what version is this mod for?", because they dont bother to read this damn README.
+
+
+
+
+________________________________________________________________________________________________________________
+
+Changes from Soa 2 demo initial release 0.01 to 0.01b
+
+Added proper ship pictures, Avatars, and icons for all of the Mod Factions.
+Buffed Dominion Devastator to be able to stand up in a fight better.
+Added more weapon hardpoints to Cardassian Galor, and Keldon Class's
+Added more weapon hardpoints to the Dominion Devastator Class
+Added temporary 3rd party LCAR's Style HUD. 
+Fixed all english string errors.
+
+Changes from SoA 2 0.01b to 0.02
+
+Disabled the Vanilla sins factions from being selectable.
+Moved Venture Refit to carrier slot to make room for the Sovereign (to be added in future update).
+Disabled ships going transparant during warp (phase jump).
+Added 1st part of a new original SoA 2 LCAR's Style HUD. 
+1st attempt at balancing mod. Tried to give ships proper stats. Not the best, but better than what it was before.
+I tried to balance vs the AI. Human opponents may require different types of balancing.
+Added some new weapon effects, and sounds.
+Added only canon Dominion War era Federation, Klingon, Romulan, Cardassian, Dominion, and Breen ships.
+Added Shield meshes to all modded ships.
+Removed aft torpedo from Defiant because it was causing targeting issues. She was getting stuck in position and not firing. Buffed dorsal Phasers to compensate. She only used the aft photon torpedo once in battle vs the Lakota.
+Reduced the price of the Defiant to a more reasonable level.
+Matched beam weapon durations to thier sound effects durations. This eliminated some sound issues.
+Matched beam muzzle effects to beam durations
+lowered volume on some sound effects, because they were way too loud in game. Especially when many ships fired at once.
+
+Changes from SoA 2 0.02 to 0.03a "The Klingon/Federation Skirmish". 
+
+Completely re-built the mod, and Converted all mod assets to work with Sins patch versions 1.1 through 1.12 (Major Stress/Darkshimmer).
+Fixed strike craft spawning issues, and added strike craft to the mod. Federation only for now. Klingons use vanilla sins units (Major Stress).
+Discontinued the elite/standard system due to lack of UI space available. All factions use the sins standard 15 combat unit slots (Major Stress).
+Completely redone all weapon hardpoints, and weapon stats (Major Stress/Darkshimmer). 
+Darkshimmer incorprated a new balancing system. Completely rebalanced the mod (Darkshimmer).
+Added full ship lineups to all of the factions. All 15 combat slots for each faction now has a unit. in appropriete roletype (Major Stress).
+Reduced the number of playable factions from six to four (Major Stress).
+Added new ships to Pirate Faction, The pirate raid fleets can be made up of ships from any random faction (Darkshimmer). 
+Buffed the pirate base. (Darkshimmer)
+Added new weapon sounds, and effects. Tweaked some existing effects (Darkshimmer).
+Incorporated Manshooters Volumetric Explosions mod (Major Stress).
+Fixed map issues. Maps now spawn proper builders and shipyards (Admiral Cobbs)
+Added some new voice responces to the Federation, and Klingons (Darkshimmer)
+Klingons have some new theme music (Darkshimmer)
+Romulans have some new theme music (Darkshimmer)
+
+Changes from SoA 2 0.03a to 0.03a2
+
+Fixed various crash issues, and replaced some missing content.
+
+
+Changes from SoA 2 0.03a2 to 0.03a3 "The Klingon/Federation/Romulan Skirmish"
+
+Completely reworked torpedo damage and firing delays.
+Reworked Shield values and hull values for all races. This should allow longer battles but weaker hulls. 
+Sovereign test for pulse torpedo.
+Elites and cruisers now move faster, Frigates move alittle slower. 
+Romulans now playable race. - Sounds are incomplete as of yet.
+Mission objective, try to take the pirate base! WE DARE YOU!
+
+Changes from SoA 2 0.03a3 to 0.03b
+
+Dominion faction added (unified with Cardassian, and Breen units), and Balanced accordingly. Faction still needs proper music, and unit response voiceovers.
+Disabled first capital ship free on all maps as was intended from the beginning.
+
+Changes from SoA 2 0.03b to 0.03c (Final release for Original SotSE)
+
+Mostly balancing tweaks, and error fix release. 
+
+Changes from SoA 2 0.03c to 0.3E1 (Initial SoA 2 release for SotSE: Entrenchment)
+
+Complete rebuild of the mod to use the Entrenchment expansions code.
+Removed Romulan, and Dominion factions temporarily to rebalance Federation, and Klingon factions.
+Removed Lakota as an Elite unit, and from the mod. No point in having TWO excelsior classes. 
+Defiant promoted to an Elite unit.
+Ship lineup slots, and roletype changes.
+Dynamic Ship Movement (fighter like movement) enabled for all ships.
+Improved version of Manshooters volumetric explosion mod incorporated.
+Some trek style structures added.
+New WIP research trees added.
+Gravity well sizes increased to allow more room for "dogfights"
+Much more... too much to list
+
+Changes from SoA 2 0.3e1 to 0.3e101
+
+Converted to entrenchment patch 1.041 using Harpo's mod converter.
+Bug, and balance fix release.
+
+Changes from 0.3e101 to 0.3e102
+
+Attempted crash issue fix's from conversion to Entrenchment 1.041.. FAILURE!! 
+Mod scrapped. Conversion using mod converter did not work. Mod must be re-built.
+
+Changes from 0.3e.102 to 0.3e.9(public test) and 0.4e 
+
+Mod rebuilt from scratch YET AGAIN to utilize the Entrenchment 1.041 code 
+(Thank you Ironclad breaking our mod yet again, and for teaching us patience, and restraint. We just LOVE doing things over, and over, and over again.)
+Mods file Naming system, and structure re-organized to mimic Vanilla Sins in order to prevent unecessary, and redundant  Vanilla sins files from loading, and to streamline the mod. Many old, and redundant files were removed. Too much work done to list it all here.
+Weapon effects re-done.
+Sounds re-done
+UI re-done
+Literally EVERYTHING re-done
+Romulan faction re-intergrated into mod, and rebalanced
+Dominion faction re-intergrated into the mod, and rebalanced
+Working cloaking devices enabled (not perfect, but much better than what we had before, plus may need more balancing)
+Strike craft re-intergrated (structures, and starbase's only) 
+More UI LCAR's work done.
+Research trees tweaked. They are still Works in Progress! They will take quite a while to finish.
+Models and textures looked over, and fixed where needed. There are still mesh issues (flipped faces, and smoothing issues) from way back. We will get to fixing them eventually, but they are low priority right now.
+
+Research trees are still a WIP. We are not sure how much vanilla sins research is tied into the AI. We need to test the AI to make sure it builds properly.
+
+NOTE: Somewhere along the line in my absense the Mods version numbers got all screwed up. Plus nobody really keeped track on "what" was updated over the last few releases. So i am reverting this back to the 0.5D initial release, and we shall go from there (Major Stress)
+
+Changes from the SoA 2 0.4E/D series to 0.5.1D initial release.
+
+:Converted mod code to work with SotSE: Diplomacy v1.34 (SoA 2 Team)
+:Fixed dump at mod startup issue.
+:Added a new LCARS style UI (MyFist0) NOTE: UI is still a WIP, and not finished yet.
+:Added many changes to research trees (Jaytlrpcs, and Psychoak)
+:Fully incorporated The Sins Optimization Project (Major Stress)
+:New less nebula intrusive Skybox's added (Major Stress).
+:New meshes added for Romulan, and Dominion starbases. Plus first of the Planetary Defender "Ships of the Week" added.
+ Ferrengi Maurader, and Maquis Raider. Plus added Elite Shipyard for Feds. (SoA 2 Team).
+:Many Mesh null errors corrected. Fed, and some Klingon ships now have Nav lights (Major Stress).
+:Mesh shaders changed to make ships slightly brighter in dark backgrounds. Plus specular maps brightened to better reflect lightsource. (Major Stress)
+:Fixed wierd lighting issues when enabling Ship Mesh Highlight Filter in the options. Ship Mesh Highlight Filter now works. (Major Stress).
+:Many bug fix's (WAY too many more to list here).
+
+____________________________________________________________________________________________________________________
+
+Known Issues: "There will ALWAYS be bugs."
+
+Major Known Issues:
+
+:Weapons will on occasion fire through the firing ships own hulls, and some weapons will fire at wierd, and absurd angles. 
+
+This issue cannot be fixed. The firing arcs of Sins are pretty basic, broad, and they are HARDCODED. The Forward, left, right, and back Firing arcs cover 180 degrees only. There is no way to narrow down, or change the angles which weapons fire. The game will require a complete re-write to change this. Hopefully this will be done in Rebellion. What we have done is reworked the weapons to try to "minimize" instances of weapons firing through their own hulls. There will still be some cases of it happening. Just know it is hardcoded, and that there is nothing we can do about it.
+
+:Cloaking is still a work in progress. 
+
+What we have now is a "functional" cloak, but it still needs more work. It is functional, but not "canon". Due to the nature of Sins itself it will be impossible to make a "canon" cloaking device. To be honest i am amazed we pulled off what we do have. The AI does not use cloak. Nor can we find a way to force it to. The AI is hard coded. For Multiplayer Cloaking can be activated manually (working on "fleet cloak/decloak" abilitys)
+
+:Some Ships, or structures should be "bigger" than what they are in the mod.
+
+This is intentional, but no doubt some one will complain about this. We had to put a size cap on some of the "Super Sized" units (Like the Borg cube). That limit is 1500 meters (on the x axis). Which is still quite large. If we made the ships, and starbases "true scale", then they quite literally would be as large as the planets, and take up half the gravity wells space. To make matters worse the AI pathfinding leaves much to be desired in Sins. So we capped the scale to try, and avoid units playing "bumper cars" with each other. There are enough obstacles in a gravity well as it is. We dont need ships getting stuck to each other on top of this.
+
+:The research trees are still a WIP. 
+
+There are some things people may think are discrepencys, but they are that way for a reason (mainly for balancing purposes). Bringing Trek to Sins was much more difficult than we had originally thought. We had to bend, or break a lot of established "canon" rules just to make things work in the mod. However we try to make things as close to canon as humanly possible without making it look ridiculous. Everyone has their own opinion on what "canon" is, or how things "should" work, or "fit" in the Trek Universe. Enjoy the mod for what it is, and try not to nit pick it to death.
+
+:Sounds on occasion can be VERY loud (especially the Borg Sounds). 
+
+We are working on leveling the loudness on some sounds, and music.
+
+:The new UI is incomplete. 
+
+There are still some "fitting" issues with some of the new UI pictures. For example on some monitors the faction avatars may show like on a filmstrip.
+
+:Some ship meshes are missing faces, and/or have wierd, and very bright lighting on some polys.
+
+This is an issue with ConvertXSI, and XSI itself. The intended modeling program to make meshes for Sins was XSI v6.0. That is also the modeling program ConvertXSI was made to convert meshes from. Problem is that XSI 6.0 does not work with Windows Vista, or 7. ConvertXSI does Work with higher versions of XSI, but does not work very well with them. The meshes will almost ALWAYS have errors. Even the same mesh converted several times will have errors in different spots. So it is a dice roll converting models from versions higher than XSI 6.0. I intended to fix all of the errors, but didnt have the free time to do this.
+
+
+___________________________________________________________________________________________________________________
+
+We have a Debugging Site for tracking bugs, errors, problems, or enchancement requests. Help us make a better mod by reporting all bugs, no matter how small they are to us, this will help you have a better mod to enjoy.
+
+http://code.google.com/p/sinssoa2sacrificeofangels/
+or eMail
+soa2@hotmail.ca
+
+Playable races in SoA 2 will be the Federation, Romulans, Klingons, Dominion, and The Borg. Other work includes Custom UI, Research trees, and ship/structure meshes. Future versions will address other issues, and add more to the mod.  
+
+FAQs
+
+Will the ships use dynamic or fighter style movement? Yes, all ships will use the fighter style movement except for the larger Borg ships (Cubes).
+
+Will the capital ships have abilities? Yes, right now they each have abilities, but they are all WIP's.
+
+Will the tech trees be changed from the original trees? Yes, this has already been worked on, but is still a WIP.
+
+Will the Pirates, and Planetary Defenders be changed to Trek ships in the future? Yes they will. We are working on TNG era "Ships of the Week" for the Defenders, and Orion Syndicate for the Pirates.
+
+Will Species 8472 be in the mod? Absolutely NOT! 
+
+Note: This mod is about a war between the major ALPHA, BETA, and GAMMA QUADRANT factions. With the Borg being the only faction from the Delta quadrant capable of reaching the Alpha quadrant in a short period of time. 8472, the Kazon, Krenem, Hirogen, etc, etc (ANY faction featured in Voyager, except The Borg) are not capable of reaching the Alpha/beta quadrant. So these factions will NOT be featured. The Borg use a re-constructed Transwap Hub to reach the Alpha Quadrant. The Dominion use the captured Bajor wormhole to summon re-enforcements from the Gamma quadrant. In all honesty the fact is NONE of us on the mod team like Voyager, or Enterprise. So we want to leave out ANY material from Voyager. Except for the Intrepid, and Nova classes.
+
+Will the NX-01 be in the mod? Are you Serious?? This is a Post TNG era mod. While we are using some of the Klingon, Romulan, and Orion ship designs from Enterprise. We will NOT use any Earth ship from Enterprise. You want an Enterprise era mod? Make it yourself.
+
+Will the Prometheus, Wells, or the Scimitar be in the mod?... Sigh, NO! They are considered to be "Uberships". Plus look at which series\movie they came from. We are trying to keep the "absurdity" of Berman/Braga Trek out of this mod.
+
+Just a quick note: 
+
+Technically since the release of JJ Abrams Star Trek. The prime TOS, and TNG timeline doesnt exist anymore. I dont buy the alternate timeline thing. I think JJ trek effectevly wiped out the timeline as we knew it. This mod assumes that the prime universe still exists like JJ trek never happened. Since the initial release of SoA 2 was 1 year before the movie came out. The year is intentionally set at 2388, and YES Romulus, and Vulcan still very much exist. There was no "galactic supernova". Nero is still persuing his life of "honest Labor". Spock is still an ambassador on Romulus. This is a Prime Universe Mod. The events of JJ Trek NEVER happened here.
+
+
+Can I help out? After this version is released we will be accepting bug fixes only. Community contributions (ships, abilities, etc.) will be accepted after the core work is done (all races in and balanced). Please send them to:
+
+soa2@hotmail.ca
+
+We also have a Wiki Page for the mod:
+
+http://code.google.com/p/sinssoa2sacrificeofangels/w/list
+
+____________________________________________________________________________________________________________________
+
+Ships in the mod are arranged in the build menus exactly like the ships in Sins are arranged. According to their "roletype". We even added the ships roletype on the ship description to avoid any confusion as to "what does this ship do?". This doesnt mean much for the mod itself. In the mod a ship may, or may not act like the role it was slotted for. In some cases mod ships have "dual roles". We MUST use the Sins roletypes so that the Sins AI will function properly. For example: The Galaxy Class is slotted as an "Elite Carrier". However it does not carry strike craft. Its roletype is a carrier only so the Sins AI will function correctly, and build it. It will act like a pocket battleship in game.
+
+In order for the sins AI to work it MUST see at least one of each vanilla sins roletype in every faction. Every faction MUST have a Scout, Colony frigate, Lrm, siege frigate, etc. etc. If a faction is missing ANY roletype the AI simply will be Slow, and be even more stupid whan what the vanilla AI already is. In many cases the AI will not build anything at all, or expand. In some cases it even crashes the game. In past releases we were missing some roletypes. This has now been remedied.
+___________________________________________________________________________________________________________________
+
+A Note on "Elite" units:
+
+They are the same thing as a Sins Capital Ship. However in SoA 2 an "elite" may, or may not be a "true" capital ship. For example the Defiant class is an elite unit, but it is only a small escort cruiser. Not a capital ship
+
+Elite Units are the "hero" units of SoA 2. They stand out over the other typical cannon fodder, and attrition units. They gain levels, and use ability's just like sins capitals do. 
+
+We tried to make it to where there will be no "Free" Elite units in the mod. However the Sins AI needs at least the Colony Capital slot for free, or the AI will not function correctly. You must research elite training, Weapon/armor pre-req's, and the elite units "upgrade" to build all other elite units.
+
+____________________________________________________________________________________________________________________
+
+Credits
+
+http://soa2.soase.x90x.net/crew.html
+
+I printed who made what model on the models texture sheets. If the 3rd party model credits printed are incorrect please contact us so we can give proper credit where it is due. If no credit is on the texture, It is because ether there was no room to print it, or we do not know who made the model.
+
+The Trekmods Team.. in alphabetical order
+
+Charvell: Modeler and texture artist. (retired)
+Dasher42: Code monkey elite (retired)
+Dolphoenix: Modeler, and Texture artist. SoA/FTB project lead (Retired)
+Howader: Modeler (retired)
+Major Stress aka The Stress Puppy: Modeler, Texture artist, Limited scripter, 
+Redragon: Modeler, and Texture artist (retired)
+Shadow: Modeler, and Texture artist (retired)
+Thomas the Cat aka Thomas Marrone. Concept, and texture artist
+Vorlon: Texture artist
+
+The Digital Underground Team
+
+Darkshimmer: Scripter, SoA 2 Balancing, SoA 2 Gameplay design, SoA 2 Effects, SoA 2 Project lead
+Darkthunder: Artist, Webmaster, Playtester
+Darkdrone: Model and texture artist.
+
+The SoA 2 Team (Fill in who is missing)
+
+Major Stress: (SoA 2 founder, Model/Texture artist, limited scripter, Semi-retired)
+Psychoak (Code Monkey)
+myfist0 (UI work, Sounds, Music, playtesting)
+
+Other artist that contributed to help make SoA 2 possible. The SoA 2 Team Thanks you for your contributions, and support.
+
+Jaytlrpcs: (SoA 2 Project Lead, Code Monkey)
+Manshooter (Volumetric Explosions mod)
+LokiGodOfMischief (Models, Borg Faction, and mod assistance)
+EOmega (models)
+You-Cheng Hsieh (Textures)
+Lord Tareq (Cloak foundation code)
+Fehdman (Effects)
+CaptJono (intro video)
+Admiral Cobbs (Effects, Tweaks, Playtesting)
+Pneumonic 81 aka Rick Knox (models)
+Cleeve (models)
+C2Xtreme (models)
+SNS (models)
+Moonraker (models)
+Atrahasis (models)
+Eliteforces2 (Models)
+Thus11 (Models)
+Atolm (models)
+Wicked Zombie (models)
+Smiley (models)
+JTAYLORPCS (Beta testing, Debugging, Code monkey, project lead )
+QuicktoDraw (Beta Testing)
+TenHunter (Beta Testing)
+BullVine (Beta Testing)
+Dragoon4ever (Beta Testing, Bug Reporting, Tweeking)
+LoTeK_ (Beta Testing, String Work and more)
+Ross Balantyne(models)
+RC-1290 (Directional Shield Effects http://codeanimo.com/projects/shieldimpacteffect/)
+____________________________________________________________________________________________________________________
+
+Copyright and Distribution Permissions
+--------------------------------------
+THIS MOD IS NOT MADE, DISTRIBUTED, OR SUPPORTED BY STARDOCK CORPORATION, IRONCLAD GAMES (TM), or PARAMOUNT PICTURES.
+
+Copyright notices: 
+
+Star Trek, Star Fleet Command, Klingon Academy, ST: Bridge Commander, Star Trek: Deep Space Nine, Star Trek: The Next Generation, Star Trek: Voyager (and the various logo devices used in them) are copyright Paramount Pictures, as are the characters, related images, and sound from the productions. 
+
+
+Please do not modify any of the mod files, The included textures. Nor add them to your own mods with out seeking the original authors opinion, and permission first. 
+
+Nothing legal here. It is just polite, and the right thing to do. It shows respect to all of the talented artist's who worked hard to made this mod possible.
+
+
+
+
+
+
+

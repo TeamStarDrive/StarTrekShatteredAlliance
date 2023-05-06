@@ -1,0 +1,48 @@
+Version=1
+HullName=Klingon/Kling_JoHwl
+VisibleName=JoHwl Class
+Role=freighter
+Style=Klingon
+Size=8,34
+MeshOffset=0,0
+IconPath=ShipIcons/Kling_JoHwl
+ModelPath=mod Model/Klingon/Kling_JoHwl
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|IO |___|___|IO |___|___
+___|___|IO |IO |IO |IO |___|___
+___|___|IO |IO |IO |IO |___|___
+___|IO |IO |IO |IO |IO |IO |___
+___|IO |IO |IO |IO |IO |IO |___
+___|IO |IO |IO |IO |IO |IO |___
+___|___|___|I  |I  |___|___|___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |IC |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |___
+E  |E  |___|I  |I  |___|E  |E  
+E  |E  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |E  |E  
+E  |E  |E  |E  |E  |E  |E  |E  
+E  |___|E  |E  |E  |E  |___|E  
+E  |___|E  |E  |E  |E  |___|E  
+E  |___|___|E  |E  |___|___|E  
+E  |___|___|___|___|___|___|E  
+E  |___|___|___|___|___|___|E  

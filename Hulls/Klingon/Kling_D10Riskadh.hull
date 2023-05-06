@@ -1,0 +1,38 @@
+Version=1
+HullName=Klingon/Kling_D10Riskadh
+VisibleName=D10 Riskadh
+Role=frigate
+Style=Klingon
+Size=14,24
+MeshOffset=0,0
+IconPath=ShipIcons/Kling_D10Riskadh
+ModelPath=mod Model/Klingon/Kling_D10Riskadh
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|___|IO |IO |___|___|___|___|___|___
+___|___|___|___|___|IO |IO |IO |IO |___|___|___|___|___
+___|___|___|___|___|IO |IO |IO |IO |___|___|___|___|___
+___|___|___|___|___|___|IO |IO |___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |___|___|___|___|___|___
+___|___|___|___|O  |___|IO |IO |___|O  |___|___|___|___
+___|___|___|O  |O  |___|IO |IO |___|O  |O  |___|___|___
+___|___|___|O  |O  |___|IO |IOC|___|O  |O  |___|___|___
+___|___|O  |O  |O  |O  |IO |IO |O  |O  |O  |O  |___|___
+___|___|O  |O  |O  |IO |I  |I  |IO |O  |O  |O  |___|___
+___|___|O  |O  |O  |IO |I  |I  |IO |O  |O  |O  |___|___
+___|E  |O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |E  |___
+E  |E  |O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |E  |E  
+E  |E  |O  |IO |IO |I  |I  |I  |I  |IO |IO |O  |E  |E  
+E  |E  |O  |IO |IO |I  |I  |I  |I  |IO |IO |O  |E  |E  
+E  |E  |O  |IO |IO |I  |I  |I  |I  |IO |IO |O  |E  |E  
+E  |E  |O  |IO |IO |IO |E  |E  |IO |IO |IO |O  |E  |E  
+E  |E  |O  |O  |O  |O  |E  |E  |O  |O  |O  |O  |E  |E  
+E  |E  |___|___|___|___|___|___|___|___|___|___|E  |E  

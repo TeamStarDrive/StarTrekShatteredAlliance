@@ -1,0 +1,30 @@
+Version=1
+HullName=Klingon/Kling_D11OneWing
+VisibleName=D11 One Wing
+Role=corvette
+Style=Klingon
+Size=10,16
+MeshOffset=0,0
+IconPath=ShipIcons/Kling_D11OneWing
+ModelPath=mod Model/Klingon/Kling_D11OneWing
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|IO |IO |IO |___|___|___|___
+___|___|___|IO |IO |IO |___|___|___|___
+___|___|___|O  |O  |___|___|___|___|___
+___|___|O  |O  |O  |___|___|___|___|___
+___|___|O  |O  |___|___|___|___|___|___
+___|___|O  |O  |___|___|___|___|___|___
+___|O  |O  |O  |___|___|___|___|___|___
+___|O  |O  |O  |___|___|___|E  |E  |___
+O  |O  |O  |IO |IO |IOC|O  |E  |E  |E  
+O  |O  |IO |IO |I  |I  |IO |E  |E  |E  
+O  |O  |IO |IO |I  |I  |IO |E  |E  |E  
+___|O  |E  |E  |IO |IO |O  |E  |E  |___
+___|___|E  |E  |___|___|___|E  |___|___
+___|___|E  |___|___|___|___|E  |___|___
+___|___|E  |___|___|___|___|E  |___|___
+___|___|E  |___|___|___|___|E  |___|___

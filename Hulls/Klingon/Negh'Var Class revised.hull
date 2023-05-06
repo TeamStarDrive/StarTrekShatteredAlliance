@@ -1,0 +1,77 @@
+Version=1
+HullName=Klingon/Kling_NeghVar
+VisibleName=NeghVar
+Role=capital
+Style=Klingon
+Size=46,62
+MeshOffset=0,24
+IconPath=ShipIcons/Kling_NeghVar
+ModelPath=mod Model/Klingon/Kling_NeghVar
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Thruster=0,0,0,32
+Slots
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |O  |IO |IO |O  |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |O  |O  |IO |IO |O  |O  |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |O  |O  |O  |IO |IO |IO |IO |O  |O  |O  |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |O  |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |O  |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |O  |O  |O  |O  |IO |IO |IO |IO |O  |O  |O  |O  |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |O  |O  |O  |IO |IO |O  |O  |O  |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |O  |O  |IO |IO |O  |O  |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |O  |O  |IO |IO |O  |O  |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |O  |IO |IO |O  |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |O  |IO |IO |O  |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |IO |IO |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |IO |IO |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |O  |O  |IO |IO |O  |O  |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |O  |O  |IO |IO |O  |O  |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |O  |IO |IO |O  |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |___|___|___
+___|___|IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |O  |IO |IO |O  |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |___|___
+___|IO |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |O  |IO |IO |O  |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |IO |___
+IO |IO |IO |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |O  |IO |IO |O  |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |IO |IO |IO 
+IO |IO |IO |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |IO |IO |IO |IO |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |IO |IO |IO 
+IO |IO |IO |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |IO |IO |IO |IO |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |___|___|___|___|___|___|___|___|___|___|IO |IO |O  |O  |IO |I  |I  |IO |O  |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |___|___|___|___|___|___|___|___|___|___|IO |IO |O  |O  |IO |I  |I  |IO |O  |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |IO |IO |IO |___|___|___|___|___|___|___|IO |IO |O  |O  |IO |I  |I  |IO |O  |O  |IO |IO |___|___|___|___|___|___|___|IO |IO |IO |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |O  |O  |O  |IO |___|___|___|___|___|___|IO |IO |O  |O  |IO |I  |I  |IO |O  |O  |IO |IO |___|___|___|___|___|___|IO |O  |O  |O  |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |O  |O  |O  |O  |IO |IO |___|___|___|___|IO |IO |O  |O  |IO |I  |I  |IO |O  |O  |IO |IO |___|___|___|___|IO |IO |O  |O  |O  |O  |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |O  |IO |IO |I  |I  |IO |IO |O  |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |I  |IC |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |I  |I  |I  |I  |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |IO |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |IO |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |I  |IO |IO |O  |O  |O  |O  |O  |O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  |O  |O  |O  |O  |O  |IO |IO |I  |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |IE |IE |IE |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |IE |IE |IE |IE |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |IE |IE |IE |O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |IE |IE |IE |IE |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |IE |IE |IE |IE |O  |IE |IE |IE |IE |IE |O  |O  |O  |IO |IO |IO |I  |I  |IO |IO |IO |O  |O  |O  |IE |IE |IE |IE |IE |O  |IE |IE |IE |IE |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |IE |IE |IE |IE |O  |IE |IE |E  |E  |IE |O  |O  |O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |O  |O  |IE |IE |IE |IE |IE |O  |IE |IE |IE |E  |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |O  |O  |O  |O  |IE |IE |IE |IE |IE |O  |IO |IO |O  |IO |IO |I  |I  |IO |IO |O  |IO |IO |O  |IE |IE |IE |IE |IE |O  |O  |O  |O  |IO |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |E  |IO |O  |O  |O  |IE |IE |IE |IE |IE |IO |___|___|O  |IO |IO |I  |I  |IO |IO |O  |___|___|IO |IE |E  |E  |E  |E  |O  |O  |O  |IO |IO |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |IO |IO |IO |O  |O  |E  |E  |E  |E  |IE |IO |___|O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |___|IO |IE |E  |E  |E  |E  |O  |O  |IO |IO |IO |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |IO |IO |IO |IO |O  |E  |E  |E  |E  |IE |IO |___|O  |IO |IO |IO |I  |I  |IO |IO |IO |O  |___|IO |IE |E  |E  |E  |E  |O  |IO |IO |IO |IO |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |IO |___|___|IO |IO |E  |E  |E  |E  |IO |IO |___|O  |IO |IO |IO |I  |I  |IO |IO |IO |O  |___|IO |IO |E  |E  |E  |E  |IO |IO |___|___|IO |E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |___|___|___|___|IO |IO |IO |IO |IO |IO |___|___|O  |O  |O  |O  |IO |IO |O  |O  |O  |O  |___|___|IO |IO |IO |IO |IO |IO |___|___|___|___|E  |E  |E  |IO |IO |IO 
+IO |IO |IO |E  |E  |E  |___|___|___|___|___|IO |IO |IO |IO |IO |___|___|O  |O  |O  |O  |IO |IO |O  |O  |O  |O  |___|___|IO |IO |IO |IO |IO |___|___|___|___|___|E  |E  |E  |IO |IO |IO 
+IO |IO |IO |IO |IO |IO |___|___|___|___|___|___|IO |IO |IO |IO |___|___|___|IO |IO |O  |IO |IO |O  |IO |IO |___|___|___|IO |IO |IO |___|___|___|___|___|___|___|IO |IO |IO |IO |IO |IO 
+IO |IO |IO |IO |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |IO |IO |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |IO |IO |IO |IO 
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |IO |IO |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |O  |O  |O  |O  |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |O  |O  |O  |O  |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |IO |O  |O  |IO |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |O  |O  |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|IO |O  |O  |IO |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___

@@ -1,0 +1,23 @@
+Version=1
+HullName=Klingon/Kling_D12Brel
+VisibleName=D12 B'rel
+Role=corvette
+Style=Klingon
+Size=10,9
+MeshOffset=0,8
+IconPath=ShipIcons/Kling_D12Brel
+ModelPath=mod Model/Klingon/Kling_D12Brel
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|IO |IO |___|___|___|___
+___|___|___|___|IO |IO |___|___|___|___
+O  |___|___|___|IO |IO |___|___|___|O  
+O  |___|___|___|O  |O  |___|___|___|O  
+O  |O  |___|___|IO |IO |___|___|O  |O  
+O  |O  |IO |IO |I  |IC |IO |IO |O  |O  
+___|O  |IO |IO |I  |I  |IO |IO |O  |___
+___|___|E  |E  |E  |E  |E  |E  |___|___
+___|___|E  |E  |E  |E  |E  |E  |___|___

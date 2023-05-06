@@ -1,0 +1,34 @@
+Version=1
+HullName=Romulan/Beta Class Turret
+VisibleName=Beta Class Turret
+Role=station
+Style=Romulan
+Size=20,20
+MeshOffset=0,0
+IconPath=ShipIcons/Rom_Small_Turret
+ModelPath=mod Model/Romulan/Rom_Small_Turret
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|___|___|___|___|IO |IO |___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|IO |IO |IO |IO |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|IO |O  |O  |IO |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|IO |O  |O  |IO |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|IO |O  |O  |IO |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|IO |IO |O  |O  |IO |IO |___|___|___|___|___|___|___
+___|___|___|___|___|___|IO |IO |IO |O  |O  |IO |IO |IO |___|___|___|___|___|___
+___|___|___|___|___|IO |IO |IO |IO |O  |O  |IO |IO |IO |IO |___|___|___|___|___
+___|IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |___
+IO |IO |O  |O  |O  |O  |O  |O  |IO |I  |I  |IO |O  |O  |O  |O  |O  |O  |IO |IO 
+IO |IO |O  |O  |O  |O  |O  |O  |IO |I  |IC |IO |O  |O  |O  |O  |O  |O  |IO |IO 
+___|IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |___
+___|___|___|___|___|IO |IO |IO |IO |O  |O  |IO |IO |IO |IO |___|___|___|___|___
+___|___|___|___|___|___|IO |IO |IO |O  |O  |IO |IO |IO |___|___|___|___|___|___
+___|___|___|___|___|___|___|IO |IO |O  |O  |IO |IO |___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|IO |O  |O  |IO |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|IO |O  |O  |IO |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|IO |O  |O  |IO |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|IO |IO |IO |IO |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|IO |IO |___|___|___|___|___|___|___|___|___

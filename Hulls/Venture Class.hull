@@ -1,0 +1,23 @@
+Version=1
+HullName=Terran/Venture Class
+VisibleName=Venture Class
+Role=fighter
+Style=fed
+Size=8,9
+MeshOffset=0,8
+IconPath=ShipIcons/Fed_Venture.png
+ModelPath=mod Model/Terran/Hunter/Fed_Venture
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|O  |O  |___|___|___
+___|___|IO |IO |IO |IO |___|___
+___|___|IO |IO |IO |IO |___|___
+___|IO |IO |IO |IO |IO |IO |___
+IO |IO |IO |IO |IOC|IO |IO |IO 
+IO |IO |IO |E  |E  |IO |IO |IO 
+___|IO |E  |E  |E  |E  |IO |___
+___|___|___|OE |OE |___|___|___
+___|___|___|OE |OE |___|___|___

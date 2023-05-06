@@ -1,0 +1,25 @@
+Version=1
+HullName=Terran/Type M-13 Turret
+VisibleName=Type M-13 Turret
+Role=station
+Style=fed
+Size=12,11
+MeshOffset=0,-8
+IconPath=ShipIcons/Fed_Small_Turret.png
+ModelPath=mod Model/Terran/Stations/Fed_Small_Turret
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|O  |O  |O  |O  |___|___|___|___
+___|___|O  |O  |O  |O  |O  |O  |O  |O  |___|___
+___|O  |O  |O  |IO |IO |IO |IO |O  |O  |O  |___
+O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
+O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
+O  |O  |IO |IO |IO |IO |IOC|IO |IO |IO |O  |O  
+O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
+O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
+___|O  |O  |O  |IO |IO |IO |IO |O  |O  |O  |___
+___|___|O  |O  |O  |O  |O  |O  |O  |O  |___|___
+___|___|___|___|O  |O  |O  |O  |___|___|___|___

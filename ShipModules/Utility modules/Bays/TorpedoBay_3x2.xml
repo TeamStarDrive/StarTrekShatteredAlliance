@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Cost>45</Cost>
+  <!-- common traits shared by all ship modules -->
+  <XSize>3</XSize>
+  <YSize>2</YSize>
+  <ModuleType>Storage</ModuleType>
+  <Name>Ordnance Fabricator</Name>
+  <Restrictions>I</Restrictions>
+  <UID>TorpedoBay_3x2</UID> 
+  <Version>2</Version>
+  <OffPowerMod>2</OffPowerMod>
+
+  <IconTexturePath>Modules/TorpedoBay_3x2</IconTexturePath>
+  <Mass>25</Mass>
+  <Health>9600</Health>
+  <HealthMax>9600</HealthMax>
+  <energyreq>0</energyreq>
+  <Description>.
+  </Description>
+  
+  
+  <PowerDraw>100</PowerDraw>
+  <PowerDrawAtWarp>-60</PowerDrawAtWarp>
+
+
+
+  <NameIndex>18332</NameIndex>
+  <DescriptionIndex>18333</DescriptionIndex>
+
+
+  <OrdnanceAddedPerSecond>6.5</OrdnanceAddedPerSecond>
+
+  <!-- for shield items -->
+  
+  <ShieldPowerMax>0</ShieldPowerMax>
+  <ShieldRechargeDelay>0</ShieldRechargeDelay>
+  <ShieldRechargeRate>0</ShieldRechargeRate>
+  <ShieldRadius>0</ShieldRadius>
+  <radius>0</radius>
+
+  <!-- for PowerPlant Items -->
+  
+  <PowerFlowMax>0</PowerFlowMax>
+  <PowerStoreMax>0</PowerStoreMax>
+
+  <!-- for Weapons -->
+  <OrdinanceCapacity>2000</OrdinanceCapacity>
+
+  <!-- for Engines -->
+  <Thrust>0</Thrust>
+
+
+
+</ShipModule>

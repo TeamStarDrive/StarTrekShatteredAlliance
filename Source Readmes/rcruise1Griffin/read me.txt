@@ -1,0 +1,73 @@
+Griffin class rcruise1 version 2.0 by Aad Moerman
+
+This is a new version of the Romulan Class, with a new mesh and new textures. I've included a new wireframe and
+buildbutton.
+Also included are a shipfile and 2 weaponfiles. I've given the Griffin more weapons and stronger shields, as the stock ship
+is very weak.
+
+Important Note:
+Make a backup of your existing files, because the files in this folder will overwrite the stock files!
+
+Credits:
+
+As allways, thanks to Wrath of Achilles for his Texture Tutorial and Major A Payne for his SodTutorial. 
+
+All meshes, textures, etc are by me. 
+
+The Odf files are edited stock files.
+
+Please note:
+I cannot be hold responsible for any damage or problems otherwise regarding this model. 
+
+
+You may use this ship in your mod, just give credit where its do. 
+
+
+Thank you for downloading.
+
+****************************************************************************************
+Installation instructions
+
+put the sod files into the sod folder, the odf files into the odf ship folder (When prompted to overwrite, click 'yes'), 
+and the tga into the texture RGB folder (When prompted to overwrite, click 'yes'). ( I include the MS3D files for those who are interested.)
+
+Open Bitmaps --> open Admiralslog --> open ShipImages and put the image there (When prompted to overwrite, click 'yes'). 
+
+Open the ODF folder -->
+Put the odf file into the odf ship folder of Armada II. When prompted to overwrite, click 'yes'. 
+Open the weapons odf folder --> open the Photons folder and put the rc1phot and rphotono files in the folder. 
+(When prompted to overwrite, click 'yes').
+
+****************************************
+Open Sprites --> open gui_global
+
+find the lines:
+
+#Romulan Wireframes
+
+@reference=256
+
+delete the next lines:
+
+rcruise1w1			romwireframe01	0	96	48	48		
+rcruise1w2			romwireframe01	48	96	48	48		
+rcruise1w3			romwireframe01	96	96	48	48		
+rcruise1w4			romwireframe01	144	96	48	48		
+rcruise1w5			romwireframe01	192	96	48	48
+
+
+find:
+
+#Romulan Wireframes
+
+@reference=128 (if not present, just add the reference)
+
+add below that list:
+
+rcruise1w1			wfrcruise1		0	0	128	128
+
+********************************************************************
+
+
+That's it!
+

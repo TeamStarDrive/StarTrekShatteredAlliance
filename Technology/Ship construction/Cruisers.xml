@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Cruisers</UID>
+  <TechnologyType>ShipHull</TechnologyType>
+  <Cost>1200</Cost>
+  <NameIndex>536</NameIndex>
+  <DescriptionIndex>537</DescriptionIndex>
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>Battleships</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked />
+  <BuildingsUnlocked />
+  <BonusUnlocked>
+    <UnlockedBonus>
+      <Name>Mass Reduction</Name>
+      <Bonus>-0.03</Bonus>
+      <BonusIndex>18088</BonusIndex>
+      <Type>Cordrazine</Type>
+    </UnlockedBonus>
+    <UnlockedBonus>
+      <Name>Fuel Cell Upgrade</Name>
+      <Bonus>0.15</Bonus>
+      <BonusIndex>572</BonusIndex>
+      <Type>Cordrazine</Type>
+    </UnlockedBonus>
+    <UnlockedBonus>
+      <Name>Power Flow Bonus</Name>
+      <Bonus>0.07</Bonus>
+      <BonusIndex>18089</BonusIndex>
+      <Type>Cordrazine</Type>
+    </UnlockedBonus>
+    <UnlockedBonus>
+      <Name>Fuel Cell Upgrade</Name>
+      <Bonus>0.15</Bonus>
+      <BonusIndex>572</BonusIndex>
+      <Type>Pollops</Type>
+    </UnlockedBonus>
+    <UnlockedBonus>
+      <Name>Power Flow Bonus</Name>
+      <Bonus>0.08</Bonus>
+      <BonusIndex>18089</BonusIndex>
+      <Type>Pollops</Type>
+    </UnlockedBonus>
+    <UnlockedBonus>
+      <Name>Hull Strengthening</Name>
+      <BonusType>Module HP Bonus</BonusType>
+      <Bonus>0.20</Bonus>
+      <BonusIndex>622</BonusIndex>
+      <Type>Ralyeh</Type>
+    </UnlockedBonus>
+  </BonusUnlocked>
+  <TroopsUnlocked />
+  <HullsUnlocked>
+  <UnlockedHull>
+      <Name>FreeBorg/Borg_Cylinder</Name>
+      <ShipType>FreeBorg</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>FreeBorg/Borg_ScoutPyramid</Name>
+      <ShipType>FreeBorg</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>Cardassia/Car_Barkus</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Cardassia/Car_Kulinor</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Cardassia/Car_Galor</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Cardassia/Car_Legate</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Cardassia/Car_Makur</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>Klingon/Kling_FekLhr</Name>
+      <ShipType>Klingon</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Klingon/Kling_SuQJagh</Name>
+      <ShipType>Klingon</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Klingon/Kling_Vorcha</Name>
+      <ShipType>Klingon</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Romulan/Rom_Dverix</Name>
+      <ShipType>Romulan</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Romulan/Rom_Griffin</Name>
+      <ShipType>Romulan</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Romulan/Rom_Hveik</Name>
+      <ShipType>Romulan</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Terran/LightCruiser</Name>
+      <ShipType>Terran</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Terran/Fed_Steamrunner</Name>
+      <ShipType>fed</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Terran/Fed_Excelsior</Name>
+      <ShipType>fed</ShipType>
+    </UnlockedHull>
+   	<UnlockedHull>
+      <Name>Terran/LightCarrier</Name>
+      <ShipType>Terran</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Terran/Fed_Constitution</Name>
+      <ShipType>fed</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Kulrathi/Mauler</Name>
+      <ShipType>Kulrathi</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Remnant/Xeno Cruiser</Name>
+      <ShipType>Remnant</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Vulfen/Type X</Name>
+      <ShipType>Vulfen</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Ralyeh/Acolyte</Name>
+      <ShipType>Ralyeh</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Opteris/Chitin</Name>
+      <ShipType>Opteris</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Pollops/Chrysalis</Name>
+      <ShipType>Pollops</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Cordrazine/Storving</Name>
+      <ShipType>Cordrazine</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Draylok/Bird of Prey</Name>
+      <ShipType>Draylok</ShipType>
+    </UnlockedHull>
+  </HullsUnlocked>
+</Technology>

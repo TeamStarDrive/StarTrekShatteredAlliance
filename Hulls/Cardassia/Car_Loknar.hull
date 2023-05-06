@@ -1,0 +1,44 @@
+Version=1
+HullName=Cardassia/Car_Loknar
+VisibleName=Loknar Class
+Role=cruiser
+Style=Cardassia
+Size=22,30
+MeshOffset=0,0
+IconPath=ShipIcons/Car_Loknar
+ModelPath=mod Model/Cardassia/Car_Loknar
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___|___|___
+___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___
+___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___
+___|___|O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  |___|___
+___|O  |O  |O  |O  |O  |O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |O  |O  |O  |O  |O  |___
+___|E  |E  |E  |E  |O  |O  |IO |IO |IO |I  |I  |IO |IO |IO |O  |O  |E  |E  |E  |E  |___
+O  |E  |E  |E  |E  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |E  |E  |E  |E  |O  
+O  |O  |E  |E  |E  |E  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |E  |E  |E  |E  |O  |O  
+O  |O  |E  |E  |E  |E  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |E  |E  |E  |E  |O  |O  
+O  |O  |E  |E  |E  |E  |IO |I  |IO |IO |I  |I  |IO |IO |I  |IO |E  |E  |E  |E  |O  |O  
+___|___|E  |E  |E  |E  |IO |I  |IO |IO |I  |I  |IO |IO |I  |IO |E  |E  |E  |E  |___|___
+___|___|E  |E  |E  |E  |IO |I  |O  |IO |IO |IO |IO |O  |I  |IO |E  |E  |E  |E  |___|___
+___|___|E  |E  |E  |E  |IO |I  |O  |O  |O  |O  |O  |O  |I  |IO |E  |E  |E  |E  |___|___
+___|___|E  |E  |E  |E  |IO |I  |O  |O  |___|___|O  |O  |I  |IO |E  |E  |E  |E  |___|___
+___|___|E  |E  |E  |E  |IO |I  |O  |O  |___|___|O  |O  |I  |IO |E  |E  |E  |E  |___|___
+___|___|___|O  |O  |O  |IO |I  |O  |___|___|C__|___|O  |I  |IO |O  |O  |O  |___|___|___
+___|___|___|O  |O  |O  |IO |I  |O  |___|___|___|___|O  |I  |IO |O  |O  |O  |___|___|___
+___|___|___|O  |O  |O  |IO |I  |O  |___|___|___|___|O  |I  |IO |O  |O  |O  |___|___|___
+___|___|___|O  |O  |O  |IO |I  |O  |___|___|___|___|O  |I  |IO |O  |O  |O  |___|___|___
+___|___|___|O  |O  |O  |IO |I  |O  |___|O  |O  |___|O  |I  |IO |O  |O  |O  |___|___|___
+___|___|___|___|___|O  |IO |I  |O  |O  |O  |O  |O  |O  |I  |IO |O  |___|___|___|___|___
+___|___|___|___|___|O  |IO |I  |O  |O  |IO |IO |O  |O  |I  |IO |O  |___|___|___|___|___
+___|___|___|E  |E  |O  |IO |I  |IO |IO |IO |IO |IO |IO |I  |IO |O  |E  |E  |___|___|___
+___|___|___|E  |E  |IO |IO |I  |IO |IO |IO |IO |IO |IO |I  |IO |IO |E  |E  |___|___|___
+___|___|___|E  |E  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |E  |E  |___|___|___
+___|___|___|E  |E  |O  |O  |O  |O  |IO |IO |IO |IO |O  |O  |O  |O  |E  |E  |___|___|___
+___|___|___|E  |E  |___|___|___|O  |O  |IO |IO |O  |O  |___|___|___|E  |E  |___|___|___
+___|___|___|E  |E  |___|___|___|___|O  |IO |IO |O  |___|___|___|___|E  |E  |___|___|___
+___|___|___|E  |E  |___|___|___|___|O  |O  |O  |O  |___|___|___|___|E  |E  |___|___|___
+___|___|___|___|___|___|___|___|___|___|O  |O  |___|___|___|___|___|___|___|___|___|___

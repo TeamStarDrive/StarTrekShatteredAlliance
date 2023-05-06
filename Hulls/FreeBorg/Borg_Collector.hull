@@ -1,0 +1,29 @@
+Version=1
+HullName=FreeBorg/Borg_Collector
+VisibleName=Collector
+Role=freighter
+Style=FreeBorg
+Size=12,15
+MeshOffset=0,-8
+IconPath=ShipIcons/Borg_Collector
+ModelPath=mod Model/FreeBorg/Borg_Collector
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+E  |E  |O  |O  |O  |O  |O  |O  |O  |O  |E  |E  
+E  |E  |O  |O  |O  |O  |O  |O  |O  |O  |E  |E  
+O  |O  |I  |I  |I  |I  |I  |I  |I  |I  |O  |O  
+O  |O  |I  |I  |I  |I  |I  |I  |I  |I  |O  |O  
+O  |O  |I  |I  |I  |I  |I  |I  |I  |I  |O  |O  
+O  |O  |I  |I  |I  |I  |I  |I  |I  |I  |O  |O  
+O  |O  |I  |I  |I  |I  |I  |I  |I  |I  |O  |O  
+O  |O  |I  |I  |I  |I  |IC |I  |I  |I  |O  |O  
+O  |O  |I  |I  |I  |I  |I  |I  |I  |I  |O  |O  
+O  |O  |I  |I  |I  |I  |I  |I  |I  |I  |O  |O  
+O  |O  |I  |I  |I  |I  |I  |I  |I  |I  |O  |O  
+O  |O  |I  |I  |I  |I  |I  |I  |I  |I  |O  |O  
+O  |O  |I  |I  |I  |I  |I  |I  |I  |I  |O  |O  
+E  |E  |O  |O  |O  |O  |O  |O  |O  |O  |E  |E  
+E  |E  |O  |O  |O  |O  |O  |O  |O  |O  |E  |E  

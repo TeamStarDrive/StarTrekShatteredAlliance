@@ -1,0 +1,32 @@
+Version=1
+HullName=FreeBorg/Borg_ScoutPyramid
+VisibleName=Scout Pyramid
+Role=frigate
+Style=FreeBorg
+Size=18,18
+MeshOffset=0,0
+IconPath=ShipIcons/Borg_ScoutPyramid
+ModelPath=mod Model/FreeBorg/Borg_ScoutPyramid
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|E  |E  |E  |E  |E  |E  |E  |E  |___|___|___|___|___
+___|O  |O  |O  |O  |E  |E  |E  |E  |E  |E  |E  |E  |O  |O  |O  |O  |___
+___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___
+___|O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |___
+___|O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |___
+E  |E  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |E  |E  
+E  |E  |O  |IO |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |IO |O  |E  |E  
+E  |E  |O  |IO |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |IO |O  |E  |E  
+E  |E  |O  |IO |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |IO |O  |E  |E  
+E  |E  |O  |IO |IO |IO |I  |I  |I  |IC |I  |I  |IO |IO |IO |O  |E  |E  
+E  |E  |O  |IO |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |IO |O  |E  |E  
+E  |E  |O  |IO |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |IO |O  |E  |E  
+E  |E  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |E  |E  
+___|O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |___
+___|O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  |___
+___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___
+___|O  |O  |O  |O  |E  |E  |E  |E  |E  |E  |E  |E  |O  |O  |O  |O  |___
+___|___|___|___|___|E  |E  |E  |E  |E  |E  |E  |E  |___|___|___|___|___

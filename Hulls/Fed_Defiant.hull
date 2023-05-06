@@ -1,0 +1,32 @@
+Version=1
+HullName=Terran/Fed_Defiant
+VisibleName=Defiant revised
+Role=corvette
+Style=fed
+Size=10,12
+MeshOffset=0,0
+IconPath=ShipIcons/Fed_Defiant.png
+ModelPath=mod Model/Terran/Hunter/Fed_Defiant
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Thruster=-41,38,0,32
+Thruster=-55,38,0,32
+Thruster=41,39,0,32
+Thruster=58,39,0,32
+Thruster=-6,85,0,32
+Thruster=7,84,0,32
+Slots
+___|___|___|___|O  |O  |___|___|___|___
+___|___|___|IO |O  |O  |IO |___|___|___
+___|___|IO |O  |IO |IO |O  |IO |___|___
+___|IO |O  |IO |IO |IO |IO |O  |IO |___
+___|IO |O  |IO |IO |IO |IO |O  |IO |___
+IO |E  |E  |IO |I  |I  |IO |E  |E  |IO 
+IO |E  |E  |IO |I  |IC |IO |E  |E  |IO 
+IO |E  |E  |IO |I  |I  |IO |E  |E  |IO 
+IO |E  |E  |IO |I  |I  |IO |E  |E  |IO 
+___|___|IO |O  |IO |IO |O  |IO |___|___
+___|___|___|O  |IO |IO |O  |___|___|___
+___|___|___|IO |E  |E  |IO |___|___|___

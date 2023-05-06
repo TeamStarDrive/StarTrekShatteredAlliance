@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>SmallStations</UID>
+  <TechnologyType>ShipHull</TechnologyType>
+  <Cost>1000</Cost>
+  <NameIndex>17603</NameIndex>
+  <DescriptionIndex>17604</DescriptionIndex>
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>Battle_Stations</UID>
+    </LeadsToTech>  
+  </LeadsTo>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>ArmoredMissile</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked>
+  <UnlockedHull>
+      <Name>FreeBorg/Sentry Unit</Name>
+      <ShipType>FreeBorg</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>Cardassia/Car_Norin</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>Cardassia/OWP</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>Klingon/Kling_Kvort</Name>
+      <ShipType>Klingon</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>Klingon/Kling_Raptor</Name>
+      <ShipType>Klingon</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Klingon/S-5 'TuluH</Name>
+      <ShipType>Klingon</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>Romulan/Delta Class Turret</Name>
+      <ShipType>Romulan</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <ShipType>Cordrazine</ShipType>
+      <Name>Cordrazine/Cordrazine_Station_Small</Name>	
+    </UnlockedHull>
+    <UnlockedHull>
+      <ShipType>Draylok</ShipType>
+      <Name>Draylok/Draylok_Station_Small</Name>	
+    </UnlockedHull>
+    <UnlockedHull>
+      <ShipType>Kulrathi</ShipType>
+      <Name>Kulrathi/Kulrathi_Station_Small</Name>	
+    </UnlockedHull>
+    <UnlockedHull>
+      <ShipType>Opteris</ShipType>
+      <Name>Opteris/Opteris_Station_Small</Name>	
+    </UnlockedHull>
+    <UnlockedHull>
+      <ShipType>Pollops</ShipType>
+      <Name>Pollops/Pollops_Station_Small</Name>	
+    </UnlockedHull>
+    <UnlockedHull>
+      <ShipType>Ralyeh</ShipType>
+      <Name>Ralyeh/Ralyeh_Station_Small</Name>	
+    </UnlockedHull>
+	<UnlockedHull>
+      <ShipType>Terran</ShipType>
+      <Name>Terran/Terran_Station_Small</Name>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Terran/Fed_Peregrine</Name>
+      <ShipType>fed</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <ShipType>fed</ShipType>
+      <Name>Terran/Outpost</Name>
+    </UnlockedHull>
+    <UnlockedHull>
+      <ShipType>Vulfen</ShipType>
+      <Name>Vulfen/Vulfen_Station_Small</Name>
+    </UnlockedHull>
+  </HullsUnlocked>
+</Technology>

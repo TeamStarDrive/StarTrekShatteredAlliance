@@ -1,0 +1,45 @@
+﻿<SolarSystemData>
+  <Name>Romulan</Name>
+  <RingList>
+    <Ring>
+      <Planet>Aranusia</Planet>
+      <WhichPlanet>27</WhichPlanet>
+    </Ring>
+	<Ring>
+      <Asteroids>Yes</Asteroids>
+    </Ring>
+    <Ring>
+      <Planet>Romulus</Planet>
+      <SpecialDescription>Home planet of the Romulans.</SpecialDescription>
+      <WhichPlanet>25</WhichPlanet>
+      <HomePlanet>true</HomePlanet>
+      <Station>Yes</Station>
+	  <MaxPopDefined>20.0</MaxPopDefined>
+    </Ring>
+    <Ring>
+      <Planet>Remus</Planet>
+      <SpecialDescription> Home Planet of the Remans</SpecialDescription>
+      <WhichPlanet>25</WhichPlanet>
+    </Ring>
+	<Ring>
+      <Asteroids>Yes</Asteroids>
+    </Ring>
+	<Ring>
+      <Planet>S'latas</Planet>
+      <WhichPlanet>3</WhichPlanet>
+    </Ring>
+	<Ring>
+      <Planet>D'lanam</Planet>
+      <WhichPlanet>12</WhichPlanet>
+	  <HasRings>Yes</HasRings>
+    </Ring>
+	<Ring>
+      <Planet>Ulunam</Planet>
+      <WhichPlanet>6</WhichPlanet>
+    </Ring>
+	<Ring>
+      <Planet>Trijth</Planet>
+      <WhichPlanet>27</WhichPlanet>
+    </Ring>
+  </RingList>
+</SolarSystemData>

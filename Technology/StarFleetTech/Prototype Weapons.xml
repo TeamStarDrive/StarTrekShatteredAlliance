@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Prototype Weapons</UID>
+  <TechnologyType>TechIcons_Fed_photonstorm</TechnologyType>
+  <Cost>3860</Cost>
+  <NameIndex>18372</NameIndex>
+  <DescriptionIndex>18373</DescriptionIndex>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>Fed_Photonstorm</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>cutting beam mk2</ModuleUID>
+      <Type>FreeBorg</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Car_DisruptorBeamMk3</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>station deflector mk2</ModuleUID>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>ablative armor Large</ModuleUID>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>ablative armor Med</ModuleUID>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>ablative armor Small</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

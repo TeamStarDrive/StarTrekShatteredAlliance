@@ -1,0 +1,30 @@
+Version=1
+HullName=FreeBorg/Borg_Interceptor
+VisibleName=Interceptor
+Role=corvette
+Style=FreeBorg
+Size=10,16
+MeshOffset=0,-16
+IconPath=ShipIcons/Borg_Interceptor
+ModelPath=mod Model/FreeBorg/Borg_Interceptor
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|O  |O  |O  |___|___|O  |O  |O  |___
+___|O  |O  |O  |O  |O  |O  |O  |O  |___
+___|O  |IO |IO |IO |IO |IO |IO |O  |___
+___|O  |IO |IO |IO |IO |IO |IO |O  |___
+O  |O  |IO |IO |IO |IO |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |IC |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |IO |IO |O  |O  
+O  |O  |IO |IO |I  |I  |IO |IO |O  |O  
+___|O  |IO |IO |I  |I  |IO |IO |O  |___
+___|O  |IO |IO |I  |I  |IO |IO |O  |___
+___|E  |E  |E  |E  |E  |E  |E  |E  |___
+___|E  |E  |E  |E  |E  |E  |E  |E  |___
+___|E  |E  |E  |E  |E  |E  |E  |E  |___
+___|E  |E  |E  |___|___|E  |E  |E  |___

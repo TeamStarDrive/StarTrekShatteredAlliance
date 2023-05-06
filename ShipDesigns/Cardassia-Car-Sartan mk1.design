@@ -1,0 +1,38 @@
+Version=1
+Name=Cardassia-Car-Sartan mk1
+Hull=Cardassia/Car_Sartan
+Role=fighter
+ModName=trek ships
+Style=Cardassia
+Size=6,10
+GridCenter=3,5
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Structure;Reinforced Bulkhead;primative disrupter cannon;NuclearReactorMed;WarpEngine_1x1;Cockpit;PowerSolar;Maneuvering_Thruster_1x1;PowerConduit;Engine
+Modules=20
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+2,0;0
+3,0;0
+2,1;1;2,2
+1,2;2;1,2
+4,2;2;1,2
+0,3;2;1,2
+2,3;3;2,2
+5,3;2;1,2
+1,4;4
+4,4;4
+2,5;5
+3,5;5
+2,6;6
+3,6;7
+2,7;8
+3,7;8
+2,8;9
+3,8;9
+2,9;9
+3,9;9

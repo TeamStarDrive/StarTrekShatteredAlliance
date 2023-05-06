@@ -1,0 +1,625 @@
+﻿<DiplomacyDialog>
+ <Dialogs>
+	<DialogLine>
+ 	<DialogType>First Contact</DialogType>
+ 	<Friendly>On behalf of the Cardassian Union, we extend our warm greetings to you. May there ever be peace between our empires.</Friendly>
+ 	<Neutral>On behalf of the Cardassian Union we greet you. We hope our paths cross in a mutually beneficial way, but if they do not you would do best not to cross us.</Neutral>
+ 	<Hostile>On behalf of the Cardassian Union we acknowledge your existence and suggest that you mind your own affairs and stay out of ours.</Hostile>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Colonized Warning</DialogType>
+ 	<Friendly>Dearest friend. The Cardassian Union questions your recent colonization efforts in the TARSYS system. It would be in the best interests of our mutually beneficial relationship for you to cease and desist such activities going forward.</Friendly>
+ 	<Neutral>Attention SING. Your expansion into the TARSYS system has given us cause for concern. Please refrain from such actions in the future or we will be forced to respond appropriately.</Neutral>
+ 	<Hostile>SING, your colonization of TARSYS is a direct threat to our interests. If you continue down this course of provocative actions we will be forced to resort to military action.</Hostile>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Aggression Warning</DialogType>
+ 	<Friendly>You have attacked a Cardassian Union vessel, SING! Why imperil our good relations with such an act? Please explain the meaning behind such an attack.</Friendly>
+ 	<Neutral>Why have you attacked a Cardassian Union vessel, SING? If you continue with such actions we will be forced to respond in kind.</Neutral>
+ 	<Hostile>Your unwarranted attack on our vessel is an affront to us, SING! Any further aggressive actions on your part will be seen as an act of war by us.</Hostile>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Warning Ships</DialogType>
+ 	<Friendly>Dearest friend. Please remove your ships from Cardassian Union space so as to avoid any unfortunate misunderstandings between us.</Friendly>
+ 	<Neutral>The Cardassian Union requests that you remove your vessels from our space at once. We respect the integrity of your borders so we only request that you grant us the same consideration.</Neutral>
+ 	<Hostile>SING! Remove your vessels from Cardassian Union space at once or we will have our forces remove them for you.</Hostile>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Warning Ships then Colonized</DialogType>
+ 	<Friendly>I’m terribly sorry dear friend, but we requested you stop colonizing in our territory. Why have you responded with a colony in the TARSYS system?</Friendly>
+ 	<Neutral>SING, please respect our wishes and refrain from expanding into our territory. Your colony in the TARSYS system is quite worrying.</Neutral>
+ 	<Hostile>SING! We warned you about trespassing in Cardassian Union space and you respond with a colony in the TARSYS system? If you want a war we will be happy to provide you with one.</Hostile>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Warning Colonized then Ships</DialogType>
+ 	<Friendly>These border tensions are becoming intolerable, SING. Please call back your ships so we can avert unnecessary bloodshed</Friendly>
+ 	<Neutral>These border tensions are becoming intolerable, SING. If you do not act to remedy them we will be forced to act accordingly.</Neutral>
+ 	<Hostile>SING! These border tensions are becoming intolerable. If you do not withdraw your forces at once our military will do so for you in a most unpleasant manner.</Hostile>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Declare War</DialogType>
+ 	<misc1>The PLURAL have made a critical error. Our Obsidian Order agents will destroy you from within while your fleets crush your colony worlds.</misc1>
+ 	<misc2>Dear SING, you have interfered with our affairs for the last time. You represent a direct threat to the interests of the Cardassian people and you will be dealt with swiftly and brutally by our military forces.</misc2>>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Dunno_Anybody</DialogType>
+ 	<Default>For the time being, we have not encountered any other starfaring factions while exploring the Galaxy.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Greeting</DialogType>
+ 	<Friendly>Hello dear friend. What can we do to assist you in strengthening our relations?</Friendly>
+ 	<Neutral>The Cardassian Union greets you. How might our two people work together on this day to our mutual benefit?</Neutral>
+ 	<Hostile>The Cardassian Union has little time to waste talking to you. Now stop wasting our time and tell us what do you want!</Hostile>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Racial_Inquiry_1</DialogType>
+ 	<Default>What principles does the Cardassian Union stand for?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Racial_Response_1</DialogType>
+ 	<Default>We are a proud and independent people. As long as you do not interfere with our internal affairs or external interests you will have nothing to fear from us.</Default>
+	</DialogLine>
+
+	<DialogLine>
+ 	<DialogType>OfferResponse_InsufficientTrust</DialogType>
+ 	<Default>Relationships are built upon trust, dear SING. Such a proposed deal is beyond our level of trust with you just yet.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_AcceptGreatOffer_LowTrust</DialogType>
+ 	<Default>This deal is acceptable to us. I am glad we have been able to reach such a mutually advantageous agreement.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Reject_PoorOffer_LowTrust</DialogType>
+ 	<Default>Dear SING, I’m sorry but we simply cannot accept that proposal at this time. We see little benefit in it for us.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Reject_PoorOffer_EnoughTrust</DialogType>
+ 	<Default>The Cardassian Union will not accept a non-mutually beneficial offer, SING. Come back to us when you have more to offer.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Reject_Insulting</DialogType>
+ 	<Default>We reject your proposal as both an affront to our relationship and an insult to our intelligence.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Accept_Fair</DialogType>
+ 	<Default>Very well SING, you drive a hard bargain but your proposal is acceptable to us.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Accept_Good</DialogType>
+ 	<Default>Dear SING, we happily accept your offer.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Accept_Great</DialogType>
+ 	<Default>We happily accept your proposal, despite its naive nature.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Accept_Gift</DialogType>
+ 	<Default>The Cardassian Union notes and appreciates your gift.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Accept_Fair_Pleading</DialogType>
+ 	<Default>Please stop your grovelling. We understand your need and we accept your proposal.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_InsufficientFear</DialogType>
+ 	<Default>Your military and economic might do not overawe the Cardassian Union. Your attempts to intimidate us have failed.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Accept_Fair_Threatening</DialogType>
+ 	<Default>There is no need for threats of force. The Cardassian Union finds your proposal satisfactory and we accept.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Accept_Bad_Threatening</DialogType>
+ 	<Default>We reluctantly accept your proposal. But just know that even though you may be in a position of power now, it may not always remain that way.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>WarDeclared_FeelsBetrayed</DialogType>
+ 	<Default>What about our beneficial relationship? You must have gone mad. Very well, we will see to it that you never make this mistake again.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>WarDeclared_Generic</DialogType>
+ 	<Default>You will regret interfering with our affairs! The Cardassian people have a proud warrior history and we will use our hard won experience to grind you into dust.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Greeting_AtWar</DialogType>
+ 	<Default>What do you want SING? Speak quickly as our battle fleets are already closing in on your space.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Declare War Defense</DialogType>
+ 	<Default>The Cardassian Union has no choice but to declare a state of war between us.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Declare War BC</DialogType>
+ 	<Default>You ignored our warnings and our territorial disputes lead us to war, SING. What follows after this is of your own making.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Declare War BC TarSys</DialogType>
+ 	<Default>PLURAL are fools. You should have listened when we warned you away from the TARSYS system. Now our military might will teach you to respect our territorial integrity.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Offer NAPact</DialogType>
+ 	<Default>The Cardassian Union comes to you in friendship, SING. We offer for you a mutual pact of Non-Aggression so that our two peoples may avoid needless bloodshed.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>NAPact Accepted</DialogType>
+ 	<Default>Then it is done. From this day forward, we move together as friends towards a prosperous future.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>NAPact Rejected</DialogType>
+ 	<Default>Very well. You have made a mistake in rejecting our offer of a lasting peace. Pray that it does not come back to haunt you in the future.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Offer Trade</DialogType>
+ 	<Default>The time has come for the Cardassian Union to offer you access to our markets. Will you accept a trade treaty with us?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Trade Accepted</DialogType>
+ 	<Default>Wonderful! May we both benefit from this new source of income.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Trade Rejected</DialogType>
+ 	<Default>We are disappointed by your rejection of our offer. Perhaps in the future you will be more open minded.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>ComeAround_NAPACT</DialogType>
+ 	<Default>So finally, you are more reasonable and have reconsidered our Non-Aggression pact offer?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>ComeAround_TRADE</DialogType>
+ 	<Default>So finally, you reconsider our lucrative trade proposal?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Xeno Demand Tech</DialogType>
+ 	<Default>The Cardassian Union is in need of advanced technology to protect our interests. Will you help us by giving us the knowledge of TECH_DEMAND, as a proof of our lasting friendship?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Xeno Demand Tech Accepted</DialogType>
+ 	<Default>That is great news! The Cardassian people extend their gratitude.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Xeno Demand Tech Rejected</DialogType>
+ 	<Default>How short sighted of you.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Insult Military</DialogType>
+ 	<Default>Your fleets appear to be in a state of disrepair and disarray. How pathetic.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Compliment Military</DialogType>
+ 	<Default>The Cardassian Union compliments you on the size of your forces.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Compliment Military Better</DialogType>
+ 	<Default>You have a very impressive military and the Cardassian Union wishes to offer you our compliments.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Declare War Imperialism</DialogType>
+ 	<Default>The Cardassian Union must constantly expand to protect our interests. And unfortunately, PLURAL and their worlds stand in front of our expansion goals. I am sorry, but we declare war on you.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Positive_Borg</DialogType>
+ 	<Default>In our discussions with the Borg thus far they have yet to threaten assimilating us so I would say things are going smoothly.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Neutral_Borg</DialogType>
+ 	<Default>We consider them to be a non-threat at the moment but that could change at any time.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Negative_Borg</DialogType>
+ 	<Default>We believe the Borg are a direct threat to the Cardassian Union.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Positive_Dominion</DialogType>
+ 	<Default>We believe the Dominion have changed their ways. We may someday be friends.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Neutral_Dominion</DialogType>
+ 	<Default>We are wary of the Dominion’s return to the Alpha Quadrant, but we will withhold judgment until a later date.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Negative_Dominion</DialogType>
+ 	<Default>The Dominion must never be trusted again. They are a danger to the entire Alpha Quadrant.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Positive_Federation</DialogType>
+ 	<Default>Despite our past differences, we view the Federation as our friends.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Neutral_Federation</DialogType>
+ 	<Default>The Federation has been a cunning enemy in the past, but they could be a valuable ally in the future.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Negative_Federation</DialogType>
+ 	<Default>Our old foes are to be watching closely and distrusted at all times.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Positive_Hydran</DialogType>
+ 	<Default>We consider them as our friends.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Neutral_Hydran</DialogType>
+ 	<Default>We have not made our minds about them, for now.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Negative_Hydran</DialogType>
+ 	<Default>We believe they are an obstacle for the Cardassian Union, an obstacle to be removed anytime soon.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Positive_Klingon</DialogType>
+ 	<Default>Despite our past differences, we are both warrior races with a deep commitment to honor.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Neutral_Klingon</DialogType>
+ 	<Default>The Klingons are brutal and blunt, but they could prove to be valuable allies one day.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Negative_Klingon</DialogType>
+ 	<Default>The Klingons are nothing but savage brutes who need to be put in their place.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Declare War Imperialism Break NA</DialogType>
+ 	<Default>The Cardassian Union must constantly expand to survive and thrive. And unfortunately, PLURAL and their worlds stand in front of our expansion goals. I am sorry, but this even overruns our non-aggression pact. We declare war on you.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Conquered_Player</DialogType>
+ 	<Default>The Cardassian Union has brought you to your knees, SING. We are victorious!</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Offer Open Borders</DialogType>
+ 	<Default>The Cardassian Union comes to you in friendship, SING. Let us move one step closer by opening our border to each other and allowing our ships to freely pass through each other’s territory.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Open Borders Accepted</DialogType>
+ 	<Default>Great news! May this agreement hopefully bring us closer together.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Open Borders Rejected</DialogType>
+ 	<Default>You have chosen poorly, SING. We pray that you will think more carefully in the future.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Invaded NA Pact</DialogType>
+ 	<Default>SING! You decided to invade Cardassian Union space in violation of our treaties. Our fleets will now teach you a lesson about breaking treaties with us!</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Invaded Start War</DialogType>
+ 	<Default>SING, your invasion of Cardassian Union territory has not gone unnoticed. Prepare yourself to face the full wrath of our military might!</Default>
+	</DialogLine>
+
+ <DialogLine>
+	<DialogType>Opinion_Positive_Romulan</DialogType>
+	<Default>The Romulans are a cunning and resourceful people, which makes them valuable allies.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Opinion_Neutral_Romulan</DialogType>
+	<Default>Our past conflicts with Romulans are behind us. Only time will tell where our future relations may progress.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Opinion_Negative_Roluman</DialogType>
+	<Default>The Romulans are incredibly deceptive and never to be trusted.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Claim System</DialogType>
+	<Friendly>Valued friend, the Cardassian Union claims the TARSYS system.Please do not go against our wishes by colonizing it.</Friendly>
+	<Neutral>Greetings, SING. The Cardassian Union has claimed the TARSYS system. If we are to have any hope of a peaceful and beneficial relationship in the future you must stop your efforts to colonize that system.</Neutral>
+	<Hostile>SING. The Cardassian Union has laid claim to the TARSYS system. If you do not stop your efforts to colonize that system immediately we will be one step closer to war with each other.</Hostile>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Stole Claim</DialogType>
+	<Default>SING, by colonizing TARSYS despite our warnings you have jeopardized your present security and our future relations.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Opinion_JustMetUs</DialogType>
+	<Default>Well actually, we think we don't know each other sufficiently to have a clear opinion. Time will tell, and I hope it tells me good things about PLURAL.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Opinion_NoProblems</DialogType>
+	<Default>The Cardassian Union has no grievances with PLURAL. </Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Opinion_Problems</DialogType>
+	<Default>We believe PLURAL are not the best of diplomatic partners... in several domains.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_JustTerritorial</DialogType>
+	<Default>At this point, our primary issue is SING colonization in space sectors claimed by the Cardassian Union.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_Territorial</DialogType>
+	<Default>At this point, one of our issues is SING colonization in space sectors claimed by the Cardassian Union.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_AlsoMilitary</DialogType>
+	<Default>Furthermore, your military makes us wonder about your continued friendly relations.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_AlsoMilitaryWeak</DialogType>
+	<Default>Furthermore, the Cardassian Union considers you as a weak faction, to be honest.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_MilitaryWeak</DialogType>
+	<Default>Primarily, the fact that your military is inadequately weak is a concern to us.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_PrimaryMilitary</DialogType>
+	<Default>We believe your military might is growing out of our control, and this is a concern.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_AlliedWithEnemy</DialogType>
+	<Default>Your alliance with TAREMP is a concern for the Cardassian Union. </Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_AlsoAlliedWithEnemy</DialogType>
+	<Default>Additionally, your alliance with TAREMP worries us as we have poor relations with them.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Opinion_NothingMajor</DialogType>
+	<Default>Fortunately for us all, the Cardassian Union has no specific problems with PLURAL. We look forward to our continued mutually beneficial relationship.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>AtWar_Winning</DialogType>
+	<Default>Dear SING, can you feel the power of our warships? Even though we are winning this war, we listen to you.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>AtWar_Losing</DialogType>
+	<Default>Our warships may be falling against SING might... Beware, this is when we are the most dangerous! But speak, we are open for discussions.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>HelpUS_War</DialogType>
+	<Default>We believe TAREMP has threatened our interests one time too much. SING, will you join with us in a war to reduce the threat they present to the Alpha Quadrant?</Default>
+</DialogLine>
+ <DialogLine>
+	<DialogType>HelpUS_War_Yes</DialogType>
+	<Default>Dear SING, this is a wise decision. Let our united military power drive us to victory!</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>HelpUS_War_No</DialogType>
+	<Default>The Cardassian Union will remember that you failed to come to our aid in our hour of need.</Default>
+ </DialogLine>
+
+
+
+	<!--  Second Run Localization Efforts -->
+
+	<DialogLine>
+ 	<DialogType>Declare War Defense BrokenNA</DialogType>
+ 	<Default>SING, you have attacked the Cardassian Union despite our treaties. This violation will not stand. Prepare for war.</Default>
+	</DialogLine>
+
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_FAIR</DialogType>
+ 	<Default>Dear SING, this war has brought both sides nothing but sorrow. Won’t you agree to end it?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_FAIR_WINNING</DialogType>
+ 	<Default>Our forces are winning this war, but there is little need for more bloodshed. Will you not agree to an end to the conflict?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_EVENLY_MATCHED</DialogType>
+ 	<Default>Dear SING, it would appear that your military prowess equals our own. Won’t you agree to an end to this conflict?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_PLEADING</DialogType>
+ 	<Default>Our proud warriors have fallen so we come to you to humbly ask for peace. Will you accept?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_WINNINGBC</DialogType>
+ 	<Default>Dear SING, you see that your fleets cannot stand up to our military might. Let's stop this wasteful war now, and sign a peace treaty.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_LOSINGBC</DialogType>
+ 	<Default>You may have defeated some of our warships but there are more where they came from. However, we propose a peace treaty in the interests of stopping the bloodshed.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_REJECTED</DialogType>
+ 	<Default>Very well. It seems you do not know a good deal when you see one. We shall teach you a valuable lesson about accepting such generous proposals in the future when they are offered.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_ACCEPTED</DialogType>
+ 	<Default>Wise decision, dear SING. We look forward to normalized and mutually beneficial relations in the future.</Default>
+	</DialogLine>
+
+	<DialogLine>
+ 	<DialogType>ACCEPT_OFFER_PEACE</DialogType>
+ 	<Default>Your offer is agreed, and we shall have peace. This is a great news for all of our citizens.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>REJECT_OFFER_PEACE_POOROFFER</DialogType>
+ 	<Default>I am very sorry, SING. The Cardassian Union is not ready to accept a peace treaty based on these terms.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>REJECT_OFFER_PEACE_UNWILLING_BC</DialogType>
+ 	<Default>I am very sorry, SING. The Cardassian Union is ready to accept a peace treaty only if you cede us the disputed territory.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>ACCEPT_OFFER_PEACE_RELUCTANT</DialogType>
+ 	<Default>Your terms are marginally acceptable, but we accept. We shall have peace then.</Default>
+	</DialogLine>
+
+	<DialogLine>
+ 	<DialogType>PROBLEM_RECENTWAR</DialogType>
+ 	<Default>We believe things must not be rushed, especially given that we were at war not so long ago. I am certain a decent period of peace will ease all diplomatic matters.</Default>
+	</DialogLine>
+
+	<DialogLine>
+ 	<DialogType>OFFER_ALLIANCE</DialogType>
+ 	<Default>In light of our ongoing friendship, we come to you now bearing an offer of a formal alliance. Will you join with the Cardassian Union, SING, and confirm our friendship?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>ALLIANCE_ACCEPTED</DialogType>
+ 	<Default>Excellent choice! Let our mutual strength protect us in this dangerous galaxy.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>ALLIANCE_REJECTED</DialogType>
+ 	<Default>That is too bad. We had hoped that you were intelligent enough to accept our offer. Oh well.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFER_ALLIANCE_TOO_COMPLICATED</DialogType>
+ 	<Default>Dear SING, the terms you propose for our alliance look very complicated to us. Would you mind removing all these disturbing conditions? I am sure it will ease the process.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>AI_ALLIANCE_ACCEPT</DialogType>
+ 	<Default>The Cardassian Union accepts the honor of becoming the allies of PLURAL. Let our combined strength deter all future aggressors!</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>AI_ALLIANCE_REJECT</DialogType>
+ 	<Default>I am afraid the Cardassian Union is not fully ready to enter an alliance with PLURAL. We consider you as friends, but we still lack a little trust to engage for good.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>REJECT_PEACE_RUTHLESS</DialogType>
+ 	<Default>I am afraid peace is not going to happen. Unless you consent to surrender. Otherwise, this war will go on.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>ACCEPT_PEACE_COLDWAR</DialogType>
+ 	<Default>The Cardassian Union gladly accepts your peace offer. This war was costly for both of us. Let it end quickly.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>HelpUS_War_No_BreakAlliance</DialogType>
+ 	<Default>Dear SING, the Cardassian Union is very disappointed by your refusal to honor our alliance and has therefore decided to put an end to it. We are sorry.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Stole Claim 2</DialogType>
+ 	<Default>Dear SING. You know we have a preference for peace, but this is twice that you have stolen our legitimate claims. We are growing angry with your provocations.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Stole Claim 3</DialogType>
+ 	<Default>SING, this is the last time you defy the Cardassian Union. We are preparing an appropriate response.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>AboutUS</DialogType>
+ 	<DL_Agg>The Cardassian Union will defend our space and our interests with extreme prejudice. Do not cross us.</DL_Agg>
+ 	<DL_Hon>We are an honorable people with a proud warrior tradition. If you prove to be worthy allies we can be of great benefit to each other.</DL_Hon>
+ 	<DL_Pac>The Cardassian people have suffered through many wars in our recent past. We wish to avoid more bloodshed in the future.</DL_Pac>
+ 	<DL_Ruth>If you stand in the way of the Cardassian Union our military will not rest until you are no longer a threat to us.</DL_Ruth>
+ 	<DL_Xeno>It is not easy for us to trust anyone after our recent falling out with the Dominion. Please keep to your own borders and interests and we will have no quarrel with you.</DL_Xeno>
+ 	<DL_Cunn>Our Obsidian Order agents always ensure that we have the very latest intelligence on our rival’s capabilities and they will act swiftly to remedy any dangerous swings in the galactic balance of power.</DL_Cunn>
+ 	<DL_Exp>It is in the best interests of the Cardassian people for us to constantly expand our borders to ensure safety and prosperity.</DL_Exp>
+ 	<DL_Tech>It is crucial to our success for our scientists provide both our society and our military with insightful and innovative advancements at a steady pace.</DL_Tech>
+ 	<DL_Mil>Our warships and troop regiments maintain order and ensure outside aggressor will always be met with stiff resistance and overwhelming force.</DL_Mil>
+ 	<DL_Ind>And we are working hard at it. We are convinced that it will pay off at the end.</DL_Ind>
+ 	<DL_Gen>And we are exploring all possible ways to achieve these goals.</DL_Gen>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Positive_Vulcan</DialogType>
+ 	<Default>We consider them as our friends.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Neutral_Vulcan</DialogType>
+ 	<Default>We have not made our minds about them, for now.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Negative_Vulcan</DialogType>
+ 	<Default>We believe they are an obstacle for the Cardassian Union, an obstacle to be removed sometime soon.</Default>
+	</DialogLine>
+   
+	<DialogLine>
+ 	<DialogType>Caught_Spying_1</DialogType>
+ 	<Default>We have caught you spying on us. Be warned that such actions will not be tolerated by the Cardassian Union</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Caught_Spying_2</DialogType>
+ 	<Default>Dear SING, please refrain from spying on further. If you continue to do so we will be forced to take drastic measures.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Caught_Spying_3</DialogType>
+ 	<Default>SING, our Obsidian Order agents have uncovered your schemes yet again. If you do not stop your clandestine activities against us we will be forced to declare war on you.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Killed_Spy_1</DialogType>
+ 	<Default>We have just ordered our Obsidian Order agents to execute your spy. Please refrain from sending any more or they will suffer the same fate.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Spy_Success_Caught</DialogType>
+ 	<Default>We have caught on to your acts of espionage against us. Be warned that there will be consequences.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Caught_Spying_Ally_1</DialogType>
+ 	<Default>Dear SING, I thought we were allies? Why would you need to spy on us? Please cease and desist.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Caught_Spying_Ally_2</DialogType>
+ 	<Default>You risk ending our alliance with your constant spying. Stop it at once!</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Offer Open Borders Friends</DialogType>
+ 	<Default>Dear SING, the Cardassian Union wishes to further increase our good relations by entering into a mutual open borders treaty. Will you agree?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Open Borders Friends Rejected</DialogType>
+ 	<Default>You have made a grave error. The Cardassian Union hopes you will put more thought into your actions in the future.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_JustMet</DialogType>
+ 	<Default>Our friendship is too new to contemplate such a merger. Let us see how things develop before we travel down this path again.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_NoAlliance</DialogType>
+ 	<Default>I’m sorry SING, but we can not enter into a federation with you until we have first entered into an alliance.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_AllianceTooYoung</DialogType>
+ 	<Default>Our alliance is too young to consider joining in a federation with you. Give it time and we shall see what happens.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_WeAreTooStrong</DialogType>
+ 	<Default>I’m afraid you are too weak for the Cardassian Union to agree to any merger at this time. Come back to us again with this offer when you are stronger.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_Accept</DialogType>
+ 	<Default>You have proven your commitment to us through your actions. Let our combined might keep all future aggressors at bay.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_Quest_DestroyEnemy</DialogType>
+ 	<Default>Before we consider merging with you, we need you to defeat our enemies. Conquer TAREMP and the Cardassian Union will agree to merge with you.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_YouDidIt_KilledEnemy</DialogType>
+ 	<Default>Your conquest of  TAREMP has demonstrated your usefulness to the Cardassian Union. Let us merge our people at once!</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_RelationsPoor</DialogType>
+ 	<Default>I’m sorry but the Cardassian Union simply doesn’t trust you enough to agree to a merger at this time.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_Quest_AllyFriend</DialogType>
+ 	<Default>Dear SING, we would like to accept your offer to merge our power, but our allies TAREMP worry that such a merger would leave them behind. Please form an alliance with them so that we can all be united in our common goals.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_YouDidIt_AllyFriend</DialogType>
+ 	<Default>You have demonstrated your commitment to us forging an alliance with TAREMP. Now the Cardassian Union will join you as promised.</Default>
+	</DialogLine>
+
+
+	<DialogLine>
+ 	<DialogType>JoinWar_YouAreNotAtWar</DialogType>
+ 	<Default>The Cardassian Union will not start a war for you, SING. Declare your war openly and we will see whether we wish to join you.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>JoinWar_WeAreAtWar</DialogType>
+ 	<Default>Dear SING, the Cardassian Union is already at war with TAREMP.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>JoinWar_Allied_OK</DialogType>
+ 	<Default>The Cardassian Union values you too much as a friend to stand by and do nothing while you are at war. Our warships are on their way to assist you!</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>JoinWar_Allied_DECLINE</DialogType>
+ 	<Default>I am truly sorry, SING, they are also our friends. Therefore, the Cardassian Union will remain neutral in this conflict.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>JoinWar_Reject_PoorRelations</DialogType>
+ 	<Default>The Cardassian Union has rejected your offer to join PLURAL in their war. We just do not trust you enough to commit at this level.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>JoinWar_Reject_Pacifist</DialogType>
+ 	<Default>I am sorry, dear SING. The Cardassian Union considers your war to be a total waste of resources and will not join you at this time. Don't you think peace would be preferable?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>JoinWar_Reject_TooDangerous</DialogType>
+ 	<Default>I am truly sorry, SING, but TAREMP represents too much of a threat for the Cardassian Union. You have picked a dangerous enemy. Therefore, we will stay outside of this conflict.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>JoinWar_OK</DialogType>
+ 	<Default>The Cardassian Union has agreed to your war proposal. We will gladly join you. Our warships are on the way!</Default>
+	</DialogLine>
+ </Dialogs>
+</DiplomacyDialog>

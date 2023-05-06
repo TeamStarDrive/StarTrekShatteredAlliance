@@ -1,0 +1,26 @@
+Version=1
+HullName=Cardassia/Car_Janissary
+VisibleName=Janissary Class
+Role=corvette
+Style=Cardassia
+Size=8,12
+MeshOffset=0,0
+IconPath=ShipIcons/Car_Janissary
+ModelPath=mod Model/Cardassia/Car_Janissary
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|O  |O  |___|___|___
+___|___|O  |IO |IO |O  |___|___
+___|O  |IO |IO |IO |IO |O  |___
+O  |IO |IO |I  |I  |IO |IO |O  
+O  |IO |IO |I  |I  |IO |IO |O  
+O  |___|___|I  |I  |___|___|O  
+___|___|___|IO |IOC|___|___|___
+___|___|___|IO |IO |___|___|___
+___|___|___|E  |E  |___|___|___
+___|___|___|E  |E  |___|___|___
+___|___|___|E  |E  |___|___|___
+___|___|___|E  |E  |___|___|___

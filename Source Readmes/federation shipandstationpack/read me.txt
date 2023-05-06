@@ -1,0 +1,167 @@
+This folder contains the Federation mining and trading station the mining freighter, the cargoship, the colonyship and construction ship.
+
+All items, except the construction and colony ship, were intended for Zero Hour project, which was cancelled.
+
+For these items the following conditions apply:
+
+-------------------------
+Usage Policy
+-------------------------
+
+These files are sanctioned for reuse in other Armada II Modifications through free distribution. Such the distributor need not contact me directly, though they will at all times, without excuse include this complete ReadMe in such a re-released file / completion project.
+
+Unless specifically stated, these files are solely for Armada II use, and will not be converted to any other game, or for any other use without express permission. Conversion of these files is authorised only after acknowledgement by me.
+
+Unless otherwise stated, these files are exclusive to FileFront, and should not be hosted elsewhere.
+
+- Contact: ash87uk@sky.com
+##################################################
+
+
+Important Note:
+Make a backup of your existing files, because files in this folder will overwrite stock files!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Credits:
+
+As allways, thanks to Wrath of Achilles for his Texture Tutorial and Major A Payne for his SodTutorial. 
+
+Special thanks to apoclaydon/blade for his advice on the miningstation lighteffects.
+
+All meshes, textures, etc are by me.
+Constructionship animatian, texture and ODF edited by apoclaydon/blade.  
+
+The ODF files are edited stock files.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Please note:
+
+I cannot be hold responsible for any damage or problems otherwise regarding this model. 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+You may use this ship in your mod, just give credit where its due. 
+
+THIS MATERIAL IS NOT MADE OR SUPPORTED BY ACTIVISION.
+
+Thank you for downloading.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Installation instructions
+
+Open the SOD folder -->
+
+Put the sod files into the sod folder of Armada II. When prompted to overwrite, click 'yes'. 
+
+Open the ODF folder -->
+
+Put the odf ship files into the odf ship folder of Armada II. When prompted to overwrite, click 'yes'. 
+
+Put the odf station files into the odf station folder of Armada II. When prompted to overwrite, click 'yes'. 
+
+Open the Texturefolder -->
+put the tga into the texture RGB folder of Armada II. When prompted to overwrite, click 'yes'. 
+
+( I include the MS3D files for those who are interested.)
+
+Open the Bitmaps folder -->
+
+Open the Bitmaps folder of Armada II --> open Admiralslog --> open ShipImages and put the images there. When prompted to overwrite, click 'yes'.  
+**********************************************************
+
+****************************************
+Open Armada2 Sprites --> open gui_global
+
+find the lines:
+
+# Federation wireframes
+
+@reference=256
+
+delete the following lines:
+
+ffreightw1			fedwireframe03	0	192	48	48		
+ffreightw2			fedwireframe03	48	192	48	48		
+ffreightw3			fedwireframe03	96	192	48	48		
+ffreightw4			fedwireframe03	144	192	48	48		
+ffreightw5			fedwireframe03	192	192	48	48
+
+fminingw1			fedwireframe05	0	96	48	48		
+fminingw2			fedwireframe05	48	96	48	48		
+fminingw3			fedwireframe05	96	96	48	48		
+fminingw4			fedwireframe05	144	96	48	48		
+fminingw5			fedwireframe05	192	96	48	48
+
+fcargow1			fedwireframe03	0	48	48	48		
+fcargow2			fedwireframe03	48	48	48	48		
+fcargow3			fedwireframe03	96	48	48	48		
+fcargow4			fedwireframe03	144	48	48	48		
+fcargow5			fedwireframe03	192	48	48	48	
+
+fcolonyw1			fedwireframe03	0	96	48	48		
+fcolonyw2			fedwireframe03	48	96	48	48		
+fcolonyw3			fedwireframe03	96	96	48	48		
+fcolonyw4			fedwireframe03	144	96	48	48		
+fcolonyw5			fedwireframe03	192	96	48	48
+
+fconstw1			fedwireframe03	0	144	48	48		
+fconstw2			fedwireframe03	48	144	48	48		
+fconstw3			fedwireframe03	96	144	48	48		
+fconstw4			fedwireframe03	144	144	48	48		
+fconstw5			fedwireframe03	192	144	48	48
+
+ftradingw1			fedwireframe07	0	48	48	48		
+ftradingw2			fedwireframe07	48	48	48	48		
+ftradingw3			fedwireframe07	96	48	48	48		
+ftradingw4			fedwireframe07	144	48	48	48		
+ftradingw5			fedwireframe07	192	48	48	48	
+
+next:
+
+find the line:
+
+@reference=128 (if not present, just add the reference)
+
+add below that list:
+
+ffreightw1			wffreight		0	0	128	128
+
+fminingw1			wffmining		0	0	128	128
+
+fcargow1			wffcargo		0	0	128	128
+
+fcolonyw1			wffcolony		0	0	128	128
+
+fconstw1			wffconst		0	0	128	128
+
+ftradingw1			wfftrading		0	0	128	128
+********************************************************************
+
+
+
+
+That should do it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

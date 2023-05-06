@@ -1,0 +1,46 @@
+Version=1
+HullName=Terran/Intrepid
+VisibleName=Intrepid
+Role=frigate
+Style=fed
+Size=12,28
+MeshOffset=0,48
+IconPath=ShipIcons/Fed_Intrepid
+ModelPath=mod Model/Terran/Hunter/Fed_Intrepid
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Thruster=-70,184,0,32
+Thruster=-58,183,0,32
+Thruster=57,183,0,32
+Thruster=71,182,0,32
+Slots
+___|___|___|___|O  |O  |O  |O  |___|___|___|___
+___|___|___|O  |O  |O  |O  |O  |O  |___|___|___
+___|___|O  |O  |O  |O  |O  |O  |O  |O  |___|___
+___|___|O  |O  |IO |IO |IO |IO |O  |O  |___|___
+___|O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |___
+IO |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |IO 
+IO |O  |IO |IO |IO |I  |I  |IO |IO |IO |O  |IO 
+IO |O  |IO |IO |I  |I  |I  |I  |IO |IO |O  |IO 
+IO |O  |IO |IO |I  |I  |I  |I  |IO |IO |O  |IO 
+IO |O  |IO |IO |I  |I  |I  |I  |IO |IO |O  |IO 
+IO |O  |IO |IO |I  |I  |I  |I  |IO |IO |O  |IO 
+IO |O  |IO |IO |I  |I  |I  |I  |IO |IO |O  |IO 
+IO |O  |O  |IO |I  |I  |I  |I  |IO |O  |O  |IO 
+___|O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |___
+___|___|O  |O  |IO |IO |IO |IO |O  |O  |___|___
+___|___|___|O  |IO |IO |IO |IO |O  |___|___|___
+___|___|___|O  |O  |IO |IOC|O  |O  |___|___|___
+___|E  |E  |___|O  |IO |IO |O  |___|E  |E  |___
+___|E  |E  |___|O  |IO |IO |O  |___|E  |E  |___
+___|E  |E  |___|IO |IO |IO |IO |___|E  |E  |___
+___|E  |E  |O  |IO |IO |IO |IO |O  |E  |E  |___
+___|E  |E  |O  |IO |I  |I  |IO |O  |E  |E  |___
+___|E  |E  |O  |IO |I  |I  |IO |O  |E  |E  |___
+___|E  |E  |O  |IO |IO |IO |IO |O  |E  |E  |___
+___|E  |E  |___|O  |IO |IO |O  |___|E  |E  |___
+___|E  |E  |___|___|O  |O  |___|___|E  |E  |___
+___|E  |E  |___|___|___|___|___|___|E  |E  |___
+___|E  |E  |___|___|___|___|___|___|E  |E  |___

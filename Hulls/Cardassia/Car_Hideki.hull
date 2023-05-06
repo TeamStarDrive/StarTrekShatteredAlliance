@@ -1,0 +1,24 @@
+Version=1
+HullName=Cardassia/Car_Hideki
+VisibleName=Hideki Class
+Role=corvette
+Style=Cardassia
+Size=6,10
+MeshOffset=0,0
+IconPath=ShipIcons/Car_Hideki
+ModelPath=mod Model/Cardassia/Car_Hideki
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|O  |O  |___|___
+___|O  |O  |O  |O  |___
+O  |O  |IO |IO |O  |O  
+O  |O  |I  |I  |O  |O  
+O  |IO |I  |I  |IO |O  
+O  |IO |I  |IC |IO |O  
+___|___|IO |IO |___|___
+___|___|E  |E  |___|___
+___|___|E  |E  |___|___
+___|___|E  |E  |___|___

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Astrometrics_3x3</UID>
+  <TechnologyType>General</TechnologyType>
+  <Cost>3300</Cost>
+  <NameIndex>18285</NameIndex>
+  <DescriptionIndex>18286</DescriptionIndex>
+  <LeadsTo />
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>Astrometrics_3x3</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked>
+    <UnlockedBonus>
+      <Name>Tactical Planing</Name>
+      <BonusType>Sensor Range Bonus</BonusType>
+      <Bonus>0.9</Bonus>
+      <BonusIndex>682</BonusIndex>
+    </UnlockedBonus>
+  </BonusUnlocked>
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

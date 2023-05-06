@@ -1,0 +1,40 @@
+Version=1
+HullName=Klingon/Kling_Duj
+VisibleName=Duj Class
+Role=freighter
+Style=Klingon
+Size=10,26
+MeshOffset=0,0
+IconPath=ShipIcons/Kling_Duj
+ModelPath=mod Model/Klingon/Kling_Duj
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|IO |IO |IO |IO |___|___|___
+___|___|IO |IO |IO |IO |IO |IO |___|___
+___|___|IO |IO |IO |IO |IO |IO |___|___
+___|___|I  |I  |IO |IO |I  |I  |___|___
+___|___|___|I  |IO |IO |I  |___|___|___
+___|___|___|___|I  |I  |___|___|___|___
+___|___|I  |I  |I  |I  |I  |I  |___|___
+___|___|I  |I  |I  |I  |I  |I  |___|___
+___|___|I  |I  |I  |I  |I  |I  |___|___
+___|___|I  |I  |I  |I  |I  |I  |___|___
+___|___|I  |I  |I  |I  |I  |I  |___|___
+___|___|I  |I  |I  |I  |I  |I  |___|___
+___|___|I  |I  |I  |I  |I  |I  |___|___
+___|___|I  |I  |I  |IC |I  |I  |___|___
+___|___|I  |I  |I  |I  |I  |I  |___|___
+___|___|I  |I  |I  |I  |I  |I  |___|___
+___|___|I  |I  |I  |I  |I  |I  |___|___
+___|___|I  |I  |I  |I  |I  |I  |___|___
+E  |E  |___|___|I  |I  |___|___|E  |E  
+E  |E  |___|I  |I  |I  |I  |___|E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |I  |I  |E  |E  
+E  |E  |___|___|E  |E  |___|___|E  |E  
+E  |E  |___|___|___|___|___|___|E  |E  

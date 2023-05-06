@@ -1,0 +1,24 @@
+Version=1
+HullName=Cardassia/Car_Sartan
+VisibleName=Sartan Class
+Role=fighter
+Style=Cardassia
+Size=6,10
+MeshOffset=0,0
+IconPath=ShipIcons/Car_Sartan
+ModelPath=mod Model/Cardassia/Car_Sartan
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|O  |O  |___|___
+___|___|IO |IO |___|___
+___|O  |I  |I  |O  |___
+O  |O  |I  |I  |O  |O  
+O  |E  |I  |I  |E  |O  
+___|___|IO |IOC|___|___
+___|___|IO |IO |___|___
+___|___|IO |IO |___|___
+___|___|E  |E  |___|___
+___|___|E  |E  |___|___
