@@ -16,8 +16,8 @@
   <Name>Inertial Damper</Name>
   <Restrictions>I</Restrictions>
   <UID>Inertial Damper</UID>
-  <IconTexturePath>Modules/InertialDampener</IconTexturePath>
-  <Mass>-100</Mass>
+  <IconTexturePath>Modules/Inertial Dampener</IconTexturePath>
+  <Mass>-1000</Mass>
   <Health>100</Health>
   <HealthMax>100</HealthMax>
   <RepairDifficulty>6</RepairDifficulty>
