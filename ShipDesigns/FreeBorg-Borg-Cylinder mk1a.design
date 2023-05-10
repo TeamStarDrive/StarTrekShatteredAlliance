@@ -2,7 +2,6 @@ Version=1
 Name=FreeBorg-Borg-Cylinder mk1a
 Hull=FreeBorg/Borg_Cylinder
 Role=cruiser
-ModName=trek ships
 Style=FreeBorg
 Size=14,56
 GridCenter=7,26
