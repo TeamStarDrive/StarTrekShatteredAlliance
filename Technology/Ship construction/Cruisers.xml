@@ -135,7 +135,11 @@
       <ShipType>Remnant</ShipType>
     </UnlockedHull>
     <UnlockedHull>
-      <Name>Vulfen/Type X</Name>
+      <Name>Vulfen/Type X1</Name>
+      <ShipType>Vulfen</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Vulfen/Type XII</Name>
       <ShipType>Vulfen</ShipType>
     </UnlockedHull>
     <UnlockedHull>

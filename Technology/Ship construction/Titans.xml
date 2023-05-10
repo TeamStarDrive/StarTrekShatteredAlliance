@@ -112,7 +112,15 @@
       <ShipType>Opteris</ShipType>
     </UnlockedHull>
     <UnlockedHull>
-      <Name>Vulfen/Type XIX</Name>
+      <Name>Vulfen/Type XIX1</Name>
+      <ShipType>Vulfen</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Vulfen/Type XVI</Name>
+      <ShipType>Vulfen</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Vulfen/Alpha</Name>
       <ShipType>Vulfen</ShipType>
     </UnlockedHull>
     <UnlockedHull>

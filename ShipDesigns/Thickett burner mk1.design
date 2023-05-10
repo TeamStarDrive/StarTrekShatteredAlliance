@@ -1,0 +1,32 @@
+Version=1
+Name=Thickett burner mk1
+Hull=Pollops/Thicket
+Role=corvette
+Style=Pollops
+Size=6,5
+GridCenter=3,3
+DefaultCombatState=AttackRuns
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Fighter Shield;PowerSolar;TorpedoBay_2x1;PlasmaThrower;Cockpit;NuclearReactorSmall;Maneuvering_Thruster_1x1;Engine;WarpEngine_1x1
+Modules=15
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0
+4,0;1
+1,1;0
+2,1;2;2,1
+4,1;0
+0,2;3;2,2
+2,2;4
+3,2;5
+4,2;3;2,2
+2,3;5
+3,3;5
+1,4;6
+2,4;7
+3,4;8
+4,4;6

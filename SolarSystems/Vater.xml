@@ -17,8 +17,9 @@
     </Ring>
     <Ring>
       <Planet>Vater IV</Planet>
-      <WhichPlanet>18</WhichPlanet>
+      <WhichPlanet>25</WhichPlanet>
       <HasRings>Yes</HasRings>
+	  <MaxPopDefined>35.0</MaxPopDefined>
     </Ring>
     <Ring>
       <Asteroids>Yes</Asteroids>

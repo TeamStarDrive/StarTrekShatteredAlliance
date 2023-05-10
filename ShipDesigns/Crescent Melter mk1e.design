@@ -1,0 +1,36 @@
+Version=1
+Name=Crescent Melter mk1e
+Hull=Draylok/Crescent
+Role=corvette
+Style=Draylok
+Size=10,6
+GridCenter=5,3
+DefaultCombatState=AttackRuns
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Ceramic Armor Small;Shield_1KW;RemnantSmallFuelCell;PhotonTurret;Cockpit;RemnantSmallReactor;Amplifier;WarpEngine_1x1;CombatEngine_2x1
+Modules=19
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+4,0;0
+5,0;0
+4,1;1;2,2
+0,2;2
+9,2;2
+0,3;3;2,2;345
+3,3;0
+4,3;4
+5,3;5
+6,3;0
+8,3;3;2,2
+2,4;6
+3,4;5
+4,4;7
+5,4;7
+6,4;5
+7,4;2
+3,5;8;2,1
+5,5;8;2,1

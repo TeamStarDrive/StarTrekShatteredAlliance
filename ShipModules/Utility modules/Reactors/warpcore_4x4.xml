@@ -39,7 +39,7 @@
   <PowerStoreMax>4500</PowerStoreMax>
   <PowerRadius>20</PowerRadius>
   <!-- for Engines -->
-  <Thrust>0</Thrust>
+  <Thrust>6000</Thrust>
   <WarpThrust>4000000</WarpThrust>
 
 </ShipModule>
