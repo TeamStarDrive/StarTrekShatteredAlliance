@@ -17,9 +17,9 @@
   <Restrictions>I</Restrictions>
   <UID>Inertial Damper</UID>
   <IconTexturePath>Modules/Inertial Dampener</IconTexturePath>
-  <Mass>-1000</Mass>
-  <Health>100</Health>
-  <HealthMax>100</HealthMax>
+  <Mass>-200</Mass>
+  <Health>3000</Health>
+  <HealthMax>3000</HealthMax>
   <RepairDifficulty>6</RepairDifficulty>
   <energyreq>0</energyreq>
   
@@ -27,7 +27,7 @@
   </Description>
   
   
-  <PowerDraw>200</PowerDraw>
+  <PowerDraw>170</PowerDraw>
 
   <NameIndex>18301</NameIndex>
   <DescriptionIndex>18300</DescriptionIndex>

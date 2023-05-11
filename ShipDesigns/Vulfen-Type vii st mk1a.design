@@ -1,0 +1,73 @@
+Version=1
+Name=Vulfen-Type vii st mk1a
+Hull=Vulfen/Type VII
+Role=carrier
+ModName=Star Trek
+Style=Vulfen
+Size=10,26
+GridCenter=5,13
+DefaultCombatState=HoldPosition
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=SteelArmorMed;PowerSolar;SteelArmorSmall;FighterBay;Shield_1KW;PowerConduit;Sensor1x2;TorpedoBay_2x1;Cockpit;Fusion Reactor;NuclearReactorSmall;AdvancedKineticTurret;WarpEngine_1x1;CombatEngine_2x1
+Modules=55
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+4,0;0;2,2
+4,2;1
+5,2;1
+3,3;2
+4,3;1
+5,3;1
+6,3;2
+3,4;3;4,3;90;2;DynamicLaunch
+3,7;4;2,2
+5,7;4;2,2
+3,9;3;3,4;;;DynamicLaunch
+6,9;5
+6,10;1
+6,11;6;1,2;90;2
+3,13;3;4,3;90;2;DynamicLaunch
+3,16;2
+4,16;7;2,1
+6,16;2
+3,17;2
+4,17;8
+5,17;8
+6,17;2
+2,18;2
+3,18;1
+4,18;9;2,2
+6,18;5
+7,18;2
+1,19;2
+2,19;10
+3,19;10
+6,19;10
+7,19;10
+8,19;2
+0,20;2
+1,20;1
+2,20;11;2,2
+4,20;4;2,2
+6,20;11;2,2
+8,20;1
+9,20;2
+0,21;11;2,2
+8,21;11;2,2;90
+2,22;2
+3,22;12
+4,22;12
+5,22;12
+6,22;12
+7,22;2
+3,23;13;2,1
+5,23;13;2,1
+2,24;2
+3,24;13;2,1
+5,24;13;2,1
+7,24;2
+4,25;13;2,1
