@@ -20,7 +20,7 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>
 
   <UID>hevey torpedo</UID>
-  <fireDelay>30</fireDelay>
+  <fireDelay>10</fireDelay>
   <Range>10000</Range>
   <PowerRequiredToFire>1000</PowerRequiredToFire>
   <OrdinanceRequiredToFire>200</OrdinanceRequiredToFire>
