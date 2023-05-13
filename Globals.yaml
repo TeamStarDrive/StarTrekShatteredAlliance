@@ -62,7 +62,7 @@ Globals:
   # mod information
   Mod:
     Name: "Star Trek"
-    Version: "v2.5d"
+    Version: "v2.5e"
     SupportedBlackBoxVersions: "develop,mars-1.41"
     IconPath: mod_icon.png
     Description: "5 STARTREK RACES THEIR SHIPS AND WEAPONS."
