@@ -26,7 +26,7 @@
   <OrdinanceRequiredToFire>1</OrdinanceRequiredToFire>
 
 <!-- Projectile stats -->
-  <DamageAmount>280</DamageAmount>
+  <DamageAmount>350</DamageAmount>
   <ProjectileSpeed>1100</ProjectileSpeed>
   <ExplosionRadius>80</ExplosionRadius> <!-- This Projectile Explodes -->
   <SalvoCount>15</SalvoCount>
@@ -36,7 +36,7 @@
   <FireCone>90</FireCone>
   <FireArc>90</FireArc>
 <!--Projectile atributes-->
-  <Scale>0.7</Scale>
+  <Scale>0.9</Scale>
    <OffPowerMod>0.35</OffPowerMod>
   <CanCollideProjectiles>true</CanCollideProjectiles>
 <!-- Projectile textures-->

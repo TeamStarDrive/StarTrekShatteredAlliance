@@ -5,11 +5,11 @@
 
   <UID>borg holding beam mk3</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
-  <Range>9000</Range>
+  <FireDelay>7</FireDelay>
+  <Range>10000</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>3.5</BeamDuration>
+  <BeamDuration>2</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
 
@@ -17,17 +17,18 @@
   
   
   <!-- Projectile Information -->
+  <RepulsionDamage>19000</RepulsionDamage>
+  <EffectVsShields>40</EffectVsShields>
   <TroopDamageChance>9</TroopDamageChance>
-  <TractorDamage>400</TractorDamage>
+  <PowerDamage>4000</PowerDamage>
   <SiphonDamage>900</SiphonDamage>
   <EMPDamage>350</EMPDamage>
-  <ShieldPenChance>50</ShieldPenChance>
+  <ShieldPenChance>100</ShieldPenChance>
   <BeamTexture>borg_holdingbeam</BeamTexture>
-  
-  <DamageAmount>1</DamageAmount>
-  <BeamThickness>34</BeamThickness>
+  <DamageAmount>9</DamageAmount>
+  <BeamThickness>74</BeamThickness>
   <BeamPowerCostPerSecond>1520</BeamPowerCostPerSecond>
-  <WeaponRotation>2</WeaponRotation>
+  <WeaponRotation>3</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>
