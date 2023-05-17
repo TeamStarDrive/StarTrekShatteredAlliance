@@ -1,0 +1,19 @@
+Version=1
+HullName=Orion Syndicate/Hyd_Carriage
+VisibleName=fighter
+Role=troop
+Style=Vulfen
+Size=4,5
+MeshOffset=0,8
+IconPath=ShipIcons/Hyd_Carriage
+ModelPath=mod Model/orians/Hyd_Carriage
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|O  |O  |___
+E  |O  |O  |E  
+E  |I  |I  |E  
+E  |I  |IC |E  
+___|O  |O  |___

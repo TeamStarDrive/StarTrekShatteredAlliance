@@ -1,0 +1,24 @@
+Version=1
+HullName=Orion Syndicate/Tzymm
+VisibleName=Tzymm
+Role=corvette
+Style=Terran
+Size=6,8
+MeshOffset=0,-16
+IconPath=ShipIcons/Tzymm
+ModelPath=mod Model/orians/Tzymm
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Thruster=232,328,0,20
+Thruster=280,328,0,20
+Slots
+___|___|O  |O  |___|___
+___|O  |IO |IO |O  |___
+O  |O  |IO |IO |O  |O  
+O  |IO |I  |IC |IO |O  
+O  |O  |I  |I  |O  |O  
+___|O  |O  |O  |O  |___
+___|E  |O  |O  |E  |___
+___|E  |___|___|E  |___

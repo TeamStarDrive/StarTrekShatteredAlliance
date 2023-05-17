@@ -1,0 +1,20 @@
+Version=1
+HullName=Vulfen/fighter revised
+VisibleName=fighter revised
+Role=troop
+Style=Vulfen
+Size=4,6
+MeshOffset=0,8
+IconPath=ShipIcons/Hyd_Carriage
+ModelPath=mod Model/orians/Hyd_Carriage
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|IO |IO |___
+IO |O  |O  |IO 
+E  |IO |IO |E  
+E  |IO |IO |E  
+E  |IO |IOC|E  
+___|O  |O  |___
