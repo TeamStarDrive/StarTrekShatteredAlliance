@@ -50,9 +50,9 @@
     <ShipType>fed</ShipType>
     <Adj1>smooth-skinned</Adj1>
     <Adj2>simian</Adj2>
-    <HomeSystemName>47 Ursae Majoris</HomeSystemName>
-    <HomeworldName>Coyote</HomeworldName>
-    <FlagIndex>4</FlagIndex>
+    <HomeSystemName>Sol</HomeSystemName>
+    <HomeworldName>Earth</HomeworldName>
+    <FlagIndex>5</FlagIndex>
     <R>406</R>
     <G>306</G>
     <B>506</B>

@@ -1,0 +1,37 @@
+Version=1
+HullName=Orion Syndicate/Hyd_Villein
+VisibleName=Villein Class
+Role=destroyer
+Style=Orion Syndicate
+Size=8,23
+MeshOffset=0,-8
+IconPath=ShipIcons/Hyd_Villein
+ModelPath=mod Model/orians/Hyd_Villein
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|O  |O  |___|___|___
+___|___|___|O  |O  |___|___|___
+___|___|O  |O  |O  |O  |___|___
+___|___|O  |IO |IO |O  |___|___
+___|O  |O  |IO |IO |O  |O  |___
+___|O  |O  |IO |IO |O  |O  |___
+___|O  |IO |IO |IO |IO |O  |___
+___|O  |IO |IO |IO |IO |O  |___
+___|O  |IO |IO |IO |IO |O  |___
+___|O  |IO |I  |I  |IO |O  |___
+___|O  |IO |I  |I  |IO |O  |___
+___|O  |IO |I  |IC |IO |O  |___
+___|O  |IO |I  |I  |IO |O  |___
+O  |O  |IO |I  |I  |IO |O  |O  
+O  |IO |IO |I  |I  |IO |IO |O  
+O  |IO |I  |E  |E  |I  |IO |O  
+O  |IO |IO |E  |E  |IO |IO |O  
+___|___|___|E  |E  |___|___|___
+___|___|___|E  |E  |___|___|___
+___|___|___|E  |E  |___|___|___
+___|___|___|E  |E  |___|___|___
+___|___|___|E  |E  |___|___|___
+___|___|___|E  |E  |___|___|___

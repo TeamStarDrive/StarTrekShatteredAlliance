@@ -3,27 +3,27 @@
   <Faction>1</Faction>
   <IsPirateFaction>true</IsPirateFaction>
   <PaymentPeriodTurns>250</PaymentPeriodTurns> <!-- Every turn is 5 seconds by default-->
-  <MinimumColoniesForStartPayment>15</MinimumColoniesForStartPayment>
+  <MinimumColoniesForStartPayment>2</MinimumColoniesForStartPayment>
   <PortraitName>unknown</PortraitName>
   <DiplomacyDialogPath>Human</DiplomacyDialogPath>
   
-  <StartingShip>ORIAN SLAVER MK1</StartingShip>
-  <PirateSlaverBasic>ORIAN SLAVER MK1</PirateSlaverBasic>
-  <PirateSlaverImproved>ORIAN SLAVER MK2</PirateSlaverImproved>
-  <PirateSlaverAdvanced>ORIAN SLAVER MK3</PirateSlaverAdvanced>
-  <PirateFighterBasic>ORIAN FIGHTER MK1</PirateFighterBasic>
-  <PirateFighterImproved>ORIAN FIGHTER MK2</PirateFighterImproved>
-  <PirateFighterAdvanced>ORIAN FIGHTER MK3</PirateFighterAdvanced>
-  <PirateFrigateBasic>ORIAN SLAVER MK1</PirateFrigateBasic>
-  <PirateFrigateImproved>ORIAN SLAVER MK2</PirateFrigateImproved>
-  <PirateFrigateAdvanced>ORIAN SLAVER MK3</PirateFrigateAdvanced>
+  <StartingShip>Corsair Flagship</StartingShip>
+  <PirateSlaverBasic>Corsair Flagship</PirateSlaverBasic>
+  <PirateSlaverImproved>Corsair Flagship</PirateSlaverImproved>
+  <PirateSlaverAdvanced>Corsair Flagship</PirateSlaverAdvanced>
+  <PirateFighterBasic>Corsair Flagship</PirateFighterBasic>
+  <PirateFighterImproved>Corsair Flagship</PirateFighterImproved>
+  <PirateFighterAdvanced>Corsair Flagship</PirateFighterAdvanced>
+  <PirateFrigateBasic>Corsair Flagship</PirateFrigateBasic>
+  <PirateFrigateImproved>Corsair Flagship</PirateFrigateImproved>
+  <PirateFrigateAdvanced>Corsair Flagship</PirateFrigateAdvanced>
   <PirateBaseBasic>ORIAN SYNDICATE BASE MK1</PirateBaseBasic>
   <PirateBaseImproved>ORIAN SYNDICATE BASE MK2</PirateBaseImproved>
   <PirateBaseAdvanced>ORIAN SYNDICATE BASE MK3</PirateBaseAdvanced>
   <PirateStationBasic>Corsair Station-Mk1</PirateStationBasic>
   <PirateStationImproved>Corsair Station-Mk2</PirateStationImproved>
   <PirateStationAdvanced>Corsair Station-Mk3</PirateStationAdvanced>
-  <PirateFlagShip>ORIAN  SYNDICATE  FLAGSHIP</PirateFlagShip>
+  <PirateFlagShip>Corsair Flagship</PirateFlagShip>
   <!-- Fertility multipliers for environments. The default is 1 in the code, but the tags are included here for reference -->
   <EnvTerran>1</EnvTerran>
   <EnvOceanic>1</EnvOceanic>
