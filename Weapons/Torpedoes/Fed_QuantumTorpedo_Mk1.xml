@@ -33,7 +33,7 @@
 
   <!-- Projectile Information -->
   <DamageAmount>9000</DamageAmount>
-  <ShieldPenChance>55</ShieldPenChance>
+  <ShieldPenChance>25</ShieldPenChance>
   <Scale>2.5</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>2100</ProjectileSpeed>
