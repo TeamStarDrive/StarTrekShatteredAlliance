@@ -1,0 +1,31 @@
+Version=1
+HullName=Orion Syndicate/Shadow Scout
+VisibleName=Shadow Scout
+Role=troop
+Style=fed
+Size=14,17
+MeshOffset=0,40
+IconPath=ShipIcons/hunter
+ModelPath=mod Model/Shadow Scout
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|I  |___|___|I  |___|___|___|___|___
+___|___|___|___|___|I  |___|___|I  |___|___|___|___|___
+___|___|___|___|___|I  |___|___|I  |___|___|___|___|___
+___|___|I  |___|___|I  |___|___|I  |___|___|I  |___|___
+___|___|I  |I  |___|I  |I  |I  |I  |___|I  |I  |___|___
+E  |___|___|I  |___|I  |I  |I  |I  |___|I  |___|___|E  
+E  |___|___|I  |___|I  |I  |I  |I  |___|I  |___|___|E  
+E  |I  |___|I  |I  |I  |I  |I  |I  |I  |I  |___|I  |E  
+E  |I  |___|I  |I  |I  |I  |I  |I  |I  |I  |___|I  |E  
+E  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |E  
+E  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |E  
+E  |I  |I  |I  |I  |I  |I  |IC |I  |I  |I  |I  |I  |___
+___|___|I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |___
+___|___|I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |___|___
+___|___|E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |___|___
+___|___|___|___|E  |E  |___|___|E  |E  |E  |___|___|___
+___|___|___|___|E  |E  |___|___|E  |E  |___|___|___|___

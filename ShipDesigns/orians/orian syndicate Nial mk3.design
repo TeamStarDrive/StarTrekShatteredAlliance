@@ -1,0 +1,38 @@
+Version=1
+Name=orian syndicate Nial mk3
+Hull=Orion Syndicate/Nial
+Role=troop
+ModName=Star Trek
+Style=Orion Syndicate
+Size=6,10
+GridCenter=3,4
+DefaultCombatState=Artillery
+ShipCategory=Conservative
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Crystal Armor Small;EMPTurret2x2;DarkMatterCannon_2x2;Fighter Shield;Amplifier;warpcore_2x2;Cockpit;Shield_1KW;CombatEngine_2x1
+Modules=20
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+0,0;0
+1,0;0
+4,0;0
+5,0;0
+0,1;1;2,2
+2,1;0
+3,1;0
+4,1;2;2,2
+2,2;3
+3,2;3
+1,3;4
+2,3;5;2,2
+4,3;6
+1,4;0
+4,4;0
+2,5;7;2,2
+2,7;3
+3,7;3
+2,8;8;2,1
+2,9;8;2,1

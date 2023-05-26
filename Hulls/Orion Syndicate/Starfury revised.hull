@@ -1,0 +1,23 @@
+Version=1
+HullName=Orion Syndicate/Starfury revised
+VisibleName=orian Starfury
+Role=fighter
+Style=Orion Syndicate
+Size=10,7
+MeshOffset=0,-8
+IconPath=ShipIcons/Starfury
+ModelPath=mod Model/Starfury
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Thruster=200,296,0,20
+Thruster=312,296,0,20
+Slots
+___|___|___|___|IO |IO |___|___|___|___
+___|___|___|IO |IO |IO |IO |___|___|___
+___|IO |IO |O  |I  |I  |O  |IO |IO |___
+IO |O  |O  |IO |I  |IC |IO |O  |O  |IO 
+IO |E  |O  |IO |IO |IO |IO |O  |E  |IO 
+IE |E  |IO |___|___|___|___|IO |E  |IE 
+IE |___|___|___|___|___|___|___|___|IE 
