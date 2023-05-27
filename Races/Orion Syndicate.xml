@@ -2,8 +2,8 @@
 <EmpireData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Faction>1</Faction>
   <IsPirateFaction>true</IsPirateFaction>
-  <PaymentPeriodTurns>250</PaymentPeriodTurns> <!-- Every turn is 5 seconds by default-->
-  <MinimumColoniesForStartPayment>2</MinimumColoniesForStartPayment>
+  <PaymentPeriodTurns>230</PaymentPeriodTurns> <!-- Every turn is 5 seconds by default-->
+  <MinimumColoniesForStartPayment>8</MinimumColoniesForStartPayment>
   <PortraitName>unknown</PortraitName>
   <DiplomacyDialogPath>Human</DiplomacyDialogPath>
   
@@ -23,7 +23,7 @@
   <PirateStationBasic>Corsair Station-Mk1</PirateStationBasic>
   <PirateStationImproved>Corsair Station-Mk2</PirateStationImproved>
   <PirateStationAdvanced>Corsair Station-Mk3</PirateStationAdvanced>
-  <PirateFlagShip>Corsair Flagship</PirateFlagShip>
+  <PirateFlagShip>Orion Syndicate Warcruiser mk1</PirateFlagShip>
   <!-- Fertility multipliers for environments. The default is 1 in the code, but the tags are included here for reference -->
   <EnvTerran>1</EnvTerran>
   <EnvOceanic>1</EnvOceanic>
