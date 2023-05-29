@@ -1,7 +1,7 @@
 Version=1
 HullName=Orion Syndicate/Nial
 VisibleName=Nial
-Role=troop
+Role=fighter
 Style=Orion Syndicate
 Size=6,10
 MeshOffset=0,-16
