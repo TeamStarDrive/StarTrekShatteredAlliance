@@ -50,6 +50,7 @@
   <Light>Red</Light>
   <ProjectileTexturePath>projBall_01_cyan</ProjectileTexturePath>
   <ModelPath>projBall</ModelPath>
+  <OffPowerMod>0.01</OffPowerMod>
 
 
   <WeaponType>Trilithium Torpedoes</WeaponType>

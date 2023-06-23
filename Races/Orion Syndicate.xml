@@ -8,16 +8,16 @@
   <DiplomacyDialogPath>Human</DiplomacyDialogPath>
   
   <StartingShip>orian syndicate Nial mk1</StartingShip>
-  <PirateSlaverBasic>Orion Syndicate-Torotha mk1</PirateSlaverBasic>
-  <PirateSlaverImproved>Orion Syndicate-Torotha mk2</PirateSlaverImproved>
+  <PirateSlaverBasic>Orion Syndicate-Torotha mk1A</PirateSlaverBasic>
+  <PirateSlaverImproved>Orion Syndicat frigate mk3a</PirateSlaverImproved>
   <PirateSlaverAdvanced>Orion Syndicate-Torotha mk1</PirateSlaverAdvanced>
   <PirateFighterBasic>orian syndicate Nial mk1</PirateFighterBasic>
   <PirateFighterImproved>orian syndicate Nial mk2</PirateFighterImproved>
   <PirateFighterAdvanced>orian syndicate Nial mk3</PirateFighterAdvanced>
   <PirateFrigateBasic>Orion Syndicat frigate mk1</PirateFrigateBasic>
   <PirateFrigateImproved>Orion Syndicat frigate mk2</PirateFrigateImproved>
-  <PirateFrigateAdvanced>Orion Syndicat frigate mk3</PirateFrigateAdvanced>
-  <PirateBaseBasic>ORIAN SYNDICATE BASE MK1a</PirateBaseBasic>
+  <PirateFrigateAdvanced>Orion Syndicat frigate mk3a</PirateFrigateAdvanced>
+  <PirateBaseBasic>ORIAN SYNDICATE BASE MK1AA</PirateBaseBasic>
   <PirateBaseImproved>ORIAN SYNDICATE BASE MK2a</PirateBaseImproved>
   <PirateBaseAdvanced>ORIAN SYNDICATE BASE MK3a</PirateBaseAdvanced>
   <PirateStationBasic>Corsair Station-Mk1</PirateStationBasic>

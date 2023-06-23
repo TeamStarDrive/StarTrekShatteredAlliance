@@ -20,7 +20,7 @@
   </Description>
   <PowerDraw>600</PowerDraw>
 
-  <SensorRange>500000</SensorRange>
+  <SensorRange>200000</SensorRange>
 
   <NameIndex>18285</NameIndex>
   <DescriptionIndex>18286</DescriptionIndex>

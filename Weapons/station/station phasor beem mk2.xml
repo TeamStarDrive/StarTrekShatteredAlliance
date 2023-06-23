@@ -7,10 +7,10 @@
   <UID>station phasor beem mk2</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>4</FireDelay>
-  <Range>15300</Range>
+  <Range>17300</Range>
   <PowerRequiredToFire>500</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2</BeamDuration>
+  <BeamDuration>3</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
@@ -19,8 +19,8 @@
   
   <!-- Projectile Information -->
   <BeamTexture>beam_purple3</BeamTexture>
-  <DamageAmount>160</DamageAmount>
-  <EffectVsShield>0.1</EffectVsShield>
+  <DamageAmount>299</DamageAmount>
+  <EffectVsShield>0.6</EffectVsShield>
   <BeamThickness>20</BeamThickness>
   <BeamPowerCostPerSecond>924</BeamPowerCostPerSecond>
   <OffPowerMod>0.5</OffPowerMod>

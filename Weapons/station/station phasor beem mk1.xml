@@ -7,7 +7,7 @@
   <UID>station phasor beem mk1</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>2</FireDelay>
-  <Range>13300</Range>
+  <Range>14300</Range>
   <PowerRequiredToFire>400</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>3</BeamDuration>
@@ -19,8 +19,8 @@
   
   <!-- Projectile Information -->
   <BeamTexture>beam_purple3</BeamTexture>
-  <DamageAmount>90</DamageAmount>
-  <EffectVsShield>1.5</EffectVsShield>
+  <DamageAmount>190</DamageAmount>
+  <EffectVsShield>2.5</EffectVsShield>
   <BeamThickness>25</BeamThickness>
   <BeamPowerCostPerSecond>424</BeamPowerCostPerSecond>
   <OffPowerMod>0.5</OffPowerMod>

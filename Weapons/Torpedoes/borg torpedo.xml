@@ -38,6 +38,7 @@
   <DamageAmount>4000</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>700</ProjectileSpeed>
+  <OffPowerMod>0.01</OffPowerMod>
 
   <!-- Animation Information -->
   <Light>Red</Light>
