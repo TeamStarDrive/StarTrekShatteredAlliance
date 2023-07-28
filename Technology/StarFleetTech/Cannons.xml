@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>Cannons</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>460</Cost>
+  <Cost>360</Cost>
   <NameIndex>18358</NameIndex>
   <DescriptionIndex>18359</DescriptionIndex>
   <LongDescription> resupply. </LongDescription>
@@ -11,6 +11,9 @@
   <LeadsTo>
     <LeadsToTech>
       <UID>PhotonTorpedo_Mk1</UID>
+    </LeadsToTech>
+	<LeadsToTech>
+      <UID>Beam weapons</UID>
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>

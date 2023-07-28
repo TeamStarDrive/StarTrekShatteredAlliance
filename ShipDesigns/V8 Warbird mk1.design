@@ -1,7 +1,7 @@
 Version=1
 Name=V8 Warbird mk1
 Hull=Romulan/Rom_V8Warbird
-Role=frigate
+Role=corvette
 ModName=Star Trek
 Style=Romulan
 Size=12,9

@@ -6,7 +6,7 @@
   <OffPowerMod>0.35</OffPowerMod>
   <Cost>21</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
-  <TechLevel>1</TechLevel>
+  <TechLevel>2</TechLevel>
 
   
   <!-- common traits shared by all ship modules -->

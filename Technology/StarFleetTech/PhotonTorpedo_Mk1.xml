@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>PhotonTorpedo_Mk1</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>960</Cost>
+  <Cost>560</Cost>
   <NameIndex>18360</NameIndex>
   <DescriptionIndex>18361</DescriptionIndex>
     <LeadsTo>

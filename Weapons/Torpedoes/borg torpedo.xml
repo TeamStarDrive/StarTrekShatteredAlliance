@@ -16,6 +16,7 @@
   <Tag_Drone>false</Tag_Drone>
   <Tag_Torpedo>true</Tag_Torpedo>
   <Tag_Cannon>false</Tag_Cannon>
+  <OffPowerMod>0.35</OffPowerMod>
   
 
 
@@ -38,7 +39,7 @@
   <DamageAmount>4000</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>700</ProjectileSpeed>
-  <OffPowerMod>0.01</OffPowerMod>
+
 
   <!-- Animation Information -->
   <Light>Red</Light>

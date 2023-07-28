@@ -2,7 +2,7 @@
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
   <Cost>11</Cost>
-  <TechLevel>2</TechLevel>
+  <TechLevel>3</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
   <XSize>3</XSize>

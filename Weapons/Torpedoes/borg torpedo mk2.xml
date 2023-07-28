@@ -18,6 +18,7 @@
   <Tag_Cannon>false</Tag_Cannon>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>false</ExcludesCorvettes>
+  <OffPowerMod>0.35</OffPowerMod>
 
 
   <UID>borg torpedo mk2</UID>
@@ -29,7 +30,7 @@
   <HitPoints>200</HitPoints>
   <SalvoCount>2</SalvoCount>
   <SalvoTimer>10</SalvoTimer>
-  <OffPowerMod>0.01</OffPowerMod>
+
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>

@@ -1,7 +1,7 @@
 Version=1
 Name=V6 Gallant Wing mk1
 Hull=Romulan/Rom_V6GallantWing
-Role=frigate
+Role=corvette
 ModName=Star Trek
 Style=Romulan
 Size=10,7

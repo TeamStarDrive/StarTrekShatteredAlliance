@@ -6,10 +6,11 @@
   <UID>cutting beam</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>4</FireDelay>
-  <Range>6500</Range>
+  <Range>7500</Range>
   <PowerRequiredToFire>100</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>1.5</BeamDuration>
+  <BeamDuration>2.5</BeamDuration>
+  <OffPowerMod>0.35</OffPowerMod>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
 
@@ -19,7 +20,7 @@
   <!-- Projectile Information -->
   <BeamTexture>vul_phaser</BeamTexture>
   <EffectVsArmor>0.50</EffectVsArmor>
-  <DamageAmount>25</DamageAmount>
+  <DamageAmount>45</DamageAmount>
   <BeamThickness>15</BeamThickness>
   <BeamPowerCostPerSecond>350</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>

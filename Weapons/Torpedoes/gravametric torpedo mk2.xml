@@ -18,6 +18,7 @@
   <Tag_Cannon>false</Tag_Cannon>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
+  <OffPowerMod>0.35</OffPowerMod>
   
   <UID>gravametric torpedo mk2</UID>
   <fireDelay>10</fireDelay>
@@ -50,7 +51,7 @@
   <Light>Red</Light>
   <ProjectileTexturePath>projBall_01_cyan</ProjectileTexturePath>
   <ModelPath>projBall</ModelPath>
-  <OffPowerMod>0.01</OffPowerMod>
+
 
 
   <WeaponType>Trilithium Torpedoes</WeaponType>

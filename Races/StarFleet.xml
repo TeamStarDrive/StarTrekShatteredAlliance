@@ -56,7 +56,7 @@
     <R>406</R>
     <G>306</G>
     <B>506</B>
-    <RaceDescription>add starfleet disc stuff.    </RaceDescription>
+    <RaceDescription>The United Federation is an expasionist republic with a strong emphasis on scientific and military power.  Humans are somewhat xenophobic, and they can be slow to trust other empires while also being quick to make war.    </RaceDescription>
     <PhysicalTraitAlluring>false</PhysicalTraitAlluring> 								<!--( 3)-->	
 	<PhysicalTraitRepulsive>false</PhysicalTraitRepulsive> 								<!--(-3)-->
 	<PhysicalTraitEagleEyed>false</PhysicalTraitEagleEyed> 								<!--( 2)-->

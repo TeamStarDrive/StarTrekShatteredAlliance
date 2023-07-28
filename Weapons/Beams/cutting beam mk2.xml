@@ -6,12 +6,13 @@
   <UID>cutting beam mk2</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>2</FireDelay>
-  <Range>9000</Range>
+  <Range>9500</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2.5</BeamDuration>
+  <BeamDuration>3.5</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
+  <OffPowerMod>0.35</OffPowerMod>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
 
@@ -21,11 +22,11 @@
   <!-- Projectile Information -->
   <BeamTexture>vul_phaser</BeamTexture>
   <EffectVsArmor>1.00</EffectVsArmor>
-  <DamageAmount>40</DamageAmount>
+  <DamageAmount>90</DamageAmount>
   <BeamThickness>25</BeamThickness>
   <BeamPowerCostPerSecond>6050</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
-  <OffPowerMod>0.01</OffPowerMod>
+
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>

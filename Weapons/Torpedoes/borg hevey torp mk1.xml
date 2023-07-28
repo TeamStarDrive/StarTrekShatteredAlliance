@@ -18,6 +18,7 @@
   <Tag_Cannon>false</Tag_Cannon>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
+  <OffPowerMod>0.35</OffPowerMod>
 
 
   <UID>borg hevey torp mk1</UID>
@@ -39,7 +40,7 @@
   <DamageAmount>9000</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>700</ProjectileSpeed>
-  <OffPowerMod>3.5</OffPowerMod>
+
 
   <!-- Animation Information -->
   <Light>Red</Light>

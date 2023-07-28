@@ -21,7 +21,7 @@
   <UID>Fed_Hevey_PhaserCannon_3x3</UID>
   <fireDelay>3</fireDelay>
   <Range>4000</Range>
-  <PowerRequiredToFire>20</PowerRequiredToFire>
+  <PowerRequiredToFire>1500</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <SalvoCount>5</SalvoCount>
   <SalvoTimer>6</SalvoTimer>

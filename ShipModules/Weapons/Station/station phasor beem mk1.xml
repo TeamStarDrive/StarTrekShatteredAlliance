@@ -8,7 +8,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
   <!-- Tech Level Used by AI for Upgrading Ships -->
-  <TechLevel>3</TechLevel>
+  <TechLevel>2</TechLevel>
 
   
   <!-- common traits shared by all ship modules -->
