@@ -9,8 +9,8 @@
   
   <StartingShip>orian syndicate Nial mk1</StartingShip>
   <PirateSlaverBasic>Orion Syndicate-Torotha mk1A</PirateSlaverBasic>
-  <PirateSlaverImproved>Orion Syndicate-Torotha mk2</PirateSlaverImproved>
-  <PirateSlaverAdvanced>Orion Syndicate-Torotha mk3</PirateSlaverAdvanced>
+  <PirateSlaverImproved>Orion Syndicat frigate mk2</PirateSlaverImproved>
+  <PirateSlaverAdvanced>Orion Syndicat frigate mk3a</PirateSlaverAdvanced>
   <PirateFighterBasic>orian syndicate Nial mk1</PirateFighterBasic>
   <PirateFighterImproved>orian syndicate Nial mk2</PirateFighterImproved>
   <PirateFighterAdvanced>orian syndicate Nial mk3</PirateFighterAdvanced>
@@ -20,9 +20,9 @@
   <PirateBaseBasic>ORIAN SYNDICATE BASE MK1AA</PirateBaseBasic>
   <PirateBaseImproved>ORIAN SYNDICATE BASE MK2a</PirateBaseImproved>
   <PirateBaseAdvanced>ORIAN SYNDICATE BASE MK3a</PirateBaseAdvanced>
-  <PirateStationBasic>Corsair Station-Mk1</PirateStationBasic>
-  <PirateStationImproved>Corsair Station-Mk2</PirateStationImproved>
-  <PirateStationAdvanced>Corsair Station-Mk3</PirateStationAdvanced>
+  <PirateStationBasic>ORIAN SYNDICATE BASE MK2a</PirateStationBasic>
+  <PirateStationImproved>ORIAN SYNDICATE BASE MK3a</PirateStationImproved>
+  <PirateStationAdvanced>ORIAN SYNDICATE BASE MK3a</PirateStationAdvanced>
   <PirateFlagShip>Orion Syndicate Warcruiser mk1</PirateFlagShip>
   <!-- Fertility multipliers for environments. The default is 1 in the code, but the tags are included here for reference -->
   <EnvTerran>1</EnvTerran>
