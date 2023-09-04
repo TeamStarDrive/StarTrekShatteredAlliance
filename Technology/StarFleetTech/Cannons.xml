@@ -12,9 +12,6 @@
     <LeadsToTech>
       <UID>PhotonTorpedo_Mk1</UID>
     </LeadsToTech>
-	<LeadsToTech>
-      <UID>Beam weapons</UID>
-    </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
     <UnlockedMod>

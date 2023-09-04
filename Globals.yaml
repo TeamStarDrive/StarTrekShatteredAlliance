@@ -5,6 +5,7 @@ Globals:
   MaxOpponents: 13
   DefaultNumOpponents: 4
   TurnTimer: 5 # default time in seconds for a single turn
+  TraitPoints: 8 # initial number of trait points. Default is 8
 
   # gameplay modifiers
   ShipDestroyThreshold: 0.4 # ships with internal slots below this ratio will Die
@@ -62,7 +63,8 @@ Globals:
   # mod information
   Mod:
     Name: "Star Trek"
-    Version: "v2.6a"
+    Version: "v2.6b"
+    FormatVersion: 1
     SupportedBlackBoxVersions: "develop,mars-1.41"
     IconPath: mod_icon.png
     Description: "5 STARTREK RACES THEIR SHIPS AND WEAPONS."

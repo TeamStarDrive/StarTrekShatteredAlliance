@@ -42,6 +42,20 @@
   <EnvBarren>1</EnvBarren>
   <PreferredEnv>Terran</PreferredEnv> <!-- Terraformers will terraform a planet to this environment -->
   
+  <RebelName>Draylok Democrats</RebelName>
+  <RebelSing>Democractic Rebel</RebelSing>
+  <RebelPlur>Democractic Rebels</RebelPlur>
+  <TroopNameIndex>2084</TroopNameIndex>
+  <TroopDescriptionIndex>2094</TroopDescriptionIndex>
+  <WarpStart>sd_warp_start_draylok_01</WarpStart>
+  <WarpEnd>sd_warp_stop_draylok_01</WarpEnd>
+
+  <ThrustColor0R>150</ThrustColor0R>
+  <ThrustColor0G>0</ThrustColor0G>
+  <ThrustColor0B>0</ThrustColor0B>
+  <ThrustColor1R>245</ThrustColor1R>
+  <ThrustColor1G>245</ThrustColor1G>
+  <ThrustColor1B>245</ThrustColor1B>     
   <Traits>
     <Name>Romulan Star Empire</Name>
     <Singular>Romulan</Singular>
@@ -56,44 +70,16 @@
     <R>400</R>
     <G>740</G>
     <B>303</B>
-    <RaceDescription>add starfleet disc stuff.    </RaceDescription>
-    <PhysicalTraitAlluring>true</PhysicalTraitAlluring> 								<!--( 3)-->	
-	<PhysicalTraitRepulsive>false</PhysicalTraitRepulsive> 								<!--(-3)-->
-	<PhysicalTraitEagleEyed>false</PhysicalTraitEagleEyed> 								<!--( 2)-->
-	<PhysicalTraitBlind>false</PhysicalTraitBlind> 										<!--(-2)-->
-	<PhysicalTraitEfficientMetabolism>false</PhysicalTraitEfficientMetabolism> 			<!--( 3)-->
-	<PhysicalTraitGluttonous>false</PhysicalTraitGluttonous> 							<!--(-3)-->
-	<PhysicalTraitFertile>true</PhysicalTraitFertile> 									<!--( 3)-->
-	<PhysicalTraitLessFertile>false</PhysicalTraitLessFertile> 							<!--(-3)-->
-	<PhysicalTraitSmart>true</PhysicalTraitSmart> 										<!--( 3)-->
-	<PhysicalTraitDumb>false</PhysicalTraitDumb> 										<!--(-3)-->
-	<PhysicalTraitReflexes>false</PhysicalTraitReflexes> 								<!--( 3)-->
-	<PhysicalTraitPonderous>false</PhysicalTraitPonderous> 								<!--(-3)-->
-	<PhysicalTraitSavage>false</PhysicalTraitSavage> 									<!--( 2)-->
-	<PhysicalTraitTimid>false</PhysicalTraitTimid> 										<!--(-2)-->
-	<SociologicalTraitEfficient>false</SociologicalTraitEfficient> 						<!--( 4)-->
-	<SociologicalTraitWasteful>false</SociologicalTraitWasteful> 						<!--(-4)-->
-	<SociologicalTraitIndustrious>false</SociologicalTraitIndustrious> 					<!--( 3)-->
-	<SociologicalTraitLazy>false</SociologicalTraitLazy> 								<!--(-3)-->
-	<SociologicalTraitMercantile>false</SociologicalTraitMercantile> 					<!--( 3)-->
-	<SociologicalTraitMeticulous>true</SociologicalTraitMeticulous> 					<!--( 1)-->
-	<SociologicalTraitCorrupt>false</SociologicalTraitCorrupt> 							<!--(-1)-->
-	<SociologicalTraitSkilledEngineers>false</SociologicalTraitSkilledEngineers> 		<!--( 2)-->
-	<SociologicalTraitHaphazardEngineers>false</SociologicalTraitHaphazardEngineers> 	<!--(-2)-->
-	<HistoryTraitAstronomers>false</HistoryTraitAstronomers> 							<!--( 2)-->
-	<HistoryTraitCybernetic>false</HistoryTraitCybernetic> 								<!--( 7)-->
-	<HistoryTraitManifestDestiny>false</HistoryTraitManifestDestiny> 					<!--( 3)-->
-	<HistoryTraitMilitaristic>false</HistoryTraitMilitaristic> 							<!--( 4)-->
-	<HistoryTraitNavalTraditions>true</HistoryTraitNavalTraditions> 					<!--( 4)-->
-	<HistoryTraitPackMentality>false</HistoryTraitPackMentality> 						<!--( 2)-->
-	<HistoryTraitPrototypeFlagship>true</HistoryTraitPrototypeFlagship> 				<!--( 1)-->
-	<HistoryTraitSpiritual>false</HistoryTraitSpiritual> 								<!--( 2)-->
-	<HistoryTraitPollutedHomeWorld>false</HistoryTraitPollutedHomeWorld> 				<!--(-2)-->
-	<HistoryTraitIndustrializedHomeWorld>false</HistoryTraitIndustrializedHomeWorld> 	<!--( 1)-->
-	<HistoryTraitDuplicitous>false</HistoryTraitDuplicitous> 							<!--( 2)-->
-	<HistoryTraitHonest>false</HistoryTraitHonest> 										<!--(-2)-->
-	<HistoryTraitHugeHomeWorld>false</HistoryTraitHugeHomeWorld>			 			<!--( 3)-->
-	<HistoryTraitSmallHomeWorld>true</HistoryTraitSmallHomeWorld>						<!--(-3)-->
+	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
+		<TraitSet>
+			<TraitOptions>
+				<string>Smart</string>
+				<string>Corrupt</string>
+				<string>Mercantile</string>
+				<string>Alluring</string>
+				<string>Duplicitous</string>
+			</TraitOptions>			
+		</TraitSet>
+	</TraitSets>	
   </Traits>
-  <Faction>0</Faction>
 </EmpireData>
