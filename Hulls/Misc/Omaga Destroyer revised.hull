@@ -1,8 +1,8 @@
 Version=1
-HullName=Orion Syndicate/Omaga Destroyer revised
+HullName=Misc/Omaga Destroyer revised
 VisibleName=Omaga Destroyer revised
-Role=troop
-Style=Orion Syndicate
+Role=cruiser
+Style=Misc
 Size=136,88
 MeshOffset=8,0
 IconPath=ShipIcons/Omega

@@ -6,7 +6,11 @@
   <Cost>2000</Cost>
   <NameIndex>595</NameIndex>
   <DescriptionIndex>596</DescriptionIndex>
-  <LeadsTo />
+<LeadsTo>
+    <LeadsToTech>
+      <UID>Battleships 2</UID>
+    </LeadsToTech>
+  </LeadsTo>
   <ModulesUnlocked>
     <UnlockedMod>
       <ModuleUID>CIC</ModuleUID>

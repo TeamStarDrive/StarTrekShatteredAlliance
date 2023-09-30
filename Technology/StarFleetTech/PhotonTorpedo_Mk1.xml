@@ -10,9 +10,6 @@
     <LeadsToTech>
       <UID>PhotonTorpedo_Mk2</UID>
     </LeadsToTech>
-	<LeadsToTech>
-      <UID>Cannons mk2</UID>
-    </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
     <UnlockedMod>

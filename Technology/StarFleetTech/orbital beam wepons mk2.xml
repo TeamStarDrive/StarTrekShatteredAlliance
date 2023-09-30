@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <UID>Startrek Weapons</UID>
-  <TechnologyType>StarFleetTech</TechnologyType>
+  <UID>orbital beam wepons mk2</UID>
+  <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>1</Cost>
-  <RootNode>1</RootNode>
-  <Name>Startrek Weapons</Name>
-  <NameIndex>18356</NameIndex>
-  <DescriptionIndex>18357</DescriptionIndex>
+  <Name>orbital beam wepons mk2</Name>
+  <NameIndex>18500</NameIndex>
+  <DescriptionIndex>18501</DescriptionIndex>
   <IconPath>icons_techroot_energy</IconPath>
   <LongDescription>Our most massive ships can deploy frigate-sized vessels from these gargantuan berths.  When these "battle raiders" are destroyed, however, there is no respawn until the mothership returns to a shipyard for resupply. </LongDescription>
-    <LeadsTo />
   <LeadsTo>
-    <LeadsToTech>
-      <UID>Cannons</UID>
+  <LeadsToTech>
+      <UID>orbital beam wepons mk3</UID>
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
-    <UnlockedMod>
-      <ModuleUID>Fed_PhaserCannon</ModuleUID>
-      <Type>fed</Type>
-    </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>primative disrupter cannon</ModuleUID>
-    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

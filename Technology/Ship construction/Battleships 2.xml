@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Battleships 2</UID>
+  <TechnologyType>ShipHull</TechnologyType>
+  <Cost>200</Cost>
+  <NameIndex>18532</NameIndex>
+  <DescriptionIndex>18533</DescriptionIndex>
+  <LeadsTo>
+  </LeadsTo>
+  <ModulesUnlocked />
+  <BuildingsUnlocked />
+  <BonusUnlocked>
+  </BonusUnlocked>
+  <TroopsUnlocked />
+  <HullsUnlocked>
+  </HullsUnlocked>
+  <UnlockedAtGameStart>
+    <RaceRequirements>
+      <RacialTrait>Militaristic</RacialTrait>
+    </RaceRequirements>
+  </UnlockedAtGameStart>
+  <Militaristic>fasle</Militaristic>
+</Technology>

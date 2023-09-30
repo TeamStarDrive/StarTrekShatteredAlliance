@@ -10,6 +10,9 @@
     <LeadsToTech>
       <UID>FrigateConstruction</UID>
     </LeadsToTech>
+	<LeadsToTech>
+      <UID>Corvettes 2</UID>
+    </LeadsToTech>
     <LeadsToTech>
       <UID>Ace Training</UID>
     </LeadsToTech>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>FrigateConstruction 2</UID>
+  <TechnologyType>ShipHull</TechnologyType>
+  <Cost>200</Cost>
+  <NameIndex>18528</NameIndex>
+  <DescriptionIndex>18529</DescriptionIndex>
+  <LeadsTo>
+  	<LeadsToTech>
+      <UID>Cruisers 2</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked />
+  <BuildingsUnlocked />
+  <BonusUnlocked>
+  </BonusUnlocked>
+  <TroopsUnlocked />
+  <HullsUnlocked>
+  </HullsUnlocked>
+  <UnlockedAtGameStart>
+    <RaceRequirements>
+      <RacialTrait>Militaristic</RacialTrait>
+    </RaceRequirements>
+  </UnlockedAtGameStart>
+  <Militaristic>fasle</Militaristic>
+</Technology>
