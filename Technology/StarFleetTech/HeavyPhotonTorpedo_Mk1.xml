@@ -21,10 +21,6 @@
       <Type>Klingon</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>Kling_DisruptorBeamMk2</ModuleUID>
-      <Type>Klingon</Type>
-    </UnlockedMod>
-	<UnlockedMod>
       <ModuleUID>borg hevey torp mk1</ModuleUID>
       <Type>FreeBorg</Type>
     </UnlockedMod>
@@ -35,13 +31,6 @@
 	<UnlockedMod>
       <ModuleUID>hevey torpedo</ModuleUID>
       <Type>Romulan</Type>
-    </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>hevey torpedo</ModuleUID>
-      <Type>Romulan</Type>
-    </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>station hevey torpedo mk1</ModuleUID>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

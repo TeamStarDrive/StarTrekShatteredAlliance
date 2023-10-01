@@ -15,6 +15,18 @@
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>Phasor Beam mk3</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>borg holding beam mk2</ModuleUID>
+      <Type>FreeBorg</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Kling_DisruptorBeamMk2</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

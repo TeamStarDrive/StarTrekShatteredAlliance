@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>space station sheailds</UID>
+  <TechnologyType>ShipDefense</TechnologyType>
+  <Cost>350</Cost>
+  <NameIndex>18556</NameIndex>
+  <DescriptionIndex>18557</DescriptionIndex>
+  <LeadsTo>
+      <LeadsToTech>
+      <UID>starbase sheailds</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+  <UnlockedAtGameStart>
+    <RaceRequirements>
+      <RacialTrait>Militaristic</RacialTrait>
+    </RaceRequirements>
+  </UnlockedAtGameStart>
+</Technology>

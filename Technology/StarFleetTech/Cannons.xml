@@ -28,14 +28,6 @@
       <Type>fed</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>borg holding beam mk1</ModuleUID>
-      <Type>FreeBorg</Type>
-    </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>cutting beam</ModuleUID>
-      <Type>FreeBorg</Type>
-    </UnlockedMod>
-	<UnlockedMod>
       <ModuleUID>Kling_DisruptorCannonMk1</ModuleUID>
       <Type>Klingon</Type>
     </UnlockedMod>
@@ -44,16 +36,10 @@
       <Type>Cardassia</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>Car_DisruptorBeamMk1</ModuleUID>
-      <Type>Cardassia</Type>
-    </UnlockedMod>
-	<UnlockedMod>
       <ModuleUID>romulan disrupter cannon</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>station phasor beem mk1</ModuleUID>
-    </UnlockedMod>
+
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

@@ -18,9 +18,6 @@
       <Type>fed</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>TorpedoBay_3x2</ModuleUID>
-    </UnlockedMod>
-	<UnlockedMod>
       <ModuleUID>Kling_TriTorpedoMk1</ModuleUID>
       <Type>Klingon</Type>
     </UnlockedMod>
@@ -35,9 +32,6 @@
 	<UnlockedMod>
       <ModuleUID>plasma torpedo</ModuleUID>
       <Type>Romulan</Type>
-    </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>station adv torpedo mk1</ModuleUID>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

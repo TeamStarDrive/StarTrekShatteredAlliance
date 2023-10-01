@@ -14,6 +14,22 @@
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>cutting beam</ModuleUID>
+      <Type>FreeBorg</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Car_DisruptorBeamMk1</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>borg holding beam mk1</ModuleUID>
+      <Type>FreeBorg</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Kling_DisruptorBeamMk1</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

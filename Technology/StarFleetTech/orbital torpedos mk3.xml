@@ -9,8 +9,11 @@
   <IconPath>icons_techroot_energy</IconPath>
   <LongDescription>Our most massive ships can deploy frigate-sized vessels from these gargantuan berths.  When these "battle raiders" are destroyed, however, there is no respawn until the mothership returns to a shipyard for resupply. </LongDescription>
   <LeadsTo>
-  </LeadsTo>  
+  </LeadsTo>
   <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>station adv torpedo mk2</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

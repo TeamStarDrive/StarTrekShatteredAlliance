@@ -27,9 +27,6 @@
       <ModuleUID>plasma torpedo mk2</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>station adv torpedo mk2</ModuleUID>
-    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

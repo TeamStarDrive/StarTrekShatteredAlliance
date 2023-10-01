@@ -14,7 +14,23 @@
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>borg holding beam mk1</ModuleUID>
+      <Type>FreeBorg</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
+  	<UnlockedMod>
+      <ModuleUID>Phasor Beam mk2</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Car_DisruptorBeamMk2</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Phasor Beam mk1</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
   <BuildingsUnlocked />
   <BonusUnlocked />
   <TroopsUnlocked />

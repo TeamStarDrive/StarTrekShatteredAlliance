@@ -39,9 +39,6 @@
       <ModuleUID>torpedo mk2</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>station torpedo launcher mk2</ModuleUID>
-    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

@@ -12,15 +12,9 @@
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
-    <UnlockedMod>
-      <ModuleUID>TorpedoBay_2x1</ModuleUID>
-    </UnlockedMod>
+
     <UnlockedMod>
       <ModuleUID>Fed_PhotonTorpedo_Mk1</ModuleUID>
-      <Type>fed</Type>
-    </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>Phasor Beam mk1</ModuleUID>
       <Type>fed</Type>
     </UnlockedMod>
 	<UnlockedMod>
@@ -31,10 +25,7 @@
       <ModuleUID>Kling_PhotonTorpedoMk1</ModuleUID>
       <Type>Klingon</Type>
     </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>Kling_DisruptorBeamMk1</ModuleUID>
-      <Type>Klingon</Type>
-    </UnlockedMod>
+
 	<UnlockedMod>
       <ModuleUID>Car_PhotonTorpedoMk1</ModuleUID>
       <Type>Cardassia</Type>
@@ -42,9 +33,6 @@
 	<UnlockedMod>
       <ModuleUID>micro torpedo</ModuleUID>
       <Type>Romulan</Type>
-    </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>station torpedo launcher mk1</ModuleUID>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

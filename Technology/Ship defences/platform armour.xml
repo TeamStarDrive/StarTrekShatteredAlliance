@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>platform armour</UID>
+  <TechnologyType>ShipDefense</TechnologyType>
+  <Cost>1100</Cost>
+  <NameIndex>18562</NameIndex>
+  <DescriptionIndex>18563</DescriptionIndex>
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>advanced platform armour</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

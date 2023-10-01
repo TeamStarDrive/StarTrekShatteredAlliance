@@ -11,26 +11,6 @@
       <ModuleUID>Fed_Photonstorm</ModuleUID>
       <Type>fed</Type>
     </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>cutting beam mk2</ModuleUID>
-      <Type>FreeBorg</Type>
-    </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>Car_DisruptorBeamMk3</ModuleUID>
-      <Type>Cardassia</Type>
-    </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>station deflector mk2</ModuleUID>
-    </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>ablative armor Large</ModuleUID>
-    </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>ablative armor Med</ModuleUID>
-    </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>ablative armor Small</ModuleUID>
-    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

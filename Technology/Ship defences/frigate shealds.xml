@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>frigate shealds</UID>
+  <TechnologyType>ShipDefense</TechnologyType>
+  <Cost>650</Cost>
+  <NameIndex>18546</NameIndex>
+  <DescriptionIndex>18547</DescriptionIndex>
+  <LeadsTo>
+      <LeadsToTech>
+      <UID>advanced crusier sheaild</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>
