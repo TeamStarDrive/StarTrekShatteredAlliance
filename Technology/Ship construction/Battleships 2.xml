@@ -7,6 +7,9 @@
   <NameIndex>18532</NameIndex>
   <DescriptionIndex>18533</DescriptionIndex>
   <LeadsTo>
+      <LeadsToTech>
+      <UID>dreadnoughts</UID>
+    </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked />
   <BuildingsUnlocked />
