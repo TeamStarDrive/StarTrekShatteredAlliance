@@ -9,10 +9,18 @@
   <DescriptionIndex>18357</DescriptionIndex>
   <IconPath>icons_techroot_energy</IconPath>
   <LongDescription>Our most massive ships can deploy frigate-sized vessels from these gargantuan berths.  When these "battle raiders" are destroyed, however, there is no respawn until the mothership returns to a shipyard for resupply. </LongDescription>
-    <LeadsTo />
   <LeadsTo>
     <LeadsToTech>
       <UID>Cannons</UID>
+    </LeadsToTech>
+    <LeadsToTech>
+      <UID>PhotonTorpedo_Mk1</UID>
+    </LeadsToTech>
+	<LeadsToTech>
+      <UID>beam wepons</UID>
+    </LeadsToTech>
+	<LeadsToTech>
+      <UID>orbital defence</UID>
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>

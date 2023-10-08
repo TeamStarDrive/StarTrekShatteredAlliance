@@ -8,7 +8,7 @@
   <DescriptionIndex>18485</DescriptionIndex>
   <IconPath>icons_techroot_energy</IconPath>
   <LongDescription>Our most massive ships can deploy frigate-sized vessels from these gargantuan berths.  When these "battle raiders" are destroyed, however, there is no respawn until the mothership returns to a shipyard for resupply. </LongDescription>
-<LeadsTo>
+  <LeadsTo>
     <LeadsToTech>
       <UID>beam wepons mk3</UID>
     </LeadsToTech>
@@ -18,8 +18,7 @@
       <ModuleUID>borg holding beam mk1</ModuleUID>
       <Type>FreeBorg</Type>
     </UnlockedMod>
-  </ModulesUnlocked>
-  	<UnlockedMod>
+    <UnlockedMod>
       <ModuleUID>Phasor Beam mk2</ModuleUID>
       <Type>fed</Type>
     </UnlockedMod>
@@ -31,6 +30,11 @@
       <ModuleUID>Phasor Beam mk1</ModuleUID>
       <Type>fed</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>romulan disrupter beam mk2</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+  </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />
   <TroopsUnlocked />

@@ -7,18 +7,8 @@
   <NameIndex>18358</NameIndex>
   <DescriptionIndex>18359</DescriptionIndex>
   <LongDescription> resupply. </LongDescription>
-    <LeadsTo />
   <LeadsTo>
     <LeadsToTech>
-      <UID>PhotonTorpedo_Mk1</UID>
-    </LeadsToTech>
-	<LeadsToTech>
-      <UID>beam wepons</UID>
-    </LeadsToTech>
-	<LeadsToTech>
-      <UID>orbital defence</UID>
-    </LeadsToTech>
-	<LeadsToTech>
       <UID>Cannons mk2</UID>
     </LeadsToTech>
   </LeadsTo>
