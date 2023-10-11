@@ -34,6 +34,10 @@
       <ModuleUID>romulan disrupter beam</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Phasor Beam mk1</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

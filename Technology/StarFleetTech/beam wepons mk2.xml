@@ -27,10 +27,6 @@
       <Type>Cardassia</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>Phasor Beam mk1</ModuleUID>
-      <Type>fed</Type>
-    </UnlockedMod>
-	<UnlockedMod>
       <ModuleUID>romulan disrupter beam mk2</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>

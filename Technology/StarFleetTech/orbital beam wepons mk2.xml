@@ -17,6 +17,9 @@
     <UnlockedMod>
       <ModuleUID>station phasor beem mk3</ModuleUID>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>tractorbeam turret</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

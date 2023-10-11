@@ -21,9 +21,6 @@
       <Type>Cardassia</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>tractorbeam mk1</ModuleUID>
-    </UnlockedMod>
-	<UnlockedMod>
       <ModuleUID>romulan disrupter cannon mk3</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>

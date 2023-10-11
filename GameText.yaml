@@ -15369,6 +15369,16 @@ BB_Tech_>legendery tech mk3_Desc:
  ENG: ">legendery tech mk3" 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
+BB_Tech_>orbital RepairDrone_Name:
+ Id: 18590
+ ENG: ">orbital RepairDrone" 
+ RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
+ SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
+BB_Tech_>orbital RepairDrone_Desc:
+ Id: 18591
+ ENG: ">orbital RepairDrone" 
+ RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
+ SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 
 # DO 
 # DO NOT USE 18K index for bb+  - use empty spaces between 4000-5000

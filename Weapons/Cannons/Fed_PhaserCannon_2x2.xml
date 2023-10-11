@@ -40,6 +40,7 @@
   
   <!-- Projectile Information -->
   <DamageAmount>290</DamageAmount>
+  <TractorDamage>800</TractorDamage>
   <ProjectileSpeed>3200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>1.5</Scale>

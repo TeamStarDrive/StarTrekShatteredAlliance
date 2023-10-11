@@ -20,6 +20,13 @@
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>orbital RepairDrone</ModuleUID>
+    </UnlockedMod>
+
+	<UnlockedMod>
+      <ModuleUID>tractorbeam mk1</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />
