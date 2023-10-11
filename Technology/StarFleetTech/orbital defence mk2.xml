@@ -27,6 +27,9 @@
 	<UnlockedMod>
       <ModuleUID>tractorbeam mk1</ModuleUID>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>orbital defence torpedo</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

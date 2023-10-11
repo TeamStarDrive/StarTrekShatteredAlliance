@@ -11,6 +11,10 @@
   <LeadsTo>
   </LeadsTo>
   <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>modulated phasor</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

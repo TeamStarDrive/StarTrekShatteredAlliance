@@ -11,6 +11,12 @@
   <LeadsTo>
   </LeadsTo>
   <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>orbital cannons mk3</ModuleUID>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>orbital cannons mk3 3x3</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

@@ -27,6 +27,18 @@
       <ModuleUID>cutting beam mk2</ModuleUID>
       <Type>FreeBorg</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>power drain phasor beam</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>power drain phasor beam 4x4</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>fighter power drain phasor</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

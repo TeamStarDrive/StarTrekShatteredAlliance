@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <UID>station phasor beem mk4</UID> 
+  <Version>2</Version>
+  <OffPowerMod>0.35</OffPowerMod>
+  <Cost>21</Cost>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>
+  <!-- Tech Level Used by AI for Upgrading Ships -->
+  <TechLevel>5</TechLevel>
+
+  
+  <!-- common traits shared by all ship modules -->
+  <XSize>6</XSize>
+  <YSize>6</YSize>
+  <ModuleType>Turret</ModuleType>
+  <Name>station phasor beem mk4</Name>
+  <Restrictions>O</Restrictions>
+
+  <IconTexturePath>Modules/station phasor beem mk3</IconTexturePath>3
+
+
+  <NameIndex>18616</NameIndex>
+  <DescriptionIndex>18617</DescriptionIndex>
+
+
+  <!-- Mass and Health -->
+  <Mass>19120</Mass>
+  <Health>35120</Health>
+  <HealthMax>35120</HealthMax>
+
+  <!-- Power Drawn -->
+  <PowerDraw>9</PowerDraw>
+
+  <!-- for Weapons -->
+  <WeaponType>station phasor beem mk4</WeaponType>
+  <FieldOfFire>180</FieldOfFire>
+
+  <!-- Description -->
+  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  
+
+</ShipModule>
