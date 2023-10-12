@@ -44,7 +44,7 @@
   <!-- for Weapons -->
     <!-- set is repair module so it knows to scan for targets to heal while outside of combat -->
   <IsRepairModule>true</IsRepairModule>
-  <WeaponType>RepairDrone</WeaponType>
+  <WeaponType>orbital RepairDrone</WeaponType>
   <OrdinanceCapacity>150</OrdinanceCapacity>
   <FieldOfFire>360</FieldOfFire>
   

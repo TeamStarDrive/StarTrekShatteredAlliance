@@ -3,7 +3,7 @@
   <UID>orbital RepairBeam</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>2</FireDelay>
-  <Range>2000</Range>
+  <Range>18000</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -16,7 +16,7 @@
   <BeamTexture>beam_black</BeamTexture>
 
   <HitsFriendlies>true</HitsFriendlies>
-  <DamageAmount>-130</DamageAmount>
+  <DamageAmount>1000</DamageAmount>
   <BeamThickness>50</BeamThickness>
   <BeamPowerCostPerSecond>0</BeamPowerCostPerSecond>
 

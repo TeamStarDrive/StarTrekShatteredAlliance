@@ -26,7 +26,7 @@
 
   <IsRepairDrone>true</IsRepairDrone>
   <!-- Projectile Information -->
-  <DamageAmount>0</DamageAmount>
+  <DamageAmount>-120</DamageAmount>
   <ProjectileSpeed>950</ProjectileSpeed>
   
   <ProjectileTexturePath>spacemine_d</ProjectileTexturePath>
