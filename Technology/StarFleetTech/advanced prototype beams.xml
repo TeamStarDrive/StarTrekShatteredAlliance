@@ -15,6 +15,10 @@
       <ModuleUID>modulated phasor</ModuleUID>
       <Type>fed</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>zero point disrupter beam</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

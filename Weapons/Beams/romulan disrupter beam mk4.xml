@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Tag_Kinetic>false</Tag_Kinetic>
+  <Tag_Energy>false</Tag_Energy>
+  <Tag_Guided>false</Tag_Guided>
+  <Tag_Missile>false</Tag_Missile>
+  <Tag_Plasma>false</Tag_Plasma>
+  <Tag_Beam>true</Tag_Beam>
+  <Tag_Intercept>false</Tag_Intercept>
+  
+  <Tag_Bomb>false</Tag_Bomb>
+  <Tag_BioWeapon>false</Tag_BioWeapon>
+  
+  
+  <Tag_Drone>false</Tag_Drone>
+  <Tag_Torpedo>false</Tag_Torpedo>
+  <Tag_Cannon>false</Tag_Cannon>
+  
+  <ExcludesFighters>false</ExcludesFighters>  
+
+  <UID>romulan disrupter beam mk4</UID>
+  <IsBeam>true</IsBeam>
+  <FireDelay>5</FireDelay>
+  <Range>7000</Range>
+  <PowerRequiredToFire>0</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
+  <BeamDuration>2</BeamDuration>
+  <!-- name of XACT audio cue to play on firing this weapon -->
+
+  <FireCueName>sd_weapon_flame_start_01</FireCueName>
+  <ToggleSoundName>sd_weapon_phasor_01</ToggleSoundName>
+  <BeamTexture>fed_phaser</BeamTexture>
+  
+  <!-- Projectile Information -->
+  <DamageAmount>16</DamageAmount>
+  <BeamThickness>10</BeamThickness>
+  <BeamPowerCostPerSecond>487</BeamPowerCostPerSecond>
+  <EffectVsArmor>1.15</EffectVsArmor>
+  <WeaponRotation>2</WeaponRotation>
+ 
+
+  <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
+  <WeaponType>Energy Beam</WeaponType>
+  <WeaponHitEffect>Beam_Hit_Armor</WeaponHitEffect>
+  <WeaponShieldHitEffect>Beam_Hit_Shield</WeaponShieldHitEffect>
+  <WeaponDeathEffect></WeaponDeathEffect>
+
+</Weapon>

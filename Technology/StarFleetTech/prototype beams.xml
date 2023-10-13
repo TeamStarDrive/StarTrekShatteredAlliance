@@ -39,6 +39,10 @@
       <ModuleUID>fighter power drain phasor</ModuleUID>
       <Type>fed</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>romulan disrupter beam mk4</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />
