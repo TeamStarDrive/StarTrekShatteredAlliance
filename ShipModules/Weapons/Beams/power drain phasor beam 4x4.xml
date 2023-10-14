@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <UID>power drain phasor beam 4X4</UID> 
+  <UID>power drain phasor beam 4x4</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
   <Cost>41</Cost>
