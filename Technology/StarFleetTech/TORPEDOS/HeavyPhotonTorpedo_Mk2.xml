@@ -9,7 +9,6 @@
   <LeadsTo>
     <LeadsToTech>
       <UID>Prototype Weapons</UID>
-      <Type>fed</Type>
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
@@ -35,6 +34,11 @@
     </UnlockedMod>
 	<UnlockedMod>
       <ModuleUID>hevey torpedo mk2</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>hevey torpedo mk2</ModuleUID>
+      <Type>Vulfen</Type>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

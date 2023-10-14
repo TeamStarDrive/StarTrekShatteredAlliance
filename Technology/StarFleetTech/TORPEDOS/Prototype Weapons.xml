@@ -4,12 +4,16 @@
   <UID>Prototype Weapons</UID>
   <TechnologyType>TechIcons_Fed_photonstorm</TechnologyType>
   <Cost>3860</Cost>
-  <NameIndex>18372</NameIndex>
-  <DescriptionIndex>18373</DescriptionIndex>
+  <NameIndex>18622</NameIndex>
+  <DescriptionIndex>18623</DescriptionIndex>
   <ModulesUnlocked>
     <UnlockedMod>
       <ModuleUID>Fed_Photonstorm</ModuleUID>
       <Type>fed</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>singlarity torpedo</ModuleUID>
+      <Type>Romulan</Type>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

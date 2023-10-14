@@ -43,6 +43,10 @@
       <ModuleUID>romulan disrupter beam mk4</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>romulan fighter disrupter beam</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />
