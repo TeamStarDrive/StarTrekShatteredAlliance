@@ -23,6 +23,14 @@
       <ModuleUID>trifocused disrupter beam</ModuleUID>
       <Type>Klingon</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>cardasian prototype beam</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>borg gravametric distortion beam</ModuleUID>
+      <Type>FreeBorg</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

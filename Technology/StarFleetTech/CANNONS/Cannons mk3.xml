@@ -24,6 +24,10 @@
       <ModuleUID>romulan disrupter cannon mk3</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>borg gravametric cannon mk3</ModuleUID>
+      <Type>FreeBorg</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

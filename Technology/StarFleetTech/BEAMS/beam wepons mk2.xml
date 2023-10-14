@@ -19,6 +19,10 @@
       <Type>FreeBorg</Type>
     </UnlockedMod>
     <UnlockedMod>
+      <ModuleUID>cutting beam mk2</ModuleUID>
+      <Type>FreeBorg</Type>
+    </UnlockedMod>
+    <UnlockedMod>
       <ModuleUID>Phasor Beam mk2</ModuleUID>
       <Type>fed</Type>
     </UnlockedMod>

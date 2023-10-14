@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <UID>cardasian prototype beam</UID> 
+  <Version>2</Version>
+  <OffPowerMod>0.35</OffPowerMod>
+  <Cost>21</Cost>
+  <!-- Tech Level Used by AI for Upgrading Ships -->
+  <TechLevel>4</TechLevel>
+
+  
+  <!-- common traits shared by all ship modules -->
+  <XSize>4</XSize>
+  <YSize>4</YSize>
+  <ModuleType>Turret</ModuleType>
+  <Name>Light Phasor Array</Name>
+  <Restrictions>O</Restrictions>
+
+  <IconTexturePath>Modules/cardasian prototype beam</IconTexturePath>3
+
+
+  <NameIndex>18636</NameIndex>
+  <DescriptionIndex>18637</DescriptionIndex>
+
+
+  <!-- Mass and Health -->
+  <Mass>8</Mass>
+  <Health>9920</Health>
+  <HealthMax>9920</HealthMax>
+
+  <!-- Power Drawn -->
+  <PowerDraw>5</PowerDraw>
+
+  <!-- for Weapons -->
+  <WeaponType>cardasian prototype beam</WeaponType>
+  <FieldOfFire>90</FieldOfFire>
+
+  <!-- Description -->
+  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  
+
+</ShipModule>

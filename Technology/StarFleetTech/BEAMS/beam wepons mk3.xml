@@ -31,6 +31,10 @@
       <ModuleUID>romulan disrupter beam mk3</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Car_DisruptorBeamMk3</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

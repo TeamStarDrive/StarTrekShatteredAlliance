@@ -4,8 +4,8 @@
   <UID>Prototype Weapons</UID>
   <TechnologyType>TechIcons_Fed_photonstorm</TechnologyType>
   <Cost>3860</Cost>
-  <NameIndex>18622</NameIndex>
-  <DescriptionIndex>18623</DescriptionIndex>
+  <NameIndex>18640</NameIndex>
+  <DescriptionIndex>18641</DescriptionIndex>
   <ModulesUnlocked>
     <UnlockedMod>
       <ModuleUID>Fed_Photonstorm</ModuleUID>
@@ -18,6 +18,14 @@
     <UnlockedMod>
       <ModuleUID>Klingon cloaked torpedo</ModuleUID>
       <Type>Klingon</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Car_PhotonTorpedoMk2</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>gravametric torpedo mk3</ModuleUID>
+      <Type>FreeBorg</Type>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
