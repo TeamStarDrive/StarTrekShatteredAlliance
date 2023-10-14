@@ -30,6 +30,10 @@
       <ModuleUID>romulan disrupter beam mk2</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Kling_DisruptorBeamMk2</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

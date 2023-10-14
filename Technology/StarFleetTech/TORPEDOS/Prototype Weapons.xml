@@ -15,6 +15,10 @@
       <ModuleUID>singlarity torpedo</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Klingon cloaked torpedo</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

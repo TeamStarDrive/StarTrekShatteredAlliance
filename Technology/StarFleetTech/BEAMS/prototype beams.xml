@@ -47,6 +47,14 @@
       <ModuleUID>romulan fighter disrupter beam</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Klingon kenetic disrupter</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Klingon fighter kenetic disrupter</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />
