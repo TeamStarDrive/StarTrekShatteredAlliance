@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Tag_Beam>true</Tag_Beam>
+
+  <UID>particalPhasor beam mk2</UID>
+  <IsBeam>true</IsBeam>
+  <FireDelay>6</FireDelay>
+  <Range>8000</Range>
+  <PowerRequiredToFire>70</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
+  <BeamDuration>3.5</BeamDuration>
+  <ExcludesFighters>true</ExcludesFighters>  
+  <ExcludesCorvettes>false</ExcludesCorvettes>
+  <!-- name of XACT audio cue to play on firing this weapon -->
+
+
+  <ToggleSoundName>sd_weapon_beam_fusion_med</ToggleSoundName>
+  
+  
+  <!-- Projectile Information -->
+  <BeamTexture>fed_phaser</BeamTexture>
+  <EffectVsArmor>1.25</EffectVsArmor> 
+  
+  <DamageAmount>30</DamageAmount>
+  <BeamThickness>20</BeamThickness>
+  <BeamPowerCostPerSecond>720</BeamPowerCostPerSecond>
+  <ShieldPenChance>10</ShieldPenChance>
+  <EffectVsArmor>1.20</EffectVsArmor>
+  <WeaponRotation>2</WeaponRotation>
+
+  <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
+  <WeaponType>Energy Beam</WeaponType>
+  <WeaponHitEffect>Beam_Hit_Armor</WeaponHitEffect>
+  <WeaponShieldHitEffect>Beam_Hit_Shield</WeaponShieldHitEffect>
+  <WeaponDeathEffect></WeaponDeathEffect>
+
+  
+</Weapon>

@@ -35,6 +35,38 @@
       <ModuleUID>Car_DisruptorBeamMk3</ModuleUID>
       <Type>Cardassia</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk3</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk3</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk3</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk3</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk3</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk3</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk3</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk3</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

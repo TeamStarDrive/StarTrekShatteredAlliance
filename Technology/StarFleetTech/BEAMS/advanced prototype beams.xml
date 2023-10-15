@@ -31,6 +31,38 @@
       <ModuleUID>borg gravametric distortion beam</ModuleUID>
       <Type>FreeBorg</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk5</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk5</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk5</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk5</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk5</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk5</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk5</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor beam mk5</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

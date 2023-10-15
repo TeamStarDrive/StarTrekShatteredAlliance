@@ -27,6 +27,38 @@
       <ModuleUID>plasma torpedo mk2</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
+		<UnlockedMod>
+      <ModuleUID>advanced energy torpoedo mk2</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced energy torpoedo mk2</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced energy torpoedo mk2</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced energy torpoedo mk2</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced energy torpoedo mk2</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced energy torpoedo mk2</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced energy torpoedo mk2</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced energy torpoedo mk2</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

@@ -1,0 +1,51 @@
+﻿<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Tag_Kinetic>false</Tag_Kinetic>
+  <Tag_Energy>true</Tag_Energy>
+  <Tag_Guided>true</Tag_Guided>
+  <Tag_Missile>false</Tag_Missile>
+  <Tag_Plasma>false</Tag_Plasma>
+  <Tag_Beam>false</Tag_Beam>
+  <Tag_Intercept>true</Tag_Intercept>
+  
+  <Tag_Bomb>false</Tag_Bomb>
+  
+  <Tag_BioWeapon>false</Tag_BioWeapon>
+  
+  
+  <Tag_Drone>false</Tag_Drone>
+  <Tag_Torpedo>true</Tag_Torpedo>
+  <Tag_Cannon>false</Tag_Cannon>
+  <ExcludesFighters>true</ExcludesFighters>  
+  <ExcludesCorvettes>true</ExcludesCorvettes>  
+  
+  <UID>torpedo BARAGE</UID>
+  <FireDelay>8</FireDelay>
+  <Range>11000</Range>
+  <PowerRequiredToFire>6000</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>100</OrdinanceRequiredToFire>
+  <HitPoints>45</HitPoints>  
+  
+  <!-- name of XACT audio cue to play on firing this weapon -->
+  <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
+  <DieCue>Explo1</DieCue>
+ <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
+
+  <!-- Projectile Information -->
+  <DamageAmount>15000</DamageAmount>
+  <Scale>3</Scale>
+  <MuzzleFlash>Yes</MuzzleFlash>
+  <ProjectileSpeed>1500</ProjectileSpeed>
+  <ProjectileRadius>10</ProjectileRadius>
+  <ExplosionRadius>100</ExplosionRadius> <!-- This projectile explodes -->
+  <Animated>1</Animated>
+  <Frames>16</Frames>
+  <AnimationPath>car_torpedo_heavy/car_torpedo_heavy_cc_</AnimationPath>
+  <LoopAnimation>1</LoopAnimation>      
+  
+  <Light>Blue</Light>
+  <ProjectileTexturePath>projBall_03_purple</ProjectileTexturePath>
+  <ModelPath>projBall</ModelPath>
+  <RotationRadsPerSecond>2</RotationRadsPerSecond>
+  <WeaponType>Energy Torpedo</WeaponType>
+</Weapon>

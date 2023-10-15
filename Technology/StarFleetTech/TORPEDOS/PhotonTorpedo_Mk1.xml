@@ -12,7 +12,6 @@
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
-
     <UnlockedMod>
       <ModuleUID>Fed_PhotonTorpedo_Mk1</ModuleUID>
       <Type>fed</Type>
@@ -25,7 +24,6 @@
       <ModuleUID>Kling_PhotonTorpedoMk1</ModuleUID>
       <Type>Klingon</Type>
     </UnlockedMod>
-
 	<UnlockedMod>
       <ModuleUID>Car_PhotonTorpedoMk1</ModuleUID>
       <Type>Cardassia</Type>
@@ -33,6 +31,38 @@
 	<UnlockedMod>
       <ModuleUID>torpedo</ModuleUID>
       <Type>Romulan</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <Type>Terran</Type>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
