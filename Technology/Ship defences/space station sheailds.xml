@@ -12,6 +12,9 @@
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
+  	<UnlockedMod>
+      <ModuleUID>station deflector mk1</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

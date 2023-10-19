@@ -13,14 +13,12 @@
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
+  	<UnlockedMod>
+      <ModuleUID>starbase sheailds</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />
   <TroopsUnlocked />
   <HullsUnlocked />
-  <UnlockedAtGameStart>
-    <RaceRequirements>
-      <RacialTrait>Militaristic</RacialTrait>
-    </RaceRequirements>
-  </UnlockedAtGameStart>
 </Technology>

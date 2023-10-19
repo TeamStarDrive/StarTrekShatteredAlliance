@@ -15,14 +15,15 @@
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
+  	<UnlockedMod>
+      <ModuleUID>small station sheaild mk1</ModuleUID>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>ORBITAL SHEAILD 2X2</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />
   <TroopsUnlocked />
   <HullsUnlocked />
-  <UnlockedAtGameStart>
-    <RaceRequirements>
-      <RacialTrait>Militaristic</RacialTrait>
-    </RaceRequirements>
-  </UnlockedAtGameStart>
 </Technology>

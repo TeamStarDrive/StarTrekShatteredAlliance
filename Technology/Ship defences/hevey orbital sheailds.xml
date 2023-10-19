@@ -13,6 +13,9 @@
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
+  	<UnlockedMod>
+      <ModuleUID>ORBITAL SHEAILD 2X2 MK2</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />
