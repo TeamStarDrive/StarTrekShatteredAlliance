@@ -3,19 +3,19 @@
 
   <DroneModule>false</DroneModule>
 
-  <Cost>40</Cost>
-  <TechLevel>1</TechLevel>
+  <Cost>45</Cost>
+  <TechLevel>2</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
-  <XSize>1</XSize>
-  <YSize>3</YSize>
+  <XSize>2</XSize>
+  <YSize>2</YSize>
   <Name>phased cannon mk2</Name>
   <Restrictions>O</Restrictions>
   <UID>phased cannon mk2</UID>
   <IconTexturePath>Modules/phased cannon mk2</IconTexturePath>
   <Mass>15</Mass>
-  <Health>6750</Health>
-  <HealthMax>6750</HealthMax>
+  <Health>12750</Health>
+  <HealthMax>12750</HealthMax>
   <energyreq>0</energyreq>
   <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
   </Description>
@@ -42,7 +42,7 @@
   
   <!-- for Weapons -->
   <WeaponType>phased cannon mk2</WeaponType>
-  <FieldOfFire>90</FieldOfFire>
+  <FieldOfFire>300</FieldOfFire>
   <OrdinanceCapacity>00</OrdinanceCapacity>
   
   <!-- for Engines -->

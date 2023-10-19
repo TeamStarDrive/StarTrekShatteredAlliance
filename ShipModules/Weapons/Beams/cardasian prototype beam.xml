@@ -6,7 +6,7 @@
   <OffPowerMod>0.35</OffPowerMod>
   <Cost>21</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
-  <TechLevel>4</TechLevel>
+  <TechLevel>5</TechLevel>
 
   
   <!-- common traits shared by all ship modules -->
@@ -25,8 +25,8 @@
 
   <!-- Mass and Health -->
   <Mass>8</Mass>
-  <Health>9920</Health>
-  <HealthMax>9920</HealthMax>
+  <Health>19920</Health>
+  <HealthMax>19920</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>5</PowerDraw>

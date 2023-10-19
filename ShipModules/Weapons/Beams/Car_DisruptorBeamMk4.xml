@@ -25,15 +25,15 @@
 
   <!-- Mass and Health -->
   <Mass>8</Mass>
-  <Health>9920</Health>
-  <HealthMax>9920</HealthMax>
+  <Health>19920</Health>
+  <HealthMax>19920</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>5</PowerDraw>
 
   <!-- for Weapons -->
   <WeaponType>Car_DisruptorBeamMk4</WeaponType>
-  <FieldOfFire>90</FieldOfFire>
+  <FieldOfFire>45</FieldOfFire>
 
   <!-- Description -->
   <Description>Phasors are powerful and efficient directed energy weapons.</Description>

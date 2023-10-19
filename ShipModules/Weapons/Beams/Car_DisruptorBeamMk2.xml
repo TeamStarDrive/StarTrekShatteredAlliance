@@ -10,8 +10,8 @@
 
   
   <!-- common traits shared by all ship modules -->
-  <XSize>3</XSize>
-  <YSize>3</YSize>
+  <XSize>2</XSize>
+  <YSize>2</YSize>
   <ModuleType>Turret</ModuleType>
   <Name>Light Phasor Array</Name>
   <Restrictions>O</Restrictions>
@@ -19,21 +19,21 @@
   <IconTexturePath>Modules/Car_DisruptorBeamMk2</IconTexturePath>3
 
 
-  <NameIndex>18416</NameIndex>
-  <DescriptionIndex>18417</DescriptionIndex>
+  <NameIndex>18417</NameIndex>
+  <DescriptionIndex>18418</DescriptionIndex>
 
 
   <!-- Mass and Health -->
   <Mass>8</Mass>
-  <Health>8120</Health>
-  <HealthMax>8120</HealthMax>
+  <Health>18120</Health>
+  <HealthMax>18120</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>5</PowerDraw>
 
   <!-- for Weapons -->
   <WeaponType>Car_DisruptorBeamMk2</WeaponType>
-  <FieldOfFire>180</FieldOfFire>
+  <FieldOfFire>30</FieldOfFire>
 
   <!-- Description -->
   <Description>Phasors are powerful and efficient directed energy weapons.</Description>

@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
   <Version>2</Version>
-  <UID>prototype starbase sheailds</UID>
+  <UID>advanced crusier sheaild</UID>
   <TechnologyType>ShipDefense</TechnologyType>
-  <Cost>350</Cost>
-  <NameIndex>18580</NameIndex>
-  <DescriptionIndex>18581</DescriptionIndex>
-  <LeadsTo>
-  </LeadsTo>
+  <Cost>5500</Cost>
+  <NameIndex>18548</NameIndex>
+  <DescriptionIndex>18549</DescriptionIndex>
+  <LeadsTo />
   <ModulesUnlocked>
-	<UnlockedMod>
-      <ModuleUID>station deflector mk2</ModuleUID>
-    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

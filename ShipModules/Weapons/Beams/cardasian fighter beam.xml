@@ -33,7 +33,7 @@
 
   <!-- for Weapons -->
   <WeaponType>cardasian fighter beam</WeaponType>
-  <FieldOfFire>90</FieldOfFire>
+  <FieldOfFire>45</FieldOfFire>
 
   <!-- Description -->
   <Description>Phasors are powerful and efficient directed energy weapons.</Description>
