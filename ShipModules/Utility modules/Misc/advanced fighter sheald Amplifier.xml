@@ -14,34 +14,35 @@
   <StationModule>false</StationModule>
   
   
-    <Cost>4</Cost>
+    <Cost>22</Cost>
+    <FighterModule>false</FighterModule>
     <!-- Tech Level -->
-    <TechLevel>2</TechLevel>
+    <TechLevel>5</TechLevel>
     <TechBranch>Shield</TechBranch>
     <!-- common traits shared by all ship modules -->
     <XSize>1</XSize>
     <YSize>1</YSize>
     <ModuleType>Shield</ModuleType>
-    <Name>Amplifier</Name>
+    <Name>advanced fighter sheald Amplifier</Name>
     <Restrictions>I</Restrictions>
-    <UID>Amplifier</UID> 
+    <UID>advanced fighter sheald Amplifier</UID> 
   <Version>2</Version>
 
-    <IconTexturePath>Modules/Amplifier</IconTexturePath>
-    <NameIndex>17495</NameIndex>
-    <DescriptionIndex>17496</DescriptionIndex>
+    <IconTexturePath>Modules/advanced fighter sheald Amplifier</IconTexturePath>
+    <NameIndex>17497</NameIndex>
+    <DescriptionIndex>17499</DescriptionIndex>
     <!-- Mass and Health -->
-    <Mass>2</Mass>
-    <Health>600</Health>
-    <HealthMax>600</HealthMax>
-    <RepairDifficulty>3</RepairDifficulty>                          
+    <Mass>8</Mass>
+    <Health>18693</Health>
+    <HealthMax>18694</HealthMax>
+    <RepairDifficulty>6</RepairDifficulty>                          
     <!-- Power Drawn -->
-    <PowerDraw>30</PowerDraw>
-    <PowerDrawAtWarp>-25</PowerDrawAtWarp>
+    <PowerDraw>100</PowerDraw>
+    <PowerDrawAtWarp>-80</PowerDrawAtWarp>
     <!-- Armor resistance -->
     <!-- for PowerPlant Items -->
     
-    <AmplifyShields>1950</AmplifyShields>
+    <AmplifyShields>9500</AmplifyShields>
 
     <!-- Crew Reqs -->
     
@@ -49,8 +50,4 @@
     <!-- for Weapons -->
     <!-- Description -->
     <Description>Advanced Armored Solar collector, procides power within a small radius.</Description>
-
-  <PowerFlowMax>0</PowerFlowMax>
-  <PowerStoreMax>0</PowerStoreMax>
-  <PowerRadius>0</PowerRadius>
 </ShipModule>

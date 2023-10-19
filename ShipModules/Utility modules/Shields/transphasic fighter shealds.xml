@@ -13,38 +13,39 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>false</StationModule>
   
-  <Cost>8</Cost>
+  
+  <Cost>10</Cost>
   <!-- common traits shared by all ship modules -->
-  <TechLevel>1</TechLevel>
+  <TechLevel>5</TechLevel>
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
-  <YSize>1</YSize>
-  <Name>Fighter Shield</Name>
+  <YSize>2</YSize>
+  <Name>transphasic fighter shealds</Name>
   <Restrictions>IO</Restrictions>
-  <UID>Fighter Shield</UID> 
+  <UID>transphasic fighter shealds</UID> 
   <Version>2</Version>
 
-  <IconTexturePath>Modules/Fighter Shield</IconTexturePath>
-  <Mass>9</Mass>
-  <Health>200</Health>
-  <HealthMax>200</HealthMax>
+  <IconTexturePath>Modules/transphasic fighter shealds</IconTexturePath>
+  <Mass>12</Mass>
+  <Health>1800</Health>
+  <HealthMax>1800</HealthMax>
   <energyreq>0</energyreq>
   
   <Description>This shield has a decent sized protection radius but is only capable of taking a few hits. However it does have a quick recharge rate.</Description>
   
   
-  <PowerDraw>20</PowerDraw>
+  <PowerDraw>60</PowerDraw>
 
-  <NameIndex>948</NameIndex>
-  <DescriptionIndex>949</DescriptionIndex>
+  <NameIndex>18691</NameIndex>
+  <DescriptionIndex>18692</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>1000</ShieldPowerMax>
-  <ShieldRechargeDelay>7</ShieldRechargeDelay>
-  <ShieldRechargeRate>15</ShieldRechargeRate>
-  <ShieldRechargeCombatRate>50</ShieldRechargeCombatRate>
-  <ShieldRadius>55</ShieldRadius>
-  <ShieldEnergyResist>0.15</ShieldEnergyResist>
-  <ShieldBeamResist>0.15</ShieldBeamResist>
-  <ShieldKineticResist>-1.14</ShieldKineticResist>
+  <ShieldPowerMax>7000</ShieldPowerMax>
+  <ShieldRechargeDelay>5</ShieldRechargeDelay>
+  <ShieldRechargeRate>55</ShieldRechargeRate>
+  <ShieldRechargeCombatRate>160</ShieldRechargeCombatRate>
+  <ShieldRadius>75</ShieldRadius>
+  <ShieldEnergyResist>0.79</ShieldEnergyResist>
+  <ShieldBeamResist>0.79</ShieldBeamResist>
+  <ShieldKineticResist>-0.1</ShieldKineticResist>
 </ShipModule>

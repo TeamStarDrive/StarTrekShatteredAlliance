@@ -64,6 +64,9 @@
       <ModuleUID>hevey torpedo mk1</ModuleUID>
       <Type>Terran</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>torpedo bomb mk1</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

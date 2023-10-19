@@ -13,6 +13,9 @@
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
+      <UnlockedMod>
+      <ModuleUID>advanced fighter sheaild</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

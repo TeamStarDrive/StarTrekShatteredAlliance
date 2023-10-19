@@ -13,6 +13,9 @@
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
+      <UnlockedMod>
+      <ModuleUID>prototype fighter shealds</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />
