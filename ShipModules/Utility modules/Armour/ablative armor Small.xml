@@ -31,22 +31,22 @@
   <IconTexturePath>Modules/ablative armor Small</IconTexturePath>
 
 
-  <NameIndex>18468</NameIndex>
-  <DescriptionIndex>18469</DescriptionIndex>
+  <NameIndex>18732</NameIndex>
+  <DescriptionIndex>18733</DescriptionIndex>
 
 
   <!-- Mass and Health -->
   <Mass>10469</Mass>
-  <Health>16469</Health>
-  <HealthMax>16469</HealthMax>
+  <Health>60000</Health>
+  <HealthMax>60000</HealthMax>
   <RepairDifficulty>1.5</RepairDifficulty>
   <Deflection>60</Deflection>              
   <!-- Armor resistance -->
-  <KineticResist>0.10</KineticResist>
-  <EnergyResist>0.10</EnergyResist>  
-  <BeamResist>0.10</BeamResist>
-  <ExplosiveResist>0.10</ExplosiveResist>      
-  <PlasmaResist>0.03</PlasmaResist>
+  <KineticResist>0.70</KineticResist>
+  <EnergyResist>0.70</EnergyResist>  
+  <BeamResist>0.70</BeamResist>
+  <ExplosiveResist>0.70</ExplosiveResist>      
+  <PlasmaResist>0.73</PlasmaResist>
 
   <!-- Description -->
   <Description>Through using Crystal materials, the mass of armor has been greatly decreased. </Description>

@@ -41,8 +41,8 @@
   <DescriptionIndex>18698</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>25000</ShieldPowerMax>
-  <ShieldRechargeDelay>16</ShieldRechargeDelay>
+  <ShieldPowerMax>70000</ShieldPowerMax>
+  <ShieldRechargeDelay>13</ShieldRechargeDelay>
   <ShieldRechargeRate>650.0</ShieldRechargeRate>
   <ShieldRadius>270</ShieldRadius>
   <ShieldRechargeCombatRate>500</ShieldRechargeCombatRate>

@@ -15,20 +15,20 @@
 
     <TexturePath>Textures/transparent</TexturePath>
     <IconTexturePath>Modules/Organic Bioplates Med</IconTexturePath>
-    <NameIndex>18691</NameIndex>
-    <DescriptionIndex>18692</DescriptionIndex>
+    <NameIndex>18722</NameIndex>
+    <DescriptionIndex>18723</DescriptionIndex>
     <!-- Mass and Health -->
-    <Mass>28</Mass>
-    <Health>22560</Health>
-    <HealthMax>22560</HealthMax>
+    <Mass>28000</Mass>
+    <Health>80000</Health>
+    <HealthMax>80000</HealthMax>
     <RepairDifficulty>1.25</RepairDifficulty>
-    <Deflection>0</Deflection>
+    <Deflection>60</Deflection>
     <!-- Armor resistance -->
     <KineticResist>0.08</KineticResist>
-    <BeamResist>0</BeamResist>
-    <EnergyResist>0</EnergyResist>    
-    <PlasmaResist>0</PlasmaResist>
-    <ExplosiveResist>0.16</ExplosiveResist>
+    <BeamResist>4</BeamResist>
+    <EnergyResist>4</EnergyResist>    
+    <PlasmaResist>4</PlasmaResist>
+    <ExplosiveResist>0.46</ExplosiveResist>
 
     <!-- Description -->
     <Description>Organic Bioplates provides massive defence however the mass is also very "massive".</Description>

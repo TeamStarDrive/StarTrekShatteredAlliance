@@ -42,13 +42,13 @@
   <PowerDraw>85</PowerDraw>
 
   <NameIndex>18699</NameIndex>
-  <DescriptionIndex>18670</DescriptionIndex>
+  <DescriptionIndex>18701</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>15000</ShieldPowerMax>
-  <ShieldRechargeDelay>15</ShieldRechargeDelay>
+  <ShieldPowerMax>30000</ShieldPowerMax>
+  <ShieldRechargeDelay>13</ShieldRechargeDelay>
   <ShieldRechargeRate>80.0</ShieldRechargeRate>
-  <ShieldRadius>125</ShieldRadius>
+  <ShieldRadius>145</ShieldRadius>
   <ShieldRechargeCombatRate>70</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.42</ShieldEnergyResist>
   <ShieldBeamResist>0.45</ShieldBeamResist>

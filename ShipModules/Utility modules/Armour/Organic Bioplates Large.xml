@@ -16,20 +16,20 @@
 
     <TexturePath>Textures/transparent</TexturePath>
     <IconTexturePath>Modules/Organic Bioplates Large</IconTexturePath>
-    <NameIndex>18693</NameIndex>
-    <DescriptionIndex>18694</DescriptionIndex>
+    <NameIndex>18724</NameIndex>
+    <DescriptionIndex>18725</DescriptionIndex>
     <!-- Mass and Health -->
-    <Mass>63</Mass>
-    <Health>60912</Health>
-    <HealthMax>60912</HealthMax>
+    <Mass>63000</Mass>
+    <Health>140000</Health>
+    <HealthMax>140000</HealthMax>
     <RepairDifficulty>1.25</RepairDifficulty>
-    <Deflection>0</Deflection>                
+    <Deflection>70</Deflection>                
     <!-- Armor resistance -->
-    <KineticResist>0.08</KineticResist>
-    <BeamResist>0</BeamResist>
-    <EnergyResist>0</EnergyResist>    
-    <PlasmaResist>0</PlasmaResist>
-    <ExplosiveResist>0.16</ExplosiveResist>
+    <KineticResist>0.58</KineticResist>
+    <BeamResist>0.5</BeamResist>
+    <EnergyResist>0.5</EnergyResist>    
+    <PlasmaResist>0.5</PlasmaResist>
+    <ExplosiveResist>0.66</ExplosiveResist>
 
     <!-- Description -->
     <Description>Composite Alloys provides massive defence however the mass is also very "massive".</Description>

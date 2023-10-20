@@ -31,16 +31,16 @@
   <IconTexturePath>Modules/Organic Bioplates Small</IconTexturePath>
 
 
-  <NameIndex>18689</NameIndex>
-  <DescriptionIndex>18690</DescriptionIndex>
+  <NameIndex>18720</NameIndex>
+  <DescriptionIndex>18721</DescriptionIndex>
 
 
   <!-- Mass and Health -->
   <Mass>7</Mass>
-  <Health>4700</Health>
-  <HealthMax>4700</HealthMax>
+  <Health>47000</Health>
+  <HealthMax>47000</HealthMax>
   <RepairDifficulty>1.25</RepairDifficulty>
-  <Deflection>0</Deflection>              
+  <Deflection>50</Deflection>              
   <!-- Armor resistance -->
   <KineticResist>0.08</KineticResist>
   <BeamResist>0</BeamResist>

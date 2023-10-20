@@ -16,19 +16,19 @@
 
     <TexturePath>Textures/transparent</TexturePath>
     <IconTexturePath>Modules/large polirised orbital armor</IconTexturePath>
-    <NameIndex>18685</NameIndex>
-    <DescriptionIndex>18686</DescriptionIndex>
+    <NameIndex>18716</NameIndex>
+    <DescriptionIndex>18717</DescriptionIndex>
     <!-- Mass and Health -->
-    <Mass>5400</Mass>
-    <Health>42120</Health>
-    <HealthMax>42120</HealthMax>
+    <Mass>15400</Mass>
+    <Health>98120</Health>
+    <HealthMax>98120</HealthMax>
     <RepairDifficulty>1</RepairDifficulty>
-    <Deflection>0</Deflection>            
+    <Deflection>50</Deflection>            
     <!-- Armor resistance -->
-    <KineticResist>0.06</KineticResist>
-    <BeamResist>0</BeamResist>  
-    <PlasmaResist>0</PlasmaResist>
-    <ExplosiveResist>0.12</ExplosiveResist>
+    <KineticResist>0.16</KineticResist>
+    <BeamResist>0.4</BeamResist>  
+    <PlasmaResist>0.4</PlasmaResist>
+    <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
     <Description>New generation of Ceramic Armor.</Description>

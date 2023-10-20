@@ -31,14 +31,14 @@
   <IconTexturePath>Modules/small polirised orbital armor</IconTexturePath>
 
 
-  <NameIndex>18683</NameIndex>
-  <DescriptionIndex>18684</DescriptionIndex>
+  <NameIndex>18714</NameIndex>
+  <DescriptionIndex>18715</DescriptionIndex>
 
 
   <!-- Mass and Health -->
   <Mass>6000</Mass>
-  <Health>3250</Health>
-  <HealthMax>3250</HealthMax>
+  <Health>18050</Health>
+  <HealthMax>18050</HealthMax>
   <RepairDifficulty>1</RepairDifficulty>
   <Deflection>0</Deflection>          
   <!-- Armor resistance -->

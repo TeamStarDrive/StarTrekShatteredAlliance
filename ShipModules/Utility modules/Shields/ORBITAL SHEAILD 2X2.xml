@@ -22,16 +22,16 @@
   <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
   
   
-  <PowerDraw>400</PowerDraw>
+  <PowerDraw>500</PowerDraw>
 
-  <NameIndex>18677</NameIndex>
-  <DescriptionIndex>18678</DescriptionIndex>
+  <NameIndex>18708</NameIndex>
+  <DescriptionIndex>18709</DescriptionIndex>
 
   <!-- for shield items -->
   <ShieldPowerMax>99900</ShieldPowerMax>
   <ShieldRechargeDelay>10</ShieldRechargeDelay>
   <ShieldRechargeRate>8200</ShieldRechargeRate>
-  <ShieldRadius>150</ShieldRadius>
+  <ShieldRadius>60</ShieldRadius>
   <ShieldRechargeCombatRate>1300</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.39</ShieldEnergyResist>
   <ShieldBeamResist>0.39</ShieldBeamResist>

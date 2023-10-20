@@ -15,12 +15,12 @@
 
     <TexturePath>Textures/transparent</TexturePath>
     <IconTexturePath>Modules/med polirised orbital armor</IconTexturePath>
-    <NameIndex>18687</NameIndex>
-    <DescriptionIndex>18688</DescriptionIndex>
+    <NameIndex>18718</NameIndex>
+    <DescriptionIndex>18719</DescriptionIndex>
     <!-- Mass and Health -->
-    <Mass>2400</Mass>
-    <Health>15600</Health>
-    <HealthMax>15600</HealthMax>
+    <Mass>22400</Mass>
+    <Health>50600</Health>
+    <HealthMax>50600</HealthMax>
     <RepairDifficulty>1</RepairDifficulty>
     <Deflection>0</Deflection>
     <!-- Armor resistance -->

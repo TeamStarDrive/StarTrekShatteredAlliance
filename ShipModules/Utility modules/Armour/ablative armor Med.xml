@@ -2,7 +2,7 @@
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <Cost>15</Cost>
     <!-- Tech Level -->
-    <TechLevel>5</TechLevel>
+    <TechLevel>6</TechLevel>
     <TechBranch>Armor</TechBranch>
     <!-- common traits shared by all ship modules -->
     <XSize>2</XSize>
@@ -15,8 +15,8 @@
 
     <TexturePath>Textures/transparent</TexturePath>
     <IconTexturePath>Modules/ablative armor Med</IconTexturePath>
-    <NameIndex>18464</NameIndex>
-    <DescriptionIndex>18465</DescriptionIndex>
+    <NameIndex>18734</NameIndex>
+    <DescriptionIndex>18735</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>31680</Mass>
     <Health>59680</Health>

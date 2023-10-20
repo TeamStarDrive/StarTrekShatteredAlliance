@@ -31,22 +31,22 @@
   <IconTexturePath>Modules/Organic cristal Small</IconTexturePath>
 
 
-  <NameIndex>18699</NameIndex>
-  <DescriptionIndex>18700</DescriptionIndex>
+  <NameIndex>18730</NameIndex>
+  <DescriptionIndex>18731</DescriptionIndex>
 
 
   <!-- Mass and Health -->
-  <Mass>8</Mass>
-  <Health>6600</Health>
-  <HealthMax>6600</HealthMax>
+  <Mass>80000</Mass>
+  <Health>70000</Health>
+  <HealthMax>70000</HealthMax>
   <RepairDifficulty>1.5</RepairDifficulty>
   <Deflection>0</Deflection>              
   <!-- Armor resistance -->
-  <KineticResist>0.10</KineticResist>
-  <EnergyResist>0</EnergyResist>  
-  <BeamResist>0</BeamResist>
-  <ExplosiveResist>0.20</ExplosiveResist>      
-  <PlasmaResist>0</PlasmaResist>
+  <KineticResist>0.50</KineticResist>
+  <EnergyResist>5</EnergyResist>  
+  <BeamResist>5</BeamResist>
+  <ExplosiveResist>0.50</ExplosiveResist>      
+  <PlasmaResist>5</PlasmaResist>
 
   <!-- Description -->
   <Description>Through using Crystal materials, the mass of armor has been greatly decreased. </Description>

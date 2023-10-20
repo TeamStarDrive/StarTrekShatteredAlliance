@@ -3,7 +3,7 @@
     <Cost>35</Cost>
     <FighterModule>false</FighterModule>
     <!-- Tech Level -->
-    <TechLevel>5</TechLevel>
+    <TechLevel>6</TechLevel>
     <TechBranch>Armor</TechBranch>
     <!-- common traits shared by all ship modules -->
     <XSize>3</XSize>
@@ -16,20 +16,20 @@
 
     <TexturePath>Textures/transparent</TexturePath>
     <IconTexturePath>Modules/ablative armor Large</IconTexturePath>
-    <NameIndex>18462</NameIndex>
-    <DescriptionIndex>18463</DescriptionIndex>
+    <NameIndex>18736</NameIndex>
+    <DescriptionIndex>18737</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>85530</Mass>
-    <Health>90999</Health>
-    <HealthMax>90999</HealthMax>
+    <Health>250000</Health>
+    <HealthMax>250000</HealthMax>
     <RepairDifficulty>2.5</RepairDifficulty>
     <Deflection>130</Deflection>                  
     <!-- Armor resistance -->
-    <KineticResist>0.50</KineticResist>
-    <EnergyResist>0.50</EnergyResist>  
-    <BeamResist>0.40</BeamResist>
-    <ExplosiveResist>0.50</ExplosiveResist>      
-    <PlasmaResist>0.20</PlasmaResist>
+    <KineticResist>0.70</KineticResist>
+    <EnergyResist>0.70</EnergyResist>  
+    <BeamResist>0.70</BeamResist>
+    <ExplosiveResist>0.70</ExplosiveResist>      
+    <PlasmaResist>0.70</PlasmaResist>
 
     <!-- Description -->
     <Description>Through using Crystal materials, the mass of armor has been greatly decreased. </Description>

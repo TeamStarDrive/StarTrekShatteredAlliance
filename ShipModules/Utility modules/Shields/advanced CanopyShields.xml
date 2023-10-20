@@ -28,12 +28,12 @@
   <DescriptionIndex>917</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>55000</ShieldPowerMax>
-  <ShieldRechargeDelay>30</ShieldRechargeDelay>
+  <ShieldPowerMax>12000</ShieldPowerMax>
+  <ShieldRechargeDelay>20</ShieldRechargeDelay>
   <ShieldRechargeRate>1200</ShieldRechargeRate>
   <ShieldRadius>600</ShieldRadius>
-  <ShieldRechargeCombatRate>100</ShieldRechargeCombatRate>
-  <ShieldEnergyResist>0.34</ShieldEnergyResist>
-  <ShieldBeamResist>0.25</ShieldBeamResist>
-  <ShieldKineticResist>-0.07</ShieldKineticResist>
+  <ShieldRechargeCombatRate>300</ShieldRechargeCombatRate>
+  <ShieldEnergyResist>0.54</ShieldEnergyResist>
+  <ShieldBeamResist>0.55</ShieldBeamResist>
+  <ShieldKineticResist>-0.57</ShieldKineticResist>
 </ShipModule>
