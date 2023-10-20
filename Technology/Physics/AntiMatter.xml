@@ -16,6 +16,9 @@
     <UnlockedMod>
       <ModuleUID>AntiMatterReactor</ModuleUID>
     </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>small antimatter reactor</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

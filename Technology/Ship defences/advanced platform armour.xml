@@ -12,6 +12,15 @@
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>Organic Bioplates Small</ModuleUID>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Organic Bioplates Med</ModuleUID>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Organic Bioplates Large</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

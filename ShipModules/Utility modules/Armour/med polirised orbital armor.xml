@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Cost>9</Cost>
+    <!-- Tech Level -->
+    <TechLevel>3</TechLevel>
+    <TechBranch>Armor</TechBranch>
+    <!-- common traits shared by all ship modules -->
+    <XSize>2</XSize>
+    <YSize>2</YSize>
+    <ModuleType>Armor</ModuleType>
+    <Name>med polirised orbital armor</Name>
+    <Restrictions>O</Restrictions>
+    <UID>med polirised orbital armor</UID> 
+  <Version>2</Version>
+
+    <TexturePath>Textures/transparent</TexturePath>
+    <IconTexturePath>Modules/med polirised orbital armor</IconTexturePath>
+    <NameIndex>18687</NameIndex>
+    <DescriptionIndex>18688</DescriptionIndex>
+    <!-- Mass and Health -->
+    <Mass>2400</Mass>
+    <Health>15600</Health>
+    <HealthMax>15600</HealthMax>
+    <RepairDifficulty>1</RepairDifficulty>
+    <Deflection>0</Deflection>
+    <!-- Armor resistance -->
+    <KineticResist>0.06</KineticResist>
+    <BeamResist>0</BeamResist>  
+    <PlasmaResist>0</PlasmaResist>
+    <ExplosiveResist>0.12</ExplosiveResist>
+
+    <!-- Description -->
+    <Description>New generation of Ceramic Armor.</Description>
+    <APResist>1</APResist>
+</ShipModule>

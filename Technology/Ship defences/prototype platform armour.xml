@@ -12,6 +12,15 @@
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>Organic cristal Small</ModuleUID>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Organic  cristal Armor Med</ModuleUID>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Organic cristal Armor Large</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

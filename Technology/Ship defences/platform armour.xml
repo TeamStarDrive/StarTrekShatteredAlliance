@@ -12,6 +12,15 @@
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
+	<UnlockedMod>
+      <ModuleUID>small polirised orbital armor</ModuleUID>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>med polirised orbital armor</ModuleUID>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>large polirised orbital armor</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />
