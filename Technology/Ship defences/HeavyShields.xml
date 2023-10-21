@@ -21,6 +21,9 @@
     <UnlockedMod>
       <ModuleUID>Shield_10KW</ModuleUID>
     </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>freighter sheaild</ModuleUID>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

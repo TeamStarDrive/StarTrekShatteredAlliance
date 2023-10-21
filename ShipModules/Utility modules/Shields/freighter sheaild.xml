@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Cost>9</Cost>
+
+  <!-- Tech Level Used by AI for Upgrading Ships -->
+  <TechLevel>2</TechLevel>
+  <RepairDifficulty>2</RepairDifficulty>
+
+  <!-- common traits shared by all ship modules -->
+  <ModuleType>Shield</ModuleType>
+  <XSize>2</XSize>
+  <YSize>2</YSize>
+  <Name>freighter sheaild</Name>
+  <Restrictions>IO</Restrictions>
+  <UID>freighter sheaild</UID> 
+  <Version>2</Version>
+
+  <IconTexturePath>Modules/freighter sheaild</IconTexturePath>
+  <Mass>36</Mass>
+  <Health>1100</Health>
+  <HealthMax>1100</HealthMax>
+  <energyreq>0</energyreq>
+  
+  <Description> This particular model is a very basic 1 KW shieid (2000 hp) with a 75 meter protective radius and a low recharge speed.
+  </Description>
+  
+  
+  <PowerDraw>45</PowerDraw>
+
+  <NameIndex>18738</NameIndex>
+  <DescriptionIndex>18739</DescriptionIndex>
+
+  <!-- for shield items -->
+  <ShieldPowerMax>3000</ShieldPowerMax>
+  <ShieldRechargeDelay>15</ShieldRechargeDelay>
+  <ShieldRechargeRate>60.0</ShieldRechargeRate>
+  <ShieldRadius>200</ShieldRadius>
+  <ShieldRechargeCombatRate>150</ShieldRechargeCombatRate>
+  <ShieldEnergyResist>0.32</ShieldEnergyResist>
+  <ShieldBeamResist>0.35</ShieldBeamResist>
+  <ShieldKineticResist>-0.32</ShieldKineticResist>
+    <Deflection>20</Deflection>
+</ShipModule>
