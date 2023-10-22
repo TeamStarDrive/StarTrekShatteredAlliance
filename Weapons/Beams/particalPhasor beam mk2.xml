@@ -22,11 +22,11 @@
   <BeamTexture>fed_phaser</BeamTexture>
   <EffectVsArmor>1.25</EffectVsArmor> 
   
-  <DamageAmount>30</DamageAmount>
+  <DamageAmount>25</DamageAmount>
   <BeamThickness>20</BeamThickness>
-  <BeamPowerCostPerSecond>720</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>220</BeamPowerCostPerSecond>
   <ShieldPenChance>10</ShieldPenChance>
-  <EffectVsArmor>1.20</EffectVsArmor>
+  <EffectVsArmor>1.30</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

@@ -1,0 +1,44 @@
+﻿Version=1
+HullName=Pollops/Cocoon
+VisibleName=Cocoon
+Role=cruiser
+Style=Pollops
+Size=28,24
+MeshOffset=0,0
+IconPath=ShipIcons/icon_Cocoon
+ModelPath=mod Model/Pollops/Cocoon
+SelectIcon=15d
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Model Author Vanilla edtied by Fat Bastard
+#Starkit scale 240
+#Thruster PosX,PosY,PosZ,Scale
+Thruster=29,88,0,64
+Thruster=-29,88,0,64
+Thruster=0,88,0,64
+Slots
+___|___|___|___|___|___|___|___|___|___|___|O  |___|___|___|___|O  |___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|___|___|___|O  |___|___|___|___|O  |___|___|___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|O  |___|___|O  |O  |___|___|O  |O  |___|___|O  |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|O  |___|___|O  |O  |___|___|O  |O  |___|___|O  |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|O  |O  |___|___|O  |O  |___|___|O  |O  |___|___|O  |O  |___|___|___|___|___|___|___
+___|___|___|___|___|___|___|O  |O  |___|___|O  |O  |___|___|O  |O  |___|___|O  |O  |___|___|___|___|___|___|___
+___|___|___|___|___|___|___|O  |O  |O  |___|O  |O  |___|___|O  |O  |___|O  |O  |O  |___|___|___|___|___|___|___
+___|___|___|___|___|___|___|O  |O  |O  |___|O  |O  |O  |O  |O  |O  |___|O  |O  |O  |___|___|___|___|___|___|___
+___|___|___|___|___|___|___|O  |IO |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |IO |O  |___|___|___|___|___|___|___
+___|___|___|___|___|O  |___|O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |___|O  |___|___|___|___|___
+O  |___|___|___|___|O  |O  |O  |IO |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |IO |O  |O  |O  |___|___|___|___|O  
+O  |O  |O  |___|___|O  |O  |O  |IO |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |IO |O  |O  |O  |___|___|O  |O  |O  
+O  |O  |O  |O  |O  |O  |O  |O  |IO |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |IO |O  |O  |O  |O  |O  |O  |O  |O  
+___|O  |O  |O  |O  |O  |O  |IO |IO |IO |IO |I  |I  |I  |IC |I  |I  |IO |IO |IO |IO |O  |O  |O  |O  |O  |O  |___
+___|___|O  |O  |O  |O  |O  |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |O  |O  |O  |O  |O  |___|___
+___|___|___|___|O  |O  |O  |IO |IO |IO |IO |IE |IE |IE |IE |IE |IE |IO |IO |IO |IO |O  |O  |O  |___|___|___|___
+___|___|O  |O  |O  |O  |O  |IO |IO |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |IO |IO |O  |O  |O  |O  |O  |___|___
+___|___|O  |O  |O  |O  |O  |IO |IO |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |IO |IO |O  |O  |O  |O  |O  |___|___
+___|___|O  |O  |O  |O  |O  |O  |O  |IO |IO |E  |E  |E  |E  |E  |E  |IO |IO |O  |O  |O  |O  |O  |O  |O  |___|___
+___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |OE |OE |___|___|OE |OE |O  |O  |O  |O  |O  |O  |O  |O  |___|___|___
+___|___|___|___|___|___|O  |O  |O  |O  |O  |OE |OE |___|___|OE |OE |O  |O  |O  |O  |O  |___|___|___|___|___|___
+___|___|___|___|___|___|___|___|O  |O  |O  |OE |___|___|___|___|OE |O  |O  |O  |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|O  |O  |O  |OE |___|___|___|___|___|___|OE |O  |O  |O  |___|___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |O  |O  |___|___|___|___|___|___|___|___|O  |O  |O  |O  |___|___|___|___|___|___

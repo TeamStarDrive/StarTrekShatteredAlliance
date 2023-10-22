@@ -1,0 +1,38 @@
+﻿Version=1
+HullName=Pollops/Cycad
+VisibleName=Cycad
+Role=frigate
+Style=Pollops
+Size=18,15
+MeshOffset=0,0
+IconPath=ShipIcons/icon_Cycad
+ModelPath=mod Model/Pollops/Cycad
+SelectIcon=15c
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Model Author Vanilla edtied by Fat Bastard
+#Starkit scale 160
+#Thruster PosX,PosY,PosZ,Scale
+Thruster=16,34,0,60
+Thruster=-16,34,0,60
+Thruster=32,50,0,60
+Thruster=-30,50,0,60
+Thruster=48,66,0,60
+Thruster=-46,66,0,60
+Slots
+___|___|___|___|___|___|O  |___|___|___|___|O  |___|___|___|___|___|___
+___|___|___|___|___|___|O  |___|___|___|___|O  |___|___|___|___|___|___
+___|___|___|___|___|O  |O  |___|___|___|___|O  |O  |___|___|___|___|___
+___|___|___|___|___|O  |O  |___|___|___|___|O  |O  |___|___|___|___|___
+___|___|O  |___|___|O  |O  |___|___|___|___|O  |O  |___|___|O  |___|___
+___|___|O  |___|___|O  |O  |___|O  |O  |___|O  |O  |___|___|O  |___|___
+___|___|O  |O  |___|O  |O  |O  |IO |IO |O  |O  |O  |___|O  |O  |___|___
+___|___|O  |O  |O  |O  |O  |IO |IO |IO |IO |O  |O  |O  |O  |O  |___|___
+___|O  |O  |O  |O  |IO |IO |I  |I  |I  |I  |IO |IO |O  |O  |O  |O  |___
+___|___|O  |O  |IO |IO |I  |I  |I  |I  |I  |I  |IO |IO |O  |O  |___|___
+___|___|___|O  |IO |IO |I  |I  |I  |IC |I  |I  |IO |IO |O  |___|___|___
+___|___|___|___|O  |IO |I  |I  |I  |I  |I  |I  |IO |O  |___|___|___|___
+___|O  |O  |O  |O  |IE |IE |E  |E  |E  |E  |IE |IE |O  |O  |O  |O  |___
+O  |O  |O  |O  |O  |E  |E  |OE |___|___|OE |E  |E  |O  |O  |O  |O  |O  
+___|___|___|___|___|OE |OE |___|___|___|___|OE |OE |___|___|___|___|___

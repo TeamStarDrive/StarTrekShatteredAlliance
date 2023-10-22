@@ -14,11 +14,37 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+    <UnlockedHull>
+      <Name>Terran/Scarlet</Name>
+      <ShipType>Terran</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Cordrazine/Tornaving</Name>
+      <ShipType>Cordrazine</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Draylok/Aferka</Name>
+      <ShipType>Draylok</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Kulrathi/Yamamoto 11</Name>
+      <ShipType>Kulrathi</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Kulrathi/Protector</Name>
+      <ShipType>Kulrathi</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Opteris/Queen01</Name>
+      <ShipType>Opteris</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Pollops/Eldritch</Name>
+      <ShipType>Pollops</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Ralyeh/Pious</Name>
+      <ShipType>Ralyeh</ShipType>
+    </UnlockedHull>
   </HullsUnlocked>
-  <UnlockedAtGameStart>
-    <RaceRequirements>
-      <RacialTrait>Militaristic</RacialTrait>
-    </RaceRequirements>
-  </UnlockedAtGameStart>
-  <Militaristic>fasle</Militaristic>
 </Technology>

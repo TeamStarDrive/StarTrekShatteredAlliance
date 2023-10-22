@@ -6,7 +6,7 @@
   <UID>particalPhasor beam mk4</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>6</FireDelay>
-  <Range>8000</Range>
+  <Range>13000</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>3.5</BeamDuration>
@@ -22,9 +22,9 @@
   <BeamTexture>fed_phaser</BeamTexture>
   <EffectVsArmor>1.25</EffectVsArmor> 
   
-  <DamageAmount>30</DamageAmount>
-  <BeamThickness>20</BeamThickness>
-  <BeamPowerCostPerSecond>720</BeamPowerCostPerSecond>
+  <DamageAmount>50</DamageAmount>
+  <BeamThickness>40</BeamThickness>
+  <BeamPowerCostPerSecond>1020</BeamPowerCostPerSecond>
   <ShieldPenChance>10</ShieldPenChance>
   <EffectVsArmor>1.20</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>

@@ -1,0 +1,36 @@
+﻿Version=1
+HullName=Opteris/Soldier10
+VisibleName=Soldier10
+Role=frigate
+Style=Opteris
+Size=20,18
+MeshOffset=0,0
+IconPath=ShipIcons/icon_Soldier10
+ModelPath=mod Model/Opteris/Soldier10
+SelectIcon=19c
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Model Author Vanilla edtied by Fat Bastard
+#Starkit scale 180
+#Thruster PosX,PosY,PosZ,Scale
+Thruster=0,116,0,75
+Slots
+___|___|___|___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |___|___|___|___|___|___
+___|___|___|___|___|___|O  |IO |IO |IO |IO |IO |IO |O  |___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |IO |IO |IO |IO |O  |O  |___|___|___|___|___|___
+___|___|___|___|___|___|___|___|O  |IO |IO |O  |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|O  |IO |I  |I  |IO |O  |___|___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |IO |I  |I  |IO |O  |O  |___|___|___|___|___|___
+___|___|___|___|___|___|___|O  |IO |I  |I  |IO |O  |___|___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |IO |I  |I  |IO |O  |O  |___|___|___|___|___|___
+___|___|___|___|___|O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |___|___|___|___|___
+___|___|___|O  |O  |O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |O  |O  |___|___|___
+___|O  |O  |O  |O  |___|O  |IO |IO |I  |IC |IO |IO |O  |___|O  |O  |O  |O  |___
+O  |O  |O  |___|___|O  |IO |IO |IO |I  |I  |IO |IO |IO |O  |___|___|O  |O  |O  
+___|___|___|___|___|O  |IO |IO |IO |I  |I  |IO |IO |IO |O  |___|___|___|___|___
+___|___|___|___|___|___|O  |IO |IE |IE |IE |IE |IO |O  |___|___|___|___|___|___
+___|___|___|___|___|O  |O  |IO |E  |E  |E  |E  |IO |O  |O  |___|___|___|___|___
+___|___|___|O  |O  |O  |O  |___|E  |E  |E  |E  |___|O  |O  |O  |O  |___|___|___
+___|O  |O  |O  |O  |___|___|O  |E  |E  |E  |E  |O  |___|___|O  |O  |O  |O  |___
+O  |O  |___|___|___|___|O  |O  |___|E  |E  |___|O  |O  |___|___|___|___|O  |O  

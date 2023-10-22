@@ -4,13 +4,13 @@
   <UID>particalPhasor beam mk5</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>31</Cost>
+  <Cost>141</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>3</TechLevel>
 
   
   <!-- common traits shared by all ship modules -->
-  <XSize>2</XSize>
+  <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>Turret</ModuleType>
   <Name>particalPhasor beam mk5</Name>

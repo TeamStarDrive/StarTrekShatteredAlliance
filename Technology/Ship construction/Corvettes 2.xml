@@ -17,11 +17,33 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+      <UnlockedHull>
+      <Name>Terran/Seeker</Name>
+      <ShipType>Terran</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Cordrazine/Sitving</Name>
+      <ShipType>Cordrazine</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Draylok/Astarte</Name>
+      <ShipType>Draylok</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Kulrathi/Pitsaw</Name>
+      <ShipType>Kulrathi</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Opteris/Worker10</Name>
+      <ShipType>Opteris</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Pollops/Coppice</Name>
+      <ShipType>Pollops</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Ralyeh/Priest</Name>
+      <ShipType>Ralyeh</ShipType>
+    </UnlockedHull>
   </HullsUnlocked>
-  <UnlockedAtGameStart>
-    <RaceRequirements>
-      <RacialTrait>Militaristic</RacialTrait>
-    </RaceRequirements>
-  </UnlockedAtGameStart>
-  <Militaristic>fasle</Militaristic>
 </Technology>
