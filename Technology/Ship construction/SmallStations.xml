@@ -84,9 +84,37 @@
       <ShipType>fed</ShipType>
       <Name>Terran/Outpost</Name>
     </UnlockedHull>
+      <UnlockedHull>
+      <Name>Terran/Terran_Heavy_Platform</Name>
+      <ShipType>Terran</ShipType>
+    </UnlockedHull>
     <UnlockedHull>
+      <Name>Cordrazine/Cordrazine_Heavy_Platform</Name>
+      <ShipType>Cordrazine</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Draylok/Draylok_Heavy_Platform</Name>
+      <ShipType>Draylok</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Kulrathi/Kulrathi_Heavy_Platform</Name>
+      <ShipType>Kulrathi</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Opteris/Opteris_Heavy_Platform</Name>
+      <ShipType>Opteris</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Pollops/Pollops_Heavy_Platform</Name>
+      <ShipType>Pollops</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Ralyeh/Ralyeh_Heavy_Platform</Name>
+      <ShipType>Ralyeh</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Vulfen/Vulfen_Heavy_Platform</Name>
       <ShipType>Vulfen</ShipType>
-      <Name>Vulfen/Vulfen_Station_Small</Name>
     </UnlockedHull>
   </HullsUnlocked>
 </Technology>
