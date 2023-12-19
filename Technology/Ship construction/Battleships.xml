@@ -63,10 +63,7 @@
       <Name>FreeBorg/Borg_TacticalH</Name>
       <ShipType>FreeBorg</ShipType>
     </UnlockedHull>
-  <UnlockedHull>
-      <Name>Cardassia/Car_Brinok</Name>
-      <ShipType>Cardassia</ShipType>
-    </UnlockedHull>
+
 	<UnlockedHull>
       <Name>Cardassia/Car_Keldon</Name>
       <ShipType>Cardassia</ShipType>

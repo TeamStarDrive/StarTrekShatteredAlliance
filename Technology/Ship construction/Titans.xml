@@ -55,10 +55,7 @@
       <Name>Cardassia/Car_Hutet</Name>
       <ShipType>Cardassia</ShipType>
     </UnlockedHull>
-	<UnlockedHull>
-      <Name>Cardassia/Car_Tonga</Name>
-      <ShipType>Cardassia</ShipType>
-    </UnlockedHull>
+
   <UnlockedHull>
       <Name>Klingon/Kling_C9Warblood</Name>
       <ShipType>Klingon</ShipType>

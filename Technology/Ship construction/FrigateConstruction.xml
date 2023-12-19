@@ -60,10 +60,6 @@
       <ShipType>FreeBorg</ShipType>
     </UnlockedHull>
 	<UnlockedHull>
-      <Name>Cardassia/Car_Kimal</Name>
-      <ShipType>Cardassia</ShipType>
-    </UnlockedHull>
-	<UnlockedHull>
       <Name>Cardassia/Car_Korinar</Name>
       <ShipType>Cardassia</ShipType>
     </UnlockedHull>

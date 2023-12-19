@@ -17,6 +17,10 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+  <UnlockedHull>
+      <Name>Cardassia/Car_Brinok</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
     <UnlockedHull>
       <Name>Terran/AssaultCarrier</Name>
       <ShipType>Terran</ShipType>

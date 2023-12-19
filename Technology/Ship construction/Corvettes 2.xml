@@ -17,6 +17,14 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+	<UnlockedHull>
+      <Name>Cardassia/Car_Kimal</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Cardassia/Car_Norin</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
       <UnlockedHull>
       <Name>Terran/Seeker</Name>
       <ShipType>Terran</ShipType>

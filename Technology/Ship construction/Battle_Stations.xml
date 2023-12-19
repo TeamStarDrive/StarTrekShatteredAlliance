@@ -24,10 +24,6 @@
       <ShipType>FreeBorg</ShipType>
     </UnlockedHull>
   <UnlockedHull>
-      <Name>Cardassia/Car_GulVystan</Name>
-      <ShipType>Cardassia</ShipType>
-    </UnlockedHull>
-  <UnlockedHull>
       <Name>Cardassia/Car_StarBase</Name>
       <ShipType>Cardassia</ShipType>
     </UnlockedHull>

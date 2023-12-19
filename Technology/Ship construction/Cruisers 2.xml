@@ -14,6 +14,14 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+	<UnlockedHull>
+      <Name>Cardassia/Car_Kulinor</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Cardassia/Car_Galor</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
     <UnlockedHull>
       <Name>Terran/BattleCruiser</Name>
       <ShipType>Terran</ShipType>

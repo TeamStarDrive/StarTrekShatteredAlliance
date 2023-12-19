@@ -31,10 +31,6 @@
       <ShipType>FreeBorg</ShipType>
     </UnlockedHull>
   <UnlockedHull>
-      <Name>Cardassia/Car_Norin</Name>
-      <ShipType>Cardassia</ShipType>
-    </UnlockedHull>
-  <UnlockedHull>
       <Name>Cardassia/OWP</Name>
       <ShipType>Cardassia</ShipType>
     </UnlockedHull>

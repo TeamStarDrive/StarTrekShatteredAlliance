@@ -14,6 +14,10 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+	<UnlockedHull>
+      <Name>Cardassia/Car_Tonga</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
     <UnlockedHull>
       <Name>Terran/Scarlet</Name>
       <ShipType>Terran</ShipType>

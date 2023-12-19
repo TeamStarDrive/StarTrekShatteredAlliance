@@ -17,6 +17,12 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+
+    <UnlockedHull>
+      <Name>Cardassia/Car_GulVystan</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+
       <UnlockedHull>
       <Name>Terran/Destroyer</Name>
       <ShipType>Terran</ShipType>

@@ -67,14 +67,6 @@
       <ShipType>Cardassia</ShipType>
     </UnlockedHull>
 	<UnlockedHull>
-      <Name>Cardassia/Car_Kulinor</Name>
-      <ShipType>Cardassia</ShipType>
-    </UnlockedHull>
-	<UnlockedHull>
-      <Name>Cardassia/Car_Galor</Name>
-      <ShipType>Cardassia</ShipType>
-    </UnlockedHull>
-	<UnlockedHull>
       <Name>Cardassia/Car_Legate</Name>
       <ShipType>Cardassia</ShipType>
     </UnlockedHull>
