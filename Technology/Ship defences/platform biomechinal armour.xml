@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>platform biomechinal armour</UID>
   <TechnologyType>ShipDefense</TechnologyType>
-  <Cost>18570</Cost>
+  <Cost>10570</Cost>
   <NameIndex>18572</NameIndex>
   <DescriptionIndex>18573</DescriptionIndex>
   <LeadsTo>

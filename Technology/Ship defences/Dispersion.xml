@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>Dispersion</UID>
   <TechnologyType>ShipDefense</TechnologyType>
-  <Cost>500</Cost>
+  <Cost>1950</Cost>
   <MaxLevel>10</MaxLevel>
   <NameIndex>17642</NameIndex>
   <DescriptionIndex>17643</DescriptionIndex>

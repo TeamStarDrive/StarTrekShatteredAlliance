@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>space station sheailds</UID>
   <TechnologyType>ShipDefense</TechnologyType>
-  <Cost>350</Cost>
+  <Cost>1950</Cost>
   <NameIndex>18556</NameIndex>
   <DescriptionIndex>18557</DescriptionIndex>
   <LeadsTo>

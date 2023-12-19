@@ -2,7 +2,7 @@
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <UID>orbital beam wepons mk1</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>1</Cost>
+  <Cost>900</Cost>
   <Name>orbital beam wepons mk1</Name>
   <NameIndex>18498</NameIndex>
   <DescriptionIndex>18499</DescriptionIndex>

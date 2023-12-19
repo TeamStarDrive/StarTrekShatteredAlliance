@@ -2,7 +2,7 @@
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <UID>prototype beams</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>1</Cost>
+  <Cost>3100</Cost>
   <Name>prototype beams</Name>
   <NameIndex>18520</NameIndex>
   <DescriptionIndex>18521</DescriptionIndex>

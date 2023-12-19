@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>prototype amplifiyer</UID>
   <TechnologyType>ShipDefense</TechnologyType>
-  <Cost>500</Cost>
+  <Cost>6500</Cost>
   <NameIndex>18558</NameIndex>
   <DescriptionIndex>18559</DescriptionIndex>
   <LeadsTo>

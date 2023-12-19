@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>prototype platform armour</UID>
   <TechnologyType>ShipDefense</TechnologyType>
-  <Cost>1100</Cost>
+  <Cost>5100</Cost>
   <NameIndex>18566</NameIndex>
   <DescriptionIndex>18567</DescriptionIndex>
   <LeadsTo>

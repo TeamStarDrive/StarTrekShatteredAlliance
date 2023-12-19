@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>starbase sheailds</UID>
   <TechnologyType>ShipDefense</TechnologyType>
-  <Cost>350</Cost>
+  <Cost>2350</Cost>
   <NameIndex>18560</NameIndex>
   <DescriptionIndex>18561</DescriptionIndex>
   <LeadsTo />

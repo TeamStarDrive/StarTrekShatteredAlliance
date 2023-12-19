@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>orbital shielding</UID>
   <TechnologyType>ShipDefense</TechnologyType>
-  <Cost>350</Cost>
+  <Cost>750</Cost>
   <NameIndex>18552</NameIndex>
   <DescriptionIndex>18553</DescriptionIndex>
   <LeadsTo>

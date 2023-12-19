@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>Battleships 2</UID>
   <TechnologyType>ShipHull</TechnologyType>
-  <Cost>200</Cost>
+  <Cost>8000</Cost>
   <NameIndex>18532</NameIndex>
   <DescriptionIndex>18533</DescriptionIndex>
   <LeadsTo>

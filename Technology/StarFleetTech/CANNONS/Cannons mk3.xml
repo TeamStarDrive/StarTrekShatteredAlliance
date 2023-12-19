@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>Cannons mk3</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>2860</Cost>
+  <Cost>3860</Cost>
   <NameIndex>18376</NameIndex>
   <DescriptionIndex>18377</DescriptionIndex>
   <LongDescription> resupply. </LongDescription>

@@ -2,7 +2,7 @@
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <UID>orbital torpedos mk3</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>1</Cost>
+  <Cost>5000</Cost>
   <Name>orbital torpedos mk3</Name>
   <NameIndex>18508</NameIndex>
   <DescriptionIndex>18509</DescriptionIndex>
