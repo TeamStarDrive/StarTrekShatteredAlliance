@@ -58,10 +58,7 @@
       <Name>FreeBorg/Borg_Cylinder</Name>
       <ShipType>FreeBorg</ShipType>
     </UnlockedHull>
-  <UnlockedHull>
-      <Name>FreeBorg/Borg_ScoutPyramid</Name>
-      <ShipType>FreeBorg</ShipType>
-    </UnlockedHull>
+
   <UnlockedHull>
       <Name>Cardassia/Car_Barkus</Name>
       <ShipType>Cardassia</ShipType>

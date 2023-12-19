@@ -54,10 +54,6 @@
   <TroopsUnlocked />
   <HullsUnlocked>
   <UnlockedHull>
-      <Name>FreeBorg/Borg_Scout</Name>
-      <ShipType>FreeBorg</ShipType>
-    </UnlockedHull>
-  <UnlockedHull>
       <Name>FreeBorg/Borg_Triangle</Name>
       <ShipType>FreeBorg</ShipType>
     </UnlockedHull>

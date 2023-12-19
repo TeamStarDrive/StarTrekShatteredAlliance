@@ -15,6 +15,10 @@
   <TroopsUnlocked />
   <HullsUnlocked>
 	<UnlockedHull>
+      <Name>FreeBorg/Borg_TacticalH</Name>
+      <ShipType>FreeBorg</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
       <Name>Cardassia/Car_Kulinor</Name>
       <ShipType>Cardassia</ShipType>
     </UnlockedHull>
