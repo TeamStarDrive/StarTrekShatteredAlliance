@@ -71,10 +71,7 @@
       <Name>Cardassia/Car_Makur</Name>
       <ShipType>Cardassia</ShipType>
     </UnlockedHull>
-  <UnlockedHull>
-      <Name>Klingon/Kling_FekLhr</Name>
-      <ShipType>Klingon</ShipType>
-    </UnlockedHull>
+
 	<UnlockedHull>
       <Name>Klingon/Kling_SuQJagh</Name>
       <ShipType>Klingon</ShipType>

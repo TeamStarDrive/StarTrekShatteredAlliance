@@ -71,18 +71,12 @@
       <Name>Klingon/Kling_D10Riskadh</Name>
       <ShipType>Klingon</ShipType>
     </UnlockedHull>
-	  <UnlockedHull>
-      <Name>Klingon/Kling_D11OneWing</Name>
-      <ShipType>Klingon</ShipType>
-    </UnlockedHull>
+
 	<UnlockedHull>
       <Name>Klingon/Kling_Kvek</Name>
       <ShipType>Klingon</ShipType>
     </UnlockedHull>
-	<UnlockedHull>
-      <Name>Klingon/Kling_L24KomoVal</Name>
-      <ShipType>Klingon</ShipType>
-    </UnlockedHull>
+
   <UnlockedHull>
       <Name>Romulan/Rom_Veles</Name>
       <ShipType>Romulan</ShipType>

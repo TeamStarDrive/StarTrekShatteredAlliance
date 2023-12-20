@@ -31,10 +31,7 @@
       <Name>Klingon/Kling_TekEt</Name>
       <ShipType>Klingon</ShipType>
     </UnlockedHull>
-  <UnlockedHull>
-      <Name>Klingon/Kling_D4Predator</Name>
-      <ShipType>Klingon</ShipType>
-    </UnlockedHull>
+
   <UnlockedHull>
       <Name>Klingon/klingon Star Base</Name>
       <ShipType>Klingon</ShipType>

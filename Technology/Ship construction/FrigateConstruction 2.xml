@@ -17,7 +17,16 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
-  <UnlockedHull>
+
+    <UnlockedHull>
+      <Name>Klingon/Kling_VoDleh</Name>
+      <ShipType>Klingon</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Klingon/Kling_D4Predator</Name>
+      <ShipType>Klingon</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
       <Name>FreeBorg/Borg_ScoutPyramid</Name>
       <ShipType>FreeBorg</ShipType>
     </UnlockedHull>

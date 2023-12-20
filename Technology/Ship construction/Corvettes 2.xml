@@ -17,6 +17,14 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+	<UnlockedHull>
+      <Name>Klingon/Kling_L24KomoVal</Name>
+      <ShipType>Klingon</ShipType>
+    </UnlockedHull>
+	  <UnlockedHull>
+      <Name>Klingon/Kling_D11OneWing</Name>
+      <ShipType>Klingon</ShipType>
+    </UnlockedHull>
   <UnlockedHull>
       <Name>FreeBorg/Borg_Scout</Name>
       <ShipType>FreeBorg</ShipType>

@@ -1,7 +1,7 @@
 Version=1
 HullName=Klingon/Kling_L24KomoVal
 VisibleName=L24 Komo Val
-Role=frigate
+Role=corvette
 Style=Klingon
 Size=12,21
 MeshOffset=0,56

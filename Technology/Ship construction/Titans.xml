@@ -57,18 +57,6 @@
       <Name>Klingon/Kling_C9Warblood</Name>
       <ShipType>Klingon</ShipType>
     </UnlockedHull>
-	<UnlockedHull>
-      <Name>Klingon/Kling_NeghVar</Name>
-      <ShipType>Klingon</ShipType>
-    </UnlockedHull>
-  <UnlockedHull>
-      <Name>Klingon/Kling_VoDleh</Name>
-      <ShipType>Klingon</ShipType>
-    </UnlockedHull>
-	<UnlockedHull>
-      <Name>Klingon/Kling_QehRal</Name>
-      <ShipType>Klingon</ShipType>
-    </UnlockedHull>
   <UnlockedHull>
       <Name>Romulan/Rom_V32Killerhawk</Name>
       <ShipType>Romulan</ShipType>
