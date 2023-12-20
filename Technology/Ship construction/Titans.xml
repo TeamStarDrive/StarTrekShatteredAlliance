@@ -57,10 +57,7 @@
       <Name>Klingon/Kling_C9Warblood</Name>
       <ShipType>Klingon</ShipType>
     </UnlockedHull>
-  <UnlockedHull>
-      <Name>Romulan/Rom_V32Killerhawk</Name>
-      <ShipType>Romulan</ShipType>
-    </UnlockedHull>
+
   <UnlockedHull>
       <Name>Romulan/Rom_Venator</Name>
       <ShipType>Romulan</ShipType>
@@ -77,10 +74,7 @@
       <Name>Terran/Galaxy Class</Name>
       <ShipType>fed</ShipType>
     </UnlockedHull>
-	<UnlockedHull>
-      <Name>Romulan/Rom_DDeridex</Name>
-      <ShipType>Romulan</ShipType>
-    </UnlockedHull>
+
     <UnlockedHull>
       <Name>Kulrathi/Yamamoto</Name>
       <ShipType>Kulrathi</ShipType>

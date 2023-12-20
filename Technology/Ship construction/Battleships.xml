@@ -79,14 +79,7 @@
       <Name>Klingon/Kling_BirdOfDeath</Name>
       <ShipType>Klingon</ShipType>
     </UnlockedHull>
-  <UnlockedHull>
-      <Name>Romulan/Rom_ShadowWing</Name>
-      <ShipType>Romulan</ShipType>
-    </UnlockedHull>
-  <UnlockedHull>
-      <Name>Romulan/Rom_Melak</Name>
-      <ShipType>Romulan</ShipType>
-    </UnlockedHull>
+
   <UnlockedHull>
       <Name>Romulan/Rom_BlackWind</Name>
       <ShipType>Romulan</ShipType>

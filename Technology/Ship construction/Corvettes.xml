@@ -93,10 +93,7 @@
       <Name>Romulan/Rom_V6GallantWing</Name>
       <ShipType>Romulan</ShipType>
     </UnlockedHull>
-	<UnlockedHull>
-      <Name>Romulan/Rom_V8Warbird</Name>
-      <ShipType>Romulan</ShipType>
-    </UnlockedHull>
+
     <UnlockedHull>
       <Name>Terran/Hunter</Name>
       <ShipType>Terran</ShipType>

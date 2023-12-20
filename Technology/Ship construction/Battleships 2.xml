@@ -17,6 +17,14 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+  <UnlockedHull>
+      <Name>Romulan/Rom_ShadowWing</Name>
+      <ShipType>Romulan</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>Romulan/Rom_Melak</Name>
+      <ShipType>Romulan</ShipType>
+    </UnlockedHull>
 	<UnlockedHull>
       <Name>Klingon/Kling_QehRal</Name>
       <ShipType>Klingon</ShipType>

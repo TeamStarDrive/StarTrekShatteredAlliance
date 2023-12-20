@@ -80,10 +80,7 @@
       <Name>Klingon/Kling_Vorcha</Name>
       <ShipType>Klingon</ShipType>
     </UnlockedHull>
-	<UnlockedHull>
-      <Name>Romulan/Rom_Dverix</Name>
-      <ShipType>Romulan</ShipType>
-    </UnlockedHull>
+
 	<UnlockedHull>
       <Name>Romulan/Rom_Griffin</Name>
       <ShipType>Romulan</ShipType>

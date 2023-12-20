@@ -36,10 +36,7 @@
       <Name>Klingon/klingon Star Base</Name>
       <ShipType>Klingon</ShipType>
     </UnlockedHull>
-  <UnlockedHull>
-      <Name>Romulan/V1 Starglider</Name>
-      <ShipType>Romulan</ShipType>
-    </UnlockedHull>
+
   <UnlockedHull>
       <Name>Romulan/Rom_StarBase</Name>
       <ShipType>Romulan</ShipType>

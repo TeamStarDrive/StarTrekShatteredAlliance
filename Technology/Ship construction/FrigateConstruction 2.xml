@@ -17,6 +17,10 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+  <UnlockedHull>
+      <Name>Romulan/Rom_V32Killerhawk</Name>
+      <ShipType>Romulan</ShipType>
+    </UnlockedHull>
 
     <UnlockedHull>
       <Name>Klingon/Kling_VoDleh</Name>
