@@ -15,6 +15,10 @@
   <TroopsUnlocked />
   <HullsUnlocked>
 	<UnlockedHull>
+      <Name>Terran/Galaxy Class</Name>
+      <ShipType>fed</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
       <Name>Romulan/Rom_DDeridex</Name>
       <ShipType>Romulan</ShipType>
     </UnlockedHull>

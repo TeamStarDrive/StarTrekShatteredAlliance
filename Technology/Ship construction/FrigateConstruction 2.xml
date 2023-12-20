@@ -17,11 +17,19 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+	<UnlockedHull>
+      <Name>Terran/Fed_Constellation</Name>
+      <ShipType>fed</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Terran/Intrepid</Name>
+      <ShipType>fed</ShipType>
+    </UnlockedHull>
+
   <UnlockedHull>
       <Name>Romulan/Rom_V32Killerhawk</Name>
       <ShipType>Romulan</ShipType>
     </UnlockedHull>
-
     <UnlockedHull>
       <Name>Klingon/Kling_VoDleh</Name>
       <ShipType>Klingon</ShipType>

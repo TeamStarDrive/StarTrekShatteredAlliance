@@ -88,18 +88,9 @@
       <Name>Romulan/Rom_Noraxan</Name>
       <ShipType>Romulan</ShipType>
     </UnlockedHull>
-	<UnlockedHull>
-      <Name>Terran/Fed_Nebula</Name>
-      <ShipType>fed</ShipType>
-    </UnlockedHull>
-	<UnlockedHull>
-      <Name>Terran/Fed_Sovereign</Name>
-      <ShipType>fed</ShipType>
-    </UnlockedHull>
-	<UnlockedHull>
-      <Name>Terran/Fed_Defiant</Name>
-      <ShipType>fed</ShipType>
-    </UnlockedHull>
+
+
+
 	<UnlockedHull>
       <Name>Terran/Battleship</Name>
       <ShipType>Terran</ShipType>

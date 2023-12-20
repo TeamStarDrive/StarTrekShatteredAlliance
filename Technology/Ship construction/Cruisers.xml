@@ -93,10 +93,7 @@
       <Name>Terran/LightCruiser</Name>
       <ShipType>Terran</ShipType>
     </UnlockedHull>
-	<UnlockedHull>
-      <Name>Terran/Fed_Steamrunner</Name>
-      <ShipType>fed</ShipType>
-    </UnlockedHull>
+
 	<UnlockedHull>
       <Name>Terran/Fed_Excelsior</Name>
       <ShipType>fed</ShipType>
@@ -105,10 +102,7 @@
       <Name>Terran/LightCarrier</Name>
       <ShipType>Terran</ShipType>
     </UnlockedHull>
-	<UnlockedHull>
-      <Name>Terran/Fed_Constitution</Name>
-      <ShipType>fed</ShipType>
-    </UnlockedHull>
+
     <UnlockedHull>
       <Name>Kulrathi/Mauler</Name>
       <ShipType>Kulrathi</ShipType>
