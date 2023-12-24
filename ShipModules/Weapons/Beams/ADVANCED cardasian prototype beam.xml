@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <UID>Car_DisruptorBeamMk4</UID> 
+  <UID>ADVANCED cardasian prototype beam</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>21</Cost>
+  <Cost>31</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
-  <TechLevel>4</TechLevel>
+  <TechLevel>6</TechLevel>
 
   
   <!-- common traits shared by all ship modules -->
@@ -16,24 +16,24 @@
   <Name>Light Phasor Array</Name>
   <Restrictions>O</Restrictions>
 
-  <IconTexturePath>Modules/Car_DisruptorBeamMk4</IconTexturePath>3
+  <IconTexturePath>Modules/ADVANCED cardasian prototype beam</IconTexturePath>3
 
 
-  <NameIndex>18636</NameIndex>
-  <DescriptionIndex>18637</DescriptionIndex>
+  <NameIndex>18740</NameIndex>
+  <DescriptionIndex>18741</DescriptionIndex>
 
 
   <!-- Mass and Health -->
-  <Mass>8</Mass>
-  <Health>19920</Health>
-  <HealthMax>19920</HealthMax>
+  <Mass>80</Mass>
+  <Health>29920</Health>
+  <HealthMax>29920</HealthMax>
 
   <!-- Power Drawn -->
-  <PowerDraw>5</PowerDraw>
+  <PowerDraw>7</PowerDraw>
 
   <!-- for Weapons -->
-  <WeaponType>Car_DisruptorBeamMk4</WeaponType>
-  <FieldOfFire>45</FieldOfFire>
+  <WeaponType>ADVANCED cardasian prototype beam</WeaponType>
+  <FieldOfFire>180</FieldOfFire>
 
   <!-- Description -->
   <Description>Phasors are powerful and efficient directed energy weapons.</Description>

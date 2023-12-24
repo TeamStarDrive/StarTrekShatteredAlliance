@@ -7,8 +7,8 @@
   <TechLevel>3</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
-  <XSize>3</XSize>
-  <YSize>3</YSize>
+  <XSize>5</XSize>
+  <YSize>5</YSize>
   <Name>borg gravametric cannon mk3</Name>
   <Restrictions>O</Restrictions>
   <UID>borg gravametric cannon mk3</UID>
