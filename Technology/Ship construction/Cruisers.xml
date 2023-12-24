@@ -115,10 +115,7 @@
       <Name>Vulfen/Type X1</Name>
       <ShipType>Vulfen</ShipType>
     </UnlockedHull>
-	<UnlockedHull>
-      <Name>Vulfen/Type XII</Name>
-      <ShipType>Vulfen</ShipType>
-    </UnlockedHull>
+
     <UnlockedHull>
       <Name>Ralyeh/Acolyte</Name>
       <ShipType>Ralyeh</ShipType>

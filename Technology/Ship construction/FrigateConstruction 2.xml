@@ -17,6 +17,7 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+
 	<UnlockedHull>
       <Name>Terran/Fed_Constellation</Name>
       <ShipType>fed</ShipType>

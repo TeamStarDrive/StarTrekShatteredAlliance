@@ -3,8 +3,8 @@
 
   <Cost>180</Cost>
   <!-- common traits shared by all ship modules -->
-  <XSize>4</XSize>
-  <YSize>7</YSize>
+  <XSize>3</XSize>
+  <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
   <Name>hevey torpedo mk2</Name>
   <Restrictions>O</Restrictions>

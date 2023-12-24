@@ -88,14 +88,8 @@
       <Name>Vulfen/Type XIX1</Name>
       <ShipType>Vulfen</ShipType>
     </UnlockedHull>
-	<UnlockedHull>
-      <Name>Vulfen/Type XVI</Name>
-      <ShipType>Vulfen</ShipType>
-    </UnlockedHull>
-	<UnlockedHull>
-      <Name>Vulfen/Alpha</Name>
-      <ShipType>Vulfen</ShipType>
-    </UnlockedHull>
+
+
     <UnlockedHull>
       <Name>Pollops/Entangler</Name>
       <ShipType>Pollops</ShipType>

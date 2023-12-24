@@ -123,10 +123,7 @@
       <Name>Kulrathi/Claw</Name>
       <ShipType>Kulrathi</ShipType>
     </UnlockedHull>
-    <UnlockedHull>
-      <Name>Vulfen/Type V</Name>
-      <ShipType>Vulfen</ShipType>
-    </UnlockedHull>
+
     <UnlockedHull>
       <Name>Vulfen/Type VII</Name>
       <ShipType>Vulfen</ShipType>

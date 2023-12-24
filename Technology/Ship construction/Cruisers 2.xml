@@ -15,6 +15,10 @@
   <TroopsUnlocked />
   <HullsUnlocked>
 	<UnlockedHull>
+      <Name>Vulfen/Type XII</Name>
+      <ShipType>Vulfen</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
       <Name>Terran/Fed_Steamrunner</Name>
       <ShipType>fed</ShipType>
     </UnlockedHull>

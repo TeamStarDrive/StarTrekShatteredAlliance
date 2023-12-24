@@ -10,8 +10,8 @@
 
   
   <!-- common traits shared by all ship modules -->
-  <XSize>3</XSize>
-  <YSize>6</YSize>
+  <XSize>2</XSize>
+  <YSize>1</YSize>
   <ModuleType>Turret</ModuleType>
   <Name>romulan fighter disrupter beam</Name>
   <Restrictions>O</Restrictions>
