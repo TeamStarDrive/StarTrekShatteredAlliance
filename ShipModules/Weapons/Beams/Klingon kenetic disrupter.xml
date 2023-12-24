@@ -9,8 +9,8 @@
   <TechLevel>2</TechLevel>
   
   <!-- common traits shared by all ship modules -->
-  <XSize>3</XSize>
-  <YSize>8</YSize>
+  <XSize>4</XSize>
+  <YSize>6</YSize>
   <ModuleType>MainGun</ModuleType>
   <Name>Klingon kenetic disrupter</Name>
   <Restrictions>O</Restrictions>

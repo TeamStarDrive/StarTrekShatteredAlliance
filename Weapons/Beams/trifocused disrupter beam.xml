@@ -6,7 +6,7 @@
   <UID>trifocused disrupter beam</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>2</FireDelay>
-  <Range>8000</Range>
+  <Range>12000</Range>
   <PowerRequiredToFire>100</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2.5</BeamDuration>
