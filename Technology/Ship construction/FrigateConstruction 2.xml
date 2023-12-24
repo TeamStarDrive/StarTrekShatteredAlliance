@@ -17,6 +17,10 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+    <UnlockedHull>
+      <Name>Vulfen/Type IX</Name>
+      <ShipType>Vulfen</ShipType>
+    </UnlockedHull>
 
 	<UnlockedHull>
       <Name>Terran/Fed_Constellation</Name>
