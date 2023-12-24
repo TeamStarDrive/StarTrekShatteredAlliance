@@ -4,7 +4,7 @@
   <Cost>155</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>4</XSize>
-  <YSize>6</YSize>
+  <YSize>4</YSize>
   <ModuleType>MissileLauncher</ModuleType>
   <Name>station torpedo launcher mk1</Name>
   <Restrictions>O</Restrictions>

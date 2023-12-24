@@ -14680,7 +14680,7 @@ BB_Tech_station phasor beem mk1_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_station torpedo launcher mk1_Name:
  Id: 18448
- ENG: " torpedo launcher designd for stations " 
+ ENG: " torpedo launcher designd without the mass limitations needed for starship use " 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_station torpedo launcher mk1_Desc:
@@ -14690,12 +14690,12 @@ BB_Tech_station torpedo launcher mk1_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_station torpedo launcher mk2_Name:
  Id: 18450
- ENG: " torpedo launcher designd for stations " 
+ ENG: " torpedo mk2 launcher designd without the mass limitations needed for starship use " 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_station torpedo launcher mk2_Desc:
  Id: 18451
- ENG: " torpedo launcher designd without the mass limitations needed for starship use " 
+ ENG: " torpedo launcher mk2 designd without the mass limitations needed for starship use " 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_station hevey torpedo mk1_Name:

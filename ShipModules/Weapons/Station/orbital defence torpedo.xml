@@ -3,8 +3,8 @@
 
   <Cost>155</Cost>
   <!-- common traits shared by all ship modules -->
-  <XSize>4</XSize>
-  <YSize>2</YSize>
+  <XSize>3</XSize>
+  <YSize>3</YSize>
   <ModuleType>MissileLauncher</ModuleType>
   <Name>orbital defence torpedo</Name>
   <Restrictions>IO</Restrictions>
