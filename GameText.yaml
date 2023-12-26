@@ -15860,27 +15860,27 @@ BB_Tech_>advanced fighter sheaild_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_>prototype fighter shealds_Name:
  Id: 18689
- ENG: ">prototype fighter shealds 
+ ENG: "prototype fighter shealds"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_>prototype fighter shealds_Desc:
  Id: 18690
- ENG: ">prototype fighter shealds"
+ ENG: "prototype fighter shealds"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_>transphasic fighter shealds_Name:
  Id: 18691
- ENG: ">transphasic fighter shealds 
+ ENG: "transphasic fighter shealds"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_>transphasic fighter shealds_Desc:
  Id: 18692
- ENG: ">transphasic fighter shealds alow us to absorbe energy from weapons fire and funel it ito another dimension"
+ ENG: "transphasic fighter shealds alow us to absorbe energy from weapons fire and funel it ito another dimension"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_>advanced fighter sheald Amplifiers_Name:
  Id: 18693
- ENG: ">advanced fighter sheald Amplifier 
+ ENG: "advanced fighter sheald Amplifier"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_>advanced fighter sheald Amplifier_Desc:
@@ -15890,7 +15890,7 @@ BB_Tech_>advanced fighter sheald Amplifier_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_>advanced CanopyShields_Name:
  Id: 18695
- ENG: ">advanced CanopyShields 
+ ENG: ">advanced CanopyShields"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_>advanced CanopyShields_Desc:
@@ -15900,7 +15900,7 @@ BB_Tech_>advanced CanopyShields_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_>advanced crusier sheaild_Name:
  Id: 18697
- ENG: ">advanced crusier sheaild 
+ ENG: ">advanced crusier sheaild"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_>advanced crusier sheaild_Desc:
@@ -15910,7 +15910,7 @@ BB_Tech_>advanced crusier sheaild_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_>frigate shealds_Name:
  Id: 18699
- ENG: ">frigate shealds 
+ ENG: "frigate shealds"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_>frigate shealds_Desc:
@@ -15920,7 +15920,7 @@ BB_Tech_>frigate shealds_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_>station deflector mk1_Name:
  Id: 18702
- ENG: ">station deflector mk1 
+ ENG: ">station deflector mk1"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_>station deflector mk1_Desc:
@@ -15930,7 +15930,7 @@ BB_Tech_>station deflector mk1_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_>small station sheaild mk1_Name:
  Id: 18704
- ENG: ">small station sheaild mk1 
+ ENG: ">small station sheaild mk1"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_>small station sheaild mk1_Desc:
@@ -15940,17 +15940,17 @@ BB_Tech_>small station sheaild mk1_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_>starbase sheailds_Name:
  Id: 18706
- ENG: ">starbase sheailds 
+ ENG: ">starbase sheailds"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_>starbase sheailds_Desc:
  Id: 18707
- ENG: "station sheaild designd with frontire posts and smal stations in mind"
+ ENG: "starbase sheailds"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_>ORBITAL SHEAILD 2X2_Name:
  Id: 18708
- ENG: ">ORBITAL SHEAILD 2X2 
+ ENG: ">ORBITAL SHEAILD 2X2"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_>ORBITAL SHEAILD 2X2_Desc:
