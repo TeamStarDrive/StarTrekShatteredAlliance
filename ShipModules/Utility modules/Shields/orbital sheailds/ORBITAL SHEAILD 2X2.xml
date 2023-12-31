@@ -18,12 +18,12 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <UID>ORBITAL SHEAILD 2X2 MK2</UID> 
+  <UID>ORBITAL SHEAILD 2X2</UID> 
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>ORBITAL SHEAILD 2X2 MK2</Name>
-  <IconTexturePath>Modules/ORBITAL SHEAILD 2X2 MK2</IconTexturePath>
+  <Name>ORBITAL SHEAILD 2X2</Name>
+  <IconTexturePath>Modules/ORBITAL SHEAILD 2X2</IconTexturePath>
   <Mass>11000</Mass>
   <Health>96188</Health>
   <HealthMax>96188</HealthMax>
@@ -34,8 +34,8 @@
   
   <PowerDraw>400</PowerDraw>
 
-  <NameIndex>18679</NameIndex>
-  <DescriptionIndex>18680</DescriptionIndex>
+  <NameIndex>18708</NameIndex>
+  <DescriptionIndex>18709</DescriptionIndex>
 
   <!-- for shield items -->
   <ShieldPowerMax>150000</ShieldPowerMax>

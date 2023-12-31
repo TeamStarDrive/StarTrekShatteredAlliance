@@ -1,6 +1,17 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-
+  <DroneModule>false</DroneModule>
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  
+  <FreighterModule>true</FreighterModule>
+  <PlatformModule>false</PlatformModule>
+  <StationModule>false</StationModule>
   <Cost>9</Cost>
 
   <!-- Tech Level Used by AI for Upgrading Ships -->
@@ -17,16 +28,16 @@
   <Version>2</Version>
 
   <IconTexturePath>Modules/freighter sheaild</IconTexturePath>
-  <Mass>36</Mass>
-  <Health>1100</Health>
-  <HealthMax>1100</HealthMax>
+  <Mass>16</Mass>
+  <Health>2900</Health>
+  <HealthMax>2900</HealthMax>
   <energyreq>0</energyreq>
   
   <Description> This particular model is a very basic 1 KW shieid (2000 hp) with a 75 meter protective radius and a low recharge speed.
   </Description>
   
   
-  <PowerDraw>45</PowerDraw>
+  <PowerDraw>15</PowerDraw>
 
   <NameIndex>18738</NameIndex>
   <DescriptionIndex>18739</DescriptionIndex>
