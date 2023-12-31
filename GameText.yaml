@@ -14748,16 +14748,6 @@ BB_Tech_station phasor beem mk2_Desc:
  ENG: " phasor beem designd without the mass limitations needed for starship use " 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
-BB_Tech_station deflector mk2_Name:
- Id: 18462
- ENG: " masive hevey deflector designd without the mass limitations for starship " 
- RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
- SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
-BB_Tech_station deflector mk2_Desc:
- Id: 18463
- ENG: " masive hevey deflector designd without the mass limitations for starship " 
- RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
- SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_ablative armor Large_Name:
  Id: 18462
  ENG: " masively hevey armor designd without the mass limitations for starship " 
@@ -15808,16 +15798,6 @@ BB_Tech_>advanced energy torpoedo_Desc:
  ENG: ">advanced energy torpoedo" 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
-B_Tech_>advanced energy torpoedo mk2_Name:
- Id: 18679
- ENG: ">advanced energy torpoedo mk2" 
- RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
- SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
-BB_Tech_>advanced energy torpoedo mk2_Desc:
- Id: 18680
- ENG: ">advanced energy torpoedo mk2" 
- RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
- SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_>hevey torpedo mk1_Name:
  Id: 18681
  ENG: ">hevey torpedo mk1" 
@@ -16136,6 +16116,26 @@ BB_Tech_hevey torpedo_Name:
 BB_Tech_hevey torpedo_Desc:
  Id: 18745
  ENG: " hevey torpedo  " 
+ RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
+ SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
+BB_Tech_station deflector mk2_Name:
+ Id: 18746
+ ENG: " masive hevey deflector designd without the mass limitations for starship " 
+ RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
+ SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
+BB_Tech_station deflector mk2_Desc:
+ Id: 18747
+ ENG: " masive hevey deflector designd without the mass limitations for starship " 
+ RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
+ SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
+BB_Tech_advanced energy torpoedo mk2_Name:
+ Id: 18748
+ ENG: ">advanced energy torpoedo mk2" 
+ RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
+ SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
+BB_Tech_advanced energy torpoedo mk2_Desc:
+ Id: 18749
+ ENG: ">advanced energy torpoedo mk2" 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 

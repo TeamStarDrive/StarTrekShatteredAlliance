@@ -11,7 +11,7 @@
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>3.5</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
-  <ExcludesCorvettes>false</ExcludesCorvettes>
+  <ExcludesCorvettes>true</ExcludesCorvettes>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
 
