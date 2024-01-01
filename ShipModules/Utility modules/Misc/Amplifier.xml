@@ -3,18 +3,18 @@
   <DroneModule>false</DroneModule>
   <FighterModule>true</FighterModule>
   <CorvetteModule>true</CorvetteModule>
-  <FrigateModule>false</FrigateModule>
-  <DestroyerModule>false</DestroyerModule>
-  <CruiserModule>false</CruiserModule>
-  <BattleshipModule>false</BattleshipModule>
-  <CapitalModule>false</CapitalModule>
+  <FrigateModule>true</FrigateModule>
+  <DestroyerModule>true</DestroyerModule>
+  <CruiserModule>true</CruiserModule>
+  <BattleshipModule>true</BattleshipModule>
+  <CapitalModule>true</CapitalModule>
   
-  <FreighterModule>false</FreighterModule>
+  <FreighterModule>true</FreighterModule>
   <PlatformModule>true</PlatformModule>
-  <StationModule>false</StationModule>
+  <StationModule>true</StationModule>
   
   
-    <Cost>4</Cost>
+    <Cost>64</Cost>
     <!-- Tech Level -->
     <TechLevel>2</TechLevel>
     <TechBranch>Shield</TechBranch>
@@ -32,8 +32,8 @@
     <DescriptionIndex>17496</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>2</Mass>
-    <Health>600</Health>
-    <HealthMax>600</HealthMax>
+    <Health>1600</Health>
+    <HealthMax>1600</HealthMax>
     <RepairDifficulty>3</RepairDifficulty>                          
     <!-- Power Drawn -->
     <PowerDraw>30</PowerDraw>
@@ -41,7 +41,7 @@
     <!-- Armor resistance -->
     <!-- for PowerPlant Items -->
     
-    <AmplifyShields>1950</AmplifyShields>
+    <AmplifyShields>2950</AmplifyShields>
 
     <!-- Crew Reqs -->
     

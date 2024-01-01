@@ -10,14 +10,14 @@
   <CapitalModule>false</CapitalModule>
   
   <FreighterModule>false</FreighterModule>
-  <PlatformModule>true</PlatformModule>
+  <PlatformModule>false</PlatformModule>
   <StationModule>false</StationModule>
   
   
-  <Cost>19</Cost>
+  <Cost>80</Cost>
 
   <!-- Tech Level Used by AI for Upgrading Ships -->
-  <TechLevel>1</TechLevel>
+  <TechLevel>4</TechLevel>
   <RepairDifficulty>2</RepairDifficulty>
 
   <!-- common traits shared by all ship modules -->
@@ -31,26 +31,27 @@
 
   <IconTexturePath>Modules/frigate shealds</IconTexturePath>
   <Mass>46</Mass>
-  <Health>3100</Health>
-  <HealthMax>3100</HealthMax>
+  <Health>30100</Health>
+  <HealthMax>30100</HealthMax>
   <energyreq>0</energyreq>
   
   <Description> This particular model is a very basic 1 KW shieid (2000 hp) with a 75 meter protective radius and a low recharge speed.
   </Description>
   
   
-  <PowerDraw>85</PowerDraw>
+  <PowerDraw>120</PowerDraw>
 
   <NameIndex>18699</NameIndex>
   <DescriptionIndex>18701</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>30000</ShieldPowerMax>
+  <ShieldPowerMax>40000</ShieldPowerMax>
   <ShieldRechargeDelay>13</ShieldRechargeDelay>
-  <ShieldRechargeRate>80.0</ShieldRechargeRate>
+  <ShieldRechargeRate>480.0</ShieldRechargeRate>
   <ShieldRadius>145</ShieldRadius>
-  <ShieldRechargeCombatRate>70</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>370</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.42</ShieldEnergyResist>
   <ShieldBeamResist>0.45</ShieldBeamResist>
   <ShieldKineticResist>-0.22</ShieldKineticResist>
+  <Deflection>100</Deflection>
 </ShipModule>

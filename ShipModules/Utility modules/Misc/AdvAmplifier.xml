@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <Cost>22</Cost>
+    <Cost>192</Cost>
     <FighterModule>false</FighterModule>
     <!-- Tech Level -->
     <TechLevel>2</TechLevel>
@@ -19,16 +19,16 @@
     <DescriptionIndex>17499</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>8</Mass>
-    <Health>2760</Health>
-    <HealthMax>2760</HealthMax>
+    <Health>12760</Health>
+    <HealthMax>12760</HealthMax>
     <RepairDifficulty>6</RepairDifficulty>                          
     <!-- Power Drawn -->
-    <PowerDraw>100</PowerDraw>
-    <PowerDrawAtWarp>-80</PowerDrawAtWarp>
+    <PowerDraw>190</PowerDraw>
+    <PowerDrawAtWarp>-90</PowerDrawAtWarp>
     <!-- Armor resistance -->
     <!-- for PowerPlant Items -->
     
-    <AmplifyShields>12500</AmplifyShields>
+    <AmplifyShields>32500</AmplifyShields>
 
     <!-- Crew Reqs -->
     

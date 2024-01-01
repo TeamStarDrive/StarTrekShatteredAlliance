@@ -18,27 +18,27 @@
 
   <IconTexturePath>Modules/Shield_1KW</IconTexturePath>
   <Mass>36</Mass>
-  <Health>1100</Health>
-  <HealthMax>1100</HealthMax>
+  <Health>10100</Health>
+  <HealthMax>10100</HealthMax>
   <energyreq>0</energyreq>
   
   <Description> This particular model is a very basic 1 KW shieid (2000 hp) with a 75 meter protective radius and a low recharge speed.
   </Description>
   
   
-  <PowerDraw>75</PowerDraw>
+  <PowerDraw>45</PowerDraw>
 
   <NameIndex>1050</NameIndex>
   <DescriptionIndex>1051</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>6000</ShieldPowerMax>
+  <ShieldPowerMax>12000</ShieldPowerMax>
   <ShieldRechargeDelay>15</ShieldRechargeDelay>
-  <ShieldRechargeRate>60.0</ShieldRechargeRate>
+  <ShieldRechargeRate>160.0</ShieldRechargeRate>
   <ShieldRadius>98</ShieldRadius>
-  <ShieldRechargeCombatRate>50</ShieldRechargeCombatRate>
-  <ShieldEnergyResist>0.32</ShieldEnergyResist>
-  <ShieldBeamResist>0.35</ShieldBeamResist>
-  <ShieldKineticResist>-0.32</ShieldKineticResist>
+  <ShieldRechargeCombatRate>150</ShieldRechargeCombatRate>
+  <ShieldEnergyResist>0.22</ShieldEnergyResist>
+  <ShieldBeamResist>0.25</ShieldBeamResist>
+  <ShieldKineticResist>-0.22</ShieldKineticResist>
     <Deflection>20</Deflection>
 </ShipModule>

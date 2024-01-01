@@ -10,11 +10,12 @@
   <CapitalModule>false</CapitalModule>
   
   <FreighterModule>false</FreighterModule>
-  <PlatformModule>true</PlatformModule>
+  <PlatformModule>false</PlatformModule>
   <StationModule>false</StationModule>
   
   
-  <Cost>100</Cost>
+  <Cost>110</Cost>
+  <TechLevel>4</TechLevel>
 
   <RepairDifficulty>4</RepairDifficulty>
   <!-- common traits shared by all ship modules -->
@@ -28,8 +29,8 @@
   <Name>advanced crusier sheaild</Name>
   <IconTexturePath>Modules/advanced crusier sheaild</IconTexturePath>
   <Mass>91</Mass>
-  <Health>9200</Health>
-  <HealthMax>9200</HealthMax>
+  <Health>50200</Health>
+  <HealthMax>50200</HealthMax>
   <energyreq>0</energyreq>
   
   <Description>This is a large shield that provides heavy protection at a heavy power cost</Description>
@@ -41,12 +42,13 @@
   <DescriptionIndex>18698</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>70000</ShieldPowerMax>
+  <ShieldPowerMax>65000</ShieldPowerMax>
   <ShieldRechargeDelay>13</ShieldRechargeDelay>
-  <ShieldRechargeRate>650.0</ShieldRechargeRate>
+  <ShieldRechargeRate>950.0</ShieldRechargeRate>
   <ShieldRadius>270</ShieldRadius>
-  <ShieldRechargeCombatRate>500</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>450</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.68</ShieldEnergyResist>
   <ShieldBeamResist>0.60</ShieldBeamResist>
   <ShieldKineticResist>-0.20</ShieldKineticResist>
+  <Deflection>140</Deflection>
 </ShipModule>

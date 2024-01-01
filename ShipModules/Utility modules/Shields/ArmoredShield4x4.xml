@@ -3,7 +3,7 @@
 
   <Cost>138</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
-  <TechLevel>3</TechLevel>
+  <TechLevel>4</TechLevel>
   <RepairDifficulty>2</RepairDifficulty>
 
   <RepairDifficulty>8</RepairDifficulty>
@@ -18,8 +18,8 @@
   <Name>ArmoredShield4x4</Name>
   <IconTexturePath>Modules/ArmoredShield4x4</IconTexturePath>
   <Mass>144</Mass>
-  <Health>7500</Health>
-  <HealthMax>7500</HealthMax>
+  <Health>27500</Health>
+  <HealthMax>27500</HealthMax>
   <energyreq>0</energyreq>
   
   <Description>This is a large shield that provides heavy protection at a heavy power cost</Description>
@@ -33,13 +33,13 @@
   <ExplosiveResist>0.25</ExplosiveResist>
 
   <!-- for shield items -->
-  <ShieldPowerMax>44000</ShieldPowerMax>
-  <ShieldRechargeDelay>30</ShieldRechargeDelay>
-  <ShieldRechargeRate>440</ShieldRechargeRate>
+  <ShieldPowerMax>75000</ShieldPowerMax>
+  <ShieldRechargeDelay>20</ShieldRechargeDelay>
+  <ShieldRechargeRate>640</ShieldRechargeRate>
   <ShieldRadius>250</ShieldRadius>
-  <ShieldRechargeCombatRate>100</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>250</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.44</ShieldEnergyResist>
   <ShieldBeamResist>0.45</ShieldBeamResist>
   <ShieldKineticResist>-0.48</ShieldKineticResist>
-    <Deflection>100</Deflection>
+  <Deflection>150</Deflection>
 </ShipModule>

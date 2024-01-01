@@ -28,8 +28,8 @@
 
   <IconTexturePath>Modules/advanced fighter sheaild</IconTexturePath>
   <Mass>10</Mass>
-  <Health>800</Health>
-  <HealthMax>800</HealthMax>
+  <Health>1500</Health>
+  <HealthMax>1500</HealthMax>
   <energyreq>0</energyreq>
   
   <Description>This shield has a decent sized protection radius but is only capable of taking a few hits. However it does have a quick recharge rate.</Description>
@@ -41,9 +41,9 @@
   <DescriptionIndex>18688</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>2000</ShieldPowerMax>
-  <ShieldRechargeDelay>6</ShieldRechargeDelay>
-  <ShieldRechargeRate>25</ShieldRechargeRate>
+  <ShieldPowerMax>6000</ShieldPowerMax>
+  <ShieldRechargeDelay>5</ShieldRechargeDelay>
+  <ShieldRechargeRate>125</ShieldRechargeRate>
   <ShieldRechargeCombatRate>50</ShieldRechargeCombatRate>
   <ShieldRadius>75</ShieldRadius>
   <ShieldEnergyResist>0.19</ShieldEnergyResist>
