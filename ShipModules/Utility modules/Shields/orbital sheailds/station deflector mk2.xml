@@ -12,7 +12,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>288</Cost>
+  <Cost>588</Cost>
   <RepairDifficulty>12</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -25,15 +25,15 @@
   <Restrictions>IO</Restrictions>
   <Name>station deflector mk2</Name>
   <IconTexturePath>Modules/station deflector mk2</IconTexturePath>
-  <Mass>11000</Mass>
-  <Health>96188</Health>
-  <HealthMax>96188</HealthMax>
+  <Mass>12000</Mass>
+  <Health>99188</Health>
+  <HealthMax>99188</HealthMax>
   <energyreq>0</energyreq>
   
   <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
   
   
-  <PowerDraw>900</PowerDraw>
+  <PowerDraw>1600</PowerDraw>
 
   <NameIndex>18746</NameIndex>
   <DescriptionIndex>18747</DescriptionIndex>
@@ -42,11 +42,11 @@
   <ShieldPowerMax>499900</ShieldPowerMax>
   <ShieldRechargeDelay>10</ShieldRechargeDelay>
   <ShieldRechargeRate>9200</ShieldRechargeRate>
-  <ShieldRadius>590</ShieldRadius>
+  <ShieldRadius>520</ShieldRadius>
   <ShieldRechargeCombatRate>1300</ShieldRechargeCombatRate>
-  <ShieldEnergyResist>0.89</ShieldEnergyResist>
-  <ShieldBeamResist>0.99</ShieldBeamResist>
-  <ShieldKineticResist>0.47</ShieldKineticResist>
-  <PlasmaResist>0.03</PlasmaResist>
-  <Deflection>30</Deflection>
+  <ShieldEnergyResist>0.79</ShieldEnergyResist>
+  <ShieldBeamResist>0.79</ShieldBeamResist>
+  <ShieldKineticResist>0.77</ShieldKineticResist>
+  <PlasmaResist>0.73</PlasmaResist>
+  <Deflection>60</Deflection>
 </ShipModule>

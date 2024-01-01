@@ -1,8 +1,18 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-
-  <Cost>288</Cost>
-  <RepairDifficulty>12</RepairDifficulty>
+  <DroneModule>false</DroneModule>
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>
+  <Cost>188</Cost>
+  <RepairDifficulty>8</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
   <ModuleType>Shield</ModuleType>
@@ -14,15 +24,15 @@
   <Restrictions>IO</Restrictions>
   <Name>TRANSPHASIC OWP SHEAILD</Name>
   <IconTexturePath>Modules/TRANSPHASIC OWP SHEAILD</IconTexturePath>
-  <Mass>11000</Mass>
-  <Health>70188</Health>
-  <HealthMax>70188</HealthMax>
+  <Mass>7000</Mass>
+  <Health>60188</Health>
+  <HealthMax>60188</HealthMax>
   <energyreq>0</energyreq>
   
   <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
   
   
-  <PowerDraw>300</PowerDraw>
+  <PowerDraw>450</PowerDraw>
 
   <NameIndex>18710</NameIndex>
   <DescriptionIndex>18711</DescriptionIndex>
@@ -30,9 +40,9 @@
   <!-- for shield items -->
   <ShieldPowerMax>100000</ShieldPowerMax>
   <ShieldRechargeDelay>5</ShieldRechargeDelay>
-  <ShieldRechargeRate>9200</ShieldRechargeRate>
-  <ShieldRadius>100</ShieldRadius>
-  <ShieldRechargeCombatRate>1300</ShieldRechargeCombatRate>
+  <ShieldRechargeRate>4200</ShieldRechargeRate>
+  <ShieldRadius>150</ShieldRadius>
+  <ShieldRechargeCombatRate>800</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.69</ShieldEnergyResist>
   <ShieldBeamResist>0.69</ShieldBeamResist>
   <ShieldKineticResist>0.67</ShieldKineticResist>

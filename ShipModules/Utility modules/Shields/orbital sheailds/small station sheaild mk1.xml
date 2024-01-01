@@ -13,7 +13,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
   <Cost>288</Cost>
-  <RepairDifficulty>12</RepairDifficulty>
+  <RepairDifficulty>9</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
   <ModuleType>Shield</ModuleType>
@@ -25,9 +25,9 @@
   <Restrictions>IO</Restrictions>
   <Name>small station sheaild mk1</Name>
   <IconTexturePath>Modules/small station sheaild mk1</IconTexturePath>
-  <Mass>11000</Mass>
-  <Health>96188</Health>
-  <HealthMax>96188</HealthMax>
+  <Mass>9000</Mass>
+  <Health>56188</Health>
+  <HealthMax>56188</HealthMax>
   <energyreq>0</energyreq>
   
   <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
@@ -39,14 +39,14 @@
   <DescriptionIndex>18705</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>209900</ShieldPowerMax>
+  <ShieldPowerMax>180000</ShieldPowerMax>
   <ShieldRechargeDelay>10</ShieldRechargeDelay>
-  <ShieldRechargeRate>8200</ShieldRechargeRate>
+  <ShieldRechargeRate>1200</ShieldRechargeRate>
   <ShieldRadius>340</ShieldRadius>
-  <ShieldRechargeCombatRate>1300</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>600</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.39</ShieldEnergyResist>
   <ShieldBeamResist>0.39</ShieldBeamResist>
-  <ShieldKineticResist>0.37</ShieldKineticResist>
-  <PlasmaResist>1.03</PlasmaResist>
-  <Deflection>50</Deflection>
+  <ShieldKineticResist>0.39</ShieldKineticResist>
+  <PlasmaResist>0.43</PlasmaResist>
+  <Deflection>20</Deflection>
 </ShipModule>

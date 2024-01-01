@@ -12,13 +12,13 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>288</Cost>
-  <RepairDifficulty>12</RepairDifficulty>
+  <Cost>488</Cost>
+  <RepairDifficulty>11</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
   <ModuleType>Shield</ModuleType>
-  <XSize>5</XSize>
-  <YSize>5</YSize>
+  <XSize>6</XSize>
+  <YSize>6</YSize>
   <UID>starbase sheailds</UID> 
   <Version>2</Version>
 
@@ -26,27 +26,27 @@
   <Name>starbase sheailds</Name>
   <IconTexturePath>Modules/starbase sheailds</IconTexturePath>
   <Mass>11000</Mass>
-  <Health>96188</Health>
-  <HealthMax>96188</HealthMax>
+  <Health>86188</Health>
+  <HealthMax>86188</HealthMax>
   <energyreq>0</energyreq>
   
   <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
   
   
-  <PowerDraw>900</PowerDraw>
+  <PowerDraw>1400</PowerDraw>
 
   <NameIndex>18706</NameIndex>
   <DescriptionIndex>18707</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>259900</ShieldPowerMax>
+  <ShieldPowerMax>310000</ShieldPowerMax>
   <ShieldRechargeDelay>10</ShieldRechargeDelay>
-  <ShieldRechargeRate>9200</ShieldRechargeRate>
-  <ShieldRadius>420</ShieldRadius>
-  <ShieldRechargeCombatRate>1300</ShieldRechargeCombatRate>
+  <ShieldRechargeRate>6200</ShieldRechargeRate>
+  <ShieldRadius>480</ShieldRadius>
+  <ShieldRechargeCombatRate>1000</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.59</ShieldEnergyResist>
-  <ShieldBeamResist>0.49</ShieldBeamResist>
-  <ShieldKineticResist>0.47</ShieldKineticResist>
-  <PlasmaResist>1.03</PlasmaResist>
+  <ShieldBeamResist>0.59</ShieldBeamResist>
+  <ShieldKineticResist>0.59</ShieldKineticResist>
+  <PlasmaResist>0.63</PlasmaResist>
   <Deflection>50</Deflection>
 </ShipModule>

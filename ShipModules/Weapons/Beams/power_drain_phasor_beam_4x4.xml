@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <UID>power drain phasor beam 4x4</UID> 
+  <UID>power_drain_phasor_beam_4x4</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
   <Cost>41</Cost>
@@ -10,17 +10,17 @@
 
   
   <!-- common traits shared by all ship modules -->
-  <XSize>4</XSize>
-  <YSize>4</YSize>
+  <XSize>3</XSize>
+  <YSize>8</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>Phasor Beam mk3</Name>
+  <Name>power_drain_phasor_beam_4x4</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/Phasor Beam mk3</IconTexturePath>3
 
 
-  <NameIndex>18596</NameIndex>
-  <DescriptionIndex>18597</DescriptionIndex>
+  <NameIndex>18595</NameIndex>
+  <DescriptionIndex> 18596</DescriptionIndex>
 
 
   <!-- Mass and Health -->

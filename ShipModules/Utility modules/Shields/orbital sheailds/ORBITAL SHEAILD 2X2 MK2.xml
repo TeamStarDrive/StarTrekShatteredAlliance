@@ -11,8 +11,8 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>288</Cost>
-  <RepairDifficulty>12</RepairDifficulty>
+  <Cost>128</Cost>
+  <RepairDifficulty>7</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
   <ModuleType>Shield</ModuleType>
@@ -24,25 +24,25 @@
   <Restrictions>IO</Restrictions>
   <Name>ORBITAL SHEAILD 2X2 MK2</Name>
   <IconTexturePath>Modules/ORBITAL SHEAILD 2X2 MK2</IconTexturePath>
-  <Mass>11000</Mass>
-  <Health>96188</Health>
-  <HealthMax>96188</HealthMax>
+  <Mass>6000</Mass>
+  <Health>56188</Health>
+  <HealthMax>56188</HealthMax>
   <energyreq>0</energyreq>
   
   <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
   
   
-  <PowerDraw>400</PowerDraw>
+  <PowerDraw>450</PowerDraw>
 
   <NameIndex>18752</NameIndex>
   <DescriptionIndex>18753</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>150000</ShieldPowerMax>
+  <ShieldPowerMax>70000</ShieldPowerMax>
   <ShieldRechargeDelay>5</ShieldRechargeDelay>
-  <ShieldRechargeRate>9200</ShieldRechargeRate>
-  <ShieldRadius>80</ShieldRadius>
-  <ShieldRechargeCombatRate>1300</ShieldRechargeCombatRate>
+  <ShieldRechargeRate>3200</ShieldRechargeRate>
+  <ShieldRadius>120</ShieldRadius>
+  <ShieldRechargeCombatRate>500</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.39</ShieldEnergyResist>
   <ShieldBeamResist>0.39</ShieldBeamResist>
   <ShieldKineticResist>0.37</ShieldKineticResist>
