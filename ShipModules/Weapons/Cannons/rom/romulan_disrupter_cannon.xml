@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <DroneModule>false</DroneModule>
+
+  <Cost>30</Cost>
+  <TechLevel>2</TechLevel>
+  <!-- common traits shared by all ship modules -->
+  <ModuleType>Turret</ModuleType>
+  <XSize>2</XSize>
+  <YSize>2</YSize>
+  <Name>romulan_disrupter_cannon</Name>
+  <Restrictions>O</Restrictions>
+  <UID>romulan_disrupter_cannon</UID>
+  <IconTexturePath>Modules/romulan_disrupter_cannon</IconTexturePath>
+  <Mass>12</Mass>
+  <Health>8375</Health>
+  <HealthMax>8375</HealthMax>
+  <energyreq>0</energyreq>
+  <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
+  </Description>
+  
+  
+  <PowerDraw>4</PowerDraw>
+
+  <NameIndex>18440</NameIndex>
+  <DescriptionIndex>18441</DescriptionIndex>
+
+
+  <!-- for shield items -->
+  
+  <ShieldPowerMax>0</ShieldPowerMax>
+  <ShieldRechargeDelay>0</ShieldRechargeDelay>
+  <ShieldRechargeRate>0</ShieldRechargeRate>
+  <ShieldRadius>0</ShieldRadius>
+  <radius>0</radius>
+
+  <!-- for PowerPlant Items -->
+  
+  <PowerFlowMax>0</PowerFlowMax>
+  <PowerStoreMax>0</PowerStoreMax>
+  
+  <!-- for Weapons -->
+  <WeaponType>romulan_disrupter_cannon</WeaponType>
+  <FieldOfFire>90</FieldOfFire>
+  <OrdinanceCapacity>0</OrdinanceCapacity>
+  
+  <!-- for Engines -->
+  <Thrust>0</Thrust>
+  
+  
+
+</ShipModule>

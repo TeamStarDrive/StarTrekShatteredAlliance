@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DroneModule>false</DroneModule>
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>true</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>false</PlatformModule>
+  <StationModule>false</StationModule>
+  
+  
+  <Cost>110</Cost>
+  <TechLevel>4</TechLevel>
+
+  <RepairDifficulty>4</RepairDifficulty>
+  <!-- common traits shared by all ship modules -->
+  <ModuleType>Shield</ModuleType>
+  <XSize>3</XSize>
+  <YSize>3</YSize>
+  <UID>advanced_crusier_sheaild</UID> 
+  <Version>2</Version>
+
+  <Restrictions>IO</Restrictions>
+  <Name>advanced_crusier_sheaild</Name>
+  <IconTexturePath>Modules/advanced_crusier_sheaild</IconTexturePath>
+  <Mass>91</Mass>
+  <Health>50200</Health>
+  <HealthMax>50200</HealthMax>
+  <energyreq>0</energyreq>
+  
+  <Description>This is a large shield that provides heavy protection at a heavy power cost</Description>
+  
+  
+  <PowerDraw>200</PowerDraw>
+
+  <NameIndex>18697</NameIndex>
+  <DescriptionIndex>18698</DescriptionIndex>
+
+  <!-- for shield items -->
+  <ShieldPowerMax>65000</ShieldPowerMax>
+  <ShieldRechargeDelay>13</ShieldRechargeDelay>
+  <ShieldRechargeRate>950.0</ShieldRechargeRate>
+  <ShieldRadius>270</ShieldRadius>
+  <ShieldRechargeCombatRate>450</ShieldRechargeCombatRate>
+  <ShieldEnergyResist>0.68</ShieldEnergyResist>
+  <ShieldBeamResist>0.60</ShieldBeamResist>
+  <ShieldKineticResist>-0.20</ShieldKineticResist>
+  <Deflection>140</Deflection>
+</ShipModule>

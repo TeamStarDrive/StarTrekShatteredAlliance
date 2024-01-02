@@ -23,12 +23,12 @@
     <XSize>1</XSize>
     <YSize>1</YSize>
     <ModuleType>Shield</ModuleType>
-    <Name>advanced fighter sheald Amplifier</Name>
+    <Name>advanced_fighter_sheald_Amplifier</Name>
     <Restrictions>I</Restrictions>
-    <UID>advanced fighter sheald Amplifier</UID> 
+    <UID>advanced_fighter_sheald_Amplifier</UID> 
   <Version>2</Version>
 
-    <IconTexturePath>Modules/advanced fighter sheald Amplifier</IconTexturePath>
+    <IconTexturePath>Modules/advanced_fighter_sheald_Amplifier</IconTexturePath>
     <NameIndex>18754</NameIndex>
     <DescriptionIndex>18755</DescriptionIndex>
     <!-- Mass and Health -->

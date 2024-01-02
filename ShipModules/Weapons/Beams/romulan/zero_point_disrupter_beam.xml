@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <UID>zero_point_disrupter_beam</UID> 
+  <Version>2</Version>
+  <OffPowerMod>0.35</OffPowerMod>
+  <Cost>21</Cost>
+  <!-- Tech Level Used by AI for Upgrading Ships -->
+  <TechLevel>2</TechLevel>
+
+  
+  <!-- common traits shared by all ship modules -->
+  <XSize>3</XSize>
+  <YSize>6</YSize>
+  <ModuleType>Turret</ModuleType>
+  <Name>zero_point_disrupter_beam</Name>
+  <Restrictions>O</Restrictions>
+
+  <IconTexturePath>Modules/zero_point_disrupter_beam</IconTexturePath>3
+
+
+  <NameIndex>18620</NameIndex>
+  <DescriptionIndex>18621</DescriptionIndex>
+
+
+  <!-- Mass and Health -->
+  <Mass>8</Mass>
+  <Health>8120</Health>
+  <HealthMax>8120</HealthMax>
+
+  <!-- Power Drawn -->
+  <PowerDraw>5</PowerDraw>
+
+  <!-- for Weapons -->
+  <WeaponType>zero_point_disrupter_beam</WeaponType>
+  <FieldOfFire>15</FieldOfFire>
+
+  <!-- Description -->
+  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  
+
+</ShipModule>

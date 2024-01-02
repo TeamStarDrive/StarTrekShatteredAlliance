@@ -11,7 +11,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>1KW Shield</Name>
+  <Name>1KW_Shield</Name>
   <Restrictions>IO</Restrictions>
   <UID>Shield_1KW</UID> 
   <Version>2</Version>

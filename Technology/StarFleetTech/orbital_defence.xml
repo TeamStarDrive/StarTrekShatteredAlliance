@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UID>orbital_defence</UID>
+  <TechnologyType>ShipWeapons</TechnologyType>
+  <Cost>190</Cost>
+  <Name>orbital defence</Name>
+  <NameIndex>18488</NameIndex>
+  <DescriptionIndex>18489</DescriptionIndex>
+  <IconPath>icons_techroot_energy</IconPath>
+  <LongDescription>Our most massive ships can deploy frigate-sized vessels from these gargantuan berths.  When these "battle raiders" are destroyed, however, there is no respawn until the mothership returns to a shipyard for resupply. </LongDescription>
+  <LeadsTo>
+  <LeadsToTech>
+      <UID>orbital_defence_mk2</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>orbital_weapons_platform</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

@@ -15,7 +15,7 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>10KW Shield</Name>
+  <Name>10KW_Shield</Name>
   <IconTexturePath>Modules/shield_3x3</IconTexturePath>
   <Mass>81</Mass>
   <Health>14200</Health>

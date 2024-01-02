@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DroneModule>false</DroneModule>
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>
+  <UID>station_phasor_beem_mk1</UID> 
+  <Version>2</Version>
+  <OffPowerMod>0.35</OffPowerMod>
+  <Cost>21</Cost>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>
+  <!-- Tech Level Used by AI for Upgrading Ships -->
+  <TechLevel>2</TechLevel>
+
+  
+  <!-- common traits shared by all ship modules -->
+  <XSize>2</XSize>
+  <YSize>2</YSize>
+  <ModuleType>Turret</ModuleType>
+  <Name>station_phasor_beem_mk1</Name>
+  <Restrictions>O</Restrictions>
+
+  <IconTexturePath>Modules/station_phasor_beem_mk1</IconTexturePath>3
+
+
+  <NameIndex>18446</NameIndex>
+  <DescriptionIndex>18447</DescriptionIndex>
+
+
+  <!-- Mass and Health -->
+  <Mass>8000</Mass>
+  <Health>10120</Health>
+  <HealthMax>10120</HealthMax>
+
+  <!-- Power Drawn -->
+  <PowerDraw>5</PowerDraw>
+
+  <!-- for Weapons -->
+  <WeaponType>station_phasor_beem_mk1</WeaponType>
+  <FieldOfFire>360</FieldOfFire>
+
+  <!-- Description -->
+  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  
+
+</ShipModule>

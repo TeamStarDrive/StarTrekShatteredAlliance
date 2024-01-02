@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DroneModule>false</DroneModule>
+  <FighterModule>true</FighterModule>
+  <CorvetteModule>true</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>false</StationModule>
+  
+  
+  <Cost>17</Cost>
+  <!-- Tech Level Used by AI for Upgrading Ships -->
+  <TechLevel>4</TechLevel>
+  <RepairDifficulty>2</RepairDifficulty>
+  <!-- common traits shared by all ship modules -->
+
+  <ModuleType>Shield</ModuleType>
+  <XSize>1</XSize>
+  <YSize>2</YSize>
+  <Name>transphasic_fighter_shealds</Name>
+  <Restrictions>IO</Restrictions>
+  <UID>transphasic_fighter_shealds</UID> 
+  <Version>2</Version>
+
+  <IconTexturePath>Modules/transphasic_fighter_shealds</IconTexturePath>
+  <Mass>12</Mass>
+  <Health>4800</Health>
+  <HealthMax>4800</HealthMax>
+  <energyreq>0</energyreq>
+  
+  <Description>This shield has a decent sized protection radius but is only capable of taking a few hits. However it does have a quick recharge rate.</Description>
+  
+  
+  <PowerDraw>60</PowerDraw>
+
+  <NameIndex>18691</NameIndex>
+  <DescriptionIndex>18692</DescriptionIndex>
+
+  <!-- for shield items -->
+  <ShieldPowerMax>15000</ShieldPowerMax>
+  <ShieldRechargeDelay>3</ShieldRechargeDelay>
+  <ShieldRechargeRate>155</ShieldRechargeRate>
+  <ShieldRechargeCombatRate>160</ShieldRechargeCombatRate>
+  <ShieldRadius>75</ShieldRadius>
+  <ShieldEnergyResist>0.79</ShieldEnergyResist>
+  <ShieldBeamResist>0.79</ShieldBeamResist>
+  <ShieldKineticResist>-0.1</ShieldKineticResist>
+</ShipModule>

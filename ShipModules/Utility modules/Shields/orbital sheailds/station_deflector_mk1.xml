@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DroneModule>false</DroneModule>
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>
+  <Cost>388</Cost>
+  <RepairDifficulty>10</RepairDifficulty>
+  
+  <!-- common traits shared by all ship modules -->
+  <ModuleType>Shield</ModuleType>
+  <XSize>5</XSize>
+  <YSize>5</YSize>
+  <UID>station_deflector_mk1</UID> 
+  <Version>2</Version>
+
+  <Restrictions>IO</Restrictions>
+  <Name>station_deflector_mk1</Name>
+  <IconTexturePath>Modules/station_deflector_mk1</IconTexturePath>
+  <Mass>10000</Mass>
+  <Health>76188</Health>
+  <HealthMax>76188</HealthMax>
+  <energyreq>0</energyreq>
+  
+  <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
+  
+  
+  <PowerDraw>1200</PowerDraw>
+
+  <NameIndex>18702</NameIndex>
+  <DescriptionIndex>18703</DescriptionIndex>
+
+  <!-- for shield items -->
+  <ShieldPowerMax>220000</ShieldPowerMax>
+  <ShieldRechargeDelay>10</ShieldRechargeDelay>
+  <ShieldRechargeRate>3200</ShieldRechargeRate>
+  <ShieldRadius>400</ShieldRadius>
+  <ShieldRechargeCombatRate>900</ShieldRechargeCombatRate>
+  <ShieldEnergyResist>0.49</ShieldEnergyResist>
+  <ShieldBeamResist>0.49</ShieldBeamResist>
+  <ShieldKineticResist>0.49</ShieldKineticResist>
+  <PlasmaResist>0.53</PlasmaResist>
+  <Deflection>30</Deflection>
+</ShipModule>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Tag_Beam>true</Tag_Beam>
+
+  <UID>borg_holding_beam_mk2</UID>
+  <IsBeam>true</IsBeam>
+  <FireDelay>7</FireDelay>
+  <Range>8000</Range>
+  <PowerRequiredToFire>70</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
+  <BeamDuration>2</BeamDuration>
+  <!-- name of XACT audio cue to play on firing this weapon -->
+
+
+  <ToggleSoundName>sd_weapon_beam_fusion_med</ToggleSoundName>
+  
+  
+  <!-- Projectile Information -->
+  <RepulsionDamage>14000</RepulsionDamage>
+  <RepulsionDamage>100</RepulsionDamage>
+  <EffectVsShields>30</EffectVsShields>
+  <PowerDamage>2500</PowerDamage>
+  <SiphonDamage>700</SiphonDamage>
+  <TroopDamageChance>7</TroopDamageChance>
+  <EMPDamage>250</EMPDamage>
+  <ShieldPenChance>100</ShieldPenChance>
+  <BeamTexture>borg_holdingbeam</BeamTexture>
+  <DamageAmount>6</DamageAmount>
+  <BeamThickness>54</BeamThickness>
+  <BeamPowerCostPerSecond>1020</BeamPowerCostPerSecond>
+  <WeaponRotation>3</WeaponRotation>
+  <OffPowerMod>0.01</OffPowerMod>
+
+  <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
+  <WeaponType>Energy Beam</WeaponType>
+  <WeaponHitEffect>Beam_Hit_Armor</WeaponHitEffect>
+  <WeaponShieldHitEffect>Beam_Hit_Shield</WeaponShieldHitEffect>
+  <WeaponDeathEffect></WeaponDeathEffect>
+
+  
+</Weapon>

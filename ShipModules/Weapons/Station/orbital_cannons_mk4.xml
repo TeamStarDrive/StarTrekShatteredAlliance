@@ -1,0 +1,62 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DroneModule>false</DroneModule>
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>
+
+  <Cost>130</Cost>
+  <TechLevel>6</TechLevel>
+  <!-- common traits shared by all ship modules -->
+  <ModuleType>Turret</ModuleType>
+  <XSize>5</XSize>
+  <YSize>5</YSize>
+  <Name>orbital_cannons_mk4</Name>
+  <Restrictions>O</Restrictions>
+  <UID>orbital_cannons_mk4</UID>
+  <IconTexturePath>Modules/orbital_cannons_mk4</IconTexturePath>
+  <Mass>50000</Mass>
+  <Health>18612</Health>
+  <HealthMax>18612</HealthMax>
+  <energyreq>0</energyreq>
+  <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
+  </Description>
+  
+  
+  <PowerDraw>60</PowerDraw>
+
+  <NameIndex>18614</NameIndex>
+  <DescriptionIndex>18615</DescriptionIndex>
+
+
+  <!-- for shield items -->
+  
+  <ShieldPowerMax>40000</ShieldPowerMax>
+  <ShieldRechargeDelay>100</ShieldRechargeDelay>
+  <ShieldRechargeRate>50</ShieldRechargeRate>
+  <ShieldRadius>80</ShieldRadius>
+  <radius>0</radius>
+
+  <!-- for PowerPlant Items -->
+  
+  <PowerFlowMax>0</PowerFlowMax>
+  <PowerStoreMax>0</PowerStoreMax>
+  
+  <!-- for Weapons -->
+  <WeaponType>Fed_PhaserCannon_3x3</WeaponType>
+  <FieldOfFire>360</FieldOfFire>
+  <OrdinanceCapacity>0</OrdinanceCapacity>
+  
+  <!-- for Engines -->
+  <Thrust>0</Thrust>
+  
+  
+
+</ShipModule>

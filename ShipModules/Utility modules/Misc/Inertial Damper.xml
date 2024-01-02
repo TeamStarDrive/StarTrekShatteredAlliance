@@ -13,9 +13,9 @@
   <XSize>2</XSize>
   <YSize>2</YSize>
   <ModuleType>Special</ModuleType>
-  <Name>Inertial Damper</Name>
+  <Name>Inertial_Damper</Name>
   <Restrictions>I</Restrictions>
-  <UID>Inertial Damper</UID>
+  <UID>Inertial_Damper</UID>
   <IconTexturePath>Modules/Inertial Dampener</IconTexturePath>
   <Mass>-200</Mass>
   <Health>3000</Health>
