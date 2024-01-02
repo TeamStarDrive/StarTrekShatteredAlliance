@@ -16,7 +16,7 @@
   <Name>power_drain_phasor_beam_4x4</Name>
   <Restrictions>O</Restrictions>
 
-  <IconTexturePath>Modules/Phasor Beam mk3</IconTexturePath>3
+  <IconTexturePath>Modules/power_drain_phasor_beam_4x4</IconTexturePath>3
 
 
   <NameIndex>18595</NameIndex>

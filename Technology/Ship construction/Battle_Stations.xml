@@ -12,7 +12,7 @@
       <ModuleUID>Aegis</ModuleUID>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>crusier dock</ModuleUID>
+      <ModuleUID>crusier_dock</ModuleUID>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

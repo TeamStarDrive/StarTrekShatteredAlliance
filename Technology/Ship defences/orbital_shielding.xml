@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>orbital_shielding</UID>
+  <TechnologyType>ShipDefense</TechnologyType>
+  <Cost>750</Cost>
+  <NameIndex>18552</NameIndex>
+  <DescriptionIndex>18553</DescriptionIndex>
+  <LeadsTo>
+     <LeadsToTech>
+      <UID>space_station_sheailds</UID>
+    </LeadsToTech>
+	     <LeadsToTech>
+      <UID>hevey_orbital_sheailds</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked>
+  	<UnlockedMod>
+      <ModuleUID>small_station_sheaild_mk1</ModuleUID>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>ORBITAL_SHEAILD_2X2</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

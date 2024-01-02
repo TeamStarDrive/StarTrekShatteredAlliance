@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>advanced_fighter_sheald_Amplifier</UID>
+  <TechnologyType>ShipGeneral</TechnologyType>
+  <Cost>4650</Cost>
+  <NameIndex>18544</NameIndex>
+  <DescriptionIndex>18545</DescriptionIndex>
+  <LeadsTo>
+  </LeadsTo>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>advanced_fighter_sheald_Amplifier</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

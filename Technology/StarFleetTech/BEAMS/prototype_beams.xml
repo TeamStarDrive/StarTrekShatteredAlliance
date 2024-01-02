@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UID>prototype_beams</UID>
+  <TechnologyType>ShipWeapons</TechnologyType>
+  <Cost>3100</Cost>
+  <Name>prototype beams</Name>
+  <NameIndex>18520</NameIndex>
+  <DescriptionIndex>18521</DescriptionIndex>
+  <IconPath>icons_techroot_energy</IconPath>
+  <LongDescription>Our most massive ships can deploy frigate-sized vessels from these gargantuan berths.  When these "battle raiders" are destroyed, however, there is no respawn until the mothership returns to a shipyard for resupply. </LongDescription>
+    <LeadsTo />
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>advanced_prototype_beams</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>borg_holding_beam_mk3</ModuleUID>
+      <Type>FreeBorg</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>cutting_beam_mk3</ModuleUID>
+      <Type>FreeBorg</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>power_drain_phasor_beam</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>18596</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>fighter_power_drain_phasor</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>romulan_disrupter_beam_mk4</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>cardasian_prototype_beam</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+		<UnlockedMod>
+      <ModuleUID>cardasian_fighter_beam</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>romulan_fighter_disrupter_beam</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Klingon_kenetic_disrupter</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Klingon_fighter_kenetic_disrupter</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk4</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk3</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk4</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk4</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk4</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk4</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk4</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk4</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

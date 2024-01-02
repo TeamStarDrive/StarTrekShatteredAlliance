@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>biomechinal_armour</UID>
+  <TechnologyType>ShipDefense</TechnologyType>
+  <Cost>10570</Cost>
+  <NameIndex>18570</NameIndex>
+  <DescriptionIndex>18571</DescriptionIndex>
+  <LeadsTo>
+  </LeadsTo>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>ablative_ship_armor_Small</ModuleUID>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>ablative_ship_armor_med</ModuleUID>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>ablative_ship_armor_large</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

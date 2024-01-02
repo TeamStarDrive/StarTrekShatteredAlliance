@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Corvettes_2</UID>
+  <TechnologyType>ShipHull</TechnologyType>
+  <Cost>600</Cost>
+  <NameIndex>18526</NameIndex>
+  <DescriptionIndex>18527</DescriptionIndex>
+  <LeadsTo>
+  	<LeadsToTech>
+      <UID>FrigateConstruction_2</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked />
+  <BuildingsUnlocked />
+  <BonusUnlocked>
+  </BonusUnlocked>
+  <TroopsUnlocked />
+  <HullsUnlocked>
+    <UnlockedHull>
+      <Name>Vulfen/Type V</Name>
+      <ShipType>Vulfen</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Terran/Fed_Defiant</Name>
+      <ShipType>fed</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>Romulan/V1 Starglider</Name>
+      <ShipType>Romulan</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>Romulan/Rom_V11Stormbird</Name>
+      <ShipType>Romulan</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Romulan/Rom_V8Warbird</Name>
+      <ShipType>Romulan</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Klingon/Kling_L24KomoVal</Name>
+      <ShipType>Klingon</ShipType>
+    </UnlockedHull>
+	  <UnlockedHull>
+      <Name>Klingon/Kling_D11OneWing</Name>
+      <ShipType>Klingon</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>FreeBorg/Borg_Scout</Name>
+      <ShipType>FreeBorg</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>Cardassia/Car_Kimal</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Cardassia/Car_Norin</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
+      <UnlockedHull>
+      <Name>Terran/Seeker</Name>
+      <ShipType>Terran</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Cordrazine/Sitving</Name>
+      <ShipType>Cordrazine</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Draylok/Astarte</Name>
+      <ShipType>Draylok</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Kulrathi/Pitsaw</Name>
+      <ShipType>Kulrathi</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Opteris/Worker10</Name>
+      <ShipType>Opteris</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Pollops/Coppice</Name>
+      <ShipType>Pollops</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Ralyeh/Priest</Name>
+      <ShipType>Ralyeh</ShipType>
+    </UnlockedHull>
+  </HullsUnlocked>
+</Technology>

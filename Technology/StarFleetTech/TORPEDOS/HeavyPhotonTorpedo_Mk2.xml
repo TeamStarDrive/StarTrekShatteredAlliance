@@ -8,7 +8,7 @@
   <DescriptionIndex>18369</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
-      <UID>Prototype Weapons</UID>
+      <UID>Prototype_Weapons</UID>
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
@@ -21,7 +21,7 @@
       <Type>Klingon</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>borg hevey torp mk2</ModuleUID>
+      <ModuleUID>borg_hevey_torp_mk2</ModuleUID>
       <Type>FreeBorg</Type>
     </UnlockedMod>
 	<UnlockedMod>
@@ -29,15 +29,15 @@
       <Type>Cardassia</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>hevey torpedo mk2</ModuleUID>
+      <ModuleUID>hevey_torpedo_mk2</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>hevey torpedo mk2</ModuleUID>
+      <ModuleUID>hevey_torpedo_mk2</ModuleUID>
       <Type>Terran</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>hevey torpedo mk2</ModuleUID>
+      <ModuleUID>hevey_torpedo_mk2</ModuleUID>
       <Type>Vulfen</Type>
     </UnlockedMod>
   </ModulesUnlocked>

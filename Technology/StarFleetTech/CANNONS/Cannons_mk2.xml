@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Cannons_mk2</UID>
+  <TechnologyType>ShipWeapons</TechnologyType>
+  <Cost>2060</Cost>
+  <NameIndex>18374</NameIndex>
+  <DescriptionIndex>18375</DescriptionIndex>
+  <LongDescription> resupply. </LongDescription>
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>Cannons_mk3</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>Fed_PhaserCannon_3x3</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Kling_DisruptorCannonMk2</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Car_DisruptorCannonMk2</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>romulan_disrupter_cannon_mk2</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>borg_gravametric_cannon_mk2</ModuleUID>
+      <Type>FreeBorg</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>phased_cannon_mk2</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>phased_cannon_mk2</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>phased_cannon_mk2</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>phased_cannon_mk2</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>phased_cannon_mk2</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>phased_cannon_mk2</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>phased_cannon_mk2</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>phased_cannon_mk2</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

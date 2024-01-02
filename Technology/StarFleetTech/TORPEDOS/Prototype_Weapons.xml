@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Prototype_Weapons</UID>
+  <TechnologyType>TechIcons_Fed_photonstorm</TechnologyType>
+  <Cost>7860</Cost>
+  <NameIndex>18640</NameIndex>
+  <DescriptionIndex>18641</DescriptionIndex>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>Fed_Photonstorm</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>singlarity_torpedo</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Klingon_cloaked_torpedo</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Car_PhotonTorpedoMk2</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>gravametric_torpedo_mk3</ModuleUID>
+      <Type>FreeBorg</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>torpedo_BARAGE</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>torpedo_BARAGE</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>torpedo_BARAGE</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>torpedo_BARAGE</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>torpedo_BARAGE</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>torpedo_BARAGE</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>torpedo_BARAGE</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>torpedo_BARAGE</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

@@ -3,7 +3,7 @@
 
   <Tag_Beam>true</Tag_Beam>
 
-  <UID>power_drain_phasor_beam_4X4</UID>
+  <UID>power_drain_phasor_beam_4x4</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>2</FireDelay>
   <Range>9000</Range>

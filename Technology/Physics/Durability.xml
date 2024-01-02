@@ -7,7 +7,11 @@
   <MaxLevel>10</MaxLevel>
   <NameIndex>17645</NameIndex>
   <DescriptionIndex>17646</DescriptionIndex>
-  <LeadsTo />
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>Nanoweave Metallurgy</UID>
+    </LeadsToTech>
+  </LeadsTo>
   <ModulesUnlocked />
   <BuildingsUnlocked />
   <BonusUnlocked>

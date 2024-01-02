@@ -16,7 +16,7 @@
   <Version>2</Version>
 
   <TexturePath>Textures/transparent</TexturePath>
-  <IconTexturePath>Modules/small antimatter reactor</IconTexturePath>
+  <IconTexturePath>Modules/small_antimatter_reactor</IconTexturePath>
   <Mass>6</Mass>
   <Health>1200</Health>
   <HealthMax>1200</HealthMax>

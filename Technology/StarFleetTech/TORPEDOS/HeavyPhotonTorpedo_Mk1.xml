@@ -21,7 +21,7 @@
       <Type>Klingon</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>borg hevey torp mk1</ModuleUID>
+      <ModuleUID>borg_hevey_torp_mk1</ModuleUID>
       <Type>FreeBorg</Type>
     </UnlockedMod>
 	<UnlockedMod>
@@ -29,43 +29,43 @@
       <Type>Cardassia</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>hevey torpedo mk1</ModuleUID>
+      <ModuleUID>hevey_torpedo_mk1</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>hevey torpedo mk1</ModuleUID>
+      <ModuleUID>hevey_torpedo_mk1</ModuleUID>
       <Type>Vulfen</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>hevey torpedo mk1</ModuleUID>
+      <ModuleUID>hevey_torpedo_mk1</ModuleUID>
       <Type>Cordrazine</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>hevey torpedo mk1</ModuleUID>
+      <ModuleUID>hevey_torpedo_mk1</ModuleUID>
       <Type>Draylok</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>hevey torpedo mk1</ModuleUID>
+      <ModuleUID>hevey_torpedo_mk1</ModuleUID>
       <Type>Kulrathi</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>hevey torpedo mk1</ModuleUID>
+      <ModuleUID>hevey_torpedo_mk1</ModuleUID>
       <Type>Opteris</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>hevey torpedo mk1</ModuleUID>
+      <ModuleUID>hevey_torpedo_mk1</ModuleUID>
       <Type>Pollops</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>hevey torpedo mk1</ModuleUID>
+      <ModuleUID>hevey_torpedo_mk1</ModuleUID>
       <Type>Ralyeh</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>hevey torpedo mk1</ModuleUID>
+      <ModuleUID>hevey_torpedo_mk1</ModuleUID>
       <Type>Terran</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>torpedo bomb mk1</ModuleUID>
+      <ModuleUID>torpedo_bomb_mk1</ModuleUID>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

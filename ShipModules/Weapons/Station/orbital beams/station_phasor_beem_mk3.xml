@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <UID>station_phasorbeem_mk3</UID> 
+  <UID>station_phasor_beem_mk3</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
   <Cost>21</Cost>

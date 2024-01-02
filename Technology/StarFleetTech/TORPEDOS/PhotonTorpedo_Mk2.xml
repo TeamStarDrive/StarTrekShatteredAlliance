@@ -11,7 +11,7 @@
       <UID>HeavyPhotonTorpedo_Mk1</UID>
     </LeadsToTech>
 	<LeadsToTech>
-      <UID>Advanced Torpedos</UID>
+      <UID>Advanced_Torpedos</UID>
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
@@ -24,7 +24,7 @@
       <Type>Klingon</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>borg torpedo mk2</ModuleUID>
+      <ModuleUID>borg_torpedo_mk2</ModuleUID>
       <Type>FreeBorg</Type>
     </UnlockedMod>
 	<UnlockedMod>
@@ -32,43 +32,43 @@
       <Type>Cardassia</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>micro torpedo</ModuleUID>
+      <ModuleUID>micro_torpedo</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>torpedo mk2</ModuleUID>
+      <ModuleUID>torpedo_mk2</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk2</ModuleUID>
+      <ModuleUID>energy_torpedo_mk2</ModuleUID>
       <Type>Vulfen</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk2</ModuleUID>
+      <ModuleUID>energy_torpedo_mk2</ModuleUID>
       <Type>Cordrazine</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk2</ModuleUID>
+      <ModuleUID>energy_torpedo_mk2</ModuleUID>
       <Type>Draylok</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk2</ModuleUID>
+      <ModuleUID>energy_torpedo_mk2</ModuleUID>
       <Type>Kulrathi</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk2</ModuleUID>
+      <ModuleUID>energy_torpedo_mk2</ModuleUID>
       <Type>Opteris</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk2</ModuleUID>
+      <ModuleUID>energy_torpedo_mk2</ModuleUID>
       <Type>Pollops</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk2</ModuleUID>
+      <ModuleUID>energy_torpedo_mk2</ModuleUID>
       <Type>Ralyeh</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk2</ModuleUID>
+      <ModuleUID>energy_torpedo_mk2</ModuleUID>
       <Type>Terran</Type>
     </UnlockedMod>
   </ModulesUnlocked>

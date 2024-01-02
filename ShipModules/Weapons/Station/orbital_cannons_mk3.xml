@@ -21,7 +21,7 @@
   <Name>orbital_cannons_mk3</Name>
   <Restrictions>O</Restrictions>
   <UID>orbital_cannons_mk3</UID>
-  <IconTexturePath>Modules/orbital_cannons mk3</IconTexturePath>
+  <IconTexturePath>Modules/orbital_cannons_mk3</IconTexturePath>
   <Mass>50000</Mass>
   <Health>18612</Health>
   <HealthMax>18612</HealthMax>

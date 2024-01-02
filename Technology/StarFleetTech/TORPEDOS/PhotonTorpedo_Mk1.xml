@@ -17,7 +17,7 @@
       <Type>fed</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>borg torpedo</ModuleUID>
+      <ModuleUID>borg_torpedo</ModuleUID>
       <Type>FreeBorg</Type>
     </UnlockedMod>
 	<UnlockedMod>
@@ -33,35 +33,35 @@
       <Type>Romulan</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <ModuleUID>energy_torpedo_mk1</ModuleUID>
       <Type>Vulfen</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <ModuleUID>energy_torpedo_mk1</ModuleUID>
       <Type>Cordrazine</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <ModuleUID>energy_torpedo_mk1</ModuleUID>
       <Type>Draylok</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <ModuleUID>energy_torpedo_mk1</ModuleUID>
       <Type>Kulrathi</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <ModuleUID>energy_torpedo_mk1</ModuleUID>
       <Type>Opteris</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <ModuleUID>energy_torpedo_mk1</ModuleUID>
       <Type>Pollops</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <ModuleUID>energy_torpedo_mk1</ModuleUID>
       <Type>Ralyeh</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy torpedo mk1</ModuleUID>
+      <ModuleUID>energy_torpedo_mk1</ModuleUID>
       <Type>Terran</Type>
     </UnlockedMod>
   </ModulesUnlocked>

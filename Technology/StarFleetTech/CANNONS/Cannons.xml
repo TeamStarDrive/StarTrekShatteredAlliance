@@ -9,7 +9,7 @@
   <LongDescription> resupply. </LongDescription>
   <LeadsTo>
     <LeadsToTech>
-      <UID>Cannons mk2</UID>
+      <UID>Cannons_mk2</UID>
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
@@ -26,43 +26,43 @@
       <Type>Cardassia</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>romulan disrupter cannon</ModuleUID>
+      <ModuleUID>romulan_disrupter_cannon</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>borg gravametric cannon mk1</ModuleUID>
+      <ModuleUID>borg_gravametric_cannon_mk1</ModuleUID>
       <Type>FreeBorg</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>phased cannon</ModuleUID>
+      <ModuleUID>phased_cannon</ModuleUID>
       <Type>Vulfen</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>phased cannon</ModuleUID>
+      <ModuleUID>phased_cannon</ModuleUID>
       <Type>Cordrazine</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>phased cannon</ModuleUID>
+      <ModuleUID>phased_cannon</ModuleUID>
       <Type>Draylok</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>phased cannon</ModuleUID>
+      <ModuleUID>phased_cannon</ModuleUID>
       <Type>Kulrathi</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>phased cannon</ModuleUID>
+      <ModuleUID>phased_cannon</ModuleUID>
       <Type>Opteris</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>phased cannon</ModuleUID>
+      <ModuleUID>phased_cannon</ModuleUID>
       <Type>Pollops</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>phased cannon</ModuleUID>
+      <ModuleUID>phased_cannon</ModuleUID>
       <Type>Ralyeh</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>phased cannon</ModuleUID>
+      <ModuleUID>phased_cannon</ModuleUID>
       <Type>Terran</Type>
     </UnlockedMod>
   </ModulesUnlocked>

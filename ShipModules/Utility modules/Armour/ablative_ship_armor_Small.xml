@@ -1,0 +1,55 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Cost>5</Cost>
+  <DroneModule>true</DroneModule>
+  <FighterModule>true</FighterModule>
+  <CorvetteModule>true</CorvetteModule>
+  <FrigateModule>true</FrigateModule>
+  <DestroyerModule>true</DestroyerModule>
+  <CruiserModule>true</CruiserModule>
+  <CarrierModule>true</CarrierModule>
+  <CapitalModule>true</CapitalModule>
+  
+  <FreighterModule>true</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>  
+  <!-- Tech Level -->
+  <TechLevel>5</TechLevel>
+  <TechBranch>Armor</TechBranch>
+
+  <!-- common traits shared by all ship modules -->
+  <XSize>1</XSize>
+  <YSize>1</YSize>
+  <ModuleType>Armor</ModuleType>
+  <Name>ablative ship armor Small</Name>
+  <Restrictions>O</Restrictions>
+  <UID>ablative_ship_armor_Small</UID> 
+  <Version>2</Version>
+
+  <TexturePath>Textures/transparent</TexturePath>
+  <IconTexturePath>Modules/ablative ship armor Small</IconTexturePath>
+
+
+  <NameIndex>18732</NameIndex>
+  <DescriptionIndex>18733</DescriptionIndex>
+
+
+  <!-- Mass and Health -->
+  <Mass>10469</Mass>
+  <Health>16469</Health>
+  <HealthMax>16469</HealthMax>
+  <RepairDifficulty>1.5</RepairDifficulty>
+  <Deflection>60</Deflection>              
+  <!-- Armor resistance -->
+  <KineticResist>0.10</KineticResist>
+  <EnergyResist>0.10</EnergyResist>  
+  <BeamResist>0.10</BeamResist>
+  <ExplosiveResist>0.10</ExplosiveResist>      
+  <PlasmaResist>0.03</PlasmaResist>
+
+  <!-- Description -->
+  <Description>Through using Crystal materials, the mass of armor has been greatly decreased. </Description>
+  <APResist>2</APResist>  
+
+</ShipModule>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Advanced_Torpedos</UID>
+  <TechnologyType>TechIcons_Fed_QuantumTorpedo_Mk1</TechnologyType>
+  <Cost>3860</Cost>
+  <NameIndex>18364</NameIndex>
+  <DescriptionIndex>18365</DescriptionIndex>
+  <LeadsTo />
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>Advanced_Torpedos_mk2</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>Fed_QuantumTorpedo_Mk1</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Kling_TriTorpedoMk1</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>gravametric_torpedo</ModuleUID>
+      <Type>FreeBorg</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>Car_PhotonTorpedoMk3</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>plasma_torpedo</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced_energy_torpoedo</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced_energy_torpoedo</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced_energy_torpoedo</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced_energy_torpoedo</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced_energy_torpoedo</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced_energy_torpoedo</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced_energy_torpoedo</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced_energy_torpoedo</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

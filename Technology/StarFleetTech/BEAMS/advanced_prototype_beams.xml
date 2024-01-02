@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UID>advanced_prototype_beams</UID>
+  <TechnologyType>ShipWeapons</TechnologyType>
+  <Cost>6000</Cost>
+  <Name>advanced_prototype_beams</Name>
+  <NameIndex>18522</NameIndex>
+  <DescriptionIndex>18523</DescriptionIndex>
+  <IconPath>icons_techroot_energy</IconPath>
+  <LongDescription>Our most massive ships can deploy frigate-sized vessels from these gargantuan berths.  When these "battle raiders" are destroyed, however, there is no respawn until the mothership returns to a shipyard for resupply. </LongDescription>
+  <LeadsTo>
+  </LeadsTo>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>modulated_phasor</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>zero_point_disrupter_beam</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>trifocused_disrupter_beam</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>ADVANCED_cardasian_prototype_beam</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>borg_gravametric_distortion_beam</ModuleUID>
+      <Type>FreeBorg</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk5</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk5</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk5</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk5</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk5</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk5</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk5</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>particalPhasor_beam_mk5</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

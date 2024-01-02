@@ -10,7 +10,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Small Steel Armor</Name>
+  <Name>Small_Steel_Armor</Name>
   <Restrictions>O</Restrictions>
   <UID>SteelArmorSmall</UID> 
   <Version>2</Version>

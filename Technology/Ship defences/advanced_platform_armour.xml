@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>advanced_platform_armour</UID>
+  <TechnologyType>ShipDefense</TechnologyType>
+  <Cost>3100</Cost>
+  <NameIndex>18564</NameIndex>
+  <DescriptionIndex>18565</DescriptionIndex>
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>prototype_platform_armour</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>Organic_Bioplates_Small</ModuleUID>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Organic_Bioplates_Med</ModuleUID>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Organic_Bioplates_Large</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

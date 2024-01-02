@@ -10,8 +10,9 @@
     <LeadsToTech>
       <UID>CeramicArmor</UID>
     </LeadsToTech>
+
 	<LeadsToTech>
-      <UID>platform armour</UID>
+      <UID>platform_armour</UID>
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>

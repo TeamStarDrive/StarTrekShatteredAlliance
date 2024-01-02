@@ -8,7 +8,7 @@
   <DescriptionIndex>588</DescriptionIndex>
   <LeadsTo>
       <LeadsToTech>
-      <UID>frigate shealds</UID>
+      <UID>frigate_shealds</UID>
     </LeadsToTech>
     <LeadsToTech>
       <UID>ArmoredShield</UID>
@@ -22,7 +22,7 @@
       <ModuleUID>Shield_10KW</ModuleUID>
     </UnlockedMod>
     <UnlockedMod>
-      <ModuleUID>freighter sheaild</ModuleUID>
+      <ModuleUID>freighter_sheaild</ModuleUID>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

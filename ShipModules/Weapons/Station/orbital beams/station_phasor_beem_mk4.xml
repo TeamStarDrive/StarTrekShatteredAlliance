@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <UID>station phasor beem mk4</UID> 
+  <UID>station_phasor_beem_mk4</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
   <Cost>21</Cost>
@@ -28,7 +28,7 @@
   <Name>station_phasor_beem_mk4</Name>
   <Restrictions>O</Restrictions>
 
-  <IconTexturePath>Modules/station_phasor_beem_mk3</IconTexturePath>3
+  <IconTexturePath>Modules/station_phasor_beem_mk4</IconTexturePath>3
 
 
   <NameIndex>18616</NameIndex>

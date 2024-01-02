@@ -19,7 +19,7 @@
   
   <ExcludesFighters>false</ExcludesFighters>  
 
-  <UID>Phasor_Beam mk1</UID>
+  <UID>Phasor_Beam_mk1</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>5</FireDelay>
   <Range>7000</Range>

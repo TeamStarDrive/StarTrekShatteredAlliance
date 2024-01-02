@@ -29,7 +29,7 @@
   <PowerDraw>5</PowerDraw>
 
   <!-- for Weapons -->
-  <WeaponType>tractorbeam mk1</WeaponType>
+  <WeaponType>tractorbeam_mk1</WeaponType>
   <FieldOfFire>360</FieldOfFire>
 
   <!-- Description -->

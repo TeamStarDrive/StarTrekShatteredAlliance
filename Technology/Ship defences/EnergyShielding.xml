@@ -7,10 +7,13 @@
   <NameIndex>560</NameIndex>
   <DescriptionIndex>561</DescriptionIndex>
   <LeadsTo>
-	    <LeadsToTech>
-      <UID>orbital shielding</UID>
+    <LeadsToTech>
+      <UID>Amplifier</UID>
     </LeadsToTech>
-	    <LeadsToTech>
+	<LeadsToTech>
+      <UID>orbital_shielding</UID>
+    </LeadsToTech>
+	<LeadsToTech>
       <UID>HeavyShields</UID>
     </LeadsToTech>
   </LeadsTo>

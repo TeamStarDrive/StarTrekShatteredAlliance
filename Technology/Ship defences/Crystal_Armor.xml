@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Crystal_Armor</UID>
+  <TechnologyType>ShipDefense</TechnologyType>
+  <Cost>4400</Cost>
+  <NameIndex>6574</NameIndex>
+  <DescriptionIndex>6575</DescriptionIndex>
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>biomechinal_armour</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>Crystal_Armor_Small</ModuleUID>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Crystal_Armor_Med</ModuleUID>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Crystal_Armor_Large</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>
