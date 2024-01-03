@@ -72,7 +72,7 @@ Globals:
     Name: "Star Trek"
     Version: "v2.6b"
     FormatVersion: 1
-    SupportedBlackBoxVersions: "develop,mars-1.41"
+    SupportedBlackBoxVersions: "main,mars-1.50,mars:1.50
     IconPath: mod_icon.png
     Description: "5 STARTREK RACES THEIR SHIPS AND WEAPONS."
     Author: "Threepwood and tbh mostly The StarDrive+ Team"
