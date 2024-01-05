@@ -51,7 +51,7 @@
   <PowerStoreMax>0</PowerStoreMax>
   
   <!-- for Weapons -->
-  <WeaponType>Fed_PhaserCannon_2x2</WeaponType>
+  <WeaponType>orbital_weapons_platform</WeaponType>
   <FieldOfFire>360</FieldOfFire>
   <OrdinanceCapacity>0</OrdinanceCapacity>
   

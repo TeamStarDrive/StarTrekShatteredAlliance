@@ -14,7 +14,7 @@
   <Version>2</Version>
 
     <TexturePath>Textures/transparent</TexturePath>
-    <IconTexturePath>Modules/Crystal Armor Med</IconTexturePath>
+    <IconTexturePath>Modules/Crystal_Armor_Med</IconTexturePath>
     <NameIndex>6577</NameIndex>
     <DescriptionIndex>6583</DescriptionIndex>
     <!-- Mass and Health -->

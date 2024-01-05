@@ -20,10 +20,10 @@
   <!-- Projectile Information -->
   <BeamTexture>beam_purple3</BeamTexture>
   <DamageAmount>420</DamageAmount>
-  <EffectVsShield>0.7</EffectVsShield>
-  <BeamThickness>28</BeamThickness>
+  <EffectVsShield>0.8</EffectVsShield>
+  <BeamThickness>20</BeamThickness>
   <BeamPowerCostPerSecond>1924</BeamPowerCostPerSecond>
-  <OffPowerMod>0.5</OffPowerMod>
+  <OffPowerMod>0.3</OffPowerMod>
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>
   <WeaponHitEffect>Beam_Hit_Armor</WeaponHitEffect>

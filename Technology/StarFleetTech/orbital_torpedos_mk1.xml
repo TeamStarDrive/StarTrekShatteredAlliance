@@ -3,7 +3,7 @@
   <UID>orbital_torpedos_mk1</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>1500</Cost>
-  <Name>orbital_torpedos mk1</Name>
+  <Name>orbital_torpedos_mk1</Name>
   <NameIndex>18504</NameIndex>
   <DescriptionIndex>18505</DescriptionIndex>
   <IconPath>icons_techroot_energy</IconPath>

@@ -6,7 +6,7 @@
   
   <UID>station_phasor_beem_mk2</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>4</FireDelay>
+  <FireDelay>5</FireDelay>
   <Range>17300</Range>
   <PowerRequiredToFire>500</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
@@ -23,7 +23,7 @@
   <EffectVsShield>0.6</EffectVsShield>
   <BeamThickness>20</BeamThickness>
   <BeamPowerCostPerSecond>924</BeamPowerCostPerSecond>
-  <OffPowerMod>0.5</OffPowerMod>
+  <OffPowerMod>0.3</OffPowerMod>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>

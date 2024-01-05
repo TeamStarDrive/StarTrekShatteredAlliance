@@ -7,7 +7,7 @@
   <UID>station_phasor_beem_mk4</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>5</FireDelay>
-  <Range>18300</Range>
+  <Range>25300</Range>
   <PowerRequiredToFire>1000</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>3</BeamDuration>
@@ -19,11 +19,11 @@
   
   <!-- Projectile Information -->
   <BeamTexture>beam_purple3</BeamTexture>
-  <DamageAmount>420</DamageAmount>
-  <EffectVsShield>0.7</EffectVsShield>
+  <DamageAmount>920</DamageAmount>
+  <EffectVsShield>1.0</EffectVsShield>
   <BeamThickness>28</BeamThickness>
-  <BeamPowerCostPerSecond>1924</BeamPowerCostPerSecond>
-  <OffPowerMod>0.5</OffPowerMod>
+  <BeamPowerCostPerSecond>2924</BeamPowerCostPerSecond>
+  <OffPowerMod>0.3</OffPowerMod>
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>
   <WeaponHitEffect>Beam_Hit_Armor</WeaponHitEffect>

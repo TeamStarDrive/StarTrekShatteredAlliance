@@ -32,8 +32,8 @@
   
   <PowerDraw>20</PowerDraw>
 
-  <NameIndex>18608</NameIndex>
-  <DescriptionIndex>18609</DescriptionIndex>
+  <NameIndex>18512</NameIndex>
+  <DescriptionIndex>18513</DescriptionIndex>
 
 
   <!-- for shield items -->
@@ -50,7 +50,7 @@
   <PowerStoreMax>0</PowerStoreMax>
   
   <!-- for Weapons -->
-  <WeaponType>Fed_PhaserCannon</WeaponType>
+  <WeaponType>orbital_cannons_mk1</WeaponType>
   <FieldOfFire>360</FieldOfFire>
   <OrdinanceCapacity>0</OrdinanceCapacity>
   

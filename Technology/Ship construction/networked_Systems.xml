@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
   <Version>2</Version>
-  <UID>Integrated_Systems</UID>
+  <UID>networked_Systems</UID>
   <TechnologyType>ShipGeneral</TechnologyType>
-  <Cost>2000</Cost>
-  <NameIndex>595</NameIndex>
-  <DescriptionIndex>596</DescriptionIndex>
+  <Cost>2001</Cost>
+  <NameIndex>18756</NameIndex>
+  <DescriptionIndex>18757</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>Battleships_2</UID>
@@ -16,7 +16,7 @@
       <ModuleUID>CIC</ModuleUID>
     </UnlockedMod>
     <UnlockedMod>
-      <ModuleUID>Main Engineering</ModuleUID>
+      <ModuleUID>Main_Engineering</ModuleUID>
     </UnlockedMod>
   </ModulesUnlocked>
   
@@ -25,8 +25,5 @@
   <BonusUnlocked />
   <TroopsUnlocked />
   <HullsUnlocked/>
-  <UnlockedHull>
-      <Name>Terran/Fed_Sovereign</Name>
-      <ShipType>fed</ShipType>
-    </UnlockedHull>
+
 </Technology>

@@ -25,8 +25,8 @@
 
   <IconTexturePath>Modules/orbital_defence_torpedo</IconTexturePath>
   <Mass>19500</Mass>
-  <Health>10500</Health>
-  <HealthMax>10500</HealthMax>
+  <Health>50500</Health>
+  <HealthMax>50500</HealthMax>
   <energyreq>5</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   

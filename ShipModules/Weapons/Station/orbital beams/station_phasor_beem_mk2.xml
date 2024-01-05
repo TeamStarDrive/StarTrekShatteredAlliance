@@ -14,7 +14,7 @@
   <UID>station_phasor_beem_mk2</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>21</Cost>
+  <Cost>31</Cost>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
   <!-- Tech Level Used by AI for Upgrading Ships -->
@@ -37,8 +37,8 @@
 
   <!-- Mass and Health -->
   <Mass>9000</Mass>
-  <Health>20120</Health>
-  <HealthMax>20120</HealthMax>
+  <Health>40120</Health>
+  <HealthMax>40120</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>9</PowerDraw>

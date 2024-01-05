@@ -42,7 +42,7 @@
   <DamageAmount>1000</DamageAmount>
   <ProjectileSpeed>5200</ProjectileSpeed>
   <Light>Orange</Light>
-  <Scale>3</Scale>
+  <Scale>2</Scale>
   <DamageRadius>13</DamageRadius>
   <explodes>false</explodes>
   <ProjectileTexturePath>projTear_01_orange</ProjectileTexturePath>

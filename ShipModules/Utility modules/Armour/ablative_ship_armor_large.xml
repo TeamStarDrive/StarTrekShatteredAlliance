@@ -15,7 +15,7 @@
   <Version>2</Version>
 
     <TexturePath>Textures/transparent</TexturePath>
-    <IconTexturePath>Modules/ablative ship armor large</IconTexturePath>
+    <IconTexturePath>Modules/ablative_ship_armor_large</IconTexturePath>
     <NameIndex>18736</NameIndex>
     <DescriptionIndex>18737</DescriptionIndex>
     <!-- Mass and Health -->

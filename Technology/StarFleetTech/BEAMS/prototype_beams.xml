@@ -3,7 +3,7 @@
   <UID>prototype_beams</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>3100</Cost>
-  <Name>prototype beams</Name>
+  <Name>prototype_beams</Name>
   <NameIndex>18520</NameIndex>
   <DescriptionIndex>18521</DescriptionIndex>
   <IconPath>icons_techroot_energy</IconPath>
@@ -25,10 +25,6 @@
     </UnlockedMod>
 	<UnlockedMod>
       <ModuleUID>power_drain_phasor_beam</ModuleUID>
-      <Type>fed</Type>
-    </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>18596</ModuleUID>
       <Type>fed</Type>
     </UnlockedMod>
 	<UnlockedMod>

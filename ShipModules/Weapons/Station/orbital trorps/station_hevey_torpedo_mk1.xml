@@ -23,8 +23,8 @@
 
   <IconTexturePath>Modules/station_hevey_torpedo_mk1</IconTexturePath>
   <Mass>14000</Mass>
-  <Health>30500</Health>
-  <HealthMax>30500</HealthMax>
+  <Health>70500</Health>
+  <HealthMax>70500</HealthMax>
   <energyreq>5</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   

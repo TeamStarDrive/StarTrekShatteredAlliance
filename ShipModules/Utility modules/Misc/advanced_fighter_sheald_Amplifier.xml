@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Cost>192</Cost>
+    <FighterModule>false</FighterModule>
+    <!-- Tech Level -->
+    <TechLevel>2</TechLevel>
+    <TechBranch>Shield</TechBranch>
+    <!-- common traits shared by all ship modules -->
+    <XSize>2</XSize>
+    <YSize>1</YSize>
+    <ModuleType>Shield</ModuleType>
+    <Name>Amplifier</Name>
+    <Restrictions>I</Restrictions>
+    <UID>advanced_fighter_sheald_Amplifier</UID> 
+  <Version>2</Version>
+
+    <IconTexturePath>Modules/advanced_fighter_sheald_Amplifier</IconTexturePath>
+    <NameIndex>18693</NameIndex>
+    <DescriptionIndex>18694</DescriptionIndex>
+    <!-- Mass and Health -->
+    <Mass>8</Mass>
+    <Health>12760</Health>
+    <HealthMax>12760</HealthMax>
+    <RepairDifficulty>6</RepairDifficulty>                          
+    <!-- Power Drawn -->
+    <PowerDraw>190</PowerDraw>
+    <PowerDrawAtWarp>-90</PowerDrawAtWarp>
+    <!-- Armor resistance -->
+    <!-- for PowerPlant Items -->
+    
+    <AmplifyShields>42500</AmplifyShields>
+
+    <!-- Crew Reqs -->
+    
+    
+    <!-- for Weapons -->
+    <!-- Description -->
+    <Description>Advanced Armored Solar collector, procides power within a small radius.</Description>
+</ShipModule>

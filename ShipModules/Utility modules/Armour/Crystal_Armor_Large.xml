@@ -15,7 +15,7 @@
   <Version>2</Version>
 
     <TexturePath>Textures/transparent</TexturePath>
-    <IconTexturePath>Modules/Crystal Armor Large</IconTexturePath>
+    <IconTexturePath>Modules/Crystal_Armor_Large</IconTexturePath>
     <NameIndex>6578</NameIndex>
     <DescriptionIndex>6583</DescriptionIndex>
     <!-- Mass and Health -->

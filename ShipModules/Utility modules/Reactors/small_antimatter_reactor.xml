@@ -12,7 +12,7 @@
   <ModuleType>PowerPlant</ModuleType>
   <Name>small antimatter reactor</Name>
   <Restrictions>I</Restrictions>
-  <UID>small antimatter reactor</UID> 
+  <UID>small_antimatter_reactor</UID> 
   <Version>2</Version>
 
   <TexturePath>Textures/transparent</TexturePath>

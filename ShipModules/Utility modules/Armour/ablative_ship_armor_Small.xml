@@ -22,13 +22,13 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>ablative ship armor Small</Name>
+  <Name>ablative_ship_armor_Small</Name>
   <Restrictions>O</Restrictions>
   <UID>ablative_ship_armor_Small</UID> 
   <Version>2</Version>
 
   <TexturePath>Textures/transparent</TexturePath>
-  <IconTexturePath>Modules/ablative ship armor Small</IconTexturePath>
+  <IconTexturePath>Modules/ablative_ship_armor_Small</IconTexturePath>
 
 
   <NameIndex>18732</NameIndex>

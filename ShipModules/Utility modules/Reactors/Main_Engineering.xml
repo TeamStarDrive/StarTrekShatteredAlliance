@@ -10,15 +10,15 @@
   <XSize>4</XSize>
   <YSize>4</YSize>
   <ModuleType>PowerPlant</ModuleType>
-  <Name>Main Engineering</Name>
+  <Name>Main_Engineering</Name>
   <Restrictions>I</Restrictions>
-  <UID>Main Engineering</UID> 
+  <UID>Main_Engineering</UID> 
   <Version>2</Version>
 
   <IconTexturePath>Modules/engineering_4x4</IconTexturePath>
 
-  <NameIndex>986</NameIndex>
-  <DescriptionIndex>987</DescriptionIndex>
+  <NameIndex>18758</NameIndex>
+  <DescriptionIndex>18759</DescriptionIndex>
 
   <Mass>200</Mass>
   <Health>7060</Health>

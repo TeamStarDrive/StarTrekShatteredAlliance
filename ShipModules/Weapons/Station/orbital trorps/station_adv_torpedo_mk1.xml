@@ -23,8 +23,8 @@
 
   <IconTexturePath>Modules/station_adv_torpedo_mk1</IconTexturePath>
   <Mass>14500</Mass>
-  <Health>14500</Health>
-  <HealthMax>14500</HealthMax>
+  <Health>84500</Health>
+  <HealthMax>84500</HealthMax>
   <energyreq>15</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
