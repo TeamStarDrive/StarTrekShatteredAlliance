@@ -14708,34 +14708,14 @@ BB_Tech_station_hevey_torpedo_mk1_Desc:
  ENG: " hevy torpedo launcher launcher designd for stations mass limitations needed for starship use " 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
-BB_Tech_station_hevey_torpedo_mk2_Name:
- Id: 18454
- ENG: " hevy torpedo launcher launcher designd for stations " 
- RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
- SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
-BB_Tech_station_hevey_torpedo_mk2_Desc:
- Id: 18455
- ENG: " hevy torpedo launcher launcher designd for stations mass limitations needed for starship use " 
- RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
- SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_station_adv_torpedo_mk1_Name:
  Id: 18456
- ENG: " hevy torpedo launcher launcher designd for stations " 
+ ENG: " mk4 advanced torpedo launcher launcher designd for stations " 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_station_adv_torpedo_mk1_Desc:
  Id: 18457
- ENG: " hevy torpedo launcher launcher designd for stations mass limitations needed for starship use " 
- RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
- SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
-BB_Tech_station_adv_torpedo_mk2_Name:
- Id: 18458
- ENG: " hevy torpedo launcher launcher designd for stations " 
- RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
- SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
-BB_Tech_station_adv_torpedo_mk2_Desc:
- Id: 18459
- ENG: " hevy torpedo launcher launcher designd for stations mass limitations needed for starship use " 
+ ENG: " mk4 advanced torpedo launcher designd for stations mass limitations needed for starship use " 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_station_phasor_beem_mk2_Name:

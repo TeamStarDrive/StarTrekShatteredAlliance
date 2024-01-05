@@ -50,7 +50,7 @@
   <PowerStoreMax>0</PowerStoreMax>
 
   <!-- for Weapons -->
-  <WeaponType>station_torpedo_launcher_mk1</WeaponType>
+  <WeaponType>orbital_defence_torpedo</WeaponType>
   <OrdinanceCapacity>4000</OrdinanceCapacity>
   <FieldOfFire>360</FieldOfFire>
 
