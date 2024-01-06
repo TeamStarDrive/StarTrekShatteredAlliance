@@ -12,15 +12,15 @@
   <Version>2</Version>
 
   <IconTexturePath>Modules/energy_torpedo_mk1</IconTexturePath>
-  <Mass>200</Mass>
-  <Health>7500</Health>
-  <HealthMax>7500</HealthMax>
+  <Mass>100</Mass>
+  <Health>10500</Health>
+  <HealthMax>10500</HealthMax>
   <energyreq>5</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
   
   <PowerDraw>5</PowerDraw>
-  <TechLevel>3</TechLevel>  
+  <TechLevel>2</TechLevel>  
   <!-- for shield items -->
   
   <ShieldPowerMax>0</ShieldPowerMax>
@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>energy_torpedo_mk1</WeaponType>
-  <OrdinanceCapacity>4000</OrdinanceCapacity>
+  <OrdinanceCapacity>500</OrdinanceCapacity>
   <FieldOfFire>45</FieldOfFire>
 
   <!-- for Engines -->

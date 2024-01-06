@@ -16,15 +16,15 @@
   <Tag_Drone>false</Tag_Drone>
   <Tag_Torpedo>true</Tag_Torpedo>
   <Tag_Cannon>false</Tag_Cannon>
-  <ExcludesFighters>false</ExcludesFighters>  
+  <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>false</ExcludesCorvettes>  
   
   <UID>orbital_defence_torpedo</UID>
   <FireDelay>3</FireDelay>
   <Range>12000</Range>
-  <PowerRequiredToFire>2000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>100</OrdinanceRequiredToFire>
-  <HitPoints>50</HitPoints>  
+  <PowerRequiredToFire>1500</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>50</OrdinanceRequiredToFire>
+  <HitPoints>100</HitPoints>  
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>

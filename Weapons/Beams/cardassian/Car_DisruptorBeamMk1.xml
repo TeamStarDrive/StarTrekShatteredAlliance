@@ -5,11 +5,11 @@
 
   <UID>Car_DisruptorBeamMk1</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
-  <Range>6600</Range>
+  <FireDelay>5</FireDelay>
+  <Range>6000</Range>
   <PowerRequiredToFire>50</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>1.5</BeamDuration>
+  <BeamDuration>2</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
 
@@ -18,11 +18,10 @@
   
   <!-- Projectile Information -->
   <BeamTexture>car_disruptorbeam</BeamTexture>
-  <EffectVsShields>1.20</EffectVsShields> 
-  
   <DamageAmount>14</DamageAmount>
   <BeamThickness>10</BeamThickness>
-  <BeamPowerCostPerSecond>860</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>187</BeamPowerCostPerSecond>
+  <EffectVsShields>0.3</EffectVsShields>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

@@ -20,11 +20,13 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>  
   
   <UID>cardassian_prototype_torpedo</UID>
-  <FireDelay>8</FireDelay>
-  <Range>11000</Range>
-  <PowerRequiredToFire>6000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>100</OrdinanceRequiredToFire>
-  <HitPoints>45</HitPoints>  
+  <FireDelay>6</FireDelay>
+  <Range>17000</Range>
+  <PowerRequiredToFire>1900</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>15</OrdinanceRequiredToFire>
+  <HitPoints>30</HitPoints>
+  <SalvoCount>6</SalvoCount>
+  <SalvoTimer>7</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
@@ -32,8 +34,9 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>15000</DamageAmount>
-  <Scale>3</Scale>
+  <DamageAmount>45000</DamageAmount>
+  <ShieldPenChance>25</ShieldPenChance>
+  <Scale>2</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>1500</ProjectileSpeed>
   <ProjectileRadius>10</ProjectileRadius>
@@ -42,7 +45,6 @@
   <Frames>16</Frames>
   <AnimationPath>car_torpedo_heavy/car_torpedo_heavy_cc_</AnimationPath>
   <LoopAnimation>1</LoopAnimation>      
-  
   <Light>Blue</Light>
   <ProjectileTexturePath>projBall_03_purple</ProjectileTexturePath>
   <ModelPath>projBall</ModelPath>

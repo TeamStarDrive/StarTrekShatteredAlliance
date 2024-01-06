@@ -33,10 +33,10 @@
   <TechLevel>6</TechLevel>  
   <!-- for shield items -->
   
-  <ShieldPowerMax>0</ShieldPowerMax>
-  <ShieldRechargeDelay>0</ShieldRechargeDelay>
-  <ShieldRechargeRate>0</ShieldRechargeRate>
-  <ShieldRadius>0</ShieldRadius>
+  <ShieldPowerMax>30000</ShieldPowerMax>
+  <ShieldRechargeDelay>10</ShieldRechargeDelay>
+  <ShieldRechargeRate>400</ShieldRechargeRate>
+  <ShieldRadius>90</ShieldRadius>
   <radius>0</radius>
 
   <NameIndex>18456</NameIndex>
@@ -49,7 +49,7 @@
 
   <!-- for Weapons -->
   <WeaponType>station_adv_torpedo_mk1</WeaponType>
-  <OrdinanceCapacity>8000</OrdinanceCapacity>
+  <OrdinanceCapacity>1000</OrdinanceCapacity>
   <FieldOfFire>360</FieldOfFire>
 
   <!-- for Engines -->

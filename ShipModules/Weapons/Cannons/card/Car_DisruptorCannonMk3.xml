@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>11</Cost>
+  <Cost>120</Cost>
   <TechLevel>4</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -14,9 +14,9 @@
 
   <IconTexturePath>Modules/Car_DisruptorCannonMk3</IconTexturePath>
   <Mass>50</Mass>
-  <Health>9760</Health>
-  <HealthMax>9760</HealthMax>
-  <energyreq>0</energyreq>
+  <Health>29760</Health>
+  <HealthMax>29760</HealthMax>
+  <energyreq>15</energyreq>
   <Description>A crude but effective high-energy cannon weapon </Description>
   <CrewRequired>12</CrewRequired>
   

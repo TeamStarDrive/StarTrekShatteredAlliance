@@ -21,10 +21,12 @@
   
   <UID>Car_HeavyPhotonTorpedoMk2</UID>
   <FireDelay>8</FireDelay>
-  <Range>11000</Range>
-  <PowerRequiredToFire>6000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>100</OrdinanceRequiredToFire>
-  <HitPoints>45</HitPoints>  
+  <Range>14000</Range>
+  <PowerRequiredToFire>3000</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>20</OrdinanceRequiredToFire>
+  <HitPoints>65</HitPoints>
+  <SalvoCount>3</SalvoCount>
+  <SalvoTimer>7</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
@@ -32,7 +34,7 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>15000</DamageAmount>
+  <DamageAmount>45000</DamageAmount>
   <Scale>3</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>1500</ProjectileSpeed>

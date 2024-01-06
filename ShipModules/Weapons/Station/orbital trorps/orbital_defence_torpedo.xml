@@ -51,7 +51,7 @@
 
   <!-- for Weapons -->
   <WeaponType>orbital_defence_torpedo</WeaponType>
-  <OrdinanceCapacity>4000</OrdinanceCapacity>
+  <OrdinanceCapacity>1000</OrdinanceCapacity>
   <FieldOfFire>360</FieldOfFire>
 
   <!-- for Engines -->

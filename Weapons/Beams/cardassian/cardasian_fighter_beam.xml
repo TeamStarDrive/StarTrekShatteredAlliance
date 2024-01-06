@@ -20,8 +20,7 @@
   
   <!-- Projectile Information -->
   <BeamTexture>car_disruptorbeam</BeamTexture>
-  <EffectVsShields>1.90</EffectVsShields> 
-  
+  <EffectVsShields>1</EffectVsShields>
   <DamageAmount>27</DamageAmount>
   <BeamThickness>20</BeamThickness>
   <BeamPowerCostPerSecond>2000</BeamPowerCostPerSecond>

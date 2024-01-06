@@ -20,7 +20,7 @@
   
   <UID>Car_DisruptorCannonMk2</UID>
   <fireDelay>3</fireDelay>
-  <Range>5500</Range>
+  <Range>5000</Range>
   <PowerRequiredToFire>550</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <SalvoCount>5</SalvoCount>
@@ -36,8 +36,8 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>735</DamageAmount>
-  <ProjectileSpeed>1500</ProjectileSpeed>
+  <DamageAmount>895</DamageAmount>
+  <ProjectileSpeed>4200</ProjectileSpeed>
   <Light>Green</Light>
   <Scale>1.5</Scale>
   <DamageRadius>15</DamageRadius>

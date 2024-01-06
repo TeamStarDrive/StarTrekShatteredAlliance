@@ -23,7 +23,7 @@
   <Range>10000</Range>
   <PowerRequiredToFire>170</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <SalvoCount>5</SalvoCount>
+  <SalvoCount>8</SalvoCount>
   <SalvoTimer>3</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -35,14 +35,14 @@
   <!-- Animation Information -->
   <Animated>1</Animated>
   <Frames>4</Frames>
-  <AnimationPath>fed_phasercannon/fed_phasercannon_cc_</AnimationPath>
+  <AnimationPath>hyd_disruptorcannon/hyd_disruptorcannon_cc_</AnimationPath>
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
   <DamageAmount>1800</DamageAmount>
   <ProjectileSpeed>5200</ProjectileSpeed>
   <Light>Orange</Light>
-  <Scale>3</Scale>
+  <Scale>2</Scale>
   <DamageRadius>15</DamageRadius>
   <explodes>false</explodes>
   <ProjectileTexturePath>projTear_01_orange</ProjectileTexturePath>

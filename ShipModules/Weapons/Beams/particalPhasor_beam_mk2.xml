@@ -6,7 +6,7 @@
   <OffPowerMod>0.35</OffPowerMod>
   <Cost>110</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
-  <TechLevel>3</TechLevel>
+  <TechLevel>2</TechLevel>
 
   
   <!-- common traits shared by all ship modules -->
@@ -25,15 +25,15 @@
 
   <!-- Mass and Health -->
   <Mass>18</Mass>
-  <Health>10120</Health>
-  <HealthMax>10120</HealthMax>
+  <Health>15120</Health>
+  <HealthMax>15120</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>10</PowerDraw>
 
   <!-- for Weapons -->
   <WeaponType>particalPhasor_beam_mk2</WeaponType>
-  <FieldOfFire>45</FieldOfFire>
+  <FieldOfFire>15</FieldOfFire>
 
   <!-- Description -->
   <Description>Phasors are powerful and efficient directed energy weapons.</Description>

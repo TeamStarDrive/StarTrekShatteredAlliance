@@ -4,7 +4,7 @@
   <Cost>140</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>2</XSize>
-  <YSize>6</YSize>
+  <YSize>4</YSize>
   <ModuleType>MissileLauncher</ModuleType>
   <Name>energy_torpedo_mk2</Name>
   <Restrictions>O</Restrictions>
@@ -12,9 +12,9 @@
   <Version>2</Version>
 
   <IconTexturePath>Modules/energy_torpedo_mk2</IconTexturePath>
-  <Mass>232</Mass>
-  <Health>10500</Health>
-  <HealthMax>10500</HealthMax>
+  <Mass>132</Mass>
+  <Health>13500</Health>
+  <HealthMax>13500</HealthMax>
   <energyreq>10</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>energy_torpedo_mk2</WeaponType>
-  <OrdinanceCapacity>4000</OrdinanceCapacity>
+  <OrdinanceCapacity>500</OrdinanceCapacity>
   <FieldOfFire>45</FieldOfFire>
 
   <!-- for Engines -->

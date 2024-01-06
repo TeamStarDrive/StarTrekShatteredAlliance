@@ -13,7 +13,7 @@
   <Restrictions>O</Restrictions>
   <UID>phased_cannon</UID>
   <IconTexturePath>Modules/phased_cannon</IconTexturePath>
-  <Mass>15</Mass>
+  <Mass>10</Mass>
   <Health>10750</Health>
   <HealthMax>10750</HealthMax>
   <energyreq>0</energyreq>

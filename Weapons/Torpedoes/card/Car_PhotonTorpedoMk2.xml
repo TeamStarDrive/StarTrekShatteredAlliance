@@ -20,11 +20,13 @@
   <ExcludesCorvettes>false</ExcludesCorvettes>  
   
   <UID>Car_PhotonTorpedoMk2</UID>
-  <FireDelay>8</FireDelay>
-  <Range>6000</Range>
+  <FireDelay>7</FireDelay>
+  <Range>8000</Range>
   <PowerRequiredToFire>2000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>100</OrdinanceRequiredToFire>
-  <HitPoints>15</HitPoints>  
+  <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
+  <HitPoints>15</HitPoints>
+  <SalvoCount>3</SalvoCount>
+  <SalvoTimer>7</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
@@ -32,7 +34,7 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>5000</DamageAmount>
+  <DamageAmount>15000</DamageAmount>
   <Scale>1</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>2000</ProjectileSpeed>
@@ -42,7 +44,7 @@
   <Frames>16</Frames>
   <AnimationPath>car_torpedo_micro/car_torpedo_micro_cc_</AnimationPath>
   <LoopAnimation>1</LoopAnimation>      
-  
+  <FireArc>45</FireArc>
   <Light>Blue</Light>
   <ProjectileTexturePath>projBall_03_purple</ProjectileTexturePath>
   <ModelPath>projBall</ModelPath>

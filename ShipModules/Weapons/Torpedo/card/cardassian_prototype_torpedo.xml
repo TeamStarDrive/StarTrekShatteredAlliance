@@ -13,9 +13,9 @@
 
   <IconTexturePath>Modules/cardassian_prototype_torpedo</IconTexturePath>
   <Mass>350</Mass>
-  <Health>14500</Health>
-  <HealthMax>14500</HealthMax>
-  <energyreq>20</energyreq>
+  <Health>34500</Health>
+  <HealthMax>34500</HealthMax>
+  <energyreq>25</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
   
@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>cardassian_prototype_torpedo</WeaponType>
-  <OrdinanceCapacity>1500</OrdinanceCapacity>
+  <OrdinanceCapacity>150</OrdinanceCapacity>
   <FieldOfFire>180</FieldOfFire>
 
   <!-- for Engines -->

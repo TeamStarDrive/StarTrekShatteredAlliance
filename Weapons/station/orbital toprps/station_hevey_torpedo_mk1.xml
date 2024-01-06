@@ -16,15 +16,15 @@
   <Tag_Drone>false</Tag_Drone>
   <Tag_Torpedo>true</Tag_Torpedo>
   <Tag_Cannon>false</Tag_Cannon>
-  <ExcludesFighters>false</ExcludesFighters>  
-  <ExcludesCorvettes>false</ExcludesCorvettes>  
+  <ExcludesFighters>true</ExcludesFighters>  
+  <ExcludesCorvettes>true</ExcludesCorvettes>  
   
   <UID>station_hevey_torpedo_mk1</UID>
   <FireDelay>4</FireDelay>
   <Range>17000</Range>
   <PowerRequiredToFire>5000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>100</OrdinanceRequiredToFire>
-  <HitPoints>70</HitPoints>  
+  <OrdinanceRequiredToFire>50</OrdinanceRequiredToFire>
+  <HitPoints>270</HitPoints>  
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
@@ -41,7 +41,7 @@
   <Animated>1</Animated>
   <Frames>16</Frames>
   <AnimationPath>hyd_torpedo_heavy/hyd_torpedo_heavy_cc_</AnimationPath>
-  <LoopAnimation>1</LoopAnimation>      
+  <LoopAnimation>1</LoopAnimation>
   <OffPowerMod>0.5</OffPowerMod>
   
   <Light>Blue</Light>

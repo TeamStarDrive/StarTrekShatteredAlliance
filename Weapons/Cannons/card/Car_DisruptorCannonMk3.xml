@@ -23,8 +23,8 @@
   <Range>6000</Range>
   <PowerRequiredToFire>1000</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <SalvoCount>3</SalvoCount>
-  <SalvoTimer>3.0</SalvoTimer>
+  <SalvoCount>5</SalvoCount>
+  <SalvoTimer>4</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <fireCueName>disruptor</fireCueName>
@@ -36,8 +36,8 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>1135</DamageAmount>
-  <ProjectileSpeed>1600</ProjectileSpeed>
+  <DamageAmount>1295</DamageAmount>
+  <ProjectileSpeed>4200</ProjectileSpeed>
   <Light>Green</Light>
   <Scale>2.0</Scale>
   <DamageRadius>15</DamageRadius>

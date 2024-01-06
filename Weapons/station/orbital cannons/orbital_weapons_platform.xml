@@ -23,7 +23,7 @@
   <Range>7000</Range>
   <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <SalvoCount>3</SalvoCount>
+  <SalvoCount>5</SalvoCount>
   <SalvoTimer>3</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -35,7 +35,7 @@
   <!-- Animation Information -->
   <Animated>1</Animated>
   <Frames>4</Frames>
-  <AnimationPath>fed_phasercannon/fed_phasercannon_cc_</AnimationPath>
+  <AnimationPath>hyd_disruptorcannon/hyd_disruptorcannon_cc_</AnimationPath>
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->

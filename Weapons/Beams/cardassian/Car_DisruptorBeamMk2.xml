@@ -20,11 +20,11 @@
   
   <!-- Projectile Information -->
   <BeamTexture>car_disruptorbeam</BeamTexture>
-  <EffectVsShields>1.30</EffectVsShields> 
-  
-  <DamageAmount>20</DamageAmount>
-  <BeamThickness>15</BeamThickness>
-  <BeamPowerCostPerSecond>1524</BeamPowerCostPerSecond>
+  <DamageAmount>25</DamageAmount>
+  <BeamThickness>10</BeamThickness>
+  <BeamPowerCostPerSecond>220</BeamPowerCostPerSecond>
+  <ShieldPenChance>10</ShieldPenChance>
+  <EffectVsShields>0.4</EffectVsShields>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

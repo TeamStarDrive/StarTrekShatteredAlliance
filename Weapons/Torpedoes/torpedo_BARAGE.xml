@@ -22,9 +22,11 @@
   <UID>torpedo_BARAGE</UID>
   <FireDelay>8</FireDelay>
   <Range>11000</Range>
-  <PowerRequiredToFire>6000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>100</OrdinanceRequiredToFire>
-  <HitPoints>45</HitPoints>  
+  <PowerRequiredToFire>3000</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
+  <HitPoints>25</HitPoints>  
+  <SalvoCount>30</SalvoCount>
+  <SalvoTimer>10</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
@@ -33,11 +35,11 @@
 
   <!-- Projectile Information -->
   <DamageAmount>15000</DamageAmount>
-  <Scale>3</Scale>
+  <Scale>1</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>1500</ProjectileSpeed>
+  <ProjectileSpeed>2500</ProjectileSpeed>
   <ProjectileRadius>10</ProjectileRadius>
-  <ExplosionRadius>100</ExplosionRadius> <!-- This projectile explodes -->
+  <ExplosionRadius>60</ExplosionRadius> <!-- This projectile explodes -->
   <Animated>1</Animated>
   <Frames>16</Frames>
   <AnimationPath>car_torpedo_heavy/car_torpedo_heavy_cc_</AnimationPath>

@@ -16,14 +16,14 @@
   <Tag_Drone>false</Tag_Drone>
   <Tag_Torpedo>true</Tag_Torpedo>
   <Tag_Cannon>false</Tag_Cannon>
-  <ExcludesFighters>false</ExcludesFighters>  
-  <ExcludesCorvettes>false</ExcludesCorvettes>  
+  <ExcludesFighters>true</ExcludesFighters>  
+  <ExcludesCorvettes>true</ExcludesCorvettes>  
   
   <UID>station_adv_torpedo_mk1</UID>
   <FireDelay>3</FireDelay>
   <Range>25000</Range>
   <PowerRequiredToFire>6000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>400</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>50</OrdinanceRequiredToFire>
   <HitPoints>210</HitPoints>  
   
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -40,8 +40,8 @@
   <ExplosionRadius>100</ExplosionRadius> <!-- This projectile explodes -->
   <Animated>1</Animated>
   <Frames>16</Frames>
-  <AnimationPath>hyd_torpedo/hyd_torpedo_cc_</AnimationPath>
-  <LoopAnimation>1</LoopAnimation>      
+  <AnimationPath>hyd_torpedo_heavy/hyd_torpedo_heavy_cc_</AnimationPath>
+  <LoopAnimation>1</LoopAnimation>
   
   <Light>Blue</Light>
   <ProjectileTexturePath>projBall_03_purple</ProjectileTexturePath>

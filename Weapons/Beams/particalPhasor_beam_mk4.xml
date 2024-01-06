@@ -7,9 +7,9 @@
   <IsBeam>true</IsBeam>
   <FireDelay>6</FireDelay>
   <Range>13000</Range>
-  <PowerRequiredToFire>70</PowerRequiredToFire>
+  <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>3.5</BeamDuration>
+  <BeamDuration>2.5</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -19,14 +19,12 @@
   
   
   <!-- Projectile Information -->
-  <BeamTexture>fed_phaser</BeamTexture>
-  <EffectVsArmor>1.25</EffectVsArmor> 
-  
+  <BeamTexture>pulse_beam_purple</BeamTexture>
+  <EffectVsArmor>1.25</EffectVsArmor>
   <DamageAmount>50</DamageAmount>
-  <BeamThickness>40</BeamThickness>
+  <BeamThickness>20</BeamThickness>
   <BeamPowerCostPerSecond>1020</BeamPowerCostPerSecond>
   <ShieldPenChance>10</ShieldPenChance>
-  <EffectVsArmor>1.20</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

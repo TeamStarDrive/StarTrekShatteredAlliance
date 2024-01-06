@@ -49,7 +49,7 @@
 
   <!-- for Weapons -->
   <WeaponType>station_torpedo_launcher_mk1</WeaponType>
-  <OrdinanceCapacity>4000</OrdinanceCapacity>
+  <OrdinanceCapacity>1000</OrdinanceCapacity>
   <FieldOfFire>360</FieldOfFire>
 
   <!-- for Engines -->

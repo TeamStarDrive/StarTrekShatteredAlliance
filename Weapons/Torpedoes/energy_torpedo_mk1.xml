@@ -22,9 +22,11 @@
   <UID>energy_torpedo_mk1</UID>
   <FireDelay>8</FireDelay>
   <Range>5000</Range>
-  <PowerRequiredToFire>1000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>100</OrdinanceRequiredToFire>
+  <PowerRequiredToFire>800</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
   <HitPoints>10</HitPoints>  
+  <SalvoCount>2</SalvoCount>
+  <SalvoTimer>7</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
@@ -32,15 +34,15 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>4500</DamageAmount>
+  <DamageAmount>10500</DamageAmount>
   <Scale>1</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>1500</ProjectileSpeed>
+  <ProjectileSpeed>2500</ProjectileSpeed>
   <ProjectileRadius>10</ProjectileRadius>
-  <ExplosionRadius>100</ExplosionRadius> <!-- This projectile explodes -->
+  <ExplosionRadius>50</ExplosionRadius> <!-- This projectile explodes -->
   <Animated>1</Animated>
   <Frames>16</Frames>
-  <AnimationPath>fed_torpedo_micro/fed_torpedo_micro_cc_</AnimationPath>
+  <AnimationPath>planetary_torpedo_tricobalt/planetary_torpedo_tricobalt_cc_</AnimationPath>
   <LoopAnimation>1</LoopAnimation>      
   
   <Light>Blue</Light>

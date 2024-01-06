@@ -15,10 +15,10 @@
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
   <ToggleSoundName>sd_weapon_phasor_01</ToggleSoundName>
-  <BeamTexture>beam_purple3</BeamTexture>
+  <BeamTexture>dualbeam_purple</BeamTexture>
   
   <!-- Projectile Information -->
-  <BeamTexture>beam_purple3</BeamTexture>
+  <BeamTexture>dualbeam_purple</BeamTexture>
   <DamageAmount>920</DamageAmount>
   <EffectVsShield>1.0</EffectVsShield>
   <BeamThickness>28</BeamThickness>

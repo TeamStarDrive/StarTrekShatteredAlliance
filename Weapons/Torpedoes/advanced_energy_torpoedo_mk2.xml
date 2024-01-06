@@ -22,9 +22,11 @@
   <UID>advanced_energy_torpoedo_mk2</UID>
   <FireDelay>8</FireDelay>
   <Range>15000</Range>
-  <PowerRequiredToFire>3000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>100</OrdinanceRequiredToFire>
-  <HitPoints>25</HitPoints>  
+  <PowerRequiredToFire>2000</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>15</OrdinanceRequiredToFire>
+  <HitPoints>45</HitPoints>  
+  <SalvoCount>4</SalvoCount>
+  <SalvoTimer>6</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
@@ -32,16 +34,16 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>12000</DamageAmount>
+  <DamageAmount>22000</DamageAmount>
   <ShieldPenChance>40</ShieldPenChance>
   <Scale>3</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>1500</ProjectileSpeed>
+  <ProjectileSpeed>3500</ProjectileSpeed>
   <ProjectileRadius>10</ProjectileRadius>
   <ExplosionRadius>100</ExplosionRadius> <!-- This projectile explodes -->
   <Animated>1</Animated>
   <Frames>16</Frames>
-  <AnimationPath>fed_torpedo_quantum/fed_torpedo_quantum_cc_</AnimationPath>
+  <AnimationPath>planetary_torpedo_tetrion/planetary_torpedo_tetrion_cc_</AnimationPath>
   <LoopAnimation>1</LoopAnimation>      
   
   <Light>Blue</Light>

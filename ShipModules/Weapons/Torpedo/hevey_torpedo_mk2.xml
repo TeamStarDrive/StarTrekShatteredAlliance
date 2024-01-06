@@ -12,9 +12,9 @@
   <Version>2</Version>
 
   <IconTexturePath>Modules/hevey_torpedo_mk2</IconTexturePath>
-  <Mass>300</Mass>
-  <Health>12500</Health>
-  <HealthMax>12500</HealthMax>
+  <Mass>200</Mass>
+  <Health>22500</Health>
+  <HealthMax>22500</HealthMax>
   <energyreq>20</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>hevey_torpedo_mk2</WeaponType>
-  <OrdinanceCapacity>1000</OrdinanceCapacity>
+  <OrdinanceCapacity>500</OrdinanceCapacity>
   <FieldOfFire>180</FieldOfFire>
 
   <!-- for Engines -->

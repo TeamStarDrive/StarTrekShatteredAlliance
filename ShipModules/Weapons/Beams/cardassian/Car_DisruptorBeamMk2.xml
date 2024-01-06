@@ -4,9 +4,9 @@
   <UID>Car_DisruptorBeamMk2</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>21</Cost>
+  <Cost>110</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
-  <TechLevel>3</TechLevel>
+  <TechLevel>2</TechLevel>
 
   
   <!-- common traits shared by all ship modules -->
@@ -25,8 +25,8 @@
 
   <!-- Mass and Health -->
   <Mass>8</Mass>
-  <Health>18120</Health>
-  <HealthMax>18120</HealthMax>
+  <Health>12120</Health>
+  <HealthMax>12120</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>5</PowerDraw>

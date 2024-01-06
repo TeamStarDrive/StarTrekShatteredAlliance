@@ -23,14 +23,14 @@
   <IsBeam>true</IsBeam>
   <FireDelay>5</FireDelay>
   <Range>6000</Range>
-  <PowerRequiredToFire>0</PowerRequiredToFire>
+  <PowerRequiredToFire>50</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
   <ToggleSoundName>sd_weapon_phasor_01</ToggleSoundName>
-  <BeamTexture>fed_phaser</BeamTexture>
+  <BeamTexture>pulse_beam_purple</BeamTexture>
   
   <!-- Projectile Information -->
   <DamageAmount>14</DamageAmount>

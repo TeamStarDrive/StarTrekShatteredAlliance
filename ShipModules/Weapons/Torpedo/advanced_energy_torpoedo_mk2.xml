@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>170</Cost>
+  <Cost>270</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>3</XSize>
   <YSize>6</YSize>
@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/advanced_energy_torpoedo_mk2</IconTexturePath>
   <Mass>350</Mass>
-  <Health>12500</Health>
-  <HealthMax>12500</HealthMax>
+  <Health>28500</Health>
+  <HealthMax>28500</HealthMax>
   <energyreq>20</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>advanced_energy_torpoedo_mk2</WeaponType>
-  <OrdinanceCapacity>6000</OrdinanceCapacity>
+  <OrdinanceCapacity>500</OrdinanceCapacity>
   <EffectVsShield>3</EffectVsShield>
   <FieldOfFire>180</FieldOfFire>
 

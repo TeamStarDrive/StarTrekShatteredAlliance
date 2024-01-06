@@ -4,7 +4,7 @@
   <UID>ADVANCED_cardasian_prototype_beam</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>31</Cost>
+  <Cost>141</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>6</TechLevel>
 
@@ -33,7 +33,7 @@
 
   <!-- for Weapons -->
   <WeaponType>ADVANCED_cardasian_prototype_beam</WeaponType>
-  <FieldOfFire>180</FieldOfFire>
+  <FieldOfFire>60</FieldOfFire>
 
   <!-- Description -->
   <Description>Phasors are powerful and efficient directed energy weapons.</Description>
