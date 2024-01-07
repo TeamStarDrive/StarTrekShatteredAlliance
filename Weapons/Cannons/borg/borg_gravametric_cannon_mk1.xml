@@ -20,11 +20,11 @@
   
   <UID>borg_gravametric_cannon_mk1</UID>
   <fireDelay>4</fireDelay>
-  <Range>6000</Range>
+  <Range>4000</Range>
   <PowerRequiredToFire>1200</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <SalvoCount>6</SalvoCount>
-  <SalvoTimer>5</SalvoTimer>
+  <SalvoCount>4</SalvoCount>
+  <SalvoTimer>3</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt2_01</FireCueName>
@@ -39,10 +39,10 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>580</DamageAmount>
-  <ProjectileSpeed>3200</ProjectileSpeed>
+  <DamageAmount>380</DamageAmount>
+  <ProjectileSpeed>4200</ProjectileSpeed>
   <Light>Orange</Light>
-  <Scale>2.5</Scale>
+  <Scale>0.7</Scale>
   <DamageRadius>10</DamageRadius>
   <explodes>false</explodes>
   <ProjectileTexturePath>projTear_01_orange</ProjectileTexturePath>

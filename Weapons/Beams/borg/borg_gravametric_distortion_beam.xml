@@ -6,8 +6,8 @@
   <UID>borg_gravametric_distortion_beam</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>2</FireDelay>
-  <Range>9500</Range>
-  <PowerRequiredToFire>70</PowerRequiredToFire>
+  <Range>12500</Range>
+  <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>3.5</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
@@ -22,10 +22,13 @@
   <!-- Projectile Information -->
   <BeamTexture>vul_phaser</BeamTexture>
   <EffectVsArmor>1.00</EffectVsArmor>
-  <DamageAmount>90</DamageAmount>
+  <DamageAmount>290</DamageAmount>
   <BeamThickness>25</BeamThickness>
-  <BeamPowerCostPerSecond>6050</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>3050</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
+  <TroopDamageChance>45</TroopDamageChance>
+  <TractorDamage>80</TractorDamage>
+  <ShieldPenChance>20</ShieldPenChance>
 
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

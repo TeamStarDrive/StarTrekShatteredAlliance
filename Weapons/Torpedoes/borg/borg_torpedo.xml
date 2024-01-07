@@ -21,14 +21,14 @@
 
 
   <UID>borg_torpedo</UID>
-  <fireDelay>10</fireDelay>
+  <fireDelay>8</fireDelay>
   <Range>5000</Range>
-  <PowerRequiredToFire>200</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>100</OrdinanceRequiredToFire>
+  <PowerRequiredToFire>800</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>200</HitPoints>
+  <HitPoints>10</HitPoints>
   <SalvoCount>2</SalvoCount>
-  <SalvoTimer>11</SalvoTimer>
+  <SalvoTimer>7</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>
@@ -36,9 +36,9 @@
   
   
   <!-- Projectile Information -->
-  <DamageAmount>4000</DamageAmount>
+  <DamageAmount>11000</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>700</ProjectileSpeed>
+  <ProjectileSpeed>2700</ProjectileSpeed>
 
 
   <!-- Animation Information -->

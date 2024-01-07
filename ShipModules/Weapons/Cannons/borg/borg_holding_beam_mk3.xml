@@ -13,9 +13,9 @@
   <Version>2</Version>
 
   <IconTexturePath>Modules/borg_holding_beam_mk3</IconTexturePath>
-  <Mass>30</Mass>
-  <Health>15760</Health>
-  <HealthMax>15760</HealthMax>
+  <Mass>40</Mass>
+  <Health>25760</Health>
+  <HealthMax>25760</HealthMax>
   <energyreq>0</energyreq>
   <Description>A crude but effective high-energy cannon weapon </Description>
   <CrewRequired>12</CrewRequired>

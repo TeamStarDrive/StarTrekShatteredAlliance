@@ -22,13 +22,13 @@
   
   <UID>gravametric_torpedo_mk3</UID>
   <fireDelay>10</fireDelay>
-  <Range>14000</Range>
+  <Range>16000</Range>
   <PowerRequiredToFire>2200</PowerRequiredToFire>
   <OrdinanceRequiredToFire>400</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
   <HitPoints>45</HitPoints>
-  <SalvoCount>2</SalvoCount>
-  <SalvoTimer>11</SalvoTimer>
+  <SalvoCount>4</SalvoCount>
+  <SalvoTimer>8</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>
@@ -42,7 +42,10 @@
   <LoopAnimation>1</LoopAnimation>
 
   <!-- Projectile Information -->
-  <DamageAmount>13500</DamageAmount>
+  <RepulsionDamage>9000</RepulsionDamage>
+  <EMPDamage>350</EMPDamage>
+  <ShieldPenChance>100</ShieldPenChance>
+  <DamageAmount>35500</DamageAmount>
   <Scale>3.6</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>1000</ProjectileSpeed>

@@ -23,11 +23,11 @@
 
   <UID>borg_hevey_torp_mk1</UID>
   <fireDelay>10</fireDelay>
-  <Range>8000</Range>
+  <Range>10000</Range>
   <PowerRequiredToFire>1600</PowerRequiredToFire>
   <OrdinanceRequiredToFire>300</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>200</HitPoints>
+  <HitPoints>100</HitPoints>
   <SalvoCount>2</SalvoCount>
   <SalvoTimer>10</SalvoTimer>
 
@@ -37,9 +37,10 @@
   
   
   <!-- Projectile Information -->
-  <DamageAmount>9000</DamageAmount>
+  <DamageAmount>29000</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>700</ProjectileSpeed>
+  <ProjectileSpeed>1700</ProjectileSpeed>
+  <ExplosionRadius>90</ExplosionRadius>
 
 
   <!-- Animation Information -->

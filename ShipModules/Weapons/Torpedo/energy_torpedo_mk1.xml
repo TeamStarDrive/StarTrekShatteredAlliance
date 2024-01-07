@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>energy_torpedo_mk1</WeaponType>
-  <OrdinanceCapacity>500</OrdinanceCapacity>
+  <OrdinanceCapacity>100</OrdinanceCapacity>
   <FieldOfFire>45</FieldOfFire>
 
   <!-- for Engines -->

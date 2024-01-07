@@ -12,9 +12,9 @@
   <Version>2</Version>
 
   <IconTexturePath>Modules/borg_hevey_torp_mk1</IconTexturePath>
-  <Mass>250</Mass>
-  <Health>11500</Health>
-  <HealthMax>11500</HealthMax>
+  <Mass>1900</Mass>
+  <Health>21500</Health>
+  <HealthMax>21500</HealthMax>
   <energyreq>20</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>borg_hevey_torp_mk1</WeaponType>
-  <OrdinanceCapacity>1000</OrdinanceCapacity>
+  <OrdinanceCapacity>500</OrdinanceCapacity>
   <FieldOfFire>180</FieldOfFire>
 
   <!-- for Engines -->

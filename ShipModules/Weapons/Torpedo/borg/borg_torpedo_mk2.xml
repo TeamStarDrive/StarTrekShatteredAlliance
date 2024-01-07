@@ -12,9 +12,9 @@
   <Version>2</Version>
 
   <IconTexturePath>Modules/borg_torpedo_mk2</IconTexturePath>
-  <Mass>250</Mass>
-  <Health>11500</Health>
-  <HealthMax>11500</HealthMax>
+  <Mass>132</Mass>
+  <Health>15500</Health>
+  <HealthMax>15500</HealthMax>
   <energyreq>20</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
@@ -39,8 +39,8 @@
 
   <!-- for Weapons -->
   <WeaponType>borg_torpedo_mk2</WeaponType>
-  <OrdinanceCapacity>1000</OrdinanceCapacity>
-  <FieldOfFire>180</FieldOfFire>
+  <OrdinanceCapacity>100</OrdinanceCapacity>
+  <FieldOfFire>45</FieldOfFire>
 
   <!-- for Engines -->
   <Thrust>0</Thrust>

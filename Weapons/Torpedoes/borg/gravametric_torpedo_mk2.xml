@@ -22,13 +22,13 @@
   
   <UID>gravametric_torpedo_mk2</UID>
   <fireDelay>10</fireDelay>
-  <Range>14000</Range>
+  <Range>15000</Range>
   <PowerRequiredToFire>2200</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>400</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>15</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
   <HitPoints>45</HitPoints>
-  <SalvoCount>2</SalvoCount>
-  <SalvoTimer>11</SalvoTimer>
+  <SalvoCount>3</SalvoCount>
+  <SalvoTimer>9</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>
@@ -42,12 +42,15 @@
   <LoopAnimation>1</LoopAnimation>
 
   <!-- Projectile Information -->
-  <DamageAmount>13500</DamageAmount>
-  <Scale>3.6</Scale>
+  <RepulsionDamage>5000</RepulsionDamage>
+  <EMPDamage>250</EMPDamage>
+  <ShieldPenChance>100</ShieldPenChance>
+  <DamageAmount>22000</DamageAmount>
+  <Scale>3</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>1000</ProjectileSpeed>
-  <DamageRadius>50</DamageRadius>
-  <explodes>true</explodes>
+  <ProjectileSpeed>3500</ProjectileSpeed>
+  <ProjectileRadius>10</ProjectileRadius>
+  <ExplosionRadius>100</ExplosionRadius> 
   <Light>Red</Light>
   <ProjectileTexturePath>projBall_01_cyan</ProjectileTexturePath>
   <ModelPath>projBall</ModelPath>

@@ -21,10 +21,10 @@
   <OffPowerMod>0.35</OffPowerMod>
 
   <UID>gravametric_torpedo</UID>
-  <fireDelay>10</fireDelay>
-  <Range>12000</Range>
-  <PowerRequiredToFire>1500</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>300</OrdinanceRequiredToFire>
+  <fireDelay>8</fireDelay>
+  <Range>14000</Range>
+  <PowerRequiredToFire>1900</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>15</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
   <HitPoints>40</HitPoints>
   <SalvoCount>2</SalvoCount>
@@ -36,9 +36,15 @@
   <dieCue>Explo1</dieCue>
   
   <!-- Projectile Information -->
-  <DamageAmount>9000</DamageAmount>
+  <RepulsionDamage>3000</RepulsionDamage>
+  <EMPDamage>250</EMPDamage>
+  <ShieldPenChance>100</ShieldPenChance>
+  <DamageAmount>15000</DamageAmount>
+  <Scale>2.5</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>1000</ProjectileSpeed>
+  <ProjectileSpeed>2900</ProjectileSpeed>
+  <ProjectileRadius>10</ProjectileRadius>
+  <ExplosionRadius>100</ExplosionRadius>
 
   <!-- Animation Information -->
   <Light>Red</Light>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>50</Cost>
+  <Cost>90</Cost>
   <TechLevel>3</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -13,7 +13,7 @@
   <Version>2</Version>
 
   <IconTexturePath>Modules/borg_holding_beam_mk2</IconTexturePath>
-  <Mass>25</Mass>
+  <Mass>35</Mass>
   <Health>15760</Health>
   <HealthMax>15760</HealthMax>
   <energyreq>0</energyreq>

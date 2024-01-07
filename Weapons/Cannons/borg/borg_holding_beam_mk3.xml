@@ -6,7 +6,7 @@
   <UID>borg_holding_beam_mk3</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>7</FireDelay>
-  <Range>10000</Range>
+  <Range>7000</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2</BeamDuration>

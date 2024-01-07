@@ -5,11 +5,11 @@
 
   <UID>cutting_beam_mk3</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
-  <Range>9500</Range>
+  <FireDelay>4</FireDelay>
+  <Range>13500</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>3.5</BeamDuration>
+  <BeamDuration>2.5</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
   <OffPowerMod>0.35</OffPowerMod>
@@ -20,12 +20,14 @@
   
   
   <!-- Projectile Information -->
-  <BeamTexture>vul_phaser</BeamTexture>
-  <EffectVsArmor>1.00</EffectVsArmor>
-  <DamageAmount>90</DamageAmount>
-  <BeamThickness>25</BeamThickness>
-  <BeamPowerCostPerSecond>6050</BeamPowerCostPerSecond>
+  <BeamTexture>beam_greenA</BeamTexture>
+  <EffectVsArmor>1.20</EffectVsArmor>
+  <DamageAmount>190</DamageAmount>
+  <BeamThickness>35</BeamThickness>
+  <BeamPowerCostPerSecond>1050</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
+  <TroopDamageChance>25</TroopDamageChance>
+  <ShieldPenChance>3</ShieldPenChance>
 
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

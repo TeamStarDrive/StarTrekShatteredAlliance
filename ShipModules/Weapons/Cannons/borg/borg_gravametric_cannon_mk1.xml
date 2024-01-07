@@ -3,8 +3,8 @@
 
   <DroneModule>false</DroneModule>
 
-  <Cost>60</Cost>
-  <TechLevel>3</TechLevel>
+  <Cost>40</Cost>
+  <TechLevel>1</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
   <XSize>2</XSize>
@@ -13,7 +13,7 @@
   <Restrictions>O</Restrictions>
   <UID>borg_gravametric_cannon_mk1</UID>
   <IconTexturePath>Modules/borg_gravametric_cannon_mk1</IconTexturePath>
-  <Mass>50</Mass>
+  <Mass>10</Mass>
   <Health>10975</Health>
   <HealthMax>10975</HealthMax>
   <energyreq>0</energyreq>
@@ -42,7 +42,7 @@
   
   <!-- for Weapons -->
   <WeaponType>borg_gravametric_cannon_mk1</WeaponType>
-  <FieldOfFire>360</FieldOfFire>
+  <FieldOfFire>180</FieldOfFire>
   <OrdinanceCapacity>0</OrdinanceCapacity>
   
   <!-- for Engines -->

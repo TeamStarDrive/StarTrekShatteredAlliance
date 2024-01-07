@@ -22,18 +22,17 @@
   <DescriptionIndex>18651</DescriptionIndex>
 
   <!-- Mass and Health -->
-  <Mass>60</Mass>
-  <Health>9570</Health>
-  <HealthMax>9570</HealthMax>
+  <Mass>70</Mass>
+  <Health>30570</Health>
+  <HealthMax>30570</HealthMax>
 
   <!-- Power Drawn -->
-  <PowerDraw>5</PowerDraw>
+  <PowerDraw>155</PowerDraw>
 
   <!-- for Weapons -->
   
-  <WeaponType>cutting_beam_mk2</WeaponType>
-  <FieldOfFire>15</FieldOfFire>
-  <AccuracyPercent>0.78</AccuracyPercent>
+  <WeaponType>cutting_beam_mk3</WeaponType>
+  <FieldOfFire>45</FieldOfFire>
   <!-- Description -->
   <Description>This heavy-mount fusion beam has a fixed spinal facing and a 45 degree field of fire.</Description>
   

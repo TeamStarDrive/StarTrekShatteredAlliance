@@ -12,9 +12,9 @@
   <Version>2</Version>
 
   <IconTexturePath>Modules/gravametric_torpedo_mk3</IconTexturePath>
-  <Mass>350</Mass>
-  <Health>16500</Health>
-  <HealthMax>16500</HealthMax>
+  <Mass>250</Mass>
+  <Health>36500</Health>
+  <HealthMax>36500</HealthMax>
   <energyreq>20</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>gravametric_torpedo_mk3</WeaponType>
-  <OrdinanceCapacity>2000</OrdinanceCapacity>
+  <OrdinanceCapacity>500</OrdinanceCapacity>
   <FieldOfFire>360</FieldOfFire>
 
   <!-- for Engines -->

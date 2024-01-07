@@ -3,8 +3,8 @@
 
   <DroneModule>false</DroneModule>
 
-  <Cost>60</Cost>
-  <TechLevel>3</TechLevel>
+  <Cost>45</Cost>
+  <TechLevel>2</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
   <XSize>3</XSize>
@@ -13,9 +13,9 @@
   <Restrictions>O</Restrictions>
   <UID>borg_gravametric_cannon_mk2</UID>
   <IconTexturePath>Modules/borg_gravametric_cannon_mk2</IconTexturePath>
-  <Mass>50</Mass>
-  <Health>10975</Health>
-  <HealthMax>10975</HealthMax>
+  <Mass>15</Mass>
+  <Health>15975</Health>
+  <HealthMax>15975</HealthMax>
   <energyreq>0</energyreq>
   <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
   </Description>
@@ -42,7 +42,7 @@
   
   <!-- for Weapons -->
   <WeaponType>borg_gravametric_cannon_mk2</WeaponType>
-  <FieldOfFire>360</FieldOfFire>
+  <FieldOfFire>180</FieldOfFire>
   <OrdinanceCapacity>0</OrdinanceCapacity>
   
   <!-- for Engines -->

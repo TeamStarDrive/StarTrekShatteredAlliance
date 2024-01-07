@@ -6,7 +6,7 @@
   <UID>borg_holding_beam_mk2</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>7</FireDelay>
-  <Range>8000</Range>
+  <Range>6000</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2</BeamDuration>
@@ -18,7 +18,6 @@
   
   <!-- Projectile Information -->
   <RepulsionDamage>14000</RepulsionDamage>
-  <RepulsionDamage>100</RepulsionDamage>
   <EffectVsShields>30</EffectVsShields>
   <PowerDamage>2500</PowerDamage>
   <SiphonDamage>700</SiphonDamage>

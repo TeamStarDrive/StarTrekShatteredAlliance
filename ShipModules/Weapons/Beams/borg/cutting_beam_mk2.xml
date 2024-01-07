@@ -6,7 +6,7 @@
 
   <Cost>33</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
-  <TechLevel>4</TechLevel>
+  <TechLevel>3</TechLevel>
   
   <!-- common traits shared by all ship modules -->
   <XSize>2</XSize>
@@ -23,17 +23,16 @@
 
   <!-- Mass and Health -->
   <Mass>60</Mass>
-  <Health>9570</Health>
-  <HealthMax>9570</HealthMax>
+  <Health>18570</Health>
+  <HealthMax>18570</HealthMax>
 
   <!-- Power Drawn -->
-  <PowerDraw>5</PowerDraw>
+  <PowerDraw>10</PowerDraw>
 
   <!-- for Weapons -->
   
   <WeaponType>cutting_beam_mk2</WeaponType>
-  <FieldOfFire>15</FieldOfFire>
-  <AccuracyPercent>0.78</AccuracyPercent>
+  <FieldOfFire>25</FieldOfFire>
   <!-- Description -->
   <Description>This heavy-mount fusion beam has a fixed spinal facing and a 45 degree field of fire.</Description>
   

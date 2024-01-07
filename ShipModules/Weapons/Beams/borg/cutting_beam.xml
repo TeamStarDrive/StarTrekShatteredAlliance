@@ -4,7 +4,7 @@
   <UID>cutting_beam</UID> 
   <Version>2</Version>
 
-  <Cost>33</Cost>
+  <Cost>100</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>2</TechLevel>
   
@@ -22,18 +22,17 @@
   <DescriptionIndex>18396</DescriptionIndex>
 
   <!-- Mass and Health -->
-  <Mass>60</Mass>
-  <Health>5570</Health>
-  <HealthMax>5570</HealthMax>
+  <Mass>8</Mass>
+  <Health>10570</Health>
+  <HealthMax>10570</HealthMax>
 
   <!-- Power Drawn -->
-  <PowerDraw>1</PowerDraw>
+  <PowerDraw>5</PowerDraw>
 
   <!-- for Weapons -->
   
   <WeaponType>cutting_beam</WeaponType>
-  <FieldOfFire>90</FieldOfFire>
-  <AccuracyPercent>0.58</AccuracyPercent>
+  <FieldOfFire>15</FieldOfFire>
   <!-- Description -->
   <Description>This heavy-mount fusion beam has a fixed spinal facing and a 45 degree field of fire.</Description>
   

@@ -6,7 +6,7 @@
 
   <Cost>33</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
-  <TechLevel>4</TechLevel>
+  <TechLevel>5</TechLevel>
   
   <!-- common traits shared by all ship modules -->
   <XSize>6</XSize>
@@ -22,18 +22,17 @@
   <DescriptionIndex>18653</DescriptionIndex>
 
   <!-- Mass and Health -->
-  <Mass>600</Mass>
-  <Health>19570</Health>
-  <HealthMax>19570</HealthMax>
+  <Mass>100</Mass>
+  <Health>40570</Health>
+  <HealthMax>40570</HealthMax>
 
   <!-- Power Drawn -->
-  <PowerDraw>5</PowerDraw>
+  <PowerDraw>20</PowerDraw>
 
   <!-- for Weapons -->
   
   <WeaponType>borg_gravametric_distortion_beam</WeaponType>
-  <FieldOfFire>90</FieldOfFire>
-  <AccuracyPercent>0.78</AccuracyPercent>
+  <FieldOfFire>360</FieldOfFire>
   <!-- Description -->
   <Description>This heavy-mount fusion beam has a fixed spinal facing and a 45 degree field of fire.</Description>
   
