@@ -21,14 +21,14 @@
 
 
   <UID>Kling_PhotonTorpedoMk2</UID>
-  <fireDelay>10</fireDelay>
+  <fireDelay>8</fireDelay>
   <Range>8000</Range>
   <PowerRequiredToFire>600</PowerRequiredToFire>
   <OrdinanceRequiredToFire>200</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
   <HitPoints>15</HitPoints>
   <SalvoCount>3</SalvoCount>
-  <SalvoTimer>12</SalvoTimer>
+  <SalvoTimer>7</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>
@@ -36,13 +36,15 @@
   
   
   <!-- Projectile Information -->
-  <DamageAmount>8600</DamageAmount>
+  <DamageAmount>18600</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>1700</ProjectileSpeed>
+  <ProjectileSpeed>2700</ProjectileSpeed>
+  <ProjectileRadius>10</ProjectileRadius>
+  <ExplosionRadius>60</ExplosionRadius>
 
   <!-- Animation Information -->
   <Light>Red</Light>
-  <Scale>2.9</Scale>
+  <Scale>1.5</Scale>
   <Animated>1</Animated>
   <Frames>16</Frames>
   <AnimationPath>kling_torpedo/kling_torpedo_cc_</AnimationPath>

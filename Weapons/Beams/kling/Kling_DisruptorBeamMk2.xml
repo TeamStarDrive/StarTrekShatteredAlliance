@@ -23,9 +23,9 @@
   <EffectVsShields>1.40</EffectVsShields> 
   
   <DamageAmount>35</DamageAmount>
-  <BeamThickness>25</BeamThickness>
-  <ShieldPenChance>15</ShieldPenChance>
-  <EffectVsArmor>1.30</EffectVsArmor>
+  <BeamThickness>15</BeamThickness>
+  <ShieldPenChance>25</ShieldPenChance>
+  <EffectVsArmor>1.00</EffectVsArmor>
   <BeamPowerCostPerSecond>1750</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
 

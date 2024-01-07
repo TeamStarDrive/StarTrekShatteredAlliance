@@ -22,13 +22,13 @@
 
   <UID>Klingon_cloaked_torpedo</UID>
   <fireDelay>10</fireDelay>
-  <Range>10000</Range>
-  <PowerRequiredToFire>1600</PowerRequiredToFire>
+  <Range>17000</Range>
+  <PowerRequiredToFire>2600</PowerRequiredToFire>
   <OrdinanceRequiredToFire>400</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>40</HitPoints>
-  <SalvoCount>2</SalvoCount>
-  <SalvoTimer>10</SalvoTimer>
+  <HitPoints>400</HitPoints>
+  <SalvoCount>6</SalvoCount>
+  <SalvoTimer>7</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>
@@ -38,7 +38,7 @@
   <!-- Projectile Information -->
   <DamageAmount>15000</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>1200</ProjectileSpeed>
+  <ProjectileSpeed>5200</ProjectileSpeed>
 
   <!-- Animation Information -->
   <Light>Red</Light>

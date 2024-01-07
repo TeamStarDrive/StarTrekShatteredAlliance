@@ -6,10 +6,10 @@
   <UID>trifocused_disrupter_beam</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>2</FireDelay>
-  <Range>12000</Range>
-  <PowerRequiredToFire>100</PowerRequiredToFire>
+  <Range>13500</Range>
+  <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2.5</BeamDuration>
+  <BeamDuration>2.6</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -20,12 +20,12 @@
   
   <!-- Projectile Information -->
   <BeamTexture>kling_disruptorbeam</BeamTexture>
-  <EffectVsShields>1.40</EffectVsShields> 
+  <EffectVsShields>1.60</EffectVsShields> 
   
-  <DamageAmount>35</DamageAmount>
+  <DamageAmount>65</DamageAmount>
   <BeamThickness>25</BeamThickness>
-  <ShieldPenChance>15</ShieldPenChance>
-  <EffectVsArmor>1.30</EffectVsArmor>
+  <ShieldPenChance>55</ShieldPenChance>
+  <EffectVsArmor>0.95</EffectVsArmor>
   <BeamPowerCostPerSecond>1750</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
 

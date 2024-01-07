@@ -20,11 +20,11 @@
   <BeamTexture>kling_disruptorbeam</BeamTexture>
   <EffectVsShields>1.00</EffectVsShields> 
   
-  <DamageAmount>20</DamageAmount>
+  <DamageAmount>25</DamageAmount>
   <BeamThickness>15</BeamThickness>
   <BeamPowerCostPerSecond>420</BeamPowerCostPerSecond>
   <ShieldPenChance>10</ShieldPenChance>
-  <EffectVsArmor>1.10</EffectVsArmor>
+  <EffectVsArmor>0.90</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

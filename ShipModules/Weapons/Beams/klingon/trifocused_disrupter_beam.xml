@@ -4,9 +4,9 @@
   <UID>trifocused_disrupter_beam</UID> 
   <Version>2</Version>
 
-  <Cost>33</Cost>
+  <Cost>133</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
-  <TechLevel>2</TechLevel>
+  <TechLevel>5</TechLevel>
   
   <!-- common traits shared by all ship modules -->
   <XSize>4</XSize>
@@ -23,8 +23,8 @@
 
   <!-- Mass and Health -->
   <Mass>60</Mass>
-  <Health>12270</Health>
-  <HealthMax>12270</HealthMax>
+  <Health>62270</Health>
+  <HealthMax>62270</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>10</PowerDraw>
@@ -32,8 +32,8 @@
   <!-- for Weapons -->
   
   <WeaponType>trifocused_disrupter_beam</WeaponType>
-  <FieldOfFire>45</FieldOfFire>
-  <AccuracyPercent>0.28</AccuracyPercent>
+  <FieldOfFire>65</FieldOfFire>
+  <AccuracyPercent>0.98</AccuracyPercent>
   <!-- Description -->
   <Description>This heavy-mount fusion beam has a fixed spinal facing and a 45 degree field of fire.</Description>
   

@@ -20,23 +20,24 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>
 
   <UID>Kling_TriTorpedoMk1</UID>
-  <fireDelay>10</fireDelay>
-  <Range>10000</Range>
+  <fireDelay>8</fireDelay>
+  <Range>14000</Range>
   <PowerRequiredToFire>1000</PowerRequiredToFire>
   <OrdinanceRequiredToFire>300</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
   <HitPoints>40</HitPoints>
   <SalvoCount>2</SalvoCount>
-  <SalvoTimer>11</SalvoTimer>
+  <SalvoTimer>7</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>
   <dieCue>Explo1</dieCue>
   
   <!-- Projectile Information -->
-  <DamageAmount>9000</DamageAmount>
+  <DamageAmount>19000</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>1000</ProjectileSpeed>
+  <ShieldPenChance>25</ShieldPenChance>
 
   <!-- Animation Information -->
   <Light>Red</Light>
@@ -49,7 +50,7 @@
   <!-- Explosion Information -->
   <explodes>true</explodes>
   <ExpColor>Blue_1</ExpColor>
-  <DamageRadius>40</DamageRadius>
+  <DamageRadius>140</DamageRadius>
   
   <ProjectileTexturePath>projBall_01_orange</ProjectileTexturePath>
   <ModelPath>projBall</ModelPath>

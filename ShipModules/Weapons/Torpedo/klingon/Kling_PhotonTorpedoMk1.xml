@@ -12,15 +12,15 @@
   <Version>2</Version>
 
   <IconTexturePath>Modules/Kling_PhotonTorpedoMk1</IconTexturePath>
-  <Mass>150</Mass>
-  <Health>5500</Health>
-  <HealthMax>5500</HealthMax>
+  <Mass>100</Mass>
+  <Health>15500</Health>
+  <HealthMax>15500</HealthMax>
   <energyreq>20</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
   
   <PowerDraw>5</PowerDraw>
-  <TechLevel>3</TechLevel>  
+  <TechLevel>2</TechLevel>  
   <!-- for shield items -->
   
   <ShieldPowerMax>0</ShieldPowerMax>
@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>Kling_PhotonTorpedoMk1</WeaponType>
-  <OrdinanceCapacity>1500</OrdinanceCapacity>
+  <OrdinanceCapacity>150</OrdinanceCapacity>
   <FieldOfFire>180</FieldOfFire>
 
   <!-- for Engines -->

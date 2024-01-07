@@ -6,7 +6,7 @@
   <UID>Kling_DisruptorBeamMk3</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>2</FireDelay>
-  <Range>8000</Range>
+  <Range>10000</Range>
   <PowerRequiredToFire>100</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2.5</BeamDuration>
@@ -22,11 +22,11 @@
   <BeamTexture>kling_disruptorbeam</BeamTexture>
   <EffectVsShields>1.40</EffectVsShields> 
   
-  <DamageAmount>35</DamageAmount>
-  <BeamThickness>25</BeamThickness>
-  <ShieldPenChance>15</ShieldPenChance>
+  <DamageAmount>45</DamageAmount>
+  <BeamThickness>20</BeamThickness>
+  <ShieldPenChance>35</ShieldPenChance>
   <EffectVsArmor>1.30</EffectVsArmor>
-  <BeamPowerCostPerSecond>1750</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>750</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

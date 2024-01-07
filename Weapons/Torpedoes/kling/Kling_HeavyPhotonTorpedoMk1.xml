@@ -22,13 +22,13 @@
 
   <UID>Kling_HeavyPhotonTorpedoMk1</UID>
   <fireDelay>10</fireDelay>
-  <Range>8000</Range>
+  <Range>10000</Range>
   <PowerRequiredToFire>1600</PowerRequiredToFire>
   <OrdinanceRequiredToFire>300</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>25</HitPoints>
+  <HitPoints>55</HitPoints>
   <SalvoCount>2</SalvoCount>
-  <SalvoTimer>11</SalvoTimer>
+  <SalvoTimer>8</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>
@@ -36,9 +36,9 @@
   
   
   <!-- Projectile Information -->
-  <DamageAmount>12000</DamageAmount>
+  <DamageAmount>30000</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>1200</ProjectileSpeed>
+  <ProjectileSpeed>2200</ProjectileSpeed>
 
   <!-- Animation Information -->
   <Light>Red</Light>

@@ -21,13 +21,13 @@
   
   <UID>Kling_TriTorpedoMk2</UID>
   <fireDelay>12</fireDelay>
-  <Range>12000</Range>
+  <Range>15000</Range>
   <PowerRequiredToFire>1200</PowerRequiredToFire>
   <OrdinanceRequiredToFire>400</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
   <HitPoints>45</HitPoints>
-  <SalvoCount>2</SalvoCount>
-  <SalvoTimer>11</SalvoTimer>
+  <SalvoCount>4</SalvoCount>
+  <SalvoTimer>6</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>
@@ -41,10 +41,10 @@
   <LoopAnimation>1</LoopAnimation>
 
   <!-- Projectile Information -->
-  <DamageAmount>13500</DamageAmount>
+  <DamageAmount>33500</DamageAmount>
   <Scale>3.6</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>1000</ProjectileSpeed>
+  <ProjectileSpeed>2900</ProjectileSpeed>
   <DamageRadius>50</DamageRadius>
   <explodes>true</explodes>
   <Light>Red</Light>
