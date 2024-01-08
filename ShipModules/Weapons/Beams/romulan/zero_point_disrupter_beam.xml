@@ -4,9 +4,9 @@
   <UID>zero_point_disrupter_beam</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>21</Cost>
+  <Cost>131</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
-  <TechLevel>2</TechLevel>
+  <TechLevel>6</TechLevel>
 
   
   <!-- common traits shared by all ship modules -->
@@ -25,15 +25,15 @@
 
   <!-- Mass and Health -->
   <Mass>8</Mass>
-  <Health>8120</Health>
-  <HealthMax>8120</HealthMax>
+  <Health>30120</Health>
+  <HealthMax>30120</HealthMax>
 
   <!-- Power Drawn -->
-  <PowerDraw>5</PowerDraw>
+  <PowerDraw>10</PowerDraw>
 
   <!-- for Weapons -->
   <WeaponType>zero_point_disrupter_beam</WeaponType>
-  <FieldOfFire>15</FieldOfFire>
+  <FieldOfFire>60</FieldOfFire>
 
   <!-- Description -->
   <Description>Phasors are powerful and efficient directed energy weapons.</Description>

@@ -12,10 +12,10 @@
   <Version>2</Version>
 
   <IconTexturePath>Modules/plasma_torpedo_mk2</IconTexturePath>
-  <Mass>300</Mass>
-  <Health>14500</Health>
-  <HealthMax>14500</HealthMax>
-  <energyreq>30</energyreq>
+  <Mass>350</Mass>
+  <Health>28500</Health>
+  <HealthMax>28500</HealthMax>
+  <energyreq>20</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
   
@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>plasma_torpedo_mk2</WeaponType>
-  <OrdinanceCapacity>3000</OrdinanceCapacity>
+  <OrdinanceCapacity>100</OrdinanceCapacity>
   <FieldOfFire>180</FieldOfFire>
 
   <!-- for Engines -->

@@ -21,11 +21,11 @@
 
   <UID>singlarity_torpedo</UID>
   <fireDelay>40</fireDelay>
-  <Range>11000</Range>
-  <PowerRequiredToFire>1500</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>300</OrdinanceRequiredToFire>
+  <Range>15000</Range>
+  <PowerRequiredToFire>2500</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>30</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>30</HitPoints>
+  <HitPoints>300</HitPoints>
   <SalvoCount>2</SalvoCount>
   <SalvoTimer>11</SalvoTimer>
 
@@ -34,13 +34,13 @@
   <dieCue>Explo1</dieCue>
   
   <!-- Projectile Information -->
-  <DamageAmount>12000</DamageAmount>
+  <DamageAmount>40000</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>1300</ProjectileSpeed>
+  <ProjectileSpeed>2300</ProjectileSpeed>
 
   <!-- Animation Information -->
   <Light>Red</Light>
-  <Scale>4.7</Scale>
+  <Scale>3</Scale>
   <Animated>1</Animated>
   <Frames>16</Frames>
   <AnimationPath>rom_torpedo_heavy/rom_torpedo_heavy_cc_</AnimationPath>
@@ -49,7 +49,7 @@
   <!-- Explosion Information -->
   <explodes>true</explodes>
   <ExpColor>Blue_1</ExpColor>
-  <DamageRadius>40</DamageRadius>
+  <DamageRadius>150</DamageRadius>
   
   <ProjectileTexturePath>projBall_01_orange</ProjectileTexturePath>
   <ModelPath>projBall</ModelPath>

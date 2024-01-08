@@ -23,7 +23,7 @@
   <IsBeam>true</IsBeam>
   <FireDelay>5</FireDelay>
   <Range>7000</Range>
-  <PowerRequiredToFire>0</PowerRequiredToFire>
+  <PowerRequiredToFire>50</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -35,7 +35,7 @@
   <!-- Projectile Information -->
   <DamageAmount>16</DamageAmount>
   <BeamThickness>10</BeamThickness>
-  <BeamPowerCostPerSecond>487</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>187</BeamPowerCostPerSecond>
   <EffectVsArmor>1.15</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>
  

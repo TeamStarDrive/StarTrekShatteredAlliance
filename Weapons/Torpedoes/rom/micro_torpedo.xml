@@ -22,8 +22,8 @@
   <UID>micro_torpedo</UID>
   <fireDelay>10</fireDelay>
   <Range>6000</Range>
-  <PowerRequiredToFire>200</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>300</OrdinanceRequiredToFire>
+  <PowerRequiredToFire>50</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>5</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
   <HitPoints>10</HitPoints>
   <SalvoCount>3</SalvoCount>
@@ -34,9 +34,9 @@
   <dieCue>Explo1</dieCue>
   
   <!-- Projectile Information -->
-  <DamageAmount>1500</DamageAmount>
+  <DamageAmount>2500</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>1400</ProjectileSpeed>
+  <ProjectileSpeed>3000</ProjectileSpeed>
 
   <!-- Animation Information -->
   <Light>Red</Light>

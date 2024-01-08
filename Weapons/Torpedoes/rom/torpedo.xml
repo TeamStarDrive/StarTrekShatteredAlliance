@@ -21,26 +21,26 @@
 
   <UID>torpedo</UID>
   <fireDelay>15</fireDelay>
-  <Range>7000</Range>
-  <PowerRequiredToFire>2000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>300</OrdinanceRequiredToFire>
+  <Range>5000</Range>
+  <PowerRequiredToFire>800</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>200</HitPoints>
+  <HitPoints>10</HitPoints>
   <SalvoCount>2</SalvoCount>
-  <SalvoTimer>11</SalvoTimer>
+  <SalvoTimer>7</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>
   <dieCue>Explo1</dieCue>
   
   <!-- Projectile Information -->
-  <DamageAmount>3000</DamageAmount>
+  <DamageAmount>10500</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>1600</ProjectileSpeed>
+  <ProjectileSpeed>2500</ProjectileSpeed>
 
   <!-- Animation Information -->
   <Light>Red</Light>
-  <Scale>2.0</Scale>
+  <Scale>1</Scale>
   <Animated>1</Animated>
   <Frames>16</Frames>
   <AnimationPath>rom_torpedo/rom_torpedo_cc_</AnimationPath>

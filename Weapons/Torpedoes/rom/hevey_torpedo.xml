@@ -22,25 +22,25 @@
   <UID>hevey_torpedo</UID>
   <fireDelay>10</fireDelay>
   <Range>10000</Range>
-  <PowerRequiredToFire>1000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>200</OrdinanceRequiredToFire>
+  <PowerRequiredToFire>1500</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>20</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>20</HitPoints>
+  <HitPoints>50</HitPoints>
   <SalvoCount>2</SalvoCount>
-  <SalvoTimer>11</SalvoTimer>
+  <SalvoTimer>7</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>
   <dieCue>Explo1</dieCue>
   
   <!-- Projectile Information -->
-  <DamageAmount>9000</DamageAmount>
+  <DamageAmount>29000</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>1000</ProjectileSpeed>
+  <ProjectileSpeed>1700</ProjectileSpeed>
 
   <!-- Animation Information -->
   <Light>Red</Light>
-  <Scale>3.7</Scale>
+  <Scale>3</Scale>
   <Animated>1</Animated>
   <Frames>16</Frames>
   <AnimationPath>rom_torpedo_heavy/rom_torpedo_heavy_cc_</AnimationPath>
@@ -49,7 +49,7 @@
   <!-- Explosion Information -->
   <explodes>true</explodes>
   <ExpColor>Blue_1</ExpColor>
-  <DamageRadius>40</DamageRadius>
+  <DamageRadius>70</DamageRadius>
   
   <ProjectileTexturePath>projBall_01_orange</ProjectileTexturePath>
   <ModelPath>projBall</ModelPath>

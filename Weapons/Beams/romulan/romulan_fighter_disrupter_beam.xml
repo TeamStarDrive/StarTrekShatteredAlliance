@@ -22,7 +22,7 @@
   <UID>romulan_fighter_disrupter_beam</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>5</FireDelay>
-  <Range>7000</Range>
+  <Range>8000</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2</BeamDuration>
@@ -33,10 +33,11 @@
   <BeamTexture>fed_phaser</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>16</DamageAmount>
+  <DamageAmount>26</DamageAmount>
   <BeamThickness>10</BeamThickness>
-  <BeamPowerCostPerSecond>487</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>387</BeamPowerCostPerSecond>
   <EffectVsArmor>1.15</EffectVsArmor>
+ <ShieldPenChance>10</ShieldPenChance> 
   <WeaponRotation>2</WeaponRotation>
  
 

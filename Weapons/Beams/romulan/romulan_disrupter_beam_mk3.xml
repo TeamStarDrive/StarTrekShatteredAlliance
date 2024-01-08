@@ -16,16 +16,17 @@
   <Tag_Drone>false</Tag_Drone>
   <Tag_Torpedo>false</Tag_Torpedo>
   <Tag_Cannon>false</Tag_Cannon>
-  
-  <ExcludesFighters>false</ExcludesFighters>  
+
+  <ExcludesFighters>true</ExcludesFighters>  
+  <ExcludesCorvettes>true</ExcludesCorvettes>
 
   <UID>romulan_disrupter_beam_mk3</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>5</FireDelay>
-  <Range>7000</Range>
+  <Range>10000</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2</BeamDuration>
+  <BeamDuration>2.4</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
@@ -33,10 +34,10 @@
   <BeamTexture>fed_phaser</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>16</DamageAmount>
-  <BeamThickness>10</BeamThickness>
-  <BeamPowerCostPerSecond>487</BeamPowerCostPerSecond>
-  <EffectVsArmor>1.15</EffectVsArmor>
+  <DamageAmount>40</DamageAmount>
+  <BeamThickness>15</BeamThickness>
+  <BeamPowerCostPerSecond>787</BeamPowerCostPerSecond>
+  <EffectVsArmor>1.25</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>
  
 

@@ -21,26 +21,26 @@
 
   <UID>plasma_torpedo</UID>
   <fireDelay>15</fireDelay>
-  <Range>8000</Range>
-  <PowerRequiredToFire>2000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>300</OrdinanceRequiredToFire>
+  <Range>14000</Range>
+  <PowerRequiredToFire>1900</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>150</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>200</HitPoints>
-  <SalvoCount>2</SalvoCount>
-  <SalvoTimer>14</SalvoTimer>
+  <HitPoints>30</HitPoints>
+  <SalvoCount>4</SalvoCount>
+  <SalvoTimer>7</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>
   <dieCue>Explo1</dieCue>
   
   <!-- Projectile Information -->
-  <DamageAmount>15000</DamageAmount>
+  <DamageAmount>20000</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>1000</ProjectileSpeed>
 
   <!-- Animation Information -->
   <Light>Red</Light>
-  <Scale>3.7</Scale>
+  <Scale>2.5</Scale>
   <Animated>1</Animated>
   <Frames>16</Frames>
   <AnimationPath>rom_torpedo_plasma/rom_torpedo_plasma_cc_</AnimationPath>
@@ -49,12 +49,12 @@
   <!-- Explosion Information -->
   <explodes>true</explodes>
   <ExpColor>Blue_1</ExpColor>
-  <DamageRadius>40</DamageRadius>
+  <DamageRadius>80</DamageRadius>
   
   <ProjectileTexturePath>projBall_01_orange</ProjectileTexturePath>
   <ModelPath>projBall</ModelPath>
   <WeaponType>Energy Torpedo</WeaponType>
 
 
-  <FireArc>45</FireArc>
+
 </Weapon>

@@ -14,8 +14,8 @@
   <UID>romulan_disrupter_cannon_mk3</UID>
   <IconTexturePath>Modules/romulan_disrupter_cannon_mk3</IconTexturePath>
   <Mass>25</Mass>
-  <Health>12575</Health>
-  <HealthMax>12575</HealthMax>
+  <Health>26575</Health>
+  <HealthMax>26575</HealthMax>
   <energyreq>0</energyreq>
   <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
   </Description>

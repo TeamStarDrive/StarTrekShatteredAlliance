@@ -13,14 +13,14 @@
 
   <IconTexturePath>Modules/micro_torpedo</IconTexturePath>
   <Mass>30</Mass>
-  <Health>5000</Health>
-  <HealthMax>5000</HealthMax>
+  <Health>9000</Health>
+  <HealthMax>9000</HealthMax>
   <energyreq>5</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
   
   <PowerDraw>5</PowerDraw>
-  <TechLevel>2</TechLevel>  
+  <TechLevel>3</TechLevel>  
   <!-- for shield items -->
   
   <ShieldPowerMax>0</ShieldPowerMax>
@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>micro_torpedo</WeaponType>
-  <OrdinanceCapacity>3000</OrdinanceCapacity>
+  <OrdinanceCapacity>100</OrdinanceCapacity>
   <FieldOfFire>90</FieldOfFire>
 
   <!-- for Engines -->

@@ -13,14 +13,14 @@
 
   <IconTexturePath>Modules/singlarity_torpedo</IconTexturePath>
   <Mass>300</Mass>
-  <Health>12500</Health>
-  <HealthMax>12500</HealthMax>
+  <Health>30500</Health>
+  <HealthMax>30500</HealthMax>
   <energyreq>20</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
   
   <PowerDraw>5</PowerDraw>
-  <TechLevel>5</TechLevel>  
+  <TechLevel>6</TechLevel>  
   <!-- for shield items -->
   
   <ShieldPowerMax>0</ShieldPowerMax>
@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>singlarity_torpedo</WeaponType>
-  <OrdinanceCapacity>1000</OrdinanceCapacity>
+  <OrdinanceCapacity>100</OrdinanceCapacity>
   <FieldOfFire>180</FieldOfFire>
 
   <!-- for Engines -->

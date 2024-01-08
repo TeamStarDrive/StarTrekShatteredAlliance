@@ -17,15 +17,16 @@
   <Tag_Torpedo>false</Tag_Torpedo>
   <Tag_Cannon>false</Tag_Cannon>
   
-  <ExcludesFighters>false</ExcludesFighters>  
+  <ExcludesFighters>true</ExcludesFighters>
+  <ExcludesCorvettes>true</ExcludesCorvettes>
 
   <UID>zero_point_disrupter_beam</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>5</FireDelay>
-  <Range>7000</Range>
-  <PowerRequiredToFire>0</PowerRequiredToFire>
+  <Range>14000</Range>
+  <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2</BeamDuration>
+  <BeamDuration>2.6</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
@@ -33,10 +34,11 @@
   <BeamTexture>fed_phaser</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>16</DamageAmount>
-  <BeamThickness>10</BeamThickness>
-  <BeamPowerCostPerSecond>487</BeamPowerCostPerSecond>
+  <DamageAmount>70</DamageAmount>
+  <BeamThickness>30</BeamThickness>
+  <BeamPowerCostPerSecond>1487</BeamPowerCostPerSecond>
   <EffectVsArmor>1.15</EffectVsArmor>
+  <ShieldPenChance>20</ShieldPenChance>
   <WeaponRotation>2</WeaponRotation>
  
 

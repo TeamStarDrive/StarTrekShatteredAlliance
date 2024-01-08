@@ -4,9 +4,9 @@
   <UID>romulan_fighter_disrupter_beam</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>21</Cost>
+  <Cost>50</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
-  <TechLevel>2</TechLevel>
+  <TechLevel>4</TechLevel>
 
   
   <!-- common traits shared by all ship modules -->
@@ -24,7 +24,7 @@
 
 
   <!-- Mass and Health -->
-  <Mass>8</Mass>
+  <Mass>12</Mass>
   <Health>18624</Health>
   <HealthMax>18625</HealthMax>
 
@@ -33,7 +33,7 @@
 
   <!-- for Weapons -->
   <WeaponType>romulan_fighter_disrupter_beam</WeaponType>
-  <FieldOfFire>15</FieldOfFire>
+  <FieldOfFire>45</FieldOfFire>
 
   <!-- Description -->
   <Description>Phasors are powerful and efficient directed energy weapons.</Description>

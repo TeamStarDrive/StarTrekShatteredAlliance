@@ -21,7 +21,7 @@
   <UID>phased_cannon</UID>
   <fireDelay>4</fireDelay>
   <Range>4000</Range>
-  <PowerRequiredToFire>150</PowerRequiredToFire>
+  <PowerRequiredToFire>100</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <SalvoCount>4</SalvoCount>
   <SalvoTimer>3</SalvoTimer>
@@ -39,7 +39,7 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>290</DamageAmount>
+  <DamageAmount>390</DamageAmount>
   <ProjectileSpeed>4200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>0.6</Scale>

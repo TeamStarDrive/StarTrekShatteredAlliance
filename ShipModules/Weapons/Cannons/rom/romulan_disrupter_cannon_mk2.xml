@@ -3,7 +3,7 @@
 
   <DroneModule>false</DroneModule>
 
-  <Cost>40</Cost>
+  <Cost>45</Cost>
   <TechLevel>3</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -14,8 +14,8 @@
   <UID>romulan_disrupter_cannon_mk2</UID>
   <IconTexturePath>Modules/romulan_disrupter_cannon_mk2</IconTexturePath>
   <Mass>15</Mass>
-  <Health>9975</Health>
-  <HealthMax>9975</HealthMax>
+  <Health>15975</Health>
+  <HealthMax>15975</HealthMax>
   <energyreq>0</energyreq>
   <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
   </Description>

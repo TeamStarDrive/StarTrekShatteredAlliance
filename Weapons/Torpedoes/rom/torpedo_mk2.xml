@@ -20,27 +20,27 @@
   <ExcludesCorvettes>false</ExcludesCorvettes>
 
   <UID>torpedo_mk2</UID>
-  <fireDelay>20</fireDelay>
+  <fireDelay>8</fireDelay>
   <Range>10000</Range>
   <PowerRequiredToFire>900</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>300</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>200</HitPoints>
-  <SalvoCount>2</SalvoCount>
-  <SalvoTimer>11</SalvoTimer>
+  <HitPoints>15</HitPoints>
+  <SalvoCount>3</SalvoCount>
+  <SalvoTimer>7</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>
   <dieCue>Explo1</dieCue>
   
   <!-- Projectile Information -->
-  <DamageAmount>6000</DamageAmount>
+  <DamageAmount>15000</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>1700</ProjectileSpeed>
+  <ProjectileSpeed>2700</ProjectileSpeed>
 
   <!-- Animation Information -->
   <Light>Red</Light>
-  <Scale>2.7</Scale>
+  <Scale>1.5</Scale>
   <Animated>1</Animated>
   <Frames>16</Frames>
   <AnimationPath>rom_torpedo/rom_torpedo_cc_</AnimationPath>
@@ -49,7 +49,7 @@
   <!-- Explosion Information -->
   <explodes>true</explodes>
   <ExpColor>Blue_1</ExpColor>
-  <DamageRadius>40</DamageRadius>
+  <DamageRadius>50</DamageRadius>
   
   <ProjectileTexturePath>projBall_01_orange</ProjectileTexturePath>
   <ModelPath>projBall</ModelPath>
