@@ -26,6 +26,7 @@
   <BeamThickness>35</BeamThickness>
   <BeamPowerCostPerSecond>950</BeamPowerCostPerSecond>
   <WeaponRotation>1</WeaponRotation>
+  <PowerDamage>90</PowerDamage>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>

@@ -21,10 +21,13 @@
   
   <UID>Fed_HeavyPhotonTorpedo_Mk2</UID>
   <FireDelay>8</FireDelay>
-  <Range>7000</Range>
+  <Range>11000</Range>
   <PowerRequiredToFire>4000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>100</OrdinanceRequiredToFire>
-  <HitPoints>30</HitPoints>  
+  <OrdinanceRequiredToFire>20</OrdinanceRequiredToFire>
+  <HitPoints>30</HitPoints>
+  <SalvoCount>2</SalvoCount>
+  <SalvoTimer>7</SalvoTimer>
+ 
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
@@ -35,7 +38,7 @@
   <DamageAmount>90000</DamageAmount>
   <Scale>4.5</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>900</ProjectileSpeed>
+  <ProjectileSpeed>1700</ProjectileSpeed>
   <ProjectileRadius>10</ProjectileRadius>
   <ExplosionRadius>150</ExplosionRadius> <!-- This projectile explodes -->
   <Animated>1</Animated>

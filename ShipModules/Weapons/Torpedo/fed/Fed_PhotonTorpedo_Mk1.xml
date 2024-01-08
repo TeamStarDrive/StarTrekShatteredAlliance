@@ -38,7 +38,7 @@
   <PowerStoreMax>0</PowerStoreMax>
 
   <!-- for Weapons -->
-  <WeaponType>Fed_PhotonTorpedo_Mk2</WeaponType>
+  <WeaponType>Fed_PhotonTorpedo_Mk1</WeaponType>
   <OrdinanceCapacity>4000</OrdinanceCapacity>
   <FieldOfFire>45</FieldOfFire>
 

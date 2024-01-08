@@ -25,15 +25,15 @@
 
   <!-- Mass and Health -->
   <Mass>28</Mass>
-  <Health>13120</Health>
-  <HealthMax>13120</HealthMax>
+  <Health>33120</Health>
+  <HealthMax>33120</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>15</PowerDraw>
 
   <!-- for Weapons -->
   <WeaponType>modulated_phasor</WeaponType>
-  <FieldOfFire>90</FieldOfFire>
+  <FieldOfFire>360</FieldOfFire>
 
   <!-- Description -->
   <Description>Phasors are powerful and efficient directed energy weapons.</Description>

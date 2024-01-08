@@ -6,7 +6,7 @@
   <UID>modulated_phasor</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>2</FireDelay>
-  <Range>9000</Range>
+  <Range>14200</Range>
   <PowerRequiredToFire>100</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>5</BeamDuration>
@@ -26,6 +26,7 @@
   <BeamThickness>35</BeamThickness>
   <BeamPowerCostPerSecond>950</BeamPowerCostPerSecond>
   <WeaponRotation>1</WeaponRotation>
+  <PowerDamage>110</PowerDamage>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>

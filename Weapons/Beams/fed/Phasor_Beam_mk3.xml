@@ -6,7 +6,7 @@
   <UID>Phasor_Beam_mk3</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>2</FireDelay>
-  <Range>9000</Range>
+  <Range>10000</Range>
   <PowerRequiredToFire>100</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>5</BeamDuration>
@@ -20,7 +20,7 @@
   
   <!-- Projectile Information -->
   <BeamTexture>fed_phaser</BeamTexture>
-  <EffectVsArmor>1.65</EffectVsArmor>
+  <EffectVsArmor>1.25</EffectVsArmor>
   <ShieldPenChance>25</ShieldPenChance>
   <DamageAmount>55</DamageAmount>
   <BeamThickness>35</BeamThickness>

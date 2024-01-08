@@ -21,7 +21,7 @@
   <!-- Projectile Information -->
   <BeamTexture>pulse_beam_purple</BeamTexture>
   <EffectVsArmor>1.25</EffectVsArmor> 
-  
+
   <DamageAmount>70</DamageAmount>
   <BeamThickness>30</BeamThickness>
   <BeamPowerCostPerSecond>1720</BeamPowerCostPerSecond>

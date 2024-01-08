@@ -32,6 +32,10 @@
       <Type>fed</Type>
     </UnlockedMod>
 	<UnlockedMod>
+      <ModuleUID>power_drain_phasor_beam_4x4</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+	<UnlockedMod>
       <ModuleUID>romulan_disrupter_beam_mk4</ModuleUID>
       <Type>Romulan</Type>
     </UnlockedMod>
