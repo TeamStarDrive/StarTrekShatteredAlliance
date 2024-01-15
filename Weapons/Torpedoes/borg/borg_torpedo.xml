@@ -23,7 +23,7 @@
   <UID>borg_torpedo</UID>
   <fireDelay>8</fireDelay>
   <Range>5000</Range>
-  <PowerRequiredToFire>800</PowerRequiredToFire>
+  <PowerRequiredToFire>600</PowerRequiredToFire>
   <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
   <HitPoints>10</HitPoints>

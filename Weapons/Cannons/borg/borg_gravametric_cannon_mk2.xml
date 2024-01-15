@@ -21,7 +21,7 @@
   <UID>borg_gravametric_cannon_mk2</UID>
   <fireDelay>4</fireDelay>
   <Range>5000</Range>
-  <PowerRequiredToFire>1200</PowerRequiredToFire>
+  <PowerRequiredToFire>900</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <SalvoCount>6</SalvoCount>
   <SalvoTimer>4</SalvoTimer>

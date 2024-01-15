@@ -3,8 +3,8 @@
     <PortraitName>Romulan</PortraitName>
   <MusicCue>sd_races_Terran</MusicCue>
   <DiplomacyDialogPath>Romulan</DiplomacyDialogPath>
-  <StartingShip>V6 Gallant Wing mk1</StartingShip>
-  <StartingScout>Kestrel Class scout</StartingScout>
+  <StartingShip>Romulan starting ships</StartingShip>
+  <StartingScout>Romulan starting scout mk1</StartingScout>
   <PrototypeShip>Romulan_Prototype</PrototypeShip>
   <DefaultSmallTransport>Small Transport</DefaultSmallTransport>
   <DefaultTroopShip>Human Troop</DefaultTroopShip>

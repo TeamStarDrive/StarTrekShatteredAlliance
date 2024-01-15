@@ -3,8 +3,8 @@
     <PortraitName>Cardassia</PortraitName>
   <MusicCue>sd_races_Terran</MusicCue>
   <DiplomacyDialogPath>Cardassia</DiplomacyDialogPath>
-  <StartingShip>Kimal Class mk1</StartingShip>
-  <StartingScout>Cardassia scout mk1</StartingScout>
+  <StartingShip>kimmal starting ship</StartingShip>
+  <StartingScout>Cardassian scout mk1</StartingScout>
   <PrototypeShip>Cardassia prototype</PrototypeShip>
   <DefaultSmallTransport>Small Transport</DefaultSmallTransport>
   <DefaultTroopShip>Human Troop</DefaultTroopShip>

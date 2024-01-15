@@ -3,8 +3,8 @@
     <PortraitName>StarFleet</PortraitName>
   <MusicCue>sd_races_Terran</MusicCue>
   <DiplomacyDialogPath>StarFleet</DiplomacyDialogPath>
-  <StartingShip>Peregrine Class scout mk1</StartingShip>
-  <StartingScout>Oberth Class mk1</StartingScout>
+  <StartingShip>fedaration starting ship mk1</StartingShip>
+  <StartingScout>starfleet scout mk1</StartingScout>
   <PrototypeShip>Starfleet_Prototype</PrototypeShip>
   <DefaultSmallTransport>Small Transport</DefaultSmallTransport>
   <DefaultTroopShip>Human Troop</DefaultTroopShip>

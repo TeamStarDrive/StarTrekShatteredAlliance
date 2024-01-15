@@ -3,8 +3,8 @@
     <PortraitName>FreeBorg</PortraitName>
   <MusicCue>sd_races_Terran</MusicCue>
   <DiplomacyDialogPath>FreeBorg</DiplomacyDialogPath>
-  <StartingShip>V6 Gallant Wing mk1</StartingShip>
-  <StartingScout>Kestrel Class scout</StartingScout>
+  <StartingShip>borg starting ship mk1</StartingShip>
+  <StartingScout>borg scout mk1</StartingScout>
   <PrototypeShip>FreeBorg_Prototype</PrototypeShip>
   <DefaultSmallTransport>Small Transport</DefaultSmallTransport>
   <DefaultTroopShip>Human Troop</DefaultTroopShip>

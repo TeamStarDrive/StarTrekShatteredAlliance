@@ -3,8 +3,8 @@
     <PortraitName>Klingon</PortraitName>
   <MusicCue>sd_races_Terran</MusicCue>
   <DiplomacyDialogPath>Klingon</DiplomacyDialogPath>
-  <StartingShip>V11 Stormbird mk1</StartingShip>
-  <StartingScout>Klingon Scout</StartingScout>
+  <StartingShip>klingon starting ship mk1</StartingShip>
+  <StartingScout>Klingon scout mk1</StartingScout>
   <PrototypeShip>Klingon_Prototype</PrototypeShip>
   <DefaultSmallTransport>Small Transport</DefaultSmallTransport>
   <DefaultTroopShip>Human Troop</DefaultTroopShip>

@@ -21,7 +21,7 @@
   <UID>Car_DisruptorCannonMk1</UID>
   <fireDelay>3</fireDelay>
   <Range>4000</Range>
-  <PowerRequiredToFire>250</PowerRequiredToFire>
+  <PowerRequiredToFire>170</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <SalvoCount>4</SalvoCount>
   <SalvoTimer>3</SalvoTimer>
