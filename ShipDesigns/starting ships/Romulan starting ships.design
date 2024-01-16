@@ -1,0 +1,64 @@
+Version=1
+Name=Romulan starting ships
+Hull=Romulan/Rom_V11Stormbird
+Role=corvette
+ModName=Star Trek
+Style=Romulan
+Size=12,17
+GridCenter=6,10
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=SteelArmorSmall;torpedo;PowerSolar;Shield_1KW;romulan_disrupter_cannon;Cockpit;Fighter_Shield;small_antimatter_reactor;CombatEngine_2x1;romulan_disrupter_beam;Engine;Extreme Fusion Reactor
+Modules=46
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+4,0;0
+5,0;0
+6,0;0
+7,0;0
+4,1;0
+5,1;1;2,3
+7,1;0
+5,4;2
+6,4;2
+5,5;3;2,2
+5,7;4;2,2;360
+2,8;0
+9,8;0
+2,9;4;2,2;270
+4,9;0
+5,9;5
+6,9;5
+7,9;0
+8,9;4;2,2;90
+4,10;6
+5,10;7
+6,10;7
+7,10;6
+0,11;8;1,2;270;1
+1,11;9;1,4
+2,11;3;2,2
+4,11;10
+5,11;11;2,2
+7,11;10
+8,11;3;2,2
+10,11;9;1,4
+11,11;8;1,2;90;2
+4,12;8;1,2;270;1
+7,12;8;1,2;90;2
+0,13;8;1,2;270;1
+2,13;0
+3,13;0
+5,13;0
+6,13;0
+8,13;0
+9,13;0
+11,13;8;1,2;90;2
+2,14;0
+9,14;0
+0,15;8;1,2;270;1
+11,15;8;1,2;90;2

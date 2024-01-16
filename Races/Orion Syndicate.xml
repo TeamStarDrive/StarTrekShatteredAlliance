@@ -7,22 +7,22 @@
   <PortraitName>unknown</PortraitName>
   <DiplomacyDialogPath>Human</DiplomacyDialogPath>
   
-  <StartingShip>orian syndicate Nial mk1</StartingShip>
-  <PirateSlaverBasic>Orion Syndicate-Torotha mk1A</PirateSlaverBasic>
+  <StartingShip>Orion Syndicat frigate mk1</StartingShip>
+  <PirateSlaverBasic>Orion Syndicat frigate mk1</PirateSlaverBasic>
   <PirateSlaverImproved>Orion Syndicat frigate mk2</PirateSlaverImproved>
-  <PirateSlaverAdvanced>Orion Syndicat frigate mk3a</PirateSlaverAdvanced>
-  <PirateFighterBasic>orian syndicate Nial mk1</PirateFighterBasic>
-  <PirateFighterImproved>orian syndicate Nial mk2</PirateFighterImproved>
-  <PirateFighterAdvanced>orian syndicate Nial mk3</PirateFighterAdvanced>
-  <PirateFrigateBasic>Orion Syndicat frigate mk1</PirateFrigateBasic>
-  <PirateFrigateImproved>Orion Syndicat frigate mk2</PirateFrigateImproved>
-  <PirateFrigateAdvanced>Orion Syndicat frigate mk3a</PirateFrigateAdvanced>
-  <PirateBaseBasic>ORIAN SYNDICATE BASE MK1AA</PirateBaseBasic>
-  <PirateBaseImproved>ORIAN SYNDICATE BASE MK2a</PirateBaseImproved>
-  <PirateBaseAdvanced>ORIAN SYNDICATE BASE MK3a</PirateBaseAdvanced>
-  <PirateStationBasic>ORIAN SYNDICATE BASE MK2a</PirateStationBasic>
-  <PirateStationImproved>ORIAN SYNDICATE BASE MK3a</PirateStationImproved>
-  <PirateStationAdvanced>ORIAN SYNDICATE BASE MK3a</PirateStationAdvanced>
+  <PirateSlaverAdvanced>Orion Syndicat frigate mk3</PirateSlaverAdvanced>
+  <PirateFighterBasic>orian fighter mk1</PirateFighterBasic>
+  <PirateFighterImproved>orian fighter mk2</PirateFighterImproved>
+  <PirateFighterAdvanced>orian fighter mk3</PirateFighterAdvanced>
+  <PirateFrigateBasic>orian crusier mk 1</PirateFrigateBasic>
+  <PirateFrigateImproved>orian crusier mk 2</PirateFrigateImproved>
+  <PirateFrigateAdvanced>orian crusier mk 2</PirateFrigateAdvanced>
+  <PirateBaseBasic>ORIAN SYNDICATE BASE MK1</PirateBaseBasic>
+  <PirateBaseImproved>ORIAN SYNDICATE BASE MK2</PirateBaseImproved>
+  <PirateBaseAdvanced>ORIAN SYNDICATE BASE MK3</PirateBaseAdvanced>
+  <PirateStationBasic>ORIAN SYNDICATE BASE MK1</PirateStationBasic>
+  <PirateStationImproved>ORIAN SYNDICATE BASE MK2</PirateStationImproved>
+  <PirateStationAdvanced>ORIAN SYNDICATE BASE MK3</PirateStationAdvanced>
   <PirateFlagShip>Orion Syndicate Warcruiser mk1</PirateFlagShip>
 
   <Traits>

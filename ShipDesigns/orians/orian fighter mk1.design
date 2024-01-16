@@ -1,5 +1,5 @@
 Version=1
-Name=orian syndicate Nial mk1
+Name=orian fighter mk1
 Hull=Orion Syndicate/Nial
 Role=fighter
 ModName=Star Trek
@@ -7,41 +7,35 @@ Style=Orion Syndicate
 Size=6,10
 GridCenter=3,4
 DefaultCombatState=Artillery
-ShipCategory=Conservative
-HangarDesignation=General
+ShipCategory=Reckless
+HangarDesignation=AntiShip
 IsShipyard=false
 IsOrbitalDefense=false
-IsCarrierOnly=false
+IsCarrierOnly=true
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=SteelArmorSmall;DarkMatterCannon_1x2;Fighter Shield;NuclearReactorSmall;PowerSolar;Cockpit;EmpDischarger;CombatEngine_2x1
-Modules=29
+ModuleUIDs=Ceramic Armor Small;DarkMatterCannon_1x2;Cockpit;small_antimatter_reactor;advanced_fighter_sheaild;ThalaronBeam2x3;CombatEngine_2x1
+Modules=23
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 0,0;0
 1,0;0
 4,0;0
 5,0;0
 0,1;1;1,2
-1,1;2
+1,1;1;1,2
 2,1;0
 3,1;0
-4,1;2
+4,1;1;1,2
 5,1;1;1,2
-1,2;3
-2,2;4
-3,2;4
-4,2;3
+2,2;2
+3,2;3
 1,3;0
 2,3;3
-3,3;5
+3,3;3
 4,3;0
-1,4;0
+1,4;4
 2,4;3
 3,4;3
-4,4;0
-2,5;2
-3,5;2
-2,6;6;1,2
-3,6;4
-3,7;4
-2,8;7;2,1
-2,9;7;2,1
+4,4;4
+2,5;5;2,3
+2,8;6;2,1
+2,9;6;2,1

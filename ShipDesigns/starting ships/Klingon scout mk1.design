@@ -1,0 +1,35 @@
+Version=1
+Name=Klingon scout mk1
+Hull=Klingon/Kling_KTar
+Role=scout
+ModName=Star Trek
+Style=Klingon
+Size=6,6
+GridCenter=3,2
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=PowerSolar;Maneuvering_Thruster_1x1;Cockpit;PowerConduit;Sensor1x2;Engine;WarpEngine_1x1
+Modules=17
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+0,0;0
+5,0;0
+0,1;1
+1,1;0
+2,1;0
+3,1;0
+4,1;0
+5,1;1
+1,2;0
+2,2;2
+3,2;3
+4,2;0
+2,3;4;2,1
+2,4;5
+3,4;5
+2,5;6
+3,5;5
