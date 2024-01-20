@@ -21,9 +21,5 @@
   <BonusUnlocked />
   <TroopsUnlocked />
   <HullsUnlocked />
-  <UnlockedAtGameStart>
-    <RaceRequirements>
-      <RacialTrait>Militaristic</RacialTrait>
-    </RaceRequirements>
-  </UnlockedAtGameStart>
+
 </Technology>

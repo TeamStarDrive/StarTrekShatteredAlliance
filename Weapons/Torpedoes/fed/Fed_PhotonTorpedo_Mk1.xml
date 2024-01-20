@@ -20,8 +20,8 @@
   <ExcludesCorvettes>false</ExcludesCorvettes>  
   
   <UID>Fed_PhotonTorpedo_Mk1</UID>
-  <FireDelay>8</FireDelay>
-  <Range>5000</Range>
+  <FireDelay>12</FireDelay>
+  <Range>4000</Range>
   <PowerRequiredToFire>1000</PowerRequiredToFire>
   <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
   <HitPoints>10</HitPoints>  

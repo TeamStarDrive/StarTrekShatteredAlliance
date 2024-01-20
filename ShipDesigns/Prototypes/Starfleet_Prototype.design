@@ -1,7 +1,7 @@
 Version=1
 Name=Starfleet_Prototype
 Hull=Terran/Fed_Excelsior
-Role=carrier
+Role=prototype
 ModName=Star Trek
 Style=fed
 Size=18,41

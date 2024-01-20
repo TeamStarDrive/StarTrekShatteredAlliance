@@ -34,9 +34,9 @@
   
   <!-- Projectile Information -->
   <DamageAmount>16</DamageAmount>
-  <BeamThickness>10</BeamThickness>
-  <BeamPowerCostPerSecond>487</BeamPowerCostPerSecond>
-  <EffectVsArmor>1.15</EffectVsArmor>
+  <BeamThickness>20</BeamThickness>
+  <BeamPowerCostPerSecond>387</BeamPowerCostPerSecond>
+  <EffectVsArmor>0.15</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>
  
 
