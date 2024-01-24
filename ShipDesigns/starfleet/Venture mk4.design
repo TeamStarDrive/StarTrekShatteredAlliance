@@ -1,0 +1,48 @@
+Version=1
+Name=Venture mk4
+Hull=Terran/Venture Class
+Role=fighter
+ModName=Star Trek
+Style=fed
+Size=8,9
+GridCenter=4,4
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=CompositeAlloys Small;fighter_power_drain_phasor;AdvancedCellSmall;transphasic_fighter_shealds;small_antimatter_reactor;Cockpit;Fed_PhotonTorpedo_Mk1;CombatEngine_2x1
+Modules=30
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0
+4,0;0
+2,1;0
+3,1;1;2,1
+5,1;0
+2,2;0
+3,2;2
+4,2;2
+5,2;0
+1,3;0
+2,3;3;1,2
+3,3;4
+4,3;5
+5,3;3;1,2
+6,3;0
+0,4;0
+1,4;6;1,3
+3,4;4
+4,4;4
+6,4;6;1,3
+7,4;0
+0,5;0
+2,5;4
+3,5;7;2,1
+5,5;4
+7,5;0
+2,6;7;2,1
+4,6;7;2,1
+3,7;7;2,1
+3,8;7;2,1

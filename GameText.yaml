@@ -461,7 +461,7 @@ PrototypeFlagship:
  SPA: "Prototipo de nave almirante"
 BeginTheGameWithAn:
  Id: 93
- ENG: "Begin the game with an advanced prototype flagship equipped with technologies that otherwise would not be available at the game's start"
+ ENG: "Begin the game with an advanced prototype flagship or Starbase equipped with technologies that otherwise would not be available at the game's start"
  RUS: "Начать игру с мощным флагманским кораблем, оснащенным технологиями, в ином случае не доступными в начале игры."
  SPA: "Comienzas la partida con un prototipo avanzado de nave almirante con tecnologías que, de otra forma, no estarían disponibles al principio del juego"
 Prewarp:
@@ -16148,6 +16148,16 @@ BB_Tech_Main_Engineering_Desc:
  ENG: "A starship is a complicated web of interdependent systems, and the bigger they are the harder they are to control. This technology brings command and engineering functions in to the next generation.  "
  RUS: "Космический корабль - сложный комплекс взаимозависимых систем, и чем их больше, тем сложнее ими управлять. Эта технология позволяет вывести командование кораблем и инженерные процедуры на качественно новый уровень."
  SPA: "Una nave estelar es una compleja maraña de sistemas interdependientes, y cuanto más grandes son, más difíciles es controlarlos. Esta tecnología permite dominar y diseñar funciones de próxima generación.  "
+Prototype starbase:
+ Id: 18760
+ ENG: "Prototype starbase"
+ RUS: "Прототип флагмана"
+ SPA: "Prototipo de nave almirante"
+Begin_TheGameWithAPrototypestarbase:
+ Id: 18761
+ ENG: "Begin the game with an advanced prototype starbase equipped with technologies that otherwise would not be available at the game's start"
+ RUS: "Начать игру с мощным флагманским кораблем, оснащенным технологиями, в ином случае не доступными в начале игры."
+ SPA: "Comienzas la partida con un prototipo avanzado de nave almirante con tecnologías que, de otra forma, no estarían disponibles al principio del juego"
 
 
 

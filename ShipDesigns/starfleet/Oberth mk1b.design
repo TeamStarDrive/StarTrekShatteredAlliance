@@ -1,0 +1,50 @@
+Version=1
+Name=Oberth mk1b
+Hull=Terran/Fed_Oberth
+Role=corvette
+ModName=Star Trek
+Style=fed
+Size=6,10
+GridCenter=3,3
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=SteelArmorSmall;Fed_PhaserCannon;Fighter_Shield;Fed_PhotonTorpedo_Mk1;CombatEngine_2x1;NuclearReactorSmall;Cockpit;WarpEngine_1x1;NuclearReactorMed;Fed_PhaserCannon_2x2;BasicFuelCell
+Modules=32
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0
+2,0;0
+3,0;0
+4,0;0
+0,1;0
+1,1;1;1,3
+2,1;2
+3,1;2
+4,1;3;1,3
+5,1;0
+0,2;4;1,2;90;2
+2,2;5
+3,2;6
+5,2;4;1,2;90;2
+2,3;5
+3,3;5
+0,4;7
+1,4;2
+2,4;8;2,2
+4,4;2
+5,4;7
+0,5;7
+1,5;2
+4,5;2
+5,5;7
+0,6;4;1,2;90;2
+2,6;9;2,2
+5,6;4;1,2;90;2
+2,8;10
+3,8;10
+2,9;0
+3,9;0

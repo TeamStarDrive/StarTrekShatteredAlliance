@@ -1,0 +1,32 @@
+Version=1
+Name=danube fighter mk4
+Hull=Terran/Fed_Danube
+Role=fighter
+ModName=Star Trek
+Style=Terran
+Size=4,6
+GridCenter=2,3
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=CompositeAlloys Small;fighter_power_drain_phasor;CombatEngine_2x1;prototype_fighter_shealds;small_antimatter_reactor;WarpEngine_1x1;Cockpit
+Modules=14
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0
+2,0;0
+1,1;1;2,1
+0,2;2;1,2;90;2
+1,2;3;2,1;90;2
+3,2;2;1,2;90;2
+1,3;4
+2,3;4
+0,4;5
+1,4;4
+2,4;6
+3,4;5
+1,5;0
+2,5;0
