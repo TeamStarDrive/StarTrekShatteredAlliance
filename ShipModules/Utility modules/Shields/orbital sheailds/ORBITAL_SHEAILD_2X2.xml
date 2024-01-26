@@ -41,7 +41,7 @@
   <ShieldPowerMax>60000</ShieldPowerMax>
   <ShieldRechargeDelay>5</ShieldRechargeDelay>
   <ShieldRechargeRate>2200</ShieldRechargeRate>
-  <ShieldRadius>50</ShieldRadius>
+  <ShieldRadius>90</ShieldRadius>
   <ShieldRechargeCombatRate>400</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.39</ShieldEnergyResist>
   <ShieldBeamResist>0.39</ShieldBeamResist>

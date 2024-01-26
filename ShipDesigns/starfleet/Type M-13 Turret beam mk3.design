@@ -1,0 +1,60 @@
+Version=1
+Name=Type M-13 Turret beam mk3
+Hull=Terran/Type M-13 Turret
+Role=station
+ModName=Star Trek
+Style=fed
+Size=12,11
+GridCenter=6,5
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Ceramic Armor Med;Ceramic Armor Small;BasicFuelCell;Extreme Fusion Reactor;ORBITAL_SHEAILD_2X2;station_phasor_beem_mk1;Cockpit;Fighter Shield;NuclearReactorSmall
+Modules=42
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+4,0;0;2,2
+6,0;0;2,2
+2,1;0;2,2
+8,1;0;2,2
+1,2;1
+4,2;2
+5,2;3;2,2
+7,2;4;1,2
+10,2;1
+0,3;0;2,2
+2,3;5;2,2
+4,3;6
+8,3;5;2,2
+10,3;0;2,2
+4,4;7
+5,4;8
+6,4;8
+7,4;7
+0,5;1
+1,5;1
+2,5;6
+3,5;8
+4,5;3;2,2
+6,5;3;2,2
+8,5;8
+9,5;6
+10,5;1
+11,5;1
+0,6;0;2,2
+2,6;5;2,2
+8,6;5;2,2
+10,6;0;2,2
+4,7;4;1,2
+5,7;3;2,2
+7,7;7
+1,8;1
+2,8;0;2,2
+7,8;6
+8,8;0;2,2
+10,8;1
+4,9;0;2,2
+6,9;0;2,2
