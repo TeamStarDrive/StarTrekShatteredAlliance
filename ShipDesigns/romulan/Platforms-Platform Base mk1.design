@@ -1,0 +1,41 @@
+Version=1
+Name=Platforms-Platform Base mk1
+Hull=Platforms/Platform Base
+Role=platform
+ModName=Star Trek
+Style=Platforms
+Size=8,7
+GridCenter=4,4
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=AdvancedCellSmall;Ceramic Armor Small;NuclearReactorSmall;ORBITAL_SHEAILD_2X2;Extreme Fusion Reactor;station_phasor_beem_mk1;PowerSolar;Cockpit
+Modules=23
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0
+4,0;0
+3,1;1
+4,1;1
+2,2;1
+3,2;2
+4,2;2
+5,2;1
+2,3;3;1,2
+3,3;4;2,2
+5,3;1
+1,4;1
+5,4;2
+6,4;1
+0,5;5;2,2
+2,5;6
+3,5;1
+4,5;1
+5,5;1
+6,5;7
+7,5;1
+6,6;1
+7,6;1
