@@ -19,7 +19,7 @@
   
   <!-- Projectile Information -->
   <BeamTexture>beam_purple3</BeamTexture>
-  <DamageAmount>190</DamageAmount>
+  <DamageAmount>100</DamageAmount>
   <EffectVsShield>0.5</EffectVsShield>
   <BeamThickness>18</BeamThickness>
   <BeamPowerCostPerSecond>424</BeamPowerCostPerSecond>

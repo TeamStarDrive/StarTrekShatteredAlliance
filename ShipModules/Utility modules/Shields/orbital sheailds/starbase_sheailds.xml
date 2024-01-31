@@ -39,7 +39,7 @@
   <DescriptionIndex>18561</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>310000</ShieldPowerMax>
+  <ShieldPowerMax>410000</ShieldPowerMax>
   <ShieldRechargeDelay>10</ShieldRechargeDelay>
   <ShieldRechargeRate>6200</ShieldRechargeRate>
   <ShieldRadius>480</ShieldRadius>
@@ -48,5 +48,5 @@
   <ShieldBeamResist>0.59</ShieldBeamResist>
   <ShieldKineticResist>0.59</ShieldKineticResist>
   <PlasmaResist>0.63</PlasmaResist>
-  <Deflection>50</Deflection>
+  <Deflection>150</Deflection>
 </ShipModule>

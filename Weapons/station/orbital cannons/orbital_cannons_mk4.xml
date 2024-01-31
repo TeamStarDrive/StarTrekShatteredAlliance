@@ -19,9 +19,9 @@
   <Tag_Cannon>true</Tag_Cannon>
   
   <UID>orbital_cannons_mk4</UID>
-  <fireDelay>4</fireDelay>
+  <fireDelay>3</fireDelay>
   <Range>10000</Range>
-  <PowerRequiredToFire>170</PowerRequiredToFire>
+  <PowerRequiredToFire>150</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <SalvoCount>8</SalvoCount>
   <SalvoTimer>3</SalvoTimer>
@@ -39,11 +39,11 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>1800</DamageAmount>
+  <DamageAmount>2800</DamageAmount>
   <ProjectileSpeed>5200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>2</Scale>
-  <DamageRadius>15</DamageRadius>
+  <DamageRadius>35</DamageRadius>
   <explodes>false</explodes>
   <ProjectileTexturePath>projTear_01_orange</ProjectileTexturePath>
   <ModelPath>projTear</ModelPath>

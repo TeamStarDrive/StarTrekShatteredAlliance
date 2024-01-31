@@ -23,8 +23,8 @@
   <UID>orbital_cannons_mk3</UID>
   <IconTexturePath>Modules/orbital_cannons_mk3</IconTexturePath>
   <Mass>50000</Mass>
-  <Health>18612</Health>
-  <HealthMax>18612</HealthMax>
+  <Health>38612</Health>
+  <HealthMax>38612</HealthMax>
   <energyreq>0</energyreq>
   <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
   </Description>
