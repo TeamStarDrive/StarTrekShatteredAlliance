@@ -36,7 +36,7 @@
 
 
   <!-- Mass and Health -->
-  <Mass>10469</Mass>
+  <Mass>10</Mass>
   <Health>16469</Health>
   <HealthMax>16469</HealthMax>
   <RepairDifficulty>1.5</RepairDifficulty>
