@@ -16,11 +16,11 @@
   <Mass>50</Mass>
   <Health>29760</Health>
   <HealthMax>29760</HealthMax>
-  <energyreq>15</energyreq>
+  <energyreq>0</energyreq>
   <Description>A crude but effective high-energy cannon weapon </Description>
   <CrewRequired>12</CrewRequired>
   
-  <PowerDraw>15</PowerDraw>
+  <PowerDraw>0</PowerDraw>
 
 
   <NameIndex>18407</NameIndex>

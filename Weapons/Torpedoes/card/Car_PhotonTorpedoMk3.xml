@@ -18,7 +18,7 @@
   <UID>Car_PhotonTorpedoMk3</UID>
   <FireDelay>7</FireDelay>
   <Range>12000</Range>
-  <PowerRequiredToFire>20</PowerRequiredToFire>
+  <PowerRequiredToFire>1500</PowerRequiredToFire>
   <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
   <HitPoints>50</HitPoints>
   <SalvoCount>4</SalvoCount>
