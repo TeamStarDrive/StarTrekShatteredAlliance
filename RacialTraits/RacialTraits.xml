@@ -372,6 +372,21 @@
       <Cost>2</Cost>
       <Description>93</Description>
       <Prototype>1</Prototype>
+      <Excludes>
+		<string>Prototype_starbase</string>
+	  </Excludes>
+    </RacialTraitOption>
+    <RacialTraitOption>
+      <!-- Prototype starbase -->
+	  <TraitName>Prototype_starbase</TraitName>
+      <TraitIndex>18764</TraitIndex>
+      <Category>HistoryAndTradition</Category>
+      <Cost>2</Cost>
+      <Description>18765</Description>
+      <Prototype>1</Prototype>
+      <Excludes>
+		<string>Prototype Flagship</string>
+	  </Excludes>
     </RacialTraitOption>
     <RacialTraitOption>
       <!-- Manifest Destiny -->

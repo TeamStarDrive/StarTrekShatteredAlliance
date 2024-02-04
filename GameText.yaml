@@ -14498,16 +14498,6 @@ BB_Tech_Car_PhotonTorpedoMk1_Desc:
  ENG: " Car_PhotonTorpedoMk1" 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
-BB_Tech_Car_PhotonTorpedoMk2_Name:
- Id: 18411
- ENG: " Car_PhotonTorpedoMk2" 
- RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
- SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
-BB_Tech_Car_PhotonTorpedoMk2_Desc:
- Id: 18412
- ENG: " Car_PhotonTorpedoMk2" 
- RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
- SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_PhotonTorpedoMk3_Name:
  Id: 18413
  ENG: " Car_PhotonTorpedoMk3" 
@@ -16156,6 +16146,26 @@ Prototype starbase:
 Begin_TheGameWithAPrototypestarbase:
  Id: 18761
  ENG: "Begin the game with an advanced prototype starbase equipped with technologies that otherwise would not be available at the game's start"
+ RUS: "Начать игру с мощным флагманским кораблем, оснащенным технологиями, в ином случае не доступными в начале игры."
+ SPA: "Comienzas la partida con un prototipo avanzado de nave almirante con tecnologías que, de otra forma, no estarían disponibles al principio del juego"
+BB_Tech_Car_PhotonTorpedoMk2_Name:
+ Id: 18762
+ ENG: "PhotonTorpedo Mk2" 
+ RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
+ SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
+BB_Tech_Car_PhotonTorpedoMk2_Desc:
+ Id: 18763
+ ENG: "PhotonTorpedo Mk2" 
+ RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
+ SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
+Prototype_starbase:
+ Id: 18764
+ ENG: "Prototype starbase"
+ RUS: "Прототип флагмана"
+ SPA: "Prototipo de nave almirante"
+BeginTheGameWithAn:
+ Id: 18765
+ ENG: "Begin the game with an advanced prototype starbase or Starbase equipped with technologies that otherwise would not be available at the game's start"
  RUS: "Начать игру с мощным флагманским кораблем, оснащенным технологиями, в ином случае не доступными в начале игры."
  SPA: "Comienzas la partida con un prototipo avanzado de nave almirante con tecnologías que, de otra forma, no estarían disponibles al principio del juego"
 

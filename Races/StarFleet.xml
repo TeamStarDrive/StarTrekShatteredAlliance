@@ -5,7 +5,7 @@
   <DiplomacyDialogPath>StarFleet</DiplomacyDialogPath>
   <StartingShip>fedaration starting ship mk1</StartingShip>
   <StartingScout>starfleet scout mk1</StartingScout>
-  <PrototypeShip>Starfleet_Prototype</PrototypeShip>
+  <PrototypeShip>prototype_station_mk1</PrototypeShip>
   <DefaultSmallTransport>Small Transport</DefaultSmallTransport>
   <DefaultTroopShip>Human Troop</DefaultTroopShip>
   <DefaultColonyShip>Colony Ship</DefaultColonyShip>
