@@ -32,7 +32,7 @@
   <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
   
   
-  <PowerDraw>400</PowerDraw>
+  <PowerDraw>100</PowerDraw>
 
   <NameIndex>18708</NameIndex>
   <DescriptionIndex>18709</DescriptionIndex>
