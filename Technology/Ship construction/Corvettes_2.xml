@@ -29,10 +29,6 @@
       <Name>Romulan/V1 Starglider</Name>
       <ShipType>Romulan</ShipType>
     </UnlockedHull>
-  <UnlockedHull>
-      <Name>Romulan/Rom_V11Stormbird</Name>
-      <ShipType>Romulan</ShipType>
-    </UnlockedHull>
 	<UnlockedHull>
       <Name>Romulan/Rom_V8Warbird</Name>
       <ShipType>Romulan</ShipType>

@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>plasma_torpedo</WeaponType>
-  <OrdinanceCapacity>100</OrdinanceCapacity>
+  <OrdinanceCapacity>1000</OrdinanceCapacity>
   <FieldOfFire>180</FieldOfFire>
 
   <!-- for Engines -->

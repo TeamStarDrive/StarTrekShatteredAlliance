@@ -85,6 +85,10 @@
       <Name>Romulan/Rom_Veles</Name>
       <ShipType>Romulan</ShipType>
     </UnlockedHull>
+  <UnlockedHull>
+      <Name>Romulan/Rom_V11Stormbird</Name>
+      <ShipType>Romulan</ShipType>
+    </UnlockedHull>
 
     <UnlockedHull>
       <Name>Terran/Gunboat</Name>

@@ -1,7 +1,7 @@
 Version=1
 HullName=Romulan/V1 Starglider
 VisibleName=V1 Starglider
-Role=frigate
+Role=Corvette
 Style=Romulan
 Size=12,10
 MeshOffset=0,8
