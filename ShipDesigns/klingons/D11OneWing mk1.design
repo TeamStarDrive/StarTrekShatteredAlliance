@@ -1,0 +1,59 @@
+Version=1
+Name=D11OneWing mk1
+Hull=Klingon/Kling_D11OneWing
+Role=corvette
+ModName=Star Trek
+Style=Klingon
+Size=10,16
+GridCenter=5,8
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=SteelArmorSmall;Kling_DisruptorCannonMk1;OrdnanceLockerSmall;Kling_DisruptorBeamMk1;PowerSolar;CombatEngine_2x1;WarpEngine_1x1;Shield_1KW;Fusion Reactor;Cockpit;NuclearReactorSmall
+Modules=41
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0
+4,0;0
+5,0;0
+3,1;1;2,2
+5,1;2
+2,3;3;2,6
+4,3;4
+1,6;0
+1,7;0
+7,7;5;2,1
+0,8;0
+1,8;2
+4,8;0
+5,8;0
+6,8;0
+7,8;5;1,2;90;2
+8,8;6
+9,8;6
+0,9;0
+1,9;7;2,2
+3,9;8;2,2
+5,9;9
+6,9;10
+8,9;6
+9,9;5;1,2;90;2
+0,10;0
+5,10;10
+6,10;10
+7,10;5;1,2;90;2
+8,10;5;1,2;90;2
+1,11;0
+2,11;6
+3,11;6
+4,11;0
+5,11;0
+6,11;0
+2,12;5;1,2;90;2
+3,12;6
+7,12;5;1,2;90;2
+2,14;5;1,2;90;2
+7,14;5;1,2;90;2

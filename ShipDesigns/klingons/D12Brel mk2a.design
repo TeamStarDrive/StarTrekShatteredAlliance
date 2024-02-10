@@ -1,0 +1,50 @@
+Version=1
+Name=D12Brel mk2a
+Hull=Klingon/Kling_D12Brel
+Role=corvette
+ModName=Star Trek
+Style=Klingon
+Size=10,9
+GridCenter=5,5
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=SteelArmorSmall;PowerSolar;Fighter_Shield;Kling_PhotonTorpedoMk1;Kling_DisruptorCannonMk1;Fusion Reactor;BasicFuelCell;OrdnanceLockerSmall;NuclearReactorSmall;Cockpit;CombatEngine_2x1;WarpEngine_1x1
+Modules=32
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+4,0;0
+5,0;0
+4,1;1
+5,1;2
+0,2;3;1,4
+4,2;4;2,2
+9,2;3;1,4
+1,4;2
+4,4;0
+5,4;0
+8,4;2
+1,5;1
+2,5;0
+3,5;0
+4,5;5;2,2
+6,5;0
+7,5;0
+8,5;1
+1,6;6
+2,6;7
+3,6;8
+6,6;8
+7,6;9
+8,6;6
+2,7;10;2,1
+4,7;11
+5,7;11
+6,7;10;2,1
+2,8;10;2,1
+4,8;11
+5,8;11
+6,8;10;2,1

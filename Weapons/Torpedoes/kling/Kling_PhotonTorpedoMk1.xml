@@ -27,7 +27,7 @@
   <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
   <HitPoints>10</HitPoints>
-  <SalvoCount>4</SalvoCount>
+  <SalvoCount>2</SalvoCount>
   <SalvoTimer>7</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -39,7 +39,7 @@
   <DamageAmount>11900</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>2500</ProjectileSpeed>
-  <ExplosionRadius>50</ExplosionRadius>
+  <ExplosionRadius>20</ExplosionRadius>
 
   <!-- Animation Information -->
   <Light>Red</Light>
@@ -58,5 +58,5 @@
   <ModelPath>projBall</ModelPath>
   <WeaponType>Photon Torpedoes</WeaponType>
 
-  <FireArc>90</FireArc>
+  <FireArc>45</FireArc>
 </Weapon>

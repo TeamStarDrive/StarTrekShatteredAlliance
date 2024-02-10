@@ -1,0 +1,63 @@
+Version=1
+Name=D4Predator mk1
+Hull=Klingon/Kling_D4Predator
+Role=corvette
+ModName=Star Trek
+Style=Klingon
+Size=12,19
+GridCenter=6,9
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Ceramic Armor Med;Kling_DisruptorBeamMk1;Ceramic Armor Small;Shield_10KW;Kling_PhotonTorpedoMk1;BosonTransmiter;Bridge;CombatEngine_2x1;Extreme Fusion Reactor;NuclearReactorSmall;Kling_DisruptorCannonMk2;Engine;Fabricator;WarpEngine_2x2
+Modules=45
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+4,0;0;2,2
+6,0;0;2,2
+5,2;1;2,6
+4,7;2
+7,7;2
+4,8;3;3,3
+7,8;2
+3,9;4;1,4
+7,9;5
+8,9;2
+0,10;2
+2,10;2
+7,10;6;2,2
+9,10;2
+11,10;2
+0,11;7;1,2;90;2
+1,11;2
+2,11;2
+4,11;8;2,2
+6,11;9
+9,11;2
+10,11;2
+11,11;7;1,2;90;2
+1,12;7;1,2;90;2
+2,12;4;1,4
+6,12;9
+7,12;10;3,3
+10,12;7;1,2;90;2
+0,13;11
+3,13;12;2,2
+5,13;8;2,2
+11,13;11
+0,14;13;2,2
+10,14;13;2,2
+3,15;2
+4,15;2
+5,15;2
+6,15;2
+7,15;2
+8,15;2
+9,15;2
+0,16;11
+11,16;11
+0,17;7;1,2;90;2
+11,17;7;1,2;90;2

@@ -77,9 +77,9 @@
   </EconomicTraitsWeights>
   
   <Traits>
-    <Name>Free Borg</Name>
-    <Singular>hugh</Singular>
-    <Plural>borg</Plural>
+    <Name>Borg</Name>
+    <Singular>Drone</Singular>
+    <Plural>Colective</Plural>
     <VideoPath>FreeBorg</VideoPath>
     <ShipType>FreeBorg</ShipType>
     <Adj1>drone</Adj1>
