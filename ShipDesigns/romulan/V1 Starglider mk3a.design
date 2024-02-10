@@ -1,0 +1,63 @@
+Version=1
+Name=V1 Starglider mk3a
+Hull=Romulan/V1 Starglider
+Role=corvette
+ModName=Star Trek
+Style=Romulan
+Size=12,10
+GridCenter=6,5
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=CombatEngine_2x1;ablative_ship_armor_Small;transphasic_fighter_shealds;advanced_fighter_sheaild;romulan_disrupter_cannon;WarpEngine_1x1;romulan_disrupter_beam_mk3;warpcore_2x2;Cockpit;Amplifier
+Modules=45
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0;1,2;90;2
+10,0;0;1,2;90;2
+0,2;1
+1,2;0;1,2;90;2
+2,2;1
+4,2;1
+5,2;1
+6,2;1
+7,2;1
+9,2;1
+10,2;0;1,2;90;2
+11,2;1
+0,3;1
+2,3;2;1,2
+3,3;1
+4,3;3
+5,3;4;2,2
+7,3;3
+8,3;1
+9,3;2;1,2
+11,3;1
+0,4;1
+1,4;5
+3,4;6;2,4
+7,4;6;2,4
+10,4;5
+11,4;1
+0,5;1
+1,5;5
+2,5;5
+5,5;7;2,2
+9,5;5
+10,5;5
+11,5;1
+1,6;0;1,2;90;2
+2,6;5
+9,6;5
+10,6;0;1,2;90;2
+5,7;8
+6,7;9
+4,8;1
+5,8;2;2,1;90;2
+7,8;1
+5,9;1
+6,9;1

@@ -1,7 +1,7 @@
 Version=1
 HullName=Romulan/Rom_Dverix
 VisibleName=Dverix Class
-Role=battleship
+Role=cruiser
 Style=Romulan
 Size=30,42
 MeshOffset=0,32

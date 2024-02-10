@@ -1,7 +1,7 @@
 Version=1
 Name=Dverix Class mk2
 Hull=Romulan/Rom_Dverix
-Role=battleship
+Role=cruiser
 ModName=Star Trek
 Style=Romulan
 Size=30,42
