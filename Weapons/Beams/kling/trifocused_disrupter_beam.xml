@@ -22,7 +22,7 @@
   <BeamTexture>kling_disruptorbeam</BeamTexture>
   <EffectVsShields>1.60</EffectVsShields> 
   
-  <DamageAmount>65</DamageAmount>
+  <DamageAmount>265</DamageAmount>
   <BeamThickness>25</BeamThickness>
   <ShieldPenChance>55</ShieldPenChance>
   <EffectVsArmor>0.95</EffectVsArmor>

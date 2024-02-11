@@ -20,10 +20,10 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>
   
   <UID>Kling_TriTorpedoMk2</UID>
-  <fireDelay>12</fireDelay>
+  <fireDelay>8</fireDelay>
   <Range>15000</Range>
   <PowerRequiredToFire>1200</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>400</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>100</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
   <HitPoints>45</HitPoints>
   <SalvoCount>4</SalvoCount>

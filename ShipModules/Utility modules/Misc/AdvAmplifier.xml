@@ -3,14 +3,13 @@
     <Cost>192</Cost>
     <FighterModule>false</FighterModule>
     <!-- Tech Level -->
-    <TechLevel>2</TechLevel>
+    <TechLevel>3</TechLevel>
     <TechBranch>Shield</TechBranch>
     <!-- common traits shared by all ship modules -->
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Shield</ModuleType>
     <Name>Amplifier</Name>
-    <Restrictions>I</Restrictions>
     <UID>AdvAmplifier</UID> 
   <Version>2</Version>
 
@@ -28,7 +27,7 @@
     <!-- Armor resistance -->
     <!-- for PowerPlant Items -->
     
-    <AmplifyShields>32500</AmplifyShields>
+    <AmplifyShields>140500</AmplifyShields>
 
     <!-- Crew Reqs -->
     

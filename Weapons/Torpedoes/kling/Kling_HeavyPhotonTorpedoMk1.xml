@@ -24,7 +24,7 @@
   <fireDelay>8</fireDelay>
   <Range>10000</Range>
   <PowerRequiredToFire>1600</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>300</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>150</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
   <HitPoints>55</HitPoints>
   <SalvoCount>4</SalvoCount>

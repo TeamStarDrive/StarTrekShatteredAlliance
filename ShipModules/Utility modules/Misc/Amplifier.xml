@@ -23,7 +23,6 @@
     <YSize>1</YSize>
     <ModuleType>Shield</ModuleType>
     <Name>Amplifier</Name>
-    <Restrictions>I</Restrictions>
     <UID>Amplifier</UID> 
   <Version>2</Version>
 
@@ -41,7 +40,7 @@
     <!-- Armor resistance -->
     <!-- for PowerPlant Items -->
     
-    <AmplifyShields>2950</AmplifyShields>
+    <AmplifyShields>35950</AmplifyShields>
 
     <!-- Crew Reqs -->
     

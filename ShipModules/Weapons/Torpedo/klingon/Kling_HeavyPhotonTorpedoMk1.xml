@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>Kling_HeavyPhotonTorpedoMk1</WeaponType>
-  <OrdinanceCapacity>500</OrdinanceCapacity>
+  <OrdinanceCapacity>1500</OrdinanceCapacity>
   <FieldOfFire>180</FieldOfFire>
 
   <!-- for Engines -->

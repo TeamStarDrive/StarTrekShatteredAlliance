@@ -16,7 +16,7 @@
   <Restrictions>IO</Restrictions>
   <Name>crusier_dock</Name>
   <IconTexturePath>Modules/crusier_dock</IconTexturePath>
-  <Mass>9000</Mass>
+  <Mass>4000</Mass>
   <Health>19000</Health>
   <HealthMax>19000</HealthMax>
   <energyreq>125</energyreq>

@@ -1,0 +1,94 @@
+Version=1
+Name=D10Riskadh troop transport mk3
+Hull=Klingon/Kling_D10Riskadh
+Role=troopShip
+ModName=Star Trek
+Style=Klingon
+Size=14,24
+GridCenter=7,12
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=CompositeAlloys Small;MarineBarracks2x2;PowerSolar;PowerConduit;frigate_shealds;BosonTransmiter;TroopAssaultBay;Kling_DisruptorCannonMk1;NuclearBombBay2x2;Maneuvering_Thruster_1x1;warpcore_2x2;CombatEngine_2x1;WarpEngine_2x2;Cockpit;Sensor1x2;TorpedoBay_2x1;Amplifier;OrdnanceLockerSmall
+Modules=76
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+6,0;0
+7,0;0
+5,1;0
+6,1;1;2,2
+8,1;0
+5,2;0
+8,2;0
+6,3;2
+7,3;3
+6,4;4;2,2
+6,6;2
+7,6;5
+6,7;6;2,3;;;Terran Assault Shuttle
+4,10;0
+6,10;1;2,2
+9,10;0
+3,11;6;2,3;;;Terran Assault Shuttle
+9,11;6;2,3;;;Terran Assault Shuttle
+6,12;7;2,2
+2,13;0
+5,13;5
+8,13;5
+11,13;0
+2,14;0
+3,14;8;2,2
+5,14;1;2,2
+7,14;1;2,2
+9,14;8;2,2
+11,14;0
+2,15;0
+11,15;0
+1,16;9
+2,16;4;2,2
+4,16;1;2,2
+6,16;10;2,2
+8,16;1;2,2
+10,16;4;2,2
+12,16;9
+0,17;11;2,1
+12,17;11;2,1
+0,18;12;2,2
+2,18;0
+3,18;1;2,2
+5,18;1;2,2
+7,18;1;2,2
+9,18;1;2,2
+11,18;0
+12,18;12;2,2
+2,19;0
+11,19;0
+0,20;12;2,2
+2,20;0
+3,20;1;2,2
+5,20;13
+6,20;14;2,1
+8,20;15;1,2;270;1
+9,20;1;2,2
+11,20;0
+12,20;12;2,2
+2,21;0
+5,21;16
+6,21;11;2,1
+11,21;0
+0,22;11;2,1
+2,22;17
+3,22;0
+4,22;0
+5,22;0
+6,22;11;2,1
+8,22;0
+9,22;0
+10,22;0
+11,22;17
+12,22;11;2,1
+0,23;11;2,1
+12,23;11;2,1

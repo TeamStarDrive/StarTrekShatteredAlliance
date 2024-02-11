@@ -1,0 +1,40 @@
+Version=1
+Name=D1 Raptor mk3
+Hull=Klingon/Kling_Raptor
+Role=fighter
+ModName=Star Trek
+Style=Klingon
+Size=8,10
+GridCenter=4,5
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Crystal_Armor_Med;Klingon_fighter_kenetic_disrupter;prototype_fighter_shealds;CombatEngine_2x1;PowerSolar;PowerConduit;Cockpit;WarpEngine_1x1;Amplifier;warpcore_2x2
+Modules=22
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0;2,2
+3,2;1;2,1
+3,3;1;2,1
+3,4;2;2,1;90;2
+0,5;3;1,2;90;2
+3,5;4
+4,5;5
+7,5;3;1,2;90;2
+3,6;6
+4,6;6
+0,7;7
+1,7;8
+2,7;2;1,2
+3,7;9;2,2
+5,7;2;1,2
+6,7;8
+7,7;7
+0,8;3;1,2;90;2
+1,8;8
+6,8;8
+7,8;3;1,2;90;2
+3,9;3;2,1
