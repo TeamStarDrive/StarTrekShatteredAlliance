@@ -13,26 +13,26 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
   
-  <Cost>200</Cost>
-  <TechLevel>4</TechLevel>
-  <XSize>6</XSize>
+  <Cost>50</Cost>
+  <TechLevel>2</TechLevel>
+  <XSize>2</XSize>
   <YSize>2</YSize>
   <ModuleType>Special</ModuleType>
-  <Name>Research Lab</Name>
+  <Name>Research Array</Name>
   <Restrictions>IO</Restrictions>
-  <UID>ResearchLab</UID> 
+  <UID>ResearchArray</UID> 
   <Version>2</Version>
-  <SensorRange>50000</SensorRange>
+  <SensorRange>30000</SensorRange>
 
-  <IconTexturePath>Modules/ResearchLab</IconTexturePath>
-  <Mass>200</Mass>
-  <Health>1200</Health>
-  <HealthMax>1200</HealthMax>
-  <RepairDifficulty>4</RepairDifficulty>
+  <IconTexturePath>Modules/ResearchArray</IconTexturePath>
+  <Mass>40</Mass>
+  <Health>300</Health>
+  <HealthMax>300</HealthMax>
+  <RepairDifficulty>2</RepairDifficulty>
   <energyreq>0</energyreq>
   
-  <PowerDraw>450</PowerDraw>
-  <ResearchPerTurn>0.4</ResearchPerTurn>
-  <NameIndex>4989</NameIndex>
-  <DescriptionIndex>4990</DescriptionIndex>
+  <PowerDraw>100</PowerDraw>
+  <ResearchPerTurn>0.1</ResearchPerTurn>
+  <NameIndex>4991</NameIndex>
+  <DescriptionIndex>4992</DescriptionIndex>
 </ShipModule>

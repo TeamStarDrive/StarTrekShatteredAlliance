@@ -23,10 +23,6 @@
       <Type>Cardassia</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>borg_holding_beam_mk1</ModuleUID>
-      <Type>FreeBorg</Type>
-    </UnlockedMod>
-	<UnlockedMod>
       <ModuleUID>Kling_DisruptorBeamMk1</ModuleUID>
       <Type>Klingon</Type>
     </UnlockedMod>

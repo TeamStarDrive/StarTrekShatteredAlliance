@@ -1,0 +1,35 @@
+Version=1
+Name=Triangle mk1
+Hull=FreeBorg/Borg_Triangle
+Role=fighter
+ModName=Star Trek
+Style=FreeBorg
+Size=4,7
+GridCenter=2,3
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=primative_disrupter_cannon;PowerSolar;NuclearReactorSmall;Cockpit;Maneuvering_Thruster_1x1;WarpEngine_1x1;Engine
+Modules=17
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0;2,1;360;2
+1,1;1
+2,1;1
+0,2;0;1,2;315
+1,2;1
+2,2;1
+3,2;1
+1,3;2
+2,3;3
+3,3;4
+0,4;5
+1,4;2
+2,4;2
+3,4;5
+1,5;6
+2,5;6
+1,6;6

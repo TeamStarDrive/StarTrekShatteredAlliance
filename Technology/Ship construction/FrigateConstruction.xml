@@ -55,10 +55,7 @@
       <Name>Terran/Fed_Constitution</Name>
       <ShipType>fed</ShipType>
     </UnlockedHull>
-  <UnlockedHull>
-      <Name>FreeBorg/Borg_Interceptor</Name>
-      <ShipType>FreeBorg</ShipType>
-    </UnlockedHull>
+
   <UnlockedHull>
       <Name>FreeBorg/Borg_Coffin</Name>
       <ShipType>FreeBorg</ShipType>

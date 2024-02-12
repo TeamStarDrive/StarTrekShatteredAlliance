@@ -7,7 +7,7 @@
 	<TraitName>Efficient Metabolism</TraitName>
     <TraitIndex>32</TraitIndex>
     <Category>Physical</Category>
-    <Cost>3</Cost>
+    <Cost>-15</Cost>
     <Description>33</Description>
     <ConsumptionModifier>-0.15</ConsumptionModifier>
     <Excludes>
