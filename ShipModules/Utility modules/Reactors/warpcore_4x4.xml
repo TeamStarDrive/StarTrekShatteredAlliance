@@ -35,11 +35,11 @@
   <!-- for PowerPlant Items -->
   <ExplosionDamage>10000</ExplosionDamage>
   <ExplosionRadius>70</ExplosionRadius> 
-  <PowerFlowMax>9300</PowerFlowMax>
-  <PowerStoreMax>4500</PowerStoreMax>
+  <PowerFlowMax>9600</PowerFlowMax>
+  <PowerStoreMax>54500</PowerStoreMax>
   <PowerRadius>20</PowerRadius>
   <!-- for Engines -->
-  <Thrust>6000</Thrust>
-  <WarpThrust>4000000</WarpThrust>
+  <Thrust>60000</Thrust>
+  <WarpThrust>4500000</WarpThrust>
 
 </ShipModule>
