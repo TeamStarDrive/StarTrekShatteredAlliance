@@ -1,0 +1,53 @@
+Version=1
+Name=Defense Unit mk5a
+Hull=FreeBorg/Defense Unit
+Role=station
+ModName=Star Trek
+Style=FreeBorg
+Size=14,21
+GridCenter=7,10
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Organic_Bioplates_Large;Organic_Bioplates_Small;TRANSPHASIC_OWP_SHEAILD;orbital_cannons_mk2;TorpedoBay_2x1;warpcore_2x2;station_phasor_beem_mk3;Bridge;station_phasor_beem_mk1
+Modules=35
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+5,0;0;3,3
+8,0;1
+8,1;1
+8,2;1
+5,3;1
+6,3;2;2,2
+8,3;1
+3,4;0;3,3
+8,4;0;3,3
+6,5;2;2,2
+0,7;0;3,3
+3,7;3;3,3
+6,7;4;2,1
+8,7;3;3,3
+11,7;0;3,3
+6,8;5;2,2
+3,10;6;4,4
+7,10;7;2,2
+9,10;4;1,2;90;2
+10,10;1
+0,11;0;3,3
+10,11;1
+11,11;0;3,3
+7,12;5;2,2
+9,12;8;2,2
+3,14;0;3,3
+6,14;2;2,2
+8,14;0;3,3
+6,16;2;2,2
+5,17;1
+8,17;1
+5,18;1
+6,18;0;3,3
+5,19;1
+5,20;1

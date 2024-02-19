@@ -7,7 +7,7 @@
   <PlatformModule>false</PlatformModule>
   <StationModule>false</StationModule>
 
-  <Cost>80</Cost>
+  <Cost>380</Cost>
   <TechLevel>3</TechLevel>	
   <!-- common traits shared by all ship modules -->
   <XSize>2</XSize>
@@ -17,9 +17,9 @@
   <Restrictions>I</Restrictions>
   <UID>Inertial_Damper</UID>
   <IconTexturePath>Modules/Inertial_Dampener</IconTexturePath>
-  <Mass>-200</Mass>
-  <Health>3000</Health>
-  <HealthMax>3000</HealthMax>
+  <Mass>-100</Mass>
+  <Health>100</Health>
+  <HealthMax>100</HealthMax>
   <RepairDifficulty>6</RepairDifficulty>
   <energyreq>0</energyreq>
   
@@ -27,7 +27,7 @@
   </Description>
   
   
-  <PowerDraw>170</PowerDraw>
+  <PowerDraw>370</PowerDraw>
 
   <NameIndex>18301</NameIndex>
   <DescriptionIndex>18300</DescriptionIndex>
