@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Tag_Kinetic>false</Tag_Kinetic>
+  <Tag_Energy>false</Tag_Energy>
+  <Tag_Guided>true</Tag_Guided>
+  <Tag_Missile>true</Tag_Missile>
+  <Tag_Plasma>false</Tag_Plasma>
+  <Tag_Beam>false</Tag_Beam>
+  <Tag_Intercept>true</Tag_Intercept>
+  
+  <Tag_Bomb>false</Tag_Bomb>
+  
+  <Tag_BioWeapon>false</Tag_BioWeapon>
+  
+  
+  <Tag_Drone>false</Tag_Drone>
+  <Tag_Torpedo>false</Tag_Torpedo>
+  <Tag_Cannon>false</Tag_Cannon>
+  
+  <ExcludesFighters>true</ExcludesFighters>  
+  <ExcludesCorvettes>true</ExcludesCorvettes>      
+
+  <UID>MRM mk3</UID>
+
+  <HitPoints>35</HitPoints>
+  <FireDelay>12.5</FireDelay>
+  <Range>6000</Range>
+  <PowerRequiredToFire>0</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>16</OrdinanceRequiredToFire>
+  <TerminalPhaseAttack>true</TerminalPhaseAttack>      
+  <TerminalPhaseDistance>2000</TerminalPhaseDistance>      
+  <TerminalPhaseSpeedMod>2.5</TerminalPhaseSpeedMod>  
+  <DelayedIgnition>0.75</DelayedIgnition>    
+  
+<!-- Projectile stats -->
+  <DamageAmount>1000</DamageAmount>
+  <ProjectileSpeed>1200</ProjectileSpeed>
+  <ExplosionRadius>40</ExplosionRadius> <!-- This projectile explodes -->
+  <SalvoCount>8</SalvoCount>
+  <SalvoTimer>2</SalvoTimer>
+  <ShieldPenChance>12</ShieldPenChance>
+  <DelayedIgnition>1</DelayedIgnition>
+  <ProjectileRadius>8</ProjectileRadius>
+  <RotationRadsPerSecond>0.8</RotationRadsPerSecond>
+<!--Projectile atributes-->
+  <Scale>0.7</Scale>
+  
+  <CanCollideProjectiles>true</CanCollideProjectiles>
+<!-- Projectile textures-->
+  <ProjectileTexturePath>MRM_d</ProjectileTexturePath>
+  <ModelPath>MRM</ModelPath>
+  <WeaponTrailEffect>MRM3Trail</WeaponTrailEffect>
+  <TrailOffset>-16</TrailOffset>
+  <WeaponType>Missile</WeaponType>
+<!-- name of XACT audio cue to play on firing this weapon -->
+  <FireCueName>sd_weapon_missile_heavy_01</FireCueName>
+  <DieCue>Explo1</DieCue>
+  <InFlightCue>sd_weapon_rocket_flight_01</InFlightCue>
+</Weapon>

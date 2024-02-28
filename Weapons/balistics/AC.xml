@@ -1,0 +1,28 @@
+﻿<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UID>AC</UID>
+  <Tag_Cannon>true</Tag_Cannon>
+  <Tag_Kinetic>true</Tag_Kinetic>
+  <FireDelay>3.2</FireDelay>
+  <Range>3600</Range>
+  <PowerRequiredToFire>70</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>0.2</OrdinanceRequiredToFire>
+  <SalvoCount>3</SalvoCount>
+  <SalvoTimer>0.4</SalvoTimer>
+  
+  <!-- name of XACT audio cue to play on firing this weapon -->
+  <FireCueName>sd_weapon_Turretgun_001</FireCueName>
+  <DieCue>sd_impact_bullet_small_01</DieCue>
+  <!-- Projectile Information -->
+  <DamageAmount>150</DamageAmount>
+  <Scale>0.8</Scale>
+  <MuzzleFlash>Yes</MuzzleFlash>
+  <ProjectileSpeed>1950</ProjectileSpeed>
+  <EffectVsArmor>0.3</EffectVsArmor>
+  <ShieldPenChance>15</ShieldPenChance>
+  <ProjectileTexturePath>projTear_01_blue_dual</ProjectileTexturePath>
+  <ModelPath>projTear</ModelPath>
+  <WeaponType>Phased Defense</WeaponType>
+  <FireCone>2</FireCone>
+  <ProjectileRadius>16</ProjectileRadius>
+  <WeaponEffectType>MuzzleSmoke</WeaponEffectType>  
+</Weapon>

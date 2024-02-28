@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <DestroyerModule>false</DestroyerModule>
+  <FrigateModule>false</FrigateModule>
+  <FreighterModule>false</FreighterModule>
+  
+  <Cost>100</Cost>
+  <TechLevel>5</TechLevel>  
+  <!-- common traits shared by all ship modules -->
+  <ModuleType>MainGun</ModuleType>
+  <XSize>3</XSize>
+  <YSize>10</YSize>
+  <Name>Assault Cannon Type81</Name>
+  <Restrictions>IO</Restrictions>
+  <UID>Assault Cannon Type81</UID>
+  <IconTexturePath>Modules/Assault Cannon Type81</IconTexturePath>
+  <Mass>300</Mass>
+  <Health>7500</Health>
+  <HealthMax>7500</HealthMax>
+  <RepairDifficulty>3</RepairDifficulty>
+  <energyreq>0</energyreq>
+  <Description>Sprin mount cannons, using default AP ammo.+10% damage against armor but -15% damage against shield.Explosion radius: Medium
+  </Description>
+  
+  
+  <PowerDraw>50</PowerDraw>
+
+  <NameIndex>8027</NameIndex>
+  <DescriptionIndex>8028</DescriptionIndex>
+
+  <!-- for shield items -->
+  
+  <ShieldPowerMax>0</ShieldPowerMax>
+  <ShieldRechargeDelay>0</ShieldRechargeDelay>
+  <ShieldRechargeRate>0</ShieldRechargeRate>
+  <ShieldRadius>0</ShieldRadius>
+  <radius>0</radius>
+
+  <!-- for PowerPlant Items -->
+  
+  <PowerFlowMax>0</PowerFlowMax>
+  <PowerStoreMax>0</PowerStoreMax>
+  
+  <!-- for Weapons -->
+  <WeaponType>Assault Cannon Type81</WeaponType>
+  <FieldOfFire>20</FieldOfFire>
+  <OrdinanceCapacity>255</OrdinanceCapacity>
+  
+  
+  <!-- for Engines -->
+  <Thrust>0</Thrust>
+  
+  
+
+</ShipModule>

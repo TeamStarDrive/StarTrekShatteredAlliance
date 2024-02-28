@@ -1,0 +1,51 @@
+﻿<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tag_Kinetic>true</Tag_Kinetic>
+  <Tag_Energy>false</Tag_Energy>
+  <Tag_Guided>false</Tag_Guided>
+  <Tag_Missile>false</Tag_Missile>
+  <Tag_Plasma>false</Tag_Plasma>
+  <Tag_Beam>false</Tag_Beam>
+  <Tag_Intercept>false</Tag_Intercept>
+  
+  <Tag_Bomb>false</Tag_Bomb>
+  <Tag_BioWeapon>false</Tag_BioWeapon>
+  
+  
+  <Tag_Drone>false</Tag_Drone>
+  <Tag_Torpedo>false</Tag_Torpedo>
+  <Tag_Cannon>true</Tag_Cannon>
+  
+  <ExcludesFighters>true</ExcludesFighters>  
+  <ExcludesCorvettes>true</ExcludesCorvettes>  
+  
+  <UID>Assault Cannon Type20</UID>
+  <FireDelay>8.8</FireDelay>
+  <Range>7500</Range>
+  <OrdinanceRequiredToFire>52</OrdinanceRequiredToFire>
+
+
+  <!-- name of XACT audio cue to play on firing this weapon -->
+  <FireCueName>sd_weapon_railgun_massive_01</FireCueName>
+  <DieCue>explosionMedium</DieCue>
+  <!-- Projectile Information -->
+  <DamageAmount>3250</DamageAmount>
+  <MuzzleFlash>Yes</MuzzleFlash>
+  <ProjectileSpeed>2400</ProjectileSpeed>
+  <ExplosionRadius>44</ExplosionRadius> <!-- This projectile explodes -->
+  <ShieldPenChance>10</ShieldPenChance>
+  <EffectVsArmor>1.9</EffectVsArmor>
+  <EffectVsShields>0.85</EffectVsShields>
+
+  <!-- Animation Information -->
+  <Animated>1</Animated>
+  <Scale>0.4</Scale>
+  <Frames>17</Frames>
+  <AnimationPath>Kinetic_Red/Kinetic_Red_cc_</AnimationPath>
+  <LoopAnimation>1</LoopAnimation>          
+
+  <ModelPath>projBall</ModelPath>
+  <ProjectileCount>1</ProjectileCount>
+  <WeaponEffectType>SmokeTrail</WeaponEffectType>
+  <WeaponType>Ballistic Cannon</WeaponType>
+  <ProjectileRadius>20</ProjectileRadius> 
+</Weapon>

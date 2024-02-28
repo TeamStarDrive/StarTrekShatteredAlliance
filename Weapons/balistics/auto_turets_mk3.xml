@@ -1,0 +1,48 @@
+﻿<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Tag_Kinetic>true</Tag_Kinetic>
+  <Tag_Energy>false</Tag_Energy>
+  <Tag_Guided>false</Tag_Guided>
+  <Tag_Missile>false</Tag_Missile>
+  <Tag_Plasma>false</Tag_Plasma>
+  <Tag_Beam>false</Tag_Beam>
+  <Tag_Intercept>false</Tag_Intercept>
+  
+  <Tag_Bomb>false</Tag_Bomb>
+  <Tag_BioWeapon>false</Tag_BioWeapon>
+  
+  
+  <Tag_Drone>false</Tag_Drone>
+  <Tag_Torpedo>false</Tag_Torpedo>
+  <Tag_Cannon>true</Tag_Cannon>
+  
+  <ExcludesFighters>true</ExcludesFighters>  
+
+  
+  <UID>auto_turets_mk3</UID>
+  <FireDelay>8.15</FireDelay>
+  <Range>5000</Range>
+  <PowerRequiredToFire>0</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>7.5</OrdinanceRequiredToFire>
+
+
+  <!-- name of XACT audio cue to play on firing this weapon -->
+   <FireCueName>sd_weapon_bigcannon_01</FireCueName>
+  <DieCue>Explo1</DieCue>
+  <!-- Projectile Information -->
+  <DamageAmount>1100</DamageAmount>
+  <Scale>1.8</Scale>
+  <MuzzleFlash>Yes</MuzzleFlash>
+  <ProjectileSpeed>1850</ProjectileSpeed>
+  <ExplosionRadius>36</ExplosionRadius> <!-- This projectile explodes -->
+  <ProjectileRadius>16</ProjectileRadius>
+  
+  <ProjectileTexturePath>projTear_02_green</ProjectileTexturePath>
+  <ModelPath>projTear</ModelPath>
+  <SalvoCount>3</SalvoCount>
+  <SalvoTimer>0.9</SalvoTimer>
+  <!--the projectile count is spread over the fire arc-->
+  <WeaponEffectType>MuzzleSmokeFire</WeaponEffectType>
+  <WeaponType>Ballistic Cannon</WeaponType>
+  <FireCone>4</FireCone>
+</Weapon>

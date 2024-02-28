@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <DroneModule>false</DroneModule>
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <DestroyerModule>false</DestroyerModule>
+  <FrigateModule>false</FrigateModule>
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>false</PlatformModule>
+
+	<Cost>80</Cost>
+	<TechLevel>5</TechLevel>
+	<!-- common traits shared by all ship modules -->
+	<XSize>2</XSize>
+	<YSize>8</YSize>
+	<ModuleType>MissileLauncher</ModuleType>
+	<Name>Tactical nuke</Name>
+	<Restrictions>O</Restrictions>
+	<UID>Tactical nuke</UID>
+	<IconTexturePath>Modules/Tactical nuke</IconTexturePath>
+	<Mass>75</Mass>
+	<HealthMax>500</HealthMax>
+	<RepairDifficulty>2</RepairDifficulty>
+	<Description>Tactical nuke.</Description>
+	
+	
+	<PowerDraw>10</PowerDraw>
+	<!-- for shield items -->
+	
+	<ShieldPowerMax>0</ShieldPowerMax>
+	<ShieldRechargeDelay>0</ShieldRechargeDelay>
+	<ShieldRechargeRate>0</ShieldRechargeRate>
+	<ShieldRadius>0</ShieldRadius>
+	<radius>0</radius>
+	<NameIndex>6519</NameIndex>
+	<DescriptionIndex>6520</DescriptionIndex>
+	<!-- for PowerPlant Items -->
+	
+	<PowerFlowMax>0</PowerFlowMax>
+	<PowerStoreMax>0</PowerStoreMax>
+	<!-- for Weapons -->
+	<WeaponType>Tactical nuke</WeaponType>
+	<OrdinanceCapacity>75</OrdinanceCapacity>
+	<FieldOfFire>30</FieldOfFire>
+	<!-- for Engines -->
+	<Thrust>0</Thrust>
+</ShipModule>

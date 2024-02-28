@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ 
+ <Tag_Kinetic>false</Tag_Kinetic>
+  <Tag_Energy>false</Tag_Energy>
+  <Tag_Guided>true</Tag_Guided>
+  <Tag_Missile>true</Tag_Missile>
+  <Tag_Plasma>false</Tag_Plasma>
+  <Tag_Beam>false</Tag_Beam>
+  <Tag_Intercept>true</Tag_Intercept>
+  
+  <Tag_Bomb>false</Tag_Bomb>
+  
+  <Tag_BioWeapon>false</Tag_BioWeapon>
+  
+  
+  <Tag_Drone>false</Tag_Drone>
+  <Tag_Torpedo>false</Tag_Torpedo>
+  <Tag_Cannon>false</Tag_Cannon>
+
+  <UID>MRM mk1</UID>
+  
+  <ExcludesFighters>true</ExcludesFighters>  
+  <HitPoints>15</HitPoints>
+  <FireDelay>10</FireDelay>
+  <Range>5000</Range>
+  <PowerRequiredToFire>0</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>8</OrdinanceRequiredToFire>
+  <TerminalPhaseAttack>true</TerminalPhaseAttack>      
+  <TerminalPhaseDistance>1000</TerminalPhaseDistance>      
+  <TerminalPhaseSpeedMod>3.5</TerminalPhaseSpeedMod>  
+  
+<!-- Projectile stats -->
+  <DamageAmount>500</DamageAmount>
+  <ProjectileSpeed>1200</ProjectileSpeed>
+  <ExplosionRadius>30</ExplosionRadius> <!-- This projectile explodes -->
+  <SalvoCount>2</SalvoCount>
+  <SalvoTimer>0.5</SalvoTimer>
+  <ProjectileRadius>4</ProjectileRadius>
+  <RotationRadsPerSecond>1.2</RotationRadsPerSecond>
+  <ShieldPenChance>5</ShieldPenChance>
+<!--Projectile atributes-->
+  <Scale>0.5</Scale>
+  
+  <CanCollideProjectiles>true</CanCollideProjectiles>
+<!-- Projectile textures-->
+   <ProjectileTexturePath>MRM_d</ProjectileTexturePath>
+  <ModelPath>MRM</ModelPath>
+  <WeaponTrailEffect>MRM1Trail</WeaponTrailEffect>
+  <TrailOffset>-8</TrailOffset>
+  <WeaponType>Missile</WeaponType>
+<!-- name of XACT audio cue to play on firing this weapon -->
+  <FireCueName>sd_weapon_flame_start_01</FireCueName>
+  <DieCue>sd_weapon_rocket_explode_01</DieCue>
+  <InFlightCue>sd_weapon_rocket_flight_01</InFlightCue>
+</Weapon>

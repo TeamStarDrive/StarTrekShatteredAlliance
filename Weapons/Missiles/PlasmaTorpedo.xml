@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <UID>PlasmaTorpedo</UID>
+  
+  <Tag_Kinetic>false</Tag_Kinetic>
+  <Tag_Energy>false</Tag_Energy>
+  <Tag_Guided>true</Tag_Guided>
+  <Tag_Missile>false</Tag_Missile>
+  <Tag_Plasma>false</Tag_Plasma>
+  <Tag_Beam>false</Tag_Beam>
+  <Tag_Intercept>true</Tag_Intercept>
+  
+  <Tag_Bomb>false</Tag_Bomb>
+  
+  <Tag_BioWeapon>false</Tag_BioWeapon>
+  
+  
+  <Tag_Drone>false</Tag_Drone>
+  <Tag_Torpedo>true</Tag_Torpedo>
+  <Tag_Cannon>false</Tag_Cannon>
+  
+  <ExcludesFighters>true</ExcludesFighters>  
+  <ExcludesCorvettes>true</ExcludesCorvettes>   
+  
+  <FireDelay>8</FireDelay>
+  <Range>5000</Range>
+  <HitPoints>75</HitPoints>
+  <PowerRequiredToFire>400</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
+  <ProjectileCount>1</ProjectileCount>
+  <!-- name of XACT audio cue to play on firing this weapon -->
+  <FireCueName>sd_weapon_torpedo_01</FireCueName>
+  <DieCue>sd_explosion_ship_det_small</DieCue>
+  <InFlightCue>sd_weapon_rocket_flight_01</InFlightCue>
+  <EffectVsArmor>1.5</EffectVsArmor>
+  <!-- EffectVsShields>.5</EffectVsShields -->
+  <!-- Projectile Information -->
+  <DamageAmount>1800</DamageAmount>
+  <ArmorPen>1</ArmorPen>
+  <ExplosionRadius>30</ExplosionRadius> <!-- This projectile explodes -->
+  
+  <ExpColor>Green_1</ExpColor>  
+  <MuzzleFlash>Yes</MuzzleFlash>
+  <ProjectileSpeed>1750</ProjectileSpeed>
+  <RotationRadsPerSecond>0.7</RotationRadsPerSecond>
+  <Light>Green</Light>
+  <Scale>1.5</Scale>
+  <Animated>1</Animated>
+  <Frames>18</Frames>
+  <AnimationPath>Plasma_Proj/Plasma_Proj_cc_</AnimationPath>
+  <LoopAnimation>1</LoopAnimation>  
+  <ProjectileTexturePath>projTear_01_green</ProjectileTexturePath>
+  <ModelPath>projTear</ModelPath>
+  <WeaponType>Plasma</WeaponType>
+  <ProjectileRadius>7</ProjectileRadius>
+  <CanCollideProjectiles>true</CanCollideProjectiles>
+</Weapon>
