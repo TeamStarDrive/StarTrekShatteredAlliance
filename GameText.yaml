@@ -16263,7 +16263,7 @@ BB_Tech_MRM mk3_Desc:
  Id: 18785
  ENG: "This is a prototype burst MRM launcher" 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
-Tech_MRM mk2_Name:
+BB_Tech_MRM mk2_Name:
  Id: 18786
  ENG: "A twin missile launcher on a swivel turret allows cruiser-class vessels to dominate the battlefield with overwhelming missile barrages" 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
@@ -16272,7 +16272,7 @@ BB_Tech_MRM mk2_Desc:
  Id: 18787
  ENG: "A twin missile launcher on a swivel turret allows cruiser-class vessels to dominate the battlefield with overwhelming missile barrages" 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
-Tech_MRM mk1_Name:
+BB_Tech_MRM mk1_Name:
  Id: 18788
  ENG: "This is a multiple rocket launching system housed on a swivel turret for an enhanced field of fire." 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
@@ -16281,7 +16281,7 @@ BB_Tech_MRM mk1_Desc:
  Id: 18789
  ENG: "This is a multiple rocket launching system." 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
-Tech_ShadowStorm_Name:
+BB_Tech_ShadowStorm_Name:
  Id: 18790
  ENG: "prototype Missile System" 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
@@ -16290,7 +16290,7 @@ BB_Tech_ShadowStorm_Desc:
  Id: 18791
  ENG: "prototype Missile System." 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
-Tech_LightningStorm_Name:
+BB_Tech_LightningStorm_Name:
  Id: 18792
  ENG: "Advance Missile System" 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
@@ -16299,170 +16299,169 @@ BB_Tech_LightningStorm_Desc:
  Id: 18793
  ENG: "Advance Missile Systemm." 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
-Tech_LightningStorm_Name:
+BB_Tech_LightningStorm_Name:
  Id: 18792
  ENG: "Advance Missile System" 
 BB_Tech_LightningStorm_Desc:
  Id: 18793
  ENG: "Advance Missile Systemm." 
-Tech_Fighter Torpedo_Name:
+BB_Tech_Fighter Torpedo_Name:
  Id: 18794
  ENG: "Fighter Torpedo System" 
 BB_Tech_Fighter Torpedo_Desc:
  Id: 18795
  ENG: "Fighter Torpedo Systemm." 
-Tech_EMPTorpedo_Name:
+BB_Tech_E_M_PTorpedo_Name:
  Id: 18796
  ENG: "EMP Torpedo Tube"
-BB_Tech_EMPTorpedo_Desc:
+BB_Tech_E_M_PTorpedo_Desc:
  Id: 18797
  ENG: "EMP Torpedo Tube"
-Tech_Dissolver_Torpedo_Name:
+BB_Tech_Dissolver_Torpedo_Name:
  Id: 18798
  ENG: "Dissolver_Torpedo" 
 BB_Tech_Dissolver_Torpedo_Desc:
  Id: 18799
  ENG: "Dissolver_Torpedo." 
-Tech_PlasmaTorpedoTube_Name:
+BB_Tech_PlasmaTorpedoTube_Name:
  Id: 18800
  ENG: "PlasmaTorpedoTube" 
 BB_Tech_PlasmaTorpedoTube_Desc:
  Id: 18801
  ENG: "PlasmaTorpedoTube." 
-
-Tech_Nemesis_Rocket_Pod_Name:
+BB_Tech_Nemesis_Rocket_Pod_Name:
  Id: 18802
  ENG: "This rocket launchers stores and fires light guided rockets" 
 BB_Tech_Nemesis_Rocket_Pod_Desc:
  Id: 18803
  ENG: "This rocket launchers stores and fires light guided rockets."  
-Tech_Tactical nuke_Name:
+BB_Tech_Tactical nuke_Name:
  Id: 18804
  ENG: "Tactical nuke 
 BB_Tech_Tactical nuke_Desc:
  Id: 18805
  ENG: "Tactical nuke  
-Tech_TRI LAUNCH Tactical nuke_Name:
+BB_Tech_TRI LAUNCH Tactical nuke_Name:
  Id: 18806
  ENG: "TRI LAUNCH Tactical nuke 
 BB_Tech_TRI LAUNCH Tactical nuke_Desc:
  Id: 18807
  ENG: "TRI LAUNCH Tactical nuke 
-Tech_NemesisRocketPod_Name:
+BB_Tech_NemesisRocketPod_Name:
  Id: 18808
  ENG: "Nemesis_Rocket_Pod 
 BB_Tech_NemesisRocketPod_Desc:
  Id: 18809
  ENG: "Nemesis_Rocket_Pod 
-Tech_MRM_mk3_Name:
+BB_Tech_MRM_mk3_Name:
  Id: 18810
  ENG: "MRM mk3 
-BB_Tech_MRM mk3_Desc:
+BB_Tech_MRM_mk3_Desc:
  Id: 18811
  ENG: "MRM mk3 
-Tech_MRM_mk2_Name:
+BB_Tech_MRM_mk2_Name:
  Id: 18812
  ENG: "MRM mk2 
 BB_Tech_MRM_mk2_Desc:
  Id: 18813
  ENG: "MRM mk1 
-Tech_MRM_mk1_Name:
+BB_Tech_MRM_mk1_Name:
  Id: 18814
  ENG: "MRM mk1 
 BB_Tech_MRM_mk1_Desc:
  Id: 18815
  ENG: "MRM mk1 
-Tech_Lightning_Storm_Name:
+BB_Tech_Lightning_Storm_Name:
  Id: 18816
  ENG: "LightningStorm 
 BB_Tech_Lightning_Storm_Desc:
  Id: 18817
  ENG: "LightningStorm 
-Tech_EMP_Torpedo_Name:
+BB_Tech_EMP_Torpedo_Name:
  Id: 18818
- ENG: "EMPTorpedo 
+ ENG: "EMP Torpedo 
 BB_Tech_EMP_Torpedo_Desc:
  Id: 18819
- ENG: "EMPTorpedo 
-Tech_DissolverTorpedo_Name:
+ ENG: "EMP Torpedo 
+BB_Tech_DissolverTorpedo_Name:
  Id: 18820
  ENG: "Dissolver Torpedo 
 BB_Tech_DissolverTorpedo_Desc:
  Id: 18821
  ENG: "Dissolver Torpedo 
-Tech_Auto_CannonHEAP_Name:
+BB_Tech_Auto_CannonHEAP_Name:
  Id: 18822
- ENG: "AutoCannonHEAP 
+ ENG: "Auto Cannon HEAP 
 BB_Tech_Auto_CannonHEAP_Desc:
  Id: 18823
- ENG: "AutoCannonHEAP 
-Tech_Auto_CannonAP_Name:
+ ENG: "Auto Cannon HEAP 
+BB_Tech_Auto_CannonAP_Name:
  Id: 18824
  ENG: "AutoCannonAP 
 BB_Tech_Auto_CannonAP_Desc:
  Id: 18825
  ENG: "AutoCannonAP 
-Tech_Auto_Cannon_Name:
+BB_Tech_Auto_Cannon_Name:
  Id: 18826
  ENG: "AutoCannon 
 BB_Tech_Auto_Cannon_Desc:
  Id: 18827
  ENG: "AutoCannon 
-Tech_auto_turets_mk4_Name:
+BB_Tech_AutoTuretsMk4_Name:
  Id: 18828
- ENG: "auto_turets_mk4 
-BB_Tech_auto_turets_mk4_Desc:
+ ENG: "auto turets mk4 
+BB_Tech_AutoTuretsMk4_Desc:
  Id: 18829
- ENG: "auto_turets_mk4 
-Tech_auto_turets_mk3_Name:
+ ENG: "auto turets mk4 
+BB_Tech_AutoTuretsMk3_Name:
  Id: 18830
- ENG: "auto_turets_mk3 
-BB_Tech_auto_turets_mk3_Desc:
+ ENG: "auto turets mk3 
+BB_Tech_AutoTuretsMk3_Desc:
  Id: 18831
- ENG: "auto_turets_mk3 
-Tech_auto_turets_mk2_Name:
+ ENG: "auto turets mk3 
+BB_Tech_AutoTuretsMk2_Name:
  Id: 18832
- ENG: "auto_turets_mk2 
-BB_Tech_auto_turets_mk2_Desc:
+ ENG: "auto turets mk2 
+BB_Tech_AutoTuretsMk2_Desc:
  Id: 18833
- ENG: "auto_turets_mk2 
-Tech_auto_turets_mk1_Name:
+ ENG: "auto turets mk2 
+BB_Tech_AutoTuretsMk1_Name:
  Id: 18834
- ENG: "auto_turets_mk1 
-BB_Tech_auto_turets_mk1_Desc:
+ ENG: "auto turets mk1 
+BB_Tech_AutoTuretsMk1_Desc:
  Id: 18835
- ENG: "auto_turets_mk1 
-Tech_TRI_LAUNCH_Tactical nuke_Name:
+ ENG: "auto turets mk1 
+BB_Tech_TRI_LAUNCH_Tactical nuke_Name:
  Id: 18836
  ENG: "TRI LAUNCH Tactical nuke 
 BB_TRI_LAUNCH_Tactical_nuke_Desc:
  Id: 18837
  ENG: "TRI LAUNCH Tactical nuke 
-Tech_Tactical_nuke_Name:
+BB_Tech_Tactical_nuke_Name:
  Id: 18838
  ENG: "Tactical nuke 
 BB_Tactical_nuke_Desc:
  Id: 18839
  ENG: "Tactical nuke 
-Tech_Shadow_Storm_Name:
+BB_Tech_Shadow_Storm_Name:
  Id: 18840
  ENG: "ShadowStorm 
 BB_Shadow_Storm_Desc:
  Id: 18841
  ENG: "ShadowStorm 
-Tech_Plasma_Torpedo_Tube_Name:
+BB_Tech_Plasma_Torpedo_Tube_Name:
  Id: 18842
  ENG: "Plasma_Torpedo_Tube
 BB_Plasma_Torpedo_Tube_Desc:
  Id: 18843
  ENG: "Plasma_Torpedo_Tube 
-Tech_AssaultCannonType20_Name:
+BB_Tech_AssaultCannonType20_Name:
  Id: 18844
  ENG: "Assault Cannon Type20
 BB_AssaultCannonType20_Desc:
  Id: 18845
  ENG: "Assault Cannon Type20 
-Tech_AssaultCannonType81_Name:
+BB_Tech_AssaultCannonType81_Name:
  Id: 18846
  ENG: "Assault Cannon Type81
 BB_AssaultCannonType81_Desc:

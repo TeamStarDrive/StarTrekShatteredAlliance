@@ -18,7 +18,7 @@
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>  
   
-  <UID>Assault Cannon Type81</UID>
+  <UID>Assault_Cannon_Type81</UID>
   <FireDelay>8</FireDelay>
   <Range>8000</Range>
   <OrdinanceRequiredToFire>51</OrdinanceRequiredToFire>

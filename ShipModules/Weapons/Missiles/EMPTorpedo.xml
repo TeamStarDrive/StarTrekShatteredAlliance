@@ -9,10 +9,10 @@
   <XSize>2</XSize>
   <YSize>5</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>EMP Torpedo Tube</Name>
+  <Name>EMPTorpedo</Name>
   <Restrictions>O</Restrictions>
   <UID>EMPTorpedo</UID>
-  <IconTexturePath>Modules/emp_torpedo</IconTexturePath>
+  <IconTexturePath>Modules/EMPTorpedo</IconTexturePath>
   <Mass>20</Mass>
   <HealthMax>1000</HealthMax>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire</Description>
@@ -41,7 +41,7 @@
   <PowerStoreMax>0</PowerStoreMax>
 
   <!-- for Weapons -->
-  <WeaponType>EmpTorpedo</WeaponType>
+  <WeaponType>EMPTorpedo</WeaponType>
   <OrdinanceCapacity>16</OrdinanceCapacity>
   <FieldOfFire>30</FieldOfFire>
 

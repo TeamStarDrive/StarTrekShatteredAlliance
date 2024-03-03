@@ -18,7 +18,7 @@
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>   
   
-<UID>EmpTorpedo</UID>
+<UID>EMPTorpedo</UID>
   <HitPoints>100</HitPoints>
   <FireDelay>12</FireDelay>
   <Range>7500</Range>

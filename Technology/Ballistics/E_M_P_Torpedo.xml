@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
   <Version>2</Version>
-  <UID>EMP_Torpedo</UID>
+  <UID>E_M_P_Torpedo</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>8000</Cost>
   <NameIndex>18818</NameIndex>

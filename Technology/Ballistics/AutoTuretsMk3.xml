@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
   <Version>2</Version>
-  <UID>auto_turets_mk1</UID>
+  <UID>AutoTuretsMk3</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>160</Cost>
-  <NameIndex>18834</NameIndex>
-  <DescriptionIndex>18835</DescriptionIndex>
+  <NameIndex>18830</NameIndex>
+  <DescriptionIndex>18831</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
-      <UID>auto_turets_mk2</UID>
+      <UID>AutoTuretsMk4</UID>
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
     <UnlockedMod>
-      <ModuleUID>auto_turets_mk1</ModuleUID>
+      <ModuleUID>auto_turets_mk3</ModuleUID>
     </UnlockedMod>
     <!-- fork?
     <UnlockedMod>
@@ -26,7 +26,6 @@
   <TroopsUnlocked />
   <HullsUnlocked />
   <UnlockedAtGameStart>
-
   </UnlockedAtGameStart>
   <Militaristic>true</Militaristic>
 </Technology>

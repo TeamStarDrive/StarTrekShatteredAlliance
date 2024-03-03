@@ -13,10 +13,10 @@
   <XSize>3</XSize>
   <YSize>3</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>Heavy Auto Cannon HEAP</Name>
+  <Name>AutoCannonHEAP</Name>
   <Restrictions>O</Restrictions>
   <UID>AutoCannonHEAP</UID>
-  <IconTexturePath>Modules/ACHEAP</IconTexturePath>
+  <IconTexturePath>Modules/AutoCannonHEAP</IconTexturePath>
 
 
   <NameIndex>18782</NameIndex>
@@ -39,7 +39,7 @@
 
  
   <!-- for Weapons -->
-  <WeaponType>ACHEAP</WeaponType>
+  <WeaponType>AutoCannonHEAP</WeaponType>
   <FieldOfFire>180</FieldOfFire>
   <OrdinanceCapacity>12</OrdinanceCapacity>
   

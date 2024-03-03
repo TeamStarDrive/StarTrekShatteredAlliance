@@ -12,9 +12,9 @@
   <ModuleType>MainGun</ModuleType>
   <XSize>2</XSize>
   <YSize>7</YSize>
-  <Name>Assault Cannon Type20</Name>
+  <Name>Assault_Cannon_Type20</Name>
   <Restrictions>O</Restrictions>
-  <UID>Assault Cannon Type20</UID>
+  <UID>Assault_Cannon_Type20</UID>
   <IconTexturePath>Modules/Assault_Cannon_Type20</IconTexturePath>
   <Mass>112</Mass>
   <Health>3500</Health>
@@ -44,7 +44,7 @@
   <PowerStoreMax>0</PowerStoreMax>
   
   <!-- for Weapons -->
-  <WeaponType>Assault Cannon Type20</WeaponType>
+  <WeaponType>Assault_Cannon_Type20</WeaponType>
   <FieldOfFire>20</FieldOfFire>
   <OrdinanceCapacity>156</OrdinanceCapacity>
   

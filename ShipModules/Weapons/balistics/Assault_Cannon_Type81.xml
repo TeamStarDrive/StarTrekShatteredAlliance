@@ -13,9 +13,9 @@
   <ModuleType>MainGun</ModuleType>
   <XSize>3</XSize>
   <YSize>10</YSize>
-  <Name>Assault Cannon Type81</Name>
+  <Name>Assault_Cannon_Type81</Name>
   <Restrictions>IO</Restrictions>
-  <UID>Assault Cannon Type81</UID>
+  <UID>Assault_Cannon_Type81</UID>
   <IconTexturePath>Modules/Assault Cannon Type81</IconTexturePath>
   <Mass>300</Mass>
   <Health>7500</Health>
@@ -45,7 +45,7 @@
   <PowerStoreMax>0</PowerStoreMax>
   
   <!-- for Weapons -->
-  <WeaponType>Assault Cannon Type81</WeaponType>
+  <WeaponType>Assault_Cannon_Type81</WeaponType>
   <FieldOfFire>20</FieldOfFire>
   <OrdinanceCapacity>255</OrdinanceCapacity>
   
