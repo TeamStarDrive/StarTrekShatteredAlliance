@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
   <Version>2</Version>
-  <UID>Dissolver_Torpedo</UID>
+  <UID>Plasma_Torpedo_Tube</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>8000</Cost>
-  <NameIndex>615</NameIndex>
-  <DescriptionIndex>616</DescriptionIndex>
-
+  <NameIndex>18842</NameIndex>
+  <DescriptionIndex>18843</DescriptionIndex>
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>DissolverTorpedo</UID>
+    </LeadsToTech>
+  </LeadsTo>
   <ModulesUnlocked>
     <UnlockedMod>
-      <ModuleUID>Dissolver_Torpedo</ModuleUID>
+      <ModuleUID>PlasmaTorpedoTube</ModuleUID>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

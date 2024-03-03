@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tag_Kinetic>false</Tag_Kinetic>
+  <Tag_Energy>false</Tag_Energy>
+  <Tag_Guided>false</Tag_Guided>
+  <Tag_Missile>true</Tag_Missile>
+  <Tag_Plasma>false</Tag_Plasma>
+  <Tag_Beam>false</Tag_Beam>
+  <Tag_Intercept>true</Tag_Intercept>
+  
+  <Tag_Bomb>false</Tag_Bomb>
+  
+  <Tag_BioWeapon>false</Tag_BioWeapon>
+  
+  
+  <Tag_Drone>false</Tag_Drone>
+  <Tag_Torpedo>false</Tag_Torpedo>
+  <Tag_Cannon>false</Tag_Cannon>
+  
+  <UID>Nemesis_Rocket_Pod</UID>
+  <HitPoints>12</HitPoints>
+  <FireDelay>12</FireDelay>
+  <Range>3000</Range>
+  <PowerRequiredToFire>0</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>3.5</OrdinanceRequiredToFire>
+  
+<!-- Projectile stats -->
+  <DamageAmount>300</DamageAmount>
+  <ProjectileSpeed>1800</ProjectileSpeed>
+  <ProjectileRadius>4</ProjectileRadius>
+  <ExplosionRadius>20</ExplosionRadius> <!-- This projectile explodes -->
+  <SalvoCount>6</SalvoCount>
+  <SalvoTimer>2</SalvoTimer>
+  <FireCone>6</FireCone>               
+  <!--for salvos-->
+  <ProjectileRadius>6</ProjectileRadius>
+<!--Projectile atributes-->
+  <ShieldPenChance>10</ShieldPenChance>
+  <ArmorPen>1</ArmorPen>
+  <Scale>0.5</Scale>
+  
+  <CanCollideProjectiles>true</CanCollideProjectiles>
+<!-- Projectile textures-->
+   <ProjectileTexturePath>Rocket2_d</ProjectileTexturePath>
+  <ModelPath>Rocket2</ModelPath>
+  <WeaponTrailEffect>RocketTrail2</WeaponTrailEffect>
+  <TrailOffset>8</TrailOffset>
+  <WeaponType>Missile</WeaponType>
+<!-- name of XACT audio cue to play on firing this weapon -->
+  <FireCueName>sd_weapon_flame_start_01</FireCueName>
+  <DieCue>sd_weapon_rocket_explode_01</DieCue>
+  <InFlightCue>sd_weapon_rocket_flight_01</InFlightCue>
+</Weapon>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0"?>
+<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
+  <Tag_Kinetic>false</Tag_Kinetic>
+  <Tag_Energy>false</Tag_Energy>
+  <Tag_Guided>true</Tag_Guided>
+  <Tag_Missile>false</Tag_Missile>
+  <Tag_Plasma>false</Tag_Plasma>
+  <Tag_Beam>false</Tag_Beam>
+  <Tag_Intercept>true</Tag_Intercept>
+  
+  <Tag_Bomb>false</Tag_Bomb>
+  
+  <Tag_BioWeapon>false</Tag_BioWeapon>
+  
+  
+  <Tag_Drone>false</Tag_Drone>
+  <Tag_Torpedo>true</Tag_Torpedo>
+  <Tag_Cannon>false</Tag_Cannon>  
+
+  <ExcludesFighters>true</ExcludesFighters>  
+  <ExcludesCorvettes>true</ExcludesCorvettes>
+
+<UID>TRI LAUNCH Tactical nuke</UID>
+
+  <HitPoints>80</HitPoints>
+  <FireDelay>8</FireDelay>
+  <Range>10500</Range>
+  <PowerRequiredToFire>0</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>75</OrdinanceRequiredToFire>
+  <DelayedIgnition>1.5</DelayedIgnition>
+<!-- Projectile stats -->
+  <DamageAmount>11000</DamageAmount>
+  <EMPDamage>2000</EMPDamage>
+  <ProjectileSpeed>950</ProjectileSpeed>
+  <ExplosionRadius>96</ExplosionRadius> <!-- This projectile explodes -->
+  <EffectVsShields>0.75</EffectVsShields>
+  
+  <ProjectileRadius>20</ProjectileRadius>
+  <RotationRadsPerSecond>0.4</RotationRadsPerSecond>
+<!--Projectile atributes-->
+  <Scale>3.2</Scale>
+  
+  <CanCollideProjectiles>true</CanCollideProjectiles>
+<!-- Projectile textures-->
+  <ModelPath>Nuke</ModelPath>
+  <ProjectileTexturePath>Nuke_d</ProjectileTexturePath>
+  <WeaponTrailEffect>NukeTrail</WeaponTrailEffect>
+  <TrailOffset>0</TrailOffset>
+  <WeaponType>Missile</WeaponType>
+<!-- name of XACT audio cue to play on firing this weapon -->
+  <FireCueName>sd_weapon_missile_heavy_01</FireCueName>
+  <DieCue>Explo1</DieCue>
+  <InFlightCue>sd_weapon_rocket_flight_01</InFlightCue>
+</Weapon>

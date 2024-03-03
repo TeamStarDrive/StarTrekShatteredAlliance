@@ -2,30 +2,28 @@
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
   <DroneModule>false</DroneModule>
+  <Cost>24</Cost>
   
-  <Cost>20</Cost>
-  <TechLevel>4</TechLevel>
   <!-- common traits shared by all ship modules -->
+  <ModuleType>Turret</ModuleType>
   <XSize>2</XSize>
-  <YSize>5</YSize>
-  <ModuleType>MissileLauncher</ModuleType>
-  <Name>EMP Torpedo Tube</Name>
+  <YSize>2</YSize>
+  <Name>LightningStorm</Name>
+  <TechLevel>3</TechLevel>
   <Restrictions>O</Restrictions>
-  <UID>EMPTorpedo</UID>
-  <IconTexturePath>Modules/emp_torpedo</IconTexturePath>
+  <UID>LightningStorm</UID>
+  <IconTexturePath>Modules/LightningStorm</IconTexturePath>
   <Mass>20</Mass>
-  <HealthMax>1000</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire</Description>
+  <HealthMax>200</HealthMax>
+  <RepairDifficulty>2.5</RepairDifficulty>
+  <Description>Advance Missile System</Description>
   
   
-  <PowerDraw>5</PowerDraw>
+  <PowerDraw>20</PowerDraw>
 
+  <NameIndex>18792</NameIndex>
+  <DescriptionIndex>18793</DescriptionIndex>
 
-  
-  <NameIndex>18796</NameIndex>
-  <DescriptionIndex>18797</DescriptionIndex>
-
-  
 
   <!-- for shield items -->
   
@@ -39,15 +37,16 @@
   
   <PowerFlowMax>0</PowerFlowMax>
   <PowerStoreMax>0</PowerStoreMax>
-
+  
   <!-- for Weapons -->
-  <WeaponType>EmpTorpedo</WeaponType>
+  <WeaponType>LightningStormMiss</WeaponType>
   <OrdinanceCapacity>16</OrdinanceCapacity>
-  <FieldOfFire>30</FieldOfFire>
-
+  <FieldOfFire>180</FieldOfFire>
+  
+  
   <!-- for Engines -->
   <Thrust>0</Thrust>
-
-
+  
+  
 
 </ShipModule>

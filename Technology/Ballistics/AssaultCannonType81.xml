@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
   <Version>2</Version>
-  <UID>Hellstorm</UID>
+  <UID>AssaultCannonType81</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>2000</Cost>
-  <NameIndex>18478</NameIndex>
-  <DescriptionIndex>18479</DescriptionIndex>
-  <LeadsTo>
-	<LeadsToTech>
-      <UID>Lightning_Storm</UID>
-    </LeadsToTech>
-  </LeadsTo>
+  <Cost>4560</Cost>
+  <NameIndex>18846</NameIndex>
+  <DescriptionIndex>18847</DescriptionIndex>
   <ModulesUnlocked>
-  <UnlockedMod>
-      <ModuleUID>Hellstorm</ModuleUID>
+    <UnlockedMod>
+      <ModuleUID>Assault Cannon Type81</ModuleUID>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

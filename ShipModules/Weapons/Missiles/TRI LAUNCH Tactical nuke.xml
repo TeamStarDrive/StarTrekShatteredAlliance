@@ -15,14 +15,14 @@
 	<XSize>2</XSize>
 	<YSize>8</YSize>
 	<ModuleType>MissileLauncher</ModuleType>
-	<Name>Tactical nuke</Name>
+	<Name>TRI LAUNCH Tactical nuke</Name>
 	<Restrictions>O</Restrictions>
-	<UID>Tactical nuke</UID>
-	<IconTexturePath>Modules/Tactical nuke</IconTexturePath>
+	<UID>TRI LAUNCH Tactical nuke</UID>
+	<IconTexturePath>Modules/TRI LAUNCH Tactical nuke</IconTexturePath>
 	<Mass>75</Mass>
 	<HealthMax>500</HealthMax>
 	<RepairDifficulty>2</RepairDifficulty>
-	<Description>Tactical nuke.</Description>
+	<Description>TRI LAUNCH Tactical nuke</Description>
 	
 	
 	<PowerDraw>10</PowerDraw>
@@ -33,14 +33,14 @@
 	<ShieldRechargeRate>0</ShieldRechargeRate>
 	<ShieldRadius>0</ShieldRadius>
 	<radius>0</radius>
-	<NameIndex>18804</NameIndex>
-	<DescriptionIndex>18805</DescriptionIndex>
+	<NameIndex>18806</NameIndex>
+	<DescriptionIndex>18807</DescriptionIndex>
 	<!-- for PowerPlant Items -->
 	
 	<PowerFlowMax>0</PowerFlowMax>
 	<PowerStoreMax>0</PowerStoreMax>
 	<!-- for Weapons -->
-	<WeaponType>Tactical nuke</WeaponType>
+	<WeaponType>TRI LAUNCH Tactical nuke</WeaponType>
 	<OrdinanceCapacity>75</OrdinanceCapacity>
 	<FieldOfFire>30</FieldOfFire>
 	<!-- for Engines -->

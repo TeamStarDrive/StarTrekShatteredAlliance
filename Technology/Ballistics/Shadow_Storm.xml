@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
   <Version>2</Version>
-  <UID>Hellstorm</UID>
+  <UID>Shadow_Storm</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>2000</Cost>
-  <NameIndex>18478</NameIndex>
-  <DescriptionIndex>18479</DescriptionIndex>
+  <NameIndex>18840</NameIndex>
+  <DescriptionIndex>18841</DescriptionIndex>
   <LeadsTo>
-	<LeadsToTech>
-      <UID>Lightning_Storm</UID>
-    </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
   <UnlockedMod>
-      <ModuleUID>Hellstorm</ModuleUID>
+      <ModuleUID>ShadowStorm</ModuleUID>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

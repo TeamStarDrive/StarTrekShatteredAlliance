@@ -11,7 +11,7 @@
       <UID>DualMissileTurret</UID>
     </LeadsToTech>
 	<LeadsToTech>
-      <UID>MRM mk1</UID>
+      <UID>MRM_mk1</UID>
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>

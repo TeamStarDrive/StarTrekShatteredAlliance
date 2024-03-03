@@ -1,0 +1,60 @@
+﻿<?xml version="1.0"?>
+<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Tag_Kinetic>false</Tag_Kinetic>
+  <Tag_Energy>false</Tag_Energy>
+  <Tag_Guided>true</Tag_Guided>
+  <Tag_Missile>true</Tag_Missile>
+  <Tag_Plasma>false</Tag_Plasma>
+  <Tag_Beam>false</Tag_Beam>
+  <Tag_Intercept>true</Tag_Intercept>
+  
+  <Tag_Bomb>false</Tag_Bomb>
+  
+  <Tag_BioWeapon>false</Tag_BioWeapon>
+  
+  
+  <Tag_Drone>false</Tag_Drone>
+  <Tag_Torpedo>false</Tag_Torpedo>
+  <Tag_Cannon>false</Tag_Cannon>
+
+  <ExcludesCapitals>true</ExcludesCapitals>     
+  <ExcludesStations>true</ExcludesStations>       
+  <UID>LightningStormMiss</UID>
+
+  <HitPoints>10</HitPoints>
+  <FireDelay>3</FireDelay>
+  <Range>3700</Range>
+  <PowerRequiredToFire>0</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>0.6</OrdinanceRequiredToFire>
+  
+<!-- Projectile stats -->
+  <ProjectileCount>1</ProjectileCount>
+  <FireArc>15</FireArc>             <!--for shotgun effect-->
+  <DamageAmount>160</DamageAmount>
+  <ProjectileSpeed>1550</ProjectileSpeed>
+  <ExplosionRadius>32</ExplosionRadius> <!-- This projectile explodes -->
+  <SalvoCount>8</SalvoCount>
+  <SalvoTimer>1</SalvoTimer>
+  <FireCone>30</FireCone>               <!--for salvos-->
+  
+  <ProjectileRadius>4</ProjectileRadius>
+  <RotationRadsPerSecond>3</RotationRadsPerSecond>
+<!--Projectile atributes-->
+  <ArmorPen>0</ArmorPen>
+  <ShieldPenChance>7</ShieldPenChance>
+  <EffectVsShields>1</EffectVsShields>
+  <EffectVsArmor>0.35</EffectVsArmor>
+  <Scale>0.7</Scale>
+  
+  <CanCollideProjectiles>true</CanCollideProjectiles>
+<!-- Projectile textures-->
+  <ProjectileTexturePath>SRM_d</ProjectileTexturePath>
+  <ModelPath>SRM</ModelPath>
+  <WeaponType>Missile</WeaponType>
+  <WeaponTrailEffect>RocketTrail2</WeaponTrailEffect>
+  <TrailOffset>8</TrailOffset>
+<!-- name of XACT audio cue to play on firing this weapon -->
+  <FireCueName>sd_weapon_rocket_01</FireCueName>
+  <DieCue>sd_weapon_rocket_explode_01</DieCue>
+  <InFlightCue>sd_weapon_rocket_flight_01</InFlightCue>
+</Weapon>

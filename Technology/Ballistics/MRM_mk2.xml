@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
   <Version>2</Version>
-  <UID>auto_turets_mk3</UID>
+  <UID>MRM_mk2</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>160</Cost>
-  <NameIndex>18830</NameIndex>
-  <DescriptionIndex>18831</DescriptionIndex>
+  <Cost>2000</Cost>
+  <NameIndex>17504</NameIndex>
+  <DescriptionIndex>17505</DescriptionIndex>
   <LeadsTo>
-    <LeadsToTech>
-      <UID>auto_turets_mk4</UID>
+	<LeadsToTech>
+      <UID>MRM_mk3</UID>
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
     <UnlockedMod>
-      <ModuleUID>auto_turets_mk3</ModuleUID>
+      <ModuleUID>MRM mk2</ModuleUID>
     </UnlockedMod>
-    <!-- fork?
-    <UnlockedMod>
-      <ModuleUID>FlakTurret3x3</ModuleUID>
-    </UnlockedMod>
-    -->
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />
   <TroopsUnlocked />
   <HullsUnlocked />
-  <UnlockedAtGameStart>
-  </UnlockedAtGameStart>
-  <Militaristic>true</Militaristic>
 </Technology>

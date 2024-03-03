@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
   <Version>2</Version>
-  <UID>AutoCannonHEAP</UID>
+  <UID>NemesisRocketPod</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>1000</Cost>
-  <NameIndex>17478</NameIndex>
-  <DescriptionIndex>17479</DescriptionIndex>
+  <Cost>2000</Cost>
+  <NameIndex>18808</NameIndex>
+  <DescriptionIndex>18809</DescriptionIndex>
+    <LeadsTo>
+    <LeadsToTech>
+      <UID>TRI_LAUNCH_Tactical_nuke</UID>
+    </LeadsToTech>
+  </LeadsTo>
   <ModulesUnlocked>
     <UnlockedMod>
-      <ModuleUID>AutoCannonHEAP</ModuleUID>
+      <ModuleUID>Nemesis_Rocket_Pod</ModuleUID>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

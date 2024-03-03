@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
   <Version>2</Version>
-  <UID>AutoCannonAP</UID>
+  <UID>MRM_mk1</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>1000</Cost>
-  <NameIndex>17478</NameIndex>
-  <DescriptionIndex>17479</DescriptionIndex>
+  <Cost>2000</Cost>
+  <NameIndex>18814</NameIndex>
+  <DescriptionIndex>18815</DescriptionIndex>
   <LeadsTo>
-    <LeadsToTech>
-      <UID>AutoCannonHEAP</UID>
+	<LeadsToTech>
+      <UID>MRM_mk2</UID>
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
     <UnlockedMod>
-      <ModuleUID>AutoCannonAP</ModuleUID>
+      <ModuleUID>MRM mk1</ModuleUID>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

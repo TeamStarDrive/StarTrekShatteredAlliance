@@ -4,8 +4,8 @@
   <UID>auto_turets_mk1</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>160</Cost>
-  <NameIndex>18766</NameIndex>
-  <DescriptionIndex>18767</DescriptionIndex>
+  <NameIndex>18834</NameIndex>
+  <DescriptionIndex>18835</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>auto_turets_mk2</UID>

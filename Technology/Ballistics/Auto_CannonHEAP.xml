@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
   <Version>2</Version>
-  <UID>AutoCannon</UID>
+  <UID>Auto_CannonHEAP</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>1000</Cost>
-  <NameIndex>17478</NameIndex>
-  <DescriptionIndex>17479</DescriptionIndex>
-  <LeadsTo>
-    <LeadsToTech>
-      <UID>AutoCannonAP</UID>
-    </LeadsToTech>
-  </LeadsTo>
+  <NameIndex>18822</NameIndex>
+  <DescriptionIndex>18823</DescriptionIndex>
   <ModulesUnlocked>
     <UnlockedMod>
-      <ModuleUID>AutoCannon</ModuleUID>
+      <ModuleUID>Auto_CannonHEAP</ModuleUID>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
