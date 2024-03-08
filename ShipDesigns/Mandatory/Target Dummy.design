@@ -3,6 +3,7 @@ Name=Target Dummy
 Hull=Terran/Caravan
 Role=frigate
 Style=Terran
+ModName=Star Trek
 Size=14,21
 GridCenter=7,11
 DefaultAIState=AttackRunner

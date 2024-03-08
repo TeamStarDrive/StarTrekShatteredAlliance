@@ -3,6 +3,7 @@ Name=Meteor D
 Hull=Meteors/Meteor D
 Role=platform
 Style=Meteors
+ModName=Star Trek
 Size=8,8
 GridCenter=4,4
 DefaultCombatState=AttackRuns

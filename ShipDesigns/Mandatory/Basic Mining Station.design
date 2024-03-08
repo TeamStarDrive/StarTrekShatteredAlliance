@@ -3,6 +3,7 @@ Name=Basic Mining Station
 Hull=Terran/Terran_Station_Small
 Role=station
 Style=Terran
+ModName=Star Trek
 Size=28,28
 GridCenter=14,14
 DefaultCombatState=Artillery

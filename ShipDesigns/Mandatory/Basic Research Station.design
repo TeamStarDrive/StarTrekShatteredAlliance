@@ -3,6 +3,7 @@ Name=Basic Research Station
 Hull=Platforms/Platform Base
 Role=platform
 Style=Platforms
+ModName=Star Trek
 Size=8,7
 GridCenter=4,4
 DefaultCombatState=Artillery

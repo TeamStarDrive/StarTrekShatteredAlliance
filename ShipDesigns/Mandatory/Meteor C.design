@@ -3,6 +3,7 @@ Name=Meteor C
 Hull=Meteors/Meteor C
 Role=platform
 Style=Meteors
+ModName=Star Trek
 Size=12,12
 GridCenter=6,6
 DefaultCombatState=AttackRuns

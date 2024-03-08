@@ -1,0 +1,49 @@
+Version=1
+Name=Terran-Hunter misile mk1a
+Hull=Terran/Hunter
+Role=corvette
+ModName=Star Trek
+Style=Terran
+Size=10,11
+GridCenter=5,5
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=MassDriver2x4;SteelArmorSmall;Shield_1KW;MissileLauncher1x3;Maneuvering_Thruster_1x1;PowerConduit;OrdnanceLockerSmall;Cockpit;NuclearReactorMed;Engine;WarpEngine_1x1
+Modules=31
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+4,0;0;2,4
+3,4;1
+4,4;2;2,2
+6,4;1
+2,5;3;1,3
+3,5;4
+6,5;5
+7,5;3;1,3
+1,6;6
+3,6;7
+4,6;8;2,2
+6,6;5
+8,6;6
+0,7;6
+1,7;6
+3,7;5
+6,7;4
+8,7;6
+9,7;6
+3,8;9
+4,8;10
+5,8;5
+6,8;9
+2,9;4
+3,9;9
+4,9;10
+5,9;9
+6,9;10
+7,9;4
+4,10;9
+5,10;9

@@ -3,6 +3,7 @@ Name=Romulan_Prototype
 Hull=Romulan/Rom_Griffin
 Role=carrier
 ModName=Star Trek
+ModName=Star Trek
 Style=Romulan
 Size=32,37
 GridCenter=16,18

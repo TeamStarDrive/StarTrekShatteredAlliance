@@ -3,6 +3,7 @@ Name=Bondage-Class Mk IIIa Cruiser
 Hull=Cordrazine/Storving
 Role=cruiser
 Style=Cordrazine
+ModName=Star Trek
 Size=18,18
 GridCenter=9,10
 DefaultAIState=DoNothing

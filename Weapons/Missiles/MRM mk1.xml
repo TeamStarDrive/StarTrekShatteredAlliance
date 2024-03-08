@@ -22,7 +22,7 @@
   
   <ExcludesFighters>true</ExcludesFighters>  
   <HitPoints>15</HitPoints>
-  <FireDelay>10</FireDelay>
+  <FireDelay>9</FireDelay>
   <Range>5000</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>8</OrdinanceRequiredToFire>
@@ -31,7 +31,7 @@
   <TerminalPhaseSpeedMod>3.5</TerminalPhaseSpeedMod>  
   
 <!-- Projectile stats -->
-  <DamageAmount>500</DamageAmount>
+  <DamageAmount>800</DamageAmount>
   <ProjectileSpeed>1200</ProjectileSpeed>
   <ExplosionRadius>30</ExplosionRadius> <!-- This projectile explodes -->
   <SalvoCount>2</SalvoCount>

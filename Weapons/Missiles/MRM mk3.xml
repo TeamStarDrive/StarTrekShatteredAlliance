@@ -24,7 +24,7 @@
   <UID>MRM mk3</UID>
 
   <HitPoints>35</HitPoints>
-  <FireDelay>12.5</FireDelay>
+  <FireDelay>10.5</FireDelay>
   <Range>6000</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>16</OrdinanceRequiredToFire>
@@ -34,7 +34,7 @@
   <DelayedIgnition>0.75</DelayedIgnition>    
   
 <!-- Projectile stats -->
-  <DamageAmount>1000</DamageAmount>
+  <DamageAmount>1500</DamageAmount>
   <ProjectileSpeed>1200</ProjectileSpeed>
   <ExplosionRadius>40</ExplosionRadius> <!-- This projectile explodes -->
   <SalvoCount>8</SalvoCount>

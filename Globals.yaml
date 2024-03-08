@@ -76,7 +76,7 @@ Globals:
     IconPath: mod_icon.png
     Description: "5 STARTREK RACES THEIR SHIPS AND WEAPONS."
     Author: "Threepwood and tbh mostly The StarDrive+ Team"
-    UseVanillaShips: true
+    UseVanillaShips: false
     UseVanillaTechs: true
     UseVanillaModules: true
     UseVanillaWeapons: true

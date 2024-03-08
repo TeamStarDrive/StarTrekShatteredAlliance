@@ -1,0 +1,35 @@
+Version=1
+Name=Danube Class SCOUT MK1
+Hull=Terran/Fed_Danube
+Role=scout
+ModName=Star Trek
+Style=Terran
+Size=4,6
+GridCenter=2,3
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Structure;Fighter_Shield;PowerSolar;Engine;Sensor1x2;WarpEngine_1x1;NuclearReactorSmall;Cockpit
+Modules=17
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0
+2,0;0
+1,1;1
+2,1;2
+0,2;3
+1,2;4;2,1
+3,2;3
+0,3;5
+1,3;6
+2,3;6
+3,3;5
+0,4;3
+1,4;2
+2,4;7
+3,4;3
+1,5;0
+2,5;0

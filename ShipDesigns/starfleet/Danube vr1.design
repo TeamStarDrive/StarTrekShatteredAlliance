@@ -1,0 +1,34 @@
+Version=1
+Name=Danube vr1
+Hull=Terran/Fed_Danube
+Role=fighter
+ModName=Star Trek
+Style=Terran
+Size=4,6
+GridCenter=2,3
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=primative_disrupter_cannon;WarpEngine_1x1;Fighter_Shield;Engine;NuclearReactorSmall;Cockpit;PowerSolar
+Modules=16
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0;1,2
+2,0;0;1,2
+0,2;1
+1,2;2
+2,2;2
+3,2;1
+0,3;3
+1,3;4
+2,3;5
+3,3;3
+0,4;3
+1,4;4
+2,4;4
+3,4;3
+1,5;6
+2,5;6
