@@ -3,22 +3,22 @@
   <Tag_Cannon>true</Tag_Cannon>
   <Tag_Kinetic>true</Tag_Kinetic>
   
-  <FireDelay>3.2</FireDelay>
-  <Range>4000</Range>
+  <FireDelay>3.1</FireDelay>
+  <Range>8000</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0.9</OrdinanceRequiredToFire>
-  <SalvoCount>3</SalvoCount>
-  <SalvoTimer>0.4</SalvoTimer>
+  <SalvoCount>6</SalvoCount>
+  <SalvoTimer>0.5</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_Turretgun_001</FireCueName>
   <DieCue>sd_impact_bullet_small_01</DieCue>
 
   <!-- Projectile Information -->
-  <DamageAmount>240</DamageAmount>
+  <DamageAmount>1740</DamageAmount>
   <EffectVsArmor>0.5</EffectVsArmor>
   <ShieldPenChance>45</ShieldPenChance>
-  <ExplosionRadius>24</ExplosionRadius> <!-- This projectile explodes -->
+  <ExplosionRadius>44</ExplosionRadius> <!-- This projectile explodes -->
   <Scale>0.8</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>2150</ProjectileSpeed>

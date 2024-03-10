@@ -18,7 +18,7 @@
   
   <!-- Projectile Information -->
   <TroopDamageChance>3</TroopDamageChance>
-  <RepulsionDamage>9000</RepulsionDamage>
+  <RepulsionDamage>4000</RepulsionDamage>
   <EMPDamage>150</EMPDamage>
   <ShieldPenChance>100</ShieldPenChance>
   <BeamTexture>beam_shinysaphir</BeamTexture>

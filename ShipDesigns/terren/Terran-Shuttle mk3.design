@@ -1,0 +1,25 @@
+Version=1
+Name=Terran-Shuttle mk3
+Hull=Terran/Shuttle
+Role=fighter
+ModName=Star Trek
+Style=Terran
+Size=4,4
+GridCenter=2,2
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=MRM mk1;transphasic_fighter_shealds;small_antimatter_reactor;Cockpit;CombatEngine_2x1;OrdnanceLockerSmall
+Modules=7
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0;2,2
+0,2;1;1,2
+1,2;2
+2,2;2
+3,2;3
+1,3;4;2,1
+3,3;5

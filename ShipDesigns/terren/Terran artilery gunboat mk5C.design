@@ -1,0 +1,63 @@
+Version=1
+Name=Terran artilery gunboat mk5C
+Hull=Terran/HeavyGunboat
+Role=frigate
+ModName=Star Trek
+Style=Terran
+Size=6,18
+GridCenter=3,9
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=CompositeAlloys Small;Assault_Cannon_Type20;frigate_shealds;small_antimatter_reactor;Amplifier;Bridge;Extreme Fusion Reactor;Fabricator;HVTurret_2x2;WarpEngine_2x2;CombatEngine_2x1
+Modules=45
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0
+2,0;0
+3,0;0
+4,0;0
+1,1;1;2,7
+3,1;1;2,7
+0,2;0
+5,2;0
+0,3;0
+5,3;0
+0,4;0
+5,4;0
+0,6;0
+5,6;0
+0,7;0
+5,7;0
+0,8;0
+1,8;2;2,2
+3,8;3
+4,8;4
+5,8;0
+0,9;0
+3,9;3
+4,9;4
+5,9;0
+1,10;0
+2,10;5;2,2
+4,10;0
+1,11;0
+4,11;0
+0,12;0
+1,12;6;2,2
+3,12;7;2,2
+5,12;0
+0,13;0
+5,13;0
+0,14;8;2,2;315
+2,14;9;2,2
+4,14;8;2,2;45
+0,16;10;2,1
+2,16;10;2,1
+4,16;10;2,1
+0,17;10;2,1
+2,17;10;2,1
+4,17;10;2,1

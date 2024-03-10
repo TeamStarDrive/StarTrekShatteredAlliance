@@ -1,0 +1,49 @@
+Version=1
+Name=Terran-Seeker mk7
+Hull=Terran/Seeker
+Role=corvette
+ModName=Star Trek
+Style=Terran
+Size=8,12
+GridCenter=4,6
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=CompositeAlloys Small;auto_turets_mk2;transphasic_fighter_shealds;PowerSolar;Cockpit;small_antimatter_reactor;Extreme Fusion Reactor;Fabricator;Amplifier;OrdnanceLockerSmall;WarpEngine_1x1;HVTurret_2x2;CombatEngine_2x1
+Modules=31
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0
+4,0;0
+3,1;1;2,5
+2,4;0
+5,4;0
+2,5;0
+5,5;0
+1,6;2;1,2;180;3
+2,6;3
+3,6;4
+4,6;5
+5,6;3
+6,6;2;1,2;180;3
+2,7;6;2,2
+4,7;7;2,2
+1,8;8
+6,8;8
+0,9;9
+1,9;8
+2,9;10
+3,9;10
+4,9;10
+5,9;10
+6,9;8
+7,9;9
+0,10;11;2,2;315
+2,10;12;2,1
+4,10;12;2,1
+6,10;11;2,2;45
+2,11;12;2,1
+4,11;12;2,1

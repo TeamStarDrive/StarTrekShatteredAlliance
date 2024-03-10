@@ -19,20 +19,20 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>  
   
   <UID>Assault_Cannon_Type20</UID>
-  <FireDelay>8.8</FireDelay>
-  <Range>7500</Range>
-  <OrdinanceRequiredToFire>52</OrdinanceRequiredToFire>
+  <FireDelay>6.8</FireDelay>
+  <Range>14500</Range>
+  <OrdinanceRequiredToFire>42</OrdinanceRequiredToFire>
 
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_railgun_massive_01</FireCueName>
   <DieCue>explosionMedium</DieCue>
   <!-- Projectile Information -->
-  <DamageAmount>3250</DamageAmount>
+  <DamageAmount>11750</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>2400</ProjectileSpeed>
+  <ProjectileSpeed>3400</ProjectileSpeed>
   <ExplosionRadius>44</ExplosionRadius> <!-- This projectile explodes -->
-  <ShieldPenChance>10</ShieldPenChance>
+  <ShieldPenChance>30</ShieldPenChance>
   <EffectVsArmor>1.9</EffectVsArmor>
   <EffectVsShields>0.85</EffectVsShields>
 

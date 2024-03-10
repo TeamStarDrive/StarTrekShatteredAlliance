@@ -13,9 +13,9 @@
   <XSize>2</XSize>
   <YSize>2</YSize>
   <ModuleType>Special</ModuleType>
-  <Name>Inertial_Damper</Name>
+  <Name>Inertial Damper</Name>
   <Restrictions>I</Restrictions>
-  <UID>Inertial_Damper</UID>
+  <UID>Inertial Damper</UID>
   <IconTexturePath>Modules/Inertial_Dampener</IconTexturePath>
   <Mass>-100</Mass>
   <Health>100</Health>
@@ -29,8 +29,8 @@
   
   <PowerDraw>370</PowerDraw>
 
-  <NameIndex>18301</NameIndex>
-  <DescriptionIndex>18300</DescriptionIndex>
+  <NameIndex>18300</NameIndex>
+  <DescriptionIndex>18309</DescriptionIndex>
 
 
   <!-- for shield items -->

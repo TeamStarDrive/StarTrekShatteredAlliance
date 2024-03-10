@@ -13947,12 +13947,12 @@ BB_Tech_Transwarp_5x5_Desc:
  ENG: "Transwarp is an extremely fast form of propulsion, utilizing transwarp conduits that have different properties than standard space. It is the main propulsion system for the Borg,"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de detectarlos, aumentaríamos considerablemente su eficacia. "
-BB_Tech_Inertial_Damper_Desc:
+BB_Tech_Inertial Damper_Desc:
  Id: 18300
  ENG: "Inertial Damper 
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de detectarlos, aumentaríamos considerablemente su eficacia. "
-BB_Tech_Inertial_Damper_Name:
+BB_Tech_Inertial Damper_Name:
  Id: 18301
  ENG: "Inertial Damper"
  RUS: "Тахионное сканирование"
