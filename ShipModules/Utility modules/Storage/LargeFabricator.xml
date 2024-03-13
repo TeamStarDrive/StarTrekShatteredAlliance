@@ -20,14 +20,14 @@
   <Description>.</Description>
   
   
-  <PowerDraw>200</PowerDraw>
+  <PowerDraw>400</PowerDraw>
   <PowerDrawAtWarp>-100</PowerDrawAtWarp>
 
   <NameIndex>2046</NameIndex>
   <DescriptionIndex>2047</DescriptionIndex>
 
 
-  <OrdnanceAddedPerSecond>8</OrdnanceAddedPerSecond>
+  <OrdnanceAddedPerSecond>28</OrdnanceAddedPerSecond>
 
   <!-- for shield items -->
   
@@ -43,7 +43,7 @@
   <PowerStoreMax>0</PowerStoreMax>
 
   <!-- for Weapons -->
-  <OrdinanceCapacity>250</OrdinanceCapacity>
+  <OrdinanceCapacity>3250</OrdinanceCapacity>
 
   <!-- for Engines -->
   <Thrust>0</Thrust>

@@ -1,0 +1,43 @@
+Version=1
+Name=Terran-Hunter bomber mk4
+Hull=Terran/Hunter
+Role=bomber
+ModName=Star Trek
+Style=Terran
+Size=10,11
+GridCenter=5,5
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=ShadowStorm;Fabricator;CompositeAlloys Small;Cockpit;transphasic_fighter_shealds;warpcore_2x2;NuclearBombBay2x2;Maneuvering_Thruster_1x1;Sensor1x2;CombatEngine_2x1
+Modules=25
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+4,0;0;2,2
+4,2;1;2,2
+3,4;2
+4,4;3
+5,4;2
+6,4;2
+2,5;2
+3,5;4;1,2
+4,5;5;2,2
+6,5;4;1,2
+7,5;2
+1,6;6;2,2
+7,6;6;2,2
+0,7;7
+3,7;2
+4,7;8;2,1
+6,7;2
+9,7;7
+3,8;9;2,1
+5,8;9;2,1
+2,9;7
+3,9;9;2,1
+5,9;9;2,1
+7,9;7
+4,10;9;2,1

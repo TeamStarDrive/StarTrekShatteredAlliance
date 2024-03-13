@@ -23,23 +23,23 @@
 
 <UID>Tactical nuke</UID>
 
-  <HitPoints>80</HitPoints>
-  <FireDelay>8</FireDelay>
-  <Range>10500</Range>
+  <HitPoints>290</HitPoints>
+  <FireDelay>5</FireDelay>
+  <Range>17500</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>75</OrdinanceRequiredToFire>
   <DelayedIgnition>1.5</DelayedIgnition>
 <!-- Projectile stats -->
-  <DamageAmount>11000</DamageAmount>
-  <EMPDamage>2000</EMPDamage>
-  <ProjectileSpeed>950</ProjectileSpeed>
-  <ExplosionRadius>96</ExplosionRadius> <!-- This projectile explodes -->
-  <EffectVsShields>0.75</EffectVsShields>
+  <DamageAmount>65000</DamageAmount>
+  <EMPDamage>4000</EMPDamage>
+  <ProjectileSpeed>1750</ProjectileSpeed>
+  <ExplosionRadius>196</ExplosionRadius> <!-- This projectile explodes -->
+  <EffectVsShields>0.85</EffectVsShields>
   
-  <ProjectileRadius>20</ProjectileRadius>
+  <ProjectileRadius>30</ProjectileRadius>
   <RotationRadsPerSecond>0.4</RotationRadsPerSecond>
 <!--Projectile atributes-->
-  <Scale>3.2</Scale>
+  <Scale>4.2</Scale>
   
   <CanCollideProjectiles>true</CanCollideProjectiles>
 <!-- Projectile textures-->

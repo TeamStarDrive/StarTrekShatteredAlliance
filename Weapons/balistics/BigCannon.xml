@@ -20,12 +20,12 @@
   <ExcludesFighters>true</ExcludesFighters>  
 
   <UID>BigCannon</UID>
-  <FireDelay>12</FireDelay>
-  <Range>13500</Range>
+  <FireDelay>14</FireDelay>
+  <Range>10500</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>34</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>54</OrdinanceRequiredToFire>
   <SalvoCount>3</SalvoCount>
-  <SalvoTimer>0.7</SalvoTimer>
+  <SalvoTimer>2.7</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_bigcannon_01</FireCueName>
@@ -33,12 +33,12 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>9050</DamageAmount>
-  <EffectVsShields>1.25</EffectVsShields>  
+  <DamageAmount>7050</DamageAmount>
+  <EffectVsShields>0.8</EffectVsShields>  
   <Scale>1.2</Scale>
   <MuzzleFlash>BallisticMuzzle</MuzzleFlash>
-  <ProjectileSpeed>2800</ProjectileSpeed>
-  <ExplosionRadius>94</ExplosionRadius> <!-- This Projectile Explodes -->
+  <ProjectileSpeed>1800</ProjectileSpeed>
+  <ExplosionRadius>34</ExplosionRadius> <!-- This Projectile Explodes -->
   
   <Light>Orange</Light>
   <Animated>1</Animated>

@@ -49,4 +49,5 @@
   <ShieldKineticResist>0.77</ShieldKineticResist>
   <PlasmaResist>0.73</PlasmaResist>
   <Deflection>60</Deflection>
+  <ShieldKineticResist>0.6</ShieldKineticResist>
 </ShipModule>
