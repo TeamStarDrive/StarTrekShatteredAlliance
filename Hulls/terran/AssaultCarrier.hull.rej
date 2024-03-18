@@ -1,0 +1,25 @@
+diff a/Hulls/terran/AssaultCarrier.hull b/Hulls/terran/AssaultCarrier.hull	(rejected hunks)
+@@ -60,15 +60,15 @@
+ ___|O  |O  |O  |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |O  |O  |O  |___
+ O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
+ O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
+-O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
+-O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
+-O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
+-O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
+-O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |IE |IE |I  |I  |I  |I  |I  |I  |I  |I  |IE |IE |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
++O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
++O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
++O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
++O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
++O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
+ O  |O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |I  |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |IE |I  |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  |O  
+ O  |O  |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |O  |O  |IO |IO |IO |IO |IO |IO |O  |O  |O  |O  
+-___|O  |O  |O  |O  |O  |O  |O  |O  |O  |___|O  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |O  |___|O  |O  |O  |O  |O  |O  |O  |O  |O  |___
++___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___
++___|___|___|___|O  |O  |O  |O  |O  |O  |___|___|E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |___|___|O  |O  |O  |O  |O  |O  |___|___|___|___
+ ___|___|___|___|O  |O  |O  |O  |O  |O  |___|___|E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |___|___|O  |O  |O  |O  |O  |O  |___|___|___|___
+-___|___|___|___|___|___|___|___|___|___|___|___|E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |___|___|___|___|___|___|___|___|___|___|___|___
+-___|___|___|___|___|___|___|___|___|___|___|___|___|OE |OE |E  |E  |E  |E  |E  |E  |OE |OE |___|___|___|___|___|___|___|___|___|___|___|___|___
++___|___|___|___|___|___|___|___|___|___|___|___|___|OE |OE |OE |OE |OE |OE |OE |OE |OE |OE |___|___|___|___|___|___|___|___|___|___|___|___|___
+ ___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|OE |OE |OE |OE |OE |OE |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___

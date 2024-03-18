@@ -17,10 +17,10 @@ IsOrbitalDefense=false
 Thruster=0,44,5,64
 Slots
 ___|___|___|IO |O  |O  |IO |___|___|___
-___|___|O  |O  |IO |IO |O  |O  |___|___
-___|___|O  |IO |I  |I  |IO |O  |___|___
-___|___|___|IO |I  |I  |IO |___|___|___
-___|___|___|IO |I  |IC |IO |___|___|___
-___|___|O  |IO |E  |E  |IO |O  |___|___
+___|O  |O  |O  |IO |IO |O  |O  |O  |___
+___|O  |O  |IO |IO |IO |IO |O  |O  |___
+O  |___|___|IO |IO |IO |IO |___|___|O  
+___|___|O  |IO |I  |IC |IO |O  |___|___
+___|___|O  |IE |E  |E  |IE |O  |___|___
 O  |O  |IO |OE |E  |E  |OE |IO |O  |O  
-O  |O  |O  |___|___|___|___|O  |O  |O  
+O  |O  |O  |OE |___|___|___|OE |O  |O  
