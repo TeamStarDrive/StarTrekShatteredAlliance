@@ -1,0 +1,50 @@
+Version=1
+Name=Cordrazine-Sitving MK8
+Hull=Cordrazine/Sitving
+Role=corvette
+ModName=Star Trek
+Style=Cordrazine
+Size=10,8
+GridCenter=5,4
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=ablative_ship_armor_Small;FusionBeam2x4;transphasic_fighter_shealds;Amplifier;warpcore_2x2;Cockpit;advanced_fighter_sheald_Amplifier;CombatEngine_2x1;AF_Repeater;WarpEngine_1x1
+Modules=32
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0
+4,0;0
+5,0;1;2,4
+1,1;0
+2,1;0
+3,1;0
+4,1;2;1,2
+7,1;0
+8,1;0
+1,2;0
+2,2;0
+3,2;3
+7,2;0
+8,2;0
+0,3;0
+3,3;4;2,2
+9,3;0
+2,4;0
+5,4;5
+6,4;6;1,2;90;2
+7,4;0
+2,5;2;1,2
+3,5;3
+4,5;7;2,1
+7,5;2;1,2
+0,6;8;2,2;270
+3,6;7;2,1
+5,6;7;2,1
+8,6;8;2,2;90
+2,7;0
+3,7;9
+7,7;0
