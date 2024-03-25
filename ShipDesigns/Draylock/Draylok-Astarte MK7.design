@@ -1,0 +1,50 @@
+Version=1
+Name=Draylok-Astarte MK7
+Hull=Draylok/Astarte
+Role=corvette
+ModName=Star Trek
+Style=Draylok
+Size=12,9
+GridCenter=6,6
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Crystal_Armor_Small;MassDriver2x4;prototype_fighter_shealds;PhasorTurret2x2;warpcore_2x2;Fabricator;Amplifier;WarpEngine_1x1;Maneuvering_Thruster_1x1;Cockpit;CombatEngine_2x1
+Modules=32
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+5,0;0
+6,0;0
+5,1;1;2,4
+4,3;0
+7,3;0
+0,4;0
+4,4;2;1,2
+7,4;2;1,2
+11,4;0
+0,5;3;2,2
+3,5;0
+5,5;4;2,2
+8,5;0
+10,5;3;2,2
+2,6;5;2,2
+4,6;6
+7,6;6
+8,6;6
+9,6;0
+0,7;7
+1,7;8
+4,7;9
+5,7;7
+6,7;7
+7,7;9
+8,7;6
+9,7;8
+10,7;8
+11,7;7
+3,8;10;2,1
+5,8;10;2,1
+7,8;10;2,1
