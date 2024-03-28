@@ -1,0 +1,50 @@
+Version=1
+Name=heavey paltform mk5A
+Hull=Draylok/Draylok_Heavy_Platform
+Role=platform
+ModName=Star Trek
+Style=Draylok
+Size=12,8
+GridCenter=6,4
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Organic_Bioplates_Med;Organic_Bioplates_Small;orbital_cannons;Extreme Fusion Reactor;Cockpit;station_phasor_beem_mk1;PowerConduit;ORBITAL_SHEAILD_2X2_MK2;Amplifier;small_antimatter_reactor
+Modules=32
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0;2,2
+7,0;0;2,2
+0,1;0;2,2
+2,1;1
+5,1;1
+6,1;1
+9,1;1
+10,1;0;2,2
+2,2;2;3,3
+5,2;3;2,2
+7,2;4
+8,2;5;2,2
+1,3;1
+7,3;6
+10,3;1
+1,4;1
+5,4;7;2,2
+7,4;3;2,2
+9,4;8
+10,4;1
+0,5;0;2,2
+2,5;8
+3,5;8
+4,5;9
+9,5;8
+10,5;0;2,2
+2,6;1
+3,6;0;2,2
+5,6;1
+6,6;1
+7,6;0;2,2
+9,6;1

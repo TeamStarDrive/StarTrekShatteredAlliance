@@ -1,0 +1,36 @@
+Version=1
+Name=Platforms-Platform Base mk7
+Hull=Platforms/Platform Base
+Role=platform
+ModName=Star Trek
+Style=Platforms
+Size=8,7
+GridCenter=4,4
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=ORBITAL_SHEAILD_2X2_MK2;Organic_Bioplates_Small;PowerSolar;Cockpit;Extreme Fusion Reactor;small_antimatter_reactor;orbital_weapons_platform
+Modules=18
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0;2,2
+2,2;1
+3,2;2
+4,2;3
+5,2;1
+2,3;1
+3,3;4;2,2
+5,3;1
+1,4;1
+2,4;5
+5,4;5
+6,4;1
+0,5;6;2,2
+2,5;2
+3,5;1
+4,5;1
+5,5;2
+6,5;6;2,2;180

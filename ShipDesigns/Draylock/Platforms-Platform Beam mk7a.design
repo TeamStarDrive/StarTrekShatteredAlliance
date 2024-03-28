@@ -1,0 +1,36 @@
+Version=1
+Name=Platforms-Platform Beam mk7a
+Hull=Platforms/Platform Base
+Role=platform
+ModName=Star Trek
+Style=Platforms
+Size=8,7
+GridCenter=4,4
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=TRANSPHASIC_OWP_SHEAILD;small_polirised_orbital_armor;Amplifier;warpcore_2x2;Cockpit;station_phasor_beem_mk1
+Modules=18
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0;2,2
+2,2;1
+3,2;2
+4,2;2
+5,2;1
+2,3;1
+3,3;3;2,2
+5,3;1
+1,4;1
+2,4;4
+5,4;2
+6,4;1
+0,5;5;2,2
+2,5;1
+3,5;1
+4,5;1
+5,5;1
+6,5;5;2,2
