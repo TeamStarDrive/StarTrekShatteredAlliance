@@ -1,0 +1,53 @@
+Version=1
+Name=Kulrathi-Pitsaw MK1
+Hull=Kulrathi/Pitsaw
+Role=corvette
+ModName=Star Trek
+Style=Kulrathi
+Size=12,8
+GridCenter=6,5
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=SteelArmorSmall;PowerSolar;LaserBeamTurret2x2;BasicFuelCell;Cockpit;NuclearReactorMed;Shield_1KW;LaserBeam2x3;WarpEngine_1x1;CombatEngine_2x1
+Modules=35
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+4,0;0
+7,0;0
+4,1;0
+5,1;0
+6,1;0
+7,1;0
+3,2;0
+4,2;1
+5,2;2;2,2
+7,2;1
+8,2;0
+2,3;0
+3,3;1
+4,3;3
+7,3;4
+8,3;1
+9,3;0
+2,4;0
+3,4;5;2,2
+5,4;6;2,2
+7,4;5;2,2
+9,4;0
+0,5;0
+1,5;7;2,3
+9,5;7;2,3
+11,5;0
+0,6;0
+3,6;8
+4,6;8
+5,6;8
+6,6;8
+7,6;9;2,1
+11,6;0
+3,7;9;2,1
+7,7;9;2,1

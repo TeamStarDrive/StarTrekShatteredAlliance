@@ -15,6 +15,6 @@ IsOrbitalDefense=false
 Thruster=0,13,0,30
 Slots
 ___|___|IO |IO |___|___
-___|IO |I  |I  |IO |___
-IO |IO |E  |EC |IO |IO 
-IO |IO |___|___|IO |IO 
+___|IO |IO |IO |IO |___
+IO |IO |IE |IEC|IO |IO 
+IO |IO |E  |E  |IO |IO 
