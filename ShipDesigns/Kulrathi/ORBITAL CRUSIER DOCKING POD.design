@@ -1,0 +1,28 @@
+Version=1
+Name=ORBITAL CRUSIER DOCKING POD
+Hull=Kulrathi/Kulrathi_Heavy_Platform
+Role=platform
+ModName=Star Trek
+Style=Kulrathi
+Size=12,8
+GridCenter=6,4
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Sensor1x2;small_antimatter_reactor;ORBITAL_SHEAILD_2X2;crusier_dock;OrdnanceLockerSmall
+Modules=10
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0;2,1
+5,0;1
+6,0;1
+7,0;2;2,1;90;2
+0,1;3;12,6;90;2;DynamicLaunch
+3,7;4
+4,7;4
+5,7;1
+6,7;1
+7,7;2;2,1;90;2
