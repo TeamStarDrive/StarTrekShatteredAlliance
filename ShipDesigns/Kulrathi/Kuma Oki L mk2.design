@@ -1,0 +1,65 @@
+Version=1
+Name=Kuma Oki L mk2
+Hull=Kulrathi/Kuma Oki
+Role=freighter
+ModName=Star Trek
+Style=Kulrathi
+Size=8,23
+GridCenter=4,5
+DefaultCombatState=AttackRuns
+ShipCategory=Civilian
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=ContainerDeck;OrdnanceLockerSmall;Amplifier;MediumCargoHold;warpcore_2x2;Ceramic Armor Small;freighter_sheaild;WarpEngine_2x2;SubspaceSensors;FrigateEngine;CombatEngine_2x1;Cockpit;Maneuvering_Thruster_1x2
+Modules=47
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+2,0;0;4,3;90;2
+0,3;0;4,3;90;2
+4,3;0;4,3;90;2
+0,6;1
+1,6;1
+2,6;2
+3,6;2
+4,6;2
+5,6;2
+6,6;1
+7,6;1
+1,7;3;2,2
+3,7;4;2,2
+5,7;3;2,2
+0,9;5
+1,9;6;2,2
+3,9;4;2,2
+5,9;6;2,2
+7,9;5
+0,10;5
+7,10;5
+1,11;0;3,4
+4,11;0;3,4
+0,13;1
+7,13;1
+0,14;1
+7,14;1
+1,15;0;3,4
+4,15;0;3,4
+0,17;1
+7,17;1
+0,18;1
+7,18;1
+1,19;7;2,2
+3,19;8;2,2
+5,19;9;2,2
+0,21;1
+1,21;10;2,1
+3,21;11
+4,21;11
+5,21;10;2,1
+7,21;1
+0,22;1
+1,22;10;2,1
+3,22;12;2,1
+5,22;10;2,1
+7,22;1

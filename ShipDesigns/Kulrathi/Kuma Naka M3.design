@@ -1,0 +1,43 @@
+Version=1
+Name=Kuma Naka M3
+Hull=Kulrathi/Kuma Naka
+Role=freighter
+ModName=Star Trek
+Style=Kulrathi
+Size=6,12
+GridCenter=3,4
+DefaultCombatState=AttackRuns
+ShipCategory=Civilian
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=MediumCargoHold;LargeCargoHold;BasicCargoHold;freighter_sheaild;Cockpit;warpcore_2x2;PowerConduit;CombatEngine_2x1;Maneuvering_Thruster_1x1;WarpEngine_2x2
+Modules=25
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0;2,2
+3,0;0;2,2
+0,2;1;3,3
+3,2;1;3,3
+0,5;2
+1,5;3;2,2
+3,5;0;2,2
+5,5;2
+0,7;2
+1,7;4
+2,7;5;2,2
+4,7;2
+5,7;2
+1,8;6
+4,8;6
+1,9;2
+2,9;7;2,1
+4,9;2
+0,10;8
+1,10;2
+2,10;9;2,2
+4,10;2
+5,10;8
+1,11;8
+4,11;8
