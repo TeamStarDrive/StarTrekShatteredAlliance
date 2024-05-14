@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>Auto_CannonHEAP</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>1000</Cost>
+  <Cost>7000</Cost>
   <NameIndex>18822</NameIndex>
   <DescriptionIndex>18823</DescriptionIndex>
   <ModulesUnlocked>

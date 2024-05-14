@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>Hellstorm</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>2000</Cost>
+  <Cost>5000</Cost>
   <NameIndex>18478</NameIndex>
   <DescriptionIndex>18479</DescriptionIndex>
   <LeadsTo>

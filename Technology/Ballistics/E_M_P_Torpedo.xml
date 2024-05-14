@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>E_M_P_Torpedo</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>8000</Cost>
+  <Cost>7000</Cost>
   <NameIndex>18818</NameIndex>
   <DescriptionIndex>18819</DescriptionIndex>
   <LeadsTo>

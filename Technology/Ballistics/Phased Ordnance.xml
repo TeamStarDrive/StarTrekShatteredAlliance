@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>Phased Ordnance</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>5500</Cost>
+  <Cost>4500</Cost>
   <NameIndex>2007</NameIndex>
   <DescriptionIndex>2008</DescriptionIndex>
   <LeadsTo>

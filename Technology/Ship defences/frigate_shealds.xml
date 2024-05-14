@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>frigate_shealds</UID>
   <TechnologyType>ShipDefense</TechnologyType>
-  <Cost>650</Cost>
+  <Cost>2650</Cost>
   <NameIndex>18546</NameIndex>
   <DescriptionIndex>18547</DescriptionIndex>
   <LeadsTo>

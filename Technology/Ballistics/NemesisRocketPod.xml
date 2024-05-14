@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>NemesisRocketPod</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>2000</Cost>
+  <Cost>7900</Cost>
   <NameIndex>18808</NameIndex>
   <DescriptionIndex>18809</DescriptionIndex>
     <LeadsTo>

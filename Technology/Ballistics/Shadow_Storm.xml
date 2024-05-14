@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>Shadow_Storm</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>2000</Cost>
+  <Cost>8500</Cost>
   <NameIndex>18840</NameIndex>
   <DescriptionIndex>18841</DescriptionIndex>
   <LeadsTo>

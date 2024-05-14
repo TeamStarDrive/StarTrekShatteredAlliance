@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>MissileArmor</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>8000</Cost>
+  <Cost>6000</Cost>
   <NameIndex>615</NameIndex>
   <DescriptionIndex>616</DescriptionIndex>
   <LeadsTo>

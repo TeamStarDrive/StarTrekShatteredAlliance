@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>Auto_CannonAP</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
-  <Cost>1000</Cost>
+  <Cost>6500</Cost>
   <NameIndex>18824</NameIndex>
   <DescriptionIndex>18825</DescriptionIndex>
   <LeadsTo>
