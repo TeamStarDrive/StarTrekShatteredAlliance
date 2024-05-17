@@ -1,0 +1,61 @@
+Version=1
+Name=Type V mk4
+Hull=Vulfen/Type V
+Role=corvette
+ModName=Star Trek
+Style=Vulfen
+Size=12,13
+GridCenter=6,6
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Ceramic Armor Small;Ceramic Armor Med;PowerSolar;HVTurret_2x2;Fabricator;Sensor1x2;auto_turets_mk2;NuclearReactorSmall;Shield_10KW;Amplifier;Extreme Fusion Reactor;Cockpit;WarpEngine_2x2;CombatEngine_2x1
+Modules=43
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+4,0;0
+5,0;1;2,2
+7,0;0
+3,1;1;2,2
+7,1;1;2,2
+5,2;2
+6,2;2
+3,3;0
+4,3;3;2,2;315
+6,3;3;2,2;60
+8,3;0
+2,4;1;2,2
+8,4;1;2,2
+1,5;0
+4,5;4;2,2
+6,5;5;2,1
+10,5;0
+1,6;0
+2,6;6;2,5
+6,6;7
+7,6;8;3,3
+10,6;0
+0,7;1;2,2
+4,7;9
+5,7;10;2,2
+10,7;1;2,2
+4,8;11
+1,9;0
+4,9;12;2,2
+6,9;13;2,1
+8,9;3;2,2
+10,9;0
+1,10;0
+6,10;13;2,1
+10,10;0
+2,11;0
+3,11;0
+4,11;13;2,1
+6,11;13;2,1
+8,11;0
+9,11;0
+4,12;13;2,1
+6,12;13;2,1

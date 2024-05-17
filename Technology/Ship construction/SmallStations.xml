@@ -118,5 +118,9 @@
       <Name>Vulfen/Vulfen_Heavy_Platform</Name>
       <ShipType>Vulfen</ShipType>
     </UnlockedHull>
+	    <UnlockedHull>
+      <Name>Vulfen/Vulfen_Station_Small</Name>
+      <ShipType>Vulfen</ShipType>
+    </UnlockedHull>
   </HullsUnlocked>
 </Technology>
