@@ -1,0 +1,72 @@
+Version=1
+Name=Type VII hvt mk3
+Hull=Vulfen/Type VII
+Role=frigate
+ModName=Star Trek
+Style=Vulfen
+Size=10,26
+GridCenter=5,13
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Ceramic Armor Med;Ceramic Armor Small;auto_turets_mk2;frigate_shealds;HVTurret_2x2;warpcore_2x2;Fabricator;Bridge;HVTurret_3x3;Sensor1x2;OrdnanceLockerSmall;CombatEngine_2x1;WarpEngine_2x2
+Modules=54
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+4,0;0;2,2
+3,2;1
+4,2;1
+5,2;1
+6,2;1
+3,3;2;2,5;285
+5,3;2;2,5;75
+3,8;1
+4,8;1
+5,8;1
+6,8;1
+3,9;1
+4,9;3;2,2
+6,9;1
+3,10;1
+6,10;1
+3,11;1
+4,11;4;2,2;315
+6,11;1
+3,12;1
+6,12;1
+3,13;1
+4,13;4;2,2;45
+6,13;1
+3,14;1
+6,14;1
+2,15;0;2,2
+4,15;3;2,2
+6,15;0;2,2
+2,17;0;2,2
+4,17;5;2,2
+6,17;0;2,2
+1,18;1
+8,18;1
+1,19;4;2,2;225
+3,19;6;2,2
+5,19;7;2,2
+7,19;4;2,2;150
+0,20;1
+9,20;1
+0,21;8;3,3;315
+3,21;9;2,1
+5,21;10
+6,21;10
+7,21;8;3,3;45
+3,22;11;2,1
+5,22;12;2,2
+3,23;11;2,1
+2,24;11;2,1
+4,24;11;2,1
+6,24;11;2,1
+2,25;11;2,1
+4,25;11;2,1
+6,25;11;2,1

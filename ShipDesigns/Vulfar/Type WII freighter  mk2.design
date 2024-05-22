@@ -1,0 +1,40 @@
+Version=1
+Name=Type WII freighter  mk2
+Hull=Vulfen/Type WII
+Role=freighter
+ModName=Star Trek
+Style=Vulfen
+Size=8,12
+GridCenter=4,6
+DefaultCombatState=Artillery
+ShipCategory=Civilian
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=BasicCargoHold;SubspaceSensors;LargeCargoHold;freighter_sheaild;Cockpit;PowerConduit;warpcore_2x2;WarpEngine_2x2;CombatEngine_2x1
+Modules=22
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0
+4,0;0
+3,1;1;2,2
+2,2;0
+5,2;0
+0,3;2;3,3
+3,3;3;2,2
+5,3;2;3,3
+3,5;4
+4,5;5
+1,6;0
+2,6;0
+3,6;6;2,2
+5,6;0
+6,6;0
+0,7;2;3,3
+5,7;2;3,3
+3,8;7;2,2
+2,10;8;2,1
+4,10;8;2,1
+2,11;8;2,1
+4,11;8;2,1
