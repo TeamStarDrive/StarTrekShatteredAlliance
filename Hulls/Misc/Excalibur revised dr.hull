@@ -1,8 +1,8 @@
 Version=1
-HullName=Vulfen/Excalibur revised dr
+HullName=Misc/Excalibur revised dr
 VisibleName=Excalibur revised dr
 Role=troop
-Style=Vulfen
+Style=Misc
 Size=62,94
 MeshOffset=0,-40
 IconPath=ShipIcons/Excalibur

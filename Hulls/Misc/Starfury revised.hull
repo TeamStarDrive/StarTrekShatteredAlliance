@@ -1,8 +1,8 @@
 Version=1
-HullName=Orion Syndicate/Starfury revised
+HullName=Misc/Starfury revised
 VisibleName=orian Starfury
 Role=fighter
-Style=Orion Syndicate
+Style=Misc
 Size=10,7
 MeshOffset=0,-8
 IconPath=ShipIcons/Starfury

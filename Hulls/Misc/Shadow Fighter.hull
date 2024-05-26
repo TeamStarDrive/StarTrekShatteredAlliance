@@ -1,8 +1,8 @@
 Version=1
-HullName=Orion Syndicate/Shadow Fighter
+HullName=Misc/Shadow Fighter
 VisibleName=Shadow Fighter
 Role=troop
-Style=fed
+Style=Misc
 Size=8,13
 MeshOffset=0,-8
 IconPath=ShipIcons/hunter
