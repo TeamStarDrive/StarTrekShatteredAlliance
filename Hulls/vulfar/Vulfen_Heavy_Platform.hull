@@ -14,9 +14,9 @@ IsOrbitalDefense=false
 Slots
 ___|___|___|O  |O  |___|___|O  |O  |___|___|___
 O  |O  |O  |O  |O  |IO |IO |O  |O  |O  |O  |O  
-O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  
-___|IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |___
-___|IO |IO |IO |IO |IO |IC |IO |IO |IO |IO |___
-O  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |O  
+O  |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |O  
+___|IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |___
+___|IO |IO |IO |I  |I  |IC |I  |IO |IO |IO |___
+O  |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |O  
 O  |O  |O  |O  |O  |IO |IO |O  |O  |O  |O  |O  
 ___|___|___|O  |O  |___|___|O  |O  |___|___|___
