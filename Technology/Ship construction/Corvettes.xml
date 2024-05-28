@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>Corvettes</UID>
   <TechnologyType>ShipHull</TechnologyType>
-  <Cost>200</Cost>
+  <Cost>100</Cost>
   <NameIndex>585</NameIndex>
   <DescriptionIndex>586</DescriptionIndex>
   <LeadsTo>

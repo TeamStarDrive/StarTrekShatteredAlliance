@@ -3,7 +3,7 @@
   <Version>2</Version>
   <UID>Fighter_Shields</UID>
   <TechnologyType>ShipDefense</TechnologyType>
-  <Cost>350</Cost>
+  <Cost>250</Cost>
   <NameIndex>562</NameIndex>
   <DescriptionIndex>563</DescriptionIndex>
   <LeadsTo>
