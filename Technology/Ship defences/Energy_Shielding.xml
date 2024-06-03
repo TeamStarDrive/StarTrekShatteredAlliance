@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Energy_Shielding</UID>
+  <TechnologyType>ShipDefense</TechnologyType>
+  <Cost>350</Cost>
+  <NameIndex>18851</NameIndex>
+  <DescriptionIndex>18852</DescriptionIndex>
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>Amplifier</UID>
+    </LeadsToTech>
+	<LeadsToTech>
+      <UID>orbital_shielding</UID>
+    </LeadsToTech>
+	<LeadsToTech>
+      <UID>Heavy_Shields</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>Shield_1KW</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

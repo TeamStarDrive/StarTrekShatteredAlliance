@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Heavy_Shields</UID>
+  <TechnologyType>ShipDefense</TechnologyType>
+  <Cost>1500</Cost>
+  <NameIndex>18859</NameIndex>
+  <DescriptionIndex>18860</DescriptionIndex>
+  <LeadsTo>
+      <LeadsToTech>
+      <UID>frigate_shealds</UID>
+    </LeadsToTech>
+    <LeadsToTech>
+      <UID>Armored_Shield</UID>
+    </LeadsToTech>
+    <LeadsToTech>
+      <UID>Adv_Amplifier</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>Shield_10KW</ModuleUID>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>freighter_sheaild</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

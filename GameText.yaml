@@ -2731,16 +2731,6 @@ BB_Tech_PlanetaryShielding_Desc:
  ENG: "Surprisingly, shielding an entire planet is easier than shielding an entire ship because we needn't worry about mass, size, and power restrictions when building on terra firma. The result is a massive and powerful shield that provides protection from bombardment. "
  RUS: "Удивительно, но накрыть щитом целую планету на самом деле проще, чем космический корабль, потому что для планетарного щита не нужно принимать во внимание ограничения по массе, размеру и энергопотреблению. В результате получается мощный массивный щит, защищающий планету от бомбардировок."
  SPA: "Sorprendentemente, es más fácil proteger con escudos un planeta entero que una nave, porque en tierra firme no hay que preocuparse por limitaciones de masa, tamaño y energía. El resultado es un escudo potente y enorme que resguarda contra bombardeos. "
-BB_Tech_PlasmaThrowers_Name:
- Id: 636
- ENG: "Plasma Vectoring"
- RUS: "Плазменная векторизация"
- SPA: "Vectores de plasma"
-BB_Tech_PlasmaThrowers_Desc:
- Id: 637
- ENG: "If we channeled highly-ionized Plasma directly from a ship reactor through a magnetized, high-pressure system, then we could spray our enemies with super-heated energy to devastating effect. "
- RUS: "Если направить поток высокоионизированной плазмы непосредственно из корабельного генератора через магнитную систему высокого давления, можно эффективно уничтожать противника волнами тепловой энергии."
- SPA: "Si canalizamos el plasma altamente ionizado directamente desde el reactor de una nave a través de un sistema magnetizado a alta presión, podemos rociar a nuestros enemigos de energía supercalentada con efectos devastadores. "
 BB_Tech_PolaronCannons_Name:
  Id: 638
  ENG: "Polaron Cannons"
@@ -16467,6 +16457,64 @@ BB_Tech_AssaultCannonType81_Name:
 BB_AssaultCannonType81_Desc:
  Id: 18847
  ENG: "Assault Cannon Type81 
-
-## DO 
+BB_Tech_Fighter_Shields_Name:
+ Id: 18849
+ ENG: "Fighter_Shields 
+BB_Tech_Fighter_Shields_Desc:
+ Id: 18850
+ ENG: "Fighter_Shields small and week energy field 
+BB_Tech_Energy_Shielding_Name:
+ Id: 18851
+ ENG: larger sheailds 
+BB_Tech_Energy_Shielding_Desc:
+ Id: 18852
+ ENG: to protect our first warships from damage 
+BB_Tech_StarshipDefences_Name:
+ Id: 18853
+ ENG: "StarshipDefences
+BB_Tech_StarshipDefences_Desc:
+ Id: 18854
+ ENG: "StarshipDefences 
+BB_Tech_Fighter_Shield_Name:
+ Id: 18855
+ ENG: "Fighter_Shield
+BB_Tech_Fighter_Shield_Desc:
+ Id: 18856
+ ENG: "Fighter_Shield 
+BB_Tech_Shield_1KW_Name:
+ Id: 18857
+ ENG: "larger versions of our basic energy sheailds 
+BB_Tech_Shield_1KW_Desc:
+ Id: 18858
+ ENG: "larger versions of our basic energy sheailds 
+BB_Tech_Heavy_Shields_Name:
+ Id: 18859
+ ENG: "larger versions of our basic energy sheailds 
+BB_Tech_Heavy_Shields_Desc:
+ Id: 18860
+ ENG: "larger versions of our basic energy sheailds 
+BB_Tech_10KW_Shield_Name:
+ Id: 18861
+ ENG: "larger versions of our basic energy sheailds 
+BB_Tech_10KW_Shield_Desc:
+ Id: 18862
+ ENG: "larger versions of our basic energy sheailds 
+BB_Tech_ArmoredShield4x4_Name:
+ Id: 18863
+ ENG: "larger versions of our basic energy sheailds 
+BB_Tech_ArmoredShield4x4_Desc:
+ Id: 18864
+ ENG: "larger versions of our basic energy sheailds 
+BB_Tech_Armored_Shield_Name:
+ Id: 18865
+ ENG: "larger sheailds 
+BB_Tech_Armored_Shield_Desc:
+ Id: 18866
+ ENG: "larger versions of our basic energy sheailds 
+BB_Tech_Adv_Amplifier_Name:
+ Id: 18867
+ ENG: "Adv_Amplifier 
+BB_Tech_Adv_Amplifier_Desc:
+ Id: 18868
+ ENG: "Adv_Amplifier 
 # DO NOT USE 18K index for bb+  - use empty spaces between 4000-5000

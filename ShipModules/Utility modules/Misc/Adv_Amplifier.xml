@@ -10,7 +10,7 @@
     <YSize>2</YSize>
     <ModuleType>Shield</ModuleType>
     <Name>Amplifier</Name>
-    <UID>AdvAmplifier</UID> 
+    <UID>Adv_Amplifier</UID> 
   <Version>2</Version>
 
     <IconTexturePath>Modules/AdvAmplifier</IconTexturePath>

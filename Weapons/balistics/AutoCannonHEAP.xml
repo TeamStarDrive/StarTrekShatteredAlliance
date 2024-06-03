@@ -16,8 +16,8 @@
 
   <!-- Projectile Information -->
   <DamageAmount>1740</DamageAmount>
-  <EffectVsArmor>0.5</EffectVsArmor>
-  <ShieldPenChance>45</ShieldPenChance>
+  <EffectVsArmor>0.4</EffectVsArmor>
+  <ShieldPenChance>25</ShieldPenChance>
   <ExplosionRadius>44</ExplosionRadius> <!-- This projectile explodes -->
   <Scale>0.8</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>

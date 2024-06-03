@@ -77,7 +77,7 @@ Globals:
     Description: "5 STARTREK RACES THEIR SHIPS AND WEAPONS."
     Author: "Threepwood and tbh mostly The StarDrive+ Team"
     UseVanillaShips: false
-    UseVanillaTechs: true
+    UseVanillaTechs: false
     UseVanillaModules: true
     UseVanillaWeapons: true
     UseVanillaBuildings: true

@@ -4,12 +4,11 @@
   <UID>Fighter_Shields</UID>
   <TechnologyType>ShipDefense</TechnologyType>
   <Cost>250</Cost>
-  <NameIndex>562</NameIndex>
-  <DescriptionIndex>563</DescriptionIndex>
+  <NameIndex>18849</NameIndex>
+  <DescriptionIndex>18850</DescriptionIndex>
   <LeadsTo>
-
-    <LeadsToTech>
-      <UID>EnergyShielding</UID>
+      <LeadsToTech>
+      <UID>Energy_Shielding</UID>
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
@@ -26,4 +25,5 @@
       <RacialTrait>Militaristic</RacialTrait>
     </RaceRequirements>
   </UnlockedAtGameStart>
+  <Militaristic>true</Militaristic>
 </Technology>

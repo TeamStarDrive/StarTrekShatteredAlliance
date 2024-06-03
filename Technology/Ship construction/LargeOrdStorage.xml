@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
   <Version>2</Version>
-  <UID>AdvAmplifier</UID>
+  <UID>LargeOrdStorage</UID>
   <TechnologyType>ShipGeneral</TechnologyType>
-  <Cost>2600</Cost>
-  <NameIndex>17497</NameIndex>
-  <DescriptionIndex>17498</DescriptionIndex>
+  <Cost>650</Cost>
+  <NameIndex>17542</NameIndex>
+  <DescriptionIndex>17544</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
-      <UID>Dispersion</UID>
+      <UID>LargeFabricator</UID>
     </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
     <UnlockedMod>
-      <ModuleUID>AdvAmplifier</ModuleUID>
+      <ModuleUID>LargeOrdStorage</ModuleUID>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

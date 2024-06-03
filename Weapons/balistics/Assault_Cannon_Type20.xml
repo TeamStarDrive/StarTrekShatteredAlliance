@@ -32,9 +32,9 @@
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>3400</ProjectileSpeed>
   <ExplosionRadius>44</ExplosionRadius> <!-- This projectile explodes -->
-  <ShieldPenChance>30</ShieldPenChance>
-  <EffectVsArmor>1.9</EffectVsArmor>
-  <EffectVsShields>0.85</EffectVsShields>
+  <ShieldPenChance>10</ShieldPenChance>
+  <EffectVsArmor>1</EffectVsArmor>
+  <EffectVsShields>0.55</EffectVsShields>
 
   <!-- Animation Information -->
   <Animated>1</Animated>
