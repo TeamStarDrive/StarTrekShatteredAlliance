@@ -25,7 +25,7 @@
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>54</OrdinanceRequiredToFire>
   <SalvoCount>3</SalvoCount>
-  <SalvoTimer>2.7</SalvoTimer>
+  <SalvoTimer>3.7</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_bigcannon_01</FireCueName>
@@ -34,7 +34,7 @@
 
   <!-- Projectile Information -->
   <DamageAmount>7050</DamageAmount>
-  <EffectVsShields>0.8</EffectVsShields>  
+  <EffectVsShields>0.4</EffectVsShields>  
   <Scale>1.2</Scale>
   <MuzzleFlash>BallisticMuzzle</MuzzleFlash>
   <ProjectileSpeed>1800</ProjectileSpeed>

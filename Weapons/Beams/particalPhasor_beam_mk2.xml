@@ -20,10 +20,10 @@
   
   <!-- Projectile Information -->
   <BeamTexture>pulse_beam_purple</BeamTexture>
-  <DamageAmount>25</DamageAmount>
+  <DamageAmount>35</DamageAmount>
   <BeamThickness>10</BeamThickness>
   <BeamPowerCostPerSecond>220</BeamPowerCostPerSecond>
-  <ShieldPenChance>10</ShieldPenChance>
+  <ShieldPenChance>0.2</ShieldPenChance>
   <EffectVsArmor>1.30</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>
 

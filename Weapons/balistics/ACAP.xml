@@ -17,7 +17,6 @@
   <!-- Projectile Information -->
   <DamageAmount>980</DamageAmount>
   <EffectVsArmor>0.4</EffectVsArmor>
-  <ShieldPenChance>30</ShieldPenChance>
   <Scale>0.8</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>2050</ProjectileSpeed>

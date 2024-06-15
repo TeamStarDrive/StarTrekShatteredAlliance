@@ -37,9 +37,9 @@
   <DamageAmount>1500</DamageAmount>
   <ProjectileSpeed>1200</ProjectileSpeed>
   <ExplosionRadius>40</ExplosionRadius> <!-- This projectile explodes -->
-  <SalvoCount>8</SalvoCount>
+  <SalvoCount>4</SalvoCount>
   <SalvoTimer>2</SalvoTimer>
-  <ShieldPenChance>12</ShieldPenChance>
+  <ShieldPenChance>6</ShieldPenChance>
   <DelayedIgnition>1</DelayedIgnition>
   <ProjectileRadius>8</ProjectileRadius>
   <RotationRadsPerSecond>0.8</RotationRadsPerSecond>

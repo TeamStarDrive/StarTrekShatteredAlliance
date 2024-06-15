@@ -42,7 +42,7 @@
   <ModelPath>projTear</ModelPath>
 
   <SalvoCount>4</SalvoCount>
-  <SalvoTimer>1</SalvoTimer>
+  <SalvoTimer>2.5</SalvoTimer>
   <!--the projectile count is spread over the fire arc-->
   <WeaponEffectType>MuzzleSmokeFire</WeaponEffectType>
   <WeaponType>Ballistic Cannon</WeaponType>

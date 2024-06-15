@@ -21,10 +21,10 @@
   <!-- Projectile Information -->
   <BeamTexture>pulse_beam_purple</BeamTexture>
   <EffectVsArmor>1.25</EffectVsArmor> 
-  <DamageAmount>40</DamageAmount>
+  <DamageAmount>50</DamageAmount>
   <BeamThickness>15</BeamThickness>
   <BeamPowerCostPerSecond>720</BeamPowerCostPerSecond>
-  <ShieldPenChance>10</ShieldPenChance>
+  <ShieldPenChance>5</ShieldPenChance>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

@@ -3,7 +3,7 @@ HullName=Pollops/Thicket
 VisibleName=Thicket
 Role=corvette
 Style=Pollops
-Size=6,5
+Size=6,6
 MeshOffset=0,0
 IconPath=ShipIcons/thicket
 ModelPath=Model/Ships/Pollops/Thicket
@@ -17,5 +17,6 @@ Slots
 ___|O  |___|___|O  |___
 ___|O  |IO |IO |O  |___
 O  |IO |I  |I  |IO |O  
-O  |IO |I  |IC |IO |O  
+O  |IO |I  |CI |IO |O  
 ___|IO |E  |E  |IO |___
+___|OE |E  |E  |OE |___

@@ -32,13 +32,13 @@
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>3000</ProjectileSpeed>
   <ExplosionRadius>72</ExplosionRadius> <!-- This projectile explodes -->
-  <ShieldPenChance>20</ShieldPenChance>
-  <EffectVsArmor>1.5</EffectVsArmor>
+  <ShieldPenChance>0.7</ShieldPenChance>
+  <EffectVsArmor>0.2</EffectVsArmor>
   <EffectVsShields>0.45</EffectVsShields>
 
   <!-- Animation Information -->
   <Animated>1</Animated>
-  <Scale>0.5</Scale>
+  <Scale>1.0</Scale>
   <Frames>17</Frames>
   <AnimationPath>Kinetic_Red_Yellow_Red/Kinetic_Red_Yellow_Red_cc</AnimationPath>
   <LoopAnimation>1</LoopAnimation>          
@@ -48,7 +48,7 @@
   <ProjectileCount>1</ProjectileCount>
   <WeaponEffectType>SmokeTrail</WeaponEffectType>
   <WeaponType>Ballistic Cannon</WeaponType>
-  <SalvoCount>6</SalvoCount>
-  <SalvoTimer>1</SalvoTimer>
+  <SalvoCount>2</SalvoCount>
+  <SalvoTimer>3</SalvoTimer>
   <FireCone>2</FireCone>
 </Weapon>
