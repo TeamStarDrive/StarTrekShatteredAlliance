@@ -36,7 +36,7 @@
   <ProjectileRadius>15</ProjectileRadius>
   <RotationRadsPerSecond>0.6</RotationRadsPerSecond>
 <!--Projectile atributes-->
-  <Scale>3</Scale>
+  <Scale>5</Scale>
   
   <CanCollideProjectiles>true</CanCollideProjectiles>
 <!-- Projectile textures-->

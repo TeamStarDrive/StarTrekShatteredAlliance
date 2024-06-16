@@ -24,11 +24,11 @@
   <Range>5000</Range>
   <TerminalPhaseAttack>true</TerminalPhaseAttack>      
   <DelayedIgnition>1.2</DelayedIgnition>
-  <ProjectileCount>10</ProjectileCount>
+  <ProjectileCount>4</ProjectileCount>
   <FireArc>180</FireArc>    
 
 <!-- Projectile stats -->
-  <DamageAmount>800</DamageAmount>
+  <DamageAmount>1800</DamageAmount>
   <EMPDamage>200</EMPDamage>
   <EffectVsShields>1.6</EffectVsShields>
   <ProjectileSpeed>2000</ProjectileSpeed>

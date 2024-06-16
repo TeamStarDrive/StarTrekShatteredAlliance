@@ -1,0 +1,95 @@
+Version=1
+Name=Chrysalis mk3 troopship
+Hull=Pollops/Chrysalis
+Role=troopShip
+ModName=Star Trek
+Style=Pollops
+Size=20,16
+GridCenter=10,8
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=CompositeAlloys Small;CompositeAlloys Med;MarineBarracks2x2;TroopAssaultBay;Shield_10KW;Cockpit;Amplifier;warpcore_2x2;Fabricator;CapEngines;SubspaceSensors;DeathSporeBay;WarpEngine_2x2;FrigateEngine;NuclearBombBay2x2;phased_cannon
+Modules=77
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+5,0;0
+14,0;0
+4,1;1;2,2
+8,1;0
+11,1;0
+14,1;1;2,2
+3,2;0
+7,2;1;2,2
+9,2;1;2,2
+11,2;1;2,2
+16,2;0
+3,3;1;2,2
+5,3;0
+6,3;0
+13,3;0
+14,3;0
+15,3;1;2,2
+1,4;0
+2,4;0
+5,4;2;2,2
+7,4;2;2,2
+9,4;2;2,2
+11,4;2;2,2
+13,4;2;2,2
+17,4;0
+18,4;0
+0,5;1;2,2
+2,5;3;2,3;;;Pollops Assault Shuttle
+4,5;0
+15,5;0
+16,5;3;2,3;;;Pollops Assault Shuttle
+18,5;1;2,2
+4,6;2;2,2
+6,6;2;2,2
+8,6;4;3,3
+11,6;5
+12,6;6
+13,6;6
+14,6;2;2,2
+1,7;0
+11,7;7;2,2
+13,7;6
+18,7;0
+1,8;0
+2,8;3;3,2;90;2;Pollops Assault Shuttle
+5,8;2;2,2
+7,8;6
+13,8;8;2,2
+15,8;3;3,2;270;1;Pollops Assault Shuttle
+18,8;0
+0,9;1;2,2
+7,9;9;3,3
+10,9;9;3,3
+18,9;1;2,2
+2,10;3;3,2;90;2;Pollops Assault Shuttle
+5,10;2;2,2
+13,10;2;2,2
+15,10;3;3,2;90;2;Pollops Assault Shuttle
+1,11;0
+18,11;0
+2,12;0
+3,12;10;2,2
+5,12;11;2,2
+7,12;12;2,2
+9,12;13;2,2
+11,12;12;2,2
+13,12;14;2,2
+15,12;14;2,2
+17,12;0
+2,13;0
+17,13;0
+3,14;1;2,2
+5,14;15;2,2;270
+8,14;13;2,2
+10,14;13;2,2
+13,14;15;2,2;75
+15,14;1;2,2
