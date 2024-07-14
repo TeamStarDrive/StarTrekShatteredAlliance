@@ -39,7 +39,6 @@
   
   <PowerFlowMax>0</PowerFlowMax>
   <PowerStoreMax>0</PowerStoreMax>
-
   <!-- for Weapons -->
   <WeaponType>EMPTorpedo</WeaponType>
   <OrdinanceCapacity>16</OrdinanceCapacity>

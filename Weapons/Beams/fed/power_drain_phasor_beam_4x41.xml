@@ -12,7 +12,6 @@
   <BeamDuration>3</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
-
   <ToggleSoundName>sd_weapon_beam_fusion_med</ToggleSoundName>
   
   
