@@ -40,7 +40,7 @@
   <!-- for Weapons -->
   <WeaponType>advanced_energy_torpoedo_mk2</WeaponType>
   <OrdinanceCapacity>500</OrdinanceCapacity>
-  <EffectVsShield>3</EffectVsShield>
+  <EffectVsShield>0.3</EffectVsShield>
   <FieldOfFire>180</FieldOfFire>
 
   <!-- for Engines -->

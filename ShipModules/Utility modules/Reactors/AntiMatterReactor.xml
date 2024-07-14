@@ -31,7 +31,7 @@
   <DescriptionIndex>907</DescriptionIndex>
 
   <!-- for PowerPlant Items -->
-  <ExplosionDamage>10000</ExplosionDamage>
+  <ExplosionDamage>13000</ExplosionDamage>
   <ExplosionRadius>64</ExplosionRadius> 
   <PowerFlowMax>1850</PowerFlowMax>
   <PowerStoreMax>2000</PowerStoreMax>

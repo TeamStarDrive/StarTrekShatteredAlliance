@@ -49,7 +49,7 @@
   <Mass>10469</Mass>
   <Health>60000</Health>
   <HealthMax>60000</HealthMax>
-  <RepairDifficulty>1.5</RepairDifficulty>
+  <RepairDifficulty>3</RepairDifficulty>
   <Deflection>60</Deflection>              
   <!-- Armor resistance -->
   <KineticResist>0.70</KineticResist>

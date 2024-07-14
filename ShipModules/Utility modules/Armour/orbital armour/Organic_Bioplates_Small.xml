@@ -49,14 +49,14 @@
   <Mass>3</Mass>
   <Health>15000</Health>
   <HealthMax>15000</HealthMax>
-  <RepairDifficulty>1.25</RepairDifficulty>
+  <RepairDifficulty>2</RepairDifficulty>
   <Deflection>50</Deflection>              
   <!-- Armor resistance -->
-  <KineticResist>0.08</KineticResist>
-  <BeamResist>0</BeamResist>
-  <EnergyResist>0</EnergyResist>    
-  <PlasmaResist>0</PlasmaResist>
-  <ExplosiveResist>0.16</ExplosiveResist>
+  <KineticResist>0.5</KineticResist>
+    <BeamResist>0.5</BeamResist>
+    <EnergyResist>0.5</EnergyResist>    
+    <PlasmaResist>0.5</PlasmaResist>
+    <ExplosiveResist>0.5</ExplosiveResist>
 
   <!-- Description -->
   <Description>Composite Alloys provides massive defence however the mass is also very "massive".</Description>

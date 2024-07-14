@@ -39,7 +39,7 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>300</DamageAmount>
+  <DamageAmount>500</DamageAmount>
   <ProjectileSpeed>3200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>1.0</Scale>

@@ -24,9 +24,9 @@
   <Range>14000</Range>
   <PowerRequiredToFire>1900</PowerRequiredToFire>
   <OrdinanceRequiredToFire>15</OrdinanceRequiredToFire>
-  <HitPoints>30</HitPoints>
-  <SalvoCount>4</SalvoCount>
-  <SalvoTimer>7</SalvoTimer>
+  <HitPoints>5</HitPoints>
+  <SalvoCount>2</SalvoCount>
+  <SalvoTimer>8</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
@@ -35,7 +35,7 @@
 
   <!-- Projectile Information -->
   <DamageAmount>15000</DamageAmount>
-  <ShieldPenChance>25</ShieldPenChance>
+  <ShieldPenChance>0.2</ShieldPenChance>
   <Scale>2.5</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>2900</ProjectileSpeed>

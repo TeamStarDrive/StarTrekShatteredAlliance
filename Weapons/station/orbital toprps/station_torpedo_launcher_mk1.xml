@@ -32,8 +32,8 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>18000</DamageAmount>
-  <Scale>2</Scale>
+  <DamageAmount>140000</DamageAmount>
+  <Scale>4</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>2000</ProjectileSpeed>
   <ProjectileRadius>10</ProjectileRadius>
