@@ -44,7 +44,7 @@
 <!-- Projectile textures-->
   <ProjectileTexturePath>missile_d</ProjectileTexturePath>
   <ModelPath>missile</ModelPath>
-  <WeaponTrailEffect>DissTorpTrailMirv</WeaponTrailEffect>
+  <WeaponTrailEffect>FighterTorpTrail</WeaponTrailEffect>
   <TrailOffset>0</TrailOffset>
   <WeaponType>Missile</WeaponType>
 <!-- name of XACT audio cue to play on firing this weapon -->

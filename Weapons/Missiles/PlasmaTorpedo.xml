@@ -52,7 +52,7 @@
   <LoopAnimation>1</LoopAnimation>  
   <ProjectileTexturePath>projTear_01_green</ProjectileTexturePath>
   <ModelPath>projTear</ModelPath>
-  <WeaponType>Plasma</WeaponType>
+  <WeaponType>Missile</WeaponType>
   <ProjectileRadius>7</ProjectileRadius>
   <CanCollideProjectiles>true</CanCollideProjectiles>
 </Weapon>
