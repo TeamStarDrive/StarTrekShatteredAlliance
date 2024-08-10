@@ -1,10 +1,10 @@
 Version=1
 HullName=Misc/Shadow Fighter
 VisibleName=Shadow Fighter
-Role=troop
+Role=fighter
 Style=Misc
 Size=8,13
-MeshOffset=0,-8
+MeshOffset=0,-0
 IconPath=ShipIcons/hunter
 ModelPath=mod Model/Shadow Fighter
 Animated=false
@@ -12,15 +12,15 @@ IsShipyard=false
 IsOrbitalDefense=false
 #Thruster PosX,PosY,PosZ,Scale
 Slots
-___|___|___|I  |I  |___|___|___
-___|___|___|I  |I  |___|___|___
-___|___|___|I  |I  |___|___|___
-___|___|I  |I  |I  |I  |___|___
-___|___|I  |I  |I  |I  |___|___
-___|I  |I  |I  |I  |I  |I  |___
-I  |I  |I  |I  |IC |I  |I  |I  
-I  |___|I  |I  |I  |I  |___|I  
-___|___|I  |I  |I  |I  |___|___
+___|___|___|IO |IO |___|___|___
+___|___|___|IO |IO |___|___|___
+___|___|___|IO |IO |___|___|___
+___|___|IO |IO |IO |IO |___|___
+___|___|IO |IO |IO |IO |___|___
+___|O  |IO |IO |IO |IO |O  |___
+O  |O  |IO |IO |IC |IO |O  |O  
+O  |___|IO |IO |IO |IO |___|O  
+___|___|IO |IO |IO |IO |___|___
 ___|E  |___|E  |E  |___|E  |___
 ___|___|___|E  |E  |___|___|___
 ___|___|___|E  |E  |___|___|___

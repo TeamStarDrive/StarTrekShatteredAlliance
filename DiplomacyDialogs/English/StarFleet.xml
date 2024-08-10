@@ -1,5 +1,9 @@
 ﻿<DiplomacyDialog>
   <Dialogs>
+  <DialogLine>
+      <DialogType>TREATY_TOO_SOON_REJECT</DialogType>
+      <Default>It is too soon for that kind of treaty.</Default>
+    </DialogLine>
     <DialogLine>
       <DialogType>First Contact</DialogType>
       <Friendly>This is the United Federation of Planets. We understand you are a peacefull people, so we look forward to working with you in the future.</Friendly>

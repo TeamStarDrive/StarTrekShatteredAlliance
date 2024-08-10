@@ -1,5 +1,9 @@
 ﻿<DiplomacyDialog>
   <Dialogs>
+  <DialogLine>
+      <DialogType>TREATY_TOO_SOON_REJECT</DialogType>
+      <Default>It is too soon for that kind of treaty.</Default>
+    </DialogLine>
     <DialogLine>
       <DialogType>First Contact</DialogType>
       <Friendly>We are the Borg. Your biological and technological distinctiveness will be added to our own. Resistance is futile.</Friendly>

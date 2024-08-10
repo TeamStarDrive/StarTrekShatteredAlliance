@@ -1,9 +1,13 @@
 ﻿<DiplomacyDialog>
   <Dialogs>
+  <DialogLine>
+      <DialogType>TREATY_TOO_SOON_REJECT</DialogType>
+      <Default>It is too soon for that kind of treaty.</Default>
+    </DialogLine>
     <DialogLine>
       <DialogType>First Contact</DialogType>
-      <Friendly>We are Vulfar. Your ship is...impressive.</Friendly>
-      <Neutral>We are Vulfar. Your armor looks thin.</Neutral>
+      <Friendly>We are Klingon. Your ship is...impressive.</Friendly>
+      <Neutral>We are Klingon. Your armor looks thin.</Neutral>
       <Hostile>Grrrrr. We had no idea the galaxy was filled with such...creatures...as yourselves. The Vulfen Imperium will soon set things right! </Hostile>
     </DialogLine>
     <DialogLine>
@@ -15,7 +19,7 @@
     <DialogLine>
       <DialogType>Aggression Warning</DialogType>
       <Friendly>Grr? You destroy our ships when we expected loyalty? Grrr.... </Friendly>
-      <Neutral>Grrrrrrr...you attack a lone Vulfar but forget the pack, SING. Be wary. </Neutral>
+      <Neutral>Grrrrrrr...you attack a lone Klingon but forget the pack, SING. Be wary. </Neutral>
       <Hostile>Filthy, filthy, filthy, PLURAL ... this agggrression will not stand!  </Hostile>
     </DialogLine>
     <DialogLine>
@@ -38,8 +42,8 @@
     </DialogLine>
     <DialogLine>
       <DialogType>Declare War</DialogType>
-      <misc1>Awooooooooo!!!! Your lands will soon be those of the Vulfar! </misc1>
-      <misc2>Run if you must! The Vulfar love a chase.</misc2>>
+      <misc1>Awooooooooo!!!! Your lands will soon be those of the Klingon! </misc1>
+      <misc2>Run if you must! The Klingon love a chase.</misc2>>
     </DialogLine>
     <DialogLine>
       <DialogType>Greeting</DialogType>
@@ -53,9 +57,9 @@
     </DialogLine>
     <DialogLine>
       <DialogType>AboutUS</DialogType>
-      <DL_Xeno>You wish to know the Vulfar? Then know this: we are pack, we are legion, and we are better than...whatever it is that you are. </DL_Xeno>
-      <DL_Agg>You wish to know the Vulfar? Grrrrrrrr. We are warriors of the purest blood. Pack is all. If you do not fear us, you should. </DL_Agg>
-      <DL_Ruth>You wish to know the Vulfar?? Grrrrrrrr. Savages and mongrels and runty pups, this is what the Universe holds. We mean to rid it of all weakness and to bring about the rise of our master race. </DL_Ruth>
+      <DL_Xeno>You wish to know the Klingon? Then know this: we are pack, we are legion, and we are better than...whatever it is that you are. </DL_Xeno>
+      <DL_Agg>You wish to know the Klingon? Grrrrrrrr. We are warriors of the purest blood. Pack is all. If you do not fear us, you should. </DL_Agg>
+      <DL_Ruth>You wish to know the Klingon?? Grrrrrrrr. Savages and mongrels and runty pups, this is what the Universe holds. We mean to rid it of all weakness and to bring about the rise of our master race. </DL_Ruth>
       <DL_Exp>Many new worlds for us to take, this is the will of the pack.</DL_Exp>
       <DL_Mil>Gaze in fear upon our mighty ships!</DL_Mil>
       <DL_Ind>Soon you shall learn that the pack is so much stronger than the individual. Our numbers give us strength in the factories and the mines as well as in the battlefield.</DL_Ind>
@@ -143,7 +147,7 @@
     </DialogLine>
     <DialogLine>
       <DialogType>Declare War BC TarSys</DialogType>
-      <Default>PLURAL are so stupid to try and stay in the TARSYS system when this is Vulfar territory. We have war now! </Default>
+      <Default>PLURAL are so stupid to try and stay in the TARSYS system when this is Klingon territory. We have war now! </Default>
     </DialogLine>
     <DialogLine>
       <DialogType>Offer NAPact</DialogType>
@@ -159,7 +163,7 @@
     </DialogLine>
     <DialogLine>
       <DialogType>Offer Trade</DialogType>
-      <Default>The Vulfar make the best stuff. You should trade with us for it. Make a trade treaty! </Default>
+      <Default>The Klingon make the best stuff. You should trade with us for it. Make a trade treaty! </Default>
     </DialogLine>
     <DialogLine>
       <DialogType>Trade Accepted</DialogType>
@@ -175,7 +179,7 @@
     </DialogLine>
     <DialogLine>
       <DialogType>ComeAround_TRADE</DialogType>
-      <Default>Grr? Why say no earlier to trade with the Vulfar? Are you trying to trick us?</Default>
+      <Default>Grr? Why say no earlier to trade with the Klingon? Are you trying to trick us?</Default>
     </DialogLine>
     <DialogLine>
       <DialogType>Xeno Demand Tech</DialogType>
@@ -255,11 +259,11 @@
     </DialogLine>
     <DialogLine>
       <DialogType>Declare War Imperialism Break NA</DialogType>
-      <Default>Hurrr hurr hurr. PLURAL think that words will stop the mighty Vulfar. Hurr hurr. Most Vulfar cannot even read! The treaty is over now, and war begins!</Default>
+      <Default>Hurrr hurr hurr. PLURAL think that words will stop the mighty Klingon. Hurr hurr. Most Klingon cannot even read! The treaty is over now, and war begins!</Default>
     </DialogLine>
     <DialogLine>
       <DialogType>Conquered_Player</DialogType>
-      <Default>Hurrrrrr hurr hurr. Stupid PLURAL are DEAD! The Vulfar are the strongest! You lose, SING!</Default>
+      <Default>Hurrrrrr hurr hurr. Stupid PLURAL are DEAD! The Klingon are the strongest! You lose, SING!</Default>
     </DialogLine>
     <DialogLine>
       <DialogType>Offer Open Borders</DialogType>
@@ -427,7 +431,7 @@
     </DialogLine>
     <DialogLine>
       <DialogType>REJECT_OFFER_PEACE_UNWILLING_BC</DialogType>
-      <Default>You still have lands the Vulfar want. NO PEACE. </Default>
+      <Default>You still have lands the Klingon want. NO PEACE. </Default>
     </DialogLine>
     <DialogLine>
       <DialogType>ACCEPT_OFFER_PEACE_RELUCTANT</DialogType>
@@ -439,7 +443,7 @@
     </DialogLine>
     <DialogLine>
       <DialogType>OFFER_ALLIANCE</DialogType>
-      <Default>Vulfar and PLURAL are good friends. We should make an alliance now, right?</Default>
+      <Default>Klingon and PLURAL are good friends. We should make an alliance now, right?</Default>
     </DialogLine>
     <DialogLine>
       <DialogType>ALLIANCE_ACCEPTED</DialogType>
@@ -467,7 +471,7 @@
     </DialogLine>
     <DialogLine>
       <DialogType>ACCEPT_PEACE_COLDWAR</DialogType>
-      <Default>Hrmmm. You make a good deal. No Vulfar died, and no PLURAL died...soooo. OK. We will have peace.</Default>
+      <Default>Hrmmm. You make a good deal. No Klingon died, and no PLURAL died...soooo. OK. We will have peace.</Default>
     </DialogLine>
     <DialogLine>
       <DialogType>WarDeclared_FeelsBetrayed</DialogType>
@@ -479,11 +483,11 @@
     </DialogLine>
     <DialogLine>
       <DialogType>Stole Claim</DialogType>
-      <Default>GRRR!! GRRRR!!! TARSYS was ours! The Vulfar claimed it!  </Default>
+      <Default>GRRR!! GRRRR!!! TARSYS was ours! The Klingon claimed it!  </Default>
     </DialogLine>
     <DialogLine>
       <DialogType>Stole Claim 2</DialogType>
-      <Default>Two times you have angered the Vulfar! Few live to do so...seven..err..four?..grrr! More than two times!</Default>
+      <Default>Two times you have angered the Klingon! Few live to do so...seven..err..four?..grrr! More than two times!</Default>
     </DialogLine>
     <DialogLine>
       <DialogType>Stole Claim 3</DialogType>
@@ -551,11 +555,11 @@
     </DialogLine>
     <DialogLine>
       <DialogType>Federation_Accept</DialogType>
-      <Default>You want us to be pack? Yes! We agree! Awoooo! From here on out, PLURAL and Vulfar are pack!</Default>
+      <Default>You want us to be pack? Yes! We agree! Awoooo! From here on out, PLURAL and Klingon are pack!</Default>
     </DialogLine>
     <DialogLine>
       <DialogType>Federation_Quest_DestroyEnemy</DialogType>
-      <Default>You want to be pack with the Vulfar? Then you must prove yourself. Destroy TAREMP! Then we will be pack!</Default>
+      <Default>You want to be pack with the Klingon? Then you must prove yourself. Destroy TAREMP! Then we will be pack!</Default>
     </DialogLine>
     <DialogLine>
       <DialogType>Federation_YouDidIt_KilledEnemy</DialogType>
@@ -576,7 +580,7 @@
     
     <DialogLine>
       <DialogType>JoinWar_YouAreNotAtWar</DialogType>
-      <Default>Do PLURAL think that we Vulfar are so stupid? You are not even at war with TAREMP. Why would we fight for you?</Default>
+      <Default>Do PLURAL think that we Klingon are so stupid? You are not even at war with TAREMP. Why would we fight for you?</Default>
     </DialogLine>
     <DialogLine>
       <DialogType>JoinWar_WeAreAtWar</DialogType>

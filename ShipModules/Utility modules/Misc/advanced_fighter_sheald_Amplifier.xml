@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <Cost>192</Cost>
+    <Cost>392</Cost>
     <FighterModule>false</FighterModule>
     <!-- Tech Level -->
     <TechLevel>4</TechLevel>
@@ -27,7 +27,7 @@
     <!-- Armor resistance -->
     <!-- for PowerPlant Items -->
     
-    <AmplifyShields>92500</AmplifyShields>
+    <AmplifyShields>52500</AmplifyShields>
 
     <!-- Crew Reqs -->
     

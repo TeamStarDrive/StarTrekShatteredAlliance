@@ -1,0 +1,31 @@
+Version=1
+HullName=Misc/Shadow Scout
+VisibleName=Shadow scout
+Role=corvette
+Style=Misc
+Size=14,17
+MeshOffset=0,40
+IconPath=ShipIcons/hunter
+ModelPath=mod Model/Shadow Fighter
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|IO |___|___|IO |___|___|___|___|___
+___|___|___|___|___|IO |___|___|IO |___|___|___|___|___
+___|___|___|___|___|IO |___|___|IO |___|___|___|___|___
+___|___|IO |___|___|IO |___|___|IO |___|___|IO |___|___
+___|___|IO |IO |___|IO |IO |IO |IO |___|IO |IO |___|___
+E  |___|___|IO |___|IO |IO |IO |IO |___|IO |___|___|E  
+E  |___|___|IO |___|IO |IO |IO |IO |___|IO |___|___|E  
+E  |IO |___|IO |IO |IO |IO |IO |IO |IO |IO |___|IO |E  
+E  |IO |___|IO |IO |IO |IO |IO |IO |IO |IO |___|IO |E  
+E  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |E  
+E  |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |E  
+E  |IO |IO |IO |IO |IO |IO |IC |IO |IO |IO |IO |IO |___
+___|___|IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |IO |___
+___|___|E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |___|___
+___|___|E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |___|___
+___|___|___|___|E  |E  |___|___|E  |E  |E  |___|___|___
+___|___|___|___|E  |E  |___|___|E  |E  |___|___|___|___

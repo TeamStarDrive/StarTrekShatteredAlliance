@@ -1,5 +1,9 @@
 ﻿<DiplomacyDialog>
  <Dialogs>
+ <DialogLine>
+      <DialogType>TREATY_TOO_SOON_REJECT</DialogType>
+      <Default>It is too soon for that kind of treaty.</Default>
+    </DialogLine>
 	<DialogLine>
  	<DialogType>First Contact</DialogType>
  	<Friendly>On behalf of the Cardassian Union, we extend our warm greetings to you. May there ever be peace between our empires.</Friendly>
