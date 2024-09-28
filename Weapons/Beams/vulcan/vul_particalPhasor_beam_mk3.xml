@@ -19,7 +19,7 @@
   
   
   <!-- Projectile Information -->
-  <BeamTexture>pulse_beam_purple</BeamTexture>
+  <BeamTexture>vul_phaser</BeamTexture>
   <EffectVsArmor>1.25</EffectVsArmor> 
   <DamageAmount>50</DamageAmount>
   <BeamThickness>15</BeamThickness>

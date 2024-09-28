@@ -35,7 +35,7 @@
   <!-- Animation Information -->
   <Animated>1</Animated>
   <Frames>4</Frames>
-  <AnimationPath>fed_phasercannon/fed_phasercannon_cc_</AnimationPath>
+  <AnimationPath>dom_polaroncannon/dom_polaroncannon_cc_00000</AnimationPath>
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->

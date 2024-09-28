@@ -44,7 +44,7 @@
   <Scale>4.7</Scale>
   <Animated>1</Animated>
   <Frames>16</Frames>
-  <AnimationPath>planetary_torpedo_quantum/planetary_torpedo_quantum_cc_</AnimationPath>
+  <AnimationPath>dom_torpedo/dom_torpedo_cc_/dom_torpedo_heavy_cc_</AnimationPath>
   <LoopAnimation>1</LoopAnimation>
 
   <!-- Explosion Information -->

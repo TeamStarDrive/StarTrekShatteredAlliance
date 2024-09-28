@@ -19,7 +19,7 @@
   
   
   <!-- Projectile Information -->
-  <BeamTexture>pulse_beam_purple</BeamTexture>
+  <BeamTexture>dom_polaronbeam</BeamTexture>
   <EffectVsArmor>1.25</EffectVsArmor> 
 
   <DamageAmount>70</DamageAmount>

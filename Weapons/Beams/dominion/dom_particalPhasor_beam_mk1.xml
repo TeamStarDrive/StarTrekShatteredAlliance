@@ -30,7 +30,7 @@
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
   <ToggleSoundName>sd_weapon_phasor_01</ToggleSoundName>
-  <BeamTexture>pulse_beam_purple</BeamTexture>
+  <BeamTexture>dom_polaronbeam</BeamTexture>
   
   <!-- Projectile Information -->
   <DamageAmount>14</DamageAmount>
