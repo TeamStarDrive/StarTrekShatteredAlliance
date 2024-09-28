@@ -33,8 +33,8 @@
 
   <!-- Projectile Information -->
   <DamageAmount>15000</DamageAmount>
-  <ShieldPenChance>25</ShieldPenChance>
-  <Scale>2.5</Scale>
+  <ShieldPenChance>5</ShieldPenChance>
+  <Scale>0.9</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>2900</ProjectileSpeed>
   <ProjectileRadius>10</ProjectileRadius>
@@ -44,7 +44,7 @@
   <AnimationPath>fed_torpedo_quantum_micro/fed_torpedo_quantum_micro_cc_</AnimationPath>
   <LoopAnimation>1</LoopAnimation>
   <SalvoCount>4</SalvoCount>
-  <SalvoTimer>7</SalvoTimer>
+  <SalvoTimer>10</SalvoTimer>
   
   <Light>Blue</Light>
   <ProjectileTexturePath>projBall_03_purple</ProjectileTexturePath>

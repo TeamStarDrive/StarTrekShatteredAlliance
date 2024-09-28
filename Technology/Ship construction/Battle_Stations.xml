@@ -11,9 +11,7 @@
     <UnlockedMod>
       <ModuleUID>Aegis</ModuleUID>
     </UnlockedMod>
-	<UnlockedMod>
-      <ModuleUID>crusier_dock</ModuleUID>
-    </UnlockedMod>
+
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

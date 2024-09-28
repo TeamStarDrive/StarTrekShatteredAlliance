@@ -16517,4 +16517,17 @@ BB_Tech_Adv_Amplifier_Name:
 BB_Tech_Adv_Amplifier_Desc:
  Id: 18868
  ENG: "Adv_Amplifier 
-# DO NOT USE 18K index for bb+  - use empty spaces between 4000-5000
+ 
+BB_Tech_crusier_dock_Name:
+ Id: 18869
+ ENG: "crusir Bay large ship hanger to launch crusiers"
+BB_Tech_crusier_dock_Desc:
+ Id: 18870
+ ENG: "crusir Bay" 
+ # DO NOT USE 18K index for bb+  - use empty spaces between 4000-50   7
+BB_Tech_large_hanger_dock_Name:
+ Id: 18871
+ ENG: "crusir Bay"
+BB_Tech_large_hanger_Desc:
+ Id: 18872
+ ENG: "crusir Bay"   

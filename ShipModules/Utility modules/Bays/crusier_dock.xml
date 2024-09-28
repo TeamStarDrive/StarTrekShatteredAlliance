@@ -15,7 +15,7 @@
 
   <Restrictions>IO</Restrictions>
   <Name>crusier_dock</Name>
-  <IconTexturePath>Modules/crusier_dock</IconTexturePath>
+  <IconTexturePath>Modules/cruiser_dock</IconTexturePath>
   <Mass>4000</Mass>
   <Health>19000</Health>
   <HealthMax>19000</HealthMax>
@@ -26,16 +26,20 @@
   <PowerDraw>200</PowerDraw>
 
 
-  <NameIndex>4000</NameIndex>
-  <DescriptionIndex>4001</DescriptionIndex>
+  <NameIndex>18869</NameIndex>
+  <DescriptionIndex>18870</DescriptionIndex>
 
 
 
   <!-- for Hangar items -->
-  <hangarShipUID>cruiser</hangarShipUID>
+  <hangarShipUID>crusier</hangarShipUID>
   <hangerTimerConstant>180</hangerTimerConstant>
-  <MaximumHangarShipSize>490</MaximumHangarShipSize>
+  <MaximumHangarShipSize>390</MaximumHangarShipSize>
   <PermittedHangarRoles>
+    <string>frigate</string>
+    <string>corvette</string>
+    <string>fighter</string>
+    <string>cruiser</string>
   </PermittedHangarRoles>
 
 
