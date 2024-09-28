@@ -66,6 +66,14 @@
       <ModuleUID>particalPhasor_beam_mk1</ModuleUID>
       <Type>Terran</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>vul_particalPhasor_beam_mk1</ModuleUID>
+      <Type>vulcan</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>dom_particalPhasor_beam_mk1</ModuleUID>
+      <Type>dominion</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

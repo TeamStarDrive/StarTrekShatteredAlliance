@@ -67,6 +67,14 @@
 	<UnlockedMod>
       <ModuleUID>torpedo_bomb_mk1</ModuleUID>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>hevey_torpedo_mk1</ModuleUID>
+      <Type>dominion</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>hevey_torpedo_mk1</ModuleUID>
+      <Type>vulcan</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

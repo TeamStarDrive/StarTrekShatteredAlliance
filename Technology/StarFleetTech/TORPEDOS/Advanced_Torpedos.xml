@@ -65,6 +65,14 @@
       <ModuleUID>advanced_energy_torpoedo</ModuleUID>
       <Type>Terran</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced_energy_torpoedo</ModuleUID>
+      <Type>dominion</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>advanced_energy_torpoedo</ModuleUID>
+      <Type>vulcan</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

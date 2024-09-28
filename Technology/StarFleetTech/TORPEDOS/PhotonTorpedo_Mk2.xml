@@ -71,6 +71,14 @@
       <ModuleUID>energy_torpedo_mk2</ModuleUID>
       <Type>Terran</Type>
     </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>energy_torpedo_mk2</ModuleUID>
+      <Type>dominion</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>energy_torpedo_mk2</ModuleUID>
+      <Type>vulcan</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

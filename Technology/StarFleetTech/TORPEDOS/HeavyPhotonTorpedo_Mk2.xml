@@ -64,6 +64,14 @@
       <ModuleUID>hevey_torpedo_mk2</ModuleUID>
       <Type>Cordrazine</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>hevey_torpedo_mk2</ModuleUID>
+      <Type>dominion</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>hevey_torpedo_mk2</ModuleUID>
+      <Type>vulcan</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />

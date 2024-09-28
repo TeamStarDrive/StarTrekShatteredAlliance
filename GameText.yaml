@@ -16530,4 +16530,101 @@ BB_Tech_large_hanger_dock_Name:
  ENG: "crusir Bay"
 BB_Tech_large_hanger_Desc:
  Id: 18872
- ENG: "crusir Bay"   
+ ENG: "crusir Bay"
+
+BB_Tech_dom_particalPhasor_beam_mk5_Name:
+ Id: 18873
+ ENG: "partical beem mk5"
+BB_Tech_dom_particalPhasor_beam_mk5:
+ Id: 18874
+ ENG: "partical beem mk5"
+BB_Tech_dom_particalPhasor_beam_mk4_Name:
+ Id: 18875
+ ENG: "partical beem mk4"
+BB_Tech_dom_particalPhasor_beam_mk4:
+ Id: 18876
+ ENG: "partical beem mk4"
+BB_Tech_dom_particalPhasor_beam_mk3_Name:
+ Id: 18877
+ ENG: "partical beem mk3"
+BB_Tech_dom_particalPhasor_beam_mk3:
+ Id: 18878
+ ENG: "partical beem mk3"
+BB_Tech_dom_particalPhasor_beam_mk2_Name:
+ Id: 18879
+ ENG: "partical beem mk2"
+BB_Tech_dom_particalPhasor_beam_mk2:
+ Id: 18880
+ ENG: "partical beem mk2"
+BB_Tech_dom_particalPhasor_beam_mk1_Name:
+ Id: 18881
+ ENG: "partical beem mk1"
+BB_Tech_dom_particalPhasor_beam_mk1:
+ Id: 18882
+ ENG: "partical beem mk1"
+BB_Tech_vul_particalPhasor_beam_mk1_Name:
+ Id: 18883
+ ENG: "partical beem mk1"
+BB_Tech_vul_particalPhasor_beam_mk1:
+ Id: 18884
+ ENG: "partical beem mk1"
+BB_Tech_vul_particalPhasor_beam_mk2_Name:
+ Id: 18885
+ ENG: "partical beem mk2"
+BB_Tech_vul_particalPhasor_beam_mk2:
+ Id: 18886
+ ENG: "partical beem mk2"
+BB_Tech_vul_particalPhasor_beam_mk3_Name:
+ Id: 18887
+ ENG: "partical beem mk3"
+BB_Tech_vul_particalPhasor_beam_mk3:
+ Id: 18888
+ ENG: "partical beem mk3"
+BB_Tech_vul_particalPhasor_beam_mk4_Name:
+ Id: 18889
+ ENG: "partical beem mk4"
+BB_Tech_vul_particalPhasor_beam_mk4:
+ Id: 18890
+ ENG: "partical beem mk4"
+BB_Tech_vul_particalPhasor_beam_mk5_Name:
+ Id: 18891
+ ENG: "partical beem mk5"
+BB_Tech_vul_particalPhasor_beam_mk5:
+ Id: 18892
+ ENG: "partical beem mk5"
+BB_Tech_vul_phased_cannon_mk1_Name:
+ Id: 18893
+ ENG: "phased_cannon"
+BB_Tech_vul_phased_cannon_mk1:
+ Id: 18894
+ ENG: "phased_cannon"
+BB_Tech_vul_phased_cannon_mk2_Name:
+ Id: 18895
+ ENG: "phased_cannon mk2"
+BB_Tech_vul_phased_cannon_mk2:
+ Id: 18896
+ ENG: "phased_cannon mk2"
+BB_Tech_vul_phased_cannon_mk3_Name:
+ Id: 18897
+ ENG: "phased_cannon mk3"
+BB_Tech_vul_phased_cannon_mk3:
+ Id: 18898
+ ENG: "phased_cannon mk3"
+BB_Tech_dom_phased_cannon_mk1_Name:
+ Id: 18899
+ ENG: "phased_cannon mk1"
+BB_Tech_dom_phased_cannon_mk1:
+ Id: 18901
+ ENG: "phased_cannon mk1" 
+BB_Tech_dom_phased_cannon_mk2_Name:
+ Id: 18902
+ ENG: "phased_cannon mk2"
+BB_Tech_dom_phased_cannon_mk2:
+ Id: 18903
+ ENG: "phased_cannon mk2" 
+BB_Tech_dom_phased_cannon_mk3_Name:
+ Id: 18904
+ ENG: "phased_cannon mk3"
+BB_Tech_dom_phased_cannon_mk3:
+ Id: 18905
+ ENG: "phased_cannon mk3"

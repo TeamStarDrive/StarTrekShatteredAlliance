@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <UID>dom_particalPhasor_beam_mk3</UID> 
+  <Version>2</Version>
+  <OffPowerMod>0.35</OffPowerMod>
+  <Cost>120</Cost>
+  <!-- Tech Level Used by AI for Upgrading Ships -->
+  <TechLevel>4</TechLevel>
+
+  
+  <!-- common traits shared by all ship modules -->
+  <XSize>3</XSize>
+  <YSize>4</YSize>
+  <ModuleType>Turret</ModuleType>
+  <Name>dom_particalPhasor_beam_mk3</Name>
+  <Restrictions>O</Restrictions>
+
+  <IconTexturePath>Modules/particalPhasor_beam_mk3</IconTexturePath>3
+
+
+  <NameIndex>18877</NameIndex>
+  <DescriptionIndex>18878</DescriptionIndex>
+
+
+  <!-- Mass and Health -->
+  <Mass>23</Mass>
+  <Health>20120</Health>
+  <HealthMax>20120</HealthMax>
+
+  <!-- Power Drawn -->
+  <PowerDraw>10</PowerDraw>
+
+  <!-- for Weapons -->
+  <WeaponType>dom_particalPhasor_beam_mk3</WeaponType>
+  <FieldOfFire>45</FieldOfFire>
+
+  <!-- Description -->
+  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  
+
+</ShipModule>

@@ -59,6 +59,14 @@
       <ModuleUID>torpedo_BARAGE</ModuleUID>
       <Type>Terran</Type>
     </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>torpedo_BARAGE</ModuleUID>
+      <Type>vulcan</Type>
+    </UnlockedMod>
+	<UnlockedMod>
+      <ModuleUID>torpedo_BARAGE</ModuleUID>
+      <Type>dominion</Type>
+    </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
   <BonusUnlocked />
