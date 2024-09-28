@@ -1,0 +1,32 @@
+Version=1
+HullName=vulcan/Vul_TPlanna
+VisibleName=TPlanna Class
+Role=corvette
+Style=vulcan huls
+Size=8,18
+MeshOffset=0,0
+IconPath=ShipIcons/Vul_TPlanna
+ModelPath=mod Model/vulcan/Vul_TPlanna
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|O  |IO |IO |O  |___|___
+___|___|IO |IO |IO |IO |___|___
+___|___|IO |IO |IO |IO |___|___
+___|___|O  |IO |IO |O  |___|___
+___|___|___|O  |O  |___|___|___
+___|___|O  |O  |O  |O  |___|___
+___|___|O  |I  |I  |O  |___|___
+___|___|IO |I  |I  |IO |___|___
+___|___|IO |I  |I  |IO |___|___
+___|O  |IO |I  |IC |IO |O  |___
+___|O  |___|I  |I  |___|O  |___
+O  |E  |E  |E  |E  |E  |E  |O  
+O  |E  |E  |E  |E  |E  |E  |O  
+O  |E  |E  |E  |E  |E  |E  |O  
+___|O  |___|E  |E  |___|O  |___
+___|O  |O  |E  |E  |O  |O  |___
+___|___|O  |E  |E  |O  |___|___
+___|___|___|E  |E  |___|___|___

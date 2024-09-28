@@ -1,0 +1,18 @@
+Version=1
+HullName=vulcan/Vul_Karan
+VisibleName=Karan Class
+Role=scout
+Style=vulcan
+Size=2,4
+MeshOffset=0,0
+IconPath=ShipIcons/Vul_Karan
+ModelPath=mod Model/vulcan/Vul_Karan
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+IO |IO 
+I  |I  
+E  |EC 
+E  |E  

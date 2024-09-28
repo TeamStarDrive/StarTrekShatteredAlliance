@@ -1,0 +1,52 @@
+Version=1
+Name=vulcan tech station mk1
+Hull=vulcan/Vul_Large_Turret
+Role=station
+ModName=Star Trek
+Style=vulcan
+Size=24,24
+GridCenter=12,12
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=MediumCargoHold;ResearchArray;PowerSolar;ContainerDeck;Shield_1KW;NuclearReactorMed;Cockpit;Sensor1x2
+Modules=34
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+11,0;0;2,2
+11,2;1;2,2
+11,4;2
+12,4;2
+11,5;1;2,2
+10,7;3;4,3;90;2
+9,9;2
+14,9;2
+7,10;3;3,4
+10,10;1;2,2
+12,10;4;2,2
+14,10;3;3,4
+0,11;0;2,2
+2,11;1;2,2
+4,11;2
+5,11;1;2,2
+17,11;1;2,2
+19,11;2
+20,11;1;2,2
+22,11;0;2,2
+4,12;2
+10,12;5;2,2
+12,12;6
+13,12;2
+19,12;2
+12,13;7;2,1
+9,14;2
+10,14;3;4,3;90;2
+14,14;2
+11,17;1;2,2
+11,19;2
+12,19;2
+11,20;1;2,2
+11,22;0;2,2

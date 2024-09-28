@@ -1,0 +1,28 @@
+Version=1
+HullName=dominion/Dom_Chimera
+VisibleName=Chimera Class
+Role=frigate
+Style=dominion
+Size=16,14
+MeshOffset=0,0
+IconPath=ShipIcons/Dom_Chimera
+ModelPath=mod Model/dominion/Dom_Chimera
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|___|___|O  |O  |___|___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |O  |O  |___|___|___|___|___|___
+___|___|___|___|___|___|O  |IO |IO |O  |___|___|___|___|___|___
+___|E  |___|___|___|O  |O  |IO |IO |O  |O  |___|___|___|E  |___
+___|E  |O  |___|O  |O  |IO |IO |IO |IO |O  |O  |___|O  |E  |___
+O  |E  |O  |O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |O  |E  |O  
+O  |E  |IO |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |IO |E  |O  
+O  |E  |IO |IO |IO |IO |I  |I  |IC |I  |IO |IO |IO |IO |E  |O  
+O  |E  |O  |O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |O  |E  |O  
+___|E  |___|___|O  |O  |IO |I  |I  |IO |O  |O  |___|___|E  |___
+___|E  |___|___|___|O  |IO |I  |I  |IO |O  |___|___|___|E  |___
+___|___|___|___|___|E  |E  |E  |E  |E  |E  |___|___|___|___|___
+___|___|___|___|___|E  |E  |E  |E  |E  |E  |___|___|___|___|___
+___|___|___|___|___|___|E  |E  |E  |E  |___|___|___|___|___|___

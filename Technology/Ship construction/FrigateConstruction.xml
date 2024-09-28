@@ -51,6 +51,18 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+    <UnlockedHull>
+      <Name>vulcan/Vul_Ktra</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>vulcan/Vul_Taurik</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>dominion/Dom_Chimera</Name>
+      <ShipType>dominion</ShipType>
+    </UnlockedHull>
 	<UnlockedHull>
       <Name>Terran/Fed_Constitution</Name>
       <ShipType>fed</ShipType>

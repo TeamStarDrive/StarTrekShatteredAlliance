@@ -1,0 +1,24 @@
+Version=1
+HullName=vulcan/Vul_Varel
+VisibleName=Varel Class
+Role=fighter
+Style=vulcan
+Size=4,10
+MeshOffset=0,0
+IconPath=ShipIcons/Vul_Varel
+ModelPath=mod Model/vulcan/Vul_Varel
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|O  |O  |___
+___|IO |IO |___
+___|IO |IO |___
+___|I  |I  |___
+E  |E  |E  |E  
+E  |I  |IC |E  
+___|IO |IO |___
+___|IO |IO |___
+___|O  |O  |___
+___|O  |O  |___

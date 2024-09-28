@@ -18,6 +18,14 @@
   <TroopsUnlocked />
   <HullsUnlocked>
     <UnlockedHull>
+      <Name>vulcan/Vul_Vultres</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>dominion/Dom_Demolisher</Name>
+      <ShipType>dominion</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
       <Name>Vulfen/Alpha</Name>
       <ShipType>Vulfen</ShipType>
     </UnlockedHull>

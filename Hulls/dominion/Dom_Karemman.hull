@@ -1,0 +1,33 @@
+Version=1
+HullName=dominion/Dom_Karemman
+VisibleName=Karemman Class
+Role=troop
+Style=dominion
+Size=8,19
+MeshOffset=0,-8
+IconPath=ShipIcons/Dom_Karemman
+ModelPath=mod Model/dominion/Dom_Karemman
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|IO |IO |___|___|___
+___|___|___|IO |IO |___|___|___
+___|___|___|IO |IO |___|___|___
+___|___|IO |IO |IO |IO |___|___
+___|___|IO |I  |I  |IO |___|___
+___|___|IO |I  |I  |IO |___|___
+___|___|___|I  |I  |___|___|___
+___|___|___|I  |I  |___|___|___
+___|___|___|I  |I  |___|___|___
+E  |E  |___|I  |IC |___|E  |E  
+E  |E  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |E  |E  
+E  |E  |___|I  |I  |___|E  |E  
+E  |E  |___|___|___|___|E  |E  
+E  |E  |___|___|___|___|E  |E  
+E  |E  |___|___|___|___|E  |E  

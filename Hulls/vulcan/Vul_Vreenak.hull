@@ -1,0 +1,56 @@
+Version=1
+HullName=vulcan/Vul_Vreenak
+VisibleName=Vreenak Class
+Role=cruiser
+Style=vulcan
+Size=16,42
+MeshOffset=0,0
+IconPath=ShipIcons/Vul_Vreenak
+ModelPath=mod Model/vulcan/Vul_Vreenak
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|___|___|O  |O  |___|___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |O  |O  |___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |O  |O  |___|___|___|___|___|___
+___|___|___|___|___|___|O  |IO |IO |O  |___|___|___|___|___|___
+___|___|___|___|___|O  |O  |IO |IO |O  |O  |___|___|___|___|___
+___|___|___|___|___|O  |O  |IO |IO |O  |O  |___|___|___|___|___
+___|___|___|___|___|O  |IO |IO |IO |IO |O  |___|___|___|___|___
+___|___|___|___|___|O  |IO |IO |IO |IO |O  |___|___|___|___|___
+___|___|___|___|O  |O  |IO |IO |IO |IO |O  |O  |___|___|___|___
+___|___|___|___|O  |O  |IO |IO |IO |IO |O  |O  |___|___|___|___
+___|___|___|___|O  |IO |IO |IO |IO |IO |IO |O  |___|___|___|___
+___|___|___|___|O  |IO |IO |I  |I  |IO |IO |O  |___|___|___|___
+___|___|___|O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |___|___|___
+___|___|O  |O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |O  |___|___
+___|___|O  |O  |IO |IO |IO |I  |I  |IO |IO |IO |O  |O  |___|___
+___|O  |O  |O  |IO |IO |IO |I  |I  |IO |IO |IO |O  |O  |O  |___
+___|O  |O  |O  |IO |IO |IO |I  |I  |IO |IO |IO |O  |O  |O  |___
+O  |O  |O  |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |O  |O  |O  
+O  |O  |O  |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |O  |O  |O  
+O  |O  |O  |IO |IO |IO |I  |I  |I  |I  |IO |IO |IO |O  |O  |O  
+O  |O  |O  |O  |IO |IO |I  |I  |I  |I  |IO |IO |O  |O  |O  |O  
+___|O  |O  |O  |IO |IO |IO |I  |IC |IO |IO |IO |O  |O  |O  |___
+___|___|O  |O  |IO |IO |IO |I  |I  |IO |IO |IO |O  |O  |___|___
+___|___|___|O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |___|___|___
+___|___|___|___|O  |O  |IO |I  |I  |IO |O  |O  |___|___|___|___
+___|E  |E  |E  |E  |O  |IO |I  |I  |IO |O  |E  |E  |E  |E  |___
+E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  
+E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  
+E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  
+E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  |E  
+E  |E  |E  |E  |E  |O  |IO |I  |I  |IO |O  |E  |E  |E  |E  |E  
+E  |E  |___|___|___|O  |IO |I  |I  |IO |O  |___|___|___|E  |E  
+E  |E  |___|___|___|O  |IO |I  |I  |IO |O  |___|___|___|E  |E  
+___|___|___|___|___|O  |IO |I  |I  |IO |O  |___|___|___|___|___
+___|___|___|___|O  |O  |IO |I  |I  |IO |O  |O  |___|___|___|___
+___|___|___|___|O  |O  |IO |I  |I  |IO |O  |O  |___|___|___|___
+___|___|___|___|O  |O  |IO |I  |I  |IO |O  |O  |___|___|___|___
+___|___|___|___|O  |O  |IO |I  |I  |IO |O  |O  |___|___|___|___
+___|___|___|___|___|O  |IO |IO |IO |IO |O  |___|___|___|___|___
+___|___|___|___|___|O  |O  |IO |IO |O  |O  |___|___|___|___|___
+___|___|___|___|___|___|O  |O  |O  |O  |___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |O  |O  |___|___|___|___|___|___

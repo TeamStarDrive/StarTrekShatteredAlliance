@@ -26,6 +26,14 @@
   </ModulesUnlocked>
   <TroopsUnlocked>
   <UnlockedTroop>
+      <Name>dominion</Name>
+      <Type>dominion</Type>
+    </UnlockedTroop>
+  <UnlockedTroop>
+      <Name>vulcan</Name>
+      <Type>vulcan</Type>
+    </UnlockedTroop>
+  <UnlockedTroop>
       <Name>Cardassia</Name>
       <Type>Cardassia</Type>
     </UnlockedTroop>

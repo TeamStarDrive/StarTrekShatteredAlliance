@@ -26,6 +26,14 @@
   <BonusUnlocked />
   <TroopsUnlocked />
   <HullsUnlocked>
+	<UnlockedHull>
+      <Name>vulcan/Vul_Small_Station_Small</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>dominion/Dom_Small_Station_Small</Name>
+      <ShipType>dominion</ShipType>
+    </UnlockedHull>
   <UnlockedHull>
       <Name>FreeBorg/Sentry Unit</Name>
       <ShipType>FreeBorg</ShipType>

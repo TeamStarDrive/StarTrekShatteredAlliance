@@ -1,0 +1,32 @@
+Version=1
+HullName=vulcan/Vul_Tmir
+VisibleName=Tmir Class
+Role=corvette
+Style=vulcan huls
+Size=8,18
+MeshOffset=0,0
+IconPath=ShipIcons/Vul_Tmir
+ModelPath=mod Model/vulcan/Vul_Tmir
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|O  |O  |___|___|___
+___|___|___|O  |O  |___|___|___
+___|___|___|O  |O  |___|___|___
+___|___|O  |IO |IO |O  |___|___
+___|___|IO |IO |IO |IO |___|___
+___|___|IO |IO |IO |IO |___|___
+___|___|IO |IO |IO |IO |___|___
+___|___|IO |I  |I  |IO |___|___
+___|___|IO |I  |I  |IO |___|___
+___|O  |IO |I  |IC |IO |O  |___
+E  |E  |E  |E  |E  |E  |E  |E  
+E  |E  |E  |E  |E  |E  |E  |E  
+E  |O  |IO |I  |I  |IO |O  |E  
+E  |___|IO |I  |I  |IO |___|E  
+___|___|IO |IO |IO |IO |___|___
+___|___|O  |IO |IO |O  |___|___
+___|___|___|O  |O  |___|___|___
+___|___|___|O  |O  |___|___|___

@@ -1,0 +1,26 @@
+Version=1
+HullName=dominion/Dom_Insidious
+VisibleName=Insidious Class
+Role=corvette
+Style=dominion
+Size=18,12
+MeshOffset=0,0
+IconPath=ShipIcons/Dom_Insidious
+ModelPath=mod Model/dominion/Dom_Insidious
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|___|___|O  |___|___|O  |___|___|___|___|___|___|___
+___|___|___|___|___|___|___|O  |___|___|O  |___|___|___|___|___|___|___
+___|___|___|___|___|___|O  |O  |IO |IO |O  |O  |___|___|___|___|___|___
+___|___|___|___|___|___|O  |IO |I  |I  |IO |O  |___|___|___|___|___|___
+___|___|___|___|___|O  |IO |I  |I  |I  |I  |IO |O  |___|___|___|___|___
+___|E  |___|___|O  |O  |IO |IO |I  |I  |IO |IO |O  |O  |___|___|E  |___
+E  |E  |O  |O  |O  |O  |IO |IO |I  |IC |IO |IO |O  |O  |O  |O  |E  |E  
+E  |E  |O  |O  |O  |___|___|IO |IO |IO |IO |___|___|O  |O  |O  |E  |E  
+E  |E  |___|___|___|___|___|___|___|___|___|___|___|___|___|___|E  |E  
+E  |E  |___|___|___|___|___|___|___|___|___|___|___|___|___|___|E  |E  
+E  |E  |___|___|___|___|___|___|___|___|___|___|___|___|___|___|E  |E  
+___|E  |___|___|___|___|___|___|___|___|___|___|___|___|___|___|E  |___

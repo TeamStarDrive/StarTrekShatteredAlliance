@@ -15,6 +15,14 @@
   <TroopsUnlocked />
   <HullsUnlocked>
 	<UnlockedHull>
+      <Name>vulcan/Vul_Tokra</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>dominion/Dom_Reaper</Name>
+      <ShipType>dominion</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
       <Name>Vulfen/Type XVI</Name>
       <ShipType>Vulfen</ShipType>
     </UnlockedHull>

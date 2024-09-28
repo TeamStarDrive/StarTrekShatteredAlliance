@@ -1,0 +1,27 @@
+﻿<SolarSystemData>
+  <Name>Omarion</Name>
+  <RingList>
+    <Ring>
+      <Planet>Callinon</Planet>
+	  <SpecialDescription>A very warm M class planet with a diversity of dangerous wild life.</SpecialDescription>
+      <WhichPlanet>29</WhichPlanet>
+    </Ring>
+    <Ring>
+      <Planet>The Great Link</Planet>
+      <SpecialDescription>Home planet of the Dominion.</SpecialDescription>
+      <WhichPlanet>13</WhichPlanet>
+      <HomePlanet>true</HomePlanet>
+      <Station>Yes</Station>
+	  <MaxPopDefined>20.0</MaxPopDefined>
+    </Ring>
+    <Ring>
+      <Planet>Karemma</Planet>
+      <SpecialDescription>A small M class planet know for trade.</SpecialDescription>
+      <WhichPlanet>22</WhichPlanet>
+	  <HasRings>Yes</HasRings>
+    </Ring>
+	<Ring>
+      <Asteroids>Yes</Asteroids>
+    </Ring>
+  </RingList>
+</SolarSystemData>

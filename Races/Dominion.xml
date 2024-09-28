@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmpireData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PortraitName>dominion</PortraitName>
+  <MusicCue>sd_races_Terran</MusicCue>
+  <DiplomacyDialogPath>Dominion</DiplomacyDialogPath>
+  <StartingShip>dominion starting ship mk1</StartingShip>
+  <StartingScout>dominion scout mk1</StartingScout>
+  <PrototypeShip>dominion starting ship mk1</PrototypeShip>
+  <DefaultSmallTransport>Small Transport</DefaultSmallTransport>
+  <DefaultTroopShip>Human Troop</DefaultTroopShip>
+  <DefaultColonyShip>Colony Ship</DefaultColonyShip>
+  <DefaultConstructor>Terran Constructor</DefaultConstructor>
+  <DefaultAssaultShuttle>Terran Assault Shuttle</DefaultAssaultShuttle>
+  <DefaultSupplyShuttle>Terran-Supply</DefaultSupplyShuttle>
+  <DefaultResearchStation>dominion basic tech station mk1</DefaultResearchStation>
+  <DefaultMiningShip>basic mining ship mk1</DefaultMiningShip>
+  <DefaultMiningStation>dominion basic mining station mk1</DefaultMiningStation>  
+  <ThrustColor0R>95</ThrustColor0R>
+  <ThrustColor0G>158</ThrustColor0G>
+  <ThrustColor0B>160</ThrustColor0B>
+  <ThrustColor1R>176</ThrustColor1R>
+  <ThrustColor1G>196</ThrustColor1G>
+  <ThrustColor1B>222</ThrustColor1B>
+  
+  <PersonalityTraitsWeights>
+	<string>Aggressive</string>
+	<string>Aggressive</string>
+	<string>Aggressive</string>
+    <string>Ruthless</string>
+	<string>Ruthless</string>
+	<string>Ruthless</string>
+	<string>Xenophobic</string>
+	<string>Xenophobic</string>
+    <string>Cunning</string>
+	<string>Cunning</string>
+	<string>Cunning</string>
+    <string>Honorable</string>	
+	<string>Honorable</string>	
+	<string>Honorable</string>	
+    <string>Pacifist</string>
+  </PersonalityTraitsWeights>  
+  
+  <!-- Rebel Faction data.-->
+  <RebelName>Confederate Rebels</RebelName>
+  <RebelSing>Confederate</RebelSing>
+  <RebelPlur>Confederates</RebelPlur>
+  <TroopNameIndex>2083</TroopNameIndex>
+  <TroopDescriptionIndex>2092</TroopDescriptionIndex>
+
+  <Traits>
+    <Name>Dominion</Name>
+    <Singular>Dominion</Singular>
+    <Plural>vulcans</Plural>
+    <VideoPath>Dominion</VideoPath>
+    <ShipType>dominion</ShipType>
+    <Adj1>smooth-skinned</Adj1>
+    <Adj2>simian</Adj2>
+    <HomeSystemName>Omarion</HomeSystemName>
+    <HomeworldName>The Great Link</HomeworldName>
+    <FlagIndex>6</FlagIndex>
+    <R>406</R>
+    <G>306</G>
+    <B>506</B>
+	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
+		<TraitSet>
+			<TraitOptions>
+				<string>Prototype Flagship</string>
+				<string>Militaristic</string>
+				<string>Astronomers</string>
+				<string>Huge Homeworld</string>
+				<string>Polluted Homeworld</string>
+				<string>Corrupt</string>
+				<string>Industrious</string>
+			</TraitOptions>		
+		</TraitSet>
+	</TraitSets>	
+  </Traits>
+</EmpireData>

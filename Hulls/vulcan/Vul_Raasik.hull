@@ -1,0 +1,46 @@
+Version=1
+HullName=vulcan/Vul_Raasik
+VisibleName=Raasik Class
+Role=freighter
+Style=vulcan
+Size=12,32
+MeshOffset=0,0
+IconPath=ShipIcons/Vul_Raasik
+ModelPath=mod Model/vulcan/Vul_Raasik
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|IO |IO |IO |IO |IO |IO |___|___|___
+___|___|I  |IO |IO |IO |IO |IO |IO |I  |___|___
+___|___|I  |I  |I  |IO |IO |I  |I  |I  |___|___
+___|___|I  |I  |I  |IO |IO |I  |I  |I  |___|___
+___|___|I  |I  |I  |IO |IO |I  |I  |I  |___|___
+___|___|I  |I  |I  |IO |IO |I  |I  |I  |___|___
+___|___|I  |I  |I  |IO |IO |I  |I  |I  |___|___
+___|___|I  |I  |I  |IO |IO |I  |I  |I  |___|___
+___|___|I  |I  |I  |I  |I  |I  |I  |I  |___|___
+I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |E  |E  |E  |E  |I  |I  |I  |I  
+I  |I  |I  |I  |E  |E  |EC |E  |I  |I  |I  |I  
+I  |I  |I  |I  |E  |E  |E  |E  |I  |I  |I  |I  
+I  |I  |I  |I  |E  |E  |E  |E  |I  |I  |I  |I  
+I  |I  |I  |I  |E  |E  |E  |E  |I  |I  |I  |I  
+I  |I  |I  |I  |E  |E  |E  |E  |I  |I  |I  |I  
+I  |I  |I  |I  |E  |E  |E  |E  |I  |I  |I  |I  
+I  |I  |I  |I  |E  |E  |E  |E  |I  |I  |I  |I  
+I  |I  |I  |I  |E  |E  |E  |E  |I  |I  |I  |I  
+I  |I  |I  |I  |E  |E  |E  |E  |I  |I  |I  |I  
+I  |I  |I  |I  |E  |E  |E  |E  |I  |I  |I  |I  
+I  |I  |I  |I  |E  |E  |E  |E  |I  |I  |I  |I  
+I  |I  |I  |I  |E  |E  |E  |E  |I  |I  |I  |I  
+I  |I  |I  |I  |E  |E  |E  |E  |I  |I  |I  |I  
+___|___|E  |E  |E  |E  |E  |E  |E  |E  |___|___
+___|___|E  |E  |E  |E  |E  |E  |E  |E  |___|___
+___|___|E  |E  |E  |E  |E  |E  |E  |E  |___|___

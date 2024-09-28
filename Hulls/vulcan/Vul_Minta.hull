@@ -1,0 +1,26 @@
+Version=1
+HullName=vulcan/Vul_Minta
+VisibleName=Minta Class
+Role=corvette
+Style=vulcan
+Size=8,12
+MeshOffset=0,0
+IconPath=ShipIcons/Vul_Minta
+ModelPath=mod Model/vulcan/Vul_Minta
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|O  |O  |___|___|___
+___|___|___|O  |O  |___|___|___
+___|___|___|IO |IO |___|___|___
+___|___|___|IO |IO |___|___|___
+___|___|___|IO |IO |___|___|___
+___|___|O  |IO |IO |O  |___|___
+E  |E  |E  |I  |IC |E  |E  |E  
+E  |E  |E  |I  |I  |E  |E  |E  
+E  |___|IO |IO |IO |IO |___|E  
+E  |___|IO |IO |IO |IO |___|E  
+___|___|___|O  |O  |___|___|___
+___|___|___|O  |O  |___|___|___

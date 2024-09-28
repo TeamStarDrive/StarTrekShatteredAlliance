@@ -25,8 +25,16 @@
       <Name>Misc/Shipyards</Name>
     </UnlockedHull>
 	<UnlockedHull>
+      <Name>vulcan/Vul_Small_Turret</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
       <ShipType>fed</ShipType>
       <Name>Terran/Type M-13 Turret</Name>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>dominion/Dom_Heavy_Platform</Name>
+      <ShipType>dominion</ShipType>
     </UnlockedHull>
 	<UnlockedHull>
       <Name>Klingon/S-3 Klaa</Name>

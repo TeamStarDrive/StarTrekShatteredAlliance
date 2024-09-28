@@ -14,6 +14,22 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+    <UnlockedHull>
+      <Name>vulcan/Vul_Sormir</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>vulcan/Vul_Vreenak</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>dominion/Dom_Stalker</Name>
+      <ShipType>dominion</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>dominion/Dom_Harbinger</Name>
+      <ShipType>dominion</ShipType>
+    </UnlockedHull>
 	<UnlockedHull>
       <Name>Vulfen/Type XII</Name>
       <ShipType>Vulfen</ShipType>

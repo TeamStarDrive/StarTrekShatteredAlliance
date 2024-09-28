@@ -17,6 +17,18 @@
   <BonusUnlocked />
   <TroopsUnlocked />  
   <HullsUnlocked>
+	<UnlockedHull>
+      <Name>vulcan/Vul_Large_Turret</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <ShipType>vulcan</ShipType>
+      <Name>vulcan/Vul_StarBase</Name>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>dominion/Dom_StarBase</Name>
+      <ShipType>dominion</ShipType>
+    </UnlockedHull>
   <UnlockedHull>
       <Name>FreeBorg/Diamond</Name>
       <ShipType>FreeBorg</ShipType>

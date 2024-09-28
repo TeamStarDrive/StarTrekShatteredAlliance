@@ -1,0 +1,38 @@
+Version=1
+HullName=vulcan/Vul_Sovar
+VisibleName=Sovar Class
+Role=corvette
+Style=vulcan huls
+Size=9,24
+MeshOffset=8,16
+IconPath=ShipIcons/Vul_Sovar
+ModelPath=mod Model/vulcan/Vul_Sovar
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|O  |___|___|___|___
+___|___|___|___|O  |___|___|___|___
+___|___|___|___|O  |___|___|___|___
+___|___|___|___|O  |___|___|___|___
+___|___|___|___|O  |___|___|___|___
+___|___|___|IO |IO |IO |___|___|___
+___|___|___|IO |IO |IO |___|___|___
+___|___|___|IO |IO |IO |___|___|___
+___|___|___|IO |IO |IO |___|___|___
+___|___|___|IO |I  |IO |___|___|___
+___|___|___|IO |I  |IO |___|___|___
+___|___|___|IO |I  |IO |___|___|___
+E  |E  |E  |IO |I  |IO |E  |E  |E  
+E  |E  |E  |E  |E  |EC |E  |E  |E  
+E  |E  |E  |IO |I  |IO |E  |E  |E  
+___|___|___|IO |I  |IO |___|___|___
+___|___|___|IO |IO |IO |___|___|___
+___|___|___|IO |IO |IO |___|___|___
+___|___|___|O  |O  |O  |___|___|___
+___|___|___|O  |O  |O  |___|___|___
+___|___|___|___|O  |___|___|___|___
+___|___|___|___|O  |___|___|___|___
+___|___|___|___|O  |___|___|___|___
+___|___|___|___|O  |___|___|___|___

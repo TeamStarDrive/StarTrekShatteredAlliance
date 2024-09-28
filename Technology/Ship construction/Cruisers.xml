@@ -54,6 +54,18 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+    <UnlockedHull>
+      <Name>vulcan/Vul_Mirres</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>vulcan/Vul_Sotek</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>dominion/Dom_Leviathan</Name>
+      <ShipType>dominion</ShipType>
+    </UnlockedHull>
   <UnlockedHull>
       <Name>FreeBorg/Borg_Cylinder</Name>
       <ShipType>FreeBorg</ShipType>

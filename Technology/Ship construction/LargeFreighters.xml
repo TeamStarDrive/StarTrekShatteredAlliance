@@ -16,6 +16,14 @@
   <BonusUnlocked />
   <TroopsUnlocked />
   <HullsUnlocked>
+    <UnlockedHull>
+      <Name>vulcan/Vul_Raasik</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>dominion/Dom_Lurker</Name>
+      <ShipType>dominion</ShipType>
+    </UnlockedHull>
   <UnlockedHull>
       <Name>FreeBorg/Borg_AdvDistributor</Name>
       <ShipType>FreeBorg</ShipType>

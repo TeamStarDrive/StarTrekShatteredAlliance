@@ -18,8 +18,20 @@
   <TroopsUnlocked />
   <HullsUnlocked>
     <UnlockedHull>
+      <Name>vulcan/Vul_Sonyr</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>vulcan/Vul_Vankara</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
       <Name>Vulfen/Type IX</Name>
       <ShipType>Vulfen</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>dominion/Dom_Virulent</Name>
+      <ShipType>dominion</ShipType>
     </UnlockedHull>
 
 	<UnlockedHull>

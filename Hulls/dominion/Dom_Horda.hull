@@ -1,0 +1,17 @@
+Version=1
+HullName=dominion/Dom_Horda
+VisibleName=Horda Class
+Role=scout
+Style=dominion
+Size=4,3
+MeshOffset=0,8
+IconPath=ShipIcons/Dom_Horda
+ModelPath=mod Model/dominion/Dom_Horda
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+E  |O  |O  |E  
+E  |I  |I  |E  
+E  |I  |IC |E  

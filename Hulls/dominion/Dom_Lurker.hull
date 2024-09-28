@@ -1,0 +1,42 @@
+Version=1
+HullName=dominion/Dom_Lurker
+VisibleName=Lurker Class
+Role=freighter
+Style=dominion
+Size=19,28
+MeshOffset=-8,-32
+IconPath=ShipIcons/Dom_Lurker
+ModelPath=mod Model/dominion/Dom_Lurker
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|___|___|___|___|IO |___|___|___|___|___|___|___|___|___
+___|___|___|___|___|___|___|___|IO |IO |IO |___|___|___|___|___|___|___|___
+___|___|___|___|___|___|I  |IO |IO |IO |IO |IO |I  |___|___|___|___|___|___
+___|___|___|___|___|I  |I  |I  |IO |IO |IO |I  |I  |I  |___|___|___|___|___
+___|___|___|___|I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |___|___|___|___
+___|___|___|___|I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |___|___|___|___
+___|I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |___
+I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  
+___|I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |I  |I  |IC |I  |I  |I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |___
+I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  |I  
+___|I  |I  |I  |I  |I  |I  |E  |E  |E  |E  |E  |I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |E  |E  |E  |E  |E  |I  |I  |I  |I  |I  |I  |___
+___|I  |I  |I  |I  |I  |I  |E  |E  |E  |E  |E  |I  |I  |I  |I  |I  |I  |___
+___|___|I  |I  |I  |I  |I  |E  |E  |E  |E  |E  |I  |I  |I  |I  |I  |___|___
+___|___|I  |I  |I  |I  |I  |E  |E  |E  |E  |E  |I  |I  |I  |I  |I  |___|___
+___|___|___|I  |I  |I  |I  |E  |E  |E  |E  |E  |I  |I  |I  |I  |___|___|___
+___|___|___|I  |I  |I  |I  |E  |E  |E  |E  |E  |I  |I  |I  |I  |___|___|___
+___|___|___|___|I  |I  |I  |E  |E  |E  |E  |E  |I  |I  |I  |___|___|___|___
+___|___|___|___|___|I  |I  |E  |E  |E  |E  |E  |I  |I  |___|___|___|___|___
+___|___|___|___|___|___|I  |E  |E  |E  |E  |E  |I  |___|___|___|___|___|___
+___|___|___|___|___|___|___|___|E  |E  |E  |___|___|___|___|___|___|___|___

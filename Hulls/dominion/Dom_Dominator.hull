@@ -1,0 +1,22 @@
+Version=1
+HullName=dominion/Dom_Dominator
+VisibleName=Dominator Class
+Role=corvette
+Style=dominion
+Size=10,8
+MeshOffset=0,0
+IconPath=ShipIcons/Dom_Dominator
+ModelPath=mod Model/dominion/Dom_Dominator
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|O  |O  |___|___|___|___
+___|___|___|O  |IO |IO |O  |___|___|___
+E  |___|O  |IO |IO |IO |IO |O  |___|E  
+E  |O  |IO |IO |I  |I  |IO |IO |O  |E  
+E  |___|IO |IO |I  |IC |IO |IO |___|E  
+E  |___|O  |IO |I  |I  |IO |O  |___|E  
+___|___|___|O  |E  |E  |O  |___|___|___
+___|___|___|___|E  |E  |___|___|___|___

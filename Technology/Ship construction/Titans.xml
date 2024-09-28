@@ -44,6 +44,14 @@
   <TroopsUnlocked />
   <HullsUnlocked>
 	<UnlockedHull>
+      <Name>vulcan/Vul_Trankis</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
+      <Name>dominion/Dom_Devastator</Name>
+      <ShipType>dominion</ShipType>
+    </UnlockedHull>
+	<UnlockedHull>
       <Name>Terran/Fed_Sovereign</Name>
       <ShipType>fed</ShipType>
     </UnlockedHull>

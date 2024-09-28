@@ -1,0 +1,38 @@
+Version=1
+HullName=vulcan/Vul_Aerak
+VisibleName=Aerak Class
+Role=freighter
+Style=vulcan
+Size=8,24
+MeshOffset=0,0
+IconPath=ShipIcons/Vul_Aerak
+ModelPath=mod Model/vulcan/Vul_Aerak
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|I  |I  |___|___|___
+___|___|___|I  |I  |___|___|___
+___|___|___|I  |I  |___|___|___
+___|___|___|I  |I  |___|___|___
+___|___|I  |I  |I  |I  |___|___
+___|___|I  |I  |I  |I  |___|___
+___|___|I  |I  |I  |I  |___|___
+___|___|I  |I  |I  |I  |___|___
+___|I  |I  |I  |I  |I  |I  |___
+I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |I  |I  |I  |I  
+I  |I  |I  |I  |IC |I  |I  |I  
+E  |I  |I  |I  |I  |I  |I  |E  
+E  |I  |I  |I  |I  |I  |I  |E  
+E  |I  |I  |I  |I  |I  |I  |E  
+E  |IO |IO |I  |I  |IO |IO |E  
+E  |IO |IO |I  |I  |IO |IO |E  
+E  |I  |I  |I  |I  |I  |I  |E  
+E  |___|I  |I  |I  |I  |___|E  
+E  |___|I  |I  |I  |I  |___|E  
+E  |___|I  |I  |I  |I  |___|E  
+E  |___|I  |I  |I  |I  |___|E  
+___|___|___|E  |E  |___|___|___

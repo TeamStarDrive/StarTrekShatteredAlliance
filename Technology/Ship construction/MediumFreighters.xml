@@ -21,6 +21,18 @@
   <TroopsUnlocked />
   <HullsUnlocked>
   <UnlockedHull>
+      <Name>vulcan/Vul_Vysis</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>vulcan/Vul_Aerak</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>dominion/Dom_Minion</Name>
+      <ShipType>dominion</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
       <Name>FreeBorg/Borg_Distributor</Name>
       <ShipType>FreeBorg</ShipType>
     </UnlockedHull>

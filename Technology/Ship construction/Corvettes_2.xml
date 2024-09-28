@@ -18,6 +18,26 @@
   <TroopsUnlocked />
   <HullsUnlocked>
     <UnlockedHull>
+      <Name>vulcan/Vul_TPlanna</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>vulcan/Vul_Srol</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>vulcan/Vul_Sovar</Name>
+      <ShipType>vulcan</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>dominion/Dom_Pillager</Name>
+      <ShipType>dominion</ShipType>
+    </UnlockedHull>
+  <UnlockedHull>
+      <Name>dominion/Dom_Insidious</Name>
+      <ShipType>dominion</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
       <Name>Vulfen/Type V</Name>
       <ShipType>Vulfen</ShipType>
     </UnlockedHull>
