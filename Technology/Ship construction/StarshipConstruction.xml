@@ -195,13 +195,17 @@
       <ShipType>vulcan</ShipType>
       <Name>vulcan/Vul_Karan</Name>
     </UnlockedHull>
-<UnlockedHull>
+  <UnlockedHull>
       <ShipType>dominion</ShipType>
       <Name>Terran/Shuttle</Name>
     </UnlockedHull>
   <UnlockedHull>
       <ShipType>dominion</ShipType>
       <Name>dominion/Dom_Horda</Name>
+    </UnlockedHull>
+  <UnlockedHull>
+      <ShipType>dominion</ShipType>
+      <Name>Misc/HaulerSmall</Name>
     </UnlockedHull>
   </HullsUnlocked>
 </Technology>

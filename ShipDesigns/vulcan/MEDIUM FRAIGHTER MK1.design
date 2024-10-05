@@ -1,0 +1,63 @@
+Version=1
+Name=MEDIUM FRAIGHTER MK1
+Hull=vulcan/Vul_Aerak
+Role=freighter
+ModName=Star Trek
+Style=vulcan
+Size=8,24
+GridCenter=4,12
+DefaultCombatState=Artillery
+ShipCategory=Civilian
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=BasicCargoHold;MediumCargoHold;Cockpit;Sensor1x2;Fusion Reactor;FrigateEngine;Shield_1KW;WarpEngine_2x2;CombatEngine_2x1
+Modules=45
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0
+4,0;0
+3,1;1;2,2
+3,3;1;2,2
+2,4;0
+5,4;0
+2,5;1;2,2
+4,5;1;2,2
+2,7;1;2,2
+4,7;1;2,2
+1,8;0
+6,8;0
+0,9;1;2,2
+2,9;1;2,2
+4,9;1;2,2
+6,9;1;2,2
+0,11;1;2,2
+2,11;0
+3,11;2
+4,11;3;2,1
+6,11;1;2,2
+2,12;4;2,2
+4,12;4;2,2
+0,13;5;2,2
+6,13;5;2,2
+2,14;6;2,2
+4,14;1;2,2
+0,15;5;2,2
+6,15;5;2,2
+2,16;1;2,2
+4,16;1;2,2
+0,17;7;2,2
+6,17;7;2,2
+2,18;1;2,2
+4,18;1;2,2
+0,19;8;1,2;90;2
+7,19;8;1,2;90;2
+2,20;1;2,2
+4,20;1;2,2
+0,21;8;1,2;90;2
+7,21;8;1,2;90;2
+2,22;0
+3,22;8;1,2;90;2
+4,22;8;1,2;90;2
+5,22;0

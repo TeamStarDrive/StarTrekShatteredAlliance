@@ -1,0 +1,33 @@
+Version=1
+Name=Vanik Class mk1
+Hull=vulcan/Vul_Vanik
+Role=fighter
+ModName=Star Trek
+Style=vulcan huls
+Size=4,7
+GridCenter=2,4
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=PowerSolar;primative_disrupter_cannon;Cockpit;Fighter_Shield;NuclearReactorSmall;Engine;WarpEngine_1x1;BasicFuelCell;Maneuvering_Thruster_1x1
+Modules=15
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0
+2,0;0
+1,1;0
+2,1;1;1,2
+1,2;2
+1,3;3
+2,3;4
+0,4;5
+1,4;6
+2,4;5
+3,4;5
+1,5;7
+2,5;8
+1,6;0
+2,6;0

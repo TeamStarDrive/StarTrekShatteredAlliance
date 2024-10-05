@@ -7,7 +7,7 @@
 	<TraitName>Efficient Metabolism</TraitName>
     <TraitIndex>32</TraitIndex>
     <Category>Physical</Category>
-    <Cost>-15</Cost>
+    <Cost>2</Cost>
     <Description>33</Description>
     <ConsumptionModifier>-0.15</ConsumptionModifier>
     <Excludes>
@@ -420,7 +420,7 @@
 	  <TraitName>Aquatic</TraitName>
       <TraitIndex>4986</TraitIndex>
       <Category>Environment</Category>
-      <Cost>2</Cost>
+      <Cost>1</Cost>
       <Description>4987</Description>
 	  <Aquatic>1</Aquatic> <!-- This only changes the race description -->
 	  <PreferredEnv>Oceanic</PreferredEnv>  
@@ -457,7 +457,7 @@
 	  <TraitName>Terran Homeworld</TraitName>
 	  <TraitIndex>4970</TraitIndex>
 	  <Category>Environment</Category>
-	  <Cost>2</Cost>
+	  <Cost>1</Cost>
 	  <Description>4971</Description>
 	  <PreferredEnv>Terran</PreferredEnv>  
 	  <EnvTerranMultiplier>1.5</EnvTerranMultiplier>
@@ -476,7 +476,7 @@
 	  <TraitName>Oceanic Homeworld</TraitName>
 	  <TraitIndex>4972</TraitIndex>
 	  <Category>Environment</Category>
-	  <Cost>2</Cost>
+	  <Cost>1</Cost>
 	  <Description>4973</Description>
 	  <PreferredEnv>Oceanic</PreferredEnv>  
 	  <EnvOceanicMultiplier>1.5</EnvOceanicMultiplier>
@@ -495,7 +495,7 @@
 	  <TraitName>Steppe Homeworld</TraitName>
 	  <TraitIndex>4974</TraitIndex>
 	  <Category>Environment</Category>
-	  <Cost>2</Cost>
+	  <Cost>1</Cost>
 	  <Description>4975</Description>
 	  <PreferredEnv>Steppe</PreferredEnv>  
 	  <EnvSteppeMultiplier>1.5</EnvSteppeMultiplier>
@@ -514,7 +514,7 @@
 	  <TraitName>Tundra Homeworld</TraitName>
 	  <TraitIndex>4976</TraitIndex>
 	  <Category>Environment</Category>
-	  <Cost>2</Cost>
+	  <Cost>1</Cost>
 	  <Description>4977</Description>
 	  <PreferredEnv>Tundra</PreferredEnv>  
 	  <EnvTundraMultiplier>1.5</EnvTundraMultiplier>
@@ -533,7 +533,7 @@
 	  <TraitName>Swamp Homeworld</TraitName>
 	  <TraitIndex>4978</TraitIndex>
 	  <Category>Environment</Category>
-	  <Cost>2</Cost>
+	  <Cost>1</Cost>
 	  <Description>4979</Description>
 	  <PreferredEnv>Swamp</PreferredEnv>  
 	  <EnvSwampMultiplier>1.5</EnvSwampMultiplier>
@@ -552,7 +552,7 @@
 	  <TraitName>Desert Homeworld</TraitName>
 	  <TraitIndex>4980</TraitIndex>
 	  <Category>Environment</Category>
-	  <Cost>2</Cost>
+	  <Cost>1</Cost>
 	  <Description>4981</Description>
 	  <PreferredEnv>Desert</PreferredEnv>  
 	  <EnvDesertMultiplier>1.5</EnvDesertMultiplier>
@@ -571,7 +571,7 @@
 	  <TraitName>Ice Homeworld</TraitName>
 	  <TraitIndex>4982</TraitIndex>
 	  <Category>Environment</Category>
-	  <Cost>2</Cost>
+	  <Cost>1</Cost>
 	  <Description>4983</Description>
 	  <PreferredEnv>Ice</PreferredEnv>  
 	  <EnvIceMultiplier>1.5</EnvIceMultiplier>

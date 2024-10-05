@@ -68,19 +68,61 @@
     <Adj2>simian</Adj2>
     <HomeSystemName>Romulan</HomeSystemName>
     <HomeworldName>Romulus</HomeworldName>
-    <FlagIndex>9</FlagIndex>
+    <FlagIndex>75</FlagIndex>
     <R>400</R>
     <G>740</G>
     <B>303</B>
+  <PersonalityTraitsWeights>
+	<string>Aggressive</string>
+    <string>Ruthless</string>
+	<string>Ruthless</string>
+	<string>Ruthless</string>
+	<string>Xenophobic</string>
+	<string>Xenophobic</string>
+	<string>Xenophobic</string>
+    <string>Cunning</string>
+	<string>Cunning</string>
+	<string>Cunning</string>
+	<string>Cunning</string>	
+	<string>Honorable</string>	
+	<string>Honorable</string>	
+    <string>Pacifist</string>
+  </PersonalityTraitsWeights>
+
+  <EconomicTraitsWeights>
+    <string>Technologists</string>
+	<string>Technologists</string>
+	<string>Technologists</string>
+	<string>Technologists</string>
+	<string>Industrialists</string>
+	<string>Industrialists</string>
+	<string>Generalists</string>
+	<string>Generalists</string>
+	<string>Militarists</string>
+	<string>Militarists</string>
+	<string>Expansionists</string>
+	<string>Expansionists</string>
+	<string>Expansionists</string>
+  </EconomicTraitsWeights>
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>
 				<string>Smart</string>
-				<string>Corrupt</string>
-				<string>Mercantile</string>
+				<string>Alluring</string>
+				<string>Militaristic</string>
 				<string>Alluring</string>
 				<string>Duplicitous</string>
-			</TraitOptions>			
+				<string>Huge Homeworld</string>
+				<string>Tundra Homeworld</string>
+				<string>Skilled Engineers</string>
+				<string>Meticulous</string>
+				<string>Prototype Flagship</string>
+				<string>Salvagers</string>
+				<string>Research Adversaries</string>
+				<string>Small Homeworld</string>
+				<string>Less Fertile</string>
+				<string>Corrupt</string>
+			</TraitOptions>
 		</TraitSet>
 	</TraitSets>	
   </Traits>

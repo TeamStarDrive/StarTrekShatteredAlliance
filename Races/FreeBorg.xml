@@ -51,7 +51,7 @@
 	<string>Ruthless</string>
 	<string>Ruthless</string>
 	<string>Ruthless</string>
-	<string>Xenophobic</string>
+	<string>Aggressive</string>
 	<string>Xenophobic</string>
     <string>Cunning</string>
 	<string>Cunning</string>
@@ -93,19 +93,15 @@
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>
-				<string>Efficient Metabolism</string>
-				<string>Fertile</string>
-				<string>Timid</string>
-				<string>Militaristic</string>
-				<string>Small Homeworld</string>
+				<string>Repulsive</string>
 				<string>Polluted Homeworld</string>
-				<string>Blind</string>
-				<string>Industrious</string>
-				<string>Corrupt</string>
-				<string>Industrialized Homeworld</string>
+				<string>Naval Tradition</string>
+				<string>Efficient</string>
+				<string>Ponderous</string>
+				<string>Smart</string>
 				<string>Cybernetic</string>
-				<string>Prototype Flagship</string>
 				<string>Honest</string>
+				<string>Savage</string>
 			</TraitOptions>	
 		</TraitSet>
 	</TraitSets>	

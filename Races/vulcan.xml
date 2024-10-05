@@ -24,20 +24,14 @@
   
   <PersonalityTraitsWeights>
 	<string>Aggressive</string>
-	<string>Aggressive</string>
-	<string>Aggressive</string>
-    <string>Ruthless</string>
 	<string>Ruthless</string>
-	<string>Ruthless</string>
-	<string>Xenophobic</string>
-	<string>Xenophobic</string>
     <string>Cunning</string>
-	<string>Cunning</string>
-	<string>Cunning</string>
     <string>Honorable</string>	
 	<string>Honorable</string>	
 	<string>Honorable</string>	
     <string>Pacifist</string>
+	<string>Pacifist</string>
+	<string>Pacifist</string>
   </PersonalityTraitsWeights>  
   
   <!-- Rebel Faction data.-->
@@ -64,13 +58,15 @@
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>
-				<string>Prototype Flagship</string>
-				<string>Militaristic</string>
+				<string>Reflexes</string>
+				<string>Meticulous</string>
 				<string>Astronomers</string>
-				<string>Huge Homeworld</string>
-				<string>Polluted Homeworld</string>
-				<string>Corrupt</string>
-				<string>Industrious</string>
+				<string>Small Homeworld</string>
+				<string>Desert Homeworld</string>
+				<string>Spiritual</string>
+				<string>Orbital Constructors</string>
+				<string>Smart</string>
+				<string>Efficient Metabolism</string>
 			</TraitOptions>		
 		</TraitSet>
 	</TraitSets>	

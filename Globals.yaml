@@ -2,10 +2,10 @@
 # mods will inherit these values as defaults
 Globals:
   # game start settings
-  MaxOpponents: 13
+  MaxOpponents: 15
   DefaultNumOpponents: 4
   TurnTimer: 5 # default time in seconds for a single turn
-  TraitPoints: 50 # initial number of trait points. Default is 8
+  TraitPoints: 10 # initial number of trait points. Default is 8
 
   # gameplay modifiers
   ShipDestroyThreshold: 0.4 # ships with internal slots below this ratio will Die
@@ -74,7 +74,7 @@ Globals:
     FormatVersion: 1
     SupportedBlackBoxVersions: "main,mars-1.50,mars:1.50
     IconPath: mod_icon.png
-    Description: "5 STARTREK RACES THEIR SHIPS AND WEAPONS."
+    Description: "7 STARTREK RACES THEIR SHIPS AND WEAPONS."
     Author: "Threepwood and tbh mostly The StarDrive+ Team"
     UseVanillaShips: false
     UseVanillaTechs: false

@@ -25,14 +25,14 @@ I  |I  |I  |I  |I  |I  |I  |I
 I  |I  |I  |I  |I  |I  |I  |I  
 I  |I  |I  |I  |I  |I  |I  |I  
 I  |I  |I  |I  |IC |I  |I  |I  
-E  |I  |I  |I  |I  |I  |I  |E  
-E  |I  |I  |I  |I  |I  |I  |E  
-E  |I  |I  |I  |I  |I  |I  |E  
-E  |IO |IO |I  |I  |IO |IO |E  
-E  |IO |IO |I  |I  |IO |IO |E  
-E  |I  |I  |I  |I  |I  |I  |E  
+E  |E  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |E  |E  
+E  |E  |I  |I  |I  |I  |E  |E  
+E  |E  |IO |I  |I  |IO |E  |E  
+E  |E  |IO |I  |I  |IO |E  |E  
+E  |E  |I  |I  |I  |I  |E  |E  
 E  |___|I  |I  |I  |I  |___|E  
 E  |___|I  |I  |I  |I  |___|E  
 E  |___|I  |I  |I  |I  |___|E  
-E  |___|I  |I  |I  |I  |___|E  
+E  |___|I  |E  |E  |I  |___|E  
 ___|___|___|E  |E  |___|___|___

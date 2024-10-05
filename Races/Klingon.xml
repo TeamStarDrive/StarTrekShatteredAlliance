@@ -53,10 +53,12 @@
 	<string>Ruthless</string>
 	<string>Ruthless</string>
 	<string>Xenophobic</string>
-	<string>Xenophobic</string>
-	<string>Xenophobic</string>
     <string>Cunning</string>
-    <string>Honorable</string>	
+    <string>Honorable</string>
+    <string>Honorable</string>
+    <string>Honorable</string>
+    <string>Honorable</string>
+    <string>Honorable</string>
     <string>Pacifist</string>
   </PersonalityTraitsWeights>
   
@@ -94,14 +96,18 @@
 				<string>Pack</string>
 				<string>Prototype Flagship</string>
 				<string>Militaristic</string>
-				<string>Haphazard Engineers</string>
+				<string>Huge Homeworld</string>
 				<string>Naval Tradition</string>
-				<string>Efficient</string>
+				<string>Efficient Metabolism</string>
 				<string>Dumb</string>
-				<string>Ponderous</string>
+				<string>Research Adversaries</string>
 				<string>Repulsive</string>
+				<string>Honest</string>
+				<string>Savage</string>
+				<string>Polluted Homeworld</string>
 				<string>Eagle Eyed</string>
-				<string>Industrious</string>		
+				<string>Reflexes</string>		
+				<string>Terran Homeworld</string>		
 			</TraitOptions>	
 		</TraitSet>
 	</TraitSets>	

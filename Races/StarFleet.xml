@@ -24,12 +24,9 @@
   
   <PersonalityTraitsWeights>
 	<string>Aggressive</string>
-	<string>Aggressive</string>
-	<string>Aggressive</string>
     <string>Ruthless</string>
 	<string>Ruthless</string>
 	<string>Ruthless</string>
-	<string>Xenophobic</string>
 	<string>Xenophobic</string>
     <string>Cunning</string>
 	<string>Cunning</string>
@@ -38,8 +35,23 @@
 	<string>Honorable</string>	
 	<string>Honorable</string>	
     <string>Pacifist</string>
-  </PersonalityTraitsWeights>  
-  
+  </PersonalityTraitsWeights>
+
+  <EconomicTraitsWeights>
+    <string>Technologists</string>
+	<string>Technologists</string>
+	<string>Technologists</string>
+	<string>Technologists</string>
+	<string>Industrialists</string>
+	<string>Industrialists</string>
+	<string>Generalists</string>
+	<string>Generalists</string>
+	<string>Militarists</string>
+	<string>Militarists</string>
+	<string>Expansionists</string>
+	<string>Expansionists</string>
+	<string>Expansionists</string>
+  </EconomicTraitsWeights>
   <!-- Rebel Faction data.-->
   <RebelName>Confederate Rebels</RebelName>
   <RebelSing>Confederate</RebelSing>
@@ -57,7 +69,7 @@
     <Adj2>simian</Adj2>
     <HomeSystemName>47 Ursae Majoris</HomeSystemName>
     <HomeworldName>Coyote</HomeworldName>
-    <FlagIndex>4</FlagIndex>
+    <FlagIndex>77</FlagIndex>
     <R>406</R>
     <G>306</G>
     <B>506</B>
@@ -65,12 +77,15 @@
 		<TraitSet>
 			<TraitOptions>
 				<string>Prototype Flagship</string>
-				<string>Militaristic</string>
-				<string>Astronomers</string>
-				<string>Huge Homeworld</string>
-				<string>Polluted Homeworld</string>
-				<string>Corrupt</string>
 				<string>Industrious</string>
+				<string>Smart</string>
+				<string>Efficient</string>
+				<string>Skilled Engineers</string>
+				<string>Terran Homeworld</string>
+				<string>Honest</string>
+				<string>Compensation Plan</string>
+				<string>Explorers</string>
+				<string>Small Homeworld</string>
 			</TraitOptions>		
 		</TraitSet>
 	</TraitSets>	

@@ -24,22 +24,36 @@
   
   <PersonalityTraitsWeights>
 	<string>Aggressive</string>
-	<string>Aggressive</string>
-	<string>Aggressive</string>
     <string>Ruthless</string>
 	<string>Ruthless</string>
 	<string>Ruthless</string>
 	<string>Xenophobic</string>
 	<string>Xenophobic</string>
+	<string>Xenophobic</string>
     <string>Cunning</string>
 	<string>Cunning</string>
 	<string>Cunning</string>
-    <string>Honorable</string>	
+	<string>Cunning</string>	
 	<string>Honorable</string>	
 	<string>Honorable</string>	
     <string>Pacifist</string>
-  </PersonalityTraitsWeights>  
-  
+  </PersonalityTraitsWeights>
+
+  <EconomicTraitsWeights>
+    <string>Technologists</string>
+	<string>Technologists</string>
+	<string>Technologists</string>
+	<string>Technologists</string>
+	<string>Industrialists</string>
+	<string>Industrialists</string>
+	<string>Generalists</string>
+	<string>Generalists</string>
+	<string>Militarists</string>
+	<string>Militarists</string>
+	<string>Expansionists</string>
+	<string>Expansionists</string>
+	<string>Expansionists</string>
+  </EconomicTraitsWeights>
   <!-- Rebel Faction data.-->
   <RebelName>Confederate Rebels</RebelName>
   <RebelSing>Confederate</RebelSing>
@@ -57,20 +71,25 @@
     <Adj2>simian</Adj2>
     <HomeSystemName>Omarion</HomeSystemName>
     <HomeworldName>The Great Link</HomeworldName>
-    <FlagIndex>6</FlagIndex>
-    <R>406</R>
+    <FlagIndex>10</FlagIndex>
+    <R>306</R>
     <G>306</G>
-    <B>506</B>
+    <B>706</B>
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>
 				<string>Prototype Flagship</string>
-				<string>Militaristic</string>
-				<string>Astronomers</string>
-				<string>Huge Homeworld</string>
-				<string>Polluted Homeworld</string>
-				<string>Corrupt</string>
-				<string>Industrious</string>
+				<string>Savage</string>
+				<string>Reflexes</string>
+				<string>Mercantile</string>
+				<string>Oceanic Homeworld</string>
+				<string>Gluttonous</string>
+				<string>Pack</string>
+				<string>Salvagers</string>
+				<string>Alluring</string>
+				<string>Gluttonous</string>
+				<string>Less Fertile</string>
+				<string>Meticulous</string>
 			</TraitOptions>		
 		</TraitSet>
 	</TraitSets>	

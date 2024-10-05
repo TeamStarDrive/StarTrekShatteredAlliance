@@ -23,23 +23,37 @@
   <ThrustColor1B>222</ThrustColor1B>
   
   
-  <PersonalityTraitsWeights>
-	<string>Aggressive</string>
+   <PersonalityTraitsWeights>
 	<string>Aggressive</string>
 	<string>Aggressive</string>
     <string>Ruthless</string>
 	<string>Ruthless</string>
 	<string>Ruthless</string>
 	<string>Xenophobic</string>
-	<string>Xenophobic</string>
     <string>Cunning</string>
 	<string>Cunning</string>
 	<string>Cunning</string>
-    <string>Honorable</string>	
-	<string>Honorable</string>	
+    <string>Cunning</string>	
+	<string>Ruthless</string>	
 	<string>Honorable</string>	
     <string>Pacifist</string>
-  </PersonalityTraitsWeights>  
+  </PersonalityTraitsWeights>
+
+  <EconomicTraitsWeights>
+    <string>Technologists</string>
+	<string>Technologists</string>
+	<string>Technologists</string>
+	<string>Technologists</string>
+	<string>Industrialists</string>
+	<string>Industrialists</string>
+	<string>Generalists</string>
+	<string>Generalists</string>
+	<string>Militarists</string>
+	<string>Militarists</string>
+	<string>Expansionists</string>
+	<string>Expansionists</string>
+	<string>Expansionists</string>
+  </EconomicTraitsWeights>
   
   <!-- Rebel Faction data.-->
   <RebelName>Confederate Rebels</RebelName>
@@ -58,20 +72,26 @@
     <Adj2>simian</Adj2>
     <HomeSystemName>Cardassia</HomeSystemName>
     <HomeworldName>Cardassia Prime</HomeworldName>
-    <FlagIndex>8</FlagIndex>
+    <FlagIndex>76</FlagIndex>
     <R>681</R>
     <G>114</G>
     <B>306</B>
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>
-				<string>Prototype Flagship</string>
-				<string>Militaristic</string>
-				<string>Astronomers</string>
-				<string>Huge Homeworld</string>
-				<string>Polluted Homeworld</string>
-				<string>Corrupt</string>
 				<string>Industrious</string>
+				<string>Militaristic</string>
+				<string>Efficient Metabolism</string>
+				<string>Naval Tradition</string>
+				<string>Industrialized Homeworld</string>
+				<string>Corrupt</string>
+				<string>Duplicitous</string>
+				<string>Steppe Homeworld</string>
+				<string>Salvagers</string>
+				<string>Ponderous</string>
+				<string>Timid</string>
+				<string>Haphazard Engineers</string>
+				<string>Prototype Flagship</string>
 			</TraitOptions>		
 		</TraitSet>
 	</TraitSets>	
