@@ -1,0 +1,54 @@
+Version=1
+Name=Hellis Class mk7
+Hull=vulcan/Vul_Hellis
+Role=corvette
+ModName=Star Trek
+Style=vulcan
+Size=12,12
+GridCenter=6,6
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=WarpEngine_1x1;CombatEngine_2x1;vul_particalPhasor_beam_mk1;Crystal_Armor_Small;prototype_fighter_shealds;phased_cannon;energy_torpedo_mk2;Fabricator;warpcore_2x2;Amplifier;Cockpit
+Modules=36
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+0,0;0
+11,0;0
+0,1;1;1,2;90;2
+11,1;1;1,2;90;2
+0,3;2;1,3
+11,3;2;1,3
+4,4;1;1,2;90;2
+5,4;3
+6,4;3
+7,4;1;1,2;90;2
+5,5;4;1,2
+6,5;4;1,2
+0,6;5;2,2;300
+2,6;6;2,4
+4,6;1;1,2;90;2
+7,6;1;1,2;90;2
+8,6;7;2,2
+10,6;5;2,2;75
+5,7;8;2,2
+1,8;3
+4,8;0
+7,8;0
+8,8;9
+9,8;9
+10,8;3
+4,9;0
+5,9;10
+6,9;10
+7,9;0
+8,9;3
+9,9;3
+4,10;0
+5,10;1;2,1
+7,10;0
+4,11;0
+7,11;0

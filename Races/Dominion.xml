@@ -5,7 +5,7 @@
   <DiplomacyDialogPath>Dominion</DiplomacyDialogPath>
   <StartingShip>dominion starting ship mk1</StartingShip>
   <StartingScout>dominion scout mk1</StartingScout>
-  <PrototypeShip>dominion starting ship mk1</PrototypeShip>
+  <PrototypeShip>dominion prototype mk1</PrototypeShip>
   <DefaultSmallTransport>Small Transport</DefaultSmallTransport>
   <DefaultTroopShip>Human Troop</DefaultTroopShip>
   <DefaultColonyShip>Colony Ship</DefaultColonyShip>

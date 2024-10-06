@@ -1,0 +1,33 @@
+Version=1
+Name=Varel Class mk4
+Hull=vulcan/Vul_Varel
+Role=fighter
+ModName=Star Trek
+Style=vulcan
+Size=4,10
+GridCenter=2,5
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Crystal_Armor_Small;Amplifier;PowerSolar;prototype_fighter_shealds;CombatEngine_2x1;WarpEngine_1x1;small_antimatter_reactor;Cockpit;vul_particalPhasor_beam_mk2
+Modules=15
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0
+2,0;0
+1,1;1
+2,1;2
+1,2;3;1,2
+2,2;3;1,2
+0,4;4;2,1
+2,4;4;2,1
+0,5;5
+1,5;6
+2,5;6
+3,5;5
+1,6;7
+2,6;1
+1,7;8;2,3

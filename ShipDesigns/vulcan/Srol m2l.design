@@ -1,0 +1,49 @@
+Version=1
+Name=Srol m2l
+Hull=vulcan/Vul_Srol
+Role=corvette
+ModName=Star Trek
+Style=vulcan huls
+Size=8,16
+GridCenter=4,8
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=CompositeAlloys Med;advanced_energy_torpoedo;CompositeAlloys Small;Cockpit;warpcore_2x2;CombatEngine_2x1;WarpEngine_1x1;phased_cannon
+Modules=31
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0;2,2
+3,2;1;2,4
+2,3;2
+5,3;2
+2,4;2
+5,4;2
+2,5;2
+5,5;2
+2,6;2
+3,6;3
+4,6;3
+5,6;2
+2,7;2
+3,7;4;2,2
+5,7;2
+2,8;2
+5,8;2
+0,9;5;2,1
+2,9;5;2,1
+4,9;5;2,1
+6,9;5;2,1
+0,10;5;2,1
+2,10;5;2,1
+4,10;5;2,1
+6,10;5;2,1
+0,11;6
+3,11;7;2,2;270
+7,11;6
+3,13;7;2,2;90
+3,15;2
+4,15;2

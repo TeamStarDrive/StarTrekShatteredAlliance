@@ -625,5 +625,14 @@
       <DialogType>JoinWar_OK</DialogType>
       <Default>We will agree to your proposal. Much profit can be made in a war with TAREMP. Save some worlds for us!</Default>
     </DialogLine>
+<!-- Treaties With Low Trust -->
+    <DialogLine>
+      <DialogType>TRUST_LOW_ALLIANCE</DialogType>
+      <Default>The Council is worried that you are not to be trusted as an ally, SING.</Default>
+    </DialogLine>              
+    <DialogLine>
+      <DialogType>TRUST_LOW_OPEN_BORDERS</DialogType>
+      <Default>The Council has decided to revoke our Open Borders Treaty as we have trust issues with your empire.</Default>
+    </DialogLine>
   </Dialogs>
 </DiplomacyDialog>
