@@ -33,7 +33,7 @@
   <!-- for Hangar items -->
   <hangarShipUID>Vulcan Scout</hangarShipUID>
   <hangerTimerConstant>120</hangerTimerConstant>
-  <MaximumHangarShipSize>44</MaximumHangarShipSize>
+  <MaximumHangarShipSize>46</MaximumHangarShipSize>
   <PermittedHangarRoles>
     <string>fighter</string>
     <string>corvette</string>

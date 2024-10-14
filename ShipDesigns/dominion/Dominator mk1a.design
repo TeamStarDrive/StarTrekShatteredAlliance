@@ -1,0 +1,52 @@
+Version=1
+Name=Dominator mk1a
+Hull=dominion/Dom_Dominator
+Role=corvette
+ModName=Star Trek
+Style=dominion
+Size=10,8
+GridCenter=5,4
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=BasicFuelCell;BlueLaser1x2;Reinforced Bulkhead;Engine;WarpEngine_1x1;Fighter_Shield;Cockpit;NuclearReactorSmall;PowerConduit;NuclearReactorMed
+Modules=34
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+4,0;0
+5,0;0
+3,1;1;1,2
+4,1;2;2,2
+6,1;1;1,2
+0,2;3
+2,2;1;1,2
+7,2;1;1,2
+9,2;3
+0,3;4
+1,3;0
+3,3;5
+4,3;6
+5,3;7
+6,3;5
+8,3;0
+9,3;4
+0,4;3
+2,4;8
+3,4;7
+4,4;9;2,2
+6,4;7
+7,4;8
+9,4;3
+0,5;3
+2,5;0
+3,5;1;1,2
+6,5;1;1,2
+7,5;0
+9,5;3
+4,6;4
+5,6;4
+4,7;3
+5,7;3

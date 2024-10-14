@@ -39,12 +39,14 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>390</DamageAmount>
+  <DamageAmount>690</DamageAmount>
   <ProjectileSpeed>4200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>1</Scale>
   <DamageRadius>10</DamageRadius>
   <explodes>false</explodes>
+  <EffectVsArmor>2</EffectVsArmor>
+  <EffectVsArmor>1</EffectVsArmor>
   <ProjectileTexturePath>projTear_01_orange</ProjectileTexturePath>
   <ModelPath>projTear</ModelPath>
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>

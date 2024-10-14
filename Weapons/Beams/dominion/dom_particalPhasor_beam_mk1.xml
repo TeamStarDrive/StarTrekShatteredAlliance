@@ -33,10 +33,9 @@
   <BeamTexture>dom_polaronbeam</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>14</DamageAmount>
+  <DamageAmount>17</DamageAmount>
   <BeamThickness>10</BeamThickness>
   <BeamPowerCostPerSecond>187</BeamPowerCostPerSecond>
-  <EffectVsArmor>1.15</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>
  
 

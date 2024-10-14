@@ -20,13 +20,10 @@
   
   <!-- Projectile Information -->
   <BeamTexture>dom_polaronbeam</BeamTexture>
-  <EffectVsArmor>1.25</EffectVsArmor> 
-
-  <DamageAmount>70</DamageAmount>
+  <DamageAmount>110</DamageAmount>
   <BeamThickness>30</BeamThickness>
   <BeamPowerCostPerSecond>1720</BeamPowerCostPerSecond>
-  <ShieldPenChance>20</ShieldPenChance>
-  <EffectVsArmor>2.20</EffectVsArmor>
+  <ShieldPenChance>40</ShieldPenChance>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

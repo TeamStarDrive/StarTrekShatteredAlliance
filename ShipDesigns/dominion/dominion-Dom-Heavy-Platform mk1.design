@@ -1,0 +1,44 @@
+Version=1
+Name=dominion-Dom-Heavy-Platform mk1
+Hull=dominion/Dom_Heavy_Platform
+Role=platform
+ModName=Star Trek
+Style=Draylok
+Size=12,8
+GridCenter=6,4
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=SteelArmorSmall;FighterBay;ORBITAL_SHEAILD_2X2;Sensor1x2;Fusion Reactor;Cockpit
+Modules=26
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0
+4,0;0
+7,0;0
+8,0;0
+0,1;0
+1,1;1;4,3;90;2;DynamicLaunch
+5,1;2;2,1;90;2
+7,1;1;4,3;90;2;DynamicLaunch
+11,1;0
+0,2;0
+5,2;3;2,1
+11,2;0
+5,3;4;2,2
+1,4;1;4,3;90;2;DynamicLaunch
+7,4;1;4,3;90;2;DynamicLaunch
+0,5;0
+5,5;5
+6,5;5
+11,5;0
+0,6;0
+5,6;2;2,1;90;2
+11,6;0
+3,7;0
+4,7;0
+7,7;0
+8,7;0

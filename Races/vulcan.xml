@@ -5,7 +5,7 @@
   <DiplomacyDialogPath>Vulcan</DiplomacyDialogPath>
   <StartingShip>vulcan starting ship mk1</StartingShip>
   <StartingScout>Karan Class scout mk1</StartingScout>
-  <PrototypeShip>vulcan starting ship mk1</PrototypeShip>
+  <PrototypeShip>vulcan prototype mk1</PrototypeShip>
   <DefaultSmallTransport>Small Transport</DefaultSmallTransport>
   <DefaultTroopShip>Human Troop</DefaultTroopShip>
   <DefaultColonyShip>Colony Ship</DefaultColonyShip>

@@ -7,6 +7,11 @@
   <NameIndex>18294</NameIndex>
   <DescriptionIndex>18295</DescriptionIndex>
   <LeadsTo />
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>DysonSwarm1</UID>
+    </LeadsToTech>
+  </LeadsTo>
   <ModulesUnlocked>
     <UnlockedMod>
       <ModuleUID>mainbattery_3x3</ModuleUID>

@@ -45,6 +45,7 @@
   <Scale>1.3</Scale>
   <DamageRadius>10</DamageRadius>
   <explodes>false</explodes>
+  <EffectVsArmor>4</EffectVsArmor>
   <ProjectileTexturePath>projTear_01_orange</ProjectileTexturePath>
   <ModelPath>projTear</ModelPath>
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
