@@ -1,0 +1,65 @@
+Version=1
+Name=Opteris-Soldier mk3
+Hull=Opteris/Soldier
+Role=frigate
+ModName=Star Trek
+Style=Opteris
+Size=10,17
+GridCenter=5,9
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Ceramic Armor Small;Ceramic Armor Med;Shield_1KW;MagneticTurret_2x2;PowerConduit;Amplifier;OrdnanceLockerSmall;Extreme Fusion Reactor;Bridge;CombatEngine_2x1;WarpEngine_2x2
+Modules=47
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+4,0;0
+5,0;0
+3,1;1;2,2
+5,1;1;2,2
+3,3;0
+4,3;2;2,2
+6,3;0
+2,4;1;2,2
+6,4;1;2,2
+4,5;2;2,2
+0,6;1;2,2
+2,6;3;2,2
+6,6;3;2,2
+8,6;1;2,2
+4,7;4
+5,7;5
+0,8;0
+2,8;6
+3,8;5
+4,8;7;2,2
+6,8;5
+7,8;6
+9,8;0
+0,9;0
+2,9;6
+3,9;5
+6,9;5
+7,9;6
+9,9;0
+0,10;0
+2,10;3;2,2;285
+4,10;7;2,2
+6,10;3;2,2;75
+9,10;0
+2,12;0
+3,12;2;2,2
+5,12;8;2,2
+7,12;0
+2,13;0
+7,13;0
+2,14;9;2,1
+4,14;10;2,2
+6,14;9;2,1
+2,15;9;2,1
+6,15;9;2,1
+3,16;9;2,1
+5,16;9;2,1

@@ -30,7 +30,7 @@
   <FireCueName>sd_weapon_flakcannon_01</FireCueName>
   <DieCue>Explo1</DieCue>
   <!-- Projectile Information -->
-  <DamageAmount>550</DamageAmount>
+  <DamageAmount>950</DamageAmount>
   <Scale>1.5</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>1850</ProjectileSpeed>

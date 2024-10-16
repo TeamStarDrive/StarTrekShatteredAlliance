@@ -1,0 +1,41 @@
+Version=1
+Name=Opteris-Opteris-Heavy-Platform mk5
+Hull=Opteris/Opteris_Heavy_Platform
+Role=platform
+ModName=Star Trek
+Style=Opteris
+Size=12,8
+GridCenter=6,4
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Organic_cristal_Small;TRANSPHASIC_OWP_SHEAILD;Aegis;warpcore_2x2;Cockpit
+Modules=23
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0
+4,0;0
+7,0;1;2,2
+0,1;0
+1,1;2;6,6
+9,1;1;2,2
+11,1;0
+0,2;0
+7,2;3;2,2
+11,2;0
+9,3;4
+10,3;0
+7,4;3;2,2
+9,4;4
+10,4;0
+0,5;0
+9,5;1;2,2
+11,5;0
+0,6;0
+7,6;1;2,2
+11,6;0
+3,7;0
+4,7;0

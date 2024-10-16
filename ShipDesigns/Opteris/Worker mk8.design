@@ -1,0 +1,37 @@
+Version=1
+Name=Worker mk8
+Hull=Opteris/Worker
+Role=corvette
+ModName=Star Trek
+Style=Opteris
+Size=8,8
+GridCenter=4,5
+DefaultCombatState=AttackRuns
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=true
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=ablative_ship_armor_med;ablative_ship_armor_Small;Amplifier;warpcore_2x2;TorpedoBay_2x1;Flechette AF Turret;transphasic_fighter_shealds;CombatEngine_2x1;advanced_fighter_sheald_Amplifier;Cockpit;Maneuvering_Thruster_1x2
+Modules=19
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0;2,2
+2,1;1
+5,1;1
+1,2;1
+2,2;2
+3,2;3;2,2
+5,2;4;1,2;90;2
+6,2;1
+0,3;5;2,2;270
+2,3;6;1,2
+6,3;5;2,2;90
+3,4;7;2,1
+5,4;8;1,2;90;2
+2,5;9
+3,5;7;2,1
+2,6;10;1,2;90;2
+3,6;7;2,1
+5,6;10;1,2;90;2
+3,7;7;2,1

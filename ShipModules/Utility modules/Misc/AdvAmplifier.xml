@@ -9,25 +9,25 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Shield</ModuleType>
-    <Name>Amplifier</Name>
-    <UID>Adv_Amplifier</UID> 
+    <Name>AdvAmplifier</Name>
+    <UID>AdvAmplifier</UID> 
   <Version>2</Version>
 
     <IconTexturePath>Modules/AdvAmplifier</IconTexturePath>
-    <NameIndex>17497</NameIndex>
-    <DescriptionIndex>17499</DescriptionIndex>
+    <NameIndex>18867</NameIndex>
+    <DescriptionIndex>18868</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>8</Mass>
     <Health>12760</Health>
     <HealthMax>12760</HealthMax>
     <RepairDifficulty>6</RepairDifficulty>                          
     <!-- Power Drawn -->
-    <PowerDraw>190</PowerDraw>
+    <PowerDraw>120</PowerDraw>
     <PowerDrawAtWarp>-90</PowerDrawAtWarp>
     <!-- Armor resistance -->
     <!-- for PowerPlant Items -->
     
-    <AmplifyShields>40500</AmplifyShields>
+    <AmplifyShields>75500</AmplifyShields>
 
     <!-- Crew Reqs -->
     

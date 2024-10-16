@@ -1,0 +1,44 @@
+Version=1
+Name=Worker mk4
+Hull=Opteris/Worker
+Role=corvette
+ModName=Star Trek
+Style=Opteris
+Size=8,8
+GridCenter=4,5
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Ceramic Armor Med;Ceramic Armor Small;Fighter_Shield;Fusion Reactor;AdvancedKineticTurret;OrdnanceLockerSmall;CombatEngine_2x1;Cockpit;WarpEngine_1x1;Maneuvering_Thruster_1x1
+Modules=26
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0;2,2
+2,1;1
+5,1;1
+1,2;1
+2,2;2
+3,2;3;2,2
+5,2;2
+6,2;1
+0,3;4;2,2
+2,3;2
+5,3;2
+6,3;4;2,2
+2,4;5
+3,4;6;2,1
+5,4;2
+2,5;7
+3,5;8
+4,5;8
+5,5;5
+2,6;9
+3,6;6;2,1
+5,6;9
+2,7;9
+3,7;8
+4,7;8
+5,7;9

@@ -52,11 +52,11 @@
   <RepairDifficulty>3</RepairDifficulty>
   <Deflection>60</Deflection>              
   <!-- Armor resistance -->
-  <KineticResist>0.70</KineticResist>
-  <EnergyResist>0.70</EnergyResist>  
-  <BeamResist>0.70</BeamResist>
-  <ExplosiveResist>0.70</ExplosiveResist>      
-  <PlasmaResist>0.73</PlasmaResist>
+  <KineticResist>0.30</KineticResist>
+  <EnergyResist>0.30</EnergyResist>  
+  <BeamResist>0.30</BeamResist>
+  <ExplosiveResist>0.30</ExplosiveResist>      
+  <PlasmaResist>0.33</PlasmaResist>
 
   <!-- Description -->
   <Description>Through using Crystal materials, the mass of armor has been greatly decreased. </Description>
