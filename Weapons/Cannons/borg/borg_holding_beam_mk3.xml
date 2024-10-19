@@ -22,7 +22,7 @@
   <TroopDamageChance>9</TroopDamageChance>
   <PowerDamage>4000</PowerDamage>
   <SiphonDamage>900</SiphonDamage>
-  <EMPDamage>350</EMPDamage>
+  <EMPDamage>1650</EMPDamage>
   <ShieldPenChance>100</ShieldPenChance>
   <BeamTexture>borg_holdingbeam</BeamTexture>
   <DamageAmount>9</DamageAmount>

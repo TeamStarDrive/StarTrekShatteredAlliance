@@ -1,0 +1,29 @@
+Version=1
+Name=Ralyeh-Inquisitor mk1
+Hull=Ralyeh/Inquisitor
+Role=fighter
+ModName=Star Trek
+Style=Ralyeh
+Size=4,4
+GridCenter=2,1
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Maneuvering_Thruster_1x1;BasicFuelCell;BlueLaser1x2;NuclearReactorSmall;Fighter_Shield;WarpEngine_1x1;Engine;Cockpit
+Modules=11
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0
+2,0;1
+0,1;2;1,2
+1,1;3
+2,1;3
+3,1;4
+1,2;5
+2,2;6
+3,2;7
+1,3;6
+2,3;6

@@ -11,6 +11,9 @@
     <LeadsToTech>
       <UID>warpcore_2x2</UID>
     </LeadsToTech>
+    <LeadsToTech>
+      <UID>AntiMatterWeaponry</UID>
+    </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
     <UnlockedMod>

@@ -1,0 +1,50 @@
+Version=1
+Name=Ralyeh-Zion mk4
+Hull=Ralyeh/Zion
+Role=frigate
+ModName=Star Trek
+Style=Ralyeh
+Size=8,11
+GridCenter=4,6
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Ceramic Armor Med;Ceramic Armor Small;PowerSolar;Amplifier;FusionBeam2x4;Bridge;Shield_1KW;PhasorTurret2x2;Extreme Fusion Reactor;BasicFuelCell;CombatEngine_2x1;WarpEngine_2x2
+Modules=32
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0;2,2
+2,1;1
+5,1;1
+0,2;1
+1,2;1
+2,2;2
+3,2;3
+4,2;3
+5,2;2
+6,2;1
+7,2;1
+0,3;4;2,4
+2,3;5;2,2
+4,3;6;2,2
+6,3;7;2,2;45
+2,5;8;2,2
+4,5;8;2,2
+6,5;7;2,2;315
+0,7;1
+1,7;9
+2,7;9
+3,7;10;2,1
+5,7;9
+6,7;9
+7,7;1
+1,8;1
+2,8;11;2,2
+4,8;10;2,1
+6,8;1
+4,9;10;2,1
+2,10;1
+5,10;1

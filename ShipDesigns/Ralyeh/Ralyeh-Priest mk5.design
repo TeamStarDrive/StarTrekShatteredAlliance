@@ -1,0 +1,52 @@
+Version=1
+Name=Ralyeh-Priest mk5
+Hull=Ralyeh/Priest
+Role=corvette
+ModName=Star Trek
+Style=Ralyeh
+Size=8,9
+GridCenter=4,4
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=SteelArmorSmall;Amplifier;Maneuvering_Thruster_1x1;Cockpit;FusionTurret2x2;advanced_fighter_sheaild;Extreme Fusion Reactor;PowerConduit;WarpEngine_2x2;CombatEngine_2x1
+Modules=34
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+2,0;0
+3,0;0
+4,0;0
+5,0;0
+2,1;0
+3,1;1
+4,1;1
+5,1;0
+0,2;0
+1,2;0
+2,2;2
+3,2;3
+4,2;1
+5,2;2
+6,2;0
+7,2;0
+0,3;4;2,2;330
+2,3;5
+3,3;6;2,2
+5,3;5
+6,3;4;2,2;30
+2,4;7
+5,4;7
+0,5;0
+1,5;2
+2,5;8;2,2
+4,5;9;2,1
+6,5;2
+7,5;0
+0,6;0
+4,6;9;2,1
+7,6;0
+2,7;9;1,2;90;2
+5,7;9;1,2;90;2

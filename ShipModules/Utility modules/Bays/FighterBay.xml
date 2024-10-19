@@ -34,6 +34,7 @@
   <hangarShipUID>Vulcan Scout</hangarShipUID>
   <hangerTimerConstant>120</hangerTimerConstant>
   <MaximumHangarShipSize>46</MaximumHangarShipSize>
+  <OrdinanceCapacity>100</OrdinanceCapacity>
   <PermittedHangarRoles>
     <string>fighter</string>
     <string>corvette</string>

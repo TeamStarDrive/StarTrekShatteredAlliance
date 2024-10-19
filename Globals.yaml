@@ -5,7 +5,7 @@ Globals:
   MaxOpponents: 15
   DefaultNumOpponents: 4
   TurnTimer: 5 # default time in seconds for a single turn
-  TraitPoints: 10 # initial number of trait points. Default is 8
+  TraitPoints: 25 # initial number of trait points. Default is 8
 
   # gameplay modifiers
   ShipDestroyThreshold: 0.4 # ships with internal slots below this ratio will Die

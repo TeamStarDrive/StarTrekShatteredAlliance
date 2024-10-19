@@ -20,6 +20,6 @@ O  |IO |I  |I  |I  |I  |IO |O
 O  |IO |I  |I  |I  |I  |IO |O  
 O  |IO |IO |I  |IC |IO |IO |O  
 O  |O  |IO |E  |E  |IO |O  |O  
-___|O  |IO |E  |E  |IO |O  |___
-___|___|IO |E  |E  |IO |___|___
+___|O  |E  |E  |E  |E  |O  |___
+___|___|E  |E  |E  |E  |___|___
 ___|___|IO |___|___|IO |___|___

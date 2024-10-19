@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <FighterModule>false</FighterModule>
+  <FreighterModule>false</FreighterModule>
+  
+  <Cost>45</Cost>
+  <!-- Tech Level Used by AI for Upgrading Ships -->
+  <TechLevel>3</TechLevel>
+
+
+  <!-- common traits shared by all ship modules -->
+  <XSize>2</XSize>
+  <YSize>3</YSize>
+  <ModuleType>MainGun</ModuleType>
+  <Name>Anti Matter Projector</Name>
+  <Restrictions>O</Restrictions>
+  <UID>AMProjectorMod</UID>
+  <IconTexturePath>Modules/AMProjector</IconTexturePath>3
+
+
+  <NameIndex>18919</NameIndex>
+  <DescriptionIndex>18919</DescriptionIndex>
+
+
+  <!-- Mass and Health -->
+  <Mass>50</Mass>
+  <Health>360</Health>
+  <HealthMax>360</HealthMax>
+  <RepairDifficulty>6</RepairDifficulty>
+
+  <!-- Power Drawn -->
+  <PowerDraw>250</PowerDraw>
+
+  <!-- for Weapons -->
+  <WeaponType>AMProjector</WeaponType>
+  <FieldOfFire>15</FieldOfFire>
+  
+  
+  <!-- Description -->
+  <Description>Plasma Projector</Description>
+  
+
+</ShipModule>

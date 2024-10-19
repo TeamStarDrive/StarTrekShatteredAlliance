@@ -22,7 +22,7 @@
   <UID>FocusPhasorBeam</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>10</FireDelay>
-  <Range>9800</Range>
+  <Range>10800</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>4</BeamDuration>
@@ -33,7 +33,7 @@
   <BeamTexture>beam_red</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>37</DamageAmount>
+  <DamageAmount>60</DamageAmount>
   <BeamThickness>42</BeamThickness>
   <BeamPowerCostPerSecond>2787</BeamPowerCostPerSecond>
   <EffectVsArmor>1.20</EffectVsArmor>

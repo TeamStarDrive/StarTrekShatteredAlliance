@@ -11,7 +11,6 @@
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2</BeamDuration>
   <OffPowerMod>0.35</OffPowerMod>
-  <ExcludesCorvettes>true</ExcludesCorvettes>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
 
@@ -21,7 +20,7 @@
   <!-- Projectile Information -->
   <BeamTexture>beam_greenA</BeamTexture>
   <EffectVsArmor>0.50</EffectVsArmor>
-  <DamageAmount>20</DamageAmount>
+  <DamageAmount>40</DamageAmount>
   <BeamThickness>15</BeamThickness>
   <BeamPowerCostPerSecond>200</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>

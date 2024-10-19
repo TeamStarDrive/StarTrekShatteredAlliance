@@ -2767,3 +2767,120 @@ BB_Tech_dom_phased_cannon_mk3_Name:
 BB_Tech_dom_phased_cannon_mk3:
  Id: 18905
  ENG: "phased_cannon mk3"
+CA_Tech_PlasmaWeaponsI_Name:
+ Id: 18905
+ ENG: "Plasma Weapons I"
+CA_Tech_PlasmaWeaponsI_Desc:
+ Id: 18906
+ ENG: "We are now able to build plasma cannons by using ionized reactor Plasma with higher pressure. The magnetized pressure system requires, however, more constant power and even extra reactor power to fire." 
+CA_Tech_PlasmaVectoringII_Name:
+ Id: 18907
+ ENG: "Plasma Vectoring II"
+ RUS: "Плазменная векторизация II"
+CA_Tech_PlasmaVectoringII_Desc:
+ Id: 18908
+ ENG: "We can accelerate the high-pressure system used to vent plasma from the ship's reactors. This can increase damage output by a high percentage. The density of the plasma will make it slightly more effective versus shields."
+ RUS: "Мы можем ускорить работу системы высокого давления, используемой для выпуска плазмы из реакторов корабля.  Это может увеличить наносимый урон на высокий процент.  Плотность плазмы сделает ее немного более эффективной в борьбе с экранами."
+CA_Tech_PlasmaVectoringIII_Name:
+ Id: 18909
+ ENG: "Plasma Vectoring III"
+ RUS: "Плазменная векторизация III"
+CA_Tech_PlasmaVectoringIII_Desc:
+ Id: 18910
+ ENG: "We can use calibrated reactor power to further narrow the focus of the plasma streams, making the plasma flame more destructive. This comes with a much higher power cost, but it is more effective against shields."
+ RUS: "Мы можем использовать откалиброванную мощность реактора, чтобы еще больше сузить фокус плазменных потоков, сделав плазменное пламя более разрушительным.  Это требует гораздо большей энергии, но более эффективно против щитов."
+CA_Tech_PlasmaVectoringIV_Name:
+ Id: 18911
+ ENG: "Plasma Vectoring IV"
+ RUS: "Плазменная векторизация IV"
+CA_Tech_PlasmaVectoringIV_Desc:
+ Id: 18912
+ ENG: "Using more power and higher pressure systems leads to very focused and lethal plasma vents, at the expense of higher power and ordnance consumption."
+ RUS: "Использование большей мощности и систем с более высоким давлением приводит к очень целенаправленным и смертоносным плазменным прогарам за счет более высокого потребления энергии и боеприпасов."
+CA_Tech_PlasmaWeaponsII_Name:
+ Id: 18913
+ ENG: "Plasma Weapons II"
+CA_Tech_PlasmaWeaponsII_Desc:
+ Id: 18914
+ ENG: "We are now able to build heavier plasma weapons by using the previous ionized reactor Plasma and pushing it to new limits with higher pressure. The magnetized pressure system requires, however, more constant power and even extra reactor power to fire."
+ RUS: "Теперь мы можем создавать более тяжелое плазменное оружие, используя предыдущий ионизированный реактор плазмы и доводя его до новых пределов с более высоким давлением. Однако для срабатывания намагниченной системы давления требуется более стабильная мощность и даже дополнительная мощность реактора."
+CA_Tech_AntiMatterWeaponry_Name:
+ Id: 18915
+ ENG: "Anti-Matter Weapons I"
+ RUS: "Оружие антиматерии I"
+CA_Tech_AntiMatterWeaponry_Desc:
+ Id: 18916
+ ENG: "By further stabilizing matter / anti-matter reactions, we have managed to weaponize our research into powerful anti-matter weaponry."
+ RUS: "Путем дальнейшей стабилизации реакций материя / антиматерия нам удалось превратить наши исследования в мощное оружие антиматерии."
+CA_Tech_HeavyAntiMatterWeaponry_Name:
+ Id: 18917
+ ENG: "Anti-Matter Weapons II"
+ RUS: "Оружие антиматерии II"
+CA_Tech_HeavyAntiMatterWeaponry_Desc:
+ Id: 18918
+ ENG: "Our scientists have made a breakthrough in their research towards matter / anti-matter reactions, granting us access to a new weapon."
+ RUS: "Наши ученые совершили прорыв в своих исследованиях реакций материи и антивещества, предоставив нам доступ к новому оружию."
+CA_AntimatterProjector:
+ Id: 18919
+ ENG: "Anti-Matter Projector"
+ RUS: "Анти-материальный проектор"
+CA_AnAntimatterProjectorUsesA:
+ Id: 18920
+ ENG: "An anti-matter projector uses a massive array of anti-matter generating nodes to project a storm of highly unstable anti-matter shells towards a target. It has a 25% chance to bypass Shields."
+ RUS: "Проектор антивещества использует массив узлов, генерирующих антивещество, чтобы проецировать на цель шторм очень нестабильных оболочек антивещества. Имеет 25% шанс обойти щиты."
+CA_HeavyAntimatterCannon:
+ Id: 18921
+ ENG: "Heavy Anti-Matter Cannon"
+ RUS: "Антиматериальное орудие"
+CA_FiresAFastBurstOf:
+ Id: 18922
+ ENG: "Fires a fast burst of supercharged Anti-Matter shells over great distances. Does extra damage to Shields and Armor and has a 60% chance to bypass Shields."
+ RUS: "Стреляет быстрой очередью антиматериальных снарядов на большие расстояния. Наносит дополнительный урон щитам и броне,имеет 60% шанс обойти щиты."
+CA_ThisPlasmaThrowerVentsA:
+ Id: 18923
+ ENG: "This plasma thrower vents a more focused plasma cloud thanks to power transfer from the ship's reactors. It is very good versus Shields, but requires high power and more ordnance."
+ RUS: "Этот плазмотрон выпускает более сфокусированное плазменное облако за счет передачи энергии от реакторов корабля.  Он очень хорош против щитов, но требует большой мощности и большего количества боеприпасов."
+CA_VastAmountsOfPowerIs:
+ Id: 18924
+ ENG: "Vast amounts of power is used to deliver a lethal plasma cloud which is also excellent versus shields. Sadly, with high power requirements and slightly less range."
+ RUS: "Огромное количество энергии используется для доставки смертоносного плазменного облака. Отлично справляется со щитами.  К сожалению, требовательна к мощности и имеет чуть меньший радиус действия."
+CA_PowerAssistedPlasmaThrower:
+ Id: 18925
+ ENG: "Power Assisted Plasma Thrower"
+ RUS: "Усиленный плазмотрон"
+CA_ThisPlasmaThrowerVentsA:
+ Id: 18926
+ ENG: "This plasma thrower vents a more focused plasma cloud thanks to power transfer from the ship's reactors. It is very good versus Shields, but requires high power and more ordnance."
+ RUS: "Этот плазмотрон выпускает более сфокусированное плазменное облако за счет передачи энергии от реакторов корабля.  Он очень хорош против щитов, но требует большой мощности и большего количества боеприпасов."
+CA_HighPressurePlasmaThrower:
+ Id: 18927
+ ENG: "High Pressure Plasma Thrower"
+ RUS: "Плазмотрон высокого давления"
+CA_ThisPlasmaThrowerUsesA:
+ Id: 18928
+ ENG: "This plasma thrower uses a higher pressure vent system and increases the damage of the plasma cloud. It also fares well against shields."
+ RUS: "Этот плазмотрон использует систему вентиляции с более высоким давлением и увеличивает повреждение плазменного облака.  Он также хорошо справляется со щитами."
+CA_PlasmaProjector:
+ Id: 18929
+ ENG: "Plasma Projector"
+ RUS: "Плазменный проектор"
+CA_APlasmaProjectorUsesA:
+ Id: 18930
+ ENG: "A plasma projector uses a massive array of plasma generating nodes to project a storm of high-energy plasma shells towards a target."
+ RUS: "Плазменный проектор использует массив узлов генерации плазмы, чтобы проецировать поток высокоэнергетических плазменных оболочек на цель."
+CA_PlasmaCannon:
+ Id: 18931
+ ENG: "Plasma Cannon"
+ RUS: "Плазменная пушка"
+CA_ThisPlasmaCannonIsBest:
+ Id: 18932
+ ENG: "This plasma cannon is best mounted on frigates. It fires a stream of plasma shells towards unsuspecting targets."
+ RUS: "Эту плазменную пушку лучше всего устанавливать на фрегаты. Она выпускает поток плазменных снарядов по ничего не подозревающим целям."
+CA_PlasmaBombBay:
+ Id: 18933
+ ENG: "Plasma Bomb Bay"
+ RUS: "Отсек плазменных бомб"
+CA_ThisModuleLaunchesABarrage:
+ Id: 18934
+ ENG: "This module launches a barrage of unguided, low accuracy space bombs. The hot plasma is highly effective versus armor."
+ RUS: "Этот модуль запускает шквал неуправляемых космических бомб низкой точности. Горячая плазма очень эффективна против брони."

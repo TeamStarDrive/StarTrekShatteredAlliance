@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UID>Plasma Weapons II</UID>
+  <TechnologyType>ShipWeapons</TechnologyType>
+  <Cost>1150</Cost>
+  <RootNode>0</RootNode>
+  <Name>Plasma Weapons II</Name>
+  <NameIndex>18913</NameIndex>
+  <DescriptionIndex>18914</DescriptionIndex>
+  <LongDescription>See localization file</LongDescription>
+   <ModulesUnlocked>
+    <UnlockedMod>
+      <ModuleUID>PlasmaProjectorMod</ModuleUID>
+    </UnlockedMod>
+  </ModulesUnlocked>
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

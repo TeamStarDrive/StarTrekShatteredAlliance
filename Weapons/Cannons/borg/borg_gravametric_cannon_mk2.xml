@@ -23,7 +23,7 @@
   <Range>5000</Range>
   <PowerRequiredToFire>900</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <SalvoCount>6</SalvoCount>
+  <SalvoCount>7</SalvoCount>
   <SalvoTimer>4</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -39,7 +39,7 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>980</DamageAmount>
+  <DamageAmount>1180</DamageAmount>
   <ProjectileSpeed>3200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>2</Scale>

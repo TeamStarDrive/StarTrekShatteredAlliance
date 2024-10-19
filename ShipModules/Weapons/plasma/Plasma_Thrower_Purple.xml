@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <DroneModule>false</DroneModule>
+  
+  <Cost>15</Cost>
+  <TechLevel>3</TechLevel>
+  <!-- common traits shared by all ship modules -->
+  <ModuleType>Turret</ModuleType>
+  <XSize>2</XSize>
+  <YSize>2</YSize>
+  <Name>Plasma Thrower</Name>
+  <Restrictions>O</Restrictions>
+  <UID>Plasma_Thrower_Purple</UID>
+  <IconTexturePath>Modules/Plasma_Thrower_Purple</IconTexturePath>
+  <Mass>18</Mass>
+  <HealthMax>300</HealthMax>
+  <RepairDifficulty>3</RepairDifficulty>
+  <Description>This weapon is best used at low speeds and close ranges. Higher speeds cause the plasma to disperse ineffectively, and the weapon is simply useless at range. But up close, it is devastating.
+  </Description>
+  
+  
+  <PowerDraw>20</PowerDraw>
+
+  <NameIndex>18925</NameIndex>
+  <DescriptionIndex>18926</DescriptionIndex>
+
+
+  <!-- for shield items -->
+  
+  <ShieldPowerMax>0</ShieldPowerMax>
+  <ShieldRechargeDelay>0</ShieldRechargeDelay>
+  <ShieldRechargeRate>0</ShieldRechargeRate>
+  <ShieldRadius>0</ShieldRadius>
+  <radius>0</radius>
+
+  <!-- for PowerPlant Items -->
+  
+  <PowerFlowMax>0</PowerFlowMax>
+  <PowerStoreMax>0</PowerStoreMax>
+  
+  <!-- for Weapons -->
+  <WeaponType>PlasmaThrower_Purple</WeaponType>
+  <FieldOfFire>180</FieldOfFire>
+  
+  <!-- for Engines -->
+  <Thrust>0</Thrust>
+  
+  
+
+</ShipModule>

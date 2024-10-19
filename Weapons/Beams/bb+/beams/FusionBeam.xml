@@ -18,9 +18,9 @@
   
   <!-- Projectile Information -->
   <BeamTexture>beam_purple</BeamTexture>
-  <EffectVsShields>0.90</EffectVsShields> 
+  <EffectVsShields>0.50</EffectVsShields> 
   
-  <DamageAmount>12</DamageAmount>
+  <DamageAmount>15</DamageAmount>
   <BeamThickness>24</BeamThickness>
   <BeamPowerCostPerSecond>752</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>

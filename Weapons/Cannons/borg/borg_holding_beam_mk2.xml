@@ -22,8 +22,8 @@
   <PowerDamage>2500</PowerDamage>
   <SiphonDamage>700</SiphonDamage>
   <TroopDamageChance>7</TroopDamageChance>
-  <EMPDamage>250</EMPDamage>
-  <ShieldPenChance>100</ShieldPenChance>
+  <EMPDamage>750</EMPDamage>
+  <ShieldPenChance>80</ShieldPenChance>
   <BeamTexture>borg_holdingbeam</BeamTexture>
   <DamageAmount>6</DamageAmount>
   <BeamThickness>54</BeamThickness>
