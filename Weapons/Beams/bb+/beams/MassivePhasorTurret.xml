@@ -11,7 +11,7 @@
   <Range>7000</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2</BeamDuration>
+  <BeamDuration>1</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
@@ -19,7 +19,8 @@
   <BeamTexture>dualbeam_red</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>52</DamageAmount>
+  <DamageAmount>62</DamageAmount>
+  <EffectVsShield>1.2</EffectVsShield>
   <BeamThickness>70</BeamThickness>
   <BeamPowerCostPerSecond>4847</BeamPowerCostPerSecond>
 

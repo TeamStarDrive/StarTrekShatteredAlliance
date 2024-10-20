@@ -19,7 +19,7 @@
   <BeamTexture>beam_blue_Laser</BeamTexture>
   
   <BeamDuration>1</BeamDuration>
-  <DamageAmount>3</DamageAmount>
+  <DamageAmount>5</DamageAmount>
   <BeamThickness>20</BeamThickness>
   <BeamPowerCostPerSecond>340</BeamPowerCostPerSecond>
 

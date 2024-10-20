@@ -21,10 +21,9 @@
   <BeamTexture>beam_purple</BeamTexture>
   
   
-  <DamageAmount>22</DamageAmount>
+  <DamageAmount>24</DamageAmount>
   <BeamThickness>24</BeamThickness>
   <BeamPowerCostPerSecond>1290</BeamPowerCostPerSecond>
-  <EffectVsShields>0.60</EffectVsShields> 
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>

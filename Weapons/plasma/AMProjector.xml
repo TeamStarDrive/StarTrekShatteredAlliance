@@ -19,8 +19,8 @@
   
   <UID>AMProjector</UID>
   <FireDelay>7.4</FireDelay>
-  <Range>3000</Range>
-  <PowerRequiredToFire>175</PowerRequiredToFire>
+  <Range>5000</Range>
+  <PowerRequiredToFire>155</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0.5</OrdinanceRequiredToFire>
   <SalvoCount>7</SalvoCount>
   <SalvoTimer>0.4</SalvoTimer>
@@ -28,7 +28,7 @@
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
   <Name>Plasma Projector</Name>
   <!-- Projectile Information -->
-  <DamageAmount>330</DamageAmount>
+  <DamageAmount>730</DamageAmount>
   <ProjectileSpeed>2100</ProjectileSpeed>
   <EffectVsArmor>1.5</EffectVsArmor>
   <ShieldPenChance>15</ShieldPenChance>  
@@ -44,5 +44,6 @@
   <ExplosionRadius>40</ExplosionRadius> <!-- This projectile explodes -->
   <WeaponEffectType>Energy Cannon</WeaponEffectType>
   <ProjectileRadius>10</ProjectileRadius>
+  <OffPowerMod>1</OffPowerMod> 
   
 </Weapon>

@@ -18,8 +18,8 @@
 
   <UID>Aegis</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>12</FireDelay>
-  <Range>15000</Range>
+  <FireDelay>16</FireDelay>
+  <Range>14000</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>6</BeamDuration>
@@ -30,11 +30,10 @@
   <BeamTexture>beam_yellow</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>175</DamageAmount>
+  <DamageAmount>75</DamageAmount>
   <BeamThickness>140</BeamThickness>
   <BeamPowerCostPerSecond>3000</BeamPowerCostPerSecond>
-  <EffectVsArmor>1.75</EffectVsArmor>
-  <EffectVsShield>1.5</EffectVsShield>
+  <EffectVsArmor>1.35</EffectVsArmor>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>

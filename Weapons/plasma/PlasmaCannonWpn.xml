@@ -18,7 +18,7 @@
   
   <UID>PlasmaCannonWpn</UID>
   <FireDelay>2</FireDelay>
-  <Range>3000</Range>
+  <Range>4000</Range>
   <PowerRequiredToFire>40</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0.5</OrdinanceRequiredToFire>
 

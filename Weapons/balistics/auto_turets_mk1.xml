@@ -21,9 +21,9 @@
   
   <UID>auto_turets_mk1</UID>
   <FireDelay>4</FireDelay>
-  <Range>4000</Range>
+  <Range>5000</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>3</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>1</OrdinanceRequiredToFire>
 
 
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -38,8 +38,9 @@
   <ProjectileRadius>4</ProjectileRadius>
   <ProjectileTexturePath>projTear_02_blue</ProjectileTexturePath>
   <ModelPath>projTear</ModelPath>
-  <SalvoCount>2</SalvoCount>
-  <SalvoTimer>2.3</SalvoTimer>
+  <SalvoCount>4</SalvoCount>
+  <SalvoTimer>2</SalvoTimer>
+  <ShieldPenChance>0.2</ShieldPenChance>
   <!--the projectile count is spread over the fire arc-->
   <WeaponEffectType>MuzzleSmokeFire</WeaponEffectType>
   <WeaponType>Ballistic Cannon</WeaponType>
