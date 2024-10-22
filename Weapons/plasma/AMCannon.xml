@@ -21,7 +21,7 @@
   <ExcludesCorvettes>true</ExcludesCorvettes> 
 
   <UID>AMCannon</UID>
-  <FireDelay>5</FireDelay>
+  <FireDelay>4</FireDelay>
   <Range>9800</Range>
   <PowerRequiredToFire>2825</PowerRequiredToFire>
   <OrdinanceRequiredToFire>3.5</OrdinanceRequiredToFire>
@@ -31,10 +31,10 @@
   <InFlightCue>sd_weapon_photon_flight_01</InFlightCue>
 
   <!-- Projectile Information -->
-  <DamageAmount>4550</DamageAmount>
+  <DamageAmount>14550</DamageAmount>
   
   <ExplosionRadius>50</ExplosionRadius> <!-- This projectile explodes -->
-  <EffectVsShields>1.5</EffectVsShields>
+  <EffectVsShields>2.5</EffectVsShields>
   <EffectVsArmor>2</EffectVsArmor>
   <ShieldPenChance>35</ShieldPenChance>
   <ProjectileSpeed>3000</ProjectileSpeed>
@@ -42,7 +42,7 @@
   <ArmorPen>1</ArmorPen>  
   <Animated>1</Animated>
   <Light>Red</Light>
-  <Scale>2.0</Scale>
+  <Scale>3.0</Scale>
   <Frames>16</Frames>
   <AnimationPath>AM_Cannon/AM_Cannon_cc_</AnimationPath>
   <LoopAnimation>1</LoopAnimation>
@@ -50,5 +50,5 @@
   <ProjectileTexturePath>projTear_03_red</ProjectileTexturePath>
   <ModelPath>projBall</ModelPath>
   <WeaponType>Anti-Matter</WeaponType>
-  <OffPowerMod>1</OffPowerMod> 
+  <OffPowerMod>0.5</OffPowerMod> 
 </Weapon>

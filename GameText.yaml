@@ -2852,11 +2852,11 @@ CA_ThisPlasmaThrowerVentsA:
  Id: 18926
  ENG: "This plasma thrower vents a more focused plasma cloud thanks to power transfer from the ship's reactors. It is very good versus Shields, but requires high power and more ordnance."
  RUS: "Этот плазмотрон выпускает более сфокусированное плазменное облако за счет передачи энергии от реакторов корабля.  Он очень хорош против щитов, но требует большой мощности и большего количества боеприпасов."
-CA_HighPressurePlasmaThrower:
+CA_HighPressurePlasmaThrower_Name:
  Id: 18927
  ENG: "High Pressure Plasma Thrower"
  RUS: "Плазмотрон высокого давления"
-CA_ThisPlasmaThrowerUsesA:
+CA_ThisPlasmaThrowerUsesA_Desc:
  Id: 18928
  ENG: "This plasma thrower uses a higher pressure vent system and increases the damage of the plasma cloud. It also fares well against shields."
  RUS: "Этот плазмотрон использует систему вентиляции с более высоким давлением и увеличивает повреждение плазменного облака.  Он также хорошо справляется со щитами."

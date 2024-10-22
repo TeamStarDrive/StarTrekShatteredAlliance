@@ -1,0 +1,43 @@
+Version=1
+Name=Ralyeh-Zion mk9
+Hull=Ralyeh/Zion
+Role=frigate
+ModName=Star Trek
+Style=Ralyeh
+Size=8,11
+GridCenter=4,6
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=ablative_ship_armor_med;ablative_ship_armor_Small;advanced_fighter_sheald_Amplifier;AdvAmplifier;PhasorTurret2x2;PhasorBeam2x5;Bridge;frigate_shealds;warpcore_2x2;Amplifier;CombatEngine_2x1;WarpEngine_2x2
+Modules=25
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0;2,2
+2,1;1
+5,1;1
+0,2;1
+1,2;1
+2,2;2;2,1
+4,2;3;2,2
+6,2;4;2,2;360
+0,3;5;2,5
+2,3;6;2,2
+4,4;7;2,2
+6,4;4;2,2;45
+2,5;8;2,2
+4,6;2;2,1
+6,6;4;2,2;285
+2,7;9
+3,7;10;2,1
+5,7;9
+1,8;1
+2,8;11;2,2
+4,8;10;2,1
+6,8;1
+4,9;10;2,1
+2,10;1
+5,10;1

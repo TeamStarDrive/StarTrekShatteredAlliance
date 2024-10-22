@@ -1,0 +1,49 @@
+Version=1
+Name=Ralyeh-Ralyeh-Heavy-Platform mk3
+Hull=Ralyeh/Ralyeh_Heavy_Platform
+Role=platform
+ModName=Star Trek
+Style=Ralyeh
+Size=12,8
+GridCenter=6,4
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Organic_Bioplates_Small;Aegis;Sensor1x2;warpcore_2x2;advanced_fighter_sheald_Amplifier;Amplifier;Cockpit;TRANSPHASIC_OWP_SHEAILD
+Modules=31
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+3,0;0
+4,0;0
+7,0;0
+8,0;0
+0,1;0
+1,1;1;6,6
+7,1;2;2,1
+9,1;0
+10,1;0
+11,1;0
+0,2;0
+7,2;3;2,2
+9,2;4;2,1
+11,2;0
+9,3;5
+10,3;0
+7,4;6
+8,4;4;2,1
+10,4;0
+0,5;0
+7,5;7;2,2
+9,5;4;2,1;180;3
+11,5;0
+0,6;0
+9,6;0
+10,6;0
+11,6;0
+3,7;0
+4,7;0
+7,7;0
+8,7;0
