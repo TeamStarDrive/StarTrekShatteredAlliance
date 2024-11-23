@@ -55,6 +55,10 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+  <UnlockedHull>
+      <Name>FreeBorg/Borg_Sphere</Name>
+      <ShipType>FreeBorg</ShipType>
+    </UnlockedHull>
     <UnlockedHull>
       <Name>vulcan/Vul_Torrol</Name>
       <ShipType>vulcan</ShipType>

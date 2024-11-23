@@ -21,7 +21,8 @@
   
   <!-- Projectile Information -->
   <BeamTexture>beam_greenA</BeamTexture>
-  <EffectVsArmor>1.20</EffectVsArmor>
+  <EffectVsShields>0.90</EffectVsShields> 
+  <EffectVsArmor>1.70</EffectVsArmor>
   <DamageAmount>290</DamageAmount>
   <BeamThickness>35</BeamThickness>
   <BeamPowerCostPerSecond>1050</BeamPowerCostPerSecond>

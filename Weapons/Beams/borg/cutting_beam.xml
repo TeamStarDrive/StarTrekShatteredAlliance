@@ -6,7 +6,7 @@
   <UID>cutting_beam</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>4</FireDelay>
-  <Range>7000</Range>
+  <Range>6000</Range>
   <PowerRequiredToFire>50</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2</BeamDuration>
@@ -19,8 +19,9 @@
   
   <!-- Projectile Information -->
   <BeamTexture>beam_greenA</BeamTexture>
-  <EffectVsArmor>0.50</EffectVsArmor>
-  <DamageAmount>40</DamageAmount>
+  <EffectVsArmor>1.50</EffectVsArmor>
+  <DamageAmount>30</DamageAmount>
+  <EffectVsShields>0.80</EffectVsShields> 
   <BeamThickness>15</BeamThickness>
   <BeamPowerCostPerSecond>200</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>

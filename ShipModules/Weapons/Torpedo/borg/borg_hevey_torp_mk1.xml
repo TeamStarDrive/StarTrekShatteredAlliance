@@ -12,7 +12,7 @@
   <Version>2</Version>
 
   <IconTexturePath>Modules/borg_hevey_torp_mk1</IconTexturePath>
-  <Mass>1900</Mass>
+  <Mass>100</Mass>
   <Health>21500</Health>
   <HealthMax>21500</HealthMax>
   <energyreq>20</energyreq>

@@ -20,7 +20,7 @@
   
   <UID>borg_gravametric_cannon_mk2</UID>
   <fireDelay>4</fireDelay>
-  <Range>5000</Range>
+  <Range>6000</Range>
   <PowerRequiredToFire>900</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <SalvoCount>7</SalvoCount>
@@ -39,7 +39,7 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>1180</DamageAmount>
+  <DamageAmount>780</DamageAmount>
   <ProjectileSpeed>3200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>2</Scale>

@@ -47,16 +47,16 @@
 
   <!-- Mass and Health -->
   <Mass>10469</Mass>
-  <Health>60000</Health>
-  <HealthMax>60000</HealthMax>
+  <Health>40000</Health>
+  <HealthMax>40000</HealthMax>
   <RepairDifficulty>3</RepairDifficulty>
   <Deflection>60</Deflection>              
   <!-- Armor resistance -->
-  <KineticResist>0.30</KineticResist>
-  <EnergyResist>0.30</EnergyResist>  
-  <BeamResist>0.30</BeamResist>
-  <ExplosiveResist>0.30</ExplosiveResist>      
-  <PlasmaResist>0.33</PlasmaResist>
+  <KineticResist>0.60</KineticResist>
+  <EnergyResist>0.60</EnergyResist>  
+  <BeamResist>0.60</BeamResist>
+  <ExplosiveResist>0.60</ExplosiveResist>      
+  <PlasmaResist>0.2</PlasmaResist>
 
   <!-- Description -->
   <Description>Through using Crystal materials, the mass of armor has been greatly decreased. </Description>

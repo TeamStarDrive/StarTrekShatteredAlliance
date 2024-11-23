@@ -30,16 +30,16 @@
     <DescriptionIndex>18723</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>28000</Mass>
-    <Health>80000</Health>
-    <HealthMax>80000</HealthMax>
+    <Health>70000</Health>
+    <HealthMax>70000</HealthMax>
     <RepairDifficulty>2</RepairDifficulty>
     <Deflection>60</Deflection>
     <!-- Armor resistance -->
-    <KineticResist>0.7</KineticResist>
-    <BeamResist>0.7</BeamResist>
-    <EnergyResist>0.7</EnergyResist>    
-    <PlasmaResist>0.7</PlasmaResist>
-    <ExplosiveResist>0.7</ExplosiveResist>
+    <KineticResist>0.4</KineticResist>
+    <BeamResist>0.4</BeamResist>
+    <EnergyResist>0.4</EnergyResist>    
+    <PlasmaResist>0.4</PlasmaResist>
+    <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
     <Description>Organic Bioplates provides massive defence however the mass is also very "massive".</Description>
