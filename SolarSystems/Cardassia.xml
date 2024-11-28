@@ -18,21 +18,21 @@
     <Ring>
       <Planet>Hutet</Planet>
       <SpecialDescription>Hutet is a small M class planet ready for colonization.</SpecialDescription>
-      <WhichPlanet>25</WhichPlanet>  
+      <WhichPlanet>18</WhichPlanet>  
     </Ring>
     <Ring>
       <Planet>Cardassia Minor</Planet>
       <SpecialDescription>Cardassia Minor is much like Cardassia Prime and is ready for colonization.</SpecialDescription>
-      <WhichPlanet>24</WhichPlanet>
-      <Population>0</Population>
+      <WhichPlanet>18</WhichPlanet>
+	  <MaxPopDefined>30.0</MaxPopDefined>
     </Ring>
     <Ring>
       <Planet>Cardassia Prime</Planet>
       <SpecialDescription>Cardassia Prime is the birthplace of Cardassia and the home to many billions of people. Consequently, some of the finest Shipyards and Equipment manufacturers in the galaxy can be found in Cardassia Prime's Orbit. </SpecialDescription>
-      <WhichPlanet>25</WhichPlanet>
+      <WhichPlanet>18</WhichPlanet>
 	  <HomePlanet>true</HomePlanet>
       <Station>Yes</Station>
-	  <MaxPopDefined>20.0</MaxPopDefined>
+	  <MaxPopDefined>30.0</MaxPopDefined>
     </Ring>
     <Ring>
       <Asteroids>Yes</Asteroids>

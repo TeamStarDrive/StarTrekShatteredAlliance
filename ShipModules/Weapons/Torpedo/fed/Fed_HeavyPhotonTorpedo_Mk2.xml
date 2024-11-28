@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>Fed_HeavyPhotonTorpedo_Mk2</WeaponType>
-  <OrdinanceCapacity>4000</OrdinanceCapacity>
+  <OrdinanceCapacity>400</OrdinanceCapacity>
   <FieldOfFire>180</FieldOfFire>
 
   <!-- for Engines -->

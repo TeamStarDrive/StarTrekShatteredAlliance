@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>Fed_QuantumTorpedo_Mk2</WeaponType>
-  <OrdinanceCapacity>6000</OrdinanceCapacity>
+  <OrdinanceCapacity>600</OrdinanceCapacity>
   <EffectVsShield>3</EffectVsShield>
   <FieldOfFire>180</FieldOfFire>
 

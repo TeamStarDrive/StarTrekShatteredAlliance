@@ -39,7 +39,7 @@
 
   <!-- for Weapons -->
   <WeaponType>Fed_QuantumTorpedo_Mk1</WeaponType>
-  <OrdinanceCapacity>4000</OrdinanceCapacity>
+  <OrdinanceCapacity>400</OrdinanceCapacity>
   <FieldOfFire>90</FieldOfFire>
 
   <!-- for Engines -->
