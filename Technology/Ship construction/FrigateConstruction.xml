@@ -67,6 +67,10 @@
       <Name>Terran/Fed_Constitution</Name>
       <ShipType>fed</ShipType>
     </UnlockedHull>
+	<UnlockedHull>
+      <Name>Terran/Fed_Miranda</Name>
+      <ShipType>fed</ShipType>
+    </UnlockedHull>
 
   <UnlockedHull>
       <Name>FreeBorg/Borg_Coffin</Name>

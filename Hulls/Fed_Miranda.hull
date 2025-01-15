@@ -1,0 +1,37 @@
+Version=1
+HullName=Terran/Fed_Miranda
+VisibleName=Miranda Class
+Role=frigate
+Style=fed
+Size=14,23
+MeshOffset=0,-8
+IconPath=ShipIcons/Fed_Miranda
+ModelPath=mod Model/Terran/Hunter/Fed_Miranda
+Animated=false
+IsShipyard=false
+IsOrbitalDefense=false
+#Thruster PosX,PosY,PosZ,Scale
+Slots
+___|___|___|___|___|O  |O  |O  |O  |___|___|___|___|___
+___|___|___|O  |O  |O  |O  |O  |O  |O  |O  |___|___|___
+___|___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___|___
+___|O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |O  |___
+___|O  |O  |O  |O  |IO |IO |IO |IO |O  |O  |O  |O  |___
+O  |O  |O  |O  |IO |I  |I  |I  |I  |IO |O  |O  |O  |O  
+O  |O  |O  |O  |I  |I  |I  |I  |I  |I  |O  |O  |O  |O  
+O  |O  |O  |O  |I  |I  |I  |I  |I  |I  |O  |O  |O  |O  
+O  |O  |O  |O  |IO |I  |I  |I  |I  |IO |O  |O  |O  |O  
+O  |O  |O  |O  |IO |I  |I  |I  |I  |IO |O  |O  |O  |O  
+___|E  |O  |O  |I  |I  |I  |I  |I  |I  |O  |O  |E  |___
+___|E  |O  |O  |I  |I  |I  |IC |I  |I  |O  |O  |E  |___
+___|E  |O  |O  |IO |I  |I  |I  |I  |IO |O  |O  |E  |___
+___|E  |O  |O  |IO |I  |I  |I  |I  |IO |O  |O  |E  |___
+___|E  |O  |O  |IO |I  |I  |I  |I  |IO |O  |O  |E  |___
+___|E  |___|O  |E  |E  |IO |IO |E  |E  |O  |___|E  |___
+___|E  |___|___|E  |E  |O  |O  |E  |E  |___|___|E  |___
+___|E  |___|___|___|___|O  |O  |___|___|___|___|E  |___
+___|E  |___|___|___|___|___|___|___|___|___|___|E  |___
+___|E  |___|___|___|___|___|___|___|___|___|___|E  |___
+___|E  |___|___|___|___|___|___|___|___|___|___|E  |___
+___|E  |___|___|___|___|___|___|___|___|___|___|E  |___
+___|E  |___|___|___|___|___|___|___|___|___|___|E  |___
