@@ -1,0 +1,43 @@
+Version=1
+Name=Sartan Class fighter mk4
+Hull=Cardassia/Car_Sartan
+Role=fighter
+ModName=Star Trek
+Style=Cardassia
+Size=6,10
+GridCenter=3,5
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=Car_DisruptorBeamMk1;SteelArmorSmall;Internal Bulkhead;Fighter_Shield;Cockpit;NuclearReactorSmall;PowerSolar;WarpEngine_1x1;Amplifier;CombatEngine_2x1
+Modules=25
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+2,0;0;2,2
+1,2;1
+2,2;2
+3,2;2
+4,2;1
+0,3;1
+1,3;3
+2,3;4
+3,3;5
+4,3;3
+5,3;1
+0,4;6
+1,4;7
+2,4;5
+3,4;5
+4,4;7
+5,4;6
+2,5;2
+3,5;2
+2,6;6
+3,6;8
+2,7;3
+3,7;6
+2,8;9;2,1
+2,9;9;2,1
