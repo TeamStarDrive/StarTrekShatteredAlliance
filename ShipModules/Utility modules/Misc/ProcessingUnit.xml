@@ -10,7 +10,7 @@
   <BattleshipModule>false</BattleshipModule>
   <CapitalModule>false</CapitalModule>
   <FreighterModule>false</FreighterModule>
-  <PlatformModule>false</PlatformModule>
+  <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
   
   <Cost>200</Cost>

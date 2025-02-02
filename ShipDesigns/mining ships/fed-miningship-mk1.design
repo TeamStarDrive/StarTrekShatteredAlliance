@@ -1,20 +1,20 @@
 Version=1
-Name=basic mining ship mk2
-Hull=Misc/HaulerSmall
-Role=freighter
+Name=fed-miningship-mk1l
+Hull=Misc/fed_HaulerSmall
+Role=supply
 ModName=Star Trek
-Style=Misc
+Style=fed
 Size=4,10
 GridCenter=2,4
-DefaultCombatState=Evade
+DefaultCombatState=Artillery
 ShipCategory=Civilian
 HangarDesignation=General
 IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=ExoticStorage;Maneuvering_Thruster_1x1;NuclearReactorSmall;Cockpit;PowerConduit;WarpEngine_1x1;CombatEngine_2x1
-Modules=25
+ModuleUIDs=ExoticStorage;Cockpit;NuclearReactorSmall;Maneuvering_Thruster_1x1;Engine;WarpEngine_1x1
+Modules=26
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 1,0;0
 2,0;0
@@ -29,15 +29,16 @@ Modules=25
 2,4;0
 3,4;0
 0,5;0
-1,5;0
+1,5;1
 2,5;0
 3,5;0
-0,6;1
+0,6;0
 1,6;2
 2,6;2
-3,6;1
-1,7;3
-2,7;4
-1,8;5
-2,8;5
-1,9;6;2,1
+3,6;3
+1,7;0
+2,7;0
+1,8;4
+2,8;4
+1,9;4
+2,9;5

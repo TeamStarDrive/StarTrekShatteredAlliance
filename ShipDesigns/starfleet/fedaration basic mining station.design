@@ -13,8 +13,8 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=BasicCargoHold;MediumCargoHold;SteelArmorSmall;SubspaceSensors;NuclearReactorMed;NuclearReactorSmall;ProcessingUnit;Cockpit
-Modules=365
+ModuleUIDs=BasicCargoHold;MediumCargoHold;SteelArmorSmall;Sensor1x2;NuclearReactorMed;NuclearReactorSmall;ProcessingUnit;Cockpit
+Modules=369
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 19,0;0
 20,0;0
@@ -93,12 +93,14 @@ Modules=365
 15,6;1;2,2
 17,6;1;2,2
 19,6;2
-20,6;3;2,2
+20,6;2
+21,6;2
 22,6;2
 23,6;2
 24,6;2
 25,6;2
-26,6;3;2,2
+26,6;2
+27,6;2
 28,6;2
 29,6;1;2,2
 31,6;1;2,2
@@ -110,8 +112,10 @@ Modules=365
 9,7;1;2,2
 11,7;1;2,2
 19,7;2
+20,7;3;2,1
 22,7;4;2,2
 24,7;4;2,2
+26,7;3;2,1
 28,7;2
 35,7;1;2,2
 37,7;1;2,2
@@ -137,8 +141,8 @@ Modules=365
 9,9;1;2,2
 11,9;1;2,2
 17,9;2
-18,9;6;6,6;;;basic mining ship mk1
-24,9;6;6,6;;;basic mining ship mk1
+18,9;6;6,6;;;fed-miningship-mk1
+24,9;6;6,6;;;fed-miningship-mk1
 30,9;2
 35,9;1;2,2
 37,9;1;2,2
@@ -225,9 +229,9 @@ Modules=365
 12,15;0
 15,15;2
 16,15;7
-17,15;6;6,6;;;basic mining ship mk1
+17,15;6;6,6;;;fed-miningship-mk1
 23,15;4;2,2
-25,15;6;6,6;;;basic mining ship mk1
+25,15;6;6,6;;;fed-miningship-mk1
 31,15;7
 32,15;2
 35,15;0

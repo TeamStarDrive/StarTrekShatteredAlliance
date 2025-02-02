@@ -106,6 +106,10 @@
     </UnlockedHull>
 	<UnlockedHull>
       <ShipType>fed</ShipType>
+      <Name>Misc/fed_HaulerSmall</Name>
+    </UnlockedHull>
+	<UnlockedHull>
+      <ShipType>fed</ShipType>
       <Name>Misc/HaulerSmall</Name>
     </UnlockedHull>
 	<UnlockedHull>

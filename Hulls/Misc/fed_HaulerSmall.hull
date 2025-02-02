@@ -1,9 +1,8 @@
 ﻿Version=1
-HullName=Misc/basic mining ship
-VisibleName=basic mining ship
+HullName=Misc/fed_HaulerSmall
+VisibleName=fed_HaulerSmall
 Role=freighter
-Style=Misc
-ModName=Star Trek
+Style=fed
 Size=4,10
 MeshOffset=0,-16
 IconPath=ShipIcons/terran_cargo1

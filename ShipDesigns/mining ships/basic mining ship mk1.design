@@ -1,7 +1,7 @@
 Version=1
 Name=basic mining ship mk1
 Hull=Misc/HaulerSmall
-Role=freighter
+Role=supply
 Style=Misc
 ModName=Star Trek
 Size=4,10
