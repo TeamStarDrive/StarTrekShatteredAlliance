@@ -42,6 +42,10 @@
       <Name>Cardassia/OWP</Name>
       <ShipType>Cardassia</ShipType>
     </UnlockedHull>
+	  <UnlockedHull>
+      <Name>Cardassia/cad mining ship mk1</Name>
+      <ShipType>Cardassia</ShipType>
+    </UnlockedHull>
   <UnlockedHull>
       <Name>Klingon/Kling_Kvort</Name>
       <ShipType>Klingon</ShipType>
