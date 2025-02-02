@@ -18,6 +18,10 @@
   <TroopsUnlocked />
   <HullsUnlocked>
     <UnlockedHull>
+      <Name>Remnant/XenoHeavyCruiser</Name>
+      <ShipType>Remnant</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
       <Name>vulcan/Vul_Vultres</Name>
       <ShipType>vulcan</ShipType>
     </UnlockedHull>

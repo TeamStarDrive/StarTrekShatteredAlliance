@@ -52,6 +52,10 @@
   <TroopsUnlocked />
   <HullsUnlocked>
     <UnlockedHull>
+      <Name>Remnant/AncientFrigate</Name>
+      <ShipType>Remnant</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
       <Name>vulcan/Vul_Ktra</Name>
       <ShipType>vulcan</ShipType>
     </UnlockedHull>

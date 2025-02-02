@@ -1,10 +1,10 @@
 ﻿Version=1
-HullName=Corsair/CorsairFlagShip
+HullName=Corsairs/CorsairFlagShip
 VisibleName=CorsairFlagShip
 Role=cruiser
-Style=Corsair
+Style=Corsairs
 Size=20,36
-MeshOffset=0,0
+MeshOffset=0,4
 IconPath=ShipIcons/10c
 ModelPath=Model/Ships/Terran/LightCarrierRed/LightCarrier
 SelectIcon=10c
@@ -12,9 +12,9 @@ Animated=false
 IsShipyard=false
 IsOrbitalDefense=false
 #Thruster PosX,PosY,PosZ,Scale
-Thruster=40,238,-8,100
-Thruster=0,258,-8,100
-Thruster=-40,238,-8,100
+Thruster=40,238,8,100
+Thruster=0,258,8,100
+Thruster=-40,238,8,100
 Slots
 ___|___|___|___|___|___|___|___|O  |___|___|O  |___|___|___|___|___|___|___|___
 ___|___|___|___|___|___|___|O  |O  |O  |O  |O  |O  |___|___|___|___|___|___|___

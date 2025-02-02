@@ -18,6 +18,14 @@
   <TroopsUnlocked />
   <HullsUnlocked>
     <UnlockedHull>
+      <ShipType>Draugar</ShipType>
+      <Name>Draugar/Draug Fighter Advanced</Name>
+    </UnlockedHull> 
+    <UnlockedHull>
+      <ShipType>Remnant</ShipType>
+      <Name>Remnant/XenoGunship</Name>
+    </UnlockedHull>
+    <UnlockedHull>
       <Name>vulcan/Vul_TPlanna</Name>
       <ShipType>vulcan</ShipType>
     </UnlockedHull>

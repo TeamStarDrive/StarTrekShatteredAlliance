@@ -76,6 +76,10 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+    <UnlockedHull>
+      <ShipType>Draugar</ShipType>
+      <Name>Draugar/Draug Fighter</Name>
+    </UnlockedHull>
   <UnlockedHull>
       <ShipType>Cardassia</ShipType>
       <Name>Misc/HaulerSmall</Name>

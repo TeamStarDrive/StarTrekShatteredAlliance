@@ -54,6 +54,14 @@
   <TroopsUnlocked />
   <HullsUnlocked>
     <UnlockedHull>
+      <ShipType>Remnant</ShipType>
+      <Name>Remnant/Xeno Fighter</Name>
+    </UnlockedHull>
+    <UnlockedHull>
+      <ShipType>Draugar</ShipType>
+      <Name>Draugar/Draug Fighter Improved</Name>
+    </UnlockedHull>
+    <UnlockedHull>
       <Name>vulcan/Vul_Hellis</Name>
       <ShipType>vulcan</ShipType>
     </UnlockedHull>

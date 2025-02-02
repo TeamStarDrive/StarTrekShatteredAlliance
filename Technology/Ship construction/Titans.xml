@@ -43,6 +43,18 @@
   </BonusUnlocked>
   <TroopsUnlocked />
   <HullsUnlocked>
+    <UnlockedHull>
+      <Name>Remnant/Mothership</Name>
+      <ShipType>Remnant</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Remnant/Behemoth</Name>
+      <ShipType>Remnant</ShipType>
+    </UnlockedHull>
+    <UnlockedHull>
+      <Name>Draugar/Draug Flagship Hull</Name>
+      <ShipType>Draugar</ShipType>
+    </UnlockedHull>
 	<UnlockedHull>
       <Name>vulcan/Vul_Trankis</Name>
       <ShipType>vulcan</ShipType>
