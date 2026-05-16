@@ -71,7 +71,7 @@ Globals:
   # mod information
   Mod:
     Name: "Star Trek"
-    Version: "v2.8"
+    Version: "v1.60.0001"
     FormatVersion: 1
     SupportedBlackBoxVersions: "main,mars-1.50,mars-1.51,mars:1.50
     IconPath: mod_icon.png
