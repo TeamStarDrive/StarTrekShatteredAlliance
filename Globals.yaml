@@ -46,13 +46,12 @@ Globals:
   UseDestroyers: false
   EnableECM: false
   UseCombatRepair: false
-  UsePlanetaryProjection: false
   DisableRemnantStory: false
   DisablePirates: false
   AIUsesPlayerDesigns: false
 
-  # visuals modifiers
   SpaceportScale: 0.5
+  # visuals modifiers
   ExplosionVisualIncreaser: 1 # default: 1
   ShipExplosionVisualIncreaser: 1 # default: 1
   ModuleDamageVisualIntensity: 1 # default: 1
