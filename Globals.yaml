@@ -70,9 +70,9 @@ Globals:
   # mod information
   Mod:
     Name: "Star Trek"
-    Version: "v2.8a"
+    Version: "v1.60.0001"
     FormatVersion: 1
-    SupportedBlackBoxVersions: "main,mars-1.51"
+    SupportedBlackBoxVersions: "main,jupiter-1.60"
     IconPath: mod_icon.png
     Description: "7 STARTREK RACES THEIR SHIPS AND WEAPONS."
     Author: "Threepwood and tbh mostly The StarDrive+ Team"
