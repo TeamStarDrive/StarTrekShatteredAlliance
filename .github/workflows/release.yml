@@ -20,7 +20,7 @@ jobs:
       - name: Set environment variables
         run: |
           echo "FOLDER_NAME=Star Trek" >> $GITHUB_ENV
-          echo "BASE_NAME=StarTrek$MOD_VERSION" >> $GITHUB_ENV
+          echo "BASE_NAME=StarTrek_$MOD_VERSION" >> $GITHUB_ENV
           echo "TAG_NAME=$MOD_VERSION" >> $GITHUB_ENV
           echo "RELEASE_NAME=Star Trek $MOD_VERSION" >> $GITHUB_ENV
         env:
@@ -37,13 +37,13 @@ jobs:
         run: |
           zip -r "${BASE_NAME}.zip" "$FOLDER_NAME"
 
-      - name: Split the ZIP into 25MB chunks with numbered names
+      - name: Split the ZIP into 500MB chunks with numbered names
         id: split_zip
         run: |
           rm -rf chunks
           mkdir chunks
           zipname="${BASE_NAME}.zip"
-          split -b 25m "$zipname" "chunks/split_"
+          split -b 500m "$zipname" "chunks/split_"
 
           count=$(ls chunks/split_* | wc -l)
           if [ "$count" -eq 1 ]; then
