@@ -1,0 +1,6 @@
+﻿Default: Jupiter
+MainMenus:
+  - MainMenu:
+    Name: Jupiter
+    UILayoutFile: UI/MMenu.StarTrek.yaml
+    SceneFile: UI/MMenu.StarTrek.scene.yaml

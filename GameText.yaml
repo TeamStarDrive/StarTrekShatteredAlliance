@@ -2844,11 +2844,11 @@ CA_VastAmountsOfPowerIs:
  Id: 18924
  ENG: "Vast amounts of power is used to deliver a lethal plasma cloud which is also excellent versus shields. Sadly, with high power requirements and slightly less range."
  RUS: "Огромное количество энергии используется для доставки смертоносного плазменного облака. Отлично справляется со щитами.  К сожалению, требовательна к мощности и имеет чуть меньший радиус действия."
-CA_PowerAssistedPlasmaThrower:
+CA_PowerAssistedPlasmaThrower_Name:
  Id: 18925
  ENG: "Power Assisted Plasma Thrower"
  RUS: "Усиленный плазмотрон"
-CA_ThisPlasmaThrowerVentsA:
+CA_ThisPlasmaThrowerVentsA_Desc:
  Id: 18926
  ENG: "This plasma thrower vents a more focused plasma cloud thanks to power transfer from the ship's reactors. It is very good versus Shields, but requires high power and more ordnance."
  RUS: "Этот плазмотрон выпускает более сфокусированное плазменное облако за счет передачи энергии от реакторов корабля.  Он очень хорош против щитов, но требует большой мощности и большего количества боеприпасов."
