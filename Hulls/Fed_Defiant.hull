@@ -11,12 +11,12 @@ Animated=false
 IsShipyard=false
 IsOrbitalDefense=false
 #Thruster PosX,PosY,PosZ,Scale
-Thruster=-41,38,0,32
-Thruster=-55,38,0,32
-Thruster=41,39,0,32
-Thruster=58,39,0,32
-Thruster=-6,85,0,32
-Thruster=7,84,0,32
+Thruster=-41,38,11,32
+Thruster=-55,38,11,32
+Thruster=41,39,11,32
+Thruster=58,39,11,32
+Thruster=-6,85,7,32
+Thruster=7,84,7,32
 Slots
 ___|___|___|___|O  |O  |___|___|___|___
 ___|___|___|IO |O  |O  |IO |___|___|___
