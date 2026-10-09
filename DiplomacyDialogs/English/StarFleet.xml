@@ -80,7 +80,7 @@
     </DialogLine>
     <DialogLine>
       <DialogType>OfferResponse_InsufficientTrust</DialogType>
-      <Default>Negative, SING. Your offer requires more from us than we're willing to part with at this time.</Default>
+      <Default>Negative, SING. The Federation does not trust you enough yet for an arrangement like this.</Default>
     </DialogLine>
     <DialogLine>
       <DialogType>OfferResponse_AcceptGreatOffer_LowTrust</DialogType>
