@@ -47,6 +47,7 @@ Globals:
   UseCombatRepair: false
   DisableRemnantStory: false
   DisablePirates: false
+  EnableSalvageOps: false # salvageable derelicts and salvage stations
   AIUsesPlayerDesigns: false
 
   SpaceportScale: 0.5
