@@ -70,7 +70,7 @@ Globals:
   # mod information
   Mod:
     Name: "Star Trek"
-    Version: "v1.60.0004"
+    Version: "v1.60.0005"
     FormatVersion: 1
     SupportedBlackBoxVersions: "main,jupiter-1.60"
     IconPath: mod_icon.png
