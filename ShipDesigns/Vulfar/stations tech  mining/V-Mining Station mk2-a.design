@@ -3,6 +3,7 @@ Name=V-Mining Station mk2-a
 Hull=Vulfen/Vulfen_Station
 Role=station
 Style=Vulfen
+ModName=Star Trek
 Size=34,52
 GridCenter=17,26
 DefaultCombatState=AttackRuns
