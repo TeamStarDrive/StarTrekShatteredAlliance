@@ -23,7 +23,7 @@
 
   <!-- Mass and Health -->
   <Mass>60</Mass>
-  <HealthMax>1570</HealthMax>
+  <HealthMax>15570</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>5</PowerDraw>
