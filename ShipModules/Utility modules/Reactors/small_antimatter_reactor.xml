@@ -18,9 +18,7 @@
   <TexturePath>Textures/transparent</TexturePath>
   <IconTexturePath>Modules/small_antimatter_reactor</IconTexturePath>
   <Mass>6</Mass>
-  <Health>1200</Health>
   <HealthMax>1200</HealthMax>
-  <energyreq>0</energyreq>
   
   <Description>Power Plants are the beating hearts of spaceships.  This basic fission model provides a moderate level of power output and power storage. Explodes when destroyed.
   </Description>

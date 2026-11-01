@@ -17,10 +17,8 @@
   <UID>Assault_Cannon_Type20</UID>
   <IconTexturePath>Modules/Assault_Cannon_Type20</IconTexturePath>
   <Mass>112</Mass>
-  <Health>13500</Health>
   <HealthMax>13500</HealthMax>
   <RepairDifficulty>3</RepairDifficulty>
-  <energyreq>0</energyreq>
   <Description>Sprin mount cannons, using default AP ammo.+10% damage against armor but -15% damage against shield.Explosion radius: Medium
   </Description>
   

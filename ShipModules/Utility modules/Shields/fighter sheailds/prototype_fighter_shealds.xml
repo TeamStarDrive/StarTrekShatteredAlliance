@@ -28,9 +28,7 @@
 
   <IconTexturePath>Modules/prototype_fighter_shealds</IconTexturePath>
   <Mass>10</Mass>
-  <Health>2800</Health>
   <HealthMax>2800</HealthMax>
-  <energyreq>0</energyreq>
   
   <Description>This shield has a decent sized protection radius but is only capable of taking a few hits. However it does have a quick recharge rate.</Description>
   

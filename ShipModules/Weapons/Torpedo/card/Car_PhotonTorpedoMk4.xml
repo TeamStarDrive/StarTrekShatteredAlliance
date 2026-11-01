@@ -13,9 +13,7 @@
 
   <IconTexturePath>Modules/Car_PhotonTorpedoMk4</IconTexturePath>
   <Mass>350</Mass>
-  <Health>25500</Health>
   <HealthMax>25500</HealthMax>
-  <energyreq>20</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
   

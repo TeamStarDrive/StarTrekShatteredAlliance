@@ -13,9 +13,7 @@
 
   <IconTexturePath>Modules/Fed_Photonstorm</IconTexturePath>
   <Mass>500</Mass>
-  <Health>34500</Health>
   <HealthMax>34500</HealthMax>
-  <energyreq>100</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
   

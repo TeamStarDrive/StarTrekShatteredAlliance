@@ -31,7 +31,6 @@
     <DescriptionIndex>18737</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>85530</Mass>
-    <Health>360000</Health>
     <HealthMax>360000</HealthMax>
     <RepairDifficulty>3</RepairDifficulty>
     <Deflection>120</Deflection>                  

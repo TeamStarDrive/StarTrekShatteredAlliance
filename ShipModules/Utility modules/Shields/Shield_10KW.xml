@@ -18,9 +18,7 @@
   <Name>10KW_Shield</Name>
   <IconTexturePath>Modules/shield_3x3</IconTexturePath>
   <Mass>81</Mass>
-  <Health>14200</Health>
   <HealthMax>14200</HealthMax>
-  <energyreq>0</energyreq>
   <PowerDraw>95</PowerDraw>
   
   <Description>This is a large shield that provides heavy protection at a heavy power cost</Description>

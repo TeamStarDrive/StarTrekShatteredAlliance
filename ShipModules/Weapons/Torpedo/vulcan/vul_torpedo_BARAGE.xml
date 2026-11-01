@@ -13,9 +13,7 @@
 
   <IconTexturePath>Modules/torpedo_BARAGE</IconTexturePath>
   <Mass>350</Mass>
-  <Health>44500</Health>
   <HealthMax>44500</HealthMax>
-  <energyreq>50</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
   

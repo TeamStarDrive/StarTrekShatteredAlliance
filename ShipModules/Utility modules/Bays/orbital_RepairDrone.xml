@@ -16,9 +16,7 @@
 
   <IconTexturePath>Modules/orbital_RepairDrone</IconTexturePath>
   <Mass>9000</Mass>
-  <Health>9000</Health>
   <HealthMax>9000</HealthMax>
-  <energyreq>0</energyreq>
   <Description>
   </Description>
 

@@ -26,9 +26,7 @@
   <Name>station_deflector_mk1</Name>
   <IconTexturePath>Modules/station_deflector_mk1</IconTexturePath>
   <Mass>10000</Mass>
-  <Health>76188</Health>
   <HealthMax>76188</HealthMax>
-  <energyreq>0</energyreq>
   
   <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
   

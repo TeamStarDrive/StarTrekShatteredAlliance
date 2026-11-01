@@ -14,9 +14,7 @@
 
   <IconTexturePath>Modules/Kling_DisruptorCannonMk3</IconTexturePath>
   <Mass>20</Mass>
-  <Health>12760</Health>
   <HealthMax>12760</HealthMax>
-  <energyreq>0</energyreq>
   <Description>A crude but effective high-energy cannon weapon </Description>
   <CrewRequired>12</CrewRequired>
   

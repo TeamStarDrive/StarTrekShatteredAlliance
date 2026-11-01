@@ -13,9 +13,7 @@
 
   <IconTexturePath>Modules/Transporter_4x4</IconTexturePath>
   <Mass>30</Mass>
-  <Health>2950</Health>
   <HealthMax>2950</HealthMax>
-  <energyreq>0</energyreq>
   <Description>Ships equipped with a Transporter cand transport matter electronicly
   </Description>
   <PowerDraw>350</PowerDraw>

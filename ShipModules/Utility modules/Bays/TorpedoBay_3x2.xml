@@ -14,9 +14,7 @@
 
   <IconTexturePath>Modules/TorpedoBay_3x2</IconTexturePath>
   <Mass>25</Mass>
-  <Health>9600</Health>
   <HealthMax>9600</HealthMax>
-  <energyreq>0</energyreq>
   <Description>.
   </Description>
   

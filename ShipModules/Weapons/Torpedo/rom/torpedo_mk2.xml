@@ -13,9 +13,7 @@
 
   <IconTexturePath>Modules/torpedo_mk2</IconTexturePath>
   <Mass>132</Mass>
-  <Health>13500</Health>
   <HealthMax>13500</HealthMax>
-  <energyreq>10</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
   

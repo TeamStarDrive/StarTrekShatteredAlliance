@@ -26,9 +26,7 @@
   <Name>starbase_sheailds</Name>
   <IconTexturePath>Modules/starbase_sheailds</IconTexturePath>
   <Mass>11000</Mass>
-  <Health>86188</Health>
   <HealthMax>86188</HealthMax>
-  <energyreq>0</energyreq>
   
   <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
   

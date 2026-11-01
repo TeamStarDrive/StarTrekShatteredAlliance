@@ -14,9 +14,7 @@
   <Name>mainbattery_3x3</Name>
   <IconTexturePath>Modules/mainbattery_3x3</IconTexturePath>
   <Mass>70</Mass>
-  <Health>19080</Health>
   <HealthMax>19080</HealthMax>
-  <energyreq>2</energyreq>
   
   
   

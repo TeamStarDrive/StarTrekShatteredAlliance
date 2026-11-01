@@ -13,9 +13,7 @@
 
   <IconTexturePath>Modules/Astrometrics_3x3</IconTexturePath>
   <Mass>20</Mass>
-  <Health>1950</Health>
   <HealthMax>1950</HealthMax>
-  <energyreq>0</energyreq>
   <Description>Ships equipped with a Astrometrics scanning module have an effective sensor range of 400,000.
   </Description>
   <PowerDraw>600</PowerDraw>

@@ -18,9 +18,7 @@
   <IconTexturePath>Modules/warpcore_6x6</IconTexturePath>
   
   <Mass>135</Mass>
-  <Health>19450</Health>
   <HealthMax>199450</HealthMax>
-  <energyreq>0</energyreq>
   
   <Description>Harnesses a matter/anti-matter reaction to create large amounts of power</Description>
   <CrewRequired>10</CrewRequired>

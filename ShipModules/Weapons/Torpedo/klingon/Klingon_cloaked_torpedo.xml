@@ -13,9 +13,7 @@
 
   <IconTexturePath>Modules/Klingon_cloaked_torpedo</IconTexturePath>
   <Mass>350</Mass>
-  <Health>9500</Health>
   <HealthMax>9500</HealthMax>
-  <energyreq>20</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
   

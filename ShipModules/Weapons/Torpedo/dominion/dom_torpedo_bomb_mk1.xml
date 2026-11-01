@@ -13,9 +13,7 @@
 
   <IconTexturePath>Modules/torpedo_bomb_mk1</IconTexturePath>
   <Mass>200</Mass>
-  <Health>16500</Health>
   <HealthMax>16500</HealthMax>
-  <energyreq>60</energyreq>
   <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
   
   

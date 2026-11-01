@@ -14,9 +14,7 @@
   <UID>primative_disrupter_cannon</UID>
   <IconTexturePath>Modules/primative_disrupter_cannon</IconTexturePath>
   <Mass>10</Mass>
-  <Health>7750</Health>
   <HealthMax>7750</HealthMax>
-  <energyreq>0</energyreq>
   <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
   </Description>
   

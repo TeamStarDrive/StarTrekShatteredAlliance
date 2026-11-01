@@ -17,9 +17,7 @@
   <Name>crusier_dock</Name>
   <IconTexturePath>Modules/cruiser_dock</IconTexturePath>
   <Mass>4000</Mass>
-  <Health>19000</Health>
   <HealthMax>19000</HealthMax>
-  <energyreq>125</energyreq>
   
   <CrewRequired>10</CrewRequired>
   

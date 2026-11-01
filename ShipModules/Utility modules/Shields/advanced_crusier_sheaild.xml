@@ -29,9 +29,7 @@
   <Name>advanced_crusier_sheaild</Name>
   <IconTexturePath>Modules/advanced_crusier_sheaild</IconTexturePath>
   <Mass>91</Mass>
-  <Health>50200</Health>
   <HealthMax>50200</HealthMax>
-  <energyreq>0</energyreq>
   
   <Description>This is a large shield that provides heavy protection at a heavy power cost</Description>
   

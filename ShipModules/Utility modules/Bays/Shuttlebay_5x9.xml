@@ -17,9 +17,7 @@
   <Name>Shuttlebay_5x9</Name>
   <IconTexturePath>Modules/Shuttlebay_5x9</IconTexturePath>
   <Mass>290</Mass>
-  <Health>17000</Health>
   <HealthMax>17000</HealthMax>
-  <energyreq>40</energyreq>
   
   <CrewRequired>10</CrewRequired>
   

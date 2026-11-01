@@ -25,9 +25,7 @@
   <Name>ORBITAL_SHEAILD_2X2_MK2</Name>
   <IconTexturePath>Modules/ORBITAL_SHEAILD_2X2_MK2</IconTexturePath>
   <Mass>6000</Mass>
-  <Health>56188</Health>
   <HealthMax>56188</HealthMax>
-  <energyreq>0</energyreq>
   
   <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
   

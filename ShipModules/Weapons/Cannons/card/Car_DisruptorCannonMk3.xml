@@ -14,9 +14,7 @@
 
   <IconTexturePath>Modules/Car_DisruptorCannonMk3</IconTexturePath>
   <Mass>50</Mass>
-  <Health>29760</Health>
   <HealthMax>29760</HealthMax>
-  <energyreq>0</energyreq>
   <Description>A crude but effective high-energy cannon weapon </Description>
   <CrewRequired>12</CrewRequired>
   
