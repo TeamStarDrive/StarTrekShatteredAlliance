@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <EmpireData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <PortraitName>Klingon</PortraitName>
+  <PortraitName>Klingon</PortraitName>
   <MusicCue>sd_races_Terran</MusicCue>
   <DiplomacyDialogPath>Klingon</DiplomacyDialogPath>
   <StartingShip>klingon starting ship mk1</StartingShip>
@@ -14,7 +14,8 @@
   <DefaultSupplyShuttle>Terran-Supply</DefaultSupplyShuttle>
   <DefaultResearchStation>Basic Research Station</DefaultResearchStation>
   <DefaultMiningShip>basic mining ship mk1</DefaultMiningShip>
-  <DefaultMiningStation>Basic Mining Station</DefaultMiningStation>  
+  <DefaultMiningStation>Basic Mining Station</DefaultMiningStation>
+  <DefaultSalvageShip>Klingon Salvage Ship</DefaultSalvageShip>
   <ThrustColor0R>95</ThrustColor0R>
   <ThrustColor0G>158</ThrustColor0G>
   <ThrustColor0B>160</ThrustColor0B>

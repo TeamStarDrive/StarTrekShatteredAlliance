@@ -14,7 +14,8 @@
   <DefaultSupplyShuttle>Terran-Supply</DefaultSupplyShuttle>
   <DefaultResearchStation>dominion basic tech station mk1</DefaultResearchStation>
   <DefaultMiningShip>basic mining ship mk1</DefaultMiningShip>
-  <DefaultMiningStation>dominion basic mining station mk1</DefaultMiningStation>  
+  <DefaultMiningStation>dominion basic mining station mk1</DefaultMiningStation>
+  <DefaultSalvageShip>dominion Salvage Ship</DefaultSalvageShip>
   <ThrustColor0R>95</ThrustColor0R>
   <ThrustColor0G>158</ThrustColor0G>
   <ThrustColor0B>160</ThrustColor0B>

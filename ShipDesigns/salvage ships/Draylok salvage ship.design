@@ -1,0 +1,54 @@
+Version=1
+Name=Draylok salvage ship
+Hull=Draylok/Scythe
+Role=support
+ModName=Star Trek
+Style=Draylok
+Size=14,10
+GridCenter=7,5
+DefaultCombatState=Artillery
+ShipCategory=Unclassified
+HangarDesignation=General
+IsShipyard=false
+IsOrbitalDefense=false
+IsCarrierOnly=false
+# Maps module UIDs to Index, first UID has index 0
+ModuleUIDs=BasicCargoHold;MediumCargoHold;SalvageUnit;NuclearReactorSmall;Cockpit;CombatEngine_2x1
+Modules=36
+# gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
+1,0;0
+6,0;1;2,2
+12,0;0
+0,1;1;2,2
+12,1;1;2,2
+5,2;2;4,4;;;Draylok Constructor
+0,3;1;2,2
+12,3;1;2,2
+2,4;0
+11,4;0
+0,5;1;2,2
+2,5;1;2,2
+4,5;0
+9,5;0
+10,5;1;2,2
+12,5;1;2,2
+4,6;1;2,2
+6,6;3
+7,6;3
+8,6;1;2,2
+1,7;1;2,2
+3,7;0
+6,7;3
+7,7;4
+10,7;0
+11,7;1;2,2
+3,8;0
+4,8;5;2,1
+6,8;5;2,1
+8,8;5;2,1
+10,8;0
+2,9;0
+4,9;5;2,1
+6,9;5;2,1
+8,9;5;2,1
+11,9;0

@@ -6,7 +6,8 @@
   <Cost>450</Cost>
   <NameIndex>601</NameIndex>
   <DescriptionIndex>602</DescriptionIndex>
-  <LeadsTo />
+  <LeadsTo>
+  </LeadsTo>
   <ModulesUnlocked>
     <UnlockedMod>
       <ModuleUID>ContainerDeck</ModuleUID>
