@@ -6,14 +6,14 @@ Style=Vulfen
 Size=12,40
 MeshOffset=0,-8
 IconPath=ShipIcons/typeX
-ModelPath=mod Model/Vulfar/TypeX
+ModelPath=Model/Ships/Vulfen/TypeX
 SelectIcon=14c
 Animated=false
 IsShipyard=false
 IsOrbitalDefense=false
 #Thruster PosX,PosY,PosZ,Scale
-Thruster=33,253,-8,80
-Thruster=-29,253,-8,80
+Thruster=30,242,-8,80
+Thruster=-30,242,-8,80
 Slots
 ___|___|___|___|___|O  |O  |___|___|___|___|___
 ___|___|___|___|O  |O  |O  |O  |___|___|___|___
