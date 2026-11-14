@@ -29,9 +29,9 @@ Globals:
   ResearchStationProductionPerResearch: 1 # default 1.5
   RushCostPercentage: 1 # default 1, How much rushing costs in percentage of production cost
   MinAcceptableShipWarpRange: 600000 # minimum ship warp range which is accepted as good
-  BaseShipyardRepair: 6.0 # base amount of ship repair per turn from planetary buildings
-  BonusRepairPerColonyLevel: 0.7 # +bonus based on colony level, 0.2 would be +20% increase per level
-  InCombatRepairModifier: 0.1 # repair rate modifier when a ship or planet is in combat
+  BaseShipyardRepair: 6.0 # multiplier of the ShipRepair of planetary buildings, giving repair per second
+  BonusRepairPerColonyLevel: 0.7 # colony repair is multiplied by colony level times this: 0.7 gives x0.7 at level 1 and x3.5 at level 5
+  InCombatRepairModifier: 0.1 # share of a colony's ship repair while there is fighting near the colony
   SelfRepairMultiplier: 1.0 # base repair rate multiplier from ship command/engineering modules
   BonusRepairPerCrewLevel: 0.3 # +bonus rate based on crew level, 0.2 would be +20% increase per each crew level
   ShieldPowerMultiplier: 1.0 # Global multiplier for Shields
