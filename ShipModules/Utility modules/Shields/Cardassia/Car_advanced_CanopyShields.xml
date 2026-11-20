@@ -13,12 +13,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Car_advanced_CanopyShields</Name>
+  <Name>Cardassian Dreadnought Canopy Shield</Name>
   <IconTexturePath>Modules/advanced_CanopyShields</IconTexturePath>
   <Mass>250</Mass>
   <HealthMax>99696</HealthMax>
   
-  <Description>A Cardassian shield grid: thorough, heavy and built for a long campaign. An improved canopy shield with higher resistance and a wide radius, for capital ships. Its power costs are enormous.</Description>
+  <Description>The canopy field of the biggest Cardassian warships. Meant to cover a whole squadron at once. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
   
   
   <PowerDraw>1400</PowerDraw>

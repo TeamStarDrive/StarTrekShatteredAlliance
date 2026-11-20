@@ -20,7 +20,7 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Car_large_polirised_orbital_armor</Name>
+    <Name>Cardassian Orbital Ring Plate (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>Car_large_polirised_orbital_armor</UID> 
   <Version>2</Version>
@@ -41,6 +41,6 @@
     <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Heavy polarised plating for stations, built to hold through a long siege.</Description>
+    <Description>Polarised plating for a station's habitat ring, tuned to bleed off energy fire and built to hold through a long siege. Strong protection against beams, plasma and explosions, good protection against kinetic rounds. Of the Cardassian orbital plates of its size, it is the lightest and the cheapest to build, but the most fragile.</Description>
     <APResist>1</APResist>
 </ShipModule>

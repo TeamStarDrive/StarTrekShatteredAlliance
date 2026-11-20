@@ -18,7 +18,7 @@
   <Mass>200</Mass>
   <HealthMax>80188</HealthMax>
   
-  <Description>Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A huge shield with high resistance and a wide protection radius, ideal for capital ships. Its power costs are enormous.</Description>
+  <Description>A canopy field drawn over the largest hulls from a ring of emitters, with the harmonics phase-locked across the whole span. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it is the slowest to come back after being knocked down.</Description>
   
   
   <PowerDraw>900</PowerDraw>

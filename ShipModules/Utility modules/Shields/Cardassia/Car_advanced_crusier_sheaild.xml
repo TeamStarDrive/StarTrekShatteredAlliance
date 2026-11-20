@@ -26,12 +26,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Car_advanced_crusier_sheaild</Name>
+  <Name>Cardassian Keldon Shield Grid</Name>
   <IconTexturePath>Modules/advanced_crusier_sheaild</IconTexturePath>
   <Mass>91</Mass>
   <HealthMax>50200</HealthMax>
   
-  <Description>A Cardassian shield grid: thorough, heavy and built for a long campaign. A large shield for cruisers that gives heavy protection at a heavy power cost.</Description>
+  <Description>The Keldon-class shares the Galor's hull with an extra superstructure, and a stronger grid to match. Its shields take energy fire well. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it is the quickest to come back after being knocked down.</Description>
   
   
   <PowerDraw>200</PowerDraw>

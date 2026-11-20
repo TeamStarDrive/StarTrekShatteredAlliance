@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Fed_QuantumTorpedo_Mk2</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>12500</HealthMax>
-  <Description>A launcher for quantum torpedoes, a higher-yield warhead than the photon torpedo. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home. An improved model.</Description>
+  <Description>An improved array for quantum torpedoes, with a compact warhead and a refined vacuum-energy core. Of the Starfleet torpedo weapons, it has the fastest shots.</Description>
   
   
   <PowerDraw>5</PowerDraw>

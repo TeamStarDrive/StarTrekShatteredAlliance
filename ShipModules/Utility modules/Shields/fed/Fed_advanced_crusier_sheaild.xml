@@ -31,7 +31,7 @@
   <Mass>91</Mass>
   <HealthMax>50200</HealthMax>
   
-  <Description>Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A large shield for cruisers that gives heavy protection at a heavy power cost.</Description>
+  <Description>The grid reads incoming fire and remodulates its shield harmonics to match, so each hit lands on a field already tuned against it. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it is the quickest to come back after being knocked down.</Description>
   
   
   <PowerDraw>200</PowerDraw>

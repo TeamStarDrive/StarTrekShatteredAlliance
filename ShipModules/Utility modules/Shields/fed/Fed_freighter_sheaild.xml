@@ -31,7 +31,7 @@
   <Mass>16</Mass>
   <HealthMax>2900</HealthMax>
   
-  <Description>Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A basic shield for freighters: short radius and a slow recharge.</Description>
+  <Description>A simple deflector generator for cargo haulers and tenders. It is built to turn away debris and the odd raider. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
   
   
   <PowerDraw>15</PowerDraw>

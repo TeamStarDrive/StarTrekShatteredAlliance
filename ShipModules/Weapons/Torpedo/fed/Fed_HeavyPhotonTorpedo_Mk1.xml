@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Fed_HeavyPhotonTorpedo_Mk1</IconTexturePath>
   <Mass>250</Mass>
   <HealthMax>11900</HealthMax>
-  <Description>A heavy launcher for a large warhead on a long reload. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home.</Description>
+  <Description>A heavy launcher for ships that need to break a hull and not just a shield. Of the Starfleet torpedo weapons, it is the cheapest for its size and has the widest blast, but is the frailest for its size.</Description>
   
   
   <PowerDraw>10</PowerDraw>

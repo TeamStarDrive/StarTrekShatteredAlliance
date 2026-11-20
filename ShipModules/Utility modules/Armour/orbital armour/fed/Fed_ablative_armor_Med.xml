@@ -41,6 +41,6 @@
     <PlasmaResist>0.2</PlasmaResist>
 
     <!-- Description -->
-    <Description>Ablative armour for starbases and orbital platforms: it burns away in layers to protect what is beneath.</Description>
+    <Description>Ablative plating for a starbase ring, replaced in sections once it has taken a beating. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Starfleet orbital plates of its size, it is the toughest and the best protected against beams, but the costliest to build.</Description>
     <APResist>2</APResist>    
 </ShipModule>

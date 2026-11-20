@@ -13,12 +13,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Car_CanopyShield</Name>
+  <Name>Cardassian Hegemony Canopy Shield</Name>
   <IconTexturePath>Modules/shield_3x6</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>80188</HealthMax>
   
-  <Description>A Cardassian shield grid: thorough, heavy and built for a long campaign. A huge shield with high resistance and a wide protection radius, ideal for capital ships. Its power costs are enormous.</Description>
+  <Description>A wide canopy field thrown over the largest hulls of the Union's fleets, built to cover a whole formation. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it is the slowest to come back after being knocked down.</Description>
   
   
   <PowerDraw>900</PowerDraw>

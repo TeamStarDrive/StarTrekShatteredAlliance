@@ -48,7 +48,7 @@
   <PlasmaResist>0</PlasmaResist>
 
   <!-- Description -->
-  <Description>Plating built round a crystalline lattice that scatters the force of a hit.</Description>
+  <Description>A crystalline laminate grown in the fabrication bays of the Utopia Planitia yards above Mars, with its atoms aligned along the line of the hull stress. The lattice vibrates at a resonant frequency, so a hit is spread through the crystal before it can crack. Good protection against explosions, some protection against kinetic rounds. Of the Starfleet ship plates of its size, it is the best protected against kinetic rounds and the best protected against explosions, but the costliest to build.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

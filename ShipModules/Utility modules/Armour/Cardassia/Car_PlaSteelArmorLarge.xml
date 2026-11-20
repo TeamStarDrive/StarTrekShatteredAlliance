@@ -10,7 +10,7 @@
   <XSize>3</XSize>
   <YSize>3</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Car_PlaSteelArmorLarge</Name>
+  <Name>Cardassian Orbital Yard Laminate (Large)</Name>
   <Restrictions>O</Restrictions>
   <UID>Car_PlaSteelArmorLarge</UID> 
   <Version>2</Version>
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.08</ExplosiveResist>
   
   <!-- Description -->
-  <Description>A layered laminate that gives good protection for its weight. Cheap and entirely adequate.</Description>
+  <Description>A laminate rolled out in bulk at the orbital assembly yards above Cardassia Prime. There is always more of it. Some protection against explosions. Of the Cardassian ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams.</Description>
   
 
 </ShipModule>

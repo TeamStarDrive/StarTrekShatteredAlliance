@@ -8,7 +8,7 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Car_ablative_ship_armor_med</Name>
+    <Name>Cardassian Burn-Off Plate (Medium)</Name>
     <Restrictions>O</Restrictions>
     <UID>Car_ablative_ship_armor_med</UID> 
   <Version>2</Version>
@@ -30,6 +30,6 @@
     <PlasmaResist>0.10</PlasmaResist>
 
     <!-- Description -->
-    <Description>Ablative plate that sheds in layers, thorough and sturdy.</Description>
+    <Description>Ablative plate that burns away in layers, so the first hits fall on plating and not on the crew. The Union has plenty of plate and fewer ships than it needs. Good protection against kinetic rounds, beams, energy fire and explosions, some protection against plasma. Of the Cardassian ship plates of its size, it is the toughest and the best protected against beams, but the heaviest.</Description>
     <APResist>2</APResist>    
 </ShipModule>

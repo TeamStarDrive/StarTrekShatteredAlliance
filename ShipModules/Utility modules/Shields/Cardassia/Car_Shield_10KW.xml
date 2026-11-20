@@ -15,13 +15,13 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Car_Shield_10KW</Name>
+  <Name>Cardassian Galor Shield Grid</Name>
   <IconTexturePath>Modules/shield_3x3</IconTexturePath>
   <Mass>81</Mass>
   <HealthMax>14200</HealthMax>
   <PowerDraw>95</PowerDraw>
   
-  <Description>A Cardassian shield grid: thorough, heavy and built for a long campaign. A large shield that gives heavy protection at a heavy power cost.</Description>
+  <Description>The Galor-class carried its shield generators in the tail, aft of the hull. Heavy and thorough, it is the backbone of the Cardassian fleet. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>200</PowerDraw>

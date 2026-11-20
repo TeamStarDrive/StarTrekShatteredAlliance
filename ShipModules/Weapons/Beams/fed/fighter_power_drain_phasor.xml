@@ -35,7 +35,7 @@
   <FieldOfFire>90</FieldOfFire>
 
   <!-- Description -->
-  <Description>A phaser array tuned to bleed power from the target, leaving it slower to fire and to recharge. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home.</Description>
+  <Description>A compact phaser for fighters that bleeds the power grid of whatever it hits. Of the Starfleet beam weapons, it hits the hardest and fires the fastest, but is the costliest for its size.</Description>
   
 
 </ShipModule>

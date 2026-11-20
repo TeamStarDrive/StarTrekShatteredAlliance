@@ -26,7 +26,7 @@
   <IconTexturePath>Modules/orbital_defence_torpedo</IconTexturePath>
   <Mass>19500</Mass>
   <HealthMax>50500</HealthMax>
-  <Description>A photon torpedo launcher for orbital defence: slow to reload, but every warhead hits hard. Built to Starfleet's standards.</Description>
+  <Description>A fixed torpedo tube for stations and garrisons. Of the Starfleet orbital torpedo weapons, it fires the fastest and is the sturdiest for its size, but hits the softest.</Description>
   
   
   <PowerDraw>5</PowerDraw>

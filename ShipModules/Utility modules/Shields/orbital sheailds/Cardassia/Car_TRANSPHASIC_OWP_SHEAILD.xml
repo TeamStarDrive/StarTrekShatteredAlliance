@@ -22,12 +22,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Car_TRANSPHASIC_OWP_SHEAILD</Name>
+  <Name>Cardassian Platform Regenerative Shield</Name>
   <IconTexturePath>Modules/TRANSPHASIC_OWP_SHEAILD</IconTexturePath>
   <Mass>7000</Mass>
   <HealthMax>60188</HealthMax>
   
-  <Description>A Cardassian shield grid: thorough, heavy and built for a long campaign. A transphasic shield for orbital weapon platforms, with very high resistance and a wide radius.</Description>
+  <Description>The regenerative force fields that made the orbital weapon platforms of the Chin'toka system nearly invulnerable to return fire. "Captain, I've just noticed something odd about those platforms." (Garak, DS9: "Tears of the Prophets") Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian platform shields, size for size, it covers the widest area, but draws the most power.</Description>
   
   
   <PowerDraw>450</PowerDraw>

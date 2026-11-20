@@ -22,7 +22,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Car_CompositeAlloys_Small</Name>
+  <Name>Cardassian Gul Composite Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Car_CompositeAlloys_Small</UID> 
   <Version>2</Version>
@@ -48,7 +48,7 @@
   <ExplosiveResist>0.16</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Bonded alloys from Cardassian foundries: thick, practical and heavy.</Description>
+  <Description>Uridium alloy bonded in layers with other metals. The Union cannot afford to waste ships, so the plate is made to keep them alive. Good protection against explosions, some protection against kinetic rounds. Of the Cardassian ship plates of its size, it is the weakest against beams.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

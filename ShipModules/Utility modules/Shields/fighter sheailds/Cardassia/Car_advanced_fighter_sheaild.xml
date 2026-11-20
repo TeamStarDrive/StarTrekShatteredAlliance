@@ -21,7 +21,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>1</YSize>
-  <Name>Car_advanced_fighter_sheaild</Name>
+  <Name>Cardassian Hideki Reinforced Emitter</Name>
   <Restrictions>IO</Restrictions>
   <UID>Car_advanced_fighter_sheaild</UID> 
   <Version>2</Version>
@@ -30,7 +30,7 @@
   <Mass>10</Mass>
   <HealthMax>1500</HealthMax>
   
-  <Description>A Cardassian shield grid: thorough, heavy and built for a long campaign. An improved fighter shield with a decent radius that recharges quickly.</Description>
+  <Description>A refit of the Hideki emitter with a larger coil, for the fighters kept at the edge of a battle to pick off stragglers. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian fighter shields, size for size, it recharges the fastest, but draws the most power.</Description>
   
   
   <PowerDraw>30</PowerDraw>

@@ -41,6 +41,6 @@
     <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Polarised hull plating for starbases and orbital platforms, made to hold under sustained fire.</Description>
+    <Description>Polarised plating, a current run through the hull to stiffen it against impact. It was in use before shields, and still guards the rings of starbases. Strong protection against beams, plasma and explosions, good protection against kinetic rounds. Of the Starfleet orbital plates of its size, it is the lightest and the cheapest to build, but the most fragile.</Description>
     <APResist>1</APResist>
 </ShipModule>

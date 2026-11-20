@@ -20,7 +20,7 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Car_Organic_cristal_Armor_Large</Name>
+    <Name>Cardassian Reclaimed Crystal Plate (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>Car_Organic_cristal_Armor_Large</UID> 
   <Version>2</Version>
@@ -42,6 +42,6 @@
     <PlasmaResist>0.7</PlasmaResist>
 
     <!-- Description -->
-    <Description>Crystal and living tissue, patiently self-repairing.</Description>
+    <Description>Crystal grown through a living scaffold from reclaimed material, which seals cracks as they open. Strong protection against every kind of fire. Of the Cardassian orbital plates of its size, it is the best protected against energy fire and the best protected against kinetic rounds, but the costliest to build.</Description>
     <APResist>2</APResist>
 </ShipModule>

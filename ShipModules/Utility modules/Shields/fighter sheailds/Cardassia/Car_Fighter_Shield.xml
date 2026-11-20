@@ -19,7 +19,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>1</YSize>
-  <Name>Car_Fighter_Shield</Name>
+  <Name>Cardassian Hideki Shield Emitter</Name>
   <Restrictions>IO</Restrictions>
   <UID>Car_Fighter_Shield</UID> 
   <Version>2</Version>
@@ -28,7 +28,7 @@
   <Mass>9</Mass>
   <HealthMax>500</HealthMax>
   
-  <Description>A Cardassian shield grid: thorough, heavy and built for a long campaign. A fighter shield with a decent radius that can only take a few hits, but recharges quickly.</Description>
+  <Description>Emitter for the Hideki-pattern fighters the Union flew as pickets and escorts. Good enough against energy fire, and little help against debris and solid shot. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian fighter shields, size for size, it draws the least power, but holds the least energy.</Description>
   
   
   <PowerDraw>20</PowerDraw>

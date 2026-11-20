@@ -103,7 +103,7 @@ BB_Tech_Fed_PhaserCannon_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_PhaserCannon_Desc:
  Id: 18305
- ENG: "A rapid-fire energy cannon: shorter reach than a beam, but it hits hard. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home."
+ ENG: "A phase cannon, the forerunner of the modern phaser. It fires a short bolt of phased energy and needs little to keep it running. Of the Starfleet cannon weapons, it is the sturdiest for its size, but hits the softest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
  
@@ -124,7 +124,7 @@ BB_Tech_Fed_PhaserCannon_2x2_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_PhaserCannon_2x2_Desc:
  Id: 18309
- ENG: "A rapid-fire energy cannon: shorter reach than a beam, but it hits hard. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home."
+ ENG: "A phase cannon that fires in pulses, each one a fresh bolt of phased energy. Of the Starfleet cannon weapons, it has the slowest shots."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_PhaserCannon_3x3_Name:
@@ -134,7 +134,7 @@ BB_Tech_Fed_PhaserCannon_3x3_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_PhaserCannon_3x3_Desc:
  Id: 18311
- ENG: "A rapid-fire energy cannon: shorter reach than a beam, but it hits hard. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home."
+ ENG: "A larger pulse cannon, driven by a faster phase cycle for sustained fire. Of the Starfleet cannon weapons, it reaches the farthest and fires the fastest, but has the slowest shots."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_Hevey_PhaserCannon_3x3_Name:
@@ -144,7 +144,7 @@ BB_Tech_Fed_Hevey_PhaserCannon_3x3_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_Hevey_PhaserCannon_3x3_Desc:
  Id: 18313
- ENG: "A heavy rapid-fire cannon: short reach, but it hits very hard. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home."
+ ENG: "The heavy cannon of the line, built for slow, hard-hitting pulses. Of the Starfleet cannon weapons, it hits the hardest and reaches the farthest, but is the frailest for its size."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Fed_PhotonTorpedo_Mk1_Name:
@@ -154,7 +154,7 @@ BB_Fed_PhotonTorpedo_Mk1_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Fed_PhotonTorpedo_Mk1_Desc:
  Id: 18315
- ENG: "A guided torpedo launcher: slow to reload, but every warhead hits hard. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home."
+ ENG: "The standard matter-antimatter launcher of Starfleet ships. Each torpedo carries a measure of matter and antimatter, held apart in a magnetic bottle until impact. Of the Starfleet torpedo weapons, it is the sturdiest for its size, but hits the softest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_PhotonTorpedo_Mk2_Name:
@@ -164,7 +164,7 @@ BB_Tech_Fed_PhotonTorpedo_Mk2_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_PhotonTorpedo_Mk2_Desc:
  Id: 18319
- ENG: "A guided torpedo launcher: slow to reload, but every warhead hits hard. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home. An improved model."
+ ENG: "A refit launcher with a better magnetic bottle and faster loading. Of the Starfleet torpedo weapons, it carries the least ordnance."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_HeavyPhotonTorpedo_Mk1_Name:
@@ -174,7 +174,7 @@ BB_Tech_Fed_HeavyPhotonTorpedo_Mk1_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_HeavyPhotonTorpedo_Mk1_Desc:
  Id: 18321
- ENG: "A heavy launcher for a large warhead on a long reload. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home."
+ ENG: "A heavy launcher for ships that need to break a hull and not just a shield. Of the Starfleet torpedo weapons, it is the cheapest for its size and has the widest blast, but is the frailest for its size."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_HeavyPhotonTorpedo_Mk2_Name:
@@ -184,7 +184,7 @@ BB_Tech_Fed_HeavyPhotonTorpedo_Mk2_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_HeavyPhotonTorpedo_Mk2_Desc:
  Id: 18323
- ENG: "A heavy launcher for a large warhead on a long reload. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home. An improved model."
+ ENG: "A launcher tuned for a high-yield warhead, with a larger antimatter charge. Of the Starfleet torpedo weapons, it hits the hardest and is the cheapest for its size, but carries the least ordnance."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_QuantumTorpedo_Mk1_Name:
@@ -194,7 +194,7 @@ BB_Tech_Fed_QuantumTorpedo_Mk1_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_QuantumTorpedo_Mk1_Desc:
  Id: 18325
- ENG: "A launcher for quantum torpedoes, a higher-yield warhead than the photon torpedo. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home."
+ ENG: "A launcher for quantum torpedoes, which draw their yield from vacuum energy. Of the Starfleet torpedo weapons, it carries the least ordnance."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_QuantumTorpedo_Mk2_Name:
@@ -204,7 +204,7 @@ BB_Tech_Fed_QuantumTorpedo_Mk2_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_QuantumTorpedo_Mk2_Desc:
  Id: 18327
- ENG: "A launcher for quantum torpedoes, a higher-yield warhead than the photon torpedo. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home. An improved model."
+ ENG: "An improved array for quantum torpedoes, with a compact warhead and a refined vacuum-energy core. Of the Starfleet torpedo weapons, it has the fastest shots."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_Photonstorm_Name:
@@ -214,7 +214,7 @@ BB_Tech_Fed_Photonstorm_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Fed_Photonstorm_Desc:
  Id: 18329
- ENG: "A launcher that fires a rapid burst of photon torpedoes in a single volley. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home."
+ ENG: "A launcher that fires a spread of photon torpedoes in one burst, each pre-set to its own flight pattern. Of the Starfleet torpedo weapons, it reaches the farthest and fires the fastest, but has the slowest shots."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_TorpedoBay_2x1_Name:
@@ -574,7 +574,7 @@ BB_Tech_Car_HeavyPhotonTorpedoMk2_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_HeavyPhotonTorpedoMk2_Desc:
  Id: 18400
- ENG: "A heavy launcher for a large warhead on a long reload. Made by the Union's thorough engineers: heavy, practical and built for the long occupation. An improved model."
+ ENG: "The heaviest launcher in the fleet, made to reduce fortress stations. Of the Cardassian torpedo weapons, it hits the hardest and has the widest blast, but is the frailest for its size."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_HeavyPhotonTorpedoMk1_Name:
@@ -584,7 +584,7 @@ BB_Tech_Car_HeavyPhotonTorpedoMk1_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_HeavyPhotonTorpedoMk1_Desc:
  Id: 18402
- ENG: "A heavy launcher for a large warhead on a long reload. Made by the Union's thorough engineers: heavy, practical and built for the long occupation."
+ ENG: "A heavy launcher for ships built to break defended worlds. Of the Cardassian torpedo weapons, it is the cheapest for its size and has the widest blast."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_DisruptorCannonMk1_Name:
@@ -594,7 +594,7 @@ BB_Tech_Car_DisruptorCannonMk1_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_DisruptorCannonMk1_Desc:
  Id: 18404
- ENG: "A rapid-fire energy cannon: shorter reach than a beam, but it hits hard. Made by the Union's thorough engineers: heavy, practical and built for the long occupation."
+ ENG: "The aft disruptor wave cannon of the Galor-class, a close-in weapon that fires in short bursts. Of the Cardassian cannon weapons, it is the sturdiest for its size, but hits the softest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_DisruptorCannonMk2_Name:
@@ -604,7 +604,7 @@ BB_Tech_Car_DisruptorCannonMk2_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_DisruptorCannonMk2_Desc:
  Id: 18406
- ENG: "A rapid-fire energy cannon: shorter reach than a beam, but it hits hard. Made by the Union's thorough engineers: heavy, practical and built for the long occupation. An improved model."
+ ENG: "A larger wave cannon, fitted to heavier ships. Of the Cardassian cannon weapons, it fires the fastest and fires the largest salvos."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_DisruptorCannonMk3_Name:
@@ -614,7 +614,7 @@ BB_Tech_Car_DisruptorCannonMk3_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_DisruptorCannonMk3_Desc:
  Id: 18408
- ENG: "A rapid-fire energy cannon: shorter reach than a beam, but it hits hard. Made by the Union's thorough engineers: heavy, practical and built for the long occupation. A refined, later model."
+ ENG: "The biggest wave cannon the Union ever mounted on a ship, meant for hammering defended worlds. Of the Cardassian cannon weapons, it hits the hardest and reaches the farthest, but is the frailest for its size."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_PhotonTorpedoMk1_Name:
@@ -624,7 +624,7 @@ BB_Tech_Car_PhotonTorpedoMk1_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_PhotonTorpedoMk1_Desc:
  Id: 18410
- ENG: "A guided torpedo launcher: slow to reload, but every warhead hits hard. Made by the Union's thorough engineers: heavy, practical and built for the long occupation."
+ ENG: "A single-tube launcher for escorts and light cruisers. Of the Cardassian torpedo weapons, it hits the softest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_PhotonTorpedoMk3_Name:
@@ -634,7 +634,7 @@ BB_Tech_Car_PhotonTorpedoMk3_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_PhotonTorpedoMk3_Desc:
  Id: 18414
- ENG: "A guided torpedo launcher: slow to reload, but every warhead hits hard. Made by the Union's thorough engineers: heavy, practical and built for the long occupation. A refined, later model."
+ ENG: "A heavier launcher for the Keldon-class. Of the Cardassian torpedo weapons, it has the fastest shots, but has the smallest blast."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_DisruptorBeamMk3_Name:
@@ -644,7 +644,7 @@ BB_Tech_Car_DisruptorBeamMk3_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_DisruptorBeamMk3_Desc:
  Id: 18416
- ENG: "A directed-energy beam array: a steady beam that tracks its target and recharges quickly. Made by the Union's thorough engineers: heavy, practical and built for the long occupation. A refined, later model."
+ ENG: "A heavier array for the Keldon-class, which shares the Galor's hull under a larger superstructure. Of the Cardassian beam weapons, it fires the fastest, but does the least to armour."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_DisruptorBeamMk2_Name:
@@ -654,7 +654,7 @@ BB_Tech_Car_DisruptorBeamMk2_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_DisruptorBeamMk2_Desc:
  Id: 18418
- ENG: "A directed-energy beam array: a steady beam that tracks its target and recharges quickly. Made by the Union's thorough engineers: heavy, practical and built for the long occupation. An improved model."
+ ENG: "The array carried by Galor-class cruisers, the workhorse of the Cardassian fleet. Of the Cardassian beam weapons, it fires the fastest, but does the least to armour."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_DisruptorBeamMk1_Name:
@@ -664,7 +664,7 @@ BB_Tech_Car_DisruptorBeamMk1_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_DisruptorBeamMk1_Desc:
  Id: 18420
- ENG: "A directed-energy beam array: a steady beam that tracks its target and recharges quickly. Made by the Union's thorough engineers: heavy, practical and built for the long occupation."
+ ENG: "The spiral-wave disruptor is the standard gun of Cardassian warships, with a firing arc wide enough for a long patrol. Of the Cardassian beam weapons, it hits the softest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_PhotonTorpedoMk4_Name:
@@ -674,7 +674,7 @@ BB_Tech_Car_PhotonTorpedoMk4_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_PhotonTorpedoMk4_Desc:
  Id: 18422
- ENG: "A guided torpedo launcher: slow to reload, but every warhead hits hard. Made by the Union's thorough engineers: heavy, practical and built for the long occupation. An advanced late-generation model."
+ ENG: "A launcher for the largest cruisers of the fleet."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_tractorbeam_mk1_Name:
@@ -884,7 +884,7 @@ BB_Tech_Phasor_Beam_mk1_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Phasor_Beam_mk1_Desc:
  Id: 18471
- ENG: "A directed-energy phaser array: a steady beam that tracks its target and recharges quickly. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home."
+ ENG: "A phased array that fires a stream of nadion-charged energy, with each emitter fed from the warp plasma grid. Of the Starfleet beam weapons, it hits the softest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Phasor_Beam_mk2_Name:
@@ -894,7 +894,7 @@ BB_Tech_Phasor_Beam_mk2_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Phasor_Beam_mk2_Desc:
  Id: 18473
- ENG: "A directed-energy phaser array: a steady beam that tracks its target and recharges quickly. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home. An improved model."
+ ENG: "A heavier array with a phase-modulated pulse. Of the Starfleet beam weapons, it fires the slowest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Phasor_Beam_mk3_Name:
@@ -904,7 +904,7 @@ BB_Tech_Phasor_Beam_mk3_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Phasor_Beam_mk3_Desc:
  Id: 18475
- ENG: "A directed-energy phaser array: a steady beam that tracks its target and recharges quickly. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home. A refined, later model."
+ ENG: "The array of the Federation's great cruisers, with the beam focused through a rotating phase discriminator. Of the Starfleet beam weapons, it hits the hardest and fires the fastest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_primative_disrupter_cannon_Name:
@@ -1455,7 +1455,7 @@ BB_Tech_power_drain_phasor_beam_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_power_drain_phasor_beam_4x4_Name:
  Id: 18596
- ENG: "A phaser array tuned to bleed power from the target, leaving it slower to fire and to recharge. A heavy 4x4 mount. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home."
+ ENG: "A heavy phaser lance tuned to overload a target's power grid rather than burn its hull. Of the Starfleet beam weapons, it fires the fastest and does the most to armour, but has the shortest reach."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_power_drain_phasor_beam_4x4_Desc:
@@ -1470,7 +1470,7 @@ BB_Tech_modulated_phasor_4x4_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_modulated_phasor_4x4_Desc:
  Id: 18599
- ENG: "A phaser array with a rapidly modulated frequency, hard for shields to adapt to. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home."
+ ENG: "A phaser whose pulse is modulated across many frequencies at once, so it finds the gaps in a hull's plating. Of the Starfleet beam weapons, it hits the hardest and reaches the farthest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_fighter_power_drain_phasor_Name:
@@ -1480,7 +1480,7 @@ BB_Tech_fighter_power_drain_phasor_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_fighter_power_drain_phasor_Desc:
  Id: 18601
- ENG: "A phaser array tuned to bleed power from the target, leaving it slower to fire and to recharge. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home."
+ ENG: "A compact phaser for fighters that bleeds the power grid of whatever it hits. Of the Starfleet beam weapons, it hits the hardest and fires the fastest, but is the costliest for its size."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_orbital_weapons_platform_Name:
@@ -1621,7 +1621,7 @@ B_Tech_cardasian_prototype_beam_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_cardasian_prototype_beam_Desc:
  Id: 18637
- ENG: "A prototype disruptor array: powerful, but experimental. Made by the Union's thorough engineers: heavy, practical and built for the long occupation."
+ ENG: "A trial array built for the Central Command's testing yards. Hand-tuned, and not yet ready for the line. Of the Cardassian beam weapons, it hits the hardest and fires the fastest, but is the frailest for its size."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_cardasian_fighter_beam_Name:
@@ -1631,7 +1631,7 @@ B_Tech_cardasian_fighter_beam_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_cardasian_fighter_beam_Desc:
  Id: 18639
- ENG: "A small disruptor array scaled down for fighters and other small craft. Made by the Union's thorough engineers: heavy, practical and built for the long occupation."
+ ENG: "Light disruptor array for Hideki-pattern fighters. Disruptors break down the target's molecular bonds, and this one does it from a small hull. Of the Cardassian beam weapons, it fires the fastest and is the sturdiest for its size, but has the shortest reach."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
 B_Tech_Prototype_Weapons_Name:
  Id: 18640
@@ -1645,7 +1645,7 @@ B_Tech_cardassian_prototype_torpedo_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_cardassian_prototype_torpedo_Desc:
  Id: 18643
- ENG: "A prototype torpedo launcher: powerful, but experimental. Made by the Union's thorough engineers: heavy, practical and built for the long occupation."
+ ENG: "An experimental launcher, still on the testing range. Of the Cardassian torpedo weapons, it hits the hardest and reaches the farthest, but has the slowest shots."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
@@ -2093,7 +2093,7 @@ BB_Tech_ADVANCED_cardasian_prototype_beam_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_ADVANCED_cardasian_prototype_beam_Desc:
  Id: 18741
- ENG: "A prototype disruptor array: powerful, but experimental. Made by the Union's thorough engineers: heavy, practical and built for the long occupation."
+ ENG: "An experimental array that pushes the rapid nadion effect of Cardassian disruptors past its normal limit. Of the Cardassian beam weapons, it reaches the farthest and fires the fastest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Klingon_fighter_kenetic_disrupter_Name:
@@ -2188,7 +2188,7 @@ BB_Tech_Car_PhotonTorpedoMk2_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Car_PhotonTorpedoMk2_Desc:
  Id: 18763
- ENG: "A guided torpedo launcher: slow to reload, but every warhead hits hard. Made by the Union's thorough engineers: heavy, practical and built for the long occupation. An improved model."
+ ENG: "Launcher for the Galor-class, built to fit alongside the disruptor banks. Of the Cardassian torpedo weapons, it is the sturdiest for its size, but fires the slowest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 Prototype_starbase:
@@ -3507,7 +3507,7 @@ Fed_Ceramic_Armor_Large_Name:
  ENG: "Starfleet Ceramic-Duranium Plating (Large)"
 Fed_Ceramic_Armor_Large_Desc:
  Id: 30001
- ENG: "Duranium coated with a ceramic layer that shrugs off heat and energy fire."
+ ENG: "A ceramic layer bonded to a duranium backing. The ceramic is seeded with a fractal lattice that shatters on impact and spreads the shock across the whole plate, so the backing is never loaded at a single point. Some protection against kinetic rounds and explosions. Of the Starfleet ship plates of its size, it is the weakest against beams."
 Kli_Ceramic_Armor_Large_Name:
  Id: 30002
  ENG: "Klingon Ceramic Battle Armour (Large)"
@@ -3522,10 +3522,10 @@ Rom_Ceramic_Armor_Large_Desc:
  ENG: "A ceramic skin over duranium, tuned to turn aside energy weapons."
 Car_Ceramic_Armor_Large_Name:
  Id: 30006
- ENG: "Cardassian Ceramic Composite Plate (Large)"
+ ENG: "Cardassian Refinery Ceramic Plate (Large)"
 Car_Ceramic_Armor_Large_Desc:
  Id: 30007
- ENG: "A heat-resistant ceramic composite, thorough and built for the long occupation."
+ ENG: "Ceramic fired from the by-products of uridite ore, refined by the Union at stations like Terok Nor. The Union can turn it out in vast numbers. Some protection against kinetic rounds and explosions. Of the Cardassian ship plates of its size, it is the weakest against beams."
 Dom_Ceramic_Armor_Large_Name:
  Id: 30008
  ENG: "Dominion Ceramic Hull Plate (Large)"
@@ -3549,7 +3549,7 @@ Fed_Ceramic_Armor_Med_Name:
  ENG: "Starfleet Ceramic-Duranium Plating (Medium)"
 Fed_Ceramic_Armor_Med_Desc:
  Id: 30015
- ENG: "Duranium coated with a ceramic layer that shrugs off heat and energy fire."
+ ENG: "A ceramic layer bonded to a duranium backing. The ceramic is seeded with a fractal lattice that shatters on impact and spreads the shock across the whole plate, so the backing is never loaded at a single point. Some protection against kinetic rounds and explosions. Of the Starfleet ship plates of its size, it is the weakest against beams."
 Kli_Ceramic_Armor_Med_Name:
  Id: 30016
  ENG: "Klingon Ceramic Battle Armour (Medium)"
@@ -3564,10 +3564,10 @@ Rom_Ceramic_Armor_Med_Desc:
  ENG: "A ceramic skin over duranium, tuned to turn aside energy weapons."
 Car_Ceramic_Armor_Med_Name:
  Id: 30020
- ENG: "Cardassian Ceramic Composite Plate (Medium)"
+ ENG: "Cardassian Refinery Ceramic Plate (Medium)"
 Car_Ceramic_Armor_Med_Desc:
  Id: 30021
- ENG: "A heat-resistant ceramic composite, thorough and built for the long occupation."
+ ENG: "Ceramic fired from the by-products of uridite ore, refined by the Union at stations like Terok Nor. The Union can turn it out in vast numbers. Some protection against kinetic rounds and explosions. Of the Cardassian ship plates of its size, it is the weakest against beams."
 Dom_Ceramic_Armor_Med_Name:
  Id: 30022
  ENG: "Dominion Ceramic Hull Plate (Medium)"
@@ -3591,7 +3591,7 @@ Fed_Ceramic_Armor_Small_Name:
  ENG: "Starfleet Ceramic-Duranium Plating (Small)"
 Fed_Ceramic_Armor_Small_Desc:
  Id: 30029
- ENG: "Duranium coated with a ceramic layer that shrugs off heat and energy fire."
+ ENG: "A ceramic layer bonded to a duranium backing. The ceramic is seeded with a fractal lattice that shatters on impact and spreads the shock across the whole plate, so the backing is never loaded at a single point. Some protection against kinetic rounds and explosions. Of the Starfleet ship plates of its size, it is the weakest against beams."
 Kli_Ceramic_Armor_Small_Name:
  Id: 30030
  ENG: "Klingon Ceramic Battle Armour (Small)"
@@ -3606,10 +3606,10 @@ Rom_Ceramic_Armor_Small_Desc:
  ENG: "A ceramic skin over duranium, tuned to turn aside energy weapons."
 Car_Ceramic_Armor_Small_Name:
  Id: 30034
- ENG: "Cardassian Ceramic Composite Plate (Small)"
+ ENG: "Cardassian Refinery Ceramic Plate (Small)"
 Car_Ceramic_Armor_Small_Desc:
  Id: 30035
- ENG: "A heat-resistant ceramic composite, thorough and built for the long occupation."
+ ENG: "Ceramic fired from the by-products of uridite ore, refined by the Union at stations like Terok Nor. The Union can turn it out in vast numbers. Some protection against kinetic rounds and explosions. Of the Cardassian ship plates of its size, it is the weakest against beams."
 Dom_Ceramic_Armor_Small_Name:
  Id: 30036
  ENG: "Dominion Ceramic Hull Plate (Small)"
@@ -3633,7 +3633,7 @@ Fed_CompositeAlloys_Large_Name:
  ENG: "Starfleet Polyalloy Plating (Large)"
 Fed_CompositeAlloys_Large_Desc:
  Id: 30043
- ENG: "Layered polyalloy of tritanium and duranium, used on Starfleet's heavier starships."
+ ENG: "Tritanium alloy, the hull and bulkhead metal of Galaxy- and Intrepid-class starships, laid in layers. Tritanium in its pure form is 21.4 times as hard as diamond. Good protection against explosions, some protection against kinetic rounds. Of the Starfleet ship plates of its size, it is the weakest against beams."
 Kli_CompositeAlloys_Large_Name:
  Id: 30044
  ENG: "Klingon Composite Warship Plate (Large)"
@@ -3648,10 +3648,10 @@ Rom_CompositeAlloys_Large_Desc:
  ENG: "A layered composite of rare alloys. Strong, secretive and costly."
 Car_CompositeAlloys_Large_Name:
  Id: 30048
- ENG: "Cardassian Composite Alloy Plate (Large)"
+ ENG: "Cardassian Gul Composite Plate (Large)"
 Car_CompositeAlloys_Large_Desc:
  Id: 30049
- ENG: "Bonded alloys from Cardassian foundries: thick, practical and heavy."
+ ENG: "Uridium alloy bonded in layers with other metals. The Union cannot afford to waste ships, so the plate is made to keep them alive. Good protection against explosions, some protection against kinetic rounds. Of the Cardassian ship plates of its size, it is the weakest against beams."
 Dom_CompositeAlloys_Large_Name:
  Id: 30050
  ENG: "Dominion Composite Hull Plate (Large)"
@@ -3675,7 +3675,7 @@ Fed_CompositeAlloys_Med_Name:
  ENG: "Starfleet Polyalloy Plating (Medium)"
 Fed_CompositeAlloys_Med_Desc:
  Id: 30057
- ENG: "Layered polyalloy of tritanium and duranium, used on Starfleet's heavier starships."
+ ENG: "Tritanium alloy, the hull and bulkhead metal of Galaxy- and Intrepid-class starships, laid in layers. Tritanium in its pure form is 21.4 times as hard as diamond. Good protection against explosions, some protection against kinetic rounds. Of the Starfleet ship plates of its size, it is the weakest against beams."
 Kli_CompositeAlloys_Med_Name:
  Id: 30058
  ENG: "Klingon Composite Warship Plate (Medium)"
@@ -3690,10 +3690,10 @@ Rom_CompositeAlloys_Med_Desc:
  ENG: "A layered composite of rare alloys. Strong, secretive and costly."
 Car_CompositeAlloys_Med_Name:
  Id: 30062
- ENG: "Cardassian Composite Alloy Plate (Medium)"
+ ENG: "Cardassian Gul Composite Plate (Medium)"
 Car_CompositeAlloys_Med_Desc:
  Id: 30063
- ENG: "Bonded alloys from Cardassian foundries: thick, practical and heavy."
+ ENG: "Uridium alloy bonded in layers with other metals. The Union cannot afford to waste ships, so the plate is made to keep them alive. Good protection against explosions, some protection against kinetic rounds. Of the Cardassian ship plates of its size, it is the weakest against beams."
 Dom_CompositeAlloys_Med_Name:
  Id: 30064
  ENG: "Dominion Composite Hull Plate (Medium)"
@@ -3717,7 +3717,7 @@ Fed_CompositeAlloys_Small_Name:
  ENG: "Starfleet Polyalloy Plating (Small)"
 Fed_CompositeAlloys_Small_Desc:
  Id: 30071
- ENG: "Layered polyalloy of tritanium and duranium, used on Starfleet's heavier starships."
+ ENG: "Tritanium alloy, the hull and bulkhead metal of Galaxy- and Intrepid-class starships, laid in layers. Tritanium in its pure form is 21.4 times as hard as diamond. Good protection against explosions, some protection against kinetic rounds. Of the Starfleet ship plates of its size, it is the weakest against beams."
 Kli_CompositeAlloys_Small_Name:
  Id: 30072
  ENG: "Klingon Composite Warship Plate (Small)"
@@ -3732,10 +3732,10 @@ Rom_CompositeAlloys_Small_Desc:
  ENG: "A layered composite of rare alloys. Strong, secretive and costly."
 Car_CompositeAlloys_Small_Name:
  Id: 30076
- ENG: "Cardassian Composite Alloy Plate (Small)"
+ ENG: "Cardassian Gul Composite Plate (Small)"
 Car_CompositeAlloys_Small_Desc:
  Id: 30077
- ENG: "Bonded alloys from Cardassian foundries: thick, practical and heavy."
+ ENG: "Uridium alloy bonded in layers with other metals. The Union cannot afford to waste ships, so the plate is made to keep them alive. Good protection against explosions, some protection against kinetic rounds. Of the Cardassian ship plates of its size, it is the weakest against beams."
 Dom_CompositeAlloys_Small_Name:
  Id: 30078
  ENG: "Dominion Composite Hull Plate (Small)"
@@ -3759,7 +3759,7 @@ Fed_Crystal_Armor_Large_Name:
  ENG: "Starfleet Crystalline Composite Plating (Large)"
 Fed_Crystal_Armor_Large_Desc:
  Id: 30085
- ENG: "Plating built round a crystalline lattice that scatters the force of a hit."
+ ENG: "A crystalline laminate grown in the fabrication bays of the Utopia Planitia yards above Mars, with its atoms aligned along the line of the hull stress. The lattice vibrates at a resonant frequency, so a hit is spread through the crystal before it can crack. Good protection against explosions, some protection against kinetic rounds. Of the Starfleet ship plates of its size, it is the best against armour-piercing rounds, but the heaviest."
 Kli_Crystal_Armor_Large_Name:
  Id: 30086
  ENG: "Klingon Crystal Battle Plate (Large)"
@@ -3774,10 +3774,10 @@ Rom_Crystal_Armor_Large_Desc:
  ENG: "A fine crystal lattice that turns aside energy weapons. Beautiful and very precise."
 Car_Crystal_Armor_Large_Name:
  Id: 30090
- ENG: "Cardassian Crystal Lattice Plate (Large)"
+ ENG: "Cardassian Obsidian Lattice Plate (Large)"
 Car_Crystal_Armor_Large_Desc:
  Id: 30091
- ENG: "Crystalline plating from the Union's laboratories, hard and cleverly layered."
+ ENG: "Crystal lattice plating, dark as obsidian, developed in the Obsidian Order's own laboratories. Its makers will not say how it works, only that it does. Good protection against explosions, some protection against kinetic rounds. Of the Cardassian ship plates of its size, it is the best against armour-piercing rounds, but the heaviest."
 Dom_Crystal_Armor_Large_Name:
  Id: 30092
  ENG: "Dominion Crystal Hull Plate (Large)"
@@ -3801,7 +3801,7 @@ Fed_Crystal_Armor_Med_Name:
  ENG: "Starfleet Crystalline Composite Plating (Medium)"
 Fed_Crystal_Armor_Med_Desc:
  Id: 30099
- ENG: "Plating built round a crystalline lattice that scatters the force of a hit."
+ ENG: "A crystalline laminate grown in the fabrication bays of the Utopia Planitia yards above Mars, with its atoms aligned along the line of the hull stress. The lattice vibrates at a resonant frequency, so a hit is spread through the crystal before it can crack. Good protection against explosions, some protection against kinetic rounds. Of the Starfleet ship plates of its size, it is the best protected against explosions and the best against armour-piercing rounds, but the costliest to build."
 Kli_Crystal_Armor_Med_Name:
  Id: 30100
  ENG: "Klingon Crystal Battle Plate (Medium)"
@@ -3816,10 +3816,10 @@ Rom_Crystal_Armor_Med_Desc:
  ENG: "A fine crystal lattice that turns aside energy weapons. Beautiful and very precise."
 Car_Crystal_Armor_Med_Name:
  Id: 30104
- ENG: "Cardassian Crystal Lattice Plate (Medium)"
+ ENG: "Cardassian Obsidian Lattice Plate (Medium)"
 Car_Crystal_Armor_Med_Desc:
  Id: 30105
- ENG: "Crystalline plating from the Union's laboratories, hard and cleverly layered."
+ ENG: "Crystal lattice plating, dark as obsidian, developed in the Obsidian Order's own laboratories. Its makers will not say how it works, only that it does. Good protection against explosions, some protection against kinetic rounds. Of the Cardassian ship plates of its size, it is the best protected against explosions and the best against armour-piercing rounds, but the costliest to build."
 Dom_Crystal_Armor_Med_Name:
  Id: 30106
  ENG: "Dominion Crystal Hull Plate (Medium)"
@@ -3843,7 +3843,7 @@ Fed_Crystal_Armor_Small_Name:
  ENG: "Starfleet Crystalline Composite Plating (Small)"
 Fed_Crystal_Armor_Small_Desc:
  Id: 30113
- ENG: "Plating built round a crystalline lattice that scatters the force of a hit."
+ ENG: "A crystalline laminate grown in the fabrication bays of the Utopia Planitia yards above Mars, with its atoms aligned along the line of the hull stress. The lattice vibrates at a resonant frequency, so a hit is spread through the crystal before it can crack. Good protection against explosions, some protection against kinetic rounds. Of the Starfleet ship plates of its size, it is the best protected against kinetic rounds and the best protected against explosions, but the costliest to build."
 Kli_Crystal_Armor_Small_Name:
  Id: 30114
  ENG: "Klingon Crystal Battle Plate (Small)"
@@ -3858,10 +3858,10 @@ Rom_Crystal_Armor_Small_Desc:
  ENG: "A fine crystal lattice that turns aside energy weapons. Beautiful and very precise."
 Car_Crystal_Armor_Small_Name:
  Id: 30118
- ENG: "Cardassian Crystal Lattice Plate (Small)"
+ ENG: "Cardassian Obsidian Lattice Plate (Small)"
 Car_Crystal_Armor_Small_Desc:
  Id: 30119
- ENG: "Crystalline plating from the Union's laboratories, hard and cleverly layered."
+ ENG: "Crystal lattice plating, dark as obsidian, developed in the Obsidian Order's own laboratories. Its makers will not say how it works, only that it does. Good protection against explosions, some protection against kinetic rounds. Of the Cardassian ship plates of its size, it is the best protected against kinetic rounds and the best protected against explosions, but the costliest to build."
 Dom_Crystal_Armor_Small_Name:
  Id: 30120
  ENG: "Dominion Crystal Hull Plate (Small)"
@@ -3885,7 +3885,7 @@ Fed_PlaSteelArmorLarge_Name:
  ENG: "Starfleet Tritanium Plating (Large)"
 Fed_PlaSteelArmorLarge_Desc:
  Id: 30127
- ENG: "Tritanium plating: light, and far tougher than steel. The backbone of Starfleet's frontline hulls."
+ ENG: "Transparent aluminium, the strong clear material of Starfleet viewports and cargo bay walls, laminated in layers and rolled opaque for use as hull plate. Its aluminium oxynitride matrix is aligned at the molecular level, so it is far stronger than it looks. Some protection against explosions. Of the Starfleet ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams."
 Kli_PlaSteelArmorLarge_Name:
  Id: 30128
  ENG: "Klingon Tritanium Battle Plate (Large)"
@@ -3900,10 +3900,10 @@ Rom_PlaSteelArmorLarge_Desc:
  ENG: "Layered tritanium laminate, light and precise, built so a ship can strike and be gone."
 Car_PlaSteelArmorLarge_Name:
  Id: 30132
- ENG: "Cardassian Cardassian Laminate Plate (Large)"
+ ENG: "Cardassian Orbital Yard Laminate (Large)"
 Car_PlaSteelArmorLarge_Desc:
  Id: 30133
- ENG: "A layered laminate that gives good protection for its weight. Cheap and entirely adequate."
+ ENG: "A laminate rolled out in bulk at the orbital assembly yards above Cardassia Prime. There is always more of it. Some protection against explosions. Of the Cardassian ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams."
 Dom_PlaSteelArmorLarge_Name:
  Id: 30134
  ENG: "Dominion Laminate Hull Plate (Large)"
@@ -3927,7 +3927,7 @@ Fed_PlaSteelArmorMed_Name:
  ENG: "Starfleet Tritanium Plating (Medium)"
 Fed_PlaSteelArmorMed_Desc:
  Id: 30141
- ENG: "Tritanium plating: light, and far tougher than steel. The backbone of Starfleet's frontline hulls."
+ ENG: "Transparent aluminium, the strong clear material of Starfleet viewports and cargo bay walls, laminated in layers and rolled opaque for use as hull plate. Its aluminium oxynitride matrix is aligned at the molecular level, so it is far stronger than it looks. Some protection against explosions. Of the Starfleet ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams."
 Kli_PlaSteelArmorMed_Name:
  Id: 30142
  ENG: "Klingon Tritanium Battle Plate (Medium)"
@@ -3942,10 +3942,10 @@ Rom_PlaSteelArmorMed_Desc:
  ENG: "Layered tritanium laminate, light and precise, built so a ship can strike and be gone."
 Car_PlaSteelArmorMed_Name:
  Id: 30146
- ENG: "Cardassian Cardassian Laminate Plate (Medium)"
+ ENG: "Cardassian Orbital Yard Laminate (Medium)"
 Car_PlaSteelArmorMed_Desc:
  Id: 30147
- ENG: "A layered laminate that gives good protection for its weight. Cheap and entirely adequate."
+ ENG: "A laminate rolled out in bulk at the orbital assembly yards above Cardassia Prime. There is always more of it. Some protection against explosions. Of the Cardassian ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams."
 Dom_PlaSteelArmorMed_Name:
  Id: 30148
  ENG: "Dominion Laminate Hull Plate (Medium)"
@@ -3969,7 +3969,7 @@ Fed_PlaSteelArmorSmall_Name:
  ENG: "Starfleet Tritanium Plating (Small)"
 Fed_PlaSteelArmorSmall_Desc:
  Id: 30155
- ENG: "Tritanium plating: light, and far tougher than steel. The backbone of Starfleet's frontline hulls."
+ ENG: "Transparent aluminium, the strong clear material of Starfleet viewports and cargo bay walls, laminated in layers and rolled opaque for use as hull plate. Its aluminium oxynitride matrix is aligned at the molecular level, so it is far stronger than it looks. Some protection against explosions. Of the Starfleet ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams."
 Kli_PlaSteelArmorSmall_Name:
  Id: 30156
  ENG: "Klingon Tritanium Battle Plate (Small)"
@@ -3984,10 +3984,10 @@ Rom_PlaSteelArmorSmall_Desc:
  ENG: "Layered tritanium laminate, light and precise, built so a ship can strike and be gone."
 Car_PlaSteelArmorSmall_Name:
  Id: 30160
- ENG: "Cardassian Cardassian Laminate Plate (Small)"
+ ENG: "Cardassian Orbital Yard Laminate (Small)"
 Car_PlaSteelArmorSmall_Desc:
  Id: 30161
- ENG: "A layered laminate that gives good protection for its weight. Cheap and entirely adequate."
+ ENG: "A laminate rolled out in bulk at the orbital assembly yards above Cardassia Prime. There is always more of it. Some protection against explosions. Of the Cardassian ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams."
 Dom_PlaSteelArmorSmall_Name:
  Id: 30162
  ENG: "Dominion Laminate Hull Plate (Small)"
@@ -4011,7 +4011,7 @@ Fed_SteelArmorLarge_Name:
  ENG: "Starfleet Duranium Plating (Large)"
 Fed_SteelArmorLarge_Desc:
  Id: 30169
- ENG: "Duranium hull plating, the Federation standard for generations: strong, reliable and easy to replace."
+ ENG: "Duranium alloy plate, the standard hull armour of Starfleet starships. Plain, dependable, and repairable at any dock in the Federation. Gives almost no protection against fire; it is there to soak up damage. Of the Starfleet ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Kli_SteelArmorLarge_Name:
  Id: 30170
  ENG: "Klingon Forged Duranium Plate (Large)"
@@ -4026,10 +4026,10 @@ Rom_SteelArmorLarge_Desc:
  ENG: "Plain duranium plate laid over a Romulan hull: unfancy, but built to the same careful standard as everything else."
 Car_SteelArmorLarge_Name:
  Id: 30174
- ENG: "Cardassian Cardassian Alloy Plate (Large)"
+ ENG: "Cardassian Galor Hull Plate (Large)"
 Car_SteelArmorLarge_Desc:
  Id: 30175
- ENG: "Heavy alloy plating from the Union's shipyards: thick, practical and cheap to produce in bulk."
+ ENG: "Hull plate of uridium alloy, a staple of Cardassian shipbuilding. Plain, in the ochre of the Union's fleets, and sound enough to bring a ship home. \"...could not defend itself against one Cardassian warship...\" (Gul Jasad, DS9: \"Emissary\") Gives almost no protection against fire; it is there to soak up damage. Of the Cardassian ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Dom_SteelArmorLarge_Name:
  Id: 30176
  ENG: "Dominion Founder-Grown Plate (Large)"
@@ -4053,7 +4053,7 @@ Fed_SteelArmorMed_Name:
  ENG: "Starfleet Duranium Plating (Medium)"
 Fed_SteelArmorMed_Desc:
  Id: 30183
- ENG: "Duranium hull plating, the Federation standard for generations: strong, reliable and easy to replace."
+ ENG: "Duranium alloy plate, the standard hull armour of Starfleet starships. Plain, dependable, and repairable at any dock in the Federation. Gives almost no protection against fire; it is there to soak up damage. Of the Starfleet ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Kli_SteelArmorMed_Name:
  Id: 30184
  ENG: "Klingon Forged Duranium Plate (Medium)"
@@ -4068,10 +4068,10 @@ Rom_SteelArmorMed_Desc:
  ENG: "Plain duranium plate laid over a Romulan hull: unfancy, but built to the same careful standard as everything else."
 Car_SteelArmorMed_Name:
  Id: 30188
- ENG: "Cardassian Cardassian Alloy Plate (Medium)"
+ ENG: "Cardassian Galor Hull Plate (Medium)"
 Car_SteelArmorMed_Desc:
  Id: 30189
- ENG: "Heavy alloy plating from the Union's shipyards: thick, practical and cheap to produce in bulk."
+ ENG: "Hull plate of uridium alloy, a staple of Cardassian shipbuilding. Plain, in the ochre of the Union's fleets, and sound enough to bring a ship home. \"...could not defend itself against one Cardassian warship...\" (Gul Jasad, DS9: \"Emissary\") Gives almost no protection against fire; it is there to soak up damage. Of the Cardassian ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Dom_SteelArmorMed_Name:
  Id: 30190
  ENG: "Dominion Founder-Grown Plate (Medium)"
@@ -4095,7 +4095,7 @@ Fed_SteelArmorSmall_Name:
  ENG: "Starfleet Duranium Plating (Small)"
 Fed_SteelArmorSmall_Desc:
  Id: 30197
- ENG: "Duranium hull plating, the Federation standard for generations: strong, reliable and easy to replace."
+ ENG: "Duranium alloy plate, the standard hull armour of Starfleet starships. Plain, dependable, and repairable at any dock in the Federation. Gives almost no protection against fire; it is there to soak up damage. Of the Starfleet ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Kli_SteelArmorSmall_Name:
  Id: 30198
  ENG: "Klingon Forged Duranium Plate (Small)"
@@ -4110,10 +4110,10 @@ Rom_SteelArmorSmall_Desc:
  ENG: "Plain duranium plate laid over a Romulan hull: unfancy, but built to the same careful standard as everything else."
 Car_SteelArmorSmall_Name:
  Id: 30202
- ENG: "Cardassian Cardassian Alloy Plate (Small)"
+ ENG: "Cardassian Galor Hull Plate (Small)"
 Car_SteelArmorSmall_Desc:
  Id: 30203
- ENG: "Heavy alloy plating from the Union's shipyards: thick, practical and cheap to produce in bulk."
+ ENG: "Hull plate of uridium alloy, a staple of Cardassian shipbuilding. Plain, in the ochre of the Union's fleets, and sound enough to bring a ship home. \"...could not defend itself against one Cardassian warship...\" (Gul Jasad, DS9: \"Emissary\") Gives almost no protection against fire; it is there to soak up damage. Of the Cardassian ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Dom_SteelArmorSmall_Name:
  Id: 30204
  ENG: "Dominion Founder-Grown Plate (Small)"
@@ -4137,7 +4137,7 @@ Fed_ablative_ship_armor_Small_Name:
  ENG: "Starfleet Ablative Armour (Small)"
 Fed_ablative_ship_armor_Small_Desc:
  Id: 30211
- ENG: "The ablative armour fitted to Starfleet's toughest warships: it burns away in layers to protect the hull beneath."
+ ENG: "Ablative armour, as fitted to the USS Defiant: layers that burn away under fire and leave the hull beneath whole. Some protection against kinetic rounds, beams, energy fire and explosions. Of the Starfleet ship plates of its size, it is the toughest and the best protected against beams, but the heaviest."
 Kli_ablative_ship_armor_Small_Name:
  Id: 30212
  ENG: "Klingon Ablative Battle Armour (Small)"
@@ -4152,10 +4152,10 @@ Rom_ablative_ship_armor_Small_Desc:
  ENG: "Ablative layers that burn away to protect the hull: a ship that survives to strike again."
 Car_ablative_ship_armor_Small_Name:
  Id: 30216
- ENG: "Cardassian Ablative Hull Plate (Small)"
+ ENG: "Cardassian Burn-Off Plate (Small)"
 Car_ablative_ship_armor_Small_Desc:
  Id: 30217
- ENG: "Ablative plate that sheds in layers, thorough and sturdy."
+ ENG: "Ablative plate that burns away in layers, so the first hits fall on plating and not on the crew. The Union has plenty of plate and fewer ships than it needs. Some protection against kinetic rounds, beams, energy fire and explosions. Of the Cardassian ship plates of its size, it is the toughest and the best protected against beams, but the heaviest."
 Dom_ablative_ship_armor_Small_Name:
  Id: 30218
  ENG: "Dominion Ablative Hull Plate (Small)"
@@ -4179,7 +4179,7 @@ Fed_ablative_ship_armor_large_Name:
  ENG: "Starfleet Ablative Armour (Large)"
 Fed_ablative_ship_armor_large_Desc:
  Id: 30225
- ENG: "The ablative armour fitted to Starfleet's toughest warships: it burns away in layers to protect the hull beneath."
+ ENG: "Ablative armour, as fitted to the USS Defiant: layers that burn away under fire and leave the hull beneath whole. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Starfleet ship plates of its size, it is the toughest and the best protected against beams, but the costliest to build."
 Kli_ablative_ship_armor_large_Name:
  Id: 30226
  ENG: "Klingon Ablative Battle Armour (Large)"
@@ -4194,10 +4194,10 @@ Rom_ablative_ship_armor_large_Desc:
  ENG: "Ablative layers that burn away to protect the hull: a ship that survives to strike again."
 Car_ablative_ship_armor_large_Name:
  Id: 30230
- ENG: "Cardassian Ablative Hull Plate (Large)"
+ ENG: "Cardassian Burn-Off Plate (Large)"
 Car_ablative_ship_armor_large_Desc:
  Id: 30231
- ENG: "Ablative plate that sheds in layers, thorough and sturdy."
+ ENG: "Ablative plate that burns away in layers, so the first hits fall on plating and not on the crew. The Union has plenty of plate and fewer ships than it needs. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Cardassian ship plates of its size, it is the toughest and the best protected against beams, but the costliest to build."
 Dom_ablative_ship_armor_large_Name:
  Id: 30232
  ENG: "Dominion Ablative Hull Plate (Large)"
@@ -4221,7 +4221,7 @@ Fed_ablative_ship_armor_med_Name:
  ENG: "Starfleet Ablative Armour (Medium)"
 Fed_ablative_ship_armor_med_Desc:
  Id: 30239
- ENG: "The ablative armour fitted to Starfleet's toughest warships: it burns away in layers to protect the hull beneath."
+ ENG: "Ablative armour, as fitted to the USS Defiant: layers that burn away under fire and leave the hull beneath whole. Good protection against kinetic rounds, beams, energy fire and explosions, some protection against plasma. Of the Starfleet ship plates of its size, it is the toughest and the best protected against beams, but the heaviest."
 Kli_ablative_ship_armor_med_Name:
  Id: 30240
  ENG: "Klingon Ablative Battle Armour (Medium)"
@@ -4236,10 +4236,10 @@ Rom_ablative_ship_armor_med_Desc:
  ENG: "Ablative layers that burn away to protect the hull: a ship that survives to strike again."
 Car_ablative_ship_armor_med_Name:
  Id: 30244
- ENG: "Cardassian Ablative Hull Plate (Medium)"
+ ENG: "Cardassian Burn-Off Plate (Medium)"
 Car_ablative_ship_armor_med_Desc:
  Id: 30245
- ENG: "Ablative plate that sheds in layers, thorough and sturdy."
+ ENG: "Ablative plate that burns away in layers, so the first hits fall on plating and not on the crew. The Union has plenty of plate and fewer ships than it needs. Good protection against kinetic rounds, beams, energy fire and explosions, some protection against plasma. Of the Cardassian ship plates of its size, it is the toughest and the best protected against beams, but the heaviest."
 Dom_ablative_ship_armor_med_Name:
  Id: 30246
  ENG: "Dominion Ablative Hull Plate (Medium)"
@@ -4263,7 +4263,7 @@ Fed_Organic_Bioplates_Large_Name:
  ENG: "Starfleet Regenerative Nanite Plating (Large)"
 Fed_Organic_Bioplates_Large_Desc:
  Id: 30253
- ENG: "Plating seeded with repair nanites that slowly restore damaged sections."
+ ENG: "Plate grown on a bio-neural substrate, a living gel that senses damage and lays down new material at the edge of a breach. The substrate is tuned to the ship's own power grid, and the plate knits itself whole between engagements. Strong protection against every kind of fire. Of the Starfleet orbital plates of its size, it is the best protected against explosions."
 Kli_Organic_Bioplates_Large_Name:
  Id: 30254
  ENG: "Klingon Living Warrior Plate (Large)"
@@ -4278,10 +4278,10 @@ Rom_Organic_Bioplates_Large_Desc:
  ENG: "Plating with a living layer that repairs itself. Secretive, and not easy to copy."
 Car_Organic_Bioplates_Large_Name:
  Id: 30258
- ENG: "Cardassian Bio-Reactive Plate (Large)"
+ ENG: "Cardassian Reclamation Bioplate (Large)"
 Car_Organic_Bioplates_Large_Desc:
  Id: 30259
- ENG: "A living plate layer that mends itself slowly, thorough as ever."
+ ENG: "Living plate regrown from reclaimed waste. A people short of resources learn to waste nothing, armour included. Strong protection against every kind of fire. Of the Cardassian orbital plates of its size, it is the best protected against explosions."
 Dom_Organic_Bioplates_Large_Name:
  Id: 30260
  ENG: "Dominion Grown Bioplate (Large)"
@@ -4305,7 +4305,7 @@ Fed_Organic_Bioplates_Med_Name:
  ENG: "Starfleet Regenerative Nanite Plating (Medium)"
 Fed_Organic_Bioplates_Med_Desc:
  Id: 30267
- ENG: "Plating seeded with repair nanites that slowly restore damaged sections."
+ ENG: "Plate grown on a bio-neural substrate, a living gel that senses damage and lays down new material at the edge of a breach. The substrate is tuned to the ship's own power grid, and the plate knits itself whole between engagements. Strong protection against every kind of fire. Of the Starfleet orbital plates of its size, it is the lightest, but the hardest to repair."
 Kli_Organic_Bioplates_Med_Name:
  Id: 30268
  ENG: "Klingon Living Warrior Plate (Medium)"
@@ -4320,10 +4320,10 @@ Rom_Organic_Bioplates_Med_Desc:
  ENG: "Plating with a living layer that repairs itself. Secretive, and not easy to copy."
 Car_Organic_Bioplates_Med_Name:
  Id: 30272
- ENG: "Cardassian Bio-Reactive Plate (Medium)"
+ ENG: "Cardassian Reclamation Bioplate (Medium)"
 Car_Organic_Bioplates_Med_Desc:
  Id: 30273
- ENG: "A living plate layer that mends itself slowly, thorough as ever."
+ ENG: "Living plate regrown from reclaimed waste. A people short of resources learn to waste nothing, armour included. Strong protection against every kind of fire. Of the Cardassian orbital plates of its size, it is the lightest, but the hardest to repair."
 Dom_Organic_Bioplates_Med_Name:
  Id: 30274
  ENG: "Dominion Grown Bioplate (Medium)"
@@ -4347,7 +4347,7 @@ Fed_Organic_Bioplates_Small_Name:
  ENG: "Starfleet Regenerative Nanite Plating (Small)"
 Fed_Organic_Bioplates_Small_Desc:
  Id: 30281
- ENG: "Plating seeded with repair nanites that slowly restore damaged sections."
+ ENG: "Plate grown on a bio-neural substrate, a living gel that senses damage and lays down new material at the edge of a breach. The substrate is tuned to the ship's own power grid, and the plate knits itself whole between engagements. Strong protection against every kind of fire. Of the Starfleet orbital plates of its size, it is the lightest."
 Kli_Organic_Bioplates_Small_Name:
  Id: 30282
  ENG: "Klingon Living Warrior Plate (Small)"
@@ -4362,10 +4362,10 @@ Rom_Organic_Bioplates_Small_Desc:
  ENG: "Plating with a living layer that repairs itself. Secretive, and not easy to copy."
 Car_Organic_Bioplates_Small_Name:
  Id: 30286
- ENG: "Cardassian Bio-Reactive Plate (Small)"
+ ENG: "Cardassian Reclamation Bioplate (Small)"
 Car_Organic_Bioplates_Small_Desc:
  Id: 30287
- ENG: "A living plate layer that mends itself slowly, thorough as ever."
+ ENG: "Living plate regrown from reclaimed waste. A people short of resources learn to waste nothing, armour included. Strong protection against every kind of fire. Of the Cardassian orbital plates of its size, it is the lightest."
 Dom_Organic_Bioplates_Small_Name:
  Id: 30288
  ENG: "Dominion Grown Bioplate (Small)"
@@ -4389,7 +4389,7 @@ Fed_Organic_cristal_Armor_Large_Name:
  ENG: "Starfleet Regenerative Crystal Plating (Large)"
 Fed_Organic_cristal_Armor_Large_Desc:
  Id: 30295
- ENG: "Crystalline plating with a living nanite lattice that slowly repairs itself."
+ ENG: "A crystal lattice seeded on a bio-neural scaffold, which seals hairline cracks as they open. A trickle of power through the scaffold keeps the crystal growing back to its original pattern. Strong protection against every kind of fire. Of the Starfleet orbital plates of its size, it is the best protected against energy fire and the best protected against kinetic rounds, but the costliest to build."
 Kli_Organic_cristal_Armor_Large_Name:
  Id: 30296
  ENG: "Klingon Living Crystal Plate (Large)"
@@ -4404,10 +4404,10 @@ Rom_Organic_cristal_Armor_Large_Desc:
  ENG: "A crystal and organic plate that repairs itself slowly. Beautiful and secretive."
 Car_Organic_cristal_Armor_Large_Name:
  Id: 30300
- ENG: "Cardassian Bio-Crystal Plate (Large)"
+ ENG: "Cardassian Reclaimed Crystal Plate (Large)"
 Car_Organic_cristal_Armor_Large_Desc:
  Id: 30301
- ENG: "Crystal and living tissue, patiently self-repairing."
+ ENG: "Crystal grown through a living scaffold from reclaimed material, which seals cracks as they open. Strong protection against every kind of fire. Of the Cardassian orbital plates of its size, it is the best protected against energy fire and the best protected against kinetic rounds, but the costliest to build."
 Dom_Organic_cristal_Armor_Large_Name:
  Id: 30302
  ENG: "Dominion Grown Crystal Plate (Large)"
@@ -4431,7 +4431,7 @@ Fed_Organic_cristal_Armor_Med_Name:
  ENG: "Starfleet Regenerative Crystal Plating (Medium)"
 Fed_Organic_cristal_Armor_Med_Desc:
  Id: 30309
- ENG: "Crystalline plating with a living nanite lattice that slowly repairs itself."
+ ENG: "A crystal lattice seeded on a bio-neural scaffold, which seals hairline cracks as they open. A trickle of power through the scaffold keeps the crystal growing back to its original pattern. Strong protection against kinetic rounds, beams, energy fire, plasma and explosions. Of the Starfleet orbital plates of its size, it is the best protected against plasma and the best against armour-piercing rounds, but the costliest to build."
 Kli_Organic_cristal_Armor_Med_Name:
  Id: 30310
  ENG: "Klingon Living Crystal Plate (Medium)"
@@ -4446,10 +4446,10 @@ Rom_Organic_cristal_Armor_Med_Desc:
  ENG: "A crystal and organic plate that repairs itself slowly. Beautiful and secretive."
 Car_Organic_cristal_Armor_Med_Name:
  Id: 30314
- ENG: "Cardassian Bio-Crystal Plate (Medium)"
+ ENG: "Cardassian Reclaimed Crystal Plate (Medium)"
 Car_Organic_cristal_Armor_Med_Desc:
  Id: 30315
- ENG: "Crystal and living tissue, patiently self-repairing."
+ ENG: "Crystal grown through a living scaffold from reclaimed material, which seals cracks as they open. Strong protection against kinetic rounds, beams, energy fire, plasma and explosions. Of the Cardassian orbital plates of its size, it is the best protected against plasma and the best against armour-piercing rounds, but the costliest to build."
 Dom_Organic_cristal_Armor_Med_Name:
  Id: 30316
  ENG: "Dominion Grown Crystal Plate (Medium)"
@@ -4473,7 +4473,7 @@ Fed_Organic_cristal_Small_Name:
  ENG: "Starfleet Regenerative Crystal Plating (Small)"
 Fed_Organic_cristal_Small_Desc:
  Id: 30323
- ENG: "Crystalline plating with a living nanite lattice that slowly repairs itself."
+ ENG: "A crystal lattice seeded on a bio-neural scaffold, which seals hairline cracks as they open. A trickle of power through the scaffold keeps the crystal growing back to its original pattern. Strong protection against every kind of fire. Of the Starfleet orbital plates of its size, it is the lightest and the best protected against plasma, but the costliest to build."
 Kli_Organic_cristal_Small_Name:
  Id: 30324
  ENG: "Klingon Living Crystal Plate (Small)"
@@ -4488,10 +4488,10 @@ Rom_Organic_cristal_Small_Desc:
  ENG: "A crystal and organic plate that repairs itself slowly. Beautiful and secretive."
 Car_Organic_cristal_Small_Name:
  Id: 30328
- ENG: "Cardassian Bio-Crystal Plate (Small)"
+ ENG: "Cardassian Reclaimed Crystal Plate (Small)"
 Car_Organic_cristal_Small_Desc:
  Id: 30329
- ENG: "Crystal and living tissue, patiently self-repairing."
+ ENG: "Crystal grown through a living scaffold from reclaimed material, which seals cracks as they open. Strong protection against every kind of fire. Of the Cardassian orbital plates of its size, it is the lightest and the best protected against plasma, but the costliest to build."
 Dom_Organic_cristal_Small_Name:
  Id: 30330
  ENG: "Dominion Grown Crystal Plate (Small)"
@@ -4515,7 +4515,7 @@ Fed_ablative_armor_Large_Name:
  ENG: "Starfleet Ablative Platform Armour (Large)"
 Fed_ablative_armor_Large_Desc:
  Id: 30337
- ENG: "Ablative armour for starbases and orbital platforms: it burns away in layers to protect what is beneath."
+ ENG: "Ablative plating for a starbase ring, replaced in sections once it has taken a beating. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Starfleet orbital plates of its size, it is the toughest and the best protected against explosions, but the heaviest."
 Kli_ablative_armor_Large_Name:
  Id: 30338
  ENG: "Klingon Ablative Fortress Armour (Large)"
@@ -4530,10 +4530,10 @@ Rom_ablative_armor_Large_Desc:
  ENG: "Ablative platform plating that absorbs fire before the real defences are tested."
 Car_ablative_armor_Large_Name:
  Id: 30342
- ENG: "Cardassian Ablative Station Plate (Large)"
+ ENG: "Cardassian Station Ablative Plating (Large)"
 Car_ablative_armor_Large_Desc:
  Id: 30343
- ENG: "Thick ablative plating for stations and orbital platforms, built for the long occupation."
+ ENG: "Ablative plating for the ring and pylons of a Nor-style station, whose pylons are packed with ore processing plant. Replaced after every siege. \"Your home was built by Cardassians. Don't ever forget that.\" (Kira, DS9: \"Civil Defense\") Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Cardassian orbital plates of its size, it is the toughest and the best protected against explosions, but the heaviest."
 Dom_ablative_armor_Large_Name:
  Id: 30344
  ENG: "Dominion Ablative Station Plate (Large)"
@@ -4557,7 +4557,7 @@ Fed_ablative_armor_Med_Name:
  ENG: "Starfleet Ablative Platform Armour (Medium)"
 Fed_ablative_armor_Med_Desc:
  Id: 30351
- ENG: "Ablative armour for starbases and orbital platforms: it burns away in layers to protect what is beneath."
+ ENG: "Ablative plating for a starbase ring, replaced in sections once it has taken a beating. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Starfleet orbital plates of its size, it is the toughest and the best protected against beams, but the costliest to build."
 Kli_ablative_armor_Med_Name:
  Id: 30352
  ENG: "Klingon Ablative Fortress Armour (Medium)"
@@ -4572,10 +4572,10 @@ Rom_ablative_armor_Med_Desc:
  ENG: "Ablative platform plating that absorbs fire before the real defences are tested."
 Car_ablative_armor_Med_Name:
  Id: 30356
- ENG: "Cardassian Ablative Station Plate (Medium)"
+ ENG: "Cardassian Station Ablative Plating (Medium)"
 Car_ablative_armor_Med_Desc:
  Id: 30357
- ENG: "Thick ablative plating for stations and orbital platforms, built for the long occupation."
+ ENG: "Ablative plating for the ring and pylons of a Nor-style station, whose pylons are packed with ore processing plant. Replaced after every siege. \"Your home was built by Cardassians. Don't ever forget that.\" (Kira, DS9: \"Civil Defense\") Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Cardassian orbital plates of its size, it is the toughest and the best protected against beams, but the costliest to build."
 Dom_ablative_armor_Med_Name:
  Id: 30358
  ENG: "Dominion Ablative Station Plate (Medium)"
@@ -4599,7 +4599,7 @@ Fed_ablative_armor_Small_Name:
  ENG: "Starfleet Ablative Platform Armour (Small)"
 Fed_ablative_armor_Small_Desc:
  Id: 30365
- ENG: "Ablative armour for starbases and orbital platforms: it burns away in layers to protect what is beneath."
+ ENG: "Ablative plating for a starbase ring, replaced in sections once it has taken a beating. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Starfleet orbital plates of its size, it is the toughest and the best protected against beams, but the heaviest."
 Kli_ablative_armor_Small_Name:
  Id: 30366
  ENG: "Klingon Ablative Fortress Armour (Small)"
@@ -4614,10 +4614,10 @@ Rom_ablative_armor_Small_Desc:
  ENG: "Ablative platform plating that absorbs fire before the real defences are tested."
 Car_ablative_armor_Small_Name:
  Id: 30370
- ENG: "Cardassian Ablative Station Plate (Small)"
+ ENG: "Cardassian Station Ablative Plating (Small)"
 Car_ablative_armor_Small_Desc:
  Id: 30371
- ENG: "Thick ablative plating for stations and orbital platforms, built for the long occupation."
+ ENG: "Ablative plating for the ring and pylons of a Nor-style station, whose pylons are packed with ore processing plant. Replaced after every siege. \"Your home was built by Cardassians. Don't ever forget that.\" (Kira, DS9: \"Civil Defense\") Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Cardassian orbital plates of its size, it is the toughest and the best protected against beams, but the heaviest."
 Dom_ablative_armor_Small_Name:
  Id: 30372
  ENG: "Dominion Ablative Station Plate (Small)"
@@ -4641,7 +4641,7 @@ Fed_large_polirised_orbital_armor_Name:
  ENG: "Starfleet Polarised Hull Plating (Large)"
 Fed_large_polirised_orbital_armor_Desc:
  Id: 30379
- ENG: "Polarised hull plating for starbases and orbital platforms, made to hold under sustained fire."
+ ENG: "Polarised plating, a current run through the hull to stiffen it against impact. It was in use before shields, and still guards the rings of starbases. Strong protection against beams, plasma and explosions, good protection against kinetic rounds. Of the Starfleet orbital plates of its size, it is the lightest and the cheapest to build, but the most fragile."
 Kli_large_polirised_orbital_armor_Name:
  Id: 30380
  ENG: "Klingon Polarised Fortress Plating (Large)"
@@ -4656,10 +4656,10 @@ Rom_large_polirised_orbital_armor_Desc:
  ENG: "Polarised plating that bleeds off energy fire. Precise, and hard to see through."
 Car_large_polirised_orbital_armor_Name:
  Id: 30384
- ENG: "Cardassian Polarised Station Plating (Large)"
+ ENG: "Cardassian Orbital Ring Plate (Large)"
 Car_large_polirised_orbital_armor_Desc:
  Id: 30385
- ENG: "Heavy polarised plating for stations, built to hold through a long siege."
+ ENG: "Polarised plating for a station's habitat ring, tuned to bleed off energy fire and built to hold through a long siege. Strong protection against beams, plasma and explosions, good protection against kinetic rounds. Of the Cardassian orbital plates of its size, it is the lightest and the cheapest to build, but the most fragile."
 Dom_large_polirised_orbital_armor_Name:
  Id: 30386
  ENG: "Dominion Polarised Station Plating (Large)"
@@ -4683,7 +4683,7 @@ Fed_med_polirised_orbital_armor_Name:
  ENG: "Starfleet Polarised Hull Plating (Medium)"
 Fed_med_polirised_orbital_armor_Desc:
  Id: 30393
- ENG: "Polarised hull plating for starbases and orbital platforms, made to hold under sustained fire."
+ ENG: "Polarised plating, a current run through the hull to stiffen it against impact. It was in use before shields, and still guards the rings of starbases. Some protection against kinetic rounds and explosions. Of the Starfleet orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Kli_med_polirised_orbital_armor_Name:
  Id: 30394
  ENG: "Klingon Polarised Fortress Plating (Medium)"
@@ -4698,10 +4698,10 @@ Rom_med_polirised_orbital_armor_Desc:
  ENG: "Polarised plating that bleeds off energy fire. Precise, and hard to see through."
 Car_med_polirised_orbital_armor_Name:
  Id: 30398
- ENG: "Cardassian Polarised Station Plating (Medium)"
+ ENG: "Cardassian Orbital Ring Plate (Medium)"
 Car_med_polirised_orbital_armor_Desc:
  Id: 30399
- ENG: "Heavy polarised plating for stations, built to hold through a long siege."
+ ENG: "Polarised plating for a station's habitat ring, tuned to bleed off energy fire and built to hold through a long siege. Some protection against kinetic rounds and explosions. Of the Cardassian orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Dom_med_polirised_orbital_armor_Name:
  Id: 30400
  ENG: "Dominion Polarised Station Plating (Medium)"
@@ -4725,7 +4725,7 @@ Fed_small_polirised_orbital_armor_Name:
  ENG: "Starfleet Polarised Hull Plating (Small)"
 Fed_small_polirised_orbital_armor_Desc:
  Id: 30407
- ENG: "Polarised hull plating for starbases and orbital platforms, made to hold under sustained fire."
+ ENG: "Polarised plating, a current run through the hull to stiffen it against impact. It was in use before shields, and still guards the rings of starbases. Some protection against kinetic rounds and explosions. Of the Starfleet orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Kli_small_polirised_orbital_armor_Name:
  Id: 30408
  ENG: "Klingon Polarised Fortress Plating (Small)"
@@ -4740,10 +4740,10 @@ Rom_small_polirised_orbital_armor_Desc:
  ENG: "Polarised plating that bleeds off energy fire. Precise, and hard to see through."
 Car_small_polirised_orbital_armor_Name:
  Id: 30412
- ENG: "Cardassian Polarised Station Plating (Small)"
+ ENG: "Cardassian Orbital Ring Plate (Small)"
 Car_small_polirised_orbital_armor_Desc:
  Id: 30413
- ENG: "Heavy polarised plating for stations, built to hold through a long siege."
+ ENG: "Polarised plating for a station's habitat ring, tuned to bleed off energy fire and built to hold through a long siege. Some protection against kinetic rounds and explosions. Of the Cardassian orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Dom_small_polirised_orbital_armor_Name:
  Id: 30414
  ENG: "Dominion Polarised Station Plating (Small)"
@@ -4935,7 +4935,7 @@ Fed_ArmoredShield4x4_Name:
  ENG: "Starfleet Deflector Shield (Armoured 4x4)"
 Fed_ArmoredShield4x4_Desc:
  Id: 30477
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A large shield that gives heavy protection at a heavy power cost."
+ ENG: "Shield emitters set in a hardened housing and tied into the hull's structural integrity field, so the emitters survive a hit that breaks the shield. Strong protection against beams and energy fire. Weak against kinetic rounds."
 Kli_ArmoredShield4x4_Name:
  Id: 30478
  ENG: "Klingon Deflector Grid (Armoured 4x4)"
@@ -4950,10 +4950,10 @@ Rom_ArmoredShield4x4_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A large shield that gives heavy protection at a heavy power cost."
 Car_ArmoredShield4x4_Name:
  Id: 30482
- ENG: "Cardassian Shield Grid (Armoured 4x4)"
+ ENG: "Cardassian Armoured Shield Casing"
 Car_ArmoredShield4x4_Desc:
  Id: 30483
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. A large shield that gives heavy protection at a heavy power cost."
+ ENG: "Emitters buried in a hardened casing, so the shield can fail without the ship losing the generator. Strong protection against beams and energy fire. Weak against kinetic rounds."
 Dom_ArmoredShield4x4_Name:
  Id: 30484
  ENG: "Dominion Shield Matrix (Armoured 4x4)"
@@ -4977,7 +4977,7 @@ Fed_CanopyShield_Name:
  ENG: "Starfleet Deflector Shield (Canopy)"
 Fed_CanopyShield_Desc:
  Id: 30491
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A huge shield with high resistance and a wide protection radius, ideal for capital ships. Its power costs are enormous."
+ ENG: "A canopy field drawn over the largest hulls from a ring of emitters, with the harmonics phase-locked across the whole span. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it is the slowest to come back after being knocked down."
 Kli_CanopyShield_Name:
  Id: 30492
  ENG: "Klingon Deflector Grid (Canopy)"
@@ -4992,10 +4992,10 @@ Rom_CanopyShield_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A huge shield with high resistance and a wide protection radius, ideal for capital ships. Its power costs are enormous."
 Car_CanopyShield_Name:
  Id: 30496
- ENG: "Cardassian Shield Grid (Canopy)"
+ ENG: "Cardassian Hegemony Canopy Shield"
 Car_CanopyShield_Desc:
  Id: 30497
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. A huge shield with high resistance and a wide protection radius, ideal for capital ships. Its power costs are enormous."
+ ENG: "A wide canopy field thrown over the largest hulls of the Union's fleets, built to cover a whole formation. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it is the slowest to come back after being knocked down."
 Dom_CanopyShield_Name:
  Id: 30498
  ENG: "Dominion Shield Matrix (Canopy)"
@@ -5019,7 +5019,7 @@ Fed_Shield_10KW_Name:
  ENG: "Starfleet Deflector Shield (Heavy)"
 Fed_Shield_10KW_Desc:
  Id: 30505
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A large shield that gives heavy protection at a heavy power cost."
+ ENG: "The main deflector grid of Starfleet cruisers, with its emitters spread over the hull to keep the field even. Strong protection against beams and energy fire. Weak against kinetic rounds."
 Kli_Shield_10KW_Name:
  Id: 30506
  ENG: "Klingon Deflector Grid (Heavy)"
@@ -5034,10 +5034,10 @@ Rom_Shield_10KW_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A large shield that gives heavy protection at a heavy power cost."
 Car_Shield_10KW_Name:
  Id: 30510
- ENG: "Cardassian Shield Grid (Heavy)"
+ ENG: "Cardassian Galor Shield Grid"
 Car_Shield_10KW_Desc:
  Id: 30511
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. A large shield that gives heavy protection at a heavy power cost."
+ ENG: "The Galor-class carried its shield generators in the tail, aft of the hull. Heavy and thorough, it is the backbone of the Cardassian fleet. Strong protection against beams and energy fire. Weak against kinetic rounds."
 Dom_Shield_10KW_Name:
  Id: 30512
  ENG: "Dominion Shield Matrix (Heavy)"
@@ -5061,7 +5061,7 @@ Fed_Shield_1KW_Name:
  ENG: "Starfleet Deflector Shield (Basic)"
 Fed_Shield_1KW_Desc:
  Id: 30519
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A very basic shield generator with a short protective radius and a slow recharge."
+ ENG: "The standard deflector generator of Starfleet escorts and patrol craft, with its emitters modulated across a narrow frequency band. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it covers the narrowest area."
 Kli_Shield_1KW_Name:
  Id: 30520
  ENG: "Klingon Deflector Grid (Basic)"
@@ -5076,10 +5076,10 @@ Rom_Shield_1KW_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A very basic shield generator with a short protective radius and a slow recharge."
 Car_Shield_1KW_Name:
  Id: 30524
- ENG: "Cardassian Shield Grid (Basic)"
+ ENG: "Cardassian Patrol Shield Generator"
 Car_Shield_1KW_Desc:
  Id: 30525
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. A very basic shield generator with a short protective radius and a slow recharge."
+ ENG: "The standard generator of the Union's small patrol craft and escorts. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it covers the narrowest area."
 Dom_Shield_1KW_Name:
  Id: 30526
  ENG: "Dominion Shield Matrix (Basic)"
@@ -5103,7 +5103,7 @@ Fed_advanced_CanopyShields_Name:
  ENG: "Starfleet Deflector Shield (Advanced Canopy)"
 Fed_advanced_CanopyShields_Desc:
  Id: 30533
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. An improved canopy shield with higher resistance and a wide radius, for capital ships. Its power costs are enormous."
+ ENG: "An experimental canopy that applies transphasic subspace compression to the field. The phase configuration is randomised so it cannot be predicted. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power."
 Kli_advanced_CanopyShields_Name:
  Id: 30534
  ENG: "Klingon Deflector Grid (Advanced Canopy)"
@@ -5118,10 +5118,10 @@ Rom_advanced_CanopyShields_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. An improved canopy shield with higher resistance and a wide radius, for capital ships. Its power costs are enormous."
 Car_advanced_CanopyShields_Name:
  Id: 30538
- ENG: "Cardassian Shield Grid (Advanced Canopy)"
+ ENG: "Cardassian Dreadnought Canopy Shield"
 Car_advanced_CanopyShields_Desc:
  Id: 30539
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. An improved canopy shield with higher resistance and a wide radius, for capital ships. Its power costs are enormous."
+ ENG: "The canopy field of the biggest Cardassian warships. Meant to cover a whole squadron at once. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power."
 Dom_advanced_CanopyShields_Name:
  Id: 30540
  ENG: "Dominion Shield Matrix (Advanced Canopy)"
@@ -5145,7 +5145,7 @@ Fed_advanced_crusier_sheaild_Name:
  ENG: "Starfleet Deflector Shield (Advanced Cruiser)"
 Fed_advanced_crusier_sheaild_Desc:
  Id: 30547
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A large shield for cruisers that gives heavy protection at a heavy power cost."
+ ENG: "The grid reads incoming fire and remodulates its shield harmonics to match, so each hit lands on a field already tuned against it. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it is the quickest to come back after being knocked down."
 Kli_advanced_crusier_sheaild_Name:
  Id: 30548
  ENG: "Klingon Deflector Grid (Advanced Cruiser)"
@@ -5160,10 +5160,10 @@ Rom_advanced_crusier_sheaild_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A large shield for cruisers that gives heavy protection at a heavy power cost."
 Car_advanced_crusier_sheaild_Name:
  Id: 30552
- ENG: "Cardassian Shield Grid (Advanced Cruiser)"
+ ENG: "Cardassian Keldon Shield Grid"
 Car_advanced_crusier_sheaild_Desc:
  Id: 30553
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. A large shield for cruisers that gives heavy protection at a heavy power cost."
+ ENG: "The Keldon-class shares the Galor's hull with an extra superstructure, and a stronger grid to match. Its shields take energy fire well. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it is the quickest to come back after being knocked down."
 Dom_advanced_crusier_sheaild_Name:
  Id: 30554
  ENG: "Dominion Shield Matrix (Advanced Cruiser)"
@@ -5187,7 +5187,7 @@ Fed_Fighter_Shield_Name:
  ENG: "Starfleet Deflector Shield (Fighter)"
 Fed_Fighter_Shield_Desc:
  Id: 30561
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A fighter shield with a decent radius that can only take a few hits, but recharges quickly."
+ ENG: "Compact deflector emitter for shuttles and runabouts. It holds a single modulated shield frequency in the megahertz range, the same band as the shields of larger Starfleet ships. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet fighter shields, size for size, it draws the least power, but holds the least energy."
 Kli_Fighter_Shield_Name:
  Id: 30562
  ENG: "Klingon Deflector Grid (Fighter)"
@@ -5202,10 +5202,10 @@ Rom_Fighter_Shield_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A fighter shield with a decent radius that can only take a few hits, but recharges quickly."
 Car_Fighter_Shield_Name:
  Id: 30566
- ENG: "Cardassian Shield Grid (Fighter)"
+ ENG: "Cardassian Hideki Shield Emitter"
 Car_Fighter_Shield_Desc:
  Id: 30567
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. A fighter shield with a decent radius that can only take a few hits, but recharges quickly."
+ ENG: "Emitter for the Hideki-pattern fighters the Union flew as pickets and escorts. Good enough against energy fire, and little help against debris and solid shot. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian fighter shields, size for size, it draws the least power, but holds the least energy."
 Dom_Fighter_Shield_Name:
  Id: 30568
  ENG: "Dominion Shield Matrix (Fighter)"
@@ -5229,7 +5229,7 @@ Fed_advanced_fighter_sheaild_Name:
  ENG: "Starfleet Deflector Shield (Advanced Fighter)"
 Fed_advanced_fighter_sheaild_Desc:
  Id: 30575
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. An improved fighter shield with a decent radius that recharges quickly."
+ ENG: "The emitter steps through a rotating shield frequency, so an enemy that has matched one harmonic is thrown off at the next. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet fighter shields, size for size, it recharges the fastest, but draws the most power."
 Kli_advanced_fighter_sheaild_Name:
  Id: 30576
  ENG: "Klingon Deflector Grid (Advanced Fighter)"
@@ -5244,10 +5244,10 @@ Rom_advanced_fighter_sheaild_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. An improved fighter shield with a decent radius that recharges quickly."
 Car_advanced_fighter_sheaild_Name:
  Id: 30580
- ENG: "Cardassian Shield Grid (Advanced Fighter)"
+ ENG: "Cardassian Hideki Reinforced Emitter"
 Car_advanced_fighter_sheaild_Desc:
  Id: 30581
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. An improved fighter shield with a decent radius that recharges quickly."
+ ENG: "A refit of the Hideki emitter with a larger coil, for the fighters kept at the edge of a battle to pick off stragglers. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian fighter shields, size for size, it recharges the fastest, but draws the most power."
 Dom_advanced_fighter_sheaild_Name:
  Id: 30582
  ENG: "Dominion Shield Matrix (Advanced Fighter)"
@@ -5271,7 +5271,7 @@ Fed_prototype_fighter_shealds_Name:
  ENG: "Starfleet Deflector Shield (Prototype Fighter)"
 Fed_prototype_fighter_shealds_Desc:
  Id: 30589
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A prototype fighter shield: powerful, but experimental."
+ ENG: "A test emitter that carries the shield harmonics on a tighter subspace field. It is a prototype, and the engineers still tune it by hand. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet fighter shields, size for size, it is the quickest to come back after being knocked down and draws the least power."
 Kli_prototype_fighter_shealds_Name:
  Id: 30590
  ENG: "Klingon Deflector Grid (Prototype Fighter)"
@@ -5286,10 +5286,10 @@ Rom_prototype_fighter_shealds_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A prototype fighter shield: powerful, but experimental."
 Car_prototype_fighter_shealds_Name:
  Id: 30594
- ENG: "Cardassian Shield Grid (Prototype Fighter)"
+ ENG: "Cardassian Skirmisher Prototype Grid"
 Car_prototype_fighter_shealds_Desc:
  Id: 30595
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. A prototype fighter shield: powerful, but experimental."
+ ENG: "A trial grid built for the Central Command's small strike craft. Hurriedly fitted, and a step above the standard emitter. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian fighter shields, size for size, it is the quickest to come back after being knocked down and draws the least power."
 Dom_prototype_fighter_shealds_Name:
  Id: 30596
  ENG: "Dominion Shield Matrix (Prototype Fighter)"
@@ -5313,7 +5313,7 @@ Fed_transphasic_fighter_shealds_Name:
  ENG: "Starfleet Deflector Shield (Transphasic Fighter)"
 Fed_transphasic_fighter_shealds_Desc:
  Id: 30603
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A fighter shield using transphasic technology, with high resistance and a quick recharge."
+ ENG: "Borrows the subspace compression pulse of transphasic weapons for its field, with a randomised phase pattern across the grid. An enemy has no steady frequency to learn. Strong protection against beams and energy fire. Of the Starfleet fighter shields, size for size, it holds the most energy and covers the widest area, but draws the most power."
 Kli_transphasic_fighter_shealds_Name:
  Id: 30604
  ENG: "Klingon Deflector Grid (Transphasic Fighter)"
@@ -5328,10 +5328,10 @@ Rom_transphasic_fighter_shealds_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A fighter shield using transphasic technology, with high resistance and a quick recharge."
 Car_transphasic_fighter_shealds_Name:
  Id: 30608
- ENG: "Cardassian Shield Grid (Transphasic Fighter)"
+ ENG: "Cardassian Alliance-Pattern Fighter Grid"
 Car_transphasic_fighter_shealds_Desc:
  Id: 30609
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. A fighter shield using transphasic technology, with high resistance and a quick recharge."
+ ENG: "Built after the Union joined the Dominion, on designs shared under the Alliance. It is the best a Cardassian fighter ever carried. Strong protection against beams and energy fire. Of the Cardassian fighter shields, size for size, it holds the most energy and covers the widest area, but draws the most power."
 Dom_transphasic_fighter_shealds_Name:
  Id: 30610
  ENG: "Dominion Shield Matrix (Transphasic Fighter)"
@@ -5355,7 +5355,7 @@ Fed_freighter_sheaild_Name:
  ENG: "Starfleet Deflector Shield (Freighter)"
 Fed_freighter_sheaild_Desc:
  Id: 30617
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A basic shield for freighters: short radius and a slow recharge."
+ ENG: "A simple deflector generator for cargo haulers and tenders. It is built to turn away debris and the odd raider. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it draws the least power and is the lightest, but holds the least energy."
 Kli_freighter_sheaild_Name:
  Id: 30618
  ENG: "Klingon Deflector Grid (Freighter)"
@@ -5370,10 +5370,10 @@ Rom_freighter_sheaild_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A basic shield for freighters: short radius and a slow recharge."
 Car_freighter_sheaild_Name:
  Id: 30622
- ENG: "Cardassian Shield Grid (Freighter)"
+ ENG: "Cardassian Freighter Shield Generator"
 Car_freighter_sheaild_Desc:
  Id: 30623
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. A basic shield for freighters: short radius and a slow recharge."
+ ENG: "Modest generator for the Union's freighters and transports, enough to turn away raiders and little else. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it draws the least power and is the lightest, but holds the least energy."
 Dom_freighter_sheaild_Name:
  Id: 30624
  ENG: "Dominion Shield Matrix (Freighter)"
@@ -5397,7 +5397,7 @@ Fed_frigate_shealds_Name:
  ENG: "Starfleet Deflector Shield (Frigate)"
 Fed_frigate_shealds_Desc:
  Id: 30631
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A basic shield for frigates: short radius and a slow recharge."
+ ENG: "A multiphasic grid, the advanced Federation deflector type that also shields against subspace radiation and the energy emissions of stars. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build."
 Kli_frigate_shealds_Name:
  Id: 30632
  ENG: "Klingon Deflector Grid (Frigate)"
@@ -5412,10 +5412,10 @@ Rom_frigate_shealds_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A basic shield for frigates: short radius and a slow recharge."
 Car_frigate_shealds_Name:
  Id: 30636
- ENG: "Cardassian Shield Grid (Frigate)"
+ ENG: "Cardassian Frigate Shield Grid"
 Car_frigate_shealds_Desc:
  Id: 30637
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. A basic shield for frigates: short radius and a slow recharge."
+ ENG: "The grid carried by Cardassian frigates, the picket ships that kept order over worlds like Bajor. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build."
 Dom_frigate_shealds_Name:
  Id: 30638
  ENG: "Dominion Shield Matrix (Frigate)"
@@ -5439,7 +5439,7 @@ Fed_ORBITAL_SHEAILD_2X2_Name:
  ENG: "Starfleet Deflector Shield (Orbital 2x2)"
 Fed_ORBITAL_SHEAILD_2X2_Desc:
  Id: 30645
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A huge shield for orbital platforms, with high resistance and a wide protection radius."
+ ENG: "A deflector for pickets and defence stations, powered from the station's own grid. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet platform shields, size for size, it holds the most energy and recharges the fastest, but covers the narrowest area."
 Kli_ORBITAL_SHEAILD_2X2_Name:
  Id: 30646
  ENG: "Klingon Deflector Grid (Orbital 2x2)"
@@ -5454,10 +5454,10 @@ Rom_ORBITAL_SHEAILD_2X2_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A huge shield for orbital platforms, with high resistance and a wide protection radius."
 Car_ORBITAL_SHEAILD_2X2_Name:
  Id: 30650
- ENG: "Cardassian Shield Grid (Orbital 2x2)"
+ ENG: "Cardassian Picket Field Generator"
 Car_ORBITAL_SHEAILD_2X2_Desc:
  Id: 30651
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. A huge shield for orbital platforms, with high resistance and a wide protection radius."
+ ENG: "A field for the pickets and defence stations that guarded Union worlds. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian platform shields, size for size, it holds the most energy and recharges the fastest, but covers the narrowest area."
 Dom_ORBITAL_SHEAILD_2X2_Name:
  Id: 30652
  ENG: "Dominion Shield Matrix (Orbital 2x2)"
@@ -5481,7 +5481,7 @@ Fed_ORBITAL_SHEAILD_2X2_MK2_Name:
  ENG: "Starfleet Deflector Shield (Orbital 2x2 Mk2)"
 Fed_ORBITAL_SHEAILD_2X2_MK2_Desc:
  Id: 30659
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. An improved orbital shield with higher resistance and a wide protection radius."
+ ENG: "A platform deflector with its emitters phase-locked into one field. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet platform shields, size for size, it is the lightest and the cheapest to build, but holds the least energy."
 Kli_ORBITAL_SHEAILD_2X2_MK2_Name:
  Id: 30660
  ENG: "Klingon Deflector Grid (Orbital 2x2 Mk2)"
@@ -5496,10 +5496,10 @@ Rom_ORBITAL_SHEAILD_2X2_MK2_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. An improved orbital shield with higher resistance and a wide protection radius."
 Car_ORBITAL_SHEAILD_2X2_MK2_Name:
  Id: 30664
- ENG: "Cardassian Shield Grid (Orbital 2x2 Mk2)"
+ ENG: "Cardassian Bulwark Field Generator"
 Car_ORBITAL_SHEAILD_2X2_MK2_Desc:
  Id: 30665
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. An improved orbital shield with higher resistance and a wide protection radius."
+ ENG: "A larger field generator for the pickets, with a wider cover and a deeper store of power. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian platform shields, size for size, it is the lightest and the cheapest to build, but holds the least energy."
 Dom_ORBITAL_SHEAILD_2X2_MK2_Name:
  Id: 30666
  ENG: "Dominion Shield Matrix (Orbital 2x2 Mk2)"
@@ -5523,7 +5523,7 @@ Fed_TRANSPHASIC_OWP_SHEAILD_Name:
  ENG: "Starfleet Deflector Shield (Transphasic Orbital Platform)"
 Fed_TRANSPHASIC_OWP_SHEAILD_Desc:
  Id: 30673
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A transphasic shield for orbital weapon platforms, with very high resistance and a wide radius."
+ ENG: "A transphasic shield for the largest platforms, with a subspace compression pulse that randomises the phase of the field. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet platform shields, size for size, it covers the widest area, but draws the most power."
 Kli_TRANSPHASIC_OWP_SHEAILD_Name:
  Id: 30674
  ENG: "Klingon Deflector Grid (Transphasic Orbital Platform)"
@@ -5538,10 +5538,10 @@ Rom_TRANSPHASIC_OWP_SHEAILD_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A transphasic shield for orbital weapon platforms, with very high resistance and a wide radius."
 Car_TRANSPHASIC_OWP_SHEAILD_Name:
  Id: 30678
- ENG: "Cardassian Shield Grid (Transphasic Orbital Platform)"
+ ENG: "Cardassian Platform Regenerative Shield"
 Car_TRANSPHASIC_OWP_SHEAILD_Desc:
  Id: 30679
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. A transphasic shield for orbital weapon platforms, with very high resistance and a wide radius."
+ ENG: "The regenerative force fields that made the orbital weapon platforms of the Chin'toka system nearly invulnerable to return fire. \"Captain, I've just noticed something odd about those platforms.\" (Garak, DS9: \"Tears of the Prophets\") Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian platform shields, size for size, it covers the widest area, but draws the most power."
 Dom_TRANSPHASIC_OWP_SHEAILD_Name:
  Id: 30680
  ENG: "Dominion Shield Matrix (Transphasic Orbital Platform)"
@@ -5565,7 +5565,7 @@ Fed_small_station_sheaild_mk1_Name:
  ENG: "Starfleet Deflector Shield (Small Station)"
 Fed_small_station_sheaild_mk1_Desc:
  Id: 30687
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A shield for small stations, with high resistance and a wide protection radius."
+ ENG: "A shield emitter for outposts and relay stations, tied to the station's structural integrity field. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet station shields, size for size, it draws the least power and is the cheapest to build, but holds the least energy."
 Kli_small_station_sheaild_mk1_Name:
  Id: 30688
  ENG: "Klingon Deflector Grid (Small Station)"
@@ -5580,10 +5580,10 @@ Rom_small_station_sheaild_mk1_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A shield for small stations, with high resistance and a wide protection radius."
 Car_small_station_sheaild_mk1_Name:
  Id: 30692
- ENG: "Cardassian Shield Grid (Small Station)"
+ ENG: "Cardassian Pylon Shield Projector"
 Car_small_station_sheaild_mk1_Desc:
  Id: 30693
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. A shield for small stations, with high resistance and a wide protection radius."
+ ENG: "A projector for the pylons of a Nor-pattern station, where the ore processing plant sits. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian station shields, size for size, it draws the least power and is the cheapest to build, but holds the least energy."
 Dom_small_station_sheaild_mk1_Name:
  Id: 30694
  ENG: "Dominion Shield Matrix (Small Station)"
@@ -5607,7 +5607,7 @@ Fed_starbase_sheailds_Name:
  ENG: "Starfleet Deflector Shield (Starbase)"
 Fed_starbase_sheailds_Desc:
  Id: 30701
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A monstrous shield for starbases, with very high resistance and a massive protection radius."
+ ENG: "The full shield grid of a large Starbase, with multiphasic emitters across the ring and the docking arms. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet station shields, size for size, it holds the most energy and is the lightest."
 Kli_starbase_sheailds_Name:
  Id: 30702
  ENG: "Klingon Deflector Grid (Starbase)"
@@ -5622,10 +5622,10 @@ Rom_starbase_sheailds_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A monstrous shield for starbases, with very high resistance and a massive protection radius."
 Car_starbase_sheailds_Name:
  Id: 30706
- ENG: "Cardassian Shield Grid (Starbase)"
+ ENG: "Cardassian Nor Station Shield Grid"
 Car_starbase_sheailds_Desc:
  Id: 30707
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. A monstrous shield for starbases, with very high resistance and a massive protection radius."
+ ENG: "The full shield grid of a large Nor-pattern station, covering the ring and all three pylons. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian station shields, size for size, it holds the most energy and is the lightest."
 Dom_starbase_sheailds_Name:
  Id: 30708
  ENG: "Dominion Shield Matrix (Starbase)"
@@ -5649,7 +5649,7 @@ Fed_station_deflector_mk1_Name:
  ENG: "Starfleet Deflector Shield (Station Mk1)"
 Fed_station_deflector_mk1_Desc:
  Id: 30715
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A deflector array for stations, with high resistance and a wide protection radius."
+ ENG: "The main deflector array of a Starbase, with emitters on every pylon and rotating shield harmonics. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet station shields, size for size, it has the sturdiest housing, but draws the most power."
 Kli_station_deflector_mk1_Name:
  Id: 30716
  ENG: "Klingon Deflector Grid (Station Mk1)"
@@ -5664,10 +5664,10 @@ Rom_station_deflector_mk1_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A deflector array for stations, with high resistance and a wide protection radius."
 Car_station_deflector_mk1_Name:
  Id: 30720
- ENG: "Cardassian Shield Grid (Station Mk1)"
+ ENG: "Cardassian Station Deflector Array"
 Car_station_deflector_mk1_Desc:
  Id: 30721
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. A deflector array for stations, with high resistance and a wide protection radius."
+ ENG: "The main deflector array of a Cardassian station, built to keep an occupied world's skies under guard. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian station shields, size for size, it has the sturdiest housing, but draws the most power."
 Dom_station_deflector_mk1_Name:
  Id: 30722
  ENG: "Dominion Shield Matrix (Station Mk1)"
@@ -5691,7 +5691,7 @@ Fed_station_deflector_mk2_Name:
  ENG: "Starfleet Deflector Shield (Station Mk2)"
 Fed_station_deflector_mk2_Desc:
  Id: 30729
- ENG: "Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. An improved station deflector with higher resistance and a wide protection radius."
+ ENG: "The deflector of the great Spacedock stations, with adaptive harmonics that follow every ship in the docking zone. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet station shields, size for size, it recharges the fastest and covers the widest area, but is the costliest to build."
 Kli_station_deflector_mk2_Name:
  Id: 30730
  ENG: "Klingon Deflector Grid (Station Mk2)"
@@ -5706,10 +5706,10 @@ Rom_station_deflector_mk2_Desc:
  ENG: "A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. An improved station deflector with higher resistance and a wide protection radius."
 Car_station_deflector_mk2_Name:
  Id: 30734
- ENG: "Cardassian Shield Grid (Station Mk2)"
+ ENG: "Cardassian Bastion Deflector"
 Car_station_deflector_mk2_Desc:
  Id: 30735
- ENG: "A Cardassian shield grid: thorough, heavy and built for a long campaign. An improved station deflector with higher resistance and a wide protection radius."
+ ENG: "The deflector of the Union's greatest fortress stations, tuned to bounce the heaviest energy fire. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian station shields, size for size, it recharges the fastest and covers the widest area, but is the costliest to build."
 Dom_station_deflector_mk2_Name:
  Id: 30736
  ENG: "Dominion Shield Matrix (Station Mk2)"
@@ -5733,7 +5733,7 @@ Fed_station_phasor_beem_mk1_Name:
  ENG: "Starfleet Orbital Phaser Array Mk1"
 Fed_station_phasor_beem_mk1_Desc:
  Id: 30743
- ENG: "A phaser array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Built to Starfleet's standards."
+ ENG: "A phaser lance for outposts, firing a narrow beam through a tight phase discriminator. Of the Starfleet orbital beam weapons, it is the sturdiest for its size, but hits the softest."
 Kli_station_phasor_beem_mk1_Name:
  Id: 30744
  ENG: "Klingon Orbital Disruptor Array Mk1"
@@ -5751,7 +5751,7 @@ Car_station_phasor_beem_mk1_Name:
  ENG: "Cardassian Orbital Spiral-Wave Disruptor Array Mk1"
 Car_station_phasor_beem_mk1_Desc:
  Id: 30749
- ENG: "A spiral-wave disruptor array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Thorough, heavy and built for the long occupation."
+ ENG: "A lance for outposts, firing a narrow beam. Of the Cardassian orbital beam weapons, it is the sturdiest for its size, but hits the softest."
 Dom_station_phasor_beem_mk1_Name:
  Id: 30750
  ENG: "Dominion Orbital Polaron Array Mk1"
@@ -5775,7 +5775,7 @@ Fed_station_phasor_beem_mk2_Name:
  ENG: "Starfleet Orbital Phaser Array Mk2"
 Fed_station_phasor_beem_mk2_Desc:
  Id: 30757
- ENG: "A phaser array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Built to Starfleet's standards. An improved model."
+ ENG: "A phased array for a Starbase, with an array of emitters on the ring."
 Kli_station_phasor_beem_mk2_Name:
  Id: 30758
  ENG: "Klingon Orbital Disruptor Array Mk2"
@@ -5793,7 +5793,7 @@ Car_station_phasor_beem_mk2_Name:
  ENG: "Cardassian Orbital Spiral-Wave Disruptor Array Mk2"
 Car_station_phasor_beem_mk2_Desc:
  Id: 30763
- ENG: "A spiral-wave disruptor array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Thorough, heavy and built for the long occupation. An improved model."
+ ENG: "A beam array for a station's ring."
 Dom_station_phasor_beem_mk2_Name:
  Id: 30764
  ENG: "Dominion Orbital Polaron Array Mk2"
@@ -5817,7 +5817,7 @@ Fed_station_phasor_beem_mk3_Name:
  ENG: "Starfleet Orbital Phaser Array Mk3"
 Fed_station_phasor_beem_mk3_Desc:
  Id: 30771
- ENG: "A phaser array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Built to Starfleet's standards. A refined, later model."
+ ENG: "A phased array for a Spacedock, fed by the full power of the station."
 Kli_station_phasor_beem_mk3_Name:
  Id: 30772
  ENG: "Klingon Orbital Disruptor Array Mk3"
@@ -5835,7 +5835,7 @@ Car_station_phasor_beem_mk3_Name:
  ENG: "Cardassian Orbital Spiral-Wave Disruptor Array Mk3"
 Car_station_phasor_beem_mk3_Desc:
  Id: 30777
- ENG: "A spiral-wave disruptor array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Thorough, heavy and built for the long occupation. A refined, later model."
+ ENG: "A beam array for the pylons of a Nor-pattern station."
 Dom_station_phasor_beem_mk3_Name:
  Id: 30778
  ENG: "Dominion Orbital Polaron Array Mk3"
@@ -5859,7 +5859,7 @@ Fed_station_phasor_beem_mk4_Name:
  ENG: "Starfleet Orbital Phaser Array Mk4"
 Fed_station_phasor_beem_mk4_Desc:
  Id: 30785
- ENG: "A phaser array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Built to Starfleet's standards. An advanced late-generation model."
+ ENG: "The heavy lance of the Federation's defence grid, focused through a rotating phase discriminator. Of the Starfleet orbital beam weapons, it hits the hardest and reaches the farthest, but is the frailest for its size."
 Kli_station_phasor_beem_mk4_Name:
  Id: 30786
  ENG: "Klingon Orbital Disruptor Array Mk4"
@@ -5877,7 +5877,7 @@ Car_station_phasor_beem_mk4_Name:
  ENG: "Cardassian Orbital Spiral-Wave Disruptor Array Mk4"
 Car_station_phasor_beem_mk4_Desc:
  Id: 30791
- ENG: "A spiral-wave disruptor array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Thorough, heavy and built for the long occupation. An advanced late-generation model."
+ ENG: "The long lance of the Union's fortress stations, which no ship can safely approach. Of the Cardassian orbital beam weapons, it hits the hardest and reaches the farthest, but is the frailest for its size."
 Dom_station_phasor_beem_mk4_Name:
  Id: 30792
  ENG: "Dominion Orbital Polaron Array Mk4"
@@ -5901,7 +5901,7 @@ Fed_orbital_defence_torpedo_Name:
  ENG: "Starfleet Orbital Defence Photon Launcher"
 Fed_orbital_defence_torpedo_Desc:
  Id: 30799
- ENG: "A photon torpedo launcher for orbital defence: slow to reload, but every warhead hits hard. Built to Starfleet's standards."
+ ENG: "A fixed torpedo tube for stations and garrisons. Of the Starfleet orbital torpedo weapons, it fires the fastest and is the sturdiest for its size, but hits the softest."
 Kli_orbital_defence_torpedo_Name:
  Id: 30800
  ENG: "Klingon Orbital Defence Photon Launcher"
@@ -5919,7 +5919,7 @@ Car_orbital_defence_torpedo_Name:
  ENG: "Cardassian Orbital Defence Photon Launcher"
 Car_orbital_defence_torpedo_Desc:
  Id: 30805
- ENG: "A photon torpedo launcher for orbital defence: slow to reload, but every warhead hits hard. Thorough, heavy and built for the long occupation."
+ ENG: "A fixed tube for stations and garrisons. Of the Cardassian orbital torpedo weapons, it fires the fastest and is the sturdiest for its size, but hits the softest."
 Dom_orbital_defence_torpedo_Name:
  Id: 30806
  ENG: "Dominion Orbital Defence Polaron Launcher"
@@ -5943,7 +5943,7 @@ Fed_station_adv_torpedo_mk1_Name:
  ENG: "Starfleet Orbital Advanced Photon Launcher"
 Fed_station_adv_torpedo_mk1_Desc:
  Id: 30813
- ENG: "An advanced photon torpedo launcher for stations and platforms, with a bigger warhead and better guidance. Built to Starfleet's standards."
+ ENG: "A battery of quantum torpedoes, with the vacuum-energy cores held in a shielded magazine. Of the Starfleet orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size."
 Kli_station_adv_torpedo_mk1_Name:
  Id: 30814
  ENG: "Klingon Orbital Advanced Photon Launcher"
@@ -5961,7 +5961,7 @@ Car_station_adv_torpedo_mk1_Name:
  ENG: "Cardassian Orbital Advanced Photon Launcher"
 Car_station_adv_torpedo_mk1_Desc:
  Id: 30819
- ENG: "An advanced photon torpedo launcher for stations and platforms, with a bigger warhead and better guidance. Thorough, heavy and built for the long occupation."
+ ENG: "A long-reach launcher used to hold off a fleet at a distance. Of the Cardassian orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size."
 Dom_station_adv_torpedo_mk1_Name:
  Id: 30820
  ENG: "Dominion Orbital Advanced Polaron Launcher"
@@ -5985,7 +5985,7 @@ Fed_station_hevey_torpedo_mk1_Name:
  ENG: "Starfleet Orbital Heavy Photon Launcher"
 Fed_station_hevey_torpedo_mk1_Desc:
  Id: 30827
- ENG: "A heavy photon torpedo launcher for stations and platforms: a large warhead on a long reload. Built to Starfleet's standards."
+ ENG: "The heaviest battery on a Starbase. Its torpedoes use a subspace compression pulse with a randomised phase pattern, which no shield can predict. Of the Starfleet orbital torpedo weapons, it hits the hardest and is the cheapest for its size, but fires the slowest."
 Kli_station_hevey_torpedo_mk1_Name:
  Id: 30828
  ENG: "Klingon Orbital Heavy Photon Launcher"
@@ -6003,7 +6003,7 @@ Car_station_hevey_torpedo_mk1_Name:
  ENG: "Cardassian Orbital Heavy Photon Launcher"
 Car_station_hevey_torpedo_mk1_Desc:
  Id: 30833
- ENG: "A heavy photon torpedo launcher for stations and platforms: a large warhead on a long reload. Thorough, heavy and built for the long occupation."
+ ENG: "The heaviest launcher on a Cardassian station, built to crack a fleet. Of the Cardassian orbital torpedo weapons, it hits the hardest and is the cheapest for its size, but fires the slowest."
 Dom_station_hevey_torpedo_mk1_Name:
  Id: 30834
  ENG: "Dominion Orbital Heavy Polaron Launcher"
@@ -6027,7 +6027,7 @@ Fed_station_torpedo_launcher_mk1_Name:
  ENG: "Starfleet Orbital Photon Launcher Mk1"
 Fed_station_torpedo_launcher_mk1_Desc:
  Id: 30841
- ENG: "A guided photon torpedo launcher for stations and platforms. Built to Starfleet's standards."
+ ENG: "A launcher for a Starbase's garrison, kept loaded in case of attack. Of the Starfleet orbital torpedo weapons, it fires the fastest, but has the slowest shots."
 Kli_station_torpedo_launcher_mk1_Name:
  Id: 30842
  ENG: "Klingon Orbital Photon Launcher Mk1"
@@ -6045,7 +6045,7 @@ Car_station_torpedo_launcher_mk1_Name:
  ENG: "Cardassian Orbital Photon Launcher Mk1"
 Car_station_torpedo_launcher_mk1_Desc:
  Id: 30847
- ENG: "A guided photon torpedo launcher for stations and platforms. Thorough, heavy and built for the long occupation."
+ ENG: "A launcher for a station's garrison, kept loaded in case of attack. Of the Cardassian orbital torpedo weapons, it fires the fastest, but has the slowest shots."
 Dom_station_torpedo_launcher_mk1_Name:
  Id: 30848
  ENG: "Dominion Orbital Polaron Launcher Mk1"
@@ -6069,7 +6069,7 @@ Fed_station_torpedo_launcher_mk2_Name:
  ENG: "Starfleet Orbital Photon Launcher Mk2"
 Fed_station_torpedo_launcher_mk2_Desc:
  Id: 30855
- ENG: "A guided photon torpedo launcher for stations and platforms. Built to Starfleet's standards. An improved model."
+ ENG: "A Starbase launcher with a reinforced magazine. Of the Starfleet orbital torpedo weapons, it has the fastest shots, but fires the slowest."
 Kli_station_torpedo_launcher_mk2_Name:
  Id: 30856
  ENG: "Klingon Orbital Photon Launcher Mk2"
@@ -6087,7 +6087,7 @@ Car_station_torpedo_launcher_mk2_Name:
  ENG: "Cardassian Orbital Photon Launcher Mk2"
 Car_station_torpedo_launcher_mk2_Desc:
  Id: 30861
- ENG: "A guided photon torpedo launcher for stations and platforms. Thorough, heavy and built for the long occupation. An improved model."
+ ENG: "A garrison launcher with a reinforced magazine. Of the Cardassian orbital torpedo weapons, it has the fastest shots, but fires the slowest."
 Dom_station_torpedo_launcher_mk2_Name:
  Id: 30862
  ENG: "Dominion Orbital Polaron Launcher Mk2"
@@ -6111,7 +6111,7 @@ Fed_orbital_cannons_Name:
  ENG: "Starfleet Orbital Phaser Cannon Battery (Basic)"
 Fed_orbital_cannons_Desc:
  Id: 30869
- ENG: "A Phaser Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Built to Starfleet's standards."
+ ENG: "A fixed phaser bank for a planetary defence post, aimed by the station's tactical computer. Of the Starfleet orbital cannon weapons, it fires the slowest."
 Kli_orbital_cannons_Name:
  Id: 30870
  ENG: "Klingon Orbital Disruptor Cannon Battery (Basic)"
@@ -6129,7 +6129,7 @@ Car_orbital_cannons_Name:
  ENG: "Cardassian Orbital Disruptor Cannon Battery (Basic)"
 Car_orbital_cannons_Desc:
  Id: 30875
- ENG: "A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Thorough, heavy and built for the long occupation."
+ ENG: "The System-5 disruptor was a planetary defence weapon, never designed to move. It guarded outposts like Korma. Of the Cardassian orbital cannon weapons, it fires the slowest."
 Dom_orbital_cannons_Name:
  Id: 30876
  ENG: "Dominion Orbital Polaron Cannon Battery (Basic)"
@@ -6153,7 +6153,7 @@ Fed_orbital_cannons_mk1_Name:
  ENG: "Starfleet Orbital Phaser Cannon Battery Mk1"
 Fed_orbital_cannons_mk1_Desc:
  Id: 30883
- ENG: "A Phaser Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Built to Starfleet's standards."
+ ENG: "A heavy phaser cannon for a Starbase's ring. Of the Starfleet orbital cannon weapons, it has the fastest shots, but fires the slowest."
 Kli_orbital_cannons_mk1_Name:
  Id: 30884
  ENG: "Klingon Orbital Disruptor Cannon Battery Mk1"
@@ -6171,7 +6171,7 @@ Car_orbital_cannons_mk1_Name:
  ENG: "Cardassian Orbital Disruptor Cannon Battery Mk1"
 Car_orbital_cannons_mk1_Desc:
  Id: 30889
- ENG: "A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Thorough, heavy and built for the long occupation."
+ ENG: "A heavy disruptor cannon for a station's ring. Of the Cardassian orbital cannon weapons, it has the fastest shots, but fires the slowest."
 Dom_orbital_cannons_mk1_Name:
  Id: 30890
  ENG: "Dominion Orbital Polaron Cannon Battery Mk1"
@@ -6195,7 +6195,7 @@ Fed_orbital_cannons_mk2_Name:
  ENG: "Starfleet Orbital Phaser Cannon Battery Mk2"
 Fed_orbital_cannons_mk2_Desc:
  Id: 30897
- ENG: "A Phaser Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Built to Starfleet's standards. An improved model."
+ ENG: "A battery of phaser cannons set around the ring of a Starbase. Of the Starfleet orbital cannon weapons, it has the fastest shots."
 Kli_orbital_cannons_mk2_Name:
  Id: 30898
  ENG: "Klingon Orbital Disruptor Cannon Battery Mk2"
@@ -6213,7 +6213,7 @@ Car_orbital_cannons_mk2_Name:
  ENG: "Cardassian Orbital Disruptor Cannon Battery Mk2"
 Car_orbital_cannons_mk2_Desc:
  Id: 30903
- ENG: "A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Thorough, heavy and built for the long occupation. An improved model."
+ ENG: "A battery of cannons spread around a station's habitat ring. Of the Cardassian orbital cannon weapons, it has the fastest shots."
 Dom_orbital_cannons_mk2_Name:
  Id: 30904
  ENG: "Dominion Orbital Polaron Cannon Battery Mk2"
@@ -6237,7 +6237,7 @@ Fed_orbital_cannons_mk3_Name:
  ENG: "Starfleet Orbital Phaser Cannon Battery Mk3"
 Fed_orbital_cannons_mk3_Desc:
  Id: 30911
- ENG: "A Phaser Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Built to Starfleet's standards. A refined, later model."
+ ENG: "A battery fitted to the arms of a Spacedock. Of the Starfleet orbital cannon weapons, it is the cheapest for its size and has the fastest shots, but is the frailest for its size."
 Kli_orbital_cannons_mk3_Name:
  Id: 30912
  ENG: "Klingon Orbital Disruptor Cannon Battery Mk3"
@@ -6255,7 +6255,7 @@ Car_orbital_cannons_mk3_Name:
  ENG: "Cardassian Orbital Disruptor Cannon Battery Mk3"
 Car_orbital_cannons_mk3_Desc:
  Id: 30917
- ENG: "A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Thorough, heavy and built for the long occupation. A refined, later model."
+ ENG: "A battery mounted on the pylons of a Nor-pattern station. Of the Cardassian orbital cannon weapons, it is the cheapest for its size and has the fastest shots, but is the frailest for its size."
 Dom_orbital_cannons_mk3_Name:
  Id: 30918
  ENG: "Dominion Orbital Polaron Cannon Battery Mk3"
@@ -6279,7 +6279,7 @@ Fed_orbital_cannons_mk4_Name:
  ENG: "Starfleet Orbital Phaser Cannon Battery Mk4"
 Fed_orbital_cannons_mk4_Desc:
  Id: 30925
- ENG: "A Phaser Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Built to Starfleet's standards. An advanced late-generation model."
+ ENG: "The largest phaser battery on a Starbase, with an emitter spread wide to cover a whole sector of sky. Of the Starfleet orbital cannon weapons, it hits the hardest and reaches the farthest."
 Kli_orbital_cannons_mk4_Name:
  Id: 30926
  ENG: "Klingon Orbital Disruptor Cannon Battery Mk4"
@@ -6297,7 +6297,7 @@ Car_orbital_cannons_mk4_Name:
  ENG: "Cardassian Orbital Disruptor Cannon Battery Mk4"
 Car_orbital_cannons_mk4_Desc:
  Id: 30931
- ENG: "A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Thorough, heavy and built for the long occupation. An advanced late-generation model."
+ ENG: "The largest battery in the Union's fortress stations, covering whole sectors of sky. Of the Cardassian orbital cannon weapons, it hits the hardest and reaches the farthest."
 Dom_orbital_cannons_mk4_Name:
  Id: 30932
  ENG: "Dominion Orbital Polaron Cannon Battery Mk4"
@@ -6321,7 +6321,7 @@ Fed_orbital_weapons_platform_Name:
  ENG: "Starfleet Orbital Weapons Platform"
 Fed_orbital_weapons_platform_Desc:
  Id: 30939
- ENG: "A heavy Starfleet weapons platform for orbital defence, firing in a wide arc. Built to Starfleet's standards."
+ ENG: "A phaser array for automated defence platforms in orbit, fed from the platform's own power grid. Of the Starfleet orbital cannon weapons, it is the sturdiest for its size, but hits the softest."
 Kli_orbital_weapons_platform_Name:
  Id: 30940
  ENG: "Klingon Orbital Weapons Platform"
@@ -6339,7 +6339,7 @@ Car_orbital_weapons_platform_Name:
  ENG: "Cardassian Orbital Weapons Platform"
 Car_orbital_weapons_platform_Desc:
  Id: 30945
- ENG: "A heavy Cardassian weapons platform for orbital defence, firing in a wide arc. Thorough, heavy and built for the long occupation."
+ ENG: "An orbital weapon platform carried three disruptor arrays. Many were built to guard the home worlds so the fleet could be used offensively. Of the Cardassian orbital cannon weapons, it is the sturdiest for its size, but hits the softest."
 Dom_orbital_weapons_platform_Name:
  Id: 30946
  ENG: "Dominion Orbital Weapons Platform"

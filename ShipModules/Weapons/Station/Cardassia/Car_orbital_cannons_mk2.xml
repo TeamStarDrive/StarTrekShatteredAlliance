@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons_mk2</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>18609</HealthMax>
-  <Description>A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Thorough, heavy and built for the long occupation. An improved model.</Description>
+  <Description>A battery of cannons spread around a station's habitat ring. Of the Cardassian orbital cannon weapons, it has the fastest shots.</Description>
   
   
   <PowerDraw>30</PowerDraw>

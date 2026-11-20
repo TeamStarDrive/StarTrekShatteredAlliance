@@ -35,7 +35,7 @@
   <FieldOfFire>90</FieldOfFire>
 
   <!-- Description -->
-  <Description>A phaser array tuned to bleed power from the target, leaving it slower to fire and to recharge. A heavy 4x4 mount. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home.</Description>
+  <Description>A heavy phaser lance tuned to overload a target's power grid rather than burn its hull. Of the Starfleet beam weapons, it fires the fastest and does the most to armour, but has the shortest reach.</Description>
   
 
 </ShipModule>

@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Fed_PhotonTorpedo_Mk1</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>7500</HealthMax>
-  <Description>A guided torpedo launcher: slow to reload, but every warhead hits hard. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home.</Description>
+  <Description>The standard matter-antimatter launcher of Starfleet ships. Each torpedo carries a measure of matter and antimatter, held apart in a magnetic bottle until impact. Of the Starfleet torpedo weapons, it is the sturdiest for its size, but hits the softest.</Description>
   
   
   <PowerDraw>5</PowerDraw>

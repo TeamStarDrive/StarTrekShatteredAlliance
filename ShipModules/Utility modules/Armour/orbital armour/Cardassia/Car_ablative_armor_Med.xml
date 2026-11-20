@@ -19,7 +19,7 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Car_ablative_armor_Med</Name>
+    <Name>Cardassian Station Ablative Plating (Medium)</Name>
     <Restrictions>O</Restrictions>
     <UID>Car_ablative_armor_Med</UID> 
   <Version>2</Version>
@@ -41,6 +41,6 @@
     <PlasmaResist>0.2</PlasmaResist>
 
     <!-- Description -->
-    <Description>Thick ablative plating for stations and orbital platforms, built for the long occupation.</Description>
+    <Description>Ablative plating for the ring and pylons of a Nor-style station, whose pylons are packed with ore processing plant. Replaced after every siege. "Your home was built by Cardassians. Don't ever forget that." (Kira, DS9: "Civil Defense") Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Cardassian orbital plates of its size, it is the toughest and the best protected against beams, but the costliest to build.</Description>
     <APResist>2</APResist>    
 </ShipModule>

@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/cardassian_prototype_torpedo</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>34500</HealthMax>
-  <Description>A prototype torpedo launcher: powerful, but experimental. Made by the Union's thorough engineers: heavy, practical and built for the long occupation.</Description>
+  <Description>An experimental launcher, still on the testing range. Of the Cardassian torpedo weapons, it hits the hardest and reaches the farthest, but has the slowest shots.</Description>
   
   
   <PowerDraw>5</PowerDraw>

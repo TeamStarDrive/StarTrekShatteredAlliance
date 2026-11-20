@@ -23,7 +23,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>2</YSize>
-  <Name>Car_transphasic_fighter_shealds</Name>
+  <Name>Cardassian Alliance-Pattern Fighter Grid</Name>
   <Restrictions>IO</Restrictions>
   <UID>Car_transphasic_fighter_shealds</UID> 
   <Version>2</Version>
@@ -32,7 +32,7 @@
   <Mass>12</Mass>
   <HealthMax>4800</HealthMax>
   
-  <Description>A Cardassian shield grid: thorough, heavy and built for a long campaign. A fighter shield using transphasic technology, with high resistance and a quick recharge.</Description>
+  <Description>Built after the Union joined the Dominion, on designs shared under the Alliance. It is the best a Cardassian fighter ever carried. Strong protection against beams and energy fire. Of the Cardassian fighter shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
   
   
   <PowerDraw>60</PowerDraw>

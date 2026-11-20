@@ -32,7 +32,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Car_Organic_cristal_Small</Name>
+  <Name>Cardassian Reclaimed Crystal Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Car_Organic_cristal_Small</UID> 
   <Version>2</Version>
@@ -58,7 +58,7 @@
     <PlasmaResist>0.5</PlasmaResist>
 
   <!-- Description -->
-  <Description>Crystal and living tissue, patiently self-repairing.</Description>
+  <Description>Crystal grown through a living scaffold from reclaimed material, which seals cracks as they open. Strong protection against every kind of fire. Of the Cardassian orbital plates of its size, it is the lightest and the best protected against plasma, but the costliest to build.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

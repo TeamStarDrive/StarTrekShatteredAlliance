@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons_mk4</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>58612</HealthMax>
-  <Description>A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Thorough, heavy and built for the long occupation. An advanced late-generation model.</Description>
+  <Description>The largest battery in the Union's fortress stations, covering whole sectors of sky. Of the Cardassian orbital cannon weapons, it hits the hardest and reaches the farthest.</Description>
   
   
   <PowerDraw>60</PowerDraw>

@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons_mk3</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>38612</HealthMax>
-  <Description>A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Thorough, heavy and built for the long occupation. A refined, later model.</Description>
+  <Description>A battery mounted on the pylons of a Nor-pattern station. Of the Cardassian orbital cannon weapons, it is the cheapest for its size and has the fastest shots, but is the frailest for its size.</Description>
   
   
   <PowerDraw>40</PowerDraw>

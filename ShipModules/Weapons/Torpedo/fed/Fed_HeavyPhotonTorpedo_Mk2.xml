@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Fed_HeavyPhotonTorpedo_Mk2</IconTexturePath>
   <Mass>292</Mass>
   <HealthMax>16500</HealthMax>
-  <Description>A heavy launcher for a large warhead on a long reload. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home. An improved model.</Description>
+  <Description>A launcher tuned for a high-yield warhead, with a larger antimatter charge. Of the Starfleet torpedo weapons, it hits the hardest and is the cheapest for its size, but carries the least ordnance.</Description>
   
   
   <PowerDraw>20</PowerDraw>

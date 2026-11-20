@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_adv_torpedo_mk1</IconTexturePath>
   <Mass>14500</Mass>
   <HealthMax>84500</HealthMax>
-  <Description>An advanced photon torpedo launcher for stations and platforms, with a bigger warhead and better guidance. Thorough, heavy and built for the long occupation.</Description>
+  <Description>A long-reach launcher used to hold off a fleet at a distance. Of the Cardassian orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size.</Description>
   
   
   <PowerDraw>5</PowerDraw>

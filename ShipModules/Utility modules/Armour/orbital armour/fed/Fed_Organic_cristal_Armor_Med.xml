@@ -41,6 +41,6 @@
     <PlasmaResist>5</PlasmaResist>
 
     <!-- Description -->
-    <Description>Crystalline plating with a living nanite lattice that slowly repairs itself.</Description>
+    <Description>A crystal lattice seeded on a bio-neural scaffold, which seals hairline cracks as they open. A trickle of power through the scaffold keeps the crystal growing back to its original pattern. Strong protection against kinetic rounds, beams, energy fire, plasma and explosions. Of the Starfleet orbital plates of its size, it is the best protected against plasma and the best against armour-piercing rounds, but the costliest to build.</Description>
     <APResist>2</APResist>    
 </ShipModule>

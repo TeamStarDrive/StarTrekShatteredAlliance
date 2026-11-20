@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/Fed_Hevey_PhaserCannon_3x3</IconTexturePath>
   <Mass>40</Mass>
   <HealthMax>15975</HealthMax>
-  <Description>A heavy rapid-fire cannon: short reach, but it hits very hard. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home.</Description>
+  <Description>The heavy cannon of the line, built for slow, hard-hitting pulses. Of the Starfleet cannon weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
   
   
   <PowerDraw>4</PowerDraw>

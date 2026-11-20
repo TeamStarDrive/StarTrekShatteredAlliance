@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Car_PhotonTorpedoMk3</IconTexturePath>
   <Mass>300</Mass>
   <HealthMax>21900</HealthMax>
-  <Description>A guided torpedo launcher: slow to reload, but every warhead hits hard. Made by the Union's thorough engineers: heavy, practical and built for the long occupation. A refined, later model.</Description>
+  <Description>A heavier launcher for the Keldon-class. Of the Cardassian torpedo weapons, it has the fastest shots, but has the smallest blast.</Description>
   
   
   <PowerDraw>5</PowerDraw>

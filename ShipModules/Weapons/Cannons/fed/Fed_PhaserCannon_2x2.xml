@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/Fed_PhaserCannon_2x2</IconTexturePath>
   <Mass>29</Mass>
   <HealthMax>8975</HealthMax>
-  <Description>A rapid-fire energy cannon: shorter reach than a beam, but it hits hard. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home.</Description>
+  <Description>A phase cannon that fires in pulses, each one a fresh bolt of phased energy. Of the Starfleet cannon weapons, it has the slowest shots.</Description>
   
   
   <PowerDraw>4</PowerDraw>

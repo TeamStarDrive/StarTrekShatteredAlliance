@@ -20,7 +20,7 @@
   <Mass>36</Mass>
   <HealthMax>10100</HealthMax>
   
-  <Description>Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A very basic shield generator with a short protective radius and a slow recharge.</Description>
+  <Description>The standard deflector generator of Starfleet escorts and patrol craft, with its emitters modulated across a narrow frequency band. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it covers the narrowest area.</Description>
   
   
   <PowerDraw>45</PowerDraw>

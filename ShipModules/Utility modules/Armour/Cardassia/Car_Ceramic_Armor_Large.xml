@@ -9,7 +9,7 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Car_Ceramic_Armor_Large</Name>
+    <Name>Cardassian Refinery Ceramic Plate (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>Car_Ceramic_Armor_Large</UID> 
   <Version>2</Version>
@@ -30,6 +30,6 @@
     <ExplosiveResist>0.12</ExplosiveResist>
 
     <!-- Description -->
-    <Description>A heat-resistant ceramic composite, thorough and built for the long occupation.</Description>
+    <Description>Ceramic fired from the by-products of uridite ore, refined by the Union at stations like Terok Nor. The Union can turn it out in vast numbers. Some protection against kinetic rounds and explosions. Of the Cardassian ship plates of its size, it is the weakest against beams.</Description>
     <APResist>1</APResist>
 </ShipModule>

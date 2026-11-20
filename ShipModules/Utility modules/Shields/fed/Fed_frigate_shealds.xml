@@ -33,7 +33,7 @@
   <Mass>46</Mass>
   <HealthMax>30100</HealthMax>
   
-  <Description>Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A basic shield for frigates: short radius and a slow recharge.</Description>
+  <Description>A multiphasic grid, the advanced Federation deflector type that also shields against subspace radiation and the energy emissions of stars. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build.</Description>
   
   
   <PowerDraw>120</PowerDraw>

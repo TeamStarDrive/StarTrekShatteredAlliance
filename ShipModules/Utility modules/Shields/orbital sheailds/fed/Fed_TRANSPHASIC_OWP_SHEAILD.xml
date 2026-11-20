@@ -27,7 +27,7 @@
   <Mass>7000</Mass>
   <HealthMax>60188</HealthMax>
   
-  <Description>Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A transphasic shield for orbital weapon platforms, with very high resistance and a wide radius.</Description>
+  <Description>A transphasic shield for the largest platforms, with a subspace compression pulse that randomises the phase of the field. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet platform shields, size for size, it covers the widest area, but draws the most power.</Description>
   
   
   <PowerDraw>450</PowerDraw>

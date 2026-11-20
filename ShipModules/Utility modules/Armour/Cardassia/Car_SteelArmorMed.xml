@@ -10,7 +10,7 @@
   <XSize>2</XSize>
   <YSize>2</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Car_SteelArmorMed</Name>
+  <Name>Cardassian Galor Hull Plate (Medium)</Name>
   <Restrictions>O</Restrictions>
   <UID>Car_SteelArmorMed</UID> 
   <Version>2</Version>
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.04</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Heavy alloy plating from the Union's shipyards: thick, practical and cheap to produce in bulk.</Description>
+  <Description>Hull plate of uridium alloy, a staple of Cardassian shipbuilding. Plain, in the ochre of the Union's fleets, and sound enough to bring a ship home. "...could not defend itself against one Cardassian warship..." (Gul Jasad, DS9: "Emissary") Gives almost no protection against fire; it is there to soak up damage. Of the Cardassian ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile.</Description>
   
 
 </ShipModule>

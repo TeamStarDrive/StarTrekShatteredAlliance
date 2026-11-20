@@ -28,7 +28,7 @@
   <Mass>9</Mass>
   <HealthMax>500</HealthMax>
   
-  <Description>Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A fighter shield with a decent radius that can only take a few hits, but recharges quickly.</Description>
+  <Description>Compact deflector emitter for shuttles and runabouts. It holds a single modulated shield frequency in the megahertz range, the same band as the shields of larger Starfleet ships. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet fighter shields, size for size, it draws the least power, but holds the least energy.</Description>
   
   
   <PowerDraw>20</PowerDraw>

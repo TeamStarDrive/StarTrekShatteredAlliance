@@ -23,12 +23,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Car_station_deflector_mk2</Name>
+  <Name>Cardassian Bastion Deflector</Name>
   <IconTexturePath>Modules/station_deflector_mk2</IconTexturePath>
   <Mass>12000</Mass>
   <HealthMax>99188</HealthMax>
   
-  <Description>A Cardassian shield grid: thorough, heavy and built for a long campaign. An improved station deflector with higher resistance and a wide protection radius.</Description>
+  <Description>The deflector of the Union's greatest fortress stations, tuned to bounce the heaviest energy fire. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian station shields, size for size, it recharges the fastest and covers the widest area, but is the costliest to build.</Description>
   
   
   <PowerDraw>1600</PowerDraw>

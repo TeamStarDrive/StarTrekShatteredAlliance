@@ -48,7 +48,7 @@
   <PlasmaResist>0.03</PlasmaResist>
 
   <!-- Description -->
-  <Description>The ablative armour fitted to Starfleet's toughest warships: it burns away in layers to protect the hull beneath.</Description>
+  <Description>Ablative armour, as fitted to the USS Defiant: layers that burn away under fire and leave the hull beneath whole. Some protection against kinetic rounds, beams, energy fire and explosions. Of the Starfleet ship plates of its size, it is the toughest and the best protected against beams, but the heaviest.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

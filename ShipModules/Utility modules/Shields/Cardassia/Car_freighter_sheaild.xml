@@ -22,7 +22,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Car_freighter_sheaild</Name>
+  <Name>Cardassian Freighter Shield Generator</Name>
   <Restrictions>IO</Restrictions>
   <UID>Car_freighter_sheaild</UID> 
   <Version>2</Version>
@@ -31,7 +31,7 @@
   <Mass>16</Mass>
   <HealthMax>2900</HealthMax>
   
-  <Description>A Cardassian shield grid: thorough, heavy and built for a long campaign. A basic shield for freighters: short radius and a slow recharge.</Description>
+  <Description>Modest generator for the Union's freighters and transports, enough to turn away raiders and little else. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
   
   
   <PowerDraw>15</PowerDraw>

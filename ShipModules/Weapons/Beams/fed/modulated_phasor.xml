@@ -35,7 +35,7 @@
   <FieldOfFire>360</FieldOfFire>
 
   <!-- Description -->
-  <Description>A phaser array with a rapidly modulated frequency, hard for shields to adapt to. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home.</Description>
+  <Description>A phaser whose pulse is modulated across many frequencies at once, so it finds the gaps in a hull's plating. Of the Starfleet beam weapons, it hits the hardest and reaches the farthest.</Description>
   
 
 </ShipModule>

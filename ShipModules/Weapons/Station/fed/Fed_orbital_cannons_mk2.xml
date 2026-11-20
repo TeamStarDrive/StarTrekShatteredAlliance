@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons_mk2</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>18609</HealthMax>
-  <Description>A Phaser Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Built to Starfleet's standards. An improved model.</Description>
+  <Description>A battery of phaser cannons set around the ring of a Starbase. Of the Starfleet orbital cannon weapons, it has the fastest shots.</Description>
   
   
   <PowerDraw>30</PowerDraw>

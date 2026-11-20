@@ -21,7 +21,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>2</YSize>
-  <Name>Car_prototype_fighter_shealds</Name>
+  <Name>Cardassian Skirmisher Prototype Grid</Name>
   <Restrictions>IO</Restrictions>
   <UID>Car_prototype_fighter_shealds</UID> 
   <Version>2</Version>
@@ -30,7 +30,7 @@
   <Mass>10</Mass>
   <HealthMax>2800</HealthMax>
   
-  <Description>A Cardassian shield grid: thorough, heavy and built for a long campaign. A prototype fighter shield: powerful, but experimental.</Description>
+  <Description>A trial grid built for the Central Command's small strike craft. Hurriedly fitted, and a step above the standard emitter. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian fighter shields, size for size, it is the quickest to come back after being knocked down and draws the least power.</Description>
   
   
   <PowerDraw>40</PowerDraw>

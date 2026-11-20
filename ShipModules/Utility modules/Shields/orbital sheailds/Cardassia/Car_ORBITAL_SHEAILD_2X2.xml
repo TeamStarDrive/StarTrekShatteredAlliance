@@ -22,12 +22,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Car_ORBITAL_SHEAILD_2X2</Name>
+  <Name>Cardassian Picket Field Generator</Name>
   <IconTexturePath>Modules/ORBITAL_SHEAILD_2X2</IconTexturePath>
   <Mass>5000</Mass>
   <HealthMax>46188</HealthMax>
   
-  <Description>A Cardassian shield grid: thorough, heavy and built for a long campaign. A huge shield for orbital platforms, with high resistance and a wide protection radius.</Description>
+  <Description>A field for the pickets and defence stations that guarded Union worlds. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian platform shields, size for size, it holds the most energy and recharges the fastest, but covers the narrowest area.</Description>
   
   
   <PowerDraw>100</PowerDraw>

@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_adv_torpedo_mk1</IconTexturePath>
   <Mass>14500</Mass>
   <HealthMax>84500</HealthMax>
-  <Description>An advanced photon torpedo launcher for stations and platforms, with a bigger warhead and better guidance. Built to Starfleet's standards.</Description>
+  <Description>A battery of quantum torpedoes, with the vacuum-energy cores held in a shielded magazine. Of the Starfleet orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size.</Description>
   
   
   <PowerDraw>5</PowerDraw>

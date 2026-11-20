@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons</IconTexturePath>
   <Mass>5000</Mass>
   <HealthMax>18607</HealthMax>
-  <Description>A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Thorough, heavy and built for the long occupation.</Description>
+  <Description>The System-5 disruptor was a planetary defence weapon, never designed to move. It guarded outposts like Korma. Of the Cardassian orbital cannon weapons, it fires the slowest.</Description>
   
   
   <PowerDraw>15</PowerDraw>

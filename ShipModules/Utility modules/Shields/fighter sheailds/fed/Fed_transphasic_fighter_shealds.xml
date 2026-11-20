@@ -32,7 +32,7 @@
   <Mass>12</Mass>
   <HealthMax>4800</HealthMax>
   
-  <Description>Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A fighter shield using transphasic technology, with high resistance and a quick recharge.</Description>
+  <Description>Borrows the subspace compression pulse of transphasic weapons for its field, with a randomised phase pattern across the grid. An enemy has no steady frequency to learn. Strong protection against beams and energy fire. Of the Starfleet fighter shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
   
   
   <PowerDraw>60</PowerDraw>

@@ -20,7 +20,7 @@
   <Mass>144</Mass>
   <HealthMax>27500</HealthMax>
   
-  <Description>Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. A large shield that gives heavy protection at a heavy power cost.</Description>
+  <Description>Shield emitters set in a hardened housing and tied into the hull's structural integrity field, so the emitters survive a hit that breaks the shield. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>300</PowerDraw>

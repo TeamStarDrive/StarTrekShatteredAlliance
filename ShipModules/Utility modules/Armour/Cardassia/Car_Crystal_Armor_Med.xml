@@ -8,7 +8,7 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Car_Crystal_Armor_Med</Name>
+    <Name>Cardassian Obsidian Lattice Plate (Medium)</Name>
     <Restrictions>O</Restrictions>
     <UID>Car_Crystal_Armor_Med</UID> 
   <Version>2</Version>
@@ -30,6 +30,6 @@
     <PlasmaResist>0</PlasmaResist>
 
     <!-- Description -->
-    <Description>Crystalline plating from the Union's laboratories, hard and cleverly layered.</Description>
+    <Description>Crystal lattice plating, dark as obsidian, developed in the Obsidian Order's own laboratories. Its makers will not say how it works, only that it does. Good protection against explosions, some protection against kinetic rounds. Of the Cardassian ship plates of its size, it is the best protected against explosions and the best against armour-piercing rounds, but the costliest to build.</Description>
     <APResist>2</APResist>    
 </ShipModule>

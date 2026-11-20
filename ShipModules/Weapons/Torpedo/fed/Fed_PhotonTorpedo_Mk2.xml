@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Fed_PhotonTorpedo_Mk2</IconTexturePath>
   <Mass>232</Mass>
   <HealthMax>10500</HealthMax>
-  <Description>A guided torpedo launcher: slow to reload, but every warhead hits hard. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home. An improved model.</Description>
+  <Description>A refit launcher with a better magnetic bottle and faster loading. Of the Starfleet torpedo weapons, it carries the least ordnance.</Description>
   
   
   <PowerDraw>5</PowerDraw>

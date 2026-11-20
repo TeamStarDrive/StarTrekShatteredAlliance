@@ -30,7 +30,7 @@
   <Mass>10</Mass>
   <HealthMax>1500</HealthMax>
   
-  <Description>Starfleet deflector technology: a modulated field that spreads incoming fire, with its frequency rotated to resist the enemy. An improved fighter shield with a decent radius that recharges quickly.</Description>
+  <Description>The emitter steps through a rotating shield frequency, so an enemy that has matched one harmonic is thrown off at the next. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet fighter shields, size for size, it recharges the fastest, but draws the most power.</Description>
   
   
   <PowerDraw>30</PowerDraw>

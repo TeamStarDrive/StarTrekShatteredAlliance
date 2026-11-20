@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Fed_QuantumTorpedo_Mk1</IconTexturePath>
   <Mass>300</Mass>
   <HealthMax>10500</HealthMax>
-  <Description>A launcher for quantum torpedoes, a higher-yield warhead than the photon torpedo. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home.</Description>
+  <Description>A launcher for quantum torpedoes, which draw their yield from vacuum energy. Of the Starfleet torpedo weapons, it carries the least ordnance.</Description>
   
   
   <PowerDraw>5</PowerDraw>

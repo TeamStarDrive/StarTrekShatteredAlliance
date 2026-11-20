@@ -11,7 +11,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Car_Shield_1KW</Name>
+  <Name>Cardassian Patrol Shield Generator</Name>
   <Restrictions>IO</Restrictions>
   <UID>Car_Shield_1KW</UID> 
   <Version>2</Version>
@@ -20,7 +20,7 @@
   <Mass>36</Mass>
   <HealthMax>10100</HealthMax>
   
-  <Description>A Cardassian shield grid: thorough, heavy and built for a long campaign. A very basic shield generator with a short protective radius and a slow recharge.</Description>
+  <Description>The standard generator of the Union's small patrol craft and escorts. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it covers the narrowest area.</Description>
   
   
   <PowerDraw>45</PowerDraw>

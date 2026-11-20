@@ -32,7 +32,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Car_Organic_Bioplates_Small</Name>
+  <Name>Cardassian Reclamation Bioplate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Car_Organic_Bioplates_Small</UID> 
   <Version>2</Version>
@@ -58,7 +58,7 @@
     <ExplosiveResist>0.3</ExplosiveResist>
 
   <!-- Description -->
-  <Description>A living plate layer that mends itself slowly, thorough as ever.</Description>
+  <Description>Living plate regrown from reclaimed waste. A people short of resources learn to waste nothing, armour included. Strong protection against every kind of fire. Of the Cardassian orbital plates of its size, it is the lightest.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

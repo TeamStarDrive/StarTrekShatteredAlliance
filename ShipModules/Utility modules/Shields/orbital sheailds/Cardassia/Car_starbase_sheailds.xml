@@ -23,12 +23,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Car_starbase_sheailds</Name>
+  <Name>Cardassian Nor Station Shield Grid</Name>
   <IconTexturePath>Modules/starbase_sheailds</IconTexturePath>
   <Mass>11000</Mass>
   <HealthMax>86188</HealthMax>
   
-  <Description>A Cardassian shield grid: thorough, heavy and built for a long campaign. A monstrous shield for starbases, with very high resistance and a massive protection radius.</Description>
+  <Description>The full shield grid of a large Nor-pattern station, covering the ring and all three pylons. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian station shields, size for size, it holds the most energy and is the lightest.</Description>
   
   
   <PowerDraw>1400</PowerDraw>
