@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DroneModule>false</DroneModule>
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>
+  <Cost>5</Cost>
+  <DroneModule>true</DroneModule>
+  <FighterModule>true</FighterModule>
+  <CorvetteModule>true</CorvetteModule>
+  <FrigateModule>true</FrigateModule>
+  <DestroyerModule>true</DestroyerModule>
+  <CruiserModule>true</CruiserModule>
+  <CarrierModule>true</CarrierModule>
+  <CapitalModule>true</CapitalModule>
+  
+  <FreighterModule>true</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>  
+  <!-- Tech Level -->
+  <TechLevel>5</TechLevel>
+  <TechBranch>Armor</TechBranch>
+
+  <!-- common traits shared by all ship modules -->
+  <XSize>1</XSize>
+  <YSize>1</YSize>
+  <ModuleType>Armor</ModuleType>
+  <Name>Kli_ablative_armor_Small</Name>
+  <Restrictions>O</Restrictions>
+  <UID>Kli_ablative_armor_Small</UID> 
+  <Version>2</Version>
+
+  <TexturePath>Textures/transparent</TexturePath>
+  <IconTexturePath>Modules/ablative_armor_Small</IconTexturePath>
+
+
+  <NameIndex>30366</NameIndex>
+  <DescriptionIndex>30367</DescriptionIndex>
+
+
+  <!-- Mass and Health -->
+  <Mass>10469</Mass>
+  <HealthMax>40000</HealthMax>
+  <RepairDifficulty>3</RepairDifficulty>
+  <Deflection>60</Deflection>              
+  <!-- Armor resistance -->
+  <KineticResist>0.60</KineticResist>
+  <EnergyResist>0.60</EnergyResist>  
+  <BeamResist>0.60</BeamResist>
+  <ExplosiveResist>0.60</ExplosiveResist>      
+  <PlasmaResist>0.2</PlasmaResist>
+
+  <!-- Description -->
+  <Description>Ablative armour for a fortress in orbit: it burns away, and the garrison fights on.</Description>
+  <APResist>2</APResist>  
+
+</ShipModule>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DroneModule>false</DroneModule>
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>
+  <UID>Bor_station_phasor_beem_mk4</UID> 
+  <Version>2</Version>
+  <OffPowerMod>0.35</OffPowerMod>
+  <Cost>51</Cost>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>
+  <!-- Tech Level Used by AI for Upgrading Ships -->
+  <TechLevel>6</TechLevel>
+
+  
+  <!-- common traits shared by all ship modules -->
+  <XSize>6</XSize>
+  <YSize>6</YSize>
+  <ModuleType>Turret</ModuleType>
+  <Name>Bor_station_phasor_beem_mk4</Name>
+  <Restrictions>O</Restrictions>
+
+  <IconTexturePath>Modules/station_phasor_beem_mk4</IconTexturePath>3
+
+
+  <NameIndex>30796</NameIndex>
+  <DescriptionIndex>30797</DescriptionIndex>
+
+
+  <!-- Mass and Health -->
+  <Mass>19120</Mass>
+  <HealthMax>65120</HealthMax>
+
+  <!-- Power Drawn -->
+  <PowerDraw>9</PowerDraw>
+
+  <!-- for Weapons -->
+  <WeaponType>station_phasor_beem_mk4</WeaponType>
+  <FieldOfFire>180</FieldOfFire>
+
+  <!-- Description -->
+  <Description>A particle array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. It regenerates, and it will adapt to you. An advanced late-generation model.</Description>
+  
+
+</ShipModule>

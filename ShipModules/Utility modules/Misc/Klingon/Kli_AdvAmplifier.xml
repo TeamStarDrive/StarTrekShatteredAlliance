@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Cost>192</Cost>
+    <FighterModule>false</FighterModule>
+    <!-- Tech Level -->
+    <TechLevel>3</TechLevel>
+    <TechBranch>Shield</TechBranch>
+    <!-- common traits shared by all ship modules -->
+    <XSize>2</XSize>
+    <YSize>2</YSize>
+    <ModuleType>Shield</ModuleType>
+    <Name>Kli_AdvAmplifier</Name>
+    <UID>Kli_AdvAmplifier</UID> 
+  <Version>2</Version>
+
+    <IconTexturePath>Modules/AdvAmplifier</IconTexturePath>
+    <NameIndex>30436</NameIndex>
+    <DescriptionIndex>30437</DescriptionIndex>
+    <!-- Mass and Health -->
+    <Mass>8</Mass>
+    <HealthMax>12760</HealthMax>
+    <RepairDifficulty>6</RepairDifficulty>                          
+    <!-- Power Drawn -->
+    <PowerDraw>120</PowerDraw>
+    <PowerDrawAtWarp>-90</PowerDrawAtWarp>
+    <!-- Armor resistance -->
+    <!-- for PowerPlant Items -->
+    
+    <AmplifyShields>75500</AmplifyShields>
+
+    <!-- Crew Reqs -->
+    
+    
+    <!-- for Weapons -->
+    <!-- Description -->
+    <Description>A Klingon deflector grid: loud, rugged and built to keep a warship fighting. An advanced armoured solar collector that supplies extra power within a small radius.</Description>
+</ShipModule>

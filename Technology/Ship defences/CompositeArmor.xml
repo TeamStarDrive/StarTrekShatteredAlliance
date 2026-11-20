@@ -14,12 +14,243 @@
   <ModulesUnlocked>
     <UnlockedMod>
       <ModuleUID>CompositeAlloys Small</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Small</ModuleUID>
+      <Type>Corsair</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Small</ModuleUID>
+      <Type>Draug</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Small</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Small</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Small</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Small</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Small</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Small</ModuleUID>
+      <Type>Remnant</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Small</ModuleUID>
+      <Type>Revoran</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Small</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Small</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Small</ModuleUID>
+      <Type>Unknown</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Fed_CompositeAlloys_Small</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Kli_CompositeAlloys_Small</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Rom_CompositeAlloys_Small</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Car_CompositeAlloys_Small</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Dom_CompositeAlloys_Small</ModuleUID>
+      <Type>dominion</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Vul_CompositeAlloys_Small</ModuleUID>
+      <Type>vulcan</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Bor_CompositeAlloys_Small</ModuleUID>
+      <Type>FreeBorg</Type>
     </UnlockedMod>
     <UnlockedMod>
       <ModuleUID>CompositeAlloys Med</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Med</ModuleUID>
+      <Type>Corsair</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Med</ModuleUID>
+      <Type>Draug</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Med</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Med</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Med</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Med</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Med</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Med</ModuleUID>
+      <Type>Remnant</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Med</ModuleUID>
+      <Type>Revoran</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Med</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Med</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Med</ModuleUID>
+      <Type>Unknown</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Fed_CompositeAlloys_Med</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Kli_CompositeAlloys_Med</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Rom_CompositeAlloys_Med</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Car_CompositeAlloys_Med</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Dom_CompositeAlloys_Med</ModuleUID>
+      <Type>dominion</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Vul_CompositeAlloys_Med</ModuleUID>
+      <Type>vulcan</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Bor_CompositeAlloys_Med</ModuleUID>
+      <Type>FreeBorg</Type>
     </UnlockedMod>
     <UnlockedMod>
       <ModuleUID>CompositeAlloys Large</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Large</ModuleUID>
+      <Type>Corsair</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Large</ModuleUID>
+      <Type>Draug</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Large</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Large</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Large</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Large</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Large</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Large</ModuleUID>
+      <Type>Remnant</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Large</ModuleUID>
+      <Type>Revoran</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Large</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Large</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>CompositeAlloys Large</ModuleUID>
+      <Type>Unknown</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Fed_CompositeAlloys_Large</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Kli_CompositeAlloys_Large</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Rom_CompositeAlloys_Large</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Car_CompositeAlloys_Large</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Dom_CompositeAlloys_Large</ModuleUID>
+      <Type>dominion</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Vul_CompositeAlloys_Large</ModuleUID>
+      <Type>vulcan</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Bor_CompositeAlloys_Large</ModuleUID>
+      <Type>FreeBorg</Type>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

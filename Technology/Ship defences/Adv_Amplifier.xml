@@ -4,8 +4,8 @@
   <UID>Adv_Amplifier</UID>
   <TechnologyType>ShipGeneral</TechnologyType>
   <Cost>2600</Cost>
-  <NameIndex>19020</NameIndex>
-  <DescriptionIndex>19021</DescriptionIndex>
+  <NameIndex>18867</NameIndex>
+  <DescriptionIndex>18868</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>Dispersion</UID>
@@ -14,6 +14,83 @@
   <ModulesUnlocked>
     <UnlockedMod>
       <ModuleUID>AdvAmplifier</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>AdvAmplifier</ModuleUID>
+      <Type>Corsair</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>AdvAmplifier</ModuleUID>
+      <Type>Draug</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>AdvAmplifier</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>AdvAmplifier</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>AdvAmplifier</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>AdvAmplifier</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>AdvAmplifier</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>AdvAmplifier</ModuleUID>
+      <Type>Remnant</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>AdvAmplifier</ModuleUID>
+      <Type>Revoran</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>AdvAmplifier</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>AdvAmplifier</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>AdvAmplifier</ModuleUID>
+      <Type>Unknown</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Fed_AdvAmplifier</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Kli_AdvAmplifier</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Rom_AdvAmplifier</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Car_AdvAmplifier</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Dom_AdvAmplifier</ModuleUID>
+      <Type>dominion</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Vul_AdvAmplifier</ModuleUID>
+      <Type>vulcan</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Bor_AdvAmplifier</ModuleUID>
+      <Type>FreeBorg</Type>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />

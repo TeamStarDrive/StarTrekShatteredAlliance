@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DroneModule>false</DroneModule>
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>
+  <Cost>155</Cost>
+  <!-- common traits shared by all ship modules -->
+  <XSize>5</XSize>
+  <YSize>6</YSize>
+  <ModuleType>MissileLauncher</ModuleType>
+  <Name>Rom_station_hevey_torpedo_mk1</Name>
+  <Restrictions>O</Restrictions>
+  <UID>Rom_station_hevey_torpedo_mk1</UID> 
+  <Version>2</Version>
+
+  <IconTexturePath>Modules/station_hevey_torpedo_mk1</IconTexturePath>
+  <Mass>14000</Mass>
+  <HealthMax>70500</HealthMax>
+  <Description>A heavy plasma torpedo launcher for stations and platforms: a large warhead on a long reload. Precise, secretive and made to be used by the patient.</Description>
+  
+  
+  <PowerDraw>5</PowerDraw>
+  <TechLevel>5</TechLevel>  
+  <!-- for shield items -->
+  
+  <ShieldPowerMax>20000</ShieldPowerMax>
+  <ShieldRechargeDelay>10</ShieldRechargeDelay>
+  <ShieldRechargeRate>400</ShieldRechargeRate>
+  <ShieldRadius>90</ShieldRadius>
+  <radius>0</radius>
+
+  <NameIndex>30830</NameIndex>
+  <DescriptionIndex>30831</DescriptionIndex>
+
+  <!-- for PowerPlant Items -->
+  
+  <PowerFlowMax>0</PowerFlowMax>
+  <PowerStoreMax>0</PowerStoreMax>
+
+  <!-- for Weapons -->
+  <WeaponType>station_hevey_torpedo_mk1</WeaponType>
+  <OrdinanceCapacity>1000</OrdinanceCapacity>
+  <FieldOfFire>360</FieldOfFire>
+
+  <!-- for Engines -->
+  <Thrust>0</Thrust>
+
+
+
+</ShipModule>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DroneModule>false</DroneModule>
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>
+    <Cost>15</Cost>
+    <!-- Tech Level -->
+    <TechLevel>5</TechLevel>
+    <TechBranch>Armor</TechBranch>
+    <!-- common traits shared by all ship modules -->
+    <XSize>2</XSize>
+    <YSize>2</YSize>
+    <ModuleType>Armor</ModuleType>
+    <Name>Car_Organic_cristal_Armor_Med</Name>
+    <Restrictions>O</Restrictions>
+    <UID>Car_Organic_cristal_Armor_Med</UID> 
+  <Version>2</Version>
+
+    <TexturePath>Textures/transparent</TexturePath>
+    <IconTexturePath>Modules/Organic_cristal_Armor_Med</IconTexturePath>
+    <NameIndex>30314</NameIndex>
+    <DescriptionIndex>30315</DescriptionIndex>
+    <!-- Mass and Health -->
+    <Mass>32000</Mass>
+    <HealthMax>90000</HealthMax>
+    <RepairDifficulty>1.5</RepairDifficulty>
+    <Deflection>0</Deflection>
+    <!-- Armor resistance -->
+ <KineticResist>0.5</KineticResist>
+    <EnergyResist>0.5</EnergyResist>  
+    <BeamResist>0.5</BeamResist>
+    <ExplosiveResist>0.50</ExplosiveResist>      
+    <PlasmaResist>5</PlasmaResist>
+
+    <!-- Description -->
+    <Description>Crystal and living tissue, patiently self-repairing.</Description>
+    <APResist>2</APResist>    
+</ShipModule>

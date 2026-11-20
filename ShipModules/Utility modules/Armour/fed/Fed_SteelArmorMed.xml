@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Cost>3</Cost>
+  <!-- Tech Level -->
+  <TechLevel>1</TechLevel>
+  <TechBranch>Armor</TechBranch>
+
+  <!-- common traits shared by all ship modules -->
+  <XSize>2</XSize>
+  <YSize>2</YSize>
+  <ModuleType>Armor</ModuleType>
+  <Name>Fed_SteelArmorMed</Name>
+  <Restrictions>O</Restrictions>
+  <UID>Fed_SteelArmorMed</UID> 
+  <Version>2</Version>
+
+  <TexturePath>Textures/transparent</TexturePath>
+  <IconTexturePath>Modules/SteelArmorMedium</IconTexturePath>
+
+
+  <NameIndex>30182</NameIndex>
+  <DescriptionIndex>30183</DescriptionIndex>
+
+
+  <!-- Mass and Health -->
+  <Mass>24</Mass>
+  <HealthMax>9200</HealthMax>
+
+  <!-- Armor resistance -->
+    <KineticResist>0.02</KineticResist>
+    <BeamResist>0</BeamResist>
+    <EnergyResist>0</EnergyResist>    
+    <PlasmaResist>0</PlasmaResist>
+    <ExplosiveResist>0.04</ExplosiveResist>
+
+  <!-- Description -->
+  <Description>Duranium hull plating, the Federation standard for generations: strong, reliable and easy to replace.</Description>
+  
+
+</ShipModule>

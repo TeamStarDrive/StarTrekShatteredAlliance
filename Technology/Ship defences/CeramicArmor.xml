@@ -14,12 +14,243 @@
   <ModulesUnlocked>
     <UnlockedMod>
       <ModuleUID>Ceramic Armor Small</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Small</ModuleUID>
+      <Type>Corsair</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Small</ModuleUID>
+      <Type>Draug</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Small</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Small</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Small</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Small</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Small</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Small</ModuleUID>
+      <Type>Remnant</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Small</ModuleUID>
+      <Type>Revoran</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Small</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Small</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Small</ModuleUID>
+      <Type>Unknown</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Fed_Ceramic_Armor_Small</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Kli_Ceramic_Armor_Small</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Rom_Ceramic_Armor_Small</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Car_Ceramic_Armor_Small</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Dom_Ceramic_Armor_Small</ModuleUID>
+      <Type>dominion</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Vul_Ceramic_Armor_Small</ModuleUID>
+      <Type>vulcan</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Bor_Ceramic_Armor_Small</ModuleUID>
+      <Type>FreeBorg</Type>
     </UnlockedMod>
     <UnlockedMod>
       <ModuleUID>Ceramic Armor Med</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Med</ModuleUID>
+      <Type>Corsair</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Med</ModuleUID>
+      <Type>Draug</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Med</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Med</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Med</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Med</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Med</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Med</ModuleUID>
+      <Type>Remnant</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Med</ModuleUID>
+      <Type>Revoran</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Med</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Med</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Med</ModuleUID>
+      <Type>Unknown</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Fed_Ceramic_Armor_Med</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Kli_Ceramic_Armor_Med</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Rom_Ceramic_Armor_Med</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Car_Ceramic_Armor_Med</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Dom_Ceramic_Armor_Med</ModuleUID>
+      <Type>dominion</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Vul_Ceramic_Armor_Med</ModuleUID>
+      <Type>vulcan</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Bor_Ceramic_Armor_Med</ModuleUID>
+      <Type>FreeBorg</Type>
     </UnlockedMod>
     <UnlockedMod>
       <ModuleUID>Ceramic Armor Large</ModuleUID>
+      <Type>Cordrazine</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Large</ModuleUID>
+      <Type>Corsair</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Large</ModuleUID>
+      <Type>Draug</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Large</ModuleUID>
+      <Type>Draylok</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Large</ModuleUID>
+      <Type>Kulrathi</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Large</ModuleUID>
+      <Type>Opteris</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Large</ModuleUID>
+      <Type>Pollops</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Large</ModuleUID>
+      <Type>Ralyeh</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Large</ModuleUID>
+      <Type>Remnant</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Large</ModuleUID>
+      <Type>Revoran</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Large</ModuleUID>
+      <Type>Terran</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Large</ModuleUID>
+      <Type>Vulfen</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Ceramic Armor Large</ModuleUID>
+      <Type>Unknown</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Fed_Ceramic_Armor_Large</ModuleUID>
+      <Type>fed</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Kli_Ceramic_Armor_Large</ModuleUID>
+      <Type>Klingon</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Rom_Ceramic_Armor_Large</ModuleUID>
+      <Type>Romulan</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Car_Ceramic_Armor_Large</ModuleUID>
+      <Type>Cardassia</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Dom_Ceramic_Armor_Large</ModuleUID>
+      <Type>dominion</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Vul_Ceramic_Armor_Large</ModuleUID>
+      <Type>vulcan</Type>
+    </UnlockedMod>
+    <UnlockedMod>
+      <ModuleUID>Bor_Ceramic_Armor_Large</ModuleUID>
+      <Type>FreeBorg</Type>
     </UnlockedMod>
   </ModulesUnlocked>
   <BuildingsUnlocked />
