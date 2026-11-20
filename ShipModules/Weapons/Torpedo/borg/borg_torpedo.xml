@@ -6,7 +6,7 @@
   <XSize>1</XSize>
   <YSize>4</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>borg_torpedo</Name>
+  <Name>Borg Torpedo Launcher Mk1</Name>
   <Restrictions>O</Restrictions>
   <UID>borg_torpedo</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/borg_torpedo</IconTexturePath>
   <Mass>90</Mass>
   <HealthMax>10500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A guided torpedo launcher: slow to reload, but every warhead hits hard. Assimilated and adapted by the Collective: it regenerates, and it will adapt to you.</Description>
   
   
   <PowerDraw>5</PowerDraw>

@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>7</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Car_HeavyPhotonTorpedoMk2</Name>
+  <Name>Cardassian Heavy Photon Torpedo Launcher Mk2</Name>
   <Restrictions>O</Restrictions>
   <UID>Car_HeavyPhotonTorpedoMk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Car_HeavyPhotonTorpedoMk2</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>20500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A heavy launcher for a large warhead on a long reload. Made by the Union's thorough engineers: heavy, practical and built for the long occupation. An improved model.</Description>
   
   
   <PowerDraw>5</PowerDraw>

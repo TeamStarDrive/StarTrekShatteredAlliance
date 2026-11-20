@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>5</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Car_PhotonTorpedoMk3</Name>
+  <Name>Cardassian Photon Torpedo Launcher Mk3</Name>
   <Restrictions>O</Restrictions>
   <UID>Car_PhotonTorpedoMk3</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Car_PhotonTorpedoMk3</IconTexturePath>
   <Mass>300</Mass>
   <HealthMax>21900</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A guided torpedo launcher: slow to reload, but every warhead hits hard. Made by the Union's thorough engineers: heavy, practical and built for the long occupation. A refined, later model.</Description>
   
   
   <PowerDraw>5</PowerDraw>

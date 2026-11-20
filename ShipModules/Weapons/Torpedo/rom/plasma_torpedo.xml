@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>4</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>plasma_torpedo</Name>
+  <Name>Romulan Plasma Torpedo Launcher Mk1</Name>
   <Restrictions>O</Restrictions>
   <UID>plasma_torpedo</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/plasma_torpedo</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>19500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A launcher for plasma torpedoes that burn through armour on impact. A product of the Star Empire: precise, secretive and made to be used by the patient.</Description>
   
   
   <PowerDraw>5</PowerDraw>

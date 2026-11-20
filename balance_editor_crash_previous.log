@@ -1,0 +1,535 @@
+StarDrive Balance Editor v.396 - started 2026-11-20 09:24:09
+Python 3.14.10
+09:24:09  window created
+09:24:16  designs: reading started
+09:24:21  editor built - log file: C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_crash.log
+09:24:48  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34843, in fix_all
+    self.run_fixes(todo)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:25:08  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34843, in fix_all
+    self.run_fixes(todo)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:25:11  designs: read and checked
+09:25:15  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44749, in save
+    self.refresh()
+    ~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:25:27  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34843, in fix_all
+    self.run_fixes(todo)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:25:43  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34843, in fix_all
+    self.run_fixes(todo)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:25:51  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44749, in save
+    self.refresh()
+    ~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:26:04  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34843, in fix_all
+    self.run_fixes(todo)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:26:30  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:26:53  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:26:58  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44749, in save
+    self.refresh()
+    ~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:27:54  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:27:59  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:28:02  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44749, in save
+    self.refresh()
+    ~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:28:23  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:28:29  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:28:56  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:29:01  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:29:04  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:29:07  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:29:10  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:29:13  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:29:16  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:29:19  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:29:22  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:29:26  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:29:29  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:29:34  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:29:38  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:29:53  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:29:56  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:29:59  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34811, in fix_selected
+    self.run_fixes(sel)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 34860, in run_fixes
+    self.app.refresh()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'
+09:30:02  ERROR in button / menu action: Traceback (most recent call last):
+  File "C:\Users\borde\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2114, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44749, in save
+    self.refresh()
+    ~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 44345, in refresh
+    self.racev.reload()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Games\StarDrivePlus64\Mods\Star Trek\balance_editor_v396.py", line 25620, in reload
+    v.reload()
+    ^^^^^^^^
+AttributeError: 'RaceRemoveView' object has no attribute 'reload'

@@ -4,8 +4,8 @@
   <UID>Phasors</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>1200</Cost>
-  <NameIndex>623</NameIndex>
-  <DescriptionIndex>624</DescriptionIndex>
+  <NameIndex>18959</NameIndex>
+  <DescriptionIndex>18960</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>Nanoprisms</UID>

@@ -19,7 +19,6 @@
   <Tag_Cannon>true</Tag_Cannon>
   
   <UID>Fed_PhaserCannon_2x2</UID>
-  <fireDelay>4</fireDelay>
   <Range>5000</Range>
   <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
@@ -50,4 +49,5 @@
   <ModelPath>projTear</ModelPath>
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
   <WeaponType>Phaser Cannons</WeaponType>
+  <FireDelay>4</FireDelay>
 </Weapon>

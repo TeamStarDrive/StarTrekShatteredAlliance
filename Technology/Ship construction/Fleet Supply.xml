@@ -4,8 +4,8 @@
   <UID>Fleet Supply</UID>
   <TechnologyType>ShipGeneral</TechnologyType>
   <Cost>500</Cost>
-  <NameIndex>566</NameIndex>
-  <DescriptionIndex>567</DescriptionIndex>
+  <NameIndex>19002</NameIndex>
+  <DescriptionIndex>19003</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>LargeOrdStorage</UID>

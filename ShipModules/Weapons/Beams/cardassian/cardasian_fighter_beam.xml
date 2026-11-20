@@ -13,7 +13,7 @@
   <XSize>2</XSize>
   <YSize>1</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>Light Phasor Array</Name>
+  <Name>Cardassian Fighter Disruptor Array</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/cardasian_fighter_beam</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>45</FieldOfFire>
 
   <!-- Description -->
-  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  <Description>A small disruptor array scaled down for fighters and other small craft. Made by the Union's thorough engineers: heavy, practical and built for the long occupation.</Description>
   
 
 </ShipModule>

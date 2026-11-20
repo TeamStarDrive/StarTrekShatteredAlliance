@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>dom_advanced_energy_torpoedo_mk2</Name>
+  <Name>Dominion Advanced Polaron Torpedo Launcher Mk2</Name>
   <Restrictions>O</Restrictions>
   <UID>dom_advanced_energy_torpoedo_mk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/advanced_energy_torpoedo_mk2</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>28500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>An improved energy torpedo launcher with a bigger warhead and better guidance. Grown for the Founders: efficient, uncompromising and made to be obeyed. An improved model.</Description>
   
   
   <PowerDraw>5</PowerDraw>
@@ -27,8 +27,8 @@
   <ShieldRadius>0</ShieldRadius>
   <radius>0</radius>
 
-  <NameIndex>18748</NameIndex>
-  <DescriptionIndex>18749</DescriptionIndex>
+  <NameIndex>19078</NameIndex>
+  <DescriptionIndex>19079</DescriptionIndex>
 
   <!-- for PowerPlant Items -->
   

@@ -9,14 +9,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>4</XSize>
   <YSize>4</YSize>
-  <Name>dom_phased_cannon_mk3</Name>
+  <Name>Dominion Polaron Cannon Mk3</Name>
   <Restrictions>O</Restrictions>
   <UID>dom_phased_cannon_mk3</UID>
   <IconTexturePath>Modules/phased_cannon_mk3</IconTexturePath>
   <Mass>25</Mass>
   <HealthMax>26750</HealthMax>
-  <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
-  </Description>
+  <Description>A rapid-fire phased energy cannon: shorter reach than a beam, but it hits hard. Grown for the Founders: efficient, uncompromising and made to be obeyed. A refined, later model.</Description>
   
   
   <PowerDraw>7</PowerDraw>

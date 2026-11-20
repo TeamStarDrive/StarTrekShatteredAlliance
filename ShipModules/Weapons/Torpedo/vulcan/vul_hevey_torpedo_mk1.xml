@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>vul_hevey_torpedo_mk1</Name>
+  <Name>Vulcan Heavy Torpedo Launcher Mk1</Name>
   <Restrictions>O</Restrictions>
   <UID>vul_hevey_torpedo_mk1</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/hevey_torpedo_mk1</IconTexturePath>
   <Mass>190</Mass>
   <HealthMax>19500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A heavy launcher for a large warhead on a long reload. Engineered with Vulcan logic: precise, efficient and without waste.</Description>
   
   
   <PowerDraw>5</PowerDraw>
@@ -27,8 +27,8 @@
   <ShieldRadius>0</ShieldRadius>
   <radius>0</radius>
 
-  <NameIndex>18681</NameIndex>
-  <DescriptionIndex>18682</DescriptionIndex>
+  <NameIndex>19112</NameIndex>
+  <DescriptionIndex>19113</DescriptionIndex>
 
   <!-- for PowerPlant Items -->
   

@@ -18,13 +18,13 @@
   <Mass>200</Mass>
   <HealthMax>80188</HealthMax>
   
-  <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
+  <Description>A huge shield with high resistance and a wide protection radius, ideal for capital ships. Its power costs are enormous.</Description>
   
   
   <PowerDraw>900</PowerDraw>
 
-  <NameIndex>916</NameIndex>
-  <DescriptionIndex>917</DescriptionIndex>
+  <NameIndex>19182</NameIndex>
+  <DescriptionIndex>19183</DescriptionIndex>
 
   <!-- for shield items -->
   <ShieldPowerMax>170000</ShieldPowerMax>

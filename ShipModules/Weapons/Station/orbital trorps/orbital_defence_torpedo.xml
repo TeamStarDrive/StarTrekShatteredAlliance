@@ -18,7 +18,7 @@
   <XSize>3</XSize>
   <YSize>3</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>orbital_defence_torpedo</Name>
+  <Name>Orbital Defence Torpedo Launcher</Name>
   <Restrictions>IO</Restrictions>
   <UID>orbital_defence_torpedo</UID> 
   <Version>2</Version>
@@ -26,7 +26,7 @@
   <IconTexturePath>Modules/orbital_defence_torpedo</IconTexturePath>
   <Mass>19500</Mass>
   <HealthMax>50500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A torpedo launcher for orbital defence: slow to reload, but every warhead hits hard.</Description>
   
   
   <PowerDraw>5</PowerDraw>

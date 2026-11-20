@@ -4,8 +4,8 @@
   <UID>FocusedPhasorBeam</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>2400</Cost>
-  <NameIndex>17592</NameIndex>
-  <DescriptionIndex>17593</DescriptionIndex>
+  <NameIndex>18951</NameIndex>
+  <DescriptionIndex>18952</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>Disintegrator Array</UID>

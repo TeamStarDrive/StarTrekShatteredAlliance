@@ -19,14 +19,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>orbital_weapons_platform</Name>
+  <Name>Orbital Weapons Platform</Name>
   <Restrictions>O</Restrictions>
   <UID>orbital_weapons_platform</UID>
   <IconTexturePath>Modules/orbital_weapons_platform</IconTexturePath>
   <Mass>29</Mass>
   <HealthMax>18603</HealthMax>
-  <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
-  </Description>
+  <Description>A heavy weapons platform for orbital defence, firing explosive flak shells in a wide arc.</Description>
   
   
   <PowerDraw>10</PowerDraw>

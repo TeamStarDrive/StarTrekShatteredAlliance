@@ -4,8 +4,8 @@
   <UID>Ace Training</UID>
   <TechnologyType>ShipGeneral</TechnologyType>
   <Cost>410</Cost>
-  <NameIndex>2011</NameIndex>
-  <DescriptionIndex>2012</DescriptionIndex>
+  <NameIndex>18988</NameIndex>
+  <DescriptionIndex>18989</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>FighterTheory</UID>

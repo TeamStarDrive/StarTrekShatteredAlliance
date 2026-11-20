@@ -12,7 +12,7 @@
   <XSize>4</XSize>
   <YSize>6</YSize>
   <ModuleType>MainGun</ModuleType>
-  <Name>Klingon_kenetic_disrupter</Name>
+  <Name>Klingon Kinetic Disruptor</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/Klingon_kenetic_disrupter</IconTexturePath>3
@@ -34,7 +34,7 @@
   <FieldOfFire>60</FieldOfFire>
   <AccuracyPercent>0.98</AccuracyPercent>
   <!-- Description -->
-  <Description>This heavy-mount fusion beam has a fixed spinal facing and a 45 degree field of fire.</Description>
+  <Description>A heavy disruptor mount that combines energy and kinetic force in one hard-hitting shot. Forged for the Empire: loud, brutal and made to win glory.</Description>
   
 
 </ShipModule>

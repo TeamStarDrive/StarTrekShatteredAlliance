@@ -23,7 +23,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>2</YSize>
-  <Name>transphasic_fighter_shealds</Name>
+  <Name>Transphasic Fighter Shield</Name>
   <Restrictions>IO</Restrictions>
   <UID>transphasic_fighter_shealds</UID> 
   <Version>2</Version>
@@ -32,13 +32,13 @@
   <Mass>12</Mass>
   <HealthMax>4800</HealthMax>
   
-  <Description>This shield has a decent sized protection radius but is only capable of taking a few hits. However it does have a quick recharge rate.</Description>
+  <Description>A fighter shield using transphasic technology, with high resistance and a quick recharge.</Description>
   
   
   <PowerDraw>60</PowerDraw>
 
-  <NameIndex>18542</NameIndex>
-  <DescriptionIndex>18543</DescriptionIndex>
+  <NameIndex>19040</NameIndex>
+  <DescriptionIndex>19041</DescriptionIndex>
 
   <!-- for shield items -->
   <ShieldPowerMax>17000</ShieldPowerMax>

@@ -4,8 +4,8 @@
   <UID>starbase_sheailds</UID>
   <TechnologyType>ShipDefense</TechnologyType>
   <Cost>2350</Cost>
-  <NameIndex>18560</NameIndex>
-  <DescriptionIndex>18561</DescriptionIndex>
+  <NameIndex>19189</NameIndex>
+  <DescriptionIndex>18707</DescriptionIndex>
   <LeadsTo />
   <LeadsTo>
     <LeadsToTech>

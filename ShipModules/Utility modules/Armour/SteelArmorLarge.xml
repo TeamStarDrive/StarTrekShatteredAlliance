@@ -10,7 +10,7 @@
   <XSize>3</XSize>
   <YSize>3</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Large_Steel_Armor</Name>
+  <Name>Steel Armour (Large)</Name>
   <Restrictions>O</Restrictions>
   <UID>SteelArmorLarge</UID> 
   <Version>2</Version>
@@ -19,8 +19,8 @@
   <IconTexturePath>Modules/SteelArmorLarge</IconTexturePath>
 
 
-  <NameIndex>1056</NameIndex>
-  <DescriptionIndex>1057</DescriptionIndex>
+  <NameIndex>19148</NameIndex>
+  <DescriptionIndex>19149</DescriptionIndex>
 
 
   <!-- Mass and Health -->
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.04</ExplosiveResist>
 
   <!-- Description -->
-  <Description>This large slab of steel armor is forged as a single seamless unit, which provides greater protection than a series of smaller armor slabs.  Steel armor is cheap and durable, with its primary drawback being its weight.</Description>
+  <Description>Thick plates of forged steel: heavy and basic, but dependable.</Description>
   
 
 </ShipModule>

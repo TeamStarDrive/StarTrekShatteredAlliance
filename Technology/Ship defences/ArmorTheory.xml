@@ -4,8 +4,8 @@
   <UID>ArmorTheory</UID>
   <TechnologyType>ShipDefense</TechnologyType>
   <Cost>210</Cost>
-  <NameIndex>515</NameIndex>
-  <DescriptionIndex>516</DescriptionIndex>
+  <NameIndex>19024</NameIndex>
+  <DescriptionIndex>19025</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>Advanced Materials</UID>

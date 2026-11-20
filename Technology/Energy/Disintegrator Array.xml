@@ -4,8 +4,8 @@
   <UID>Disintegrator Array</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>6000</Cost>
-  <NameIndex>543</NameIndex>
-  <DescriptionIndex>544</DescriptionIndex>
+  <NameIndex>18943</NameIndex>
+  <DescriptionIndex>18944</DescriptionIndex>
   <LeadsTo />
   <ModulesUnlocked>
     <UnlockedMod>

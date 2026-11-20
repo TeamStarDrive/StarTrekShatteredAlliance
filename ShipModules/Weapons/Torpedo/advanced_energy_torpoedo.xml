@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>4</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>advanced_energy_torpoedo</Name>
+  <Name>Advanced Energy Torpedo Launcher Mk1</Name>
   <Restrictions>O</Restrictions>
   <UID>advanced_energy_torpoedo</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/advanced_energy_torpoedo</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>18500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>An improved energy torpedo launcher with a bigger warhead and better guidance.</Description>
   
   
   <PowerDraw>5</PowerDraw>
@@ -27,8 +27,8 @@
   <ShieldRadius>0</ShieldRadius>
   <radius>0</radius>
 
-  <NameIndex>18677</NameIndex>
-  <DescriptionIndex>18678</DescriptionIndex>
+  <NameIndex>19070</NameIndex>
+  <DescriptionIndex>19071</DescriptionIndex>
 
   <!-- for PowerPlant Items -->
   

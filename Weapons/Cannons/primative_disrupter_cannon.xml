@@ -19,7 +19,6 @@
   <Tag_Cannon>true</Tag_Cannon>
   
   <UID>primative_disrupter_cannon</UID>
-  <fireDelay>4</fireDelay>
   <Range>3500</Range>
   <PowerRequiredToFire>100</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
@@ -49,4 +48,5 @@
   <ModelPath>projTear</ModelPath>
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
   <WeaponType>Disruptor Cannons</WeaponType>
+  <FireDelay>4</FireDelay>
 </Weapon>

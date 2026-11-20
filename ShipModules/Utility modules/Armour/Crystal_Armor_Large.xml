@@ -9,15 +9,15 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Crystal_Armor_Large</Name>
+    <Name>Crystal Armour (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>Crystal_Armor_Large</UID> 
   <Version>2</Version>
 
     <TexturePath>Textures/transparent</TexturePath>
     <IconTexturePath>Modules/Crystal_Armor_Large</IconTexturePath>
-    <NameIndex>6578</NameIndex>
-    <DescriptionIndex>6583</DescriptionIndex>
+    <NameIndex>19136</NameIndex>
+    <DescriptionIndex>19137</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>72</Mass>
     <HealthMax>85530</HealthMax>
@@ -31,6 +31,6 @@
     <PlasmaResist>0</PlasmaResist>
 
     <!-- Description -->
-    <Description>Through using Crystal materials, the mass of armor has been greatly decreased. </Description>
+    <Description>Plating built from crystalline material, which spreads and turns aside the force of a hit.</Description>
     <APResist>2</APResist>
 </ShipModule>

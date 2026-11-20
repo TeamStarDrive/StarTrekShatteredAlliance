@@ -6,7 +6,7 @@
   <ModuleType>Transporter</ModuleType>
   <XSize>3</XSize>
   <YSize>3</YSize>
-  <Name>Transporter_3x3</Name>
+  <Name>Transporters</Name>
   <Restrictions>IO</Restrictions>
   <UID>Transporter_3x3</UID> 
   <Version>2</Version>
@@ -14,16 +14,15 @@
   <IconTexturePath>Modules/Transporter_3x3</IconTexturePath>
   <Mass>20</Mass>
   <HealthMax>1950</HealthMax>
-  <Description>Ships equipped with a Transporter cand transport matter electronicly
-  </Description>
+  <Description>Matter transporters for moving crew and boarding parties between ships.</Description>
   <PowerDraw>250</PowerDraw>
   <TransporterTimerConstant>20.0</TransporterTimerConstant>
   <TransporterRange>20000.0</TransporterRange>
   <TransporterPower>2000.0</TransporterPower>
   <TransporterOrdnance>40.0</TransporterOrdnance>
   <TransporterTroopLanding>3</TransporterTroopLanding>
-  <NameIndex>18288</NameIndex>
-  <DescriptionIndex>18289</DescriptionIndex>
+  <NameIndex>19018</NameIndex>
+  <DescriptionIndex>19019</DescriptionIndex>
 
   <TargetTracking>3</TargetTracking>
   <!-- for shield items -->

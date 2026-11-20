@@ -9,13 +9,13 @@
     <XSize>2</XSize>
     <YSize>1</YSize>
     <ModuleType>Shield</ModuleType>
-    <Name>Amplifier</Name>
+    <Name>Advanced Fighter Shield Amplifier</Name>
     <UID>advanced_fighter_sheald_Amplifier</UID> 
   <Version>2</Version>
 
     <IconTexturePath>Modules/advanced_fighter_sheald_Amplifier</IconTexturePath>
-    <NameIndex>18693</NameIndex>
-    <DescriptionIndex>18694</DescriptionIndex>
+    <NameIndex>19034</NameIndex>
+    <DescriptionIndex>19035</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>8</Mass>
     <HealthMax>12760</HealthMax>
@@ -33,5 +33,5 @@
     
     <!-- for Weapons -->
     <!-- Description -->
-    <Description>Advanced Armored Solar collector, procides power within a small radius.</Description>
+    <Description>A small armoured solar collector for fighters, supplying extra power within a short radius.</Description>
 </ShipModule>

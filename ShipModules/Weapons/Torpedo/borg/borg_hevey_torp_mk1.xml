@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>borg_hevey_torp_mk1</Name>
+  <Name>Borg Heavy Torpedo Launcher Mk1</Name>
   <Restrictions>O</Restrictions>
   <UID>borg_hevey_torp_mk1</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/borg_hevey_torp_mk1</IconTexturePath>
   <Mass>100</Mass>
   <HealthMax>21500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A heavy launcher for a large warhead on a long reload. Assimilated and adapted by the Collective: it regenerates, and it will adapt to you.</Description>
   
   
   <PowerDraw>5</PowerDraw>
@@ -28,7 +28,7 @@
   <radius>0</radius>
 
   <NameIndex>18378</NameIndex>
-  <DescriptionIndex>18379</DescriptionIndex>
+  <DescriptionIndex>19074</DescriptionIndex>
 
   <!-- for PowerPlant Items -->
   

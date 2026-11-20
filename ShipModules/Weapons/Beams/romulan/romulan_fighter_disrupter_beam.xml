@@ -13,7 +13,7 @@
   <XSize>2</XSize>
   <YSize>1</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>romulan_fighter_disrupter_beam</Name>
+  <Name>Romulan Fighter Disruptor Array</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/romulan_disrupter_beam_mk4</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>45</FieldOfFire>
 
   <!-- Description -->
-  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  <Description>A small disruptor array scaled down for fighters and other small craft. A product of the Star Empire: precise, secretive and made to be used by the patient.</Description>
   
 
 </ShipModule>

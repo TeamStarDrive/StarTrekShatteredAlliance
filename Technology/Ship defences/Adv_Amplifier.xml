@@ -4,8 +4,8 @@
   <UID>Adv_Amplifier</UID>
   <TechnologyType>ShipGeneral</TechnologyType>
   <Cost>2600</Cost>
-  <NameIndex>18867</NameIndex>
-  <DescriptionIndex>18868</DescriptionIndex>
+  <NameIndex>19020</NameIndex>
+  <DescriptionIndex>19021</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>Dispersion</UID>

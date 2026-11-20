@@ -13,18 +13,18 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>advanced_CanopyShields</Name>
+  <Name>Advanced Canopy Shield</Name>
   <IconTexturePath>Modules/advanced_CanopyShields</IconTexturePath>
   <Mass>250</Mass>
   <HealthMax>99696</HealthMax>
   
-  <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
+  <Description>An improved canopy shield with higher resistance and a wide radius, for capital ships. Its power costs are enormous.</Description>
   
   
   <PowerDraw>1400</PowerDraw>
 
-  <NameIndex>18550</NameIndex>
-  <DescriptionIndex>18551</DescriptionIndex>
+  <NameIndex>19030</NameIndex>
+  <DescriptionIndex>19031</DescriptionIndex>
 
   <!-- for shield items -->
   <ShieldPowerMax>252000</ShieldPowerMax>

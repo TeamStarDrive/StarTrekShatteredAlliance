@@ -23,18 +23,18 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>starbase_sheailds</Name>
+  <Name>Starbase Shield</Name>
   <IconTexturePath>Modules/starbase_sheailds</IconTexturePath>
   <Mass>11000</Mass>
   <HealthMax>86188</HealthMax>
   
-  <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
+  <Description>A monstrous shield for starbases, with very high resistance and a massive protection radius.</Description>
   
   
   <PowerDraw>1400</PowerDraw>
 
-  <NameIndex>18560</NameIndex>
-  <DescriptionIndex>18561</DescriptionIndex>
+  <NameIndex>19199</NameIndex>
+  <DescriptionIndex>19039</DescriptionIndex>
 
   <!-- for shield items -->
   <ShieldPowerMax>2410000</ShieldPowerMax>

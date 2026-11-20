@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>7</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>cardassian_prototype_torpedo</Name>
+  <Name>Cardassian Prototype Torpedo Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>cardassian_prototype_torpedo</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/cardassian_prototype_torpedo</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>34500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A prototype torpedo launcher: powerful, but experimental. Made by the Union's thorough engineers: heavy, practical and built for the long occupation.</Description>
   
   
   <PowerDraw>5</PowerDraw>

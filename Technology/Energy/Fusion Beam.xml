@@ -4,8 +4,8 @@
   <UID>Fusion Beam</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>460</Cost>
-  <NameIndex>576</NameIndex>
-  <DescriptionIndex>577</DescriptionIndex>
+  <NameIndex>18953</NameIndex>
+  <DescriptionIndex>18954</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>Phasors</UID>

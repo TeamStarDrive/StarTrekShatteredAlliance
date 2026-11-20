@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Kling_TriTorpedoMk2</Name>
+  <Name>Klingon Tri-Torpedo Launcher Mk2</Name>
   <Restrictions>O</Restrictions>
   <UID>Kling_TriTorpedoMk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Kling_TriTorpedoMk2</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>9500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A launcher that fires three torpedoes in a spread, good against fast or evasive targets. Forged for the Empire: loud, brutal and made to win glory. An improved model.</Description>
   
   
   <PowerDraw>5</PowerDraw>

@@ -9,14 +9,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>borg_gravametric_cannon_mk1</Name>
+  <Name>Borg Gravimetric Cannon Mk1</Name>
   <Restrictions>O</Restrictions>
   <UID>borg_gravametric_cannon_mk1</UID>
   <IconTexturePath>Modules/borg_gravametric_cannon_mk1</IconTexturePath>
   <Mass>10</Mass>
   <HealthMax>10975</HealthMax>
-  <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
-  </Description>
+  <Description>A cannon that fires bursts of focused gravity, hitting hard at short range. Assimilated and adapted by the Collective: it regenerates, and it will adapt to you.</Description>
   
   
   <PowerDraw>4</PowerDraw>

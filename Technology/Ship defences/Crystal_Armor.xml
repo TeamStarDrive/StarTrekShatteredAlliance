@@ -4,8 +4,8 @@
   <UID>Crystal_Armor</UID>
   <TechnologyType>ShipDefense</TechnologyType>
   <Cost>4400</Cost>
-  <NameIndex>6574</NameIndex>
-  <DescriptionIndex>6575</DescriptionIndex>
+  <NameIndex>19028</NameIndex>
+  <DescriptionIndex>19029</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>biomechinal_armour</UID>

@@ -14,7 +14,7 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Shuttlebay_5x9</Name>
+  <Name>Shuttlebay</Name>
   <IconTexturePath>Modules/Shuttlebay_5x9</IconTexturePath>
   <Mass>290</Mass>
   <HealthMax>17000</HealthMax>
@@ -24,14 +24,12 @@
   <PowerDraw>40</PowerDraw>
 
 
-  <NameIndex>18296</NameIndex>
-  <DescriptionIndex>18297</DescriptionIndex>
+  <NameIndex>19010</NameIndex>
+  <DescriptionIndex>19011</DescriptionIndex>
 
 
 
   <!-- for Hangar items -->
-  <hangarShipUID>Vulcan Scout</hangarShipUID>
-  <hangerTimerConstant>80</hangerTimerConstant>
   <MaximumHangarShipSize>196</MaximumHangarShipSize>
   <PermittedHangarRoles>
     <string>frigate</string>
@@ -61,4 +59,6 @@
   
   
 
+  <HangarShipUID>Vulcan Scout</HangarShipUID>
+  <HangarTimerConstant>80</HangarTimerConstant>
 </ShipModule>

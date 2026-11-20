@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>gravametric_torpedo_mk3</Name>
+  <Name>Borg Gravimetric Torpedo Launcher Mk3</Name>
   <Restrictions>O</Restrictions>
   <UID>gravametric_torpedo_mk3</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/gravametric_torpedo_mk3</IconTexturePath>
   <Mass>250</Mass>
   <HealthMax>36500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A launcher for gravimetric torpedoes that crush the target's structure on impact. Assimilated and adapted by the Collective: it regenerates, and it will adapt to you. A refined, later model.</Description>
   
   
   <PowerDraw>5</PowerDraw>

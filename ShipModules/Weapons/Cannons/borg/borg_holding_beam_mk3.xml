@@ -7,7 +7,7 @@
   <ModuleType>Turret</ModuleType>
   <XSize>4</XSize>
   <YSize>4</YSize>
-  <Name>borg_holding_beam_mk3</Name>
+  <Name>Borg Holding Beam Mk3</Name>
   <Restrictions>O</Restrictions>
   <UID>borg_holding_beam_mk3</UID> 
   <Version>2</Version>
@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/borg_holding_beam_mk3</IconTexturePath>
   <Mass>40</Mass>
   <HealthMax>25760</HealthMax>
-  <Description>A crude but effective high-energy cannon weapon </Description>
+  <Description>A beam that locks onto a ship and holds it, hampering its movement while the fleet closes in. Assimilated and adapted by the Collective: it regenerates, and it will adapt to you. A refined, later model.</Description>
   <CrewRequired>12</CrewRequired>
   
   <PowerDraw>20</PowerDraw>

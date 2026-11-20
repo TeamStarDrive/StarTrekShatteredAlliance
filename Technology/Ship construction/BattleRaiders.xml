@@ -4,8 +4,8 @@
   <UID>BattleRaiders</UID>
   <TechnologyType>ShipGeneral</TechnologyType>
   <Cost>2250</Cost>
-  <NameIndex>520</NameIndex>
-  <DescriptionIndex>521</DescriptionIndex>
+  <NameIndex>18990</NameIndex>
+  <DescriptionIndex>18991</DescriptionIndex>
   <LeadsTo />
   <LeadsTo>
     <LeadsToTech>

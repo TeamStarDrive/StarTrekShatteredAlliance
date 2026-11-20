@@ -9,14 +9,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>3</XSize>
   <YSize>3</YSize>
-  <Name>vul_phased_cannon_mk2</Name>
+  <Name>Vulcan Pulse Phaser Cannon Mk2</Name>
   <Restrictions>O</Restrictions>
   <UID>vul_phased_cannon_mk2</UID>
   <IconTexturePath>Modules/phased_cannon_mk2</IconTexturePath>
   <Mass>15</Mass>
   <HealthMax>15750</HealthMax>
-  <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
-  </Description>
+  <Description>A rapid-fire phased energy cannon: shorter reach than a beam, but it hits hard. Engineered with Vulcan logic: precise, efficient and without waste. An improved model.</Description>
   
   
   <PowerDraw>4</PowerDraw>

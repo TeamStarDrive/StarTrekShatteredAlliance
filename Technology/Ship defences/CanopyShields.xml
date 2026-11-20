@@ -4,8 +4,8 @@
   <UID>CanopyShields</UID>
   <TechnologyType>ShipDefense</TechnologyType>
   <Cost>5500</Cost>
-  <NameIndex>526</NameIndex>
-  <DescriptionIndex>527</DescriptionIndex>
+  <NameIndex>19026</NameIndex>
+  <DescriptionIndex>19027</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>advanced_CanopyShields</UID>

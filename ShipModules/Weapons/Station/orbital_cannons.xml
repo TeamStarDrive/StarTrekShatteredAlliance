@@ -18,20 +18,19 @@
   <ModuleType>Turret</ModuleType>
   <XSize>3</XSize>
   <YSize>3</YSize>
-  <Name>orbital_cannons</Name>
+  <Name>Orbital Flak Cannon (Basic)</Name>
   <Restrictions>O</Restrictions>
   <UID>orbital_cannons</UID>
   <IconTexturePath>Modules/orbital_cannons</IconTexturePath>
   <Mass>5000</Mass>
   <HealthMax>18607</HealthMax>
-  <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
-  </Description>
+  <Description>An orbital flak cannon on an omni-directional mount: explosive shells with a moderate blast radius, best against slow or large targets.</Description>
   
   
   <PowerDraw>15</PowerDraw>
 
-  <NameIndex>18524</NameIndex>
-  <DescriptionIndex>18525</DescriptionIndex>
+  <NameIndex>19042</NameIndex>
+  <DescriptionIndex>19043</DescriptionIndex>
 
 
   <!-- for shield items -->

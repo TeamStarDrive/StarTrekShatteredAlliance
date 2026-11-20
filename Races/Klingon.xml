@@ -15,7 +15,7 @@
   <DefaultResearchStation>Basic Research Station</DefaultResearchStation>
   <DefaultMiningShip>basic mining ship mk1</DefaultMiningShip>
   <DefaultMiningStation>Basic Mining Station</DefaultMiningStation>
-  <DefaultSalvageShip>Klingon Salvage Ship</DefaultSalvageShip>
+  <DefaultSalvageShip>Klingon salvage ship</DefaultSalvageShip>
   <ThrustColor0R>95</ThrustColor0R>
   <ThrustColor0G>158</ThrustColor0G>
   <ThrustColor0B>160</ThrustColor0B>

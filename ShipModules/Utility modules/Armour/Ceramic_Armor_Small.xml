@@ -22,7 +22,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Ceramic Armor Small</Name>
+  <Name>Ceramic Armour (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Ceramic_Armor_Small</UID> 
   <Version>2</Version>
@@ -31,8 +31,8 @@
   <IconTexturePath>Modules/Ceramic Armor Small</IconTexturePath>
 
 
-  <NameIndex>6580</NameIndex>
-  <DescriptionIndex>6584</DescriptionIndex>
+  <NameIndex>19120</NameIndex>
+  <DescriptionIndex>19121</DescriptionIndex>
 
 
   <!-- Mass and Health -->
@@ -47,7 +47,7 @@
   <ExplosiveResist>0.12</ExplosiveResist>
 
   <!-- Description -->
-  <Description>New generation of Ceramic Armor.</Description>
+  <Description>A new generation of ceramic plating: light, hard and able to take a lot of heat.</Description>
   <APResist>1</APResist>
   
 

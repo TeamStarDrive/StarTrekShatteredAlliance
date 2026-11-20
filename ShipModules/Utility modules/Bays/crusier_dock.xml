@@ -14,7 +14,7 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>crusier_dock</Name>
+  <Name>Cruiser Dock</Name>
   <IconTexturePath>Modules/cruiser_dock</IconTexturePath>
   <Mass>4000</Mass>
   <HealthMax>19000</HealthMax>
@@ -30,8 +30,6 @@
 
 
   <!-- for Hangar items -->
-  <hangarShipUID>crusier</hangarShipUID>
-  <hangerTimerConstant>180</hangerTimerConstant>
   <MaximumHangarShipSize>390</MaximumHangarShipSize>
   <PermittedHangarRoles>
     <string>frigate</string>
@@ -62,4 +60,6 @@
   
   
 
+  <HangarShipUID>crusier</HangarShipUID>
+  <HangarTimerConstant>180</HangarTimerConstant>
 </ShipModule>

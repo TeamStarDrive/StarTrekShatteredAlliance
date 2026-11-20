@@ -15,13 +15,13 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>10KW_Shield</Name>
+  <Name>Heavy Shield (10 KW)</Name>
   <IconTexturePath>Modules/shield_3x3</IconTexturePath>
   <Mass>81</Mass>
   <HealthMax>14200</HealthMax>
   <PowerDraw>95</PowerDraw>
   
-  <Description>This is a large shield that provides heavy protection at a heavy power cost</Description>
+  <Description>A large shield that gives heavy protection at a heavy power cost.</Description>
   
   
   <PowerDraw>200</PowerDraw>

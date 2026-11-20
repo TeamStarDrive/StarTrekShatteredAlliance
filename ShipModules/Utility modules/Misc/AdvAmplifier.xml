@@ -9,7 +9,7 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Shield</ModuleType>
-    <Name>AdvAmplifier</Name>
+    <Name>Advanced Shield Amplifier</Name>
     <UID>AdvAmplifier</UID> 
   <Version>2</Version>
 
@@ -33,5 +33,5 @@
     
     <!-- for Weapons -->
     <!-- Description -->
-    <Description>Advanced Armored Solar collector, procides power within a small radius.</Description>
+    <Description>An advanced armoured solar collector that supplies extra power within a small radius.</Description>
 </ShipModule>

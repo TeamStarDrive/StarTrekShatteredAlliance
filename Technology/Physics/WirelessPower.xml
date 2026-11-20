@@ -4,8 +4,8 @@
   <UID>WirelessPower</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>400</Cost>
-  <NameIndex>17609</NameIndex>
-  <DescriptionIndex>17610</DescriptionIndex>
+  <NameIndex>18973</NameIndex>
+  <DescriptionIndex>18974</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>Pulse Capacitors</UID>

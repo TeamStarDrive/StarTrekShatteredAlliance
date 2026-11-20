@@ -4,8 +4,8 @@
   <UID>FusionReactor</UID>
   <TechnologyType>ShipGeneral</TechnologyType>
   <Cost>450</Cost>
-  <NameIndex>8045</NameIndex>
-  <DescriptionIndex>17450</DescriptionIndex>
+  <NameIndex>18969</NameIndex>
+  <DescriptionIndex>18970</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>ExtremeFusionReactor</UID>

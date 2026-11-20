@@ -19,7 +19,7 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Organic_Bioplates_Med</Name>
+    <Name>Organic Bioplates (Medium)</Name>
     <Restrictions>O</Restrictions>
     <UID>Organic_Bioplates_Med</UID> 
   <Version>2</Version>
@@ -41,6 +41,6 @@
     <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Organic Bioplates provides massive defence however the mass is also very "massive".</Description>
+    <Description>Living armour plates grown from organic tissue, which slowly knit back together after damage.</Description>
     <APResist>1</APResist>    
 </ShipModule>

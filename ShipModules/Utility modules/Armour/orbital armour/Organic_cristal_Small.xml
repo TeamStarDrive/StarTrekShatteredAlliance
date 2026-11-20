@@ -32,7 +32,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Organic_cristal_Small</Name>
+  <Name>Organic Crystal Armour (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Organic_cristal_Small</UID> 
   <Version>2</Version>
@@ -58,7 +58,7 @@
     <PlasmaResist>0.5</PlasmaResist>
 
   <!-- Description -->
-  <Description>Through using Crystal materials, the mass of armor has been greatly decreased. </Description>
+  <Description>Armour grown from crystal and organic tissue, tough and slowly self-repairing.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

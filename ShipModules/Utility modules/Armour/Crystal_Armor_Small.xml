@@ -22,7 +22,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Crystal Armor Small</Name>
+  <Name>Crystal Armour (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Crystal_Armor_Small</UID> 
   <Version>2</Version>
@@ -31,8 +31,8 @@
   <IconTexturePath>Modules/Crystal_Armor_Small</IconTexturePath>
 
 
-  <NameIndex>6576</NameIndex>
-  <DescriptionIndex>6583</DescriptionIndex>
+  <NameIndex>19132</NameIndex>
+  <DescriptionIndex>19133</DescriptionIndex>
 
 
   <!-- Mass and Health -->
@@ -48,7 +48,7 @@
   <PlasmaResist>0</PlasmaResist>
 
   <!-- Description -->
-  <Description>Through using Crystal materials, the mass of armor has been greatly decreased. </Description>
+  <Description>Plating built from crystalline material, which spreads and turns aside the force of a hit.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

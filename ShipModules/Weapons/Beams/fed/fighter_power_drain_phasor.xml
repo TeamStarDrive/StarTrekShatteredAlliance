@@ -13,7 +13,7 @@
   <XSize>2</XSize>
   <YSize>1</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>Phasor_Beam_mk3</Name>
+  <Name>Starfleet Fighter Phaser Drain Array</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/fighter_power_drain_phasor</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>90</FieldOfFire>
 
   <!-- Description -->
-  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  <Description>A phaser array tuned to bleed power from the target, leaving it slower to fire and to recharge. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home.</Description>
   
 
 </ShipModule>

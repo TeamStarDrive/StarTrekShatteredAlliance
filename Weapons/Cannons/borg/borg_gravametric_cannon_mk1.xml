@@ -19,7 +19,6 @@
   <Tag_Cannon>true</Tag_Cannon>
   
   <UID>borg_gravametric_cannon_mk1</UID>
-  <fireDelay>3</fireDelay>
   <Range>5500</Range>
   <PowerRequiredToFire>200</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
@@ -49,4 +48,5 @@
   <ModelPath>projTear</ModelPath>
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
   <WeaponType>Phaser Cannons</WeaponType>
+  <FireDelay>3</FireDelay>
 </Weapon>

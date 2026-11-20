@@ -7,7 +7,7 @@
   <ModuleType>Turret</ModuleType>
   <XSize>3</XSize>
   <YSize>3</YSize>
-  <Name>Kling_DisruptorCannonMk2</Name>
+  <Name>Klingon Disruptor Cannon Mk2</Name>
   <Restrictions>O</Restrictions>
   <UID>Kling_DisruptorCannonMk2</UID> 
   <Version>2</Version>
@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/Kling_DisruptorCannonMk2</IconTexturePath>
   <Mass>21</Mass>
   <HealthMax>10760</HealthMax>
-  <Description>A crude but effective high-energy cannon weapon </Description>
+  <Description>A rapid-fire energy cannon: shorter reach than a beam, but it hits hard. Forged for the Empire: loud, brutal and made to win glory. An improved model.</Description>
   <CrewRequired>12</CrewRequired>
   
   <PowerDraw>11</PowerDraw>

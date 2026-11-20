@@ -8,15 +8,15 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Ceramic Armor Med</Name>
+    <Name>Ceramic Armour (Medium)</Name>
     <Restrictions>O</Restrictions>
     <UID>Ceramic_Armor_Med</UID> 
   <Version>2</Version>
 
     <TexturePath>Textures/transparent</TexturePath>
     <IconTexturePath>Modules/Ceramic Armor Med</IconTexturePath>
-    <NameIndex>6581</NameIndex>
-    <DescriptionIndex>6584</DescriptionIndex>
+    <NameIndex>19122</NameIndex>
+    <DescriptionIndex>19123</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>24</Mass>
     <HealthMax>15600</HealthMax>
@@ -29,6 +29,6 @@
     <ExplosiveResist>0.12</ExplosiveResist>
 
     <!-- Description -->
-    <Description>New generation of Ceramic Armor.</Description>
+    <Description>A new generation of ceramic plating: light, hard and able to take a lot of heat.</Description>
     <APResist>1</APResist>
 </ShipModule>

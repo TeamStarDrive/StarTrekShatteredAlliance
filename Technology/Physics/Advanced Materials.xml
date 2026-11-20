@@ -4,8 +4,8 @@
   <UID>Advanced Materials</UID>
   <TechnologyType>ShipDefense</TechnologyType>
   <Cost>450</Cost>
-  <NameIndex>500</NameIndex>
-  <DescriptionIndex>501</DescriptionIndex>
+  <NameIndex>18961</NameIndex>
+  <DescriptionIndex>18962</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>CeramicArmor</UID>

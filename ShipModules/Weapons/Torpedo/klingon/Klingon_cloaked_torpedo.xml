@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Klingon_cloaked_torpedo</Name>
+  <Name>Klingon Cloaked Torpedo Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>Klingon_cloaked_torpedo</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Klingon_cloaked_torpedo</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>9500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A launcher whose torpedoes stay cloaked in flight and decloak only at the moment of impact. Forged for the Empire: loud, brutal and made to win glory.</Description>
   
   
   <PowerDraw>5</PowerDraw>
@@ -27,8 +27,8 @@
   <ShieldRadius>0</ShieldRadius>
   <radius>0</radius>
 
-  <NameIndex>18634</NameIndex>
-  <DescriptionIndex>18634</DescriptionIndex>
+  <NameIndex>19100</NameIndex>
+  <DescriptionIndex>19101</DescriptionIndex>
 
   <!-- for PowerPlant Items -->
   

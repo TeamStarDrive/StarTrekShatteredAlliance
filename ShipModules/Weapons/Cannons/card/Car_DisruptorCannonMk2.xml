@@ -7,7 +7,7 @@
   <ModuleType>Turret</ModuleType>
   <XSize>3</XSize>
   <YSize>3</YSize>
-  <Name>Car_DisruptorCannonMk2</Name>
+  <Name>Cardassian Disruptor Cannon Mk2</Name>
   <Restrictions>O</Restrictions>
   <UID>Car_DisruptorCannonMk2</UID> 
   <Version>2</Version>
@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/Car_DisruptorCannonMk2</IconTexturePath>
   <Mass>40</Mass>
   <HealthMax>17760</HealthMax>
-  <Description>A crude but effective high-energy cannon weapon </Description>
+  <Description>A rapid-fire energy cannon: shorter reach than a beam, but it hits hard. Made by the Union's thorough engineers: heavy, practical and built for the long occupation. An improved model.</Description>
   <CrewRequired>12</CrewRequired>
   
   <PowerDraw>5</PowerDraw>

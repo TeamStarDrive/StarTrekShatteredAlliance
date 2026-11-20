@@ -3,7 +3,7 @@
 
   <Tag_Beam>true</Tag_Beam>
 
-  <UID>tractorbeam_turret</UID>
+  <UID>tractorbeam_turret_Beams</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>2</FireDelay>
   <Range>15000</Range>

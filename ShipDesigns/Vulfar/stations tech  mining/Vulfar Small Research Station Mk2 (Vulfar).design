@@ -1,5 +1,5 @@
 Version=1
-Name=Vulfar Small Research Station Mk1
+Name=Vulfar Small Research Station Mk2 (Vulfar)
 Hull=Vulfen/Vulfen_Station_Small
 Role=station
 Style=Vulfen
@@ -12,7 +12,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=Ceramic Armor Small;ContainerDeck;BasicCargoHold;MediumCargoHold;Shield_1KW;ArmoredTurret;Fusion Reactor;BosonTransmiter;ResearchLab;Bridge;Fabricator
+ModuleUIDs=CompositeAlloys Small;ContainerDeck;BasicCargoHold;MediumCargoHold;Shield_1KW;ArmoredTurret;Fusion Reactor;BosonTransmiter;ResearchLab;Bridge;Fabricator
 Modules=143
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 12,0;0

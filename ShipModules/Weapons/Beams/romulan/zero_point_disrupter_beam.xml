@@ -13,7 +13,7 @@
   <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>zero_point_disrupter_beam</Name>
+  <Name>Romulan Zero-Point Disruptor Beam</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/zero_point_disrupter_beam</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>60</FieldOfFire>
 
   <!-- Description -->
-  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  <Description>An advanced disruptor beam driven by a zero-point energy tap. A product of the Star Empire: precise, secretive and made to be used by the patient.</Description>
   
 
 </ShipModule>

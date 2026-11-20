@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>5</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Kling_PhotonTorpedoMk2</Name>
+  <Name>Klingon Photon Torpedo Launcher Mk2</Name>
   <Restrictions>O</Restrictions>
   <UID>Kling_PhotonTorpedoMk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Kling_PhotonTorpedoMk2</IconTexturePath>
   <Mass>130</Mass>
   <HealthMax>17500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A guided torpedo launcher: slow to reload, but every warhead hits hard. Forged for the Empire: loud, brutal and made to win glory. An improved model.</Description>
   
   
   <PowerDraw>5</PowerDraw>

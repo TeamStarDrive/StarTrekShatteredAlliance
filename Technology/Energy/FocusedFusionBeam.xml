@@ -4,8 +4,8 @@
   <UID>FocusedFusionBeam</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>660</Cost>
-  <NameIndex>17524</NameIndex>
-  <DescriptionIndex>17525</DescriptionIndex>
+  <NameIndex>19188</NameIndex>
+  <DescriptionIndex>18948</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>FocusedPhasorBeam</UID>

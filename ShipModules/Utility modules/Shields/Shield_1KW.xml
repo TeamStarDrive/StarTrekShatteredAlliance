@@ -11,7 +11,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>1KW_Shield</Name>
+  <Name>Basic Shield (1 KW)</Name>
   <Restrictions>IO</Restrictions>
   <UID>Shield_1KW</UID> 
   <Version>2</Version>
@@ -20,8 +20,7 @@
   <Mass>36</Mass>
   <HealthMax>10100</HealthMax>
   
-  <Description> This particular model is a very basic 1 KW shieid (2000 hp) with a 75 meter protective radius and a low recharge speed.
-  </Description>
+  <Description>A very basic shield generator with a short protective radius and a slow recharge.</Description>
   
   
   <PowerDraw>45</PowerDraw>

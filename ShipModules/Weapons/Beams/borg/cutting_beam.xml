@@ -12,7 +12,7 @@
   <XSize>2</XSize>
   <YSize>3</YSize>
   <ModuleType>MainGun</ModuleType>
-  <Name>cutting_beam</Name>
+  <Name>Borg Cutting Beam Mk1</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/cutting_beam</IconTexturePath>3
@@ -33,7 +33,7 @@
   <WeaponType>cutting_beam</WeaponType>
   <FieldOfFire>15</FieldOfFire>
   <!-- Description -->
-  <Description>This heavy-mount fusion beam has a fixed spinal facing and a 45 degree field of fire.</Description>
+  <Description>A continuous beam that carves through hull plating. Assimilated and adapted by the Collective: it regenerates, and it will adapt to you.</Description>
   
 
 </ShipModule>

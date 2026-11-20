@@ -10,7 +10,7 @@
   <XSize>2</XSize>
   <YSize>2</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Reinforced_Bulkhead</Name>
+  <Name>Reinforced Bulkhead</Name>
   <Restrictions>I</Restrictions>
   <UID>Reinforced_Bulkhead</UID> 
   <Version>2</Version>
@@ -18,8 +18,8 @@
   <IconTexturePath>Modules/Bulkhead_2x2</IconTexturePath>
 
 
-  <NameIndex>2164</NameIndex>
-  <DescriptionIndex>2165</DescriptionIndex>
+  <NameIndex>19172</NameIndex>
+  <DescriptionIndex>19173</DescriptionIndex>
 
 
   <!-- Mass and Health -->

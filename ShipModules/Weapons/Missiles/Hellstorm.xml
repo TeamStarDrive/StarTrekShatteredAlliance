@@ -21,13 +21,13 @@
   <Mass>150</Mass>
   <HealthMax>1600</HealthMax>
   <RepairDifficulty>2.5</RepairDifficulty>
-  <Description>This is a long range multiple rocket launching system.</Description>
+  <Description>A barrage launcher that saturates an area with rapid-fire ordnance. Devastating against fighters and small ships.</Description>
 
   <CrewRequired>12</CrewRequired>
   <PowerDraw>4</PowerDraw>
 
-  <NameIndex>17651</NameIndex>
-  <DescriptionIndex>17652</DescriptionIndex>
+  <NameIndex>18935</NameIndex>
+  <DescriptionIndex>18936</DescriptionIndex>
 
   <!-- for shield items -->
   
