@@ -259,32 +259,32 @@ BB_Tech_Kling_DisruptorBeamMk2_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_DisruptorCannonMk1_Name:
  Id: 18338
- ENG: "Klingon Disruptor Cannon Mk1"
+ ENG: "Klingon Bird-of-Prey Disruptor Cannon"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_DisruptorCannonMk1_Desc:
  Id: 18339
- ENG: "A rapid-fire energy cannon: shorter reach than a beam, but it hits hard. Forged for the Empire: loud, brutal and made to win glory."
+ ENG: "A disruptor cannon for the Bird-of-Prey, fitted to a hull that prefers to strike from the side. Of the Klingon cannon weapons, it is the sturdiest for its size, but hits the softest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_DisruptorCannonMk2_Name:
  Id: 18340
- ENG: "Klingon Disruptor Cannon Mk2"
+ ENG: "Klingon Battle Cruiser Disruptor Cannon"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_DisruptorCannonMk2_Desc:
  Id: 18341
- ENG: "A rapid-fire energy cannon: shorter reach than a beam, but it hits hard. Forged for the Empire: loud, brutal and made to win glory. An improved model."
+ ENG: "A heavier disruptor cannon, mounted on the battle cruisers of the Empire. Of the Klingon cannon weapons, it fires the slowest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_DisruptorCannonMk3_Name:
  Id: 18342
- ENG: "Klingon Disruptor Cannon Mk3"
+ ENG: "Klingon Vor'cha Disruptor Cannon"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_DisruptorCannonMk3_Desc:
  Id: 18343
- ENG: "A rapid-fire energy cannon: shorter reach than a beam, but it hits hard. Forged for the Empire: loud, brutal and made to win glory. A refined, later model."
+ ENG: "The heaviest disruptor cannon, mounted on the Vor'cha-class attack cruisers. Of the Klingon cannon weapons, it hits the hardest and reaches the farthest, but is the frailest for its size."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_PhotonTorpedoMk1_Name:
@@ -699,22 +699,22 @@ BB_Tech_tractorbeam_turret_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_plasma_torpedo_Name:
  Id: 18427
- ENG: "Romulan Plasma Torpedo Launcher Mk1"
+ ENG: "Romulan Plasma Torpedo"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_plasma_torpedo_Desc:
  Id: 18428
- ENG: "A launcher for plasma torpedoes that burn through armour on impact. A product of the Star Empire: precise, secretive and made to be used by the patient."
+ ENG: "A plasma torpedo, the weapon the Romulans turned on the Earth outposts along the Neutral Zone. Of the Romulan torpedo weapons, it fires the largest salvos and is the sturdiest for its size, but has the slowest shots."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_plasma_torpedo_mk2_Name:
  Id: 18429
- ENG: "Romulan Plasma Torpedo Launcher Mk2"
+ ENG: "Romulan Heavy Plasma Torpedo"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_plasma_torpedo_mk2_Desc:
  Id: 18430
- ENG: "A launcher for plasma torpedoes that burn through armour on impact. A product of the Star Empire: precise, secretive and made to be used by the patient. An improved model."
+ ENG: "A heavier plasma torpedo for the great warbirds, the same weapon on a larger scale. Of the Romulan torpedo weapons, it hits the hardest and reaches the farthest, but fires the smallest salvos."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_hevey_torpedo_mk2_Name:
@@ -729,32 +729,32 @@ BB_Tech_hevey_torpedo_mk2_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_torpedo_mk2_Name:
  Id: 18434
- ENG: "Romulan Torpedo Launcher Mk2"
+ ENG: "Romulan Warbird Torpedo"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_torpedo_mk2_Desc:
  Id: 18435
- ENG: "A guided torpedo launcher: slow to reload, but every warhead hits hard. A product of the Star Empire: precise, secretive and made to be used by the patient. An improved model."
+ ENG: "A larger torpedo for the warbirds, fired from tubes along the hull. Of the Romulan torpedo weapons, it fires the fastest, but carries the least ordnance."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_torpedo_Name:
  Id: 18436
- ENG: "Romulan Torpedo Launcher Mk1"
+ ENG: "Romulan Raider Torpedo"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_torpedo_Desc:
  Id: 18437
- ENG: "A guided torpedo launcher: slow to reload, but every warhead hits hard. A product of the Star Empire: precise, secretive and made to be used by the patient."
+ ENG: "A plain torpedo for raiders and scouts, the Romulan answer to a photon torpedo on a small hull. Of the Romulan torpedo weapons, it has the shortest reach."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_micro_torpedo_Name:
  Id: 18438
- ENG: "Romulan Micro-Torpedo Launcher"
+ ENG: "Romulan Cloak-Strike Micro Torpedo"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_micro_torpedo_Desc:
  Id: 18439
- ENG: "A launcher for small, fast torpedoes: light on damage but quick to reload. A product of the Star Empire: precise, secretive and made to be used by the patient."
+ ENG: "A small torpedo for the moment a cloaked ship decloaks, thrown quickly before the target can react. Of the Romulan torpedo weapons, it has the fastest shots, but hits the softest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_romulan_disrupter_cannon_Name:
@@ -1445,7 +1445,7 @@ BB_Tech_securety_systems_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_power_drain_phasor_beam_Name:
  Id: 18594
- ENG: "Starfleet Phaser Drain Array"
+ ENG: "Starfleet Power-Drain Phaser Array"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_power_drain_phasor_beam_Desc:
@@ -1545,12 +1545,12 @@ BB_Tech_zero_point_disrupter_beam_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_singlarity_torpedo_Name:
  Id: 18622
- ENG: "Romulan Singularity Torpedo Launcher"
+ ENG: "Romulan Singularity Torpedo"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_singlarity_torpedo_Desc:
  Id: 18623
- ENG: "A launcher for a torpedo that collapses into a tiny singularity at the target. A product of the Star Empire: precise, secretive and made to be used by the patient."
+ ENG: "A torpedo that draws on the quantum singularity technology that powers the warbirds, kept for the targets that matter most. Of the Romulan torpedo weapons, it reaches the farthest and is the cheapest for its size, but fires the slowest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_romulan_fighter_disrupter_beam_Name:
@@ -1580,7 +1580,7 @@ B_Tech_Klingon_kenetic_disrupter_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Klingon_kenetic_disrupter_Desc:
  Id: 18629
- ENG: "A heavy disruptor cannon that throws a round to batter its target. Of the Klingon cannon weapons, it hits the hardest and reaches the farthest."
+ ENG: "A heavy disruptor cannon that throws a round to batter its target. Of the Klingon cannon weapons, it reaches the farthest and does the most to shields, but fires the smallest salvos."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_Klingon_fighter_kenetic_disrupter_Name:
@@ -1590,7 +1590,7 @@ B_Tech_Klingon_fighter_kenetic_disrupter_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Klingon_fighter_kenetic_disrupter_Desc:
  Id: 18631
- ENG: "A light disruptor round for raiders, thrown rather than fired as a beam. Of the Klingon cannon weapons, it hits the softest."
+ ENG: "A light disruptor round for raiders, thrown rather than fired as a beam. Of the Klingon cannon weapons, it does the most to shields, but hits the softest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 
@@ -2103,12 +2103,12 @@ BB_Tech_Klingon_fighter_kenetic_disrupter_Name:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_hevey_torpedo_Name:
  Id: 18744
- ENG: " hevey torpedo " 
+ ENG: "Romulan Heavy Warbird Torpedo"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_hevey_torpedo_Desc:
  Id: 18745
- ENG: "This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons."
+ ENG: "A heavy torpedo for the largest warbirds, kept for ships that do not care to be seen coming. Of the Romulan torpedo weapons, it fires the smallest salvos."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_station_deflector_mk2_Name:
@@ -3138,7 +3138,7 @@ power_drain_phasor_beam_4x4_Name:
  ENG: "Starfleet Heavy Phaser Drain Array"
 power_drain_phasor_beam_Desc:
  Id: 19067
- ENG: "A phaser array tuned to bleed power from the target, leaving it slower to fire and to recharge. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home."
+ ENG: "A long phaser array tuned, like the Starfleet lance, to overload a target's power grid rather than burn its hull."
 vul_particalPhasor_beam_mk2_Desc:
  Id: 19068
  ENG: "Two emitters set side by side, firing together. Of the Vulcan beam weapons, it does the most to armour, but fires the slowest."

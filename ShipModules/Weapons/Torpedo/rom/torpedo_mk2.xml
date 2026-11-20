@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>4</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Romulan Torpedo Launcher Mk2</Name>
+  <Name>Romulan Warbird Torpedo</Name>
   <Restrictions>O</Restrictions>
   <UID>torpedo_mk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/torpedo_mk2</IconTexturePath>
   <Mass>132</Mass>
   <HealthMax>13500</HealthMax>
-  <Description>A guided torpedo launcher: slow to reload, but every warhead hits hard. A product of the Star Empire: precise, secretive and made to be used by the patient. An improved model.</Description>
+  <Description>A larger torpedo for the warbirds, fired from tubes along the hull. Of the Romulan torpedo weapons, it fires the fastest, but carries the least ordnance.</Description>
   
   
   <PowerDraw>5</PowerDraw>

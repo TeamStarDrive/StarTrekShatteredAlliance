@@ -7,7 +7,7 @@
   <ModuleType>Turret</ModuleType>
   <XSize>3</XSize>
   <YSize>3</YSize>
-  <Name>Klingon Disruptor Cannon Mk2</Name>
+  <Name>Klingon Battle Cruiser Disruptor Cannon</Name>
   <Restrictions>O</Restrictions>
   <UID>Kling_DisruptorCannonMk2</UID> 
   <Version>2</Version>
@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/Kling_DisruptorCannonMk2</IconTexturePath>
   <Mass>21</Mass>
   <HealthMax>10760</HealthMax>
-  <Description>A rapid-fire energy cannon: shorter reach than a beam, but it hits hard. Forged for the Empire: loud, brutal and made to win glory. An improved model.</Description>
+  <Description>A heavier disruptor cannon, mounted on the battle cruisers of the Empire. Of the Klingon cannon weapons, it fires the slowest.</Description>
   <CrewRequired>12</CrewRequired>
   
   <PowerDraw>11</PowerDraw>

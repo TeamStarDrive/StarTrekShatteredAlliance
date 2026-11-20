@@ -34,7 +34,7 @@
   <FieldOfFire>60</FieldOfFire>
   <AccuracyPercent>0.98</AccuracyPercent>
   <!-- Description -->
-  <Description>A heavy disruptor cannon that throws a round to batter its target. Of the Klingon cannon weapons, it hits the hardest and reaches the farthest.</Description>
+  <Description>A heavy disruptor cannon that throws a round to batter its target. Of the Klingon cannon weapons, it reaches the farthest and does the most to shields, but fires the smallest salvos.</Description>
   
 
 </ShipModule>

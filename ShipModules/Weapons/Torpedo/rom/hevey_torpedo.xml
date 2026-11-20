@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>hevey_torpedo</Name>
+  <Name>Romulan Heavy Warbird Torpedo</Name>
   <Restrictions>O</Restrictions>
   <UID>hevey_torpedo</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/hevey_torpedo</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>19500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A heavy torpedo for the largest warbirds, kept for ships that do not care to be seen coming. Of the Romulan torpedo weapons, it fires the smallest salvos.</Description>
   
   
   <PowerDraw>5</PowerDraw>

@@ -6,7 +6,7 @@
   <XSize>4</XSize>
   <YSize>7</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Romulan Plasma Torpedo Launcher Mk2</Name>
+  <Name>Romulan Heavy Plasma Torpedo</Name>
   <Restrictions>O</Restrictions>
   <UID>plasma_torpedo_mk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/plasma_torpedo_mk2</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>28500</HealthMax>
-  <Description>A launcher for plasma torpedoes that burn through armour on impact. A product of the Star Empire: precise, secretive and made to be used by the patient. An improved model.</Description>
+  <Description>A heavier plasma torpedo for the great warbirds, the same weapon on a larger scale. Of the Romulan torpedo weapons, it hits the hardest and reaches the farthest, but fires the smallest salvos.</Description>
   
   
   <PowerDraw>5</PowerDraw>

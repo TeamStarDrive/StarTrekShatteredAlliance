@@ -13,7 +13,7 @@
   <XSize>3</XSize>
   <YSize>8</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>Starfleet Phaser Drain Array</Name>
+  <Name>Starfleet Power-Drain Phaser Array</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/Phasor_Beam_mk3</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>90</FieldOfFire>
 
   <!-- Description -->
-  <Description>A phaser array tuned to bleed power from the target, leaving it slower to fire and to recharge. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home.</Description>
+  <Description>A long phaser array tuned, like the Starfleet lance, to overload a target's power grid rather than burn its hull.</Description>
   
 
 </ShipModule>
