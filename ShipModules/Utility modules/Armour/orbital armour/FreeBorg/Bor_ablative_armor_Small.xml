@@ -32,7 +32,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Bor_ablative_armor_Small</Name>
+  <Name>Borg Hub Ablative Plating (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Bor_ablative_armor_Small</UID> 
   <Version>2</Version>
@@ -58,7 +58,7 @@
   <PlasmaResist>0.2</PlasmaResist>
 
   <!-- Description -->
-  <Description>Ablative platform plate that the Collective can regenerate and adapt.</Description>
+  <Description>Ablative plating for the nodes and hubs of the Collective. Drones replace it as it burns off. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Borg orbital plates of its size, it is the toughest and the best protected against beams, but the heaviest.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

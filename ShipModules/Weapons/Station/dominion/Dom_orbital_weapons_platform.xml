@@ -19,13 +19,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Dom_orbital_weapons_platform</Name>
+  <Name>Dominion Picket Polaron Platform</Name>
   <Restrictions>O</Restrictions>
   <UID>Dom_orbital_weapons_platform</UID>
   <IconTexturePath>Modules/orbital_weapons_platform</IconTexturePath>
   <Mass>29</Mass>
   <HealthMax>18603</HealthMax>
-  <Description>A heavy Dominion weapons platform for orbital defence, firing in a wide arc. Efficient, uncompromising and made to be obeyed.</Description>
+  <Description>A small polaron platform for the pickets on the border of Dominion space. Of the Dominion orbital cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
   
   
   <PowerDraw>10</PowerDraw>

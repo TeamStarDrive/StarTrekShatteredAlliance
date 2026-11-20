@@ -15,12 +15,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Rom_ArmoredShield4x4</Name>
+  <Name>Romulan Concealed Emitter Housing</Name>
   <IconTexturePath>Modules/ArmoredShield4x4</IconTexturePath>
   <Mass>144</Mass>
   <HealthMax>27500</HealthMax>
   
-  <Description>A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A large shield that gives heavy protection at a heavy power cost.</Description>
+  <Description>Emitters buried under hull plate, where an enemy cannot find them to shoot them. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>300</PowerDraw>

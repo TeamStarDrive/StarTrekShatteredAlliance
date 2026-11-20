@@ -26,12 +26,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Bor_advanced_crusier_sheaild</Name>
+  <Name>Borg Adaptive Shield Matrix</Name>
   <IconTexturePath>Modules/advanced_crusier_sheaild</IconTexturePath>
   <Mass>91</Mass>
   <HealthMax>50200</HealthMax>
   
-  <Description>A Borg adaptive shield: it learns the enemy's weapons and adapts to them. A large shield for cruisers that gives heavy protection at a heavy power cost.</Description>
+  <Description>The matrix samples the frequencies of enemy weapons and remodulates the shield grid to match them. "We are the Borg. You will be assimilated. Resistance is futile." (The Borg Collective, VOY: "Scorpion") Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Borg ship shields, size for size, it is the quickest to come back after being knocked down.</Description>
   
   
   <PowerDraw>200</PowerDraw>

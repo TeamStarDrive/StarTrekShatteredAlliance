@@ -15,13 +15,13 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Rom_Shield_10KW</Name>
+  <Name>Romulan D'deridex Deflector Grid</Name>
   <IconTexturePath>Modules/shield_3x3</IconTexturePath>
   <Mass>81</Mass>
   <HealthMax>14200</HealthMax>
   <PowerDraw>95</PowerDraw>
   
-  <Description>A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A large shield that gives heavy protection at a heavy power cost.</Description>
+  <Description>The deflector shields of the D'deridex-class warbird, with an artificial quantum singularity behind them. "Romulans. I'll be damned." (Benjamin Sisko, DS9: "By Inferno's Light") Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>200</PowerDraw>

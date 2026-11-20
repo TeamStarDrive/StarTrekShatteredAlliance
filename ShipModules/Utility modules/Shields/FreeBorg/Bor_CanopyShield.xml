@@ -13,12 +13,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Bor_CanopyShield</Name>
+  <Name>Borg Collective Canopy Field</Name>
   <IconTexturePath>Modules/shield_3x6</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>80188</HealthMax>
   
-  <Description>A Borg adaptive shield: it learns the enemy's weapons and adapts to them. A huge shield with high resistance and a wide protection radius, ideal for capital ships. Its power costs are enormous.</Description>
+  <Description>A canopy field drawn over a large vessel from many nodes at once, thinking and adapting as one. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Borg ship shields, size for size, it is the slowest to come back after being knocked down.</Description>
   
   
   <PowerDraw>900</PowerDraw>

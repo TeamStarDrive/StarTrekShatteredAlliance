@@ -15,13 +15,13 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Bor_Shield_10KW</Name>
+  <Name>Borg Cube Subspace Field</Name>
   <IconTexturePath>Modules/shield_3x3</IconTexturePath>
   <Mass>81</Mass>
   <HealthMax>14200</HealthMax>
   <PowerDraw>95</PowerDraw>
   
-  <Description>A Borg adaptive shield: it learns the enemy's weapons and adapts to them. A large shield that gives heavy protection at a heavy power cost.</Description>
+  <Description>The subspace field of a Borg cube. Varying the weapon frequency helps an enemy only for a short while. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>200</PowerDraw>

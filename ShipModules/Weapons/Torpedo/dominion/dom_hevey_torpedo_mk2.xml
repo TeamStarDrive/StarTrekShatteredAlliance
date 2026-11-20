@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Dominion Heavy Polaron Torpedo Launcher Mk2</Name>
+  <Name>Dominion Battleship Torpedo</Name>
   <Restrictions>O</Restrictions>
   <UID>dom_hevey_torpedo_mk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/hevey_torpedo_mk2</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>22500</HealthMax>
-  <Description>A heavy launcher for a large warhead on a long reload. Grown for the Founders: efficient, uncompromising and made to be obeyed. An improved model.</Description>
+  <Description>The heavy torpedo of the great battleships. Of the Dominion torpedo weapons, it is the cheapest for its size, but is the frailest for its size.</Description>
   
   
   <PowerDraw>5</PowerDraw>

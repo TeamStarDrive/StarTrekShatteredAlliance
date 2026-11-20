@@ -23,12 +23,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Dom_station_deflector_mk1</Name>
+  <Name>Dominion Garrison Station Deflector</Name>
   <IconTexturePath>Modules/station_deflector_mk1</IconTexturePath>
   <Mass>10000</Mass>
   <HealthMax>76188</HealthMax>
   
-  <Description>A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A deflector array for stations, with high resistance and a wide protection radius.</Description>
+  <Description>The deflector array of a Dominion garrison station. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Dominion station shields, size for size, it has the sturdiest housing, but draws the most power.</Description>
   
   
   <PowerDraw>1200</PowerDraw>

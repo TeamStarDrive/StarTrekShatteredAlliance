@@ -15,13 +15,13 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Dom_Shield_10KW</Name>
+  <Name>Dominion Battle Cruiser Deflector Grid</Name>
   <IconTexturePath>Modules/shield_3x3</IconTexturePath>
   <Mass>81</Mass>
   <HealthMax>14200</HealthMax>
   <PowerDraw>95</PowerDraw>
   
-  <Description>A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A large shield that gives heavy protection at a heavy power cost.</Description>
+  <Description>The deflector grid of the Dominion battle cruisers, which led the fleet at the Second Battle of Deep Space 9. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>200</PowerDraw>

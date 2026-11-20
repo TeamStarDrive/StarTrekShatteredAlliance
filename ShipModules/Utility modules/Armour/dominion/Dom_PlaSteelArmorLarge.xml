@@ -10,7 +10,7 @@
   <XSize>3</XSize>
   <YSize>3</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Dom_PlaSteelArmorLarge</Name>
+  <Name>Dominion Monac Yard Laminate (Large)</Name>
   <Restrictions>O</Restrictions>
   <UID>Dom_PlaSteelArmorLarge</UID> 
   <Version>2</Version>
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.08</ExplosiveResist>
   
   <!-- Description -->
-  <Description>A thin, strong laminate grown to a standard pattern: efficient and uncompromising.</Description>
+  <Description>A laminate rolled at the Monac shipyards, where the Dominion docked its fighters by the dozen. Some protection against explosions. Of the Dominion ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams.</Description>
   
 
 </ShipModule>

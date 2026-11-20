@@ -16,7 +16,7 @@
   <XSize>5</XSize>
   <YSize>5</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Bor_station_adv_torpedo_mk1</Name>
+  <Name>Borg Unimatrix Torpedo Battery</Name>
   <Restrictions>O</Restrictions>
   <UID>Bor_station_adv_torpedo_mk1</UID> 
   <Version>2</Version>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_adv_torpedo_mk1</IconTexturePath>
   <Mass>14500</Mass>
   <HealthMax>84500</HealthMax>
-  <Description>An advanced gravimetric torpedo launcher for stations and platforms, with a bigger warhead and better guidance. It regenerates, and it will adapt to you.</Description>
+  <Description>A torpedo battery for a Unimatrix, built to hold off a fleet. Of the Borg orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size.</Description>
   
   
   <PowerDraw>5</PowerDraw>

@@ -20,7 +20,7 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Bor_large_polirised_orbital_armor</Name>
+    <Name>Borg Nodal Ring Plate (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>Bor_large_polirised_orbital_armor</UID> 
   <Version>2</Version>
@@ -41,6 +41,6 @@
     <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Polarised plate that the Collective adapts to the enemy's weapons.</Description>
+    <Description>Plate for the ring of a Borg node, holding its shape while the drones repair what the enemy has damaged. Strong protection against beams, plasma and explosions, good protection against kinetic rounds. Of the Borg orbital plates of its size, it is the lightest and the cheapest to build, but the most fragile.</Description>
     <APResist>1</APResist>
 </ShipModule>

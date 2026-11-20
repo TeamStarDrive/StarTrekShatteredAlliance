@@ -22,7 +22,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Bor_CompositeAlloys_Small</Name>
+  <Name>Borg Collective Composite Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Bor_CompositeAlloys_Small</UID> 
   <Version>2</Version>
@@ -48,7 +48,7 @@
   <ExplosiveResist>0.16</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Layered alloys fused by the Collective. It will adapt to the damage it takes.</Description>
+  <Description>Assimilated armour technology combined with alloys developed inside the Collective, layered by whatever the Collective weighs to be the most efficient. Good protection against explosions, some protection against kinetic rounds. Of the Borg ship plates of its size, it is the weakest against beams.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

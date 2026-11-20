@@ -32,7 +32,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Bor_Organic_cristal_Small</Name>
+  <Name>Borg Bio-Synthetic Crystal Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Bor_Organic_cristal_Small</UID> 
   <Version>2</Version>
@@ -58,7 +58,7 @@
     <PlasmaResist>0.5</PlasmaResist>
 
   <!-- Description -->
-  <Description>Crystal and tissue plate from assimilated technology: it repairs and adapts.</Description>
+  <Description>Crystal threaded with assimilated organic tissue, which the nanoprobes keep repairing from within. Strong protection against every kind of fire. Of the Borg orbital plates of its size, it is the lightest and the best protected against plasma, but the costliest to build.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

@@ -23,12 +23,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Dom_station_deflector_mk2</Name>
+  <Name>Dominion Founders' Fortress Deflector</Name>
   <IconTexturePath>Modules/station_deflector_mk2</IconTexturePath>
   <Mass>12000</Mass>
   <HealthMax>99188</HealthMax>
   
-  <Description>A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. An improved station deflector with higher resistance and a wide protection radius.</Description>
+  <Description>The deflector of the strongholds that guard the Founders' homeworld. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Dominion station shields, size for size, it recharges the fastest and covers the widest area, but is the costliest to build.</Description>
   
   
   <PowerDraw>1600</PowerDraw>

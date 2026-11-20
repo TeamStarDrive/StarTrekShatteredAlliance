@@ -22,7 +22,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Dom_freighter_sheaild</Name>
+  <Name>Dominion Convoy Deflector Generator</Name>
   <Restrictions>IO</Restrictions>
   <UID>Dom_freighter_sheaild</UID> 
   <Version>2</Version>
@@ -31,7 +31,7 @@
   <Mass>16</Mass>
   <HealthMax>2900</HealthMax>
   
-  <Description>A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A basic shield for freighters: short radius and a slow recharge.</Description>
+  <Description>A deflector generator for the supply convoys of the Gamma Quadrant, where the Karemma trade under the Dominion's eye. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Dominion ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
   
   
   <PowerDraw>15</PowerDraw>

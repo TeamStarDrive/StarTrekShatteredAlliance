@@ -11,7 +11,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Rom_Shield_1KW</Name>
+  <Name>Romulan Border Patrol Deflector</Name>
   <Restrictions>IO</Restrictions>
   <UID>Rom_Shield_1KW</UID> 
   <Version>2</Version>
@@ -20,7 +20,7 @@
   <Mass>36</Mass>
   <HealthMax>10100</HealthMax>
   
-  <Description>A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A very basic shield generator with a short protective radius and a slow recharge.</Description>
+  <Description>The deflector generator of the patrol ships that watch the Neutral Zone. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Romulan ship shields, size for size, it covers the narrowest area.</Description>
   
   
   <PowerDraw>45</PowerDraw>

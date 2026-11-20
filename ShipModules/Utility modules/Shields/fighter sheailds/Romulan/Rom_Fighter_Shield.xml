@@ -19,7 +19,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>1</YSize>
-  <Name>Rom_Fighter_Shield</Name>
+  <Name>Romulan Raider Cloak-Shield Emitter</Name>
   <Restrictions>IO</Restrictions>
   <UID>Rom_Fighter_Shield</UID> 
   <Version>2</Version>
@@ -28,7 +28,7 @@
   <Mass>9</Mass>
   <HealthMax>500</HealthMax>
   
-  <Description>A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A fighter shield with a decent radius that can only take a few hits, but recharges quickly.</Description>
+  <Description>A light emitter for raiders and scouts, tuned to cooperate with a cloaking device. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Romulan fighter shields, size for size, it draws the least power, but holds the least energy.</Description>
   
   
   <PowerDraw>20</PowerDraw>

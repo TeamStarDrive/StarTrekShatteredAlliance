@@ -10,7 +10,7 @@
   <XSize>2</XSize>
   <YSize>2</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Bor_SteelArmorMed</Name>
+  <Name>Borg Tritanium Cube Plate (Medium)</Name>
   <Restrictions>O</Restrictions>
   <UID>Bor_SteelArmorMed</UID> 
   <Version>2</Version>
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.04</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Plain metal plate fitted by drones: crude, but the Collective will improve it.</Description>
+  <Description>Plain tritanium alloy, the metal of the Borg cube. There is no ornament and no deck plan, only the hull, shaped to what the Collective needs. Gives almost no protection against fire; it is there to soak up damage. Of the Borg ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile.</Description>
   
 
 </ShipModule>

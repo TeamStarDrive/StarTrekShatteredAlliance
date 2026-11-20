@@ -23,7 +23,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>2</YSize>
-  <Name>Dom_transphasic_fighter_shealds</Name>
+  <Name>Dominion Phase-Shifted Emitter</Name>
   <Restrictions>IO</Restrictions>
   <UID>Dom_transphasic_fighter_shealds</UID> 
   <Version>2</Version>
@@ -32,7 +32,7 @@
   <Mass>12</Mass>
   <HealthMax>4800</HealthMax>
   
-  <Description>A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A fighter shield using transphasic technology, with high resistance and a quick recharge.</Description>
+  <Description>An emitter whose field shifts its phase, in the manner of the phased polaron beams the Dominion's own ships fire. Strong protection against beams and energy fire. Of the Dominion fighter shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
   
   
   <PowerDraw>60</PowerDraw>

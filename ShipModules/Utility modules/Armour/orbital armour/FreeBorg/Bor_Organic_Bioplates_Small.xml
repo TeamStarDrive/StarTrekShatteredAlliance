@@ -32,7 +32,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Bor_Organic_Bioplates_Small</Name>
+  <Name>Borg Regenerative Hull Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Bor_Organic_Bioplates_Small</UID> 
   <Version>2</Version>
@@ -58,7 +58,7 @@
     <ExplosiveResist>0.3</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Plates grown from assimilated tissue, which regenerate and adapt.</Description>
+  <Description>A regenerative hull, tended by nanoprobes. A cube can lose most of its mass and keep working, because its systems are decentralised and redundant. Strong protection against every kind of fire. Of the Borg orbital plates of its size, it is the lightest.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

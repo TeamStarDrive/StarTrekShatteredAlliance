@@ -19,7 +19,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>1</YSize>
-  <Name>Bor_Fighter_Shield</Name>
+  <Name>Borg Probe Adaptive Field</Name>
   <Restrictions>IO</Restrictions>
   <UID>Bor_Fighter_Shield</UID> 
   <Version>2</Version>
@@ -28,7 +28,7 @@
   <Mass>9</Mass>
   <HealthMax>500</HealthMax>
   
-  <Description>A Borg adaptive shield: it learns the enemy's weapons and adapts to them. A fighter shield with a decent radius that can only take a few hits, but recharges quickly.</Description>
+  <Description>The Borg have no energy shield in the usual sense. This is a subspace electromagnetic field that adjusts itself to the weapon that strikes it. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Borg fighter shields, size for size, it draws the least power, but holds the least energy.</Description>
   
   
   <PowerDraw>20</PowerDraw>

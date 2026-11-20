@@ -23,7 +23,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>2</YSize>
-  <Name>Rom_transphasic_fighter_shealds</Name>
+  <Name>Romulan Singularity-Fed Emitter</Name>
   <Restrictions>IO</Restrictions>
   <UID>Rom_transphasic_fighter_shealds</UID> 
   <Version>2</Version>
@@ -32,7 +32,7 @@
   <Mass>12</Mass>
   <HealthMax>4800</HealthMax>
   
-  <Description>A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A fighter shield using transphasic technology, with high resistance and a quick recharge.</Description>
+  <Description>An emitter fed from a tiny artificial singularity, with an unusual amount of power for its size. Strong protection against beams and energy fire. Of the Romulan fighter shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
   
   
   <PowerDraw>60</PowerDraw>

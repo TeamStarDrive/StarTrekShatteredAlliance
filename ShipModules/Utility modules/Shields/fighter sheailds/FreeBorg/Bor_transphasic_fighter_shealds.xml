@@ -23,7 +23,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>2</YSize>
-  <Name>Bor_transphasic_fighter_shealds</Name>
+  <Name>Borg Phase-Compression Field</Name>
   <Restrictions>IO</Restrictions>
   <UID>Bor_transphasic_fighter_shealds</UID> 
   <Version>2</Version>
@@ -32,7 +32,7 @@
   <Mass>12</Mass>
   <HealthMax>4800</HealthMax>
   
-  <Description>A Borg adaptive shield: it learns the enemy's weapons and adapts to them. A fighter shield using transphasic technology, with high resistance and a quick recharge.</Description>
+  <Description>The field records the phase compression pulse of an enemy weapon and remodulates to match it, with no delay the enemy can use. Strong protection against beams and energy fire. Of the Borg fighter shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
   
   
   <PowerDraw>60</PowerDraw>

@@ -23,12 +23,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Bor_station_deflector_mk1</Name>
+  <Name>Borg Hub Subspace Field</Name>
   <IconTexturePath>Modules/station_deflector_mk1</IconTexturePath>
   <Mass>10000</Mass>
   <HealthMax>76188</HealthMax>
   
-  <Description>A Borg adaptive shield: it learns the enemy's weapons and adapts to them. A deflector array for stations, with high resistance and a wide protection radius.</Description>
+  <Description>The field of a Borg hub, tuned against every frequency it has met so far. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Borg station shields, size for size, it has the sturdiest housing, but draws the most power.</Description>
   
   
   <PowerDraw>1200</PowerDraw>

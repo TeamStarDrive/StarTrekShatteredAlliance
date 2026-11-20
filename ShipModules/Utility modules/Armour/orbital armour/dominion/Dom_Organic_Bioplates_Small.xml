@@ -32,7 +32,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Dom_Organic_Bioplates_Small</Name>
+  <Name>Dominion Vat-Grown Organic Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Dom_Organic_Bioplates_Small</UID> 
   <Version>2</Version>
@@ -58,7 +58,7 @@
     <ExplosiveResist>0.3</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Plate grown from living material by the Founders, which regrows what is destroyed.</Description>
+  <Description>Plate grown to order in the Dominion's habit of breeding what it needs, the way it bred the Jem'Hadar, and left to mend itself. Strong protection against every kind of fire. Of the Dominion orbital plates of its size, it is the lightest.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

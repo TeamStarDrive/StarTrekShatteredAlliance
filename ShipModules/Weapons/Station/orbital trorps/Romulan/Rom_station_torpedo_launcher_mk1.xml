@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_torpedo_launcher_mk1</IconTexturePath>
   <Mass>19500</Mass>
   <HealthMax>60500</HealthMax>
-  <Description>A guided plasma torpedo launcher for stations and platforms. Precise, secretive and made to be used by the patient.</Description>
+  <Description>A torpedo launcher for a Romulan station, kept loaded. Of the Romulan orbital torpedo weapons, it fires the fastest, but has the slowest shots.</Description>
   
   
   <PowerDraw>5</PowerDraw>

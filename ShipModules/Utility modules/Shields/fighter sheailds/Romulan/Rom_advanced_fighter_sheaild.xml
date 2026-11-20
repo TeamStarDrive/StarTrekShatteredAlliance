@@ -21,7 +21,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>1</YSize>
-  <Name>Rom_advanced_fighter_sheaild</Name>
+  <Name>Romulan Cloak-Locked Emitter</Name>
   <Restrictions>IO</Restrictions>
   <UID>Rom_advanced_fighter_sheaild</UID> 
   <Version>2</Version>
@@ -30,7 +30,7 @@
   <Mass>10</Mass>
   <HealthMax>1500</HealthMax>
   
-  <Description>A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. An improved fighter shield with a decent radius that recharges quickly.</Description>
+  <Description>An emitter locked to the cloak, so that raising or dropping one does not leave a gap in the other. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Romulan fighter shields, size for size, it recharges the fastest, but draws the most power.</Description>
   
   
   <PowerDraw>30</PowerDraw>

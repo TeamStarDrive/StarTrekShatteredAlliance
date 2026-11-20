@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>7</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Borg Heavy Torpedo Launcher Mk2</Name>
+  <Name>Borg Cube Projectile Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>borg_hevey_torp_mk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/borg_hevey_torp_mk2</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>24500</HealthMax>
-  <Description>A heavy launcher for a large warhead on a long reload. Assimilated and adapted by the Collective: it regenerates, and it will adapt to you. An improved model.</Description>
+  <Description>The projectile launcher of a Borg cube. Of the Borg missile weapons, it hits the hardest and reaches the farthest, but fires the slowest.</Description>
   
   
   <PowerDraw>5</PowerDraw>

@@ -22,7 +22,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Rom_freighter_sheaild</Name>
+  <Name>Romulan Convoy Deflector Generator</Name>
   <Restrictions>IO</Restrictions>
   <UID>Rom_freighter_sheaild</UID> 
   <Version>2</Version>
@@ -31,7 +31,7 @@
   <Mass>16</Mass>
   <HealthMax>2900</HealthMax>
   
-  <Description>A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A basic shield for freighters: short radius and a slow recharge.</Description>
+  <Description>A deflector generator for convoys, which in the Star Empire often carry cargo that is not for casual eyes. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Romulan ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
   
   
   <PowerDraw>15</PowerDraw>

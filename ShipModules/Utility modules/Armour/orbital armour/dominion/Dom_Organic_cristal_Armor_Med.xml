@@ -19,7 +19,7 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Dom_Organic_cristal_Armor_Med</Name>
+    <Name>Dominion Gamma Crystal Bioplate (Medium)</Name>
     <Restrictions>O</Restrictions>
     <UID>Dom_Organic_cristal_Armor_Med</UID> 
   <Version>2</Version>
@@ -41,6 +41,6 @@
     <PlasmaResist>5</PlasmaResist>
 
     <!-- Description -->
-    <Description>Crystal plate grown with a living layer that regrows after damage.</Description>
+    <Description>Crystal grown through living tissue, a Gamma Quadrant answer to a problem the Alpha Quadrant solves with metal. Strong protection against kinetic rounds, beams, energy fire, plasma and explosions. Of the Dominion orbital plates of its size, it is the best protected against plasma and the best against armour-piercing rounds, but the costliest to build.</Description>
     <APResist>2</APResist>    
 </ShipModule>

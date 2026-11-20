@@ -9,7 +9,7 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Rom_CompositeAlloys_Large</Name>
+    <Name>Romulan Praetorate Composite Plate (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>Rom_CompositeAlloys_Large</UID> 
   <Version>2</Version>
@@ -31,6 +31,6 @@
     <ExplosiveResist>0.16</ExplosiveResist>
 
     <!-- Description -->
-    <Description>A layered composite of rare alloys. Strong, secretive and costly.</Description>
+    <Description>Layered alloys made to the exact specification of the Praetorate, with no allowance for anything less. Good protection against explosions, some protection against kinetic rounds. Of the Romulan ship plates of its size, it is the weakest against beams.</Description>
     <APResist>1</APResist>    
 </ShipModule>

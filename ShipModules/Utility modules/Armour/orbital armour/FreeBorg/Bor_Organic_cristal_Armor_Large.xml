@@ -20,7 +20,7 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Bor_Organic_cristal_Armor_Large</Name>
+    <Name>Borg Bio-Synthetic Crystal Plate (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>Bor_Organic_cristal_Armor_Large</UID> 
   <Version>2</Version>
@@ -42,6 +42,6 @@
     <PlasmaResist>0.7</PlasmaResist>
 
     <!-- Description -->
-    <Description>Crystal and tissue plate from assimilated technology: it repairs and adapts.</Description>
+    <Description>Crystal threaded with assimilated organic tissue, which the nanoprobes keep repairing from within. Strong protection against every kind of fire. Of the Borg orbital plates of its size, it is the best protected against energy fire and the best protected against kinetic rounds, but the costliest to build.</Description>
     <APResist>2</APResist>
 </ShipModule>

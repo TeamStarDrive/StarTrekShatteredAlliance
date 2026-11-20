@@ -22,12 +22,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Dom_TRANSPHASIC_OWP_SHEAILD</Name>
+  <Name>Dominion Phased Platform Shield</Name>
   <IconTexturePath>Modules/TRANSPHASIC_OWP_SHEAILD</IconTexturePath>
   <Mass>7000</Mass>
   <HealthMax>60188</HealthMax>
   
-  <Description>A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A transphasic shield for orbital weapon platforms, with very high resistance and a wide radius.</Description>
+  <Description>A phase-shifted shield for the defence platforms of the Dominion. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Dominion platform shields, size for size, it covers the widest area, but draws the most power.</Description>
   
   
   <PowerDraw>450</PowerDraw>

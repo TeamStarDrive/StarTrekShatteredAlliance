@@ -22,7 +22,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Dom_CompositeAlloys_Small</Name>
+  <Name>Dominion Vorta Composite Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Dom_CompositeAlloys_Small</UID> 
   <Version>2</Version>
@@ -48,7 +48,7 @@
   <ExplosiveResist>0.16</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Layered composite hull plate, grown in vast numbers for the Dominion's fleets.</Description>
+  <Description>Layered alloys made to a Vorta administrator's schedule, on which every plate arrives on time and no one asks why. Good protection against explosions, some protection against kinetic rounds. Of the Dominion ship plates of its size, it is the weakest against beams.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

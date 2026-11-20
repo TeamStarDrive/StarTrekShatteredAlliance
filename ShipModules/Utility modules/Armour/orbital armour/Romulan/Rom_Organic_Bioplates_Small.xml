@@ -32,7 +32,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Rom_Organic_Bioplates_Small</Name>
+  <Name>Romulan Reman Bioplate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Rom_Organic_Bioplates_Small</UID> 
   <Version>2</Version>
@@ -58,7 +58,7 @@
     <ExplosiveResist>0.3</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Plating with a living layer that repairs itself. Secretive, and not easy to copy.</Description>
+  <Description>Plate grown in the manner of the Remans, whose labour built much of the Empire, and mended by the same slow patience. Strong protection against every kind of fire. Of the Romulan orbital plates of its size, it is the lightest.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

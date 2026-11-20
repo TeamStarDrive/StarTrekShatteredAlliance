@@ -8,7 +8,7 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Bor_ablative_ship_armor_med</Name>
+    <Name>Borg Tactical Ablative Plate (Medium)</Name>
     <Restrictions>O</Restrictions>
     <UID>Bor_ablative_ship_armor_med</UID> 
   <Version>2</Version>
@@ -30,6 +30,6 @@
     <PlasmaResist>0.10</PlasmaResist>
 
     <!-- Description -->
-    <Description>Ablative plate that the Collective will regrow and adapt to the enemy.</Description>
+    <Description>Ablative hull armour of the kind fitted to long-range tactical vessels, built to be burned away so the structure beneath stays whole. Good protection against kinetic rounds, beams, energy fire and explosions, some protection against plasma. Of the Borg ship plates of its size, it is the toughest and the best protected against beams, but the heaviest.</Description>
     <APResist>2</APResist>    
 </ShipModule>

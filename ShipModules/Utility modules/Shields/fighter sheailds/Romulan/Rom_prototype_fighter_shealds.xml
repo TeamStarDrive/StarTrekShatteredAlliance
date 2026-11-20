@@ -21,7 +21,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>2</YSize>
-  <Name>Rom_prototype_fighter_shealds</Name>
+  <Name>Romulan Tal Shiar Test Emitter</Name>
   <Restrictions>IO</Restrictions>
   <UID>Rom_prototype_fighter_shealds</UID> 
   <Version>2</Version>
@@ -30,7 +30,7 @@
   <Mass>10</Mass>
   <HealthMax>2800</HealthMax>
   
-  <Description>A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A prototype fighter shield: powerful, but experimental.</Description>
+  <Description>A test emitter from the secret works of the Tal Shiar, whose results are not shared. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Romulan fighter shields, size for size, it is the quickest to come back after being knocked down and draws the least power.</Description>
   
   
   <PowerDraw>40</PowerDraw>

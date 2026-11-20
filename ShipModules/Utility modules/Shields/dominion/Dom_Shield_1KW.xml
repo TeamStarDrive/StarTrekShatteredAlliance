@@ -11,7 +11,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Dom_Shield_1KW</Name>
+  <Name>Dominion Border Patrol Deflector</Name>
   <Restrictions>IO</Restrictions>
   <UID>Dom_Shield_1KW</UID> 
   <Version>2</Version>
@@ -20,7 +20,7 @@
   <Mass>36</Mass>
   <HealthMax>10100</HealthMax>
   
-  <Description>A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A very basic shield generator with a short protective radius and a slow recharge.</Description>
+  <Description>The deflector generator of the Jem'Hadar patrols that watch the edges of Dominion space. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Dominion ship shields, size for size, it covers the narrowest area.</Description>
   
   
   <PowerDraw>45</PowerDraw>

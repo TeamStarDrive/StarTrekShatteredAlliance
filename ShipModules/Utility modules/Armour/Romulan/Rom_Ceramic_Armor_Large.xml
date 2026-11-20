@@ -9,7 +9,7 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Rom_Ceramic_Armor_Large</Name>
+    <Name>Romulan Verdant Ceramic Plate (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>Rom_Ceramic_Armor_Large</UID> 
   <Version>2</Version>
@@ -30,6 +30,6 @@
     <ExplosiveResist>0.12</ExplosiveResist>
 
     <!-- Description -->
-    <Description>A ceramic skin over duranium, tuned to turn aside energy weapons.</Description>
+    <Description>Ceramic armour in the green of the Star Empire, glazed smooth so that nothing catches the eye. Some protection against kinetic rounds and explosions. Of the Romulan ship plates of its size, it is the weakest against beams.</Description>
     <APResist>1</APResist>
 </ShipModule>

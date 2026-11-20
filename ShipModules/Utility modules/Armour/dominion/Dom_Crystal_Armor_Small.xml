@@ -22,7 +22,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Dom_Crystal_Armor_Small</Name>
+  <Name>Dominion Founders' Lattice Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Dom_Crystal_Armor_Small</UID> 
   <Version>2</Version>
@@ -48,7 +48,7 @@
   <PlasmaResist>0</PlasmaResist>
 
   <!-- Description -->
-  <Description>A crystalline hull layer grown to disperse incoming fire.</Description>
+  <Description>A crystal lattice whose maker is never named, in keeping with the Founders, who rarely let anyone see how they work. Good protection against explosions, some protection against kinetic rounds. Of the Dominion ship plates of its size, it is the best protected against kinetic rounds and the best protected against explosions, but the costliest to build.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

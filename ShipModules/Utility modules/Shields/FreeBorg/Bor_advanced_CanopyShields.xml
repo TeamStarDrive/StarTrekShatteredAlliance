@@ -13,12 +13,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Bor_advanced_CanopyShields</Name>
+  <Name>Borg Tactical Canopy Field</Name>
   <IconTexturePath>Modules/advanced_CanopyShields</IconTexturePath>
   <Mass>250</Mass>
   <HealthMax>99696</HealthMax>
   
-  <Description>A Borg adaptive shield: it learns the enemy's weapons and adapts to them. An improved canopy shield with higher resistance and a wide radius, for capital ships. Its power costs are enormous.</Description>
+  <Description>The canopy of a tactical cube, tuned to remodulate faster than a Federation crew can change its weapon frequency. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Borg ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
   
   
   <PowerDraw>1400</PowerDraw>

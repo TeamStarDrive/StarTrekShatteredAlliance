@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons</IconTexturePath>
   <Mass>5000</Mass>
   <HealthMax>18607</HealthMax>
-  <Description>A Plasma Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Precise, secretive and made to be used by the patient.</Description>
+  <Description>A fixed disruptor bank for an outpost. Of the Romulan orbital cannon weapons, it fires the slowest.</Description>
   
   
   <PowerDraw>15</PowerDraw>

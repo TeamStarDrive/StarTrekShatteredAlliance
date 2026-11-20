@@ -9,7 +9,7 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Rom_Crystal_Armor_Large</Name>
+    <Name>Romulan Tal Shiar Lattice Plate (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>Rom_Crystal_Armor_Large</UID> 
   <Version>2</Version>
@@ -31,6 +31,6 @@
     <PlasmaResist>0</PlasmaResist>
 
     <!-- Description -->
-    <Description>A fine crystal lattice that turns aside energy weapons. Beautiful and very precise.</Description>
+    <Description>A crystal lattice from the secret works of the Tal Shiar, which does not say what it is made of. Good protection against explosions, some protection against kinetic rounds. Of the Romulan ship plates of its size, it is the best against armour-piercing rounds, but the heaviest.</Description>
     <APResist>2</APResist>
 </ShipModule>

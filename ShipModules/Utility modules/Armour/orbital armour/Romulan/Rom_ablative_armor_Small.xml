@@ -32,7 +32,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Rom_ablative_armor_Small</Name>
+  <Name>Romulan Outpost Ablative Plating (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Rom_ablative_armor_Small</UID> 
   <Version>2</Version>
@@ -58,7 +58,7 @@
   <PlasmaResist>0.2</PlasmaResist>
 
   <!-- Description -->
-  <Description>Ablative platform plating that absorbs fire before the real defences are tested.</Description>
+  <Description>Ablative plating for the outposts along the Neutral Zone, where a quiet watch can end in a sudden fight. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Romulan orbital plates of its size, it is the toughest and the best protected against beams, but the heaviest.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

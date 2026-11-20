@@ -10,7 +10,7 @@
   <XSize>2</XSize>
   <YSize>2</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Dom_SteelArmorMed</Name>
+  <Name>Dominion Jem'Hadar Hull Plate (Medium)</Name>
   <Restrictions>O</Restrictions>
   <UID>Dom_SteelArmorMed</UID> 
   <Version>2</Version>
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.04</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Dense hull plate grown and rolled by the Dominion's industry: uniform, tough and made in vast numbers.</Description>
+  <Description>Heavy plate for the warships of the Jem'Hadar, who were bred for war and count comfort a weakness. "Remember: victory is life." (First Omet'iklan, DS9: "To the Death") Gives almost no protection against fire; it is there to soak up damage. Of the Dominion ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile.</Description>
   
 
 </ShipModule>

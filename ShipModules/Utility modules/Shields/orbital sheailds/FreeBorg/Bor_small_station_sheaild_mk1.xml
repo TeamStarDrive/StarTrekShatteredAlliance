@@ -23,12 +23,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Bor_small_station_sheaild_mk1</Name>
+  <Name>Borg Relay Subspace Field</Name>
   <IconTexturePath>Modules/small_station_sheaild_mk1</IconTexturePath>
   <Mass>9000</Mass>
   <HealthMax>56188</HealthMax>
   
-  <Description>A Borg adaptive shield: it learns the enemy's weapons and adapts to them. A shield for small stations, with high resistance and a wide protection radius.</Description>
+  <Description>A subspace field for relay structures, adapting to whatever is fired at them. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Borg station shields, size for size, it draws the least power and is the cheapest to build, but holds the least energy.</Description>
   
   
   <PowerDraw>900</PowerDraw>

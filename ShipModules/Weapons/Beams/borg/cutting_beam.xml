@@ -12,7 +12,7 @@
   <XSize>2</XSize>
   <YSize>3</YSize>
   <ModuleType>MainGun</ModuleType>
-  <Name>Borg Cutting Beam Mk1</Name>
+  <Name>Borg Drone Cutting Beam</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/cutting_beam</IconTexturePath>3
@@ -33,7 +33,7 @@
   <WeaponType>cutting_beam</WeaponType>
   <FieldOfFire>15</FieldOfFire>
   <!-- Description -->
-  <Description>A continuous beam that carves through hull plating. Assimilated and adapted by the Collective: it regenerates, and it will adapt to you.</Description>
+  <Description>A high-energy cutting beam, the tool a drone uses to slice into a ship for assimilation. Of the Borg beam weapons, it hits the softest.</Description>
   
 
 </ShipModule>

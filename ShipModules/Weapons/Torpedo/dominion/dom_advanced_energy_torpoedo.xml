@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>4</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Dominion Advanced Polaron Torpedo Launcher Mk1</Name>
+  <Name>Dominion Phased Energy Torpedo</Name>
   <Restrictions>O</Restrictions>
   <UID>dom_advanced_energy_torpoedo</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/advanced_energy_torpoedo</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>18500</HealthMax>
-  <Description>An improved energy torpedo launcher with a bigger warhead and better guidance. Grown for the Founders: efficient, uncompromising and made to be obeyed.</Description>
+  <Description>A torpedo whose warhead is phased in the manner of the Dominion's beams.</Description>
   
   
   <PowerDraw>5</PowerDraw>

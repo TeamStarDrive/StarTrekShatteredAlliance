@@ -18,13 +18,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>5</XSize>
   <YSize>5</YSize>
-  <Name>Dom_orbital_cannons_mk4</Name>
+  <Name>Dominion Founders' Polaron Battery</Name>
   <Restrictions>O</Restrictions>
   <UID>Dom_orbital_cannons_mk4</UID>
   <IconTexturePath>Modules/orbital_cannons_mk4</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>58612</HealthMax>
-  <Description>A Polaron Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Efficient, uncompromising and made to be obeyed. An advanced late-generation model.</Description>
+  <Description>The largest battery of the strongholds that guard the Founders' homeworld. Of the Dominion orbital cannon weapons, it hits the hardest and reaches the farthest.</Description>
   
   
   <PowerDraw>60</PowerDraw>

@@ -16,7 +16,7 @@
   <XSize>5</XSize>
   <YSize>5</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Dom_station_adv_torpedo_mk1</Name>
+  <Name>Dominion Phased Torpedo Battery</Name>
   <Restrictions>O</Restrictions>
   <UID>Dom_station_adv_torpedo_mk1</UID> 
   <Version>2</Version>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_adv_torpedo_mk1</IconTexturePath>
   <Mass>14500</Mass>
   <HealthMax>84500</HealthMax>
-  <Description>An advanced polaron torpedo launcher for stations and platforms, with a bigger warhead and better guidance. Efficient, uncompromising and made to be obeyed.</Description>
+  <Description>A battery of phased torpedoes, held in a protected magazine. Of the Dominion orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size.</Description>
   
   
   <PowerDraw>5</PowerDraw>

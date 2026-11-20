@@ -22,12 +22,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Bor_TRANSPHASIC_OWP_SHEAILD</Name>
+  <Name>Borg Phase-Compression Platform Field</Name>
   <IconTexturePath>Modules/TRANSPHASIC_OWP_SHEAILD</IconTexturePath>
   <Mass>7000</Mass>
   <HealthMax>60188</HealthMax>
   
-  <Description>A Borg adaptive shield: it learns the enemy's weapons and adapts to them. A transphasic shield for orbital weapon platforms, with very high resistance and a wide radius.</Description>
+  <Description>A platform field that records the phase compression pulse of enemy weapons and remodulates against them. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Borg platform shields, size for size, it covers the widest area, but draws the most power.</Description>
   
   
   <PowerDraw>450</PowerDraw>

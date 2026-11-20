@@ -33,7 +33,7 @@
   <WeaponType>borg_gravametric_distortion_beam</WeaponType>
   <FieldOfFire>360</FieldOfFire>
   <!-- Description -->
-  <Description>A heavy spinal beam that warps space around its target, tearing at the hull. Assimilated and adapted by the Collective: it regenerates, and it will adapt to you.</Description>
+  <Description>A beam that distorts the gravity around its target until the hull tears itself apart. Of the Borg beam weapons, it hits the hardest and fires the fastest, but does the least to shields.</Description>
   
 
 </ShipModule>

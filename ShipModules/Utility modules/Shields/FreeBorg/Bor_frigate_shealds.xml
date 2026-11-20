@@ -24,7 +24,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Bor_frigate_shealds</Name>
+  <Name>Borg Sphere Adaptive Field</Name>
   <Restrictions>IO</Restrictions>
   <UID>Bor_frigate_shealds</UID> 
   <Version>2</Version>
@@ -33,7 +33,7 @@
   <Mass>46</Mass>
   <HealthMax>30100</HealthMax>
   
-  <Description>A Borg adaptive shield: it learns the enemy's weapons and adapts to them. A basic shield for frigates: short radius and a slow recharge.</Description>
+  <Description>The adaptive field of a Borg sphere, which keeps remodulating while the ship works. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Borg ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build.</Description>
   
   
   <PowerDraw>120</PowerDraw>

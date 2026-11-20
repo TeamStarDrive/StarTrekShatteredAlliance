@@ -15,12 +15,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Bor_ArmoredShield4x4</Name>
+  <Name>Borg Hardened Emitter Node</Name>
   <IconTexturePath>Modules/ArmoredShield4x4</IconTexturePath>
   <Mass>144</Mass>
   <HealthMax>27500</HealthMax>
   
-  <Description>A Borg adaptive shield: it learns the enemy's weapons and adapts to them. A large shield that gives heavy protection at a heavy power cost.</Description>
+  <Description>Field emitters set in a hardened node, so the field can fall without the node falling with it. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>300</PowerDraw>

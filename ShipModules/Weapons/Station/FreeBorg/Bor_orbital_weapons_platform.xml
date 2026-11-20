@@ -19,13 +19,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Bor_orbital_weapons_platform</Name>
+  <Name>Borg Node Weapon Array</Name>
   <Restrictions>O</Restrictions>
   <UID>Bor_orbital_weapons_platform</UID>
   <IconTexturePath>Modules/orbital_weapons_platform</IconTexturePath>
   <Mass>29</Mass>
   <HealthMax>18603</HealthMax>
-  <Description>A heavy Borg weapons platform for orbital defence, firing in a wide arc. It regenerates, and it will adapt to you.</Description>
+  <Description>A weapon array for the nodes that guard the Collective's space. Of the Borg orbital cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
   
   
   <PowerDraw>10</PowerDraw>

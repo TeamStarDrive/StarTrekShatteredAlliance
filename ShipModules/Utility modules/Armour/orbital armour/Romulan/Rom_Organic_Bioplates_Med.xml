@@ -19,7 +19,7 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Rom_Organic_Bioplates_Med</Name>
+    <Name>Romulan Reman Bioplate (Medium)</Name>
     <Restrictions>O</Restrictions>
     <UID>Rom_Organic_Bioplates_Med</UID> 
   <Version>2</Version>
@@ -41,6 +41,6 @@
     <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Plating with a living layer that repairs itself. Secretive, and not easy to copy.</Description>
+    <Description>Plate grown in the manner of the Remans, whose labour built much of the Empire, and mended by the same slow patience. Strong protection against every kind of fire. Of the Romulan orbital plates of its size, it is the lightest, but the hardest to repair.</Description>
     <APResist>1</APResist>    
 </ShipModule>

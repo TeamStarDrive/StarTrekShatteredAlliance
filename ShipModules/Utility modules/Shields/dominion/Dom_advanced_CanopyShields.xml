@@ -13,12 +13,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Dom_advanced_CanopyShields</Name>
+  <Name>Dominion Vorta Command Canopy</Name>
   <IconTexturePath>Modules/advanced_CanopyShields</IconTexturePath>
   <Mass>250</Mass>
   <HealthMax>99696</HealthMax>
   
-  <Description>A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. An improved canopy shield with higher resistance and a wide radius, for capital ships. Its power costs are enormous.</Description>
+  <Description>The canopy of ships that carry a Vorta, with every emitter locked together so that the commander is the last thing left uncovered. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Dominion ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
   
   
   <PowerDraw>1400</PowerDraw>

@@ -21,7 +21,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>2</YSize>
-  <Name>Bor_prototype_fighter_shealds</Name>
+  <Name>Borg Prototype Sampling Field</Name>
   <Restrictions>IO</Restrictions>
   <UID>Bor_prototype_fighter_shealds</UID> 
   <Version>2</Version>
@@ -30,7 +30,7 @@
   <Mass>10</Mass>
   <HealthMax>2800</HealthMax>
   
-  <Description>A Borg adaptive shield: it learns the enemy's weapons and adapts to them. A prototype fighter shield: powerful, but experimental.</Description>
+  <Description>A low-power field that samples incoming fire to learn its frequency. It is still being tuned by the drones that built it. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Borg fighter shields, size for size, it is the quickest to come back after being knocked down and draws the least power.</Description>
   
   
   <PowerDraw>40</PowerDraw>

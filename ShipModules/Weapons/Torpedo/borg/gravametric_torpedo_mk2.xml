@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Borg Gravimetric Torpedo Launcher Mk2</Name>
+  <Name>Borg Heavy Gravimetric Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>gravametric_torpedo_mk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/gravametric_torpedo_mk2</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>26500</HealthMax>
-  <Description>A launcher for gravimetric torpedoes that crush the target's structure on impact. Assimilated and adapted by the Collective: it regenerates, and it will adapt to you. An improved model.</Description>
+  <Description>A heavier launcher for gravimetric torpedoes. Of the Borg gravimetric torpedo weapons, it is the cheapest for its size and has the fastest shots, but is the frailest for its size.</Description>
   
   
   <PowerDraw>5</PowerDraw>

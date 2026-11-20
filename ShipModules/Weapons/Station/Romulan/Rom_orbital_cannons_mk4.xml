@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons_mk4</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>58612</HealthMax>
-  <Description>A Plasma Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Precise, secretive and made to be used by the patient. An advanced late-generation model.</Description>
+  <Description>The largest battery of the fortresses that guard the Senate. Of the Romulan orbital cannon weapons, it hits the hardest and reaches the farthest.</Description>
   
   
   <PowerDraw>60</PowerDraw>

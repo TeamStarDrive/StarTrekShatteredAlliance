@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_adv_torpedo_mk1</IconTexturePath>
   <Mass>14500</Mass>
   <HealthMax>84500</HealthMax>
-  <Description>An advanced plasma torpedo launcher for stations and platforms, with a bigger warhead and better guidance. Precise, secretive and made to be used by the patient.</Description>
+  <Description>A battery of plasma torpedoes, held in a protected magazine. Of the Romulan orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size.</Description>
   
   
   <PowerDraw>5</PowerDraw>

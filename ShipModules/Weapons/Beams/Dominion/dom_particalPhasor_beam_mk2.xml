@@ -13,7 +13,7 @@
   <XSize>2</XSize>
   <YSize>3</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>Dominion Polaron Beam Mk2</Name>
+  <Name>Dominion Phased Polaron Bank</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/particalPhasor_beam_mk2</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>15</FieldOfFire>
 
   <!-- Description -->
-  <Description>A directed-energy beam array: a steady beam that tracks its target and recharges quickly. Grown for the Founders: efficient, uncompromising and made to be obeyed. An improved model.</Description>
+  <Description>A bank of phased polaron emitters, the standard ship weapon of the Dominion. Of the Dominion beam weapons, it fires the slowest.</Description>
   
 
 </ShipModule>

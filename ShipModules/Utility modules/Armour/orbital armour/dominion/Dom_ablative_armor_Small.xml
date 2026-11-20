@@ -32,7 +32,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Dom_ablative_armor_Small</Name>
+  <Name>Dominion Ketracel Depot Ablative Plating (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Dom_ablative_armor_Small</UID> 
   <Version>2</Version>
@@ -58,7 +58,7 @@
   <PlasmaResist>0.2</PlasmaResist>
 
   <!-- Description -->
-  <Description>Ablative station plating that is replaced rather than mended.</Description>
+  <Description>Ablative plating for the depots that store ketracel-white, the one cargo the Dominion cannot afford to lose. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Dominion orbital plates of its size, it is the toughest and the best protected against beams, but the heaviest.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

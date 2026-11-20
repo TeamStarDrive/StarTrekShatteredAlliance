@@ -22,12 +22,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Rom_TRANSPHASIC_OWP_SHEAILD</Name>
+  <Name>Romulan Border Platform Shield</Name>
   <IconTexturePath>Modules/TRANSPHASIC_OWP_SHEAILD</IconTexturePath>
   <Mass>7000</Mass>
   <HealthMax>60188</HealthMax>
   
-  <Description>A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. A transphasic shield for orbital weapon platforms, with very high resistance and a wide radius.</Description>
+  <Description>A shield for the defence platforms of the Romulan border. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Romulan platform shields, size for size, it covers the widest area, but draws the most power.</Description>
   
   
   <PowerDraw>450</PowerDraw>

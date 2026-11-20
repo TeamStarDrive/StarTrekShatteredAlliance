@@ -10,7 +10,7 @@
   <XSize>3</XSize>
   <YSize>3</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Rom_PlaSteelArmorLarge</Name>
+  <Name>Romulan Romulus Yard Laminate (Large)</Name>
   <Restrictions>O</Restrictions>
   <UID>Rom_PlaSteelArmorLarge</UID> 
   <Version>2</Version>
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.08</ExplosiveResist>
   
   <!-- Description -->
-  <Description>Layered tritanium laminate, light and precise, built so a ship can strike and be gone.</Description>
+  <Description>A laminate rolled at the shipyards of Romulus, in the sea-green tint that marks the Star Empire's hulls. Some protection against explosions. Of the Romulan ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams.</Description>
   
 
 </ShipModule>

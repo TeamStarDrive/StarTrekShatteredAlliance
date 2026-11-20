@@ -11,7 +11,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Bor_Shield_1KW</Name>
+  <Name>Borg Drone Subspace Field</Name>
   <Restrictions>IO</Restrictions>
   <UID>Bor_Shield_1KW</UID> 
   <Version>2</Version>
@@ -20,7 +20,7 @@
   <Mass>36</Mass>
   <HealthMax>10100</HealthMax>
   
-  <Description>A Borg adaptive shield: it learns the enemy's weapons and adapts to them. A very basic shield generator with a short protective radius and a slow recharge.</Description>
+  <Description>The standard field of a single drone vessel, adjusting to whatever weapon is turned on it. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Borg ship shields, size for size, it covers the narrowest area.</Description>
   
   
   <PowerDraw>45</PowerDraw>

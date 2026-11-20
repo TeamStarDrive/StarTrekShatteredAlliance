@@ -22,7 +22,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Bor_freighter_sheaild</Name>
+  <Name>Borg Transport Subspace Field</Name>
   <Restrictions>IO</Restrictions>
   <UID>Bor_freighter_sheaild</UID> 
   <Version>2</Version>
@@ -31,7 +31,7 @@
   <Mass>16</Mass>
   <HealthMax>2900</HealthMax>
   
-  <Description>A Borg adaptive shield: it learns the enemy's weapons and adapts to them. A basic shield for freighters: short radius and a slow recharge.</Description>
+  <Description>A minimal subspace field for transports and tenders. It adapts, but not far. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Borg ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
   
   
   <PowerDraw>15</PowerDraw>

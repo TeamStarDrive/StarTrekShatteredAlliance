@@ -22,7 +22,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Rom_ablative_ship_armor_Small</Name>
+  <Name>Romulan Raider Ablative Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Rom_ablative_ship_armor_Small</UID> 
   <Version>2</Version>
@@ -48,7 +48,7 @@
   <PlasmaResist>0.03</PlasmaResist>
 
   <!-- Description -->
-  <Description>Ablative layers that burn away to protect the hull: a ship that survives to strike again.</Description>
+  <Description>Ablative plate for the raiders of the Star Empire, made to be shed rather than repaired. Some protection against kinetic rounds, beams, energy fire and explosions. Of the Romulan ship plates of its size, it is the toughest and the best protected against beams, but the heaviest.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

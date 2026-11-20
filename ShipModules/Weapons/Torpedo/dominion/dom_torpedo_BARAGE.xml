@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>7</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Dominion Polaron Torpedo Barrage Launcher</Name>
+  <Name>Dominion Swarm Torpedo Barrage</Name>
   <Restrictions>O</Restrictions>
   <UID>dom_torpedo_BARAGE</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/torpedo_BARAGE</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>44500</HealthMax>
-  <Description>A launcher that fires a heavy salvo of torpedoes in one volley. Grown for the Founders: efficient, uncompromising and made to be obeyed.</Description>
+  <Description>A launcher that throws a great many torpedoes at once, the way the fighters themselves arrive: all together. Of the Dominion torpedo weapons, it fires the fastest and fires the largest salvos.</Description>
   
   
   <PowerDraw>5</PowerDraw>

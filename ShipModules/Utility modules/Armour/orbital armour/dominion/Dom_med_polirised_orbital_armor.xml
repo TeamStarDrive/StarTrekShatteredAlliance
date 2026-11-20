@@ -19,7 +19,7 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Dom_med_polirised_orbital_armor</Name>
+    <Name>Dominion Omarion Ring Plate (Medium)</Name>
     <Restrictions>O</Restrictions>
     <UID>Dom_med_polirised_orbital_armor</UID> 
   <Version>2</Version>
@@ -40,6 +40,6 @@
     <ExplosiveResist>0.12</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Polarised plating grown for the Founders' orbital stations.</Description>
+    <Description>Polarised plate for the rings of the stations in the Omarion Nebula, which hides the Founders' homeworld. Some protection against kinetic rounds and explosions. Of the Dominion orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile.</Description>
     <APResist>1</APResist>
 </ShipModule>

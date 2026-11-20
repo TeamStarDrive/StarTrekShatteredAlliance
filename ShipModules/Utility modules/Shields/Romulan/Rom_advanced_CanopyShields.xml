@@ -13,12 +13,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Rom_advanced_CanopyShields</Name>
+  <Name>Romulan Praetor's Canopy Array</Name>
   <IconTexturePath>Modules/advanced_CanopyShields</IconTexturePath>
   <Mass>250</Mass>
   <HealthMax>99696</HealthMax>
   
-  <Description>A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. An improved canopy shield with higher resistance and a wide radius, for capital ships. Its power costs are enormous.</Description>
+  <Description>The canopy of the Praetor's own ships, with every emitter locked together. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Romulan ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
   
   
   <PowerDraw>1400</PowerDraw>

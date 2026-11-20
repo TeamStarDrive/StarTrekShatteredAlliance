@@ -18,13 +18,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>3</XSize>
   <YSize>3</YSize>
-  <Name>Dom_orbital_cannons_mk1</Name>
+  <Name>Dominion Station Polaron Cannon</Name>
   <Restrictions>O</Restrictions>
   <UID>Dom_orbital_cannons_mk1</UID>
   <IconTexturePath>Modules/orbital_cannons_mk1</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>18609</HealthMax>
-  <Description>A Polaron Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Efficient, uncompromising and made to be obeyed.</Description>
+  <Description>A heavy polaron cannon for a station's ring. Of the Dominion orbital cannon weapons, it has the fastest shots, but fires the slowest.</Description>
   
   
   <PowerDraw>20</PowerDraw>

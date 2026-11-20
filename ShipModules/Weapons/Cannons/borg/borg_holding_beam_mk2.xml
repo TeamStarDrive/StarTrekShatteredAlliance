@@ -7,7 +7,7 @@
   <ModuleType>Turret</ModuleType>
   <XSize>3</XSize>
   <YSize>3</YSize>
-  <Name>Borg Holding Beam Mk2</Name>
+  <Name>Borg Shield-Draining Tractor Beam</Name>
   <Restrictions>O</Restrictions>
   <UID>borg_holding_beam_mk2</UID> 
   <Version>2</Version>
@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/borg_holding_beam_mk2</IconTexturePath>
   <Mass>35</Mass>
   <HealthMax>15760</HealthMax>
-  <Description>A beam that locks onto a ship and holds it, hampering its movement while the fleet closes in. Assimilated and adapted by the Collective: it regenerates, and it will adapt to you. An improved model.</Description>
+  <Description>A tractor beam tuned to drain the shields of the ship it holds, even a Galaxy-class ship.</Description>
   <CrewRequired>12</CrewRequired>
   
   <PowerDraw>10</PowerDraw>

@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>4</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Dominion Polaron Torpedo Launcher Mk2</Name>
+  <Name>Dominion Jem'Hadar Torpedo Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>dom_energy_torpedo_mk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/energy_torpedo_mk2</IconTexturePath>
   <Mass>132</Mass>
   <HealthMax>13500</HealthMax>
-  <Description>A guided launcher for energy torpedoes: slow to reload, but each warhead hits hard. Grown for the Founders: efficient, uncompromising and made to be obeyed. An improved model.</Description>
+  <Description>A launcher for the torpedoes of the Jem'Hadar, fired in volleys when the fighters close in. Of the Dominion torpedo weapons, it carries the least ordnance.</Description>
   
   
   <PowerDraw>5</PowerDraw>

@@ -7,14 +7,14 @@
   <YSize>5</YSize>
   <Restrictions>IO</Restrictions>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Dominion Polaron Torpedo Bomb Launcher Mk1</Name>
+  <Name>Dominion Siege Torpedo</Name>
   <UID>dom_torpedo_bomb_mk1</UID> 
   <Version>2</Version>
 
   <IconTexturePath>Modules/torpedo_bomb_mk1</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>16500</HealthMax>
-  <Description>A short-range launcher for a heavy warhead, best used in close. Grown for the Founders: efficient, uncompromising and made to be obeyed.</Description>
+  <Description>A single enormous warhead for stations and fixed positions, not for ships that can move. Of the Dominion torpedo weapons, it hits the hardest and has the widest blast, but fires the smallest salvos.</Description>
   
   
   <PowerDraw>20</PowerDraw>

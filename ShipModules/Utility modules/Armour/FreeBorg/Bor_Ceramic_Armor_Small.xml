@@ -22,7 +22,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Bor_Ceramic_Armor_Small</Name>
+  <Name>Borg Assimilated Ceramic Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Bor_Ceramic_Armor_Small</UID> 
   <Version>2</Version>
@@ -47,7 +47,7 @@
   <ExplosiveResist>0.12</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Ceramic plating that the Collective assimilated and adapted to resist energy fire.</Description>
+  <Description>Ceramic armour taken from the ships of assimilated species, its lattice rebuilt to Collective standards. Some protection against kinetic rounds and explosions. Of the Borg ship plates of its size, it is the weakest against beams.</Description>
   <APResist>1</APResist>
   
 

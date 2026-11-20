@@ -16,7 +16,7 @@
   <XSize>5</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Dom_station_hevey_torpedo_mk1</Name>
+  <Name>Dominion Great Torpedo Battery</Name>
   <Restrictions>O</Restrictions>
   <UID>Dom_station_hevey_torpedo_mk1</UID> 
   <Version>2</Version>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_hevey_torpedo_mk1</IconTexturePath>
   <Mass>14000</Mass>
   <HealthMax>70500</HealthMax>
-  <Description>A heavy polaron torpedo launcher for stations and platforms: a large warhead on a long reload. Efficient, uncompromising and made to be obeyed.</Description>
+  <Description>The heaviest torpedo battery of the Dominion. Of the Dominion orbital torpedo weapons, it hits the hardest and is the cheapest for its size, but fires the slowest.</Description>
   
   
   <PowerDraw>5</PowerDraw>

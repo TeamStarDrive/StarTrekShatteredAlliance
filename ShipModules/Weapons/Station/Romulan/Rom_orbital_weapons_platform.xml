@@ -25,7 +25,7 @@
   <IconTexturePath>Modules/orbital_weapons_platform</IconTexturePath>
   <Mass>29</Mass>
   <HealthMax>18603</HealthMax>
-  <Description>A heavy Romulan weapons platform for orbital defence, firing in a wide arc. Precise, secretive and made to be used by the patient.</Description>
+  <Description>A disruptor array for the platforms that watch the Neutral Zone. Of the Romulan orbital cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
   
   
   <PowerDraw>10</PowerDraw>

@@ -10,7 +10,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Bor_PlaSteelArmorSmall</Name>
+  <Name>Borg Fabricated Alloy Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Bor_PlaSteelArmorSmall</UID> 
   <Version>2</Version>
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.08</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Tritanium plating fitted by the Collective: lightweight, and quick to repair.</Description>
+  <Description>Plate extruded by assimilated fabrication nodes. Drones lay it down in the pattern the Collective has judged the most efficient. Some protection against explosions. Of the Borg ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams.</Description>
   
 
 </ShipModule>

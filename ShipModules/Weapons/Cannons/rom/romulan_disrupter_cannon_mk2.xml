@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/romulan_disrupter_cannon_mk2</IconTexturePath>
   <Mass>15</Mass>
   <HealthMax>15975</HealthMax>
-  <Description>A rapid-fire energy cannon: shorter reach than a beam, but it hits hard. A product of the Star Empire: precise, secretive and made to be used by the patient. An improved model.</Description>
+  <Description>A heavier cannon, mounted on the larger warships. Of the Romulan cannon weapons, it fires the fastest and fires the largest salvos.</Description>
   
   
   <PowerDraw>4</PowerDraw>

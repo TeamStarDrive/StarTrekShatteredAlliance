@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/romulan_disrupter_cannon_mk3</IconTexturePath>
   <Mass>25</Mass>
   <HealthMax>26575</HealthMax>
-  <Description>A rapid-fire energy cannon: shorter reach than a beam, but it hits hard. A product of the Star Empire: precise, secretive and made to be used by the patient. A refined, later model.</Description>
+  <Description>A cannon for breaking the defences of a held position. Of the Romulan cannon weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
   
   
   <PowerDraw>4</PowerDraw>

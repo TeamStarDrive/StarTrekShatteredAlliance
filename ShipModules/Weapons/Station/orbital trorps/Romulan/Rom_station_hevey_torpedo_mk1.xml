@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_hevey_torpedo_mk1</IconTexturePath>
   <Mass>14000</Mass>
   <HealthMax>70500</HealthMax>
-  <Description>A heavy plasma torpedo launcher for stations and platforms: a large warhead on a long reload. Precise, secretive and made to be used by the patient.</Description>
+  <Description>The heaviest torpedo battery of the Star Empire. Of the Romulan orbital torpedo weapons, it hits the hardest and is the cheapest for its size, but fires the slowest.</Description>
   
   
   <PowerDraw>5</PowerDraw>

@@ -22,12 +22,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Rom_ORBITAL_SHEAILD_2X2_MK2</Name>
+  <Name>Romulan Cloaked Picket Field</Name>
   <IconTexturePath>Modules/ORBITAL_SHEAILD_2X2_MK2</IconTexturePath>
   <Mass>6000</Mass>
   <HealthMax>56188</HealthMax>
   
-  <Description>A Romulan shield array: precise and efficient, tuned to hold while the ship strikes. An improved orbital shield with higher resistance and a wide protection radius.</Description>
+  <Description>A picket field that works with a cloak, so a quiet post can wake into a fight. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Romulan platform shields, size for size, it is the lightest and the cheapest to build, but holds the least energy.</Description>
   
   
   <PowerDraw>450</PowerDraw>

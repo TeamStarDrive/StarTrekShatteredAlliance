@@ -22,7 +22,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Dom_ablative_ship_armor_Small</Name>
+  <Name>Dominion Attack Ship Ablative Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Dom_ablative_ship_armor_Small</UID> 
   <Version>2</Version>
@@ -48,7 +48,7 @@
   <PlasmaResist>0.03</PlasmaResist>
 
   <!-- Description -->
-  <Description>Ablative hull layers that absorb fire: replaced, not repaired.</Description>
+  <Description>Ablative plate for attack ships, made to burn away while the ship flies on, since the Dominion expects its crews to be spent as well. Some protection against kinetic rounds, beams, energy fire and explosions. Of the Dominion ship plates of its size, it is the toughest and the best protected against beams, but the heaviest.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

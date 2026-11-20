@@ -19,7 +19,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>1</YSize>
-  <Name>Dom_Fighter_Shield</Name>
+  <Name>Dominion Attack Ship Shield Emitter</Name>
   <Restrictions>IO</Restrictions>
   <UID>Dom_Fighter_Shield</UID> 
   <Version>2</Version>
@@ -28,7 +28,7 @@
   <Mass>9</Mass>
   <HealthMax>500</HealthMax>
   
-  <Description>A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A fighter shield with a decent radius that can only take a few hits, but recharges quickly.</Description>
+  <Description>A light emitter for Jem'Hadar attack ships, which go to war in swarms and expect to lose some of them. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Dominion fighter shields, size for size, it draws the least power, but holds the least energy.</Description>
   
   
   <PowerDraw>20</PowerDraw>

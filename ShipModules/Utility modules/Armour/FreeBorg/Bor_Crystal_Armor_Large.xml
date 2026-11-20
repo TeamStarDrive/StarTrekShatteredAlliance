@@ -9,7 +9,7 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Bor_Crystal_Armor_Large</Name>
+    <Name>Borg Nanoprobe Lattice Plate (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>Bor_Crystal_Armor_Large</UID> 
   <Version>2</Version>
@@ -31,6 +31,6 @@
     <PlasmaResist>0</PlasmaResist>
 
     <!-- Description -->
-    <Description>A crystal lattice plate that the Collective has adapted to defeat the weapons that fired at it.</Description>
+    <Description>A crystalline lattice grown by nanoprobes, which lay the atoms down along the lines of the hull stress. Good protection against explosions, some protection against kinetic rounds. Of the Borg ship plates of its size, it is the best against armour-piercing rounds, but the heaviest.</Description>
     <APResist>2</APResist>
 </ShipModule>
