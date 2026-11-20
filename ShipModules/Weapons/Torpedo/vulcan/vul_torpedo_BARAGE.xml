@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>7</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Vulcan Torpedo Barrage Launcher</Name>
+  <Name>Vulcan Photonic Barrage Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>vul_torpedo_BARAGE</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/torpedo_BARAGE</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>44500</HealthMax>
-  <Description>A launcher that fires a heavy salvo of torpedoes in one volley. Engineered with Vulcan logic: precise, efficient and without waste.</Description>
+  <Description>A launcher that fires a barrage of torpedoes in one volley, spaced by calculation. Of the Vulcan torpedo weapons, it fires the fastest and fires the largest salvos.</Description>
   
   
   <PowerDraw>5</PowerDraw>

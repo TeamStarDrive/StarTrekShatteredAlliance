@@ -16,7 +16,7 @@
   <XSize>5</XSize>
   <YSize>5</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Vul_station_adv_torpedo_mk1</Name>
+  <Name>Vulcan Photonic Torpedo Battery</Name>
   <Restrictions>O</Restrictions>
   <UID>Vul_station_adv_torpedo_mk1</UID> 
   <Version>2</Version>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_adv_torpedo_mk1</IconTexturePath>
   <Mass>14500</Mass>
   <HealthMax>84500</HealthMax>
-  <Description>An advanced photon torpedo launcher for stations and platforms, with a bigger warhead and better guidance. Precise, efficient and without waste.</Description>
+  <Description>A battery of photonic torpedoes, held in a protected magazine. Of the Vulcan orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size.</Description>
   
   
   <PowerDraw>5</PowerDraw>

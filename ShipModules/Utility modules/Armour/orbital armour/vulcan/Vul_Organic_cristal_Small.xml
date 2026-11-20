@@ -32,7 +32,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Vul_Organic_cristal_Small</Name>
+  <Name>Vulcan Kir'Shara Crystal Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Vul_Organic_cristal_Small</UID> 
   <Version>2</Version>
@@ -58,7 +58,7 @@
     <PlasmaResist>0.5</PlasmaResist>
 
   <!-- Description -->
-  <Description>A crystalline plate with a biological repair layer, precise and efficient.</Description>
+  <Description>A bio-crystalline plate in a pattern recalling the Kir'Shara, the artefact that kept the teachings of Surak. Strong protection against every kind of fire. Of the Vulcan orbital plates of its size, it is the lightest and the best protected against plasma, but the costliest to build.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

@@ -15,13 +15,13 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Vul_Shield_10KW</Name>
+  <Name>Vulcan D'Kyr Deflector Grid</Name>
   <IconTexturePath>Modules/shield_3x3</IconTexturePath>
   <Mass>81</Mass>
   <HealthMax>14200</HealthMax>
   <PowerDraw>95</PowerDraw>
   
-  <Description>A Vulcan deflector array: logically tuned, efficient and without waste. A large shield that gives heavy protection at a heavy power cost.</Description>
+  <Description>The deflector grid of the D'Kyr-class, the High Command's cruiser. The Earth phase cannons of the day could not get through it. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>200</PowerDraw>

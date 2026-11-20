@@ -24,7 +24,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Vul_frigate_shealds</Name>
+  <Name>Vulcan Suurok Deflector Grid</Name>
   <Restrictions>IO</Restrictions>
   <UID>Vul_frigate_shealds</UID> 
   <Version>2</Version>
@@ -33,7 +33,7 @@
   <Mass>46</Mass>
   <HealthMax>30100</HealthMax>
   
-  <Description>A Vulcan deflector array: logically tuned, efficient and without waste. A basic shield for frigates: short radius and a slow recharge.</Description>
+  <Description>The deflector grid of the Suurok-class, the Vulcan science ship. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build.</Description>
   
   
   <PowerDraw>120</PowerDraw>

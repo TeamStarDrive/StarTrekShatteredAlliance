@@ -22,7 +22,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Vul_freighter_sheaild</Name>
+  <Name>Vulcan Merchant Deflector Generator</Name>
   <Restrictions>IO</Restrictions>
   <UID>Vul_freighter_sheaild</UID> 
   <Version>2</Version>
@@ -31,7 +31,7 @@
   <Mass>16</Mass>
   <HealthMax>2900</HealthMax>
   
-  <Description>A Vulcan deflector array: logically tuned, efficient and without waste. A basic shield for freighters: short radius and a slow recharge.</Description>
+  <Description>A restrained deflector generator for Vulcan merchant ships, enough to turn away debris. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
   
   
   <PowerDraw>15</PowerDraw>

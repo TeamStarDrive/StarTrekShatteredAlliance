@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Vulcan Advanced Energy Torpedo Launcher Mk2</Name>
+  <Name>Vulcan High-Yield Photonic Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>vul_advanced_energy_torpoedo_mk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/advanced_energy_torpoedo_mk2</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>28500</HealthMax>
-  <Description>An improved energy torpedo launcher with a bigger warhead and better guidance. Engineered with Vulcan logic: precise, efficient and without waste. An improved model.</Description>
+  <Description>A launcher for a high-yield energy torpedo, with a calculated charge. Of the Vulcan torpedo weapons, it reaches the farthest and has the fastest shots, but fires the slowest.</Description>
   
   
   <PowerDraw>5</PowerDraw>

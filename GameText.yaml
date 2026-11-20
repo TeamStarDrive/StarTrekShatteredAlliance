@@ -2601,52 +2601,52 @@ BB_Tech_dom_particalPhasor_beam_mk1:
  ENG: "A directed-energy beam array: a steady beam that tracks its target and recharges quickly. Grown for the Founders: efficient, uncompromising and made to be obeyed."
 BB_Tech_vul_particalPhasor_beam_mk1_Name:
  Id: 18883
- ENG: "Vulcan Pulse Phaser Beam Mk1"
+ ENG: "Vulcan Particle Beam Emitter"
 BB_Tech_vul_particalPhasor_beam_mk1:
  Id: 18884
- ENG: "A directed-energy beam array: a steady beam that tracks its target and recharges quickly. Engineered with Vulcan logic: precise, efficient and without waste."
+ ENG: "The particle beam emitter, the Vulcan answer to the phaser, firing a steady beam of charged particles. Of the Vulcan beam weapons, it fires the fastest and is the sturdiest for its size, but hits the softest."
 BB_Tech_vul_particalPhasor_beam_mk2_Name:
  Id: 18885
  ENG: "partical beem mk2"
 BB_Tech_vul_particalPhasor_beam_mk2:
  Id: 18886
- ENG: "Vulcan Pulse Phaser Beam Mk2"
+ ENG: "Vulcan Twin Particle Emitter"
 BB_Tech_vul_particalPhasor_beam_mk3_Name:
  Id: 18887
  ENG: "partical beem mk3"
 BB_Tech_vul_particalPhasor_beam_mk3:
  Id: 18888
- ENG: "A directed-energy beam array: a steady beam that tracks its target and recharges quickly. Engineered with Vulcan logic: precise, efficient and without waste. A refined, later model."
+ ENG: "The particle array of the ring ships, with one emitter forward, two ventral and two aft. Of the Vulcan beam weapons, it fires the slowest."
 BB_Tech_vul_particalPhasor_beam_mk4_Name:
  Id: 18889
- ENG: "Vulcan Pulse Phaser Beam Mk4"
+ ENG: "Vulcan D'Kyr Particle Array"
 BB_Tech_vul_particalPhasor_beam_mk4:
  Id: 18890
- ENG: "A directed-energy beam array: a steady beam that tracks its target and recharges quickly. Engineered with Vulcan logic: precise, efficient and without waste. An advanced late-generation model."
+ ENG: "The particle array of the D'Kyr-class, whose firepower exceeded the early Earth NX-class. Of the Vulcan beam weapons, it fires the slowest."
 BB_Tech_vul_particalPhasor_beam_mk5_Name:
  Id: 18891
- ENG: "Vulcan Pulse Phaser Beam Mk5"
+ ENG: "Vulcan Command Ship Particle Array"
 BB_Tech_vul_particalPhasor_beam_mk5:
  Id: 18892
- ENG: "A directed-energy beam array: a steady beam that tracks its target and recharges quickly. Engineered with Vulcan logic: precise, efficient and without waste. The most advanced model of the line."
+ ENG: "The heaviest particle array, for the High Command's command ships. Of the Vulcan beam weapons, it hits the hardest and reaches the farthest, but is the frailest for its size."
 BB_Tech_vul_phased_cannon_mk1_Name:
  Id: 18893
- ENG: "Vulcan Pulse Phaser Cannon Mk1"
+ ENG: "Vulcan Phased Cannon"
 BB_Tech_vul_phased_cannon_mk1:
  Id: 18894
- ENG: "A rapid-fire phased energy cannon: shorter reach than a beam, but it hits hard. Engineered with Vulcan logic: precise, efficient and without waste."
+ ENG: "A Vulcan phase cannon, firing a short, exact bolt of phased energy. Of the Vulcan cannon weapons, it is the sturdiest for its size, but hits the softest."
 BB_Tech_vul_phased_cannon_mk2_Name:
  Id: 18895
- ENG: "Vulcan Pulse Phaser Cannon Mk2"
+ ENG: "Vulcan Heavy Phased Cannon"
 BB_Tech_vul_phased_cannon_mk2:
  Id: 18896
- ENG: "A rapid-fire phased energy cannon: shorter reach than a beam, but it hits hard. Engineered with Vulcan logic: precise, efficient and without waste. An improved model."
+ ENG: "A heavier phase cannon, with a longer cycle between bolts. Of the Vulcan cannon weapons, it fires the fastest and fires the largest salvos."
 BB_Tech_vul_phased_cannon_mk3_Name:
  Id: 18897
- ENG: "Vulcan Pulse Phaser Cannon Mk3"
+ ENG: "Vulcan Pulsed Phase Cannon"
 BB_Tech_vul_phased_cannon_mk3:
  Id: 18898
- ENG: "A rapid-fire phased energy cannon: shorter reach than a beam, but it hits hard. Engineered with Vulcan logic: precise, efficient and without waste. A refined, later model."
+ ENG: "A phase cannon that fires in calculated pulses, each timed to the one before. Of the Vulcan cannon weapons, it hits the hardest and reaches the farthest, but is the frailest for its size."
 BB_Tech_dom_phased_cannon_mk1_Name:
  Id: 18899
  ENG: "Dominion Polaron Cannon Mk1"
@@ -3141,10 +3141,10 @@ power_drain_phasor_beam_Desc:
  ENG: "A phaser array tuned to bleed power from the target, leaving it slower to fire and to recharge. Built to Starfleet's standards: reliable, adaptable and meant to bring the crew home."
 vul_particalPhasor_beam_mk2_Desc:
  Id: 19068
- ENG: "A directed-energy beam array: a steady beam that tracks its target and recharges quickly. Engineered with Vulcan logic: precise, efficient and without waste. An improved model."
+ ENG: "Two emitters set side by side, firing together. Of the Vulcan beam weapons, it does the most to armour, but fires the slowest."
 vul_particalPhasor_beam_mk3_Name:
  Id: 19069
- ENG: "Vulcan Pulse Phaser Beam Mk3"
+ ENG: "Vulcan Ring Ship Particle Array"
 advanced_energy_torpoedo_Name:
  Id: 19070
  ENG: "Advanced Energy Torpedo Launcher Mk1"
@@ -3249,52 +3249,52 @@ torpedo_BARAGE_Desc:
  ENG: "A launcher that fires a heavy salvo of torpedoes in one volley."
 vul_advanced_energy_torpoedo_Name:
  Id: 19104
- ENG: "Vulcan Advanced Energy Torpedo Launcher Mk1"
+ ENG: "Vulcan Charged Photonic Launcher"
 vul_advanced_energy_torpoedo_Desc:
  Id: 19105
- ENG: "An improved energy torpedo launcher with a bigger warhead and better guidance. Engineered with Vulcan logic: precise, efficient and without waste."
+ ENG: "A launcher with a charged energy torpedo, tuned for greater effect."
 vul_advanced_energy_torpoedo_mk2_Name:
  Id: 19106
- ENG: "Vulcan Advanced Energy Torpedo Launcher Mk2"
+ ENG: "Vulcan High-Yield Photonic Launcher"
 vul_advanced_energy_torpoedo_mk2_Desc:
  Id: 19107
- ENG: "An improved energy torpedo launcher with a bigger warhead and better guidance. Engineered with Vulcan logic: precise, efficient and without waste. An improved model."
+ ENG: "A launcher for a high-yield energy torpedo, with a calculated charge. Of the Vulcan torpedo weapons, it reaches the farthest and has the fastest shots, but fires the slowest."
 vul_energy_torpedo_mk1_Name:
  Id: 19108
- ENG: "Vulcan Energy Torpedo Launcher Mk1"
+ ENG: "Vulcan Photonic Torpedo Launcher"
 vul_energy_torpedo_mk1_Desc:
  Id: 19109
- ENG: "A guided launcher for energy torpedoes: slow to reload, but each warhead hits hard. Engineered with Vulcan logic: precise, efficient and without waste."
+ ENG: "The standard launcher of Vulcan warships, firing an energy torpedo. Of the Vulcan torpedo weapons, it is the sturdiest for its size, but hits the softest."
 vul_energy_torpedo_mk2_Name:
  Id: 19110
- ENG: "Vulcan Energy Torpedo Launcher Mk2"
+ ENG: "Vulcan Twin Photonic Launcher"
 vul_energy_torpedo_mk2_Desc:
  Id: 19111
- ENG: "A guided launcher for energy torpedoes: slow to reload, but each warhead hits hard. Engineered with Vulcan logic: precise, efficient and without waste. An improved model."
+ ENG: "Two tubes, launching a pair of energy torpedoes. Of the Vulcan torpedo weapons, it carries the least ordnance."
 vul_hevey_torpedo_mk1_Name:
  Id: 19112
- ENG: "Vulcan Heavy Torpedo Launcher Mk1"
+ ENG: "Vulcan Heavy Photonic Launcher"
 vul_hevey_torpedo_mk1_Desc:
  Id: 19113
- ENG: "A heavy launcher for a large warhead on a long reload. Engineered with Vulcan logic: precise, efficient and without waste."
+ ENG: "A heavy launcher, for a warhead that can break a hull."
 vul_hevey_torpedo_mk2_Name:
  Id: 19114
- ENG: "Vulcan Heavy Torpedo Launcher Mk2"
+ ENG: "Vulcan Siege Photonic Launcher"
 vul_hevey_torpedo_mk2_Desc:
  Id: 19115
- ENG: "A heavy launcher for a large warhead on a long reload. Engineered with Vulcan logic: precise, efficient and without waste. An improved model."
+ ENG: "A heavier launcher still, meant for defended targets. Of the Vulcan torpedo weapons, it is the cheapest for its size, but is the frailest for its size."
 vul_torpedo_BARAGE_Name:
  Id: 19116
- ENG: "Vulcan Torpedo Barrage Launcher"
+ ENG: "Vulcan Photonic Barrage Launcher"
 vul_torpedo_BARAGE_Desc:
  Id: 19117
- ENG: "A launcher that fires a heavy salvo of torpedoes in one volley. Engineered with Vulcan logic: precise, efficient and without waste."
+ ENG: "A launcher that fires a barrage of torpedoes in one volley, spaced by calculation. Of the Vulcan torpedo weapons, it fires the fastest and fires the largest salvos."
 vul_torpedo_bomb_mk1_Name:
  Id: 19118
- ENG: "Vulcan Torpedo Bomb Launcher Mk1"
+ ENG: "Vulcan Photonic Bomb Launcher"
 vul_torpedo_bomb_mk1_Desc:
  Id: 19119
- ENG: "A short-range launcher for a heavy warhead, best used in close. Engineered with Vulcan logic: precise, efficient and without waste."
+ ENG: "A launcher for a torpedo bomb, a single heavy warhead. Of the Vulcan torpedo weapons, it hits the hardest and has the widest blast, but fires the smallest salvos."
 Ceramic_Armor_Small_Name:
  Id: 19120
  ENG: "Ceramic Armour (Small)"
@@ -3534,10 +3534,10 @@ Dom_Ceramic_Armor_Large_Desc:
  ENG: "A hard ceramic hull layer, grown to shed energy fire."
 Vul_Ceramic_Armor_Large_Name:
  Id: 30010
- ENG: "Vulcan Ceramic-Composite Plating (Large)"
+ ENG: "Vulcan Forge Ceramic Plate (Large)"
 Vul_Ceramic_Armor_Large_Desc:
  Id: 30011
- ENG: "A ceramic and composite plate with exact thermal tolerances."
+ ENG: "Ceramic fired in the heat of the Forge, the desert of Vulcan, and finished without a single flaw. Some protection against kinetic rounds and explosions. Of the Vulcan ship plates of its size, it is the weakest against beams."
 Bor_Ceramic_Armor_Large_Name:
  Id: 30012
  ENG: "Borg Ceramic Drone Plate (Large)"
@@ -3576,10 +3576,10 @@ Dom_Ceramic_Armor_Med_Desc:
  ENG: "A hard ceramic hull layer, grown to shed energy fire."
 Vul_Ceramic_Armor_Med_Name:
  Id: 30024
- ENG: "Vulcan Ceramic-Composite Plating (Medium)"
+ ENG: "Vulcan Forge Ceramic Plate (Medium)"
 Vul_Ceramic_Armor_Med_Desc:
  Id: 30025
- ENG: "A ceramic and composite plate with exact thermal tolerances."
+ ENG: "Ceramic fired in the heat of the Forge, the desert of Vulcan, and finished without a single flaw. Some protection against kinetic rounds and explosions. Of the Vulcan ship plates of its size, it is the weakest against beams."
 Bor_Ceramic_Armor_Med_Name:
  Id: 30026
  ENG: "Borg Ceramic Drone Plate (Medium)"
@@ -3618,10 +3618,10 @@ Dom_Ceramic_Armor_Small_Desc:
  ENG: "A hard ceramic hull layer, grown to shed energy fire."
 Vul_Ceramic_Armor_Small_Name:
  Id: 30038
- ENG: "Vulcan Ceramic-Composite Plating (Small)"
+ ENG: "Vulcan Forge Ceramic Plate (Small)"
 Vul_Ceramic_Armor_Small_Desc:
  Id: 30039
- ENG: "A ceramic and composite plate with exact thermal tolerances."
+ ENG: "Ceramic fired in the heat of the Forge, the desert of Vulcan, and finished without a single flaw. Some protection against kinetic rounds and explosions. Of the Vulcan ship plates of its size, it is the weakest against beams."
 Bor_Ceramic_Armor_Small_Name:
  Id: 30040
  ENG: "Borg Ceramic Drone Plate (Small)"
@@ -3660,10 +3660,10 @@ Dom_CompositeAlloys_Large_Desc:
  ENG: "Layered composite hull plate, grown in vast numbers for the Dominion's fleets."
 Vul_CompositeAlloys_Large_Name:
  Id: 30052
- ENG: "Vulcan Composite Alloy Plating (Large)"
+ ENG: "Vulcan Logic Composite Plate (Large)"
 Vul_CompositeAlloys_Large_Desc:
  Id: 30053
- ENG: "Layered alloys bonded with logic: the strength-to-weight ratio is optimal."
+ ENG: "Alloys layered by calculation, each in the proportion the Science Academy has shown to be the most efficient. Good protection against explosions, some protection against kinetic rounds. Of the Vulcan ship plates of its size, it is the weakest against beams."
 Bor_CompositeAlloys_Large_Name:
  Id: 30054
  ENG: "Borg Composite Drone Plate (Large)"
@@ -3702,10 +3702,10 @@ Dom_CompositeAlloys_Med_Desc:
  ENG: "Layered composite hull plate, grown in vast numbers for the Dominion's fleets."
 Vul_CompositeAlloys_Med_Name:
  Id: 30066
- ENG: "Vulcan Composite Alloy Plating (Medium)"
+ ENG: "Vulcan Logic Composite Plate (Medium)"
 Vul_CompositeAlloys_Med_Desc:
  Id: 30067
- ENG: "Layered alloys bonded with logic: the strength-to-weight ratio is optimal."
+ ENG: "Alloys layered by calculation, each in the proportion the Science Academy has shown to be the most efficient. Good protection against explosions, some protection against kinetic rounds. Of the Vulcan ship plates of its size, it is the weakest against beams."
 Bor_CompositeAlloys_Med_Name:
  Id: 30068
  ENG: "Borg Composite Drone Plate (Medium)"
@@ -3744,10 +3744,10 @@ Dom_CompositeAlloys_Small_Desc:
  ENG: "Layered composite hull plate, grown in vast numbers for the Dominion's fleets."
 Vul_CompositeAlloys_Small_Name:
  Id: 30080
- ENG: "Vulcan Composite Alloy Plating (Small)"
+ ENG: "Vulcan Logic Composite Plate (Small)"
 Vul_CompositeAlloys_Small_Desc:
  Id: 30081
- ENG: "Layered alloys bonded with logic: the strength-to-weight ratio is optimal."
+ ENG: "Alloys layered by calculation, each in the proportion the Science Academy has shown to be the most efficient. Good protection against explosions, some protection against kinetic rounds. Of the Vulcan ship plates of its size, it is the weakest against beams."
 Bor_CompositeAlloys_Small_Name:
  Id: 30082
  ENG: "Borg Composite Drone Plate (Small)"
@@ -3786,10 +3786,10 @@ Dom_Crystal_Armor_Large_Desc:
  ENG: "A crystalline hull layer grown to disperse incoming fire."
 Vul_Crystal_Armor_Large_Name:
  Id: 30094
- ENG: "Vulcan Crystal Lattice Plating (Large)"
+ ENG: "Vulcan Precision Crystal Plate (Large)"
 Vul_Crystal_Armor_Large_Desc:
  Id: 30095
- ENG: "A precisely cut crystal lattice that disperses force with minimum mass."
+ ENG: "A crystal lattice grown to a calculated pattern, its facets aligned so that an impact is spread evenly through the plate. Good protection against explosions, some protection against kinetic rounds. Of the Vulcan ship plates of its size, it is the best against armour-piercing rounds, but the heaviest."
 Bor_Crystal_Armor_Large_Name:
  Id: 30096
  ENG: "Borg Crystal Drone Plate (Large)"
@@ -3828,10 +3828,10 @@ Dom_Crystal_Armor_Med_Desc:
  ENG: "A crystalline hull layer grown to disperse incoming fire."
 Vul_Crystal_Armor_Med_Name:
  Id: 30108
- ENG: "Vulcan Crystal Lattice Plating (Medium)"
+ ENG: "Vulcan Precision Crystal Plate (Medium)"
 Vul_Crystal_Armor_Med_Desc:
  Id: 30109
- ENG: "A precisely cut crystal lattice that disperses force with minimum mass."
+ ENG: "A crystal lattice grown to a calculated pattern, its facets aligned so that an impact is spread evenly through the plate. Good protection against explosions, some protection against kinetic rounds. Of the Vulcan ship plates of its size, it is the best protected against explosions and the best against armour-piercing rounds, but the costliest to build."
 Bor_Crystal_Armor_Med_Name:
  Id: 30110
  ENG: "Borg Crystal Drone Plate (Medium)"
@@ -3870,10 +3870,10 @@ Dom_Crystal_Armor_Small_Desc:
  ENG: "A crystalline hull layer grown to disperse incoming fire."
 Vul_Crystal_Armor_Small_Name:
  Id: 30122
- ENG: "Vulcan Crystal Lattice Plating (Small)"
+ ENG: "Vulcan Precision Crystal Plate (Small)"
 Vul_Crystal_Armor_Small_Desc:
  Id: 30123
- ENG: "A precisely cut crystal lattice that disperses force with minimum mass."
+ ENG: "A crystal lattice grown to a calculated pattern, its facets aligned so that an impact is spread evenly through the plate. Good protection against explosions, some protection against kinetic rounds. Of the Vulcan ship plates of its size, it is the best protected against kinetic rounds and the best protected against explosions, but the costliest to build."
 Bor_Crystal_Armor_Small_Name:
  Id: 30124
  ENG: "Borg Crystal Drone Plate (Small)"
@@ -3912,10 +3912,10 @@ Dom_PlaSteelArmorLarge_Desc:
  ENG: "A thin, strong laminate grown to a standard pattern: efficient and uncompromising."
 Vul_PlaSteelArmorLarge_Name:
  Id: 30136
- ENG: "Vulcan Tritanium Laminate Plate (Large)"
+ ENG: "Vulcan Ring Ship Laminate (Large)"
 Vul_PlaSteelArmorLarge_Desc:
  Id: 30137
- ENG: "Tritanium and polymer layers, balanced for strength against weight."
+ ENG: "A laminate for the great ring ships, the flattened conical hulls the High Command flew in the twenty-second century. Some protection against explosions. Of the Vulcan ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams."
 Bor_PlaSteelArmorLarge_Name:
  Id: 30138
  ENG: "Borg Tritanium Drone Plate (Large)"
@@ -3954,10 +3954,10 @@ Dom_PlaSteelArmorMed_Desc:
  ENG: "A thin, strong laminate grown to a standard pattern: efficient and uncompromising."
 Vul_PlaSteelArmorMed_Name:
  Id: 30150
- ENG: "Vulcan Tritanium Laminate Plate (Medium)"
+ ENG: "Vulcan Ring Ship Laminate (Medium)"
 Vul_PlaSteelArmorMed_Desc:
  Id: 30151
- ENG: "Tritanium and polymer layers, balanced for strength against weight."
+ ENG: "A laminate for the great ring ships, the flattened conical hulls the High Command flew in the twenty-second century. Some protection against explosions. Of the Vulcan ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams."
 Bor_PlaSteelArmorMed_Name:
  Id: 30152
  ENG: "Borg Tritanium Drone Plate (Medium)"
@@ -3996,10 +3996,10 @@ Dom_PlaSteelArmorSmall_Desc:
  ENG: "A thin, strong laminate grown to a standard pattern: efficient and uncompromising."
 Vul_PlaSteelArmorSmall_Name:
  Id: 30164
- ENG: "Vulcan Tritanium Laminate Plate (Small)"
+ ENG: "Vulcan Ring Ship Laminate (Small)"
 Vul_PlaSteelArmorSmall_Desc:
  Id: 30165
- ENG: "Tritanium and polymer layers, balanced for strength against weight."
+ ENG: "A laminate for the great ring ships, the flattened conical hulls the High Command flew in the twenty-second century. Some protection against explosions. Of the Vulcan ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams."
 Bor_PlaSteelArmorSmall_Name:
  Id: 30166
  ENG: "Borg Tritanium Drone Plate (Small)"
@@ -4038,10 +4038,10 @@ Dom_SteelArmorLarge_Desc:
  ENG: "Dense hull plate grown and rolled by the Dominion's industry: uniform, tough and made in vast numbers."
 Vul_SteelArmorLarge_Name:
  Id: 30178
- ENG: "Vulcan Vulcan Duranium Plate (Large)"
+ ENG: "Vulcan High Command Hull Plate (Large)"
 Vul_SteelArmorLarge_Desc:
  Id: 30179
- ENG: "Duranium plate cut to exact tolerances, with no wasted mass."
+ ENG: "Plain plate for the starships of the Vulcan High Command, cut to the exact dimensions the design calls for and nothing more. Gives almost no protection against fire; it is there to soak up damage. Of the Vulcan ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Bor_SteelArmorLarge_Name:
  Id: 30180
  ENG: "Borg Cortical Hull Plate (Large)"
@@ -4080,10 +4080,10 @@ Dom_SteelArmorMed_Desc:
  ENG: "Dense hull plate grown and rolled by the Dominion's industry: uniform, tough and made in vast numbers."
 Vul_SteelArmorMed_Name:
  Id: 30192
- ENG: "Vulcan Vulcan Duranium Plate (Medium)"
+ ENG: "Vulcan High Command Hull Plate (Medium)"
 Vul_SteelArmorMed_Desc:
  Id: 30193
- ENG: "Duranium plate cut to exact tolerances, with no wasted mass."
+ ENG: "Plain plate for the starships of the Vulcan High Command, cut to the exact dimensions the design calls for and nothing more. Gives almost no protection against fire; it is there to soak up damage. Of the Vulcan ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Bor_SteelArmorMed_Name:
  Id: 30194
  ENG: "Borg Cortical Hull Plate (Medium)"
@@ -4122,10 +4122,10 @@ Dom_SteelArmorSmall_Desc:
  ENG: "Dense hull plate grown and rolled by the Dominion's industry: uniform, tough and made in vast numbers."
 Vul_SteelArmorSmall_Name:
  Id: 30206
- ENG: "Vulcan Vulcan Duranium Plate (Small)"
+ ENG: "Vulcan High Command Hull Plate (Small)"
 Vul_SteelArmorSmall_Desc:
  Id: 30207
- ENG: "Duranium plate cut to exact tolerances, with no wasted mass."
+ ENG: "Plain plate for the starships of the Vulcan High Command, cut to the exact dimensions the design calls for and nothing more. Gives almost no protection against fire; it is there to soak up damage. Of the Vulcan ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Bor_SteelArmorSmall_Name:
  Id: 30208
  ENG: "Borg Cortical Hull Plate (Small)"
@@ -4164,10 +4164,10 @@ Dom_ablative_ship_armor_Small_Desc:
  ENG: "Ablative hull layers that absorb fire: replaced, not repaired."
 Vul_ablative_ship_armor_Small_Name:
  Id: 30220
- ENG: "Vulcan Ablative Armour Plating (Small)"
+ ENG: "Vulcan Combat Cruiser Ablative Plate (Small)"
 Vul_ablative_ship_armor_Small_Desc:
  Id: 30221
- ENG: "Ablative plating with calculated layer thickness for maximum protection."
+ ENG: "Ablative plate for the Vulcan combat cruisers, built to wear away under fire rather than fail. Some protection against kinetic rounds, beams, energy fire and explosions. Of the Vulcan ship plates of its size, it is the toughest and the best protected against beams, but the heaviest."
 Bor_ablative_ship_armor_Small_Name:
  Id: 30222
  ENG: "Borg Ablative Drone Plate (Small)"
@@ -4206,10 +4206,10 @@ Dom_ablative_ship_armor_large_Desc:
  ENG: "Ablative hull layers that absorb fire: replaced, not repaired."
 Vul_ablative_ship_armor_large_Name:
  Id: 30234
- ENG: "Vulcan Ablative Armour Plating (Large)"
+ ENG: "Vulcan Combat Cruiser Ablative Plate (Large)"
 Vul_ablative_ship_armor_large_Desc:
  Id: 30235
- ENG: "Ablative plating with calculated layer thickness for maximum protection."
+ ENG: "Ablative plate for the Vulcan combat cruisers, built to wear away under fire rather than fail. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Vulcan ship plates of its size, it is the toughest and the best protected against beams, but the costliest to build."
 Bor_ablative_ship_armor_large_Name:
  Id: 30236
  ENG: "Borg Ablative Drone Plate (Large)"
@@ -4248,10 +4248,10 @@ Dom_ablative_ship_armor_med_Desc:
  ENG: "Ablative hull layers that absorb fire: replaced, not repaired."
 Vul_ablative_ship_armor_med_Name:
  Id: 30248
- ENG: "Vulcan Ablative Armour Plating (Medium)"
+ ENG: "Vulcan Combat Cruiser Ablative Plate (Medium)"
 Vul_ablative_ship_armor_med_Desc:
  Id: 30249
- ENG: "Ablative plating with calculated layer thickness for maximum protection."
+ ENG: "Ablative plate for the Vulcan combat cruisers, built to wear away under fire rather than fail. Good protection against kinetic rounds, beams, energy fire and explosions, some protection against plasma. Of the Vulcan ship plates of its size, it is the toughest and the best protected against beams, but the heaviest."
 Bor_ablative_ship_armor_med_Name:
  Id: 30250
  ENG: "Borg Ablative Drone Plate (Medium)"
@@ -4263,7 +4263,7 @@ Fed_Organic_Bioplates_Large_Name:
  ENG: "Starfleet Regenerative Nanite Plating (Large)"
 Fed_Organic_Bioplates_Large_Desc:
  Id: 30253
- ENG: "Plate grown on a bio-neural substrate, a living gel that senses damage and lays down new material at the edge of a breach. The substrate is tuned to the ship's own power grid, and the plate knits itself whole between engagements. Strong protection against every kind of fire. Of the Starfleet orbital plates of its size, it is the best protected against explosions."
+ ENG: "Plate grown on a bio-neural substrate, a living gel that senses damage and lays down new material at the edge of a breach. The substrate is tuned to the ship's own power grid, and the plate knits itself whole between engagements. Strong protection against energy fire, plasma and explosions. Of the Starfleet orbital plates of its size, it is the most fragile."
 Kli_Organic_Bioplates_Large_Name:
  Id: 30254
  ENG: "Klingon Living Warrior Plate (Large)"
@@ -4290,10 +4290,10 @@ Dom_Organic_Bioplates_Large_Desc:
  ENG: "Plate grown from living material by the Founders, which regrows what is destroyed."
 Vul_Organic_Bioplates_Large_Name:
  Id: 30262
- ENG: "Vulcan Regenerative Bioplate (Large)"
+ ENG: "Vulcan Healing Trance Bioplate (Large)"
 Vul_Organic_Bioplates_Large_Desc:
  Id: 30263
- ENG: "A biological layer in the plating that restores damage with minimal waste."
+ ENG: "Plate that repairs itself in a slow, disciplined cycle, named for the healing trance in which a Vulcan mends injuries. Strong protection against every kind of fire. Of the Vulcan orbital plates of its size, it is the best protected against explosions."
 Bor_Organic_Bioplates_Large_Name:
  Id: 30264
  ENG: "Borg Assimilated Bioplates (Large)"
@@ -4332,10 +4332,10 @@ Dom_Organic_Bioplates_Med_Desc:
  ENG: "Plate grown from living material by the Founders, which regrows what is destroyed."
 Vul_Organic_Bioplates_Med_Name:
  Id: 30276
- ENG: "Vulcan Regenerative Bioplate (Medium)"
+ ENG: "Vulcan Healing Trance Bioplate (Medium)"
 Vul_Organic_Bioplates_Med_Desc:
  Id: 30277
- ENG: "A biological layer in the plating that restores damage with minimal waste."
+ ENG: "Plate that repairs itself in a slow, disciplined cycle, named for the healing trance in which a Vulcan mends injuries. Strong protection against every kind of fire. Of the Vulcan orbital plates of its size, it is the lightest, but the hardest to repair."
 Bor_Organic_Bioplates_Med_Name:
  Id: 30278
  ENG: "Borg Assimilated Bioplates (Medium)"
@@ -4374,10 +4374,10 @@ Dom_Organic_Bioplates_Small_Desc:
  ENG: "Plate grown from living material by the Founders, which regrows what is destroyed."
 Vul_Organic_Bioplates_Small_Name:
  Id: 30290
- ENG: "Vulcan Regenerative Bioplate (Small)"
+ ENG: "Vulcan Healing Trance Bioplate (Small)"
 Vul_Organic_Bioplates_Small_Desc:
  Id: 30291
- ENG: "A biological layer in the plating that restores damage with minimal waste."
+ ENG: "Plate that repairs itself in a slow, disciplined cycle, named for the healing trance in which a Vulcan mends injuries. Strong protection against every kind of fire. Of the Vulcan orbital plates of its size, it is the lightest."
 Bor_Organic_Bioplates_Small_Name:
  Id: 30292
  ENG: "Borg Assimilated Bioplates (Small)"
@@ -4389,7 +4389,7 @@ Fed_Organic_cristal_Armor_Large_Name:
  ENG: "Starfleet Regenerative Crystal Plating (Large)"
 Fed_Organic_cristal_Armor_Large_Desc:
  Id: 30295
- ENG: "A crystal lattice seeded on a bio-neural scaffold, which seals hairline cracks as they open. A trickle of power through the scaffold keeps the crystal growing back to its original pattern. Strong protection against every kind of fire. Of the Starfleet orbital plates of its size, it is the best protected against energy fire and the best protected against kinetic rounds, but the costliest to build."
+ ENG: "A crystal lattice seeded on a bio-neural scaffold, which seals hairline cracks as they open. A trickle of power through the scaffold keeps the crystal growing back to its original pattern. Strong protection against every kind of fire. Of the Starfleet orbital plates of its size, it is the best protected against beams and the best protected against energy fire, but the costliest to build."
 Kli_Organic_cristal_Armor_Large_Name:
  Id: 30296
  ENG: "Klingon Living Crystal Plate (Large)"
@@ -4416,10 +4416,10 @@ Dom_Organic_cristal_Armor_Large_Desc:
  ENG: "Crystal plate grown with a living layer that regrows after damage."
 Vul_Organic_cristal_Armor_Large_Name:
  Id: 30304
- ENG: "Vulcan Bio-Crystal Plating (Large)"
+ ENG: "Vulcan Kir'Shara Crystal Plate (Large)"
 Vul_Organic_cristal_Armor_Large_Desc:
  Id: 30305
- ENG: "A crystalline plate with a biological repair layer, precise and efficient."
+ ENG: "A bio-crystalline plate in a pattern recalling the Kir'Shara, the artefact that kept the teachings of Surak. Strong protection against every kind of fire. Of the Vulcan orbital plates of its size, it is the best protected against energy fire and the best protected against kinetic rounds, but the costliest to build."
 Bor_Organic_cristal_Armor_Large_Name:
  Id: 30306
  ENG: "Borg Assimilated Crystal Plate (Large)"
@@ -4458,10 +4458,10 @@ Dom_Organic_cristal_Armor_Med_Desc:
  ENG: "Crystal plate grown with a living layer that regrows after damage."
 Vul_Organic_cristal_Armor_Med_Name:
  Id: 30318
- ENG: "Vulcan Bio-Crystal Plating (Medium)"
+ ENG: "Vulcan Kir'Shara Crystal Plate (Medium)"
 Vul_Organic_cristal_Armor_Med_Desc:
  Id: 30319
- ENG: "A crystalline plate with a biological repair layer, precise and efficient."
+ ENG: "A bio-crystalline plate in a pattern recalling the Kir'Shara, the artefact that kept the teachings of Surak. Strong protection against kinetic rounds, beams, energy fire, plasma and explosions. Of the Vulcan orbital plates of its size, it is the best protected against plasma and the best against armour-piercing rounds, but the costliest to build."
 Bor_Organic_cristal_Armor_Med_Name:
  Id: 30320
  ENG: "Borg Assimilated Crystal Plate (Medium)"
@@ -4500,10 +4500,10 @@ Dom_Organic_cristal_Small_Desc:
  ENG: "Crystal plate grown with a living layer that regrows after damage."
 Vul_Organic_cristal_Small_Name:
  Id: 30332
- ENG: "Vulcan Bio-Crystal Plating (Small)"
+ ENG: "Vulcan Kir'Shara Crystal Plate (Small)"
 Vul_Organic_cristal_Small_Desc:
  Id: 30333
- ENG: "A crystalline plate with a biological repair layer, precise and efficient."
+ ENG: "A bio-crystalline plate in a pattern recalling the Kir'Shara, the artefact that kept the teachings of Surak. Strong protection against every kind of fire. Of the Vulcan orbital plates of its size, it is the lightest and the best protected against plasma, but the costliest to build."
 Bor_Organic_cristal_Small_Name:
  Id: 30334
  ENG: "Borg Assimilated Crystal Plate (Small)"
@@ -4542,10 +4542,10 @@ Dom_ablative_armor_Large_Desc:
  ENG: "Ablative station plating that is replaced rather than mended."
 Vul_ablative_armor_Large_Name:
  Id: 30346
- ENG: "Vulcan Ablative Station Plating (Large)"
+ ENG: "Vulcan Sentinel Ablative Plating (Large)"
 Vul_ablative_armor_Large_Desc:
  Id: 30347
- ENG: "Ablative plating for stations, with precise layer thickness."
+ ENG: "Ablative plating for the sentinel stations that watch Vulcan space, replaced by plan after an attack. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Vulcan orbital plates of its size, it is the toughest and the best protected against explosions, but the heaviest."
 Bor_ablative_armor_Large_Name:
  Id: 30348
  ENG: "Borg Ablative Platform Plate (Large)"
@@ -4584,10 +4584,10 @@ Dom_ablative_armor_Med_Desc:
  ENG: "Ablative station plating that is replaced rather than mended."
 Vul_ablative_armor_Med_Name:
  Id: 30360
- ENG: "Vulcan Ablative Station Plating (Medium)"
+ ENG: "Vulcan Sentinel Ablative Plating (Medium)"
 Vul_ablative_armor_Med_Desc:
  Id: 30361
- ENG: "Ablative plating for stations, with precise layer thickness."
+ ENG: "Ablative plating for the sentinel stations that watch Vulcan space, replaced by plan after an attack. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Vulcan orbital plates of its size, it is the toughest and the best protected against beams, but the costliest to build."
 Bor_ablative_armor_Med_Name:
  Id: 30362
  ENG: "Borg Ablative Platform Plate (Medium)"
@@ -4626,10 +4626,10 @@ Dom_ablative_armor_Small_Desc:
  ENG: "Ablative station plating that is replaced rather than mended."
 Vul_ablative_armor_Small_Name:
  Id: 30374
- ENG: "Vulcan Ablative Station Plating (Small)"
+ ENG: "Vulcan Sentinel Ablative Plating (Small)"
 Vul_ablative_armor_Small_Desc:
  Id: 30375
- ENG: "Ablative plating for stations, with precise layer thickness."
+ ENG: "Ablative plating for the sentinel stations that watch Vulcan space, replaced by plan after an attack. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Vulcan orbital plates of its size, it is the toughest and the best protected against beams, but the heaviest."
 Bor_ablative_armor_Small_Name:
  Id: 30376
  ENG: "Borg Ablative Platform Plate (Small)"
@@ -4641,7 +4641,7 @@ Fed_large_polirised_orbital_armor_Name:
  ENG: "Starfleet Polarised Hull Plating (Large)"
 Fed_large_polirised_orbital_armor_Desc:
  Id: 30379
- ENG: "Polarised plating, a current run through the hull to stiffen it against impact. It was in use before shields, and still guards the rings of starbases. Strong protection against beams, plasma and explosions, good protection against kinetic rounds. Of the Starfleet orbital plates of its size, it is the lightest and the cheapest to build, but the most fragile."
+ ENG: "Polarised plating, a current run through the hull to stiffen it against impact. It was in use before shields, and still guards the rings of starbases. Strong protection against beams, plasma and explosions, good protection against kinetic rounds. Of the Starfleet orbital plates of its size, it is the lightest and the cheapest to build, but the weakest against energy fire."
 Kli_large_polirised_orbital_armor_Name:
  Id: 30380
  ENG: "Klingon Polarised Fortress Plating (Large)"
@@ -4668,10 +4668,10 @@ Dom_large_polirised_orbital_armor_Desc:
  ENG: "Polarised plating grown for the Founders' orbital stations."
 Vul_large_polirised_orbital_armor_Name:
  Id: 30388
- ENG: "Vulcan Polarised Platform Plating (Large)"
+ ENG: "Vulcan Seleya Ring Plate (Large)"
 Vul_large_polirised_orbital_armor_Desc:
  Id: 30389
- ENG: "Polarised plating tuned to shed energy fire with no wasted effort."
+ ENG: "Polarised plate for the ring of a Vulcan station, tuned to hold its shape under load. Strong protection against beams, plasma and explosions, good protection against kinetic rounds. Of the Vulcan orbital plates of its size, it is the lightest and the cheapest to build, but the most fragile."
 Bor_large_polirised_orbital_armor_Name:
  Id: 30390
  ENG: "Borg Polarised Platform Plate (Large)"
@@ -4710,10 +4710,10 @@ Dom_med_polirised_orbital_armor_Desc:
  ENG: "Polarised plating grown for the Founders' orbital stations."
 Vul_med_polirised_orbital_armor_Name:
  Id: 30402
- ENG: "Vulcan Polarised Platform Plating (Medium)"
+ ENG: "Vulcan Seleya Ring Plate (Medium)"
 Vul_med_polirised_orbital_armor_Desc:
  Id: 30403
- ENG: "Polarised plating tuned to shed energy fire with no wasted effort."
+ ENG: "Polarised plate for the ring of a Vulcan station, tuned to hold its shape under load. Some protection against kinetic rounds and explosions. Of the Vulcan orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Bor_med_polirised_orbital_armor_Name:
  Id: 30404
  ENG: "Borg Polarised Platform Plate (Medium)"
@@ -4752,10 +4752,10 @@ Dom_small_polirised_orbital_armor_Desc:
  ENG: "Polarised plating grown for the Founders' orbital stations."
 Vul_small_polirised_orbital_armor_Name:
  Id: 30416
- ENG: "Vulcan Polarised Platform Plating (Small)"
+ ENG: "Vulcan Seleya Ring Plate (Small)"
 Vul_small_polirised_orbital_armor_Desc:
  Id: 30417
- ENG: "Polarised plating tuned to shed energy fire with no wasted effort."
+ ENG: "Polarised plate for the ring of a Vulcan station, tuned to hold its shape under load. Some protection against kinetic rounds and explosions. Of the Vulcan orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Bor_small_polirised_orbital_armor_Name:
  Id: 30418
  ENG: "Borg Polarised Platform Plate (Small)"
@@ -4962,10 +4962,10 @@ Dom_ArmoredShield4x4_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A large shield that gives heavy protection at a heavy power cost."
 Vul_ArmoredShield4x4_Name:
  Id: 30486
- ENG: "Vulcan Deflector Array (Armoured 4x4)"
+ ENG: "Vulcan Seleya Emitter Housing"
 Vul_ArmoredShield4x4_Desc:
  Id: 30487
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. A large shield that gives heavy protection at a heavy power cost."
+ ENG: "Emitters set in a hardened housing, so the grid can fail without the emitters going with it. Strong protection against beams and energy fire. Weak against kinetic rounds."
 Bor_ArmoredShield4x4_Name:
  Id: 30488
  ENG: "Borg Adaptive Shield (Armoured 4x4)"
@@ -5004,10 +5004,10 @@ Dom_CanopyShield_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A huge shield with high resistance and a wide protection radius, ideal for capital ships. Its power costs are enormous."
 Vul_CanopyShield_Name:
  Id: 30500
- ENG: "Vulcan Deflector Array (Canopy)"
+ ENG: "Vulcan Ring Ship Deflector Canopy"
 Vul_CanopyShield_Desc:
  Id: 30501
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. A huge shield with high resistance and a wide protection radius, ideal for capital ships. Its power costs are enormous."
+ ENG: "A deflector canopy drawn over the whole of a ring ship's hull. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it is the slowest to come back after being knocked down."
 Bor_CanopyShield_Name:
  Id: 30502
  ENG: "Borg Adaptive Shield (Canopy)"
@@ -5046,10 +5046,10 @@ Dom_Shield_10KW_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A large shield that gives heavy protection at a heavy power cost."
 Vul_Shield_10KW_Name:
  Id: 30514
- ENG: "Vulcan Deflector Array (Heavy)"
+ ENG: "Vulcan D'Kyr Deflector Grid"
 Vul_Shield_10KW_Desc:
  Id: 30515
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. A large shield that gives heavy protection at a heavy power cost."
+ ENG: "The deflector grid of the D'Kyr-class, the High Command's cruiser. The Earth phase cannons of the day could not get through it. Strong protection against beams and energy fire. Weak against kinetic rounds."
 Bor_Shield_10KW_Name:
  Id: 30516
  ENG: "Borg Adaptive Shield (Heavy)"
@@ -5088,10 +5088,10 @@ Dom_Shield_1KW_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A very basic shield generator with a short protective radius and a slow recharge."
 Vul_Shield_1KW_Name:
  Id: 30528
- ENG: "Vulcan Deflector Array (Basic)"
+ ENG: "Vulcan Patrol Deflector Generator"
 Vul_Shield_1KW_Desc:
  Id: 30529
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. A very basic shield generator with a short protective radius and a slow recharge."
+ ENG: "The standard deflector generator of Vulcan patrol vessels, built to the specification and no further. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it covers the narrowest area."
 Bor_Shield_1KW_Name:
  Id: 30530
  ENG: "Borg Adaptive Shield (Basic)"
@@ -5130,10 +5130,10 @@ Dom_advanced_CanopyShields_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. An improved canopy shield with higher resistance and a wide radius, for capital ships. Its power costs are enormous."
 Vul_advanced_CanopyShields_Name:
  Id: 30542
- ENG: "Vulcan Deflector Array (Advanced Canopy)"
+ ENG: "Vulcan Command Ship Canopy Array"
 Vul_advanced_CanopyShields_Desc:
  Id: 30543
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. An improved canopy shield with higher resistance and a wide radius, for capital ships. Its power costs are enormous."
+ ENG: "The canopy array of a Vulcan command ship, with every emitter phase-locked to the rest. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power."
 Bor_advanced_CanopyShields_Name:
  Id: 30544
  ENG: "Borg Adaptive Shield (Advanced Canopy)"
@@ -5172,10 +5172,10 @@ Dom_advanced_crusier_sheaild_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A large shield for cruisers that gives heavy protection at a heavy power cost."
 Vul_advanced_crusier_sheaild_Name:
  Id: 30556
- ENG: "Vulcan Deflector Array (Advanced Cruiser)"
+ ENG: "Vulcan High Command Shield Grid"
 Vul_advanced_crusier_sheaild_Desc:
  Id: 30557
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. A large shield for cruisers that gives heavy protection at a heavy power cost."
+ ENG: "The grid of the High Command's best cruisers, its emitters set to a pattern the Academy has proven. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it is the quickest to come back after being knocked down."
 Bor_advanced_crusier_sheaild_Name:
  Id: 30558
  ENG: "Borg Adaptive Shield (Advanced Cruiser)"
@@ -5214,10 +5214,10 @@ Dom_Fighter_Shield_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A fighter shield with a decent radius that can only take a few hits, but recharges quickly."
 Vul_Fighter_Shield_Name:
  Id: 30570
- ENG: "Vulcan Deflector Array (Fighter)"
+ ENG: "Vulcan Scout Deflector Emitter"
 Vul_Fighter_Shield_Desc:
  Id: 30571
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. A fighter shield with a decent radius that can only take a few hits, but recharges quickly."
+ ENG: "Compact deflector emitter for Vulcan scouts and shuttles, set to a single calculated frequency. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan fighter shields, size for size, it draws the least power, but holds the least energy."
 Bor_Fighter_Shield_Name:
  Id: 30572
  ENG: "Borg Adaptive Shield (Fighter)"
@@ -5256,10 +5256,10 @@ Dom_advanced_fighter_sheaild_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. An improved fighter shield with a decent radius that recharges quickly."
 Vul_advanced_fighter_sheaild_Name:
  Id: 30584
- ENG: "Vulcan Deflector Array (Advanced Fighter)"
+ ENG: "Vulcan Logic-Tuned Emitter"
 Vul_advanced_fighter_sheaild_Desc:
  Id: 30585
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. An improved fighter shield with a decent radius that recharges quickly."
+ ENG: "The emitter's frequency is chosen by calculation and shifted on a fixed schedule, so it never repeats itself in a way an enemy can predict. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan fighter shields, size for size, it recharges the fastest, but draws the most power."
 Bor_advanced_fighter_sheaild_Name:
  Id: 30586
  ENG: "Borg Adaptive Shield (Advanced Fighter)"
@@ -5298,10 +5298,10 @@ Dom_prototype_fighter_shealds_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A prototype fighter shield: powerful, but experimental."
 Vul_prototype_fighter_shealds_Name:
  Id: 30598
- ENG: "Vulcan Deflector Array (Prototype Fighter)"
+ ENG: "Vulcan Science Academy Prototype Emitter"
 Vul_prototype_fighter_shealds_Desc:
  Id: 30599
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. A prototype fighter shield: powerful, but experimental."
+ ENG: "A test emitter from the Vulcan Science Academy, accurate to the last decimal and not yet fit for service. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan fighter shields, size for size, it is the quickest to come back after being knocked down and draws the least power."
 Bor_prototype_fighter_shealds_Name:
  Id: 30600
  ENG: "Borg Adaptive Shield (Prototype Fighter)"
@@ -5340,10 +5340,10 @@ Dom_transphasic_fighter_shealds_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A fighter shield using transphasic technology, with high resistance and a quick recharge."
 Vul_transphasic_fighter_shealds_Name:
  Id: 30612
- ENG: "Vulcan Deflector Array (Transphasic Fighter)"
+ ENG: "Vulcan Calculated-Phase Fighter Grid"
 Vul_transphasic_fighter_shealds_Desc:
  Id: 30613
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. A fighter shield using transphasic technology, with high resistance and a quick recharge."
+ ENG: "A grid that holds its phase to a calculated pattern across every emitter, with no deviation to exploit. Strong protection against beams and energy fire. Of the Vulcan fighter shields, size for size, it holds the most energy and covers the widest area, but draws the most power."
 Bor_transphasic_fighter_shealds_Name:
  Id: 30614
  ENG: "Borg Adaptive Shield (Transphasic Fighter)"
@@ -5382,10 +5382,10 @@ Dom_freighter_sheaild_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A basic shield for freighters: short radius and a slow recharge."
 Vul_freighter_sheaild_Name:
  Id: 30626
- ENG: "Vulcan Deflector Array (Freighter)"
+ ENG: "Vulcan Merchant Deflector Generator"
 Vul_freighter_sheaild_Desc:
  Id: 30627
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. A basic shield for freighters: short radius and a slow recharge."
+ ENG: "A restrained deflector generator for Vulcan merchant ships, enough to turn away debris. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it draws the least power and is the lightest, but holds the least energy."
 Bor_freighter_sheaild_Name:
  Id: 30628
  ENG: "Borg Adaptive Shield (Freighter)"
@@ -5424,10 +5424,10 @@ Dom_frigate_shealds_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A basic shield for frigates: short radius and a slow recharge."
 Vul_frigate_shealds_Name:
  Id: 30640
- ENG: "Vulcan Deflector Array (Frigate)"
+ ENG: "Vulcan Suurok Deflector Grid"
 Vul_frigate_shealds_Desc:
  Id: 30641
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. A basic shield for frigates: short radius and a slow recharge."
+ ENG: "The deflector grid of the Suurok-class, the Vulcan science ship. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build."
 Bor_frigate_shealds_Name:
  Id: 30642
  ENG: "Borg Adaptive Shield (Frigate)"
@@ -5466,10 +5466,10 @@ Dom_ORBITAL_SHEAILD_2X2_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A huge shield for orbital platforms, with high resistance and a wide protection radius."
 Vul_ORBITAL_SHEAILD_2X2_Name:
  Id: 30654
- ENG: "Vulcan Deflector Array (Orbital 2x2)"
+ ENG: "Vulcan Sentinel Deflector"
 Vul_ORBITAL_SHEAILD_2X2_Desc:
  Id: 30655
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. A huge shield for orbital platforms, with high resistance and a wide protection radius."
+ ENG: "A deflector for the sentinel stations that watch Vulcan space. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Vulcan platform shields, size for size, it holds the most energy and recharges the fastest, but covers the narrowest area."
 Bor_ORBITAL_SHEAILD_2X2_Name:
  Id: 30656
  ENG: "Borg Adaptive Shield (Orbital 2x2)"
@@ -5508,10 +5508,10 @@ Dom_ORBITAL_SHEAILD_2X2_MK2_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. An improved orbital shield with higher resistance and a wide protection radius."
 Vul_ORBITAL_SHEAILD_2X2_MK2_Name:
  Id: 30668
- ENG: "Vulcan Deflector Array (Orbital 2x2 Mk2)"
+ ENG: "Vulcan Surak Defence Field"
 Vul_ORBITAL_SHEAILD_2X2_MK2_Desc:
  Id: 30669
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. An improved orbital shield with higher resistance and a wide protection radius."
+ ENG: "A larger defence field, calculated to cover its station completely. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Vulcan platform shields, size for size, it is the lightest and the cheapest to build, but holds the least energy."
 Bor_ORBITAL_SHEAILD_2X2_MK2_Name:
  Id: 30670
  ENG: "Borg Adaptive Shield (Orbital 2x2 Mk2)"
@@ -5550,10 +5550,10 @@ Dom_TRANSPHASIC_OWP_SHEAILD_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A transphasic shield for orbital weapon platforms, with very high resistance and a wide radius."
 Vul_TRANSPHASIC_OWP_SHEAILD_Name:
  Id: 30682
- ENG: "Vulcan Deflector Array (Transphasic Orbital Platform)"
+ ENG: "Vulcan Phase-Coherent Platform Shield"
 Vul_TRANSPHASIC_OWP_SHEAILD_Desc:
  Id: 30683
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. A transphasic shield for orbital weapon platforms, with very high resistance and a wide radius."
+ ENG: "A platform shield whose phase is held coherent across the whole field, with no gap to attack. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Vulcan platform shields, size for size, it covers the widest area, but draws the most power."
 Bor_TRANSPHASIC_OWP_SHEAILD_Name:
  Id: 30684
  ENG: "Borg Adaptive Shield (Transphasic Orbital Platform)"
@@ -5592,10 +5592,10 @@ Dom_small_station_sheaild_mk1_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A shield for small stations, with high resistance and a wide protection radius."
 Vul_small_station_sheaild_mk1_Name:
  Id: 30696
- ENG: "Vulcan Deflector Array (Small Station)"
+ ENG: "Vulcan Outpost Deflector Emitter"
 Vul_small_station_sheaild_mk1_Desc:
  Id: 30697
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. A shield for small stations, with high resistance and a wide protection radius."
+ ENG: "A deflector emitter for outposts on the edge of Vulcan space. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Vulcan station shields, size for size, it draws the least power and is the cheapest to build, but holds the least energy."
 Bor_small_station_sheaild_mk1_Name:
  Id: 30698
  ENG: "Borg Adaptive Shield (Small Station)"
@@ -5634,10 +5634,10 @@ Dom_starbase_sheailds_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A monstrous shield for starbases, with very high resistance and a massive protection radius."
 Vul_starbase_sheailds_Name:
  Id: 30710
- ENG: "Vulcan Deflector Array (Starbase)"
+ ENG: "Vulcan Academy Shield Grid"
 Vul_starbase_sheailds_Desc:
  Id: 30711
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. A monstrous shield for starbases, with very high resistance and a massive protection radius."
+ ENG: "The shield grid of a Science Academy station, designed so that research can go on under any attack. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Vulcan station shields, size for size, it holds the most energy and is the lightest."
 Bor_starbase_sheailds_Name:
  Id: 30712
  ENG: "Borg Adaptive Shield (Starbase)"
@@ -5676,10 +5676,10 @@ Dom_station_deflector_mk1_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. A deflector array for stations, with high resistance and a wide protection radius."
 Vul_station_deflector_mk1_Name:
  Id: 30724
- ENG: "Vulcan Deflector Array (Station Mk1)"
+ ENG: "Vulcan Station Deflector Array"
 Vul_station_deflector_mk1_Desc:
  Id: 30725
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. A deflector array for stations, with high resistance and a wide protection radius."
+ ENG: "The deflector array of a Vulcan station, its emitters distributed by calculation across every pylon. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Vulcan station shields, size for size, it has the sturdiest housing, but draws the most power."
 Bor_station_deflector_mk1_Name:
  Id: 30726
  ENG: "Borg Adaptive Shield (Station Mk1)"
@@ -5718,10 +5718,10 @@ Dom_station_deflector_mk2_Desc:
  ENG: "A Dominion shield matrix: efficient, uncompromising and grown for the Founders' fleets. An improved station deflector with higher resistance and a wide protection radius."
 Vul_station_deflector_mk2_Name:
  Id: 30738
- ENG: "Vulcan Deflector Array (Station Mk2)"
+ ENG: "Vulcan Seleya Fortress Deflector"
 Vul_station_deflector_mk2_Desc:
  Id: 30739
- ENG: "A Vulcan deflector array: logically tuned, efficient and without waste. An improved station deflector with higher resistance and a wide protection radius."
+ ENG: "The deflector of Vulcan's great fortress stations, the last line of defence. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Vulcan station shields, size for size, it recharges the fastest and covers the widest area, but is the costliest to build."
 Bor_station_deflector_mk2_Name:
  Id: 30740
  ENG: "Borg Adaptive Shield (Station Mk2)"
@@ -5760,10 +5760,10 @@ Dom_station_phasor_beem_mk1_Desc:
  ENG: "A polaron array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Efficient, uncompromising and made to be obeyed."
 Vul_station_phasor_beem_mk1_Name:
  Id: 30752
- ENG: "Vulcan Orbital Phaser Array Mk1"
+ ENG: "Vulcan Outpost Particle Lance"
 Vul_station_phasor_beem_mk1_Desc:
  Id: 30753
- ENG: "A phaser array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Precise, efficient and without waste."
+ ENG: "A particle lance for outposts, firing a narrow beam. Of the Vulcan orbital beam weapons, it is the sturdiest for its size, but hits the softest."
 Bor_station_phasor_beem_mk1_Name:
  Id: 30754
  ENG: "Borg Orbital Particle Array Mk1"
@@ -5802,10 +5802,10 @@ Dom_station_phasor_beem_mk2_Desc:
  ENG: "A polaron array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Efficient, uncompromising and made to be obeyed. An improved model."
 Vul_station_phasor_beem_mk2_Name:
  Id: 30766
- ENG: "Vulcan Orbital Phaser Array Mk2"
+ ENG: "Vulcan Station Particle Array"
 Vul_station_phasor_beem_mk2_Desc:
  Id: 30767
- ENG: "A phaser array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Precise, efficient and without waste. An improved model."
+ ENG: "A particle array for a Vulcan station."
 Bor_station_phasor_beem_mk2_Name:
  Id: 30768
  ENG: "Borg Orbital Particle Array Mk2"
@@ -5844,10 +5844,10 @@ Dom_station_phasor_beem_mk3_Desc:
  ENG: "A polaron array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Efficient, uncompromising and made to be obeyed. A refined, later model."
 Vul_station_phasor_beem_mk3_Name:
  Id: 30780
- ENG: "Vulcan Orbital Phaser Array Mk3"
+ ENG: "Vulcan Academy Particle Array"
 Vul_station_phasor_beem_mk3_Desc:
  Id: 30781
- ENG: "A phaser array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Precise, efficient and without waste. A refined, later model."
+ ENG: "A particle array for a Science Academy station, fired with every emitter on one target."
 Bor_station_phasor_beem_mk3_Name:
  Id: 30782
  ENG: "Borg Orbital Particle Array Mk3"
@@ -5886,10 +5886,10 @@ Dom_station_phasor_beem_mk4_Desc:
  ENG: "A polaron array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Efficient, uncompromising and made to be obeyed. An advanced late-generation model."
 Vul_station_phasor_beem_mk4_Name:
  Id: 30794
- ENG: "Vulcan Orbital Phaser Array Mk4"
+ ENG: "Vulcan Seleya Particle Lance"
 Vul_station_phasor_beem_mk4_Desc:
  Id: 30795
- ENG: "A phaser array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Precise, efficient and without waste. An advanced late-generation model."
+ ENG: "The long particle lance of the fortress stations. Of the Vulcan orbital beam weapons, it hits the hardest and reaches the farthest, but is the frailest for its size."
 Bor_station_phasor_beem_mk4_Name:
  Id: 30796
  ENG: "Borg Orbital Particle Array Mk4"
@@ -5928,10 +5928,10 @@ Dom_orbital_defence_torpedo_Desc:
  ENG: "A polaron torpedo launcher for orbital defence: slow to reload, but every warhead hits hard. Efficient, uncompromising and made to be obeyed."
 Vul_orbital_defence_torpedo_Name:
  Id: 30808
- ENG: "Vulcan Orbital Defence Photon Launcher"
+ ENG: "Vulcan Defence Torpedo Tube"
 Vul_orbital_defence_torpedo_Desc:
  Id: 30809
- ENG: "A photon torpedo launcher for orbital defence: slow to reload, but every warhead hits hard. Precise, efficient and without waste."
+ ENG: "A fixed torpedo tube for stations and garrisons. Of the Vulcan orbital torpedo weapons, it fires the fastest and is the sturdiest for its size, but hits the softest."
 Bor_orbital_defence_torpedo_Name:
  Id: 30810
  ENG: "Borg Orbital Defence Gravimetric Launcher"
@@ -5970,10 +5970,10 @@ Dom_station_adv_torpedo_mk1_Desc:
  ENG: "An advanced polaron torpedo launcher for stations and platforms, with a bigger warhead and better guidance. Efficient, uncompromising and made to be obeyed."
 Vul_station_adv_torpedo_mk1_Name:
  Id: 30822
- ENG: "Vulcan Orbital Advanced Photon Launcher"
+ ENG: "Vulcan Photonic Torpedo Battery"
 Vul_station_adv_torpedo_mk1_Desc:
  Id: 30823
- ENG: "An advanced photon torpedo launcher for stations and platforms, with a bigger warhead and better guidance. Precise, efficient and without waste."
+ ENG: "A battery of photonic torpedoes, held in a protected magazine. Of the Vulcan orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size."
 Bor_station_adv_torpedo_mk1_Name:
  Id: 30824
  ENG: "Borg Orbital Advanced Gravimetric Launcher"
@@ -6012,10 +6012,10 @@ Dom_station_hevey_torpedo_mk1_Desc:
  ENG: "A heavy polaron torpedo launcher for stations and platforms: a large warhead on a long reload. Efficient, uncompromising and made to be obeyed."
 Vul_station_hevey_torpedo_mk1_Name:
  Id: 30836
- ENG: "Vulcan Orbital Heavy Photon Launcher"
+ ENG: "Vulcan High Command Torpedo Battery"
 Vul_station_hevey_torpedo_mk1_Desc:
  Id: 30837
- ENG: "A heavy photon torpedo launcher for stations and platforms: a large warhead on a long reload. Precise, efficient and without waste."
+ ENG: "The heaviest battery the High Command keeps on a station. Of the Vulcan orbital torpedo weapons, it hits the hardest and is the cheapest for its size, but fires the slowest."
 Bor_station_hevey_torpedo_mk1_Name:
  Id: 30838
  ENG: "Borg Orbital Heavy Gravimetric Launcher"
@@ -6054,10 +6054,10 @@ Dom_station_torpedo_launcher_mk1_Desc:
  ENG: "A guided polaron torpedo launcher for stations and platforms. Efficient, uncompromising and made to be obeyed."
 Vul_station_torpedo_launcher_mk1_Name:
  Id: 30850
- ENG: "Vulcan Orbital Photon Launcher Mk1"
+ ENG: "Vulcan Station Photonic Launcher"
 Vul_station_torpedo_launcher_mk1_Desc:
  Id: 30851
- ENG: "A guided photon torpedo launcher for stations and platforms. Precise, efficient and without waste."
+ ENG: "A photonic torpedo launcher for a station, kept loaded. Of the Vulcan orbital torpedo weapons, it fires the fastest, but has the slowest shots."
 Bor_station_torpedo_launcher_mk1_Name:
  Id: 30852
  ENG: "Borg Orbital Gravimetric Launcher Mk1"
@@ -6096,10 +6096,10 @@ Dom_station_torpedo_launcher_mk2_Desc:
  ENG: "A guided polaron torpedo launcher for stations and platforms. Efficient, uncompromising and made to be obeyed. An improved model."
 Vul_station_torpedo_launcher_mk2_Name:
  Id: 30864
- ENG: "Vulcan Orbital Photon Launcher Mk2"
+ ENG: "Vulcan Reinforced Station Launcher"
 Vul_station_torpedo_launcher_mk2_Desc:
  Id: 30865
- ENG: "A guided photon torpedo launcher for stations and platforms. Precise, efficient and without waste. An improved model."
+ ENG: "A station launcher with a reinforced magazine. Of the Vulcan orbital torpedo weapons, it has the fastest shots, but fires the slowest."
 Bor_station_torpedo_launcher_mk2_Name:
  Id: 30866
  ENG: "Borg Orbital Gravimetric Launcher Mk2"
@@ -6138,10 +6138,10 @@ Dom_orbital_cannons_Desc:
  ENG: "A Polaron Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Efficient, uncompromising and made to be obeyed."
 Vul_orbital_cannons_Name:
  Id: 30878
- ENG: "Vulcan Orbital Phaser Cannon Battery (Basic)"
+ ENG: "Vulcan Defence Phase Bank"
 Vul_orbital_cannons_Desc:
  Id: 30879
- ENG: "A Phaser Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Precise, efficient and without waste."
+ ENG: "A fixed phase bank for a defence post. Of the Vulcan orbital cannon weapons, it fires the slowest."
 Bor_orbital_cannons_Name:
  Id: 30880
  ENG: "Borg Orbital Particle Cannon Battery (Basic)"
@@ -6180,10 +6180,10 @@ Dom_orbital_cannons_mk1_Desc:
  ENG: "A Polaron Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Efficient, uncompromising and made to be obeyed."
 Vul_orbital_cannons_mk1_Name:
  Id: 30892
- ENG: "Vulcan Orbital Phaser Cannon Battery Mk1"
+ ENG: "Vulcan Orbital Phase Cannon"
 Vul_orbital_cannons_mk1_Desc:
  Id: 30893
- ENG: "A Phaser Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Precise, efficient and without waste."
+ ENG: "A heavy phase cannon for a station's ring. Of the Vulcan orbital cannon weapons, it has the fastest shots, but fires the slowest."
 Bor_orbital_cannons_mk1_Name:
  Id: 30894
  ENG: "Borg Orbital Particle Cannon Battery Mk1"
@@ -6222,10 +6222,10 @@ Dom_orbital_cannons_mk2_Desc:
  ENG: "A Polaron Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Efficient, uncompromising and made to be obeyed. An improved model."
 Vul_orbital_cannons_mk2_Name:
  Id: 30906
- ENG: "Vulcan Orbital Phaser Cannon Battery Mk2"
+ ENG: "Vulcan Ring Phase Battery"
 Vul_orbital_cannons_mk2_Desc:
  Id: 30907
- ENG: "A Phaser Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Precise, efficient and without waste. An improved model."
+ ENG: "A battery of phase cannons around a station's ring. Of the Vulcan orbital cannon weapons, it has the fastest shots."
 Bor_orbital_cannons_mk2_Name:
  Id: 30908
  ENG: "Borg Orbital Particle Cannon Battery Mk2"
@@ -6264,10 +6264,10 @@ Dom_orbital_cannons_mk3_Desc:
  ENG: "A Polaron Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Efficient, uncompromising and made to be obeyed. A refined, later model."
 Vul_orbital_cannons_mk3_Name:
  Id: 30920
- ENG: "Vulcan Orbital Phaser Cannon Battery Mk3"
+ ENG: "Vulcan Academy Phase Battery"
 Vul_orbital_cannons_mk3_Desc:
  Id: 30921
- ENG: "A Phaser Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Precise, efficient and without waste. A refined, later model."
+ ENG: "A battery for a Science Academy station, fired in calculated sequence. Of the Vulcan orbital cannon weapons, it is the cheapest for its size and has the fastest shots, but is the frailest for its size."
 Bor_orbital_cannons_mk3_Name:
  Id: 30922
  ENG: "Borg Orbital Particle Cannon Battery Mk3"
@@ -6306,10 +6306,10 @@ Dom_orbital_cannons_mk4_Desc:
  ENG: "A Polaron Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Efficient, uncompromising and made to be obeyed. An advanced late-generation model."
 Vul_orbital_cannons_mk4_Name:
  Id: 30934
- ENG: "Vulcan Orbital Phaser Cannon Battery Mk4"
+ ENG: "Vulcan Seleya Phase Battery"
 Vul_orbital_cannons_mk4_Desc:
  Id: 30935
- ENG: "A Phaser Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Precise, efficient and without waste. An advanced late-generation model."
+ ENG: "The largest phase battery on a Vulcan fortress station. Of the Vulcan orbital cannon weapons, it hits the hardest and reaches the farthest."
 Bor_orbital_cannons_mk4_Name:
  Id: 30936
  ENG: "Borg Orbital Particle Cannon Battery Mk4"
@@ -6348,10 +6348,10 @@ Dom_orbital_weapons_platform_Desc:
  ENG: "A heavy Dominion weapons platform for orbital defence, firing in a wide arc. Efficient, uncompromising and made to be obeyed."
 Vul_orbital_weapons_platform_Name:
  Id: 30948
- ENG: "Vulcan Orbital Weapons Platform"
+ ENG: "Vulcan Sentinel Particle Array"
 Vul_orbital_weapons_platform_Desc:
  Id: 30949
- ENG: "A heavy Vulcan weapons platform for orbital defence, firing in a wide arc. Precise, efficient and without waste."
+ ENG: "A particle array for the automated sentinels that guard Vulcan space. Of the Vulcan orbital cannon weapons, it is the sturdiest for its size, but hits the softest."
 Bor_orbital_weapons_platform_Name:
  Id: 30950
  ENG: "Borg Orbital Weapons Platform"

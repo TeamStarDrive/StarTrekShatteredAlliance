@@ -22,7 +22,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Vul_CompositeAlloys_Small</Name>
+  <Name>Vulcan Logic Composite Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Vul_CompositeAlloys_Small</UID> 
   <Version>2</Version>
@@ -48,7 +48,7 @@
   <ExplosiveResist>0.16</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Layered alloys bonded with logic: the strength-to-weight ratio is optimal.</Description>
+  <Description>Alloys layered by calculation, each in the proportion the Science Academy has shown to be the most efficient. Good protection against explosions, some protection against kinetic rounds. Of the Vulcan ship plates of its size, it is the weakest against beams.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

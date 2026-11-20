@@ -22,7 +22,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Vul_Crystal_Armor_Small</Name>
+  <Name>Vulcan Precision Crystal Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Vul_Crystal_Armor_Small</UID> 
   <Version>2</Version>
@@ -48,7 +48,7 @@
   <PlasmaResist>0</PlasmaResist>
 
   <!-- Description -->
-  <Description>A precisely cut crystal lattice that disperses force with minimum mass.</Description>
+  <Description>A crystal lattice grown to a calculated pattern, its facets aligned so that an impact is spread evenly through the plate. Good protection against explosions, some protection against kinetic rounds. Of the Vulcan ship plates of its size, it is the best protected against kinetic rounds and the best protected against explosions, but the costliest to build.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

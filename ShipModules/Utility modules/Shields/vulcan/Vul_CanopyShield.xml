@@ -13,12 +13,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Vul_CanopyShield</Name>
+  <Name>Vulcan Ring Ship Deflector Canopy</Name>
   <IconTexturePath>Modules/shield_3x6</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>80188</HealthMax>
   
-  <Description>A Vulcan deflector array: logically tuned, efficient and without waste. A huge shield with high resistance and a wide protection radius, ideal for capital ships. Its power costs are enormous.</Description>
+  <Description>A deflector canopy drawn over the whole of a ring ship's hull. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it is the slowest to come back after being knocked down.</Description>
   
   
   <PowerDraw>900</PowerDraw>

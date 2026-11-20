@@ -11,7 +11,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Vul_Shield_1KW</Name>
+  <Name>Vulcan Patrol Deflector Generator</Name>
   <Restrictions>IO</Restrictions>
   <UID>Vul_Shield_1KW</UID> 
   <Version>2</Version>
@@ -20,7 +20,7 @@
   <Mass>36</Mass>
   <HealthMax>10100</HealthMax>
   
-  <Description>A Vulcan deflector array: logically tuned, efficient and without waste. A very basic shield generator with a short protective radius and a slow recharge.</Description>
+  <Description>The standard deflector generator of Vulcan patrol vessels, built to the specification and no further. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it covers the narrowest area.</Description>
   
   
   <PowerDraw>45</PowerDraw>

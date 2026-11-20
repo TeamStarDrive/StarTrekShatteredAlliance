@@ -21,7 +21,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>1</YSize>
-  <Name>Vul_advanced_fighter_sheaild</Name>
+  <Name>Vulcan Logic-Tuned Emitter</Name>
   <Restrictions>IO</Restrictions>
   <UID>Vul_advanced_fighter_sheaild</UID> 
   <Version>2</Version>
@@ -30,7 +30,7 @@
   <Mass>10</Mass>
   <HealthMax>1500</HealthMax>
   
-  <Description>A Vulcan deflector array: logically tuned, efficient and without waste. An improved fighter shield with a decent radius that recharges quickly.</Description>
+  <Description>The emitter's frequency is chosen by calculation and shifted on a fixed schedule, so it never repeats itself in a way an enemy can predict. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan fighter shields, size for size, it recharges the fastest, but draws the most power.</Description>
   
   
   <PowerDraw>30</PowerDraw>

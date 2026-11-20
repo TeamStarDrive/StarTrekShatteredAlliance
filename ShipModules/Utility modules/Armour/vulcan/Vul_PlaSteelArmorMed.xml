@@ -10,7 +10,7 @@
   <XSize>2</XSize>
   <YSize>2</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Vul_PlaSteelArmorMed</Name>
+  <Name>Vulcan Ring Ship Laminate (Medium)</Name>
   <Restrictions>O</Restrictions>
   <UID>Vul_PlaSteelArmorMed</UID> 
   <Version>2</Version>
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.08</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Tritanium and polymer layers, balanced for strength against weight.</Description>
+  <Description>A laminate for the great ring ships, the flattened conical hulls the High Command flew in the twenty-second century. Some protection against explosions. Of the Vulcan ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams.</Description>
   
 
 </ShipModule>

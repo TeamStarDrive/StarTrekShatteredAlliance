@@ -19,7 +19,7 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Vul_Organic_Bioplates_Med</Name>
+    <Name>Vulcan Healing Trance Bioplate (Medium)</Name>
     <Restrictions>O</Restrictions>
     <UID>Vul_Organic_Bioplates_Med</UID> 
   <Version>2</Version>
@@ -41,6 +41,6 @@
     <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
-    <Description>A biological layer in the plating that restores damage with minimal waste.</Description>
+    <Description>Plate that repairs itself in a slow, disciplined cycle, named for the healing trance in which a Vulcan mends injuries. Strong protection against every kind of fire. Of the Vulcan orbital plates of its size, it is the lightest, but the hardest to repair.</Description>
     <APResist>1</APResist>    
 </ShipModule>

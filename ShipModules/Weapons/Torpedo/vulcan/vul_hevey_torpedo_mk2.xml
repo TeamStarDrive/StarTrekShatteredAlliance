@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Vulcan Heavy Torpedo Launcher Mk2</Name>
+  <Name>Vulcan Siege Photonic Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>vul_hevey_torpedo_mk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/hevey_torpedo_mk2</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>22500</HealthMax>
-  <Description>A heavy launcher for a large warhead on a long reload. Engineered with Vulcan logic: precise, efficient and without waste. An improved model.</Description>
+  <Description>A heavier launcher still, meant for defended targets. Of the Vulcan torpedo weapons, it is the cheapest for its size, but is the frailest for its size.</Description>
   
   
   <PowerDraw>5</PowerDraw>

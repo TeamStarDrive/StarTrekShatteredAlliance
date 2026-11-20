@@ -23,12 +23,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Vul_starbase_sheailds</Name>
+  <Name>Vulcan Academy Shield Grid</Name>
   <IconTexturePath>Modules/starbase_sheailds</IconTexturePath>
   <Mass>11000</Mass>
   <HealthMax>86188</HealthMax>
   
-  <Description>A Vulcan deflector array: logically tuned, efficient and without waste. A monstrous shield for starbases, with very high resistance and a massive protection radius.</Description>
+  <Description>The shield grid of a Science Academy station, designed so that research can go on under any attack. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Vulcan station shields, size for size, it holds the most energy and is the lightest.</Description>
   
   
   <PowerDraw>1400</PowerDraw>

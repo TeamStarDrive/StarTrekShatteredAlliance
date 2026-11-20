@@ -10,7 +10,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Vul_SteelArmorSmall</Name>
+  <Name>Vulcan High Command Hull Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Vul_SteelArmorSmall</UID> 
   <Version>2</Version>
@@ -36,7 +36,7 @@
     <ExplosiveResist>0.04</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Duranium plate cut to exact tolerances, with no wasted mass.</Description>
+  <Description>Plain plate for the starships of the Vulcan High Command, cut to the exact dimensions the design calls for and nothing more. Gives almost no protection against fire; it is there to soak up damage. Of the Vulcan ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile.</Description>
   
 
 </ShipModule>

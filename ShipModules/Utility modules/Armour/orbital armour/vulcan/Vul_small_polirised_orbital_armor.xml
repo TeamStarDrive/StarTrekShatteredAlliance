@@ -32,7 +32,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Vul_small_polirised_orbital_armor</Name>
+  <Name>Vulcan Seleya Ring Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Vul_small_polirised_orbital_armor</UID> 
   <Version>2</Version>
@@ -57,7 +57,7 @@
   <ExplosiveResist>0.12</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Polarised plating tuned to shed energy fire with no wasted effort.</Description>
+  <Description>Polarised plate for the ring of a Vulcan station, tuned to hold its shape under load. Some protection against kinetic rounds and explosions. Of the Vulcan orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile.</Description>
   <APResist>1</APResist>
   
 

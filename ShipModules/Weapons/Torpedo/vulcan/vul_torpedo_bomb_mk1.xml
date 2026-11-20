@@ -7,14 +7,14 @@
   <YSize>5</YSize>
   <Restrictions>IO</Restrictions>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Vulcan Torpedo Bomb Launcher Mk1</Name>
+  <Name>Vulcan Photonic Bomb Launcher</Name>
   <UID>vul_torpedo_bomb_mk1</UID> 
   <Version>2</Version>
 
   <IconTexturePath>Modules/torpedo_bomb_mk1</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>16500</HealthMax>
-  <Description>A short-range launcher for a heavy warhead, best used in close. Engineered with Vulcan logic: precise, efficient and without waste.</Description>
+  <Description>A launcher for a torpedo bomb, a single heavy warhead. Of the Vulcan torpedo weapons, it hits the hardest and has the widest blast, but fires the smallest salvos.</Description>
   
   
   <PowerDraw>20</PowerDraw>

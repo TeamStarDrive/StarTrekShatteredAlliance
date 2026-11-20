@@ -18,13 +18,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>3</XSize>
   <YSize>3</YSize>
-  <Name>Vul_orbital_cannons_mk2</Name>
+  <Name>Vulcan Ring Phase Battery</Name>
   <Restrictions>O</Restrictions>
   <UID>Vul_orbital_cannons_mk2</UID>
   <IconTexturePath>Modules/orbital_cannons_mk2</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>18609</HealthMax>
-  <Description>A Phaser Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Precise, efficient and without waste. An improved model.</Description>
+  <Description>A battery of phase cannons around a station's ring. Of the Vulcan orbital cannon weapons, it has the fastest shots.</Description>
   
   
   <PowerDraw>30</PowerDraw>

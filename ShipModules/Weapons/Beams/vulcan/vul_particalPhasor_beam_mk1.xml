@@ -13,7 +13,7 @@
   <XSize>1</XSize>
   <YSize>3</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>Vulcan Pulse Phaser Beam Mk1</Name>
+  <Name>Vulcan Particle Beam Emitter</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/particalPhasor_beam_mk1</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>15</FieldOfFire>
 
   <!-- Description -->
-  <Description>A directed-energy beam array: a steady beam that tracks its target and recharges quickly. Engineered with Vulcan logic: precise, efficient and without waste.</Description>
+  <Description>The particle beam emitter, the Vulcan answer to the phaser, firing a steady beam of charged particles. Of the Vulcan beam weapons, it fires the fastest and is the sturdiest for its size, but hits the softest.</Description>
   
 
 </ShipModule>

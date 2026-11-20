@@ -18,13 +18,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>5</XSize>
   <YSize>5</YSize>
-  <Name>Vul_orbital_cannons_mk4</Name>
+  <Name>Vulcan Seleya Phase Battery</Name>
   <Restrictions>O</Restrictions>
   <UID>Vul_orbital_cannons_mk4</UID>
   <IconTexturePath>Modules/orbital_cannons_mk4</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>58612</HealthMax>
-  <Description>A Phaser Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Precise, efficient and without waste. An advanced late-generation model.</Description>
+  <Description>The largest phase battery on a Vulcan fortress station. Of the Vulcan orbital cannon weapons, it hits the hardest and reaches the farthest.</Description>
   
   
   <PowerDraw>60</PowerDraw>

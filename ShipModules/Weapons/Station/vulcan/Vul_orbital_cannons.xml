@@ -18,13 +18,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>3</XSize>
   <YSize>3</YSize>
-  <Name>Vul_orbital_cannons</Name>
+  <Name>Vulcan Defence Phase Bank</Name>
   <Restrictions>O</Restrictions>
   <UID>Vul_orbital_cannons</UID>
   <IconTexturePath>Modules/orbital_cannons</IconTexturePath>
   <Mass>5000</Mass>
   <HealthMax>18607</HealthMax>
-  <Description>A Phaser Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Precise, efficient and without waste.</Description>
+  <Description>A fixed phase bank for a defence post. Of the Vulcan orbital cannon weapons, it fires the slowest.</Description>
   
   
   <PowerDraw>15</PowerDraw>

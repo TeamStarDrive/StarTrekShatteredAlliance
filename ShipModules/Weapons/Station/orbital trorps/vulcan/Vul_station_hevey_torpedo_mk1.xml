@@ -16,7 +16,7 @@
   <XSize>5</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Vul_station_hevey_torpedo_mk1</Name>
+  <Name>Vulcan High Command Torpedo Battery</Name>
   <Restrictions>O</Restrictions>
   <UID>Vul_station_hevey_torpedo_mk1</UID> 
   <Version>2</Version>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_hevey_torpedo_mk1</IconTexturePath>
   <Mass>14000</Mass>
   <HealthMax>70500</HealthMax>
-  <Description>A heavy photon torpedo launcher for stations and platforms: a large warhead on a long reload. Precise, efficient and without waste.</Description>
+  <Description>The heaviest battery the High Command keeps on a station. Of the Vulcan orbital torpedo weapons, it hits the hardest and is the cheapest for its size, but fires the slowest.</Description>
   
   
   <PowerDraw>5</PowerDraw>

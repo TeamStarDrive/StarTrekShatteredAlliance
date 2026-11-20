@@ -9,13 +9,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Vulcan Pulse Phaser Cannon Mk1</Name>
+  <Name>Vulcan Phased Cannon</Name>
   <Restrictions>O</Restrictions>
   <UID>vul_phased_cannon</UID>
   <IconTexturePath>Modules/phased_cannon</IconTexturePath>
   <Mass>10</Mass>
   <HealthMax>10750</HealthMax>
-  <Description>A rapid-fire phased energy cannon: shorter reach than a beam, but it hits hard. Engineered with Vulcan logic: precise, efficient and without waste.</Description>
+  <Description>A Vulcan phase cannon, firing a short, exact bolt of phased energy. Of the Vulcan cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
   
   
   <PowerDraw>4</PowerDraw>

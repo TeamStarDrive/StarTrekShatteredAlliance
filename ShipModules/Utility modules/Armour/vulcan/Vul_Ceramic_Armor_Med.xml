@@ -8,7 +8,7 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Vul_Ceramic_Armor_Med</Name>
+    <Name>Vulcan Forge Ceramic Plate (Medium)</Name>
     <Restrictions>O</Restrictions>
     <UID>Vul_Ceramic_Armor_Med</UID> 
   <Version>2</Version>
@@ -29,6 +29,6 @@
     <ExplosiveResist>0.12</ExplosiveResist>
 
     <!-- Description -->
-    <Description>A ceramic and composite plate with exact thermal tolerances.</Description>
+    <Description>Ceramic fired in the heat of the Forge, the desert of Vulcan, and finished without a single flaw. Some protection against kinetic rounds and explosions. Of the Vulcan ship plates of its size, it is the weakest against beams.</Description>
     <APResist>1</APResist>
 </ShipModule>
