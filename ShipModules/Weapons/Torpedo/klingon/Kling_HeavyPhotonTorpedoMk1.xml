@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Klingon Heavy Photon Torpedo Launcher Mk1</Name>
+  <Name>Klingon Heavy Photon Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>Kling_HeavyPhotonTorpedoMk1</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Kling_HeavyPhotonTorpedoMk1</IconTexturePath>
   <Mass>150</Mass>
   <HealthMax>26500</HealthMax>
-  <Description>A heavy launcher for a large warhead on a long reload. Forged for the Empire: loud, brutal and made to win glory.</Description>
+  <Description>A heavy launcher for ships that want a hull and not a shield. Of the Klingon torpedo weapons, it carries the most ordnance, but has the smallest blast.</Description>
   
   
   <PowerDraw>5</PowerDraw>

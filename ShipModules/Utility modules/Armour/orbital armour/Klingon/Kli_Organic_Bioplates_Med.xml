@@ -19,7 +19,7 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Kli_Organic_Bioplates_Med</Name>
+    <Name>Klingon Brak'lul Bioplate (Medium)</Name>
     <Restrictions>O</Restrictions>
     <UID>Kli_Organic_Bioplates_Med</UID> 
   <Version>2</Version>
@@ -41,6 +41,6 @@
     <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Plate grown from living tissue that heals between battles, like a good warrior.</Description>
+    <Description>Klingons are born with two of every organ, and so is this plate. When one layer is wounded, a spare takes its place. Strong protection against every kind of fire. Of the Klingon orbital plates of its size, it is the lightest, but the hardest to repair.</Description>
     <APResist>1</APResist>    
 </ShipModule>

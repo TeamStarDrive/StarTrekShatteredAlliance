@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>3</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Klingon Tri-Torpedo Launcher Mk1</Name>
+  <Name>Klingon Trilithium Torpedo Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>Kling_TriTorpedoMk1</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Kling_TriTorpedoMk1</IconTexturePath>
   <Mass>300</Mass>
   <HealthMax>8500</HealthMax>
-  <Description>A launcher that fires three torpedoes in a spread, good against fast or evasive targets. Forged for the Empire: loud, brutal and made to win glory.</Description>
+  <Description>A launcher for trilithium torpedoes. Trilithium is volatile and has no use but as a weapon, which suits the Empire well. Of the Klingon torpedo weapons, it is the costliest for its size.</Description>
   
   
   <PowerDraw>5</PowerDraw>

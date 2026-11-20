@@ -19,13 +19,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Kli_orbital_weapons_platform</Name>
+  <Name>Klingon Defence Platform Disruptor Array</Name>
   <Restrictions>O</Restrictions>
   <UID>Kli_orbital_weapons_platform</UID>
   <IconTexturePath>Modules/orbital_weapons_platform</IconTexturePath>
   <Mass>29</Mass>
   <HealthMax>18603</HealthMax>
-  <Description>A heavy Klingon weapons platform for orbital defence, firing in a wide arc. Loud, brutal and made to win glory.</Description>
+  <Description>A disruptor array for the platforms that guard Klingon worlds. Of the Klingon orbital cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
   
   
   <PowerDraw>10</PowerDraw>

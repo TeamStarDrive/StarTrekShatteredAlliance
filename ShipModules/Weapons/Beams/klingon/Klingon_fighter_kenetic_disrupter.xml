@@ -12,7 +12,7 @@
   <XSize>2</XSize>
   <YSize>1</YSize>
   <ModuleType>MainGun</ModuleType>
-  <Name>Klingon Fighter Kinetic Disruptor</Name>
+  <Name>Klingon Raider Kinetic Disruptor</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/Klingon_fighter_kenetic_disrupter</IconTexturePath>3
@@ -34,7 +34,7 @@
   <FieldOfFire>15</FieldOfFire>
   <AccuracyPercent>0.28</AccuracyPercent>
   <!-- Description -->
-  <Description>A heavy disruptor mount that combines energy and kinetic force in one hard-hitting shot. Forged for the Empire: loud, brutal and made to win glory.</Description>
+  <Description>A light disruptor round for raiders, thrown rather than fired as a beam. Of the Klingon cannon weapons, it hits the softest.</Description>
   
 
 </ShipModule>

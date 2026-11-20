@@ -21,7 +21,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>1</YSize>
-  <Name>Kli_advanced_fighter_sheaild</Name>
+  <Name>Klingon Wing Deflector Emitter</Name>
   <Restrictions>IO</Restrictions>
   <UID>Kli_advanced_fighter_sheaild</UID> 
   <Version>2</Version>
@@ -30,7 +30,7 @@
   <Mass>10</Mass>
   <HealthMax>1500</HealthMax>
   
-  <Description>A Klingon deflector grid: loud, rugged and built to keep a warship fighting. An improved fighter shield with a decent radius that recharges quickly.</Description>
+  <Description>An emitter set in the wing of a small warship, built to keep it alive long enough to close with the enemy. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon fighter shields, size for size, it recharges the fastest, but draws the most power.</Description>
   
   
   <PowerDraw>30</PowerDraw>

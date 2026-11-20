@@ -15,13 +15,13 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Kli_Shield_10KW</Name>
+  <Name>Klingon D7 Deflector Grid</Name>
   <IconTexturePath>Modules/shield_3x3</IconTexturePath>
   <Mass>81</Mass>
   <HealthMax>14200</HealthMax>
   <PowerDraw>95</PowerDraw>
   
-  <Description>A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A large shield that gives heavy protection at a heavy power cost.</Description>
+  <Description>The deflector grid of the D7 battlecruiser, the old warhorse of the fleet. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>200</PowerDraw>

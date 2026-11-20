@@ -18,13 +18,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>3</XSize>
   <YSize>3</YSize>
-  <Name>Kli_orbital_cannons</Name>
+  <Name>Klingon Defence Disruptor Bank</Name>
   <Restrictions>O</Restrictions>
   <UID>Kli_orbital_cannons</UID>
   <IconTexturePath>Modules/orbital_cannons</IconTexturePath>
   <Mass>5000</Mass>
   <HealthMax>18607</HealthMax>
-  <Description>A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Loud, brutal and made to win glory.</Description>
+  <Description>A fixed disruptor bank for a garrison. Of the Klingon orbital cannon weapons, it fires the slowest.</Description>
   
   
   <PowerDraw>15</PowerDraw>

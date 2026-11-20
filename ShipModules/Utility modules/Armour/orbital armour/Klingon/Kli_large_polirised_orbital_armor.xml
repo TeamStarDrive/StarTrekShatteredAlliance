@@ -20,7 +20,7 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Kli_large_polirised_orbital_armor</Name>
+    <Name>Klingon Ty'Gokor Ring Plate (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>Kli_large_polirised_orbital_armor</UID> 
   <Version>2</Version>
@@ -41,6 +41,6 @@
     <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Polarised plating for a fortress in orbit, built to hold against any attacker.</Description>
+    <Description>Polarised plate for the ring of a fortress station, built to withstand a long siege. Strong protection against beams, plasma and explosions, good protection against kinetic rounds. Of the Klingon orbital plates of its size, it is the lightest and the cheapest to build, but the most fragile.</Description>
     <APResist>1</APResist>
 </ShipModule>

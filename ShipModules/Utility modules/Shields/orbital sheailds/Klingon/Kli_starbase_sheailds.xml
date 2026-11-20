@@ -23,12 +23,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Kli_starbase_sheailds</Name>
+  <Name>Klingon Ty'Gokor Shield Grid</Name>
   <IconTexturePath>Modules/starbase_sheailds</IconTexturePath>
   <Mass>11000</Mass>
   <HealthMax>86188</HealthMax>
   
-  <Description>A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A monstrous shield for starbases, with very high resistance and a massive protection radius.</Description>
+  <Description>The shield grid of Ty'Gokor, the great fortress of the Klingon Empire. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon station shields, size for size, it holds the most energy and is the lightest.</Description>
   
   
   <PowerDraw>1400</PowerDraw>

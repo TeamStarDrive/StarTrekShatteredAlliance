@@ -32,7 +32,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Kli_Organic_Bioplates_Small</Name>
+  <Name>Klingon Brak'lul Bioplate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Kli_Organic_Bioplates_Small</UID> 
   <Version>2</Version>
@@ -58,7 +58,7 @@
     <ExplosiveResist>0.3</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Plate grown from living tissue that heals between battles, like a good warrior.</Description>
+  <Description>Klingons are born with two of every organ, and so is this plate. When one layer is wounded, a spare takes its place. Strong protection against every kind of fire. Of the Klingon orbital plates of its size, it is the lightest.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

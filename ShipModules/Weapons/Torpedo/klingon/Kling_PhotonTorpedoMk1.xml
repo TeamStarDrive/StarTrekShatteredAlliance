@@ -6,7 +6,7 @@
   <XSize>1</XSize>
   <YSize>4</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Klingon Photon Torpedo Launcher Mk1</Name>
+  <Name>Klingon Bird-of-Prey Torpedo Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>Kling_PhotonTorpedoMk1</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Kling_PhotonTorpedoMk1</IconTexturePath>
   <Mass>100</Mass>
   <HealthMax>15500</HealthMax>
-  <Description>A guided torpedo launcher: slow to reload, but every warhead hits hard. Forged for the Empire: loud, brutal and made to win glory.</Description>
+  <Description>The launcher of a Bird-of-Prey, with one tube forward and one aft. Of the Klingon torpedo weapons, it is the sturdiest for its size, but hits the softest.</Description>
   
   
   <PowerDraw>5</PowerDraw>

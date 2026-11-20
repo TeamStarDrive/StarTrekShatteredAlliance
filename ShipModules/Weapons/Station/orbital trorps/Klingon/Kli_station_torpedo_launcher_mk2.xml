@@ -16,7 +16,7 @@
   <XSize>4</XSize>
   <YSize>4</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Kli_station_torpedo_launcher_mk2</Name>
+  <Name>Klingon Reinforced Station Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>Kli_station_torpedo_launcher_mk2</UID> 
   <Version>2</Version>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_torpedo_launcher_mk2</IconTexturePath>
   <Mass>19500</Mass>
   <HealthMax>75500</HealthMax>
-  <Description>A guided photon torpedo launcher for stations and platforms. Loud, brutal and made to win glory. An improved model.</Description>
+  <Description>A station launcher with a reinforced magazine. Of the Klingon orbital torpedo weapons, it has the fastest shots, but fires the slowest.</Description>
   
   
   <PowerDraw>5</PowerDraw>

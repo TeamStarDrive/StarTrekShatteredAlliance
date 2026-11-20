@@ -25,7 +25,7 @@
   <XSize>2</XSize>
   <YSize>2</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>Kli_station_phasor_beem_mk1</Name>
+  <Name>Klingon Outpost Disruptor Lance</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/station_phasor_beem_mk1</IconTexturePath>3
@@ -47,7 +47,7 @@
   <FieldOfFire>360</FieldOfFire>
 
   <!-- Description -->
-  <Description>A disruptor array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Loud, brutal and made to win glory.</Description>
+  <Description>A disruptor lance for outposts on the frontier. Of the Klingon orbital beam weapons, it is the sturdiest for its size, but hits the softest.</Description>
   
 
 </ShipModule>

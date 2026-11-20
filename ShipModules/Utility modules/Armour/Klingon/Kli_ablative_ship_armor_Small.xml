@@ -22,7 +22,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Kli_ablative_ship_armor_Small</Name>
+  <Name>Klingon Refit Ablative Plate (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>Kli_ablative_ship_armor_Small</UID> 
   <Version>2</Version>
@@ -48,7 +48,7 @@
   <PlasmaResist>0.03</PlasmaResist>
 
   <!-- Description -->
-  <Description>Ablative plate that burns away in layers: a ship that takes a beating and keeps its honour.</Description>
+  <Description>Extra armour of the kind added to Klingon cruisers in their refits, meant to be burned away in battle. Some protection against kinetic rounds, beams, energy fire and explosions. Of the Klingon ship plates of its size, it is the toughest and the best protected against beams, but the heaviest.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

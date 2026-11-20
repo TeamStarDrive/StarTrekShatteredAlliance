@@ -9,7 +9,7 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Kli_Crystal_Armor_Large</Name>
+    <Name>Klingon Hardened Crystal Plate (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>Kli_Crystal_Armor_Large</UID> 
   <Version>2</Version>
@@ -31,6 +31,6 @@
     <PlasmaResist>0</PlasmaResist>
 
     <!-- Description -->
-    <Description>Crystal-laced plate that shatters the enemy's blows and keeps the warrior alive for the next one.</Description>
+    <Description>A crystal lattice grown hard and clear, struck and tested in the forges before it is allowed on a ship. Good protection against explosions, some protection against kinetic rounds. Of the Klingon ship plates of its size, it is the best against armour-piercing rounds, but the heaviest.</Description>
     <APResist>2</APResist>
 </ShipModule>

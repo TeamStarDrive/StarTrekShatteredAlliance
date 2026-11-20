@@ -23,12 +23,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Kli_small_station_sheaild_mk1</Name>
+  <Name>Klingon Station Shield Emitter</Name>
   <IconTexturePath>Modules/small_station_sheaild_mk1</IconTexturePath>
   <Mass>9000</Mass>
   <HealthMax>56188</HealthMax>
   
-  <Description>A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A shield for small stations, with high resistance and a wide protection radius.</Description>
+  <Description>A shield emitter for a small Klingon station. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon station shields, size for size, it draws the least power and is the cheapest to build, but holds the least energy.</Description>
   
   
   <PowerDraw>900</PowerDraw>

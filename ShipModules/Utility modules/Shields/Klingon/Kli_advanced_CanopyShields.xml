@@ -13,12 +13,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Kli_advanced_CanopyShields</Name>
+  <Name>Klingon Negh'Var Deflector Canopy</Name>
   <IconTexturePath>Modules/advanced_CanopyShields</IconTexturePath>
   <Mass>250</Mass>
   <HealthMax>99696</HealthMax>
   
-  <Description>A Klingon deflector grid: loud, rugged and built to keep a warship fighting. An improved canopy shield with higher resistance and a wide radius, for capital ships. Its power costs are enormous.</Description>
+  <Description>The deflector canopy of a Negh'Var-class warship, the flagship of the fleet. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
   
   
   <PowerDraw>1400</PowerDraw>

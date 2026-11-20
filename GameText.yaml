@@ -239,22 +239,22 @@ BB_Tech_TorpedoBay_3x2_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_DisruptorBeamMk1_Name:
  Id: 18334
- ENG: "Klingon Disruptor Beam Mk1"
+ ENG: "Klingon Wing Disruptor"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_DisruptorBeamMk1_Desc:
  Id: 18335
- ENG: "A directed-energy beam array: a steady beam that tracks its target and recharges quickly. Forged for the Empire: loud, brutal and made to win glory."
+ ENG: "The wing-mounted disruptor of a Bird-of-Prey, the weapon with which Klingon raiders do most of their work. Of the Klingon beam weapons, it hits the softest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_DisruptorBeamMk2_Name:
  Id: 18336
- ENG: "Klingon Disruptor Beam Mk2"
+ ENG: "Klingon K't'inga Disruptor Bank"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_DisruptorBeamMk2_Desc:
  Id: 18337
- ENG: "A directed-energy beam array: a steady beam that tracks its target and recharges quickly. Forged for the Empire: loud, brutal and made to win glory. An improved model."
+ ENG: "The disruptor banks of the K't'inga-class battlecruiser, which carries several along its hull. Of the Klingon beam weapons, it fires the fastest and is the cheapest for its size, but has the shortest reach."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_DisruptorCannonMk1_Name:
@@ -289,62 +289,62 @@ BB_Tech_Kling_DisruptorCannonMk3_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_PhotonTorpedoMk1_Name:
  Id: 18344
- ENG: "Klingon Photon Torpedo Launcher Mk1"
+ ENG: "Klingon Bird-of-Prey Torpedo Launcher"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_PhotonTorpedoMk1_Desc:
  Id: 18345
- ENG: "A guided torpedo launcher: slow to reload, but every warhead hits hard. Forged for the Empire: loud, brutal and made to win glory."
+ ENG: "The launcher of a Bird-of-Prey, with one tube forward and one aft. Of the Klingon torpedo weapons, it is the sturdiest for its size, but hits the softest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_PhotonTorpedoMk2_Name:
  Id: 18346
- ENG: "Klingon Photon Torpedo Launcher Mk2"
+ ENG: "Klingon D7 Torpedo Launcher"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_PhotonTorpedoMk2_Desc:
  Id: 18347
- ENG: "A guided torpedo launcher: slow to reload, but every warhead hits hard. Forged for the Empire: loud, brutal and made to win glory. An improved model."
+ ENG: "The launcher of the D7 battlecruiser, which carried photon torpedoes forward and aft. Of the Klingon torpedo weapons, it has the widest blast."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_HeavyPhotonTorpedoMk2_Name:
  Id: 18348
- ENG: "Klingon Heavy Photon Torpedo Launcher Mk2"
+ ENG: "Klingon Vor'cha Torpedo Launcher"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_HeavyPhotonTorpedoMk2_Desc:
  Id: 18349
- ENG: "A heavy launcher for a large warhead on a long reload. Forged for the Empire: loud, brutal and made to win glory. An improved model."
+ ENG: "The heavy launcher of the Vor'cha-class attack cruiser. Of the Klingon torpedo weapons, it hits the hardest, but fires the slowest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_HeavyPhotonTorpedoMk1_Name:
  Id: 18350
- ENG: "Klingon Heavy Photon Torpedo Launcher Mk1"
+ ENG: "Klingon Heavy Photon Launcher"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_HeavyPhotonTorpedoMk1_Desc:
  Id: 18351
- ENG: "A heavy launcher for a large warhead on a long reload. Forged for the Empire: loud, brutal and made to win glory."
+ ENG: "A heavy launcher for ships that want a hull and not a shield. Of the Klingon torpedo weapons, it carries the most ordnance, but has the smallest blast."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_TriTorpedoMk1_Name:
  Id: 18352
- ENG: "Klingon Tri-Torpedo Launcher Mk1"
+ ENG: "Klingon Trilithium Torpedo Launcher"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_TriTorpedoMk1_Desc:
  Id: 18353
- ENG: "A launcher that fires three torpedoes in a spread, good against fast or evasive targets. Forged for the Empire: loud, brutal and made to win glory."
+ ENG: "A launcher for trilithium torpedoes. Trilithium is volatile and has no use but as a weapon, which suits the Empire well. Of the Klingon torpedo weapons, it is the costliest for its size."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_TriTorpedoMk2_Name:
  Id: 18354
- ENG: "Klingon Tri-Torpedo Launcher Mk2"
+ ENG: "Klingon Heavy Trilithium Launcher"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_TriTorpedoMk2_Desc:
  Id: 18355
- ENG: "A launcher that fires three torpedoes in a spread, good against fast or evasive targets. Forged for the Empire: loud, brutal and made to win glory. An improved model."
+ ENG: "The large, heavy form of the trilithium torpedo, with a warhead made to destroy stations and fortresses outright. Of the Klingon torpedo weapons, it has the smallest blast."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Startrek_Weapons_Name:
@@ -1565,43 +1565,43 @@ BB_Tech_romulan_fighter_disrupter_beam_Desc:
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_Kling_DisruptorBeamMk3_Name:
  Id: 18626
- ENG: "Klingon Disruptor Beam Mk3"
+ ENG: "Klingon Vor'cha Disruptor Bank"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Kling_DisruptorBeamMk3_Desc:
  Id: 18627
- ENG: "A directed-energy beam array: a steady beam that tracks its target and recharges quickly. Forged for the Empire: loud, brutal and made to win glory. A refined, later model."
+ ENG: "The heavy disruptor bank of the Vor'cha-class attack cruiser. Of the Klingon beam weapons, it fires the fastest and does the most to armour."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_Klingon_kenetic_disrupter_Name:
  Id: 18628
- ENG: "Klingon Kinetic Disruptor"
+ ENG: "Klingon Kinetic Disruptor Cannon"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Klingon_kenetic_disrupter_Desc:
  Id: 18629
- ENG: "A heavy disruptor mount that combines energy and kinetic force in one hard-hitting shot. Forged for the Empire: loud, brutal and made to win glory."
+ ENG: "A heavy disruptor cannon that throws a round to batter its target. Of the Klingon cannon weapons, it hits the hardest and reaches the farthest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_Klingon_fighter_kenetic_disrupter_Name:
  Id: 18630
- ENG: "Klingon Fighter Kinetic Disruptor"
+ ENG: "Klingon Raider Kinetic Disruptor"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_Klingon_fighter_kenetic_disrupter_Desc:
  Id: 18631
- ENG: "A heavy disruptor mount that combines energy and kinetic force in one hard-hitting shot. Forged for the Empire: loud, brutal and made to win glory."
+ ENG: "A light disruptor round for raiders, thrown rather than fired as a beam. Of the Klingon cannon weapons, it hits the softest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 
 B_Tech_trifocused_disrupter_beam_Name:
  Id: 18632
- ENG: "Klingon Tri-Focus Disruptor Beam"
+ ENG: "Klingon Trifocal Disruptor Array"
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 BB_Tech_trifocused_disrupter_beam_Desc:
  Id: 18633
- ENG: "A heavy spinal disruptor with three focused emitters merged into one beam. Forged for the Empire: loud, brutal and made to win glory."
+ ENG: "A disruptor array that fires three beams focused on one target. Of the Klingon beam weapons, it hits the hardest and reaches the farthest."
  RUS: "Тахионы - частицы, способные двигаться со скоростями, значительно превышающими скорость света. \"Научив\" наши сканеры фиксировать тахионы, мы сможем значительно повысить их эффективность."
  SPA: "Los taquiones son partículas que se mueven mucho más rápido que la velocidad de la luz. Si nuestros sensores fueran capaces de"
 B_Tech_Klingon_cloaked_torpedo_Name:
@@ -3240,7 +3240,7 @@ Klingon_cloaked_torpedo_Name:
  ENG: "Klingon Cloaked Torpedo Launcher"
 Klingon_cloaked_torpedo_Desc:
  Id: 19101
- ENG: "A launcher whose torpedoes stay cloaked in flight and decloak only at the moment of impact. Forged for the Empire: loud, brutal and made to win glory."
+ ENG: "A launcher built for firing from under cloak, in the manner of the later cloaking prototypes that could fire while cloaked. Of the Klingon torpedo weapons, it reaches the farthest and fires the fastest, but has the smallest blast."
 torpedo_BARAGE_Name:
  Id: 19102
  ENG: "Torpedo Barrage Launcher"
@@ -3510,10 +3510,10 @@ Fed_Ceramic_Armor_Large_Desc:
  ENG: "A ceramic layer bonded to a duranium backing. The ceramic is seeded with a fractal lattice that shatters on impact and spreads the shock across the whole plate, so the backing is never loaded at a single point. Some protection against kinetic rounds and explosions. Of the Starfleet ship plates of its size, it is the weakest against beams."
 Kli_Ceramic_Armor_Large_Name:
  Id: 30002
- ENG: "Klingon Ceramic Battle Armour (Large)"
+ ENG: "Klingon Warrior Ceramic Plate (Large)"
 Kli_Ceramic_Armor_Large_Desc:
  Id: 30003
- ENG: "Ceramic-coated plate that stands up to disruptor fire, so a captain can close in without fear."
+ ENG: "Ceramic armour made hard and brittle, for a ship expected to take hits and give more. Some protection against kinetic rounds and explosions. Of the Klingon ship plates of its size, it is the weakest against beams."
 Rom_Ceramic_Armor_Large_Name:
  Id: 30004
  ENG: "Romulan Ceramic-Duranium Armour (Large)"
@@ -3552,10 +3552,10 @@ Fed_Ceramic_Armor_Med_Desc:
  ENG: "A ceramic layer bonded to a duranium backing. The ceramic is seeded with a fractal lattice that shatters on impact and spreads the shock across the whole plate, so the backing is never loaded at a single point. Some protection against kinetic rounds and explosions. Of the Starfleet ship plates of its size, it is the weakest against beams."
 Kli_Ceramic_Armor_Med_Name:
  Id: 30016
- ENG: "Klingon Ceramic Battle Armour (Medium)"
+ ENG: "Klingon Warrior Ceramic Plate (Medium)"
 Kli_Ceramic_Armor_Med_Desc:
  Id: 30017
- ENG: "Ceramic-coated plate that stands up to disruptor fire, so a captain can close in without fear."
+ ENG: "Ceramic armour made hard and brittle, for a ship expected to take hits and give more. Some protection against kinetic rounds and explosions. Of the Klingon ship plates of its size, it is the weakest against beams."
 Rom_Ceramic_Armor_Med_Name:
  Id: 30018
  ENG: "Romulan Ceramic-Duranium Armour (Medium)"
@@ -3594,10 +3594,10 @@ Fed_Ceramic_Armor_Small_Desc:
  ENG: "A ceramic layer bonded to a duranium backing. The ceramic is seeded with a fractal lattice that shatters on impact and spreads the shock across the whole plate, so the backing is never loaded at a single point. Some protection against kinetic rounds and explosions. Of the Starfleet ship plates of its size, it is the weakest against beams."
 Kli_Ceramic_Armor_Small_Name:
  Id: 30030
- ENG: "Klingon Ceramic Battle Armour (Small)"
+ ENG: "Klingon Warrior Ceramic Plate (Small)"
 Kli_Ceramic_Armor_Small_Desc:
  Id: 30031
- ENG: "Ceramic-coated plate that stands up to disruptor fire, so a captain can close in without fear."
+ ENG: "Ceramic armour made hard and brittle, for a ship expected to take hits and give more. Some protection against kinetic rounds and explosions. Of the Klingon ship plates of its size, it is the weakest against beams."
 Rom_Ceramic_Armor_Small_Name:
  Id: 30032
  ENG: "Romulan Ceramic-Duranium Armour (Small)"
@@ -3636,10 +3636,10 @@ Fed_CompositeAlloys_Large_Desc:
  ENG: "Tritanium alloy, the hull and bulkhead metal of Galaxy- and Intrepid-class starships, laid in layers. Tritanium in its pure form is 21.4 times as hard as diamond. Good protection against explosions, some protection against kinetic rounds. Of the Starfleet ship plates of its size, it is the weakest against beams."
 Kli_CompositeAlloys_Large_Name:
  Id: 30044
- ENG: "Klingon Composite Warship Plate (Large)"
+ ENG: "Klingon Bat'leth Composite Plate (Large)"
 Kli_CompositeAlloys_Large_Desc:
  Id: 30045
- ENG: "Composite plate layered for the heaviest of Klingon warships: it takes punishment and keeps fighting."
+ ENG: "Alloys folded in layers like the blade of a bat'leth, each fold adding strength to the edge. Good protection against explosions, some protection against kinetic rounds. Of the Klingon ship plates of its size, it is the weakest against beams."
 Rom_CompositeAlloys_Large_Name:
  Id: 30046
  ENG: "Romulan Composite Alloy Plate (Large)"
@@ -3678,10 +3678,10 @@ Fed_CompositeAlloys_Med_Desc:
  ENG: "Tritanium alloy, the hull and bulkhead metal of Galaxy- and Intrepid-class starships, laid in layers. Tritanium in its pure form is 21.4 times as hard as diamond. Good protection against explosions, some protection against kinetic rounds. Of the Starfleet ship plates of its size, it is the weakest against beams."
 Kli_CompositeAlloys_Med_Name:
  Id: 30058
- ENG: "Klingon Composite Warship Plate (Medium)"
+ ENG: "Klingon Bat'leth Composite Plate (Medium)"
 Kli_CompositeAlloys_Med_Desc:
  Id: 30059
- ENG: "Composite plate layered for the heaviest of Klingon warships: it takes punishment and keeps fighting."
+ ENG: "Alloys folded in layers like the blade of a bat'leth, each fold adding strength to the edge. Good protection against explosions, some protection against kinetic rounds. Of the Klingon ship plates of its size, it is the weakest against beams."
 Rom_CompositeAlloys_Med_Name:
  Id: 30060
  ENG: "Romulan Composite Alloy Plate (Medium)"
@@ -3720,10 +3720,10 @@ Fed_CompositeAlloys_Small_Desc:
  ENG: "Tritanium alloy, the hull and bulkhead metal of Galaxy- and Intrepid-class starships, laid in layers. Tritanium in its pure form is 21.4 times as hard as diamond. Good protection against explosions, some protection against kinetic rounds. Of the Starfleet ship plates of its size, it is the weakest against beams."
 Kli_CompositeAlloys_Small_Name:
  Id: 30072
- ENG: "Klingon Composite Warship Plate (Small)"
+ ENG: "Klingon Bat'leth Composite Plate (Small)"
 Kli_CompositeAlloys_Small_Desc:
  Id: 30073
- ENG: "Composite plate layered for the heaviest of Klingon warships: it takes punishment and keeps fighting."
+ ENG: "Alloys folded in layers like the blade of a bat'leth, each fold adding strength to the edge. Good protection against explosions, some protection against kinetic rounds. Of the Klingon ship plates of its size, it is the weakest against beams."
 Rom_CompositeAlloys_Small_Name:
  Id: 30074
  ENG: "Romulan Composite Alloy Plate (Small)"
@@ -3762,10 +3762,10 @@ Fed_Crystal_Armor_Large_Desc:
  ENG: "A crystalline laminate grown in the fabrication bays of the Utopia Planitia yards above Mars, with its atoms aligned along the line of the hull stress. The lattice vibrates at a resonant frequency, so a hit is spread through the crystal before it can crack. Good protection against explosions, some protection against kinetic rounds. Of the Starfleet ship plates of its size, it is the best against armour-piercing rounds, but the heaviest."
 Kli_Crystal_Armor_Large_Name:
  Id: 30086
- ENG: "Klingon Crystal Battle Plate (Large)"
+ ENG: "Klingon Hardened Crystal Plate (Large)"
 Kli_Crystal_Armor_Large_Desc:
  Id: 30087
- ENG: "Crystal-laced plate that shatters the enemy's blows and keeps the warrior alive for the next one."
+ ENG: "A crystal lattice grown hard and clear, struck and tested in the forges before it is allowed on a ship. Good protection against explosions, some protection against kinetic rounds. Of the Klingon ship plates of its size, it is the best against armour-piercing rounds, but the heaviest."
 Rom_Crystal_Armor_Large_Name:
  Id: 30088
  ENG: "Romulan Crystal Lattice Plating (Large)"
@@ -3804,10 +3804,10 @@ Fed_Crystal_Armor_Med_Desc:
  ENG: "A crystalline laminate grown in the fabrication bays of the Utopia Planitia yards above Mars, with its atoms aligned along the line of the hull stress. The lattice vibrates at a resonant frequency, so a hit is spread through the crystal before it can crack. Good protection against explosions, some protection against kinetic rounds. Of the Starfleet ship plates of its size, it is the best protected against explosions and the best against armour-piercing rounds, but the costliest to build."
 Kli_Crystal_Armor_Med_Name:
  Id: 30100
- ENG: "Klingon Crystal Battle Plate (Medium)"
+ ENG: "Klingon Hardened Crystal Plate (Medium)"
 Kli_Crystal_Armor_Med_Desc:
  Id: 30101
- ENG: "Crystal-laced plate that shatters the enemy's blows and keeps the warrior alive for the next one."
+ ENG: "A crystal lattice grown hard and clear, struck and tested in the forges before it is allowed on a ship. Good protection against explosions, some protection against kinetic rounds. Of the Klingon ship plates of its size, it is the best protected against explosions and the best against armour-piercing rounds, but the costliest to build."
 Rom_Crystal_Armor_Med_Name:
  Id: 30102
  ENG: "Romulan Crystal Lattice Plating (Medium)"
@@ -3846,10 +3846,10 @@ Fed_Crystal_Armor_Small_Desc:
  ENG: "A crystalline laminate grown in the fabrication bays of the Utopia Planitia yards above Mars, with its atoms aligned along the line of the hull stress. The lattice vibrates at a resonant frequency, so a hit is spread through the crystal before it can crack. Good protection against explosions, some protection against kinetic rounds. Of the Starfleet ship plates of its size, it is the best protected against kinetic rounds and the best protected against explosions, but the costliest to build."
 Kli_Crystal_Armor_Small_Name:
  Id: 30114
- ENG: "Klingon Crystal Battle Plate (Small)"
+ ENG: "Klingon Hardened Crystal Plate (Small)"
 Kli_Crystal_Armor_Small_Desc:
  Id: 30115
- ENG: "Crystal-laced plate that shatters the enemy's blows and keeps the warrior alive for the next one."
+ ENG: "A crystal lattice grown hard and clear, struck and tested in the forges before it is allowed on a ship. Good protection against explosions, some protection against kinetic rounds. Of the Klingon ship plates of its size, it is the best protected against kinetic rounds and the best protected against explosions, but the costliest to build."
 Rom_Crystal_Armor_Small_Name:
  Id: 30116
  ENG: "Romulan Crystal Lattice Plating (Small)"
@@ -3888,10 +3888,10 @@ Fed_PlaSteelArmorLarge_Desc:
  ENG: "Transparent aluminium, the strong clear material of Starfleet viewports and cargo bay walls, laminated in layers and rolled opaque for use as hull plate. Its aluminium oxynitride matrix is aligned at the molecular level, so it is far stronger than it looks. Some protection against explosions. Of the Starfleet ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams."
 Kli_PlaSteelArmorLarge_Name:
  Id: 30128
- ENG: "Klingon Tritanium Battle Plate (Large)"
+ ENG: "Klingon Qo'noS Yard Laminate (Large)"
 Kli_PlaSteelArmorLarge_Desc:
  Id: 30129
- ENG: "Tritanium plate scored with the marks of earlier battles: light enough for a fast ship, strong enough to be proud of."
+ ENG: "A laminate turned out in the shipyards of Qo'noS, rolled in great sheets for the fleet. Some protection against explosions. Of the Klingon ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams."
 Rom_PlaSteelArmorLarge_Name:
  Id: 30130
  ENG: "Romulan Tritanium Laminate (Large)"
@@ -3930,10 +3930,10 @@ Fed_PlaSteelArmorMed_Desc:
  ENG: "Transparent aluminium, the strong clear material of Starfleet viewports and cargo bay walls, laminated in layers and rolled opaque for use as hull plate. Its aluminium oxynitride matrix is aligned at the molecular level, so it is far stronger than it looks. Some protection against explosions. Of the Starfleet ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams."
 Kli_PlaSteelArmorMed_Name:
  Id: 30142
- ENG: "Klingon Tritanium Battle Plate (Medium)"
+ ENG: "Klingon Qo'noS Yard Laminate (Medium)"
 Kli_PlaSteelArmorMed_Desc:
  Id: 30143
- ENG: "Tritanium plate scored with the marks of earlier battles: light enough for a fast ship, strong enough to be proud of."
+ ENG: "A laminate turned out in the shipyards of Qo'noS, rolled in great sheets for the fleet. Some protection against explosions. Of the Klingon ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams."
 Rom_PlaSteelArmorMed_Name:
  Id: 30144
  ENG: "Romulan Tritanium Laminate (Medium)"
@@ -3972,10 +3972,10 @@ Fed_PlaSteelArmorSmall_Desc:
  ENG: "Transparent aluminium, the strong clear material of Starfleet viewports and cargo bay walls, laminated in layers and rolled opaque for use as hull plate. Its aluminium oxynitride matrix is aligned at the molecular level, so it is far stronger than it looks. Some protection against explosions. Of the Starfleet ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams."
 Kli_PlaSteelArmorSmall_Name:
  Id: 30156
- ENG: "Klingon Tritanium Battle Plate (Small)"
+ ENG: "Klingon Qo'noS Yard Laminate (Small)"
 Kli_PlaSteelArmorSmall_Desc:
  Id: 30157
- ENG: "Tritanium plate scored with the marks of earlier battles: light enough for a fast ship, strong enough to be proud of."
+ ENG: "A laminate turned out in the shipyards of Qo'noS, rolled in great sheets for the fleet. Some protection against explosions. Of the Klingon ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams."
 Rom_PlaSteelArmorSmall_Name:
  Id: 30158
  ENG: "Romulan Tritanium Laminate (Small)"
@@ -4014,10 +4014,10 @@ Fed_SteelArmorLarge_Desc:
  ENG: "Duranium alloy plate, the standard hull armour of Starfleet starships. Plain, dependable, and repairable at any dock in the Federation. Gives almost no protection against fire; it is there to soak up damage. Of the Starfleet ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Kli_SteelArmorLarge_Name:
  Id: 30170
- ENG: "Klingon Forged Duranium Plate (Large)"
+ ENG: "Klingon Battlecruiser Hull Plate (Large)"
 Kli_SteelArmorLarge_Desc:
  Id: 30171
- ENG: "Thick duranium plate hammered out in the forges of Qo'noS: heavy, crude and hard to break."
+ ENG: "Heavy plate for the battlecruisers of the Empire, thick and unadorned. \"...a military ship, not a pleasure craft.\" (Captain K'Vada, TNG: \"Unification I\") Gives almost no protection against fire; it is there to soak up damage. Of the Klingon ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Rom_SteelArmorLarge_Name:
  Id: 30172
  ENG: "Romulan Duranium Hull Plate (Large)"
@@ -4056,10 +4056,10 @@ Fed_SteelArmorMed_Desc:
  ENG: "Duranium alloy plate, the standard hull armour of Starfleet starships. Plain, dependable, and repairable at any dock in the Federation. Gives almost no protection against fire; it is there to soak up damage. Of the Starfleet ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Kli_SteelArmorMed_Name:
  Id: 30184
- ENG: "Klingon Forged Duranium Plate (Medium)"
+ ENG: "Klingon Battlecruiser Hull Plate (Medium)"
 Kli_SteelArmorMed_Desc:
  Id: 30185
- ENG: "Thick duranium plate hammered out in the forges of Qo'noS: heavy, crude and hard to break."
+ ENG: "Heavy plate for the battlecruisers of the Empire, thick and unadorned. \"...a military ship, not a pleasure craft.\" (Captain K'Vada, TNG: \"Unification I\") Gives almost no protection against fire; it is there to soak up damage. Of the Klingon ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Rom_SteelArmorMed_Name:
  Id: 30186
  ENG: "Romulan Duranium Hull Plate (Medium)"
@@ -4098,10 +4098,10 @@ Fed_SteelArmorSmall_Desc:
  ENG: "Duranium alloy plate, the standard hull armour of Starfleet starships. Plain, dependable, and repairable at any dock in the Federation. Gives almost no protection against fire; it is there to soak up damage. Of the Starfleet ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Kli_SteelArmorSmall_Name:
  Id: 30198
- ENG: "Klingon Forged Duranium Plate (Small)"
+ ENG: "Klingon Battlecruiser Hull Plate (Small)"
 Kli_SteelArmorSmall_Desc:
  Id: 30199
- ENG: "Thick duranium plate hammered out in the forges of Qo'noS: heavy, crude and hard to break."
+ ENG: "Heavy plate for the battlecruisers of the Empire, thick and unadorned. \"...a military ship, not a pleasure craft.\" (Captain K'Vada, TNG: \"Unification I\") Gives almost no protection against fire; it is there to soak up damage. Of the Klingon ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Rom_SteelArmorSmall_Name:
  Id: 30200
  ENG: "Romulan Duranium Hull Plate (Small)"
@@ -4140,10 +4140,10 @@ Fed_ablative_ship_armor_Small_Desc:
  ENG: "Ablative armour, as fitted to the USS Defiant: layers that burn away under fire and leave the hull beneath whole. Some protection against kinetic rounds, beams, energy fire and explosions. Of the Starfleet ship plates of its size, it is the toughest and the best protected against beams, but the heaviest."
 Kli_ablative_ship_armor_Small_Name:
  Id: 30212
- ENG: "Klingon Ablative Battle Armour (Small)"
+ ENG: "Klingon Refit Ablative Plate (Small)"
 Kli_ablative_ship_armor_Small_Desc:
  Id: 30213
- ENG: "Ablative plate that burns away in layers: a ship that takes a beating and keeps its honour."
+ ENG: "Extra armour of the kind added to Klingon cruisers in their refits, meant to be burned away in battle. Some protection against kinetic rounds, beams, energy fire and explosions. Of the Klingon ship plates of its size, it is the toughest and the best protected against beams, but the heaviest."
 Rom_ablative_ship_armor_Small_Name:
  Id: 30214
  ENG: "Romulan Ablative Hull Armour (Small)"
@@ -4182,10 +4182,10 @@ Fed_ablative_ship_armor_large_Desc:
  ENG: "Ablative armour, as fitted to the USS Defiant: layers that burn away under fire and leave the hull beneath whole. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Starfleet ship plates of its size, it is the toughest and the best protected against beams, but the costliest to build."
 Kli_ablative_ship_armor_large_Name:
  Id: 30226
- ENG: "Klingon Ablative Battle Armour (Large)"
+ ENG: "Klingon Refit Ablative Plate (Large)"
 Kli_ablative_ship_armor_large_Desc:
  Id: 30227
- ENG: "Ablative plate that burns away in layers: a ship that takes a beating and keeps its honour."
+ ENG: "Extra armour of the kind added to Klingon cruisers in their refits, meant to be burned away in battle. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Klingon ship plates of its size, it is the toughest and the best protected against beams, but the costliest to build."
 Rom_ablative_ship_armor_large_Name:
  Id: 30228
  ENG: "Romulan Ablative Hull Armour (Large)"
@@ -4224,10 +4224,10 @@ Fed_ablative_ship_armor_med_Desc:
  ENG: "Ablative armour, as fitted to the USS Defiant: layers that burn away under fire and leave the hull beneath whole. Good protection against kinetic rounds, beams, energy fire and explosions, some protection against plasma. Of the Starfleet ship plates of its size, it is the toughest and the best protected against beams, but the heaviest."
 Kli_ablative_ship_armor_med_Name:
  Id: 30240
- ENG: "Klingon Ablative Battle Armour (Medium)"
+ ENG: "Klingon Refit Ablative Plate (Medium)"
 Kli_ablative_ship_armor_med_Desc:
  Id: 30241
- ENG: "Ablative plate that burns away in layers: a ship that takes a beating and keeps its honour."
+ ENG: "Extra armour of the kind added to Klingon cruisers in their refits, meant to be burned away in battle. Good protection against kinetic rounds, beams, energy fire and explosions, some protection against plasma. Of the Klingon ship plates of its size, it is the toughest and the best protected against beams, but the heaviest."
 Rom_ablative_ship_armor_med_Name:
  Id: 30242
  ENG: "Romulan Ablative Hull Armour (Medium)"
@@ -4266,10 +4266,10 @@ Fed_Organic_Bioplates_Large_Desc:
  ENG: "Plate grown on a bio-neural substrate, a living gel that senses damage and lays down new material at the edge of a breach. The substrate is tuned to the ship's own power grid, and the plate knits itself whole between engagements. Strong protection against energy fire, plasma and explosions. Of the Starfleet orbital plates of its size, it is the most fragile."
 Kli_Organic_Bioplates_Large_Name:
  Id: 30254
- ENG: "Klingon Living Warrior Plate (Large)"
+ ENG: "Klingon Brak'lul Bioplate (Large)"
 Kli_Organic_Bioplates_Large_Desc:
  Id: 30255
- ENG: "Plate grown from living tissue that heals between battles, like a good warrior."
+ ENG: "Klingons are born with two of every organ, and so is this plate. When one layer is wounded, a spare takes its place. Strong protection against every kind of fire. Of the Klingon orbital plates of its size, it is the best protected against explosions."
 Rom_Organic_Bioplates_Large_Name:
  Id: 30256
  ENG: "Romulan Bio-Regenerative Plating (Large)"
@@ -4308,10 +4308,10 @@ Fed_Organic_Bioplates_Med_Desc:
  ENG: "Plate grown on a bio-neural substrate, a living gel that senses damage and lays down new material at the edge of a breach. The substrate is tuned to the ship's own power grid, and the plate knits itself whole between engagements. Strong protection against every kind of fire. Of the Starfleet orbital plates of its size, it is the lightest, but the hardest to repair."
 Kli_Organic_Bioplates_Med_Name:
  Id: 30268
- ENG: "Klingon Living Warrior Plate (Medium)"
+ ENG: "Klingon Brak'lul Bioplate (Medium)"
 Kli_Organic_Bioplates_Med_Desc:
  Id: 30269
- ENG: "Plate grown from living tissue that heals between battles, like a good warrior."
+ ENG: "Klingons are born with two of every organ, and so is this plate. When one layer is wounded, a spare takes its place. Strong protection against every kind of fire. Of the Klingon orbital plates of its size, it is the lightest, but the hardest to repair."
 Rom_Organic_Bioplates_Med_Name:
  Id: 30270
  ENG: "Romulan Bio-Regenerative Plating (Medium)"
@@ -4350,10 +4350,10 @@ Fed_Organic_Bioplates_Small_Desc:
  ENG: "Plate grown on a bio-neural substrate, a living gel that senses damage and lays down new material at the edge of a breach. The substrate is tuned to the ship's own power grid, and the plate knits itself whole between engagements. Strong protection against every kind of fire. Of the Starfleet orbital plates of its size, it is the lightest."
 Kli_Organic_Bioplates_Small_Name:
  Id: 30282
- ENG: "Klingon Living Warrior Plate (Small)"
+ ENG: "Klingon Brak'lul Bioplate (Small)"
 Kli_Organic_Bioplates_Small_Desc:
  Id: 30283
- ENG: "Plate grown from living tissue that heals between battles, like a good warrior."
+ ENG: "Klingons are born with two of every organ, and so is this plate. When one layer is wounded, a spare takes its place. Strong protection against every kind of fire. Of the Klingon orbital plates of its size, it is the lightest."
 Rom_Organic_Bioplates_Small_Name:
  Id: 30284
  ENG: "Romulan Bio-Regenerative Plating (Small)"
@@ -4395,7 +4395,7 @@ Kli_Organic_cristal_Armor_Large_Name:
  ENG: "Klingon Living Crystal Plate (Large)"
 Kli_Organic_cristal_Armor_Large_Desc:
  Id: 30297
- ENG: "Crystal plate with a living layer that mends itself. A warrior's armour that heals."
+ ENG: "A crystal grown on living tissue, which heals as a warrior does, by enduring. Strong protection against every kind of fire. Of the Klingon orbital plates of its size, it is the best protected against energy fire and the best protected against kinetic rounds, but the costliest to build."
 Rom_Organic_cristal_Armor_Large_Name:
  Id: 30298
  ENG: "Romulan Bio-Crystal Plating (Large)"
@@ -4437,7 +4437,7 @@ Kli_Organic_cristal_Armor_Med_Name:
  ENG: "Klingon Living Crystal Plate (Medium)"
 Kli_Organic_cristal_Armor_Med_Desc:
  Id: 30311
- ENG: "Crystal plate with a living layer that mends itself. A warrior's armour that heals."
+ ENG: "A crystal grown on living tissue, which heals as a warrior does, by enduring. Strong protection against kinetic rounds, beams, energy fire, plasma and explosions. Of the Klingon orbital plates of its size, it is the best protected against plasma and the best against armour-piercing rounds, but the costliest to build."
 Rom_Organic_cristal_Armor_Med_Name:
  Id: 30312
  ENG: "Romulan Bio-Crystal Plating (Medium)"
@@ -4479,7 +4479,7 @@ Kli_Organic_cristal_Small_Name:
  ENG: "Klingon Living Crystal Plate (Small)"
 Kli_Organic_cristal_Small_Desc:
  Id: 30325
- ENG: "Crystal plate with a living layer that mends itself. A warrior's armour that heals."
+ ENG: "A crystal grown on living tissue, which heals as a warrior does, by enduring. Strong protection against every kind of fire. Of the Klingon orbital plates of its size, it is the lightest and the best protected against plasma, but the costliest to build."
 Rom_Organic_cristal_Small_Name:
  Id: 30326
  ENG: "Romulan Bio-Crystal Plating (Small)"
@@ -4518,10 +4518,10 @@ Fed_ablative_armor_Large_Desc:
  ENG: "Ablative plating for a starbase ring, replaced in sections once it has taken a beating. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Starfleet orbital plates of its size, it is the toughest and the best protected against explosions, but the heaviest."
 Kli_ablative_armor_Large_Name:
  Id: 30338
- ENG: "Klingon Ablative Fortress Armour (Large)"
+ ENG: "Klingon Fortress Ablative Plating (Large)"
 Kli_ablative_armor_Large_Desc:
  Id: 30339
- ENG: "Ablative armour for a fortress in orbit: it burns away, and the garrison fights on."
+ ENG: "Ablative plating for the fortresses of the Empire, replaced after every siege. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Klingon orbital plates of its size, it is the toughest and the best protected against explosions, but the heaviest."
 Rom_ablative_armor_Large_Name:
  Id: 30340
  ENG: "Romulan Ablative Platform Armour (Large)"
@@ -4560,10 +4560,10 @@ Fed_ablative_armor_Med_Desc:
  ENG: "Ablative plating for a starbase ring, replaced in sections once it has taken a beating. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Starfleet orbital plates of its size, it is the toughest and the best protected against beams, but the costliest to build."
 Kli_ablative_armor_Med_Name:
  Id: 30352
- ENG: "Klingon Ablative Fortress Armour (Medium)"
+ ENG: "Klingon Fortress Ablative Plating (Medium)"
 Kli_ablative_armor_Med_Desc:
  Id: 30353
- ENG: "Ablative armour for a fortress in orbit: it burns away, and the garrison fights on."
+ ENG: "Ablative plating for the fortresses of the Empire, replaced after every siege. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Klingon orbital plates of its size, it is the toughest and the best protected against beams, but the costliest to build."
 Rom_ablative_armor_Med_Name:
  Id: 30354
  ENG: "Romulan Ablative Platform Armour (Medium)"
@@ -4602,10 +4602,10 @@ Fed_ablative_armor_Small_Desc:
  ENG: "Ablative plating for a starbase ring, replaced in sections once it has taken a beating. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Starfleet orbital plates of its size, it is the toughest and the best protected against beams, but the heaviest."
 Kli_ablative_armor_Small_Name:
  Id: 30366
- ENG: "Klingon Ablative Fortress Armour (Small)"
+ ENG: "Klingon Fortress Ablative Plating (Small)"
 Kli_ablative_armor_Small_Desc:
  Id: 30367
- ENG: "Ablative armour for a fortress in orbit: it burns away, and the garrison fights on."
+ ENG: "Ablative plating for the fortresses of the Empire, replaced after every siege. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Klingon orbital plates of its size, it is the toughest and the best protected against beams, but the heaviest."
 Rom_ablative_armor_Small_Name:
  Id: 30368
  ENG: "Romulan Ablative Platform Armour (Small)"
@@ -4644,10 +4644,10 @@ Fed_large_polirised_orbital_armor_Desc:
  ENG: "Polarised plating, a current run through the hull to stiffen it against impact. It was in use before shields, and still guards the rings of starbases. Strong protection against beams, plasma and explosions, good protection against kinetic rounds. Of the Starfleet orbital plates of its size, it is the lightest and the cheapest to build, but the weakest against energy fire."
 Kli_large_polirised_orbital_armor_Name:
  Id: 30380
- ENG: "Klingon Polarised Fortress Plating (Large)"
+ ENG: "Klingon Ty'Gokor Ring Plate (Large)"
 Kli_large_polirised_orbital_armor_Desc:
  Id: 30381
- ENG: "Polarised plating for a fortress in orbit, built to hold against any attacker."
+ ENG: "Polarised plate for the ring of a fortress station, built to withstand a long siege. Strong protection against beams, plasma and explosions, good protection against kinetic rounds. Of the Klingon orbital plates of its size, it is the lightest and the cheapest to build, but the most fragile."
 Rom_large_polirised_orbital_armor_Name:
  Id: 30382
  ENG: "Romulan Polarised Platform Plating (Large)"
@@ -4686,10 +4686,10 @@ Fed_med_polirised_orbital_armor_Desc:
  ENG: "Polarised plating, a current run through the hull to stiffen it against impact. It was in use before shields, and still guards the rings of starbases. Some protection against kinetic rounds and explosions. Of the Starfleet orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Kli_med_polirised_orbital_armor_Name:
  Id: 30394
- ENG: "Klingon Polarised Fortress Plating (Medium)"
+ ENG: "Klingon Ty'Gokor Ring Plate (Medium)"
 Kli_med_polirised_orbital_armor_Desc:
  Id: 30395
- ENG: "Polarised plating for a fortress in orbit, built to hold against any attacker."
+ ENG: "Polarised plate for the ring of a fortress station, built to withstand a long siege. Some protection against kinetic rounds and explosions. Of the Klingon orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Rom_med_polirised_orbital_armor_Name:
  Id: 30396
  ENG: "Romulan Polarised Platform Plating (Medium)"
@@ -4728,10 +4728,10 @@ Fed_small_polirised_orbital_armor_Desc:
  ENG: "Polarised plating, a current run through the hull to stiffen it against impact. It was in use before shields, and still guards the rings of starbases. Some protection against kinetic rounds and explosions. Of the Starfleet orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Kli_small_polirised_orbital_armor_Name:
  Id: 30408
- ENG: "Klingon Polarised Fortress Plating (Small)"
+ ENG: "Klingon Ty'Gokor Ring Plate (Small)"
 Kli_small_polirised_orbital_armor_Desc:
  Id: 30409
- ENG: "Polarised plating for a fortress in orbit, built to hold against any attacker."
+ ENG: "Polarised plate for the ring of a fortress station, built to withstand a long siege. Some protection against kinetic rounds and explosions. Of the Klingon orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile."
 Rom_small_polirised_orbital_armor_Name:
  Id: 30410
  ENG: "Romulan Polarised Platform Plating (Small)"
@@ -4938,10 +4938,10 @@ Fed_ArmoredShield4x4_Desc:
  ENG: "Shield emitters set in a hardened housing and tied into the hull's structural integrity field, so the emitters survive a hit that breaks the shield. Strong protection against beams and energy fire. Weak against kinetic rounds."
 Kli_ArmoredShield4x4_Name:
  Id: 30478
- ENG: "Klingon Deflector Grid (Armoured 4x4)"
+ ENG: "Klingon Warship Emitter Housing"
 Kli_ArmoredShield4x4_Desc:
  Id: 30479
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A large shield that gives heavy protection at a heavy power cost."
+ ENG: "Emitters set in a hardened housing, so that they survive the beating the warship is expecting. Strong protection against beams and energy fire. Weak against kinetic rounds."
 Rom_ArmoredShield4x4_Name:
  Id: 30480
  ENG: "Romulan Shield Array (Armoured 4x4)"
@@ -4980,10 +4980,10 @@ Fed_CanopyShield_Desc:
  ENG: "A canopy field drawn over the largest hulls from a ring of emitters, with the harmonics phase-locked across the whole span. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it is the slowest to come back after being knocked down."
 Kli_CanopyShield_Name:
  Id: 30492
- ENG: "Klingon Deflector Grid (Canopy)"
+ ENG: "Klingon Battlecruiser Deflector Canopy"
 Kli_CanopyShield_Desc:
  Id: 30493
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A huge shield with high resistance and a wide protection radius, ideal for capital ships. Its power costs are enormous."
+ ENG: "A deflector canopy drawn over a battlecruiser's whole hull. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon ship shields, size for size, it is the slowest to come back after being knocked down."
 Rom_CanopyShield_Name:
  Id: 30494
  ENG: "Romulan Shield Array (Canopy)"
@@ -5022,10 +5022,10 @@ Fed_Shield_10KW_Desc:
  ENG: "The main deflector grid of Starfleet cruisers, with its emitters spread over the hull to keep the field even. Strong protection against beams and energy fire. Weak against kinetic rounds."
 Kli_Shield_10KW_Name:
  Id: 30506
- ENG: "Klingon Deflector Grid (Heavy)"
+ ENG: "Klingon D7 Deflector Grid"
 Kli_Shield_10KW_Desc:
  Id: 30507
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A large shield that gives heavy protection at a heavy power cost."
+ ENG: "The deflector grid of the D7 battlecruiser, the old warhorse of the fleet. Strong protection against beams and energy fire. Weak against kinetic rounds."
 Rom_Shield_10KW_Name:
  Id: 30508
  ENG: "Romulan Shield Array (Heavy)"
@@ -5064,10 +5064,10 @@ Fed_Shield_1KW_Desc:
  ENG: "The standard deflector generator of Starfleet escorts and patrol craft, with its emitters modulated across a narrow frequency band. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it covers the narrowest area."
 Kli_Shield_1KW_Name:
  Id: 30520
- ENG: "Klingon Deflector Grid (Basic)"
+ ENG: "Klingon Patrol Deflector Generator"
 Kli_Shield_1KW_Desc:
  Id: 30521
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A very basic shield generator with a short protective radius and a slow recharge."
+ ENG: "The standard deflector generator of Klingon patrol ships. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon ship shields, size for size, it covers the narrowest area."
 Rom_Shield_1KW_Name:
  Id: 30522
  ENG: "Romulan Shield Array (Basic)"
@@ -5106,10 +5106,10 @@ Fed_advanced_CanopyShields_Desc:
  ENG: "An experimental canopy that applies transphasic subspace compression to the field. The phase configuration is randomised so it cannot be predicted. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power."
 Kli_advanced_CanopyShields_Name:
  Id: 30534
- ENG: "Klingon Deflector Grid (Advanced Canopy)"
+ ENG: "Klingon Negh'Var Deflector Canopy"
 Kli_advanced_CanopyShields_Desc:
  Id: 30535
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. An improved canopy shield with higher resistance and a wide radius, for capital ships. Its power costs are enormous."
+ ENG: "The deflector canopy of a Negh'Var-class warship, the flagship of the fleet. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power."
 Rom_advanced_CanopyShields_Name:
  Id: 30536
  ENG: "Romulan Shield Array (Advanced Canopy)"
@@ -5148,10 +5148,10 @@ Fed_advanced_crusier_sheaild_Desc:
  ENG: "The grid reads incoming fire and remodulates its shield harmonics to match, so each hit lands on a field already tuned against it. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it is the quickest to come back after being knocked down."
 Kli_advanced_crusier_sheaild_Name:
  Id: 30548
- ENG: "Klingon Deflector Grid (Advanced Cruiser)"
+ ENG: "Klingon Vor'cha Deflector Grid"
 Kli_advanced_crusier_sheaild_Desc:
  Id: 30549
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A large shield for cruisers that gives heavy protection at a heavy power cost."
+ ENG: "The deflector grid of the Vor'cha-class attack cruiser, a heavy ship made to fight the Empire's wars. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon ship shields, size for size, it is the quickest to come back after being knocked down."
 Rom_advanced_crusier_sheaild_Name:
  Id: 30550
  ENG: "Romulan Shield Array (Advanced Cruiser)"
@@ -5190,10 +5190,10 @@ Fed_Fighter_Shield_Desc:
  ENG: "Compact deflector emitter for shuttles and runabouts. It holds a single modulated shield frequency in the megahertz range, the same band as the shields of larger Starfleet ships. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet fighter shields, size for size, it draws the least power, but holds the least energy."
 Kli_Fighter_Shield_Name:
  Id: 30562
- ENG: "Klingon Deflector Grid (Fighter)"
+ ENG: "Klingon Raider Deflector Emitter"
 Kli_Fighter_Shield_Desc:
  Id: 30563
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A fighter shield with a decent radius that can only take a few hits, but recharges quickly."
+ ENG: "A light deflector emitter for raiders and scouts, which trust speed and teeth more than shielding. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon fighter shields, size for size, it draws the least power, but holds the least energy."
 Rom_Fighter_Shield_Name:
  Id: 30564
  ENG: "Romulan Shield Array (Fighter)"
@@ -5232,10 +5232,10 @@ Fed_advanced_fighter_sheaild_Desc:
  ENG: "The emitter steps through a rotating shield frequency, so an enemy that has matched one harmonic is thrown off at the next. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet fighter shields, size for size, it recharges the fastest, but draws the most power."
 Kli_advanced_fighter_sheaild_Name:
  Id: 30576
- ENG: "Klingon Deflector Grid (Advanced Fighter)"
+ ENG: "Klingon Wing Deflector Emitter"
 Kli_advanced_fighter_sheaild_Desc:
  Id: 30577
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. An improved fighter shield with a decent radius that recharges quickly."
+ ENG: "An emitter set in the wing of a small warship, built to keep it alive long enough to close with the enemy. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon fighter shields, size for size, it recharges the fastest, but draws the most power."
 Rom_advanced_fighter_sheaild_Name:
  Id: 30578
  ENG: "Romulan Shield Array (Advanced Fighter)"
@@ -5274,10 +5274,10 @@ Fed_prototype_fighter_shealds_Desc:
  ENG: "A test emitter that carries the shield harmonics on a tighter subspace field. It is a prototype, and the engineers still tune it by hand. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet fighter shields, size for size, it is the quickest to come back after being knocked down and draws the least power."
 Kli_prototype_fighter_shealds_Name:
  Id: 30590
- ENG: "Klingon Deflector Grid (Prototype Fighter)"
+ ENG: "Klingon Cloak-Compatible Prototype Emitter"
 Kli_prototype_fighter_shealds_Desc:
  Id: 30591
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A prototype fighter shield: powerful, but experimental."
+ ENG: "An emitter built to work alongside a cloak. Early cloaks could not run while shields were up, and this prototype is an attempt to change that. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon fighter shields, size for size, it is the quickest to come back after being knocked down and draws the least power."
 Rom_prototype_fighter_shealds_Name:
  Id: 30592
  ENG: "Romulan Shield Array (Prototype Fighter)"
@@ -5316,10 +5316,10 @@ Fed_transphasic_fighter_shealds_Desc:
  ENG: "Borrows the subspace compression pulse of transphasic weapons for its field, with a randomised phase pattern across the grid. An enemy has no steady frequency to learn. Strong protection against beams and energy fire. Of the Starfleet fighter shields, size for size, it holds the most energy and covers the widest area, but draws the most power."
 Kli_transphasic_fighter_shealds_Name:
  Id: 30604
- ENG: "Klingon Deflector Grid (Transphasic Fighter)"
+ ENG: "Klingon Honour Guard Emitter"
 Kli_transphasic_fighter_shealds_Desc:
  Id: 30605
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A fighter shield using transphasic technology, with high resistance and a quick recharge."
+ ENG: "An emitter built for the picked ships that guard the High Council, where failure is not forgiven. Strong protection against beams and energy fire. Of the Klingon fighter shields, size for size, it holds the most energy and covers the widest area, but draws the most power."
 Rom_transphasic_fighter_shealds_Name:
  Id: 30606
  ENG: "Romulan Shield Array (Transphasic Fighter)"
@@ -5358,10 +5358,10 @@ Fed_freighter_sheaild_Desc:
  ENG: "A simple deflector generator for cargo haulers and tenders. It is built to turn away debris and the odd raider. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it draws the least power and is the lightest, but holds the least energy."
 Kli_freighter_sheaild_Name:
  Id: 30618
- ENG: "Klingon Deflector Grid (Freighter)"
+ ENG: "Klingon Hauler Deflector Generator"
 Kli_freighter_sheaild_Desc:
  Id: 30619
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A basic shield for freighters: short radius and a slow recharge."
+ ENG: "A plain deflector generator for supply haulers. The Empire's warriors are expected to guard them. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon ship shields, size for size, it draws the least power and is the lightest, but holds the least energy."
 Rom_freighter_sheaild_Name:
  Id: 30620
  ENG: "Romulan Shield Array (Freighter)"
@@ -5400,10 +5400,10 @@ Fed_frigate_shealds_Desc:
  ENG: "A multiphasic grid, the advanced Federation deflector type that also shields against subspace radiation and the energy emissions of stars. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build."
 Kli_frigate_shealds_Name:
  Id: 30632
- ENG: "Klingon Deflector Grid (Frigate)"
+ ENG: "Klingon Bird-of-Prey Deflector Grid"
 Kli_frigate_shealds_Desc:
  Id: 30633
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A basic shield for frigates: short radius and a slow recharge."
+ ENG: "The standard deflector shields of a Bird-of-Prey, the raider, scout and patrol ship of the Empire. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build."
 Rom_frigate_shealds_Name:
  Id: 30634
  ENG: "Romulan Shield Array (Frigate)"
@@ -5442,10 +5442,10 @@ Fed_ORBITAL_SHEAILD_2X2_Desc:
  ENG: "A deflector for pickets and defence stations, powered from the station's own grid. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet platform shields, size for size, it holds the most energy and recharges the fastest, but covers the narrowest area."
 Kli_ORBITAL_SHEAILD_2X2_Name:
  Id: 30646
- ENG: "Klingon Deflector Grid (Orbital 2x2)"
+ ENG: "Klingon Outpost Deflector Generator"
 Kli_ORBITAL_SHEAILD_2X2_Desc:
  Id: 30647
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A huge shield for orbital platforms, with high resistance and a wide protection radius."
+ ENG: "A deflector generator for outposts on the frontier. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon platform shields, size for size, it holds the most energy and recharges the fastest, but covers the narrowest area."
 Rom_ORBITAL_SHEAILD_2X2_Name:
  Id: 30648
  ENG: "Romulan Shield Array (Orbital 2x2)"
@@ -5484,10 +5484,10 @@ Fed_ORBITAL_SHEAILD_2X2_MK2_Desc:
  ENG: "A platform deflector with its emitters phase-locked into one field. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet platform shields, size for size, it is the lightest and the cheapest to build, but holds the least energy."
 Kli_ORBITAL_SHEAILD_2X2_MK2_Name:
  Id: 30660
- ENG: "Klingon Deflector Grid (Orbital 2x2 Mk2)"
+ ENG: "Klingon Warrior Defence Field"
 Kli_ORBITAL_SHEAILD_2X2_MK2_Desc:
  Id: 30661
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. An improved orbital shield with higher resistance and a wide protection radius."
+ ENG: "A defence field for a garrison, built to last until reinforcements arrive. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon platform shields, size for size, it is the lightest and the cheapest to build, but holds the least energy."
 Rom_ORBITAL_SHEAILD_2X2_MK2_Name:
  Id: 30662
  ENG: "Romulan Shield Array (Orbital 2x2 Mk2)"
@@ -5526,10 +5526,10 @@ Fed_TRANSPHASIC_OWP_SHEAILD_Desc:
  ENG: "A transphasic shield for the largest platforms, with a subspace compression pulse that randomises the phase of the field. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet platform shields, size for size, it covers the widest area, but draws the most power."
 Kli_TRANSPHASIC_OWP_SHEAILD_Name:
  Id: 30674
- ENG: "Klingon Deflector Grid (Transphasic Orbital Platform)"
+ ENG: "Klingon Planetary Platform Shield"
 Kli_TRANSPHASIC_OWP_SHEAILD_Desc:
  Id: 30675
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A transphasic shield for orbital weapon platforms, with very high resistance and a wide radius."
+ ENG: "A shield for the great defence platforms that guard Klingon worlds. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon platform shields, size for size, it covers the widest area, but draws the most power."
 Rom_TRANSPHASIC_OWP_SHEAILD_Name:
  Id: 30676
  ENG: "Romulan Shield Array (Transphasic Orbital Platform)"
@@ -5568,10 +5568,10 @@ Fed_small_station_sheaild_mk1_Desc:
  ENG: "A shield emitter for outposts and relay stations, tied to the station's structural integrity field. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet station shields, size for size, it draws the least power and is the cheapest to build, but holds the least energy."
 Kli_small_station_sheaild_mk1_Name:
  Id: 30688
- ENG: "Klingon Deflector Grid (Small Station)"
+ ENG: "Klingon Station Shield Emitter"
 Kli_small_station_sheaild_mk1_Desc:
  Id: 30689
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A shield for small stations, with high resistance and a wide protection radius."
+ ENG: "A shield emitter for a small Klingon station. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon station shields, size for size, it draws the least power and is the cheapest to build, but holds the least energy."
 Rom_small_station_sheaild_mk1_Name:
  Id: 30690
  ENG: "Romulan Shield Array (Small Station)"
@@ -5610,10 +5610,10 @@ Fed_starbase_sheailds_Desc:
  ENG: "The full shield grid of a large Starbase, with multiphasic emitters across the ring and the docking arms. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet station shields, size for size, it holds the most energy and is the lightest."
 Kli_starbase_sheailds_Name:
  Id: 30702
- ENG: "Klingon Deflector Grid (Starbase)"
+ ENG: "Klingon Ty'Gokor Shield Grid"
 Kli_starbase_sheailds_Desc:
  Id: 30703
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A monstrous shield for starbases, with very high resistance and a massive protection radius."
+ ENG: "The shield grid of Ty'Gokor, the great fortress of the Klingon Empire. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon station shields, size for size, it holds the most energy and is the lightest."
 Rom_starbase_sheailds_Name:
  Id: 30704
  ENG: "Romulan Shield Array (Starbase)"
@@ -5652,10 +5652,10 @@ Fed_station_deflector_mk1_Desc:
  ENG: "The main deflector array of a Starbase, with emitters on every pylon and rotating shield harmonics. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet station shields, size for size, it has the sturdiest housing, but draws the most power."
 Kli_station_deflector_mk1_Name:
  Id: 30716
- ENG: "Klingon Deflector Grid (Station Mk1)"
+ ENG: "Klingon Station Deflector Array"
 Kli_station_deflector_mk1_Desc:
  Id: 30717
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A deflector array for stations, with high resistance and a wide protection radius."
+ ENG: "The deflector array of a Klingon station, with emitters on every arm. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon station shields, size for size, it has the sturdiest housing, but draws the most power."
 Rom_station_deflector_mk1_Name:
  Id: 30718
  ENG: "Romulan Shield Array (Station Mk1)"
@@ -5694,10 +5694,10 @@ Fed_station_deflector_mk2_Desc:
  ENG: "The deflector of the great Spacedock stations, with adaptive harmonics that follow every ship in the docking zone. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet station shields, size for size, it recharges the fastest and covers the widest area, but is the costliest to build."
 Kli_station_deflector_mk2_Name:
  Id: 30730
- ENG: "Klingon Deflector Grid (Station Mk2)"
+ ENG: "Klingon Fortress Deflector Array"
 Kli_station_deflector_mk2_Desc:
  Id: 30731
- ENG: "A Klingon deflector grid: loud, rugged and built to keep a warship fighting. An improved station deflector with higher resistance and a wide protection radius."
+ ENG: "The deflector array of the Empire's greatest fortresses. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon station shields, size for size, it recharges the fastest and covers the widest area, but is the costliest to build."
 Rom_station_deflector_mk2_Name:
  Id: 30732
  ENG: "Romulan Shield Array (Station Mk2)"
@@ -5736,10 +5736,10 @@ Fed_station_phasor_beem_mk1_Desc:
  ENG: "A phaser lance for outposts, firing a narrow beam through a tight phase discriminator. Of the Starfleet orbital beam weapons, it is the sturdiest for its size, but hits the softest."
 Kli_station_phasor_beem_mk1_Name:
  Id: 30744
- ENG: "Klingon Orbital Disruptor Array Mk1"
+ ENG: "Klingon Outpost Disruptor Lance"
 Kli_station_phasor_beem_mk1_Desc:
  Id: 30745
- ENG: "A disruptor array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Loud, brutal and made to win glory."
+ ENG: "A disruptor lance for outposts on the frontier. Of the Klingon orbital beam weapons, it is the sturdiest for its size, but hits the softest."
 Rom_station_phasor_beem_mk1_Name:
  Id: 30746
  ENG: "Romulan Orbital Disruptor Array Mk1"
@@ -5778,10 +5778,10 @@ Fed_station_phasor_beem_mk2_Desc:
  ENG: "A phased array for a Starbase, with an array of emitters on the ring."
 Kli_station_phasor_beem_mk2_Name:
  Id: 30758
- ENG: "Klingon Orbital Disruptor Array Mk2"
+ ENG: "Klingon Station Disruptor Array"
 Kli_station_phasor_beem_mk2_Desc:
  Id: 30759
- ENG: "A disruptor array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Loud, brutal and made to win glory. An improved model."
+ ENG: "A disruptor array for a Klingon station."
 Rom_station_phasor_beem_mk2_Name:
  Id: 30760
  ENG: "Romulan Orbital Disruptor Array Mk2"
@@ -5820,10 +5820,10 @@ Fed_station_phasor_beem_mk3_Desc:
  ENG: "A phased array for a Spacedock, fed by the full power of the station."
 Kli_station_phasor_beem_mk3_Name:
  Id: 30772
- ENG: "Klingon Orbital Disruptor Array Mk3"
+ ENG: "Klingon Ty'Gokor Disruptor Array"
 Kli_station_phasor_beem_mk3_Desc:
  Id: 30773
- ENG: "A disruptor array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Loud, brutal and made to win glory. A refined, later model."
+ ENG: "A disruptor array for a great fortress."
 Rom_station_phasor_beem_mk3_Name:
  Id: 30774
  ENG: "Romulan Orbital Disruptor Array Mk3"
@@ -5862,10 +5862,10 @@ Fed_station_phasor_beem_mk4_Desc:
  ENG: "The heavy lance of the Federation's defence grid, focused through a rotating phase discriminator. Of the Starfleet orbital beam weapons, it hits the hardest and reaches the farthest, but is the frailest for its size."
 Kli_station_phasor_beem_mk4_Name:
  Id: 30786
- ENG: "Klingon Orbital Disruptor Array Mk4"
+ ENG: "Klingon Warlord Disruptor Lance"
 Kli_station_phasor_beem_mk4_Desc:
  Id: 30787
- ENG: "A disruptor array for orbital platforms and stations: a steady beam that tracks its target and recharges quickly. Loud, brutal and made to win glory. An advanced late-generation model."
+ ENG: "The long disruptor lance of the Empire's greatest fortresses. Of the Klingon orbital beam weapons, it hits the hardest and reaches the farthest, but is the frailest for its size."
 Rom_station_phasor_beem_mk4_Name:
  Id: 30788
  ENG: "Romulan Orbital Disruptor Array Mk4"
@@ -5904,10 +5904,10 @@ Fed_orbital_defence_torpedo_Desc:
  ENG: "A fixed torpedo tube for stations and garrisons. Of the Starfleet orbital torpedo weapons, it fires the fastest and is the sturdiest for its size, but hits the softest."
 Kli_orbital_defence_torpedo_Name:
  Id: 30800
- ENG: "Klingon Orbital Defence Photon Launcher"
+ ENG: "Klingon Defence Torpedo Tube"
 Kli_orbital_defence_torpedo_Desc:
  Id: 30801
- ENG: "A photon torpedo launcher for orbital defence: slow to reload, but every warhead hits hard. Loud, brutal and made to win glory."
+ ENG: "A fixed torpedo tube for a garrison. Of the Klingon orbital torpedo weapons, it fires the fastest and is the sturdiest for its size, but hits the softest."
 Rom_orbital_defence_torpedo_Name:
  Id: 30802
  ENG: "Romulan Orbital Defence Plasma Launcher"
@@ -5946,10 +5946,10 @@ Fed_station_adv_torpedo_mk1_Desc:
  ENG: "A battery of quantum torpedoes, with the vacuum-energy cores held in a shielded magazine. Of the Starfleet orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size."
 Kli_station_adv_torpedo_mk1_Name:
  Id: 30814
- ENG: "Klingon Orbital Advanced Photon Launcher"
+ ENG: "Klingon Fortress Torpedo Battery"
 Kli_station_adv_torpedo_mk1_Desc:
  Id: 30815
- ENG: "An advanced photon torpedo launcher for stations and platforms, with a bigger warhead and better guidance. Loud, brutal and made to win glory."
+ ENG: "A battery of torpedoes for a fortress. Of the Klingon orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size."
 Rom_station_adv_torpedo_mk1_Name:
  Id: 30816
  ENG: "Romulan Orbital Advanced Plasma Launcher"
@@ -5988,10 +5988,10 @@ Fed_station_hevey_torpedo_mk1_Desc:
  ENG: "The heaviest battery on a Starbase. Its torpedoes use a subspace compression pulse with a randomised phase pattern, which no shield can predict. Of the Starfleet orbital torpedo weapons, it hits the hardest and is the cheapest for its size, but fires the slowest."
 Kli_station_hevey_torpedo_mk1_Name:
  Id: 30828
- ENG: "Klingon Orbital Heavy Photon Launcher"
+ ENG: "Klingon Empire Torpedo Battery"
 Kli_station_hevey_torpedo_mk1_Desc:
  Id: 30829
- ENG: "A heavy photon torpedo launcher for stations and platforms: a large warhead on a long reload. Loud, brutal and made to win glory."
+ ENG: "The heaviest torpedo battery the Empire keeps. Of the Klingon orbital torpedo weapons, it hits the hardest and is the cheapest for its size, but fires the slowest."
 Rom_station_hevey_torpedo_mk1_Name:
  Id: 30830
  ENG: "Romulan Orbital Heavy Plasma Launcher"
@@ -6030,10 +6030,10 @@ Fed_station_torpedo_launcher_mk1_Desc:
  ENG: "A launcher for a Starbase's garrison, kept loaded in case of attack. Of the Starfleet orbital torpedo weapons, it fires the fastest, but has the slowest shots."
 Kli_station_torpedo_launcher_mk1_Name:
  Id: 30842
- ENG: "Klingon Orbital Photon Launcher Mk1"
+ ENG: "Klingon Station Photon Launcher"
 Kli_station_torpedo_launcher_mk1_Desc:
  Id: 30843
- ENG: "A guided photon torpedo launcher for stations and platforms. Loud, brutal and made to win glory."
+ ENG: "A photon torpedo launcher for a Klingon station, kept loaded. Of the Klingon orbital torpedo weapons, it fires the fastest, but has the slowest shots."
 Rom_station_torpedo_launcher_mk1_Name:
  Id: 30844
  ENG: "Romulan Orbital Plasma Launcher Mk1"
@@ -6072,10 +6072,10 @@ Fed_station_torpedo_launcher_mk2_Desc:
  ENG: "A Starbase launcher with a reinforced magazine. Of the Starfleet orbital torpedo weapons, it has the fastest shots, but fires the slowest."
 Kli_station_torpedo_launcher_mk2_Name:
  Id: 30856
- ENG: "Klingon Orbital Photon Launcher Mk2"
+ ENG: "Klingon Reinforced Station Launcher"
 Kli_station_torpedo_launcher_mk2_Desc:
  Id: 30857
- ENG: "A guided photon torpedo launcher for stations and platforms. Loud, brutal and made to win glory. An improved model."
+ ENG: "A station launcher with a reinforced magazine. Of the Klingon orbital torpedo weapons, it has the fastest shots, but fires the slowest."
 Rom_station_torpedo_launcher_mk2_Name:
  Id: 30858
  ENG: "Romulan Orbital Plasma Launcher Mk2"
@@ -6114,10 +6114,10 @@ Fed_orbital_cannons_Desc:
  ENG: "A fixed phaser bank for a planetary defence post, aimed by the station's tactical computer. Of the Starfleet orbital cannon weapons, it fires the slowest."
 Kli_orbital_cannons_Name:
  Id: 30870
- ENG: "Klingon Orbital Disruptor Cannon Battery (Basic)"
+ ENG: "Klingon Defence Disruptor Bank"
 Kli_orbital_cannons_Desc:
  Id: 30871
- ENG: "A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Loud, brutal and made to win glory."
+ ENG: "A fixed disruptor bank for a garrison. Of the Klingon orbital cannon weapons, it fires the slowest."
 Rom_orbital_cannons_Name:
  Id: 30872
  ENG: "Romulan Orbital Plasma Cannon Battery (Basic)"
@@ -6156,10 +6156,10 @@ Fed_orbital_cannons_mk1_Desc:
  ENG: "A heavy phaser cannon for a Starbase's ring. Of the Starfleet orbital cannon weapons, it has the fastest shots, but fires the slowest."
 Kli_orbital_cannons_mk1_Name:
  Id: 30884
- ENG: "Klingon Orbital Disruptor Cannon Battery Mk1"
+ ENG: "Klingon Orbital Disruptor Cannon"
 Kli_orbital_cannons_mk1_Desc:
  Id: 30885
- ENG: "A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Loud, brutal and made to win glory."
+ ENG: "A heavy disruptor cannon for a station's ring. Of the Klingon orbital cannon weapons, it has the fastest shots, but fires the slowest."
 Rom_orbital_cannons_mk1_Name:
  Id: 30886
  ENG: "Romulan Orbital Plasma Cannon Battery Mk1"
@@ -6198,10 +6198,10 @@ Fed_orbital_cannons_mk2_Desc:
  ENG: "A battery of phaser cannons set around the ring of a Starbase. Of the Starfleet orbital cannon weapons, it has the fastest shots."
 Kli_orbital_cannons_mk2_Name:
  Id: 30898
- ENG: "Klingon Orbital Disruptor Cannon Battery Mk2"
+ ENG: "Klingon Ring Disruptor Battery"
 Kli_orbital_cannons_mk2_Desc:
  Id: 30899
- ENG: "A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Loud, brutal and made to win glory. An improved model."
+ ENG: "A battery of disruptor cannons around a station's ring. Of the Klingon orbital cannon weapons, it has the fastest shots."
 Rom_orbital_cannons_mk2_Name:
  Id: 30900
  ENG: "Romulan Orbital Plasma Cannon Battery Mk2"
@@ -6240,10 +6240,10 @@ Fed_orbital_cannons_mk3_Desc:
  ENG: "A battery fitted to the arms of a Spacedock. Of the Starfleet orbital cannon weapons, it is the cheapest for its size and has the fastest shots, but is the frailest for its size."
 Kli_orbital_cannons_mk3_Name:
  Id: 30912
- ENG: "Klingon Orbital Disruptor Cannon Battery Mk3"
+ ENG: "Klingon Ty'Gokor Disruptor Battery"
 Kli_orbital_cannons_mk3_Desc:
  Id: 30913
- ENG: "A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Loud, brutal and made to win glory. A refined, later model."
+ ENG: "A battery fitted to a great fortress, as at Ty'Gokor. Of the Klingon orbital cannon weapons, it is the cheapest for its size and has the fastest shots, but is the frailest for its size."
 Rom_orbital_cannons_mk3_Name:
  Id: 30914
  ENG: "Romulan Orbital Plasma Cannon Battery Mk3"
@@ -6282,10 +6282,10 @@ Fed_orbital_cannons_mk4_Desc:
  ENG: "The largest phaser battery on a Starbase, with an emitter spread wide to cover a whole sector of sky. Of the Starfleet orbital cannon weapons, it hits the hardest and reaches the farthest."
 Kli_orbital_cannons_mk4_Name:
  Id: 30926
- ENG: "Klingon Orbital Disruptor Cannon Battery Mk4"
+ ENG: "Klingon Fortress Disruptor Battery"
 Kli_orbital_cannons_mk4_Desc:
  Id: 30927
- ENG: "A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Loud, brutal and made to win glory. An advanced late-generation model."
+ ENG: "The largest disruptor battery in the Empire's fortresses. Of the Klingon orbital cannon weapons, it hits the hardest and reaches the farthest."
 Rom_orbital_cannons_mk4_Name:
  Id: 30928
  ENG: "Romulan Orbital Plasma Cannon Battery Mk4"
@@ -6324,10 +6324,10 @@ Fed_orbital_weapons_platform_Desc:
  ENG: "A phaser array for automated defence platforms in orbit, fed from the platform's own power grid. Of the Starfleet orbital cannon weapons, it is the sturdiest for its size, but hits the softest."
 Kli_orbital_weapons_platform_Name:
  Id: 30940
- ENG: "Klingon Orbital Weapons Platform"
+ ENG: "Klingon Defence Platform Disruptor Array"
 Kli_orbital_weapons_platform_Desc:
  Id: 30941
- ENG: "A heavy Klingon weapons platform for orbital defence, firing in a wide arc. Loud, brutal and made to win glory."
+ ENG: "A disruptor array for the platforms that guard Klingon worlds. Of the Klingon orbital cannon weapons, it is the sturdiest for its size, but hits the softest."
 Rom_orbital_weapons_platform_Name:
  Id: 30942
  ENG: "Romulan Orbital Weapons Platform"

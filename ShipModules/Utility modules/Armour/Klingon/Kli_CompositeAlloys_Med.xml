@@ -8,7 +8,7 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Kli_CompositeAlloys_Med</Name>
+    <Name>Klingon Bat'leth Composite Plate (Medium)</Name>
     <Restrictions>O</Restrictions>
     <UID>Kli_CompositeAlloys_Med</UID> 
   <Version>2</Version>
@@ -30,6 +30,6 @@
     <ExplosiveResist>0.16</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Composite plate layered for the heaviest of Klingon warships: it takes punishment and keeps fighting.</Description>
+    <Description>Alloys folded in layers like the blade of a bat'leth, each fold adding strength to the edge. Good protection against explosions, some protection against kinetic rounds. Of the Klingon ship plates of its size, it is the weakest against beams.</Description>
     <APResist>1</APResist>    
 </ShipModule>

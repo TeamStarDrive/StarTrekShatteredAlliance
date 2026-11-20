@@ -22,7 +22,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Kli_freighter_sheaild</Name>
+  <Name>Klingon Hauler Deflector Generator</Name>
   <Restrictions>IO</Restrictions>
   <UID>Kli_freighter_sheaild</UID> 
   <Version>2</Version>
@@ -31,7 +31,7 @@
   <Mass>16</Mass>
   <HealthMax>2900</HealthMax>
   
-  <Description>A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A basic shield for freighters: short radius and a slow recharge.</Description>
+  <Description>A plain deflector generator for supply haulers. The Empire's warriors are expected to guard them. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
   
   
   <PowerDraw>15</PowerDraw>

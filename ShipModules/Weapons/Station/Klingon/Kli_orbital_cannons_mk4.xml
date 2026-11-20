@@ -18,13 +18,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>5</XSize>
   <YSize>5</YSize>
-  <Name>Kli_orbital_cannons_mk4</Name>
+  <Name>Klingon Fortress Disruptor Battery</Name>
   <Restrictions>O</Restrictions>
   <UID>Kli_orbital_cannons_mk4</UID>
   <IconTexturePath>Modules/orbital_cannons_mk4</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>58612</HealthMax>
-  <Description>A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Loud, brutal and made to win glory. An advanced late-generation model.</Description>
+  <Description>The largest disruptor battery in the Empire's fortresses. Of the Klingon orbital cannon weapons, it hits the hardest and reaches the farthest.</Description>
   
   
   <PowerDraw>60</PowerDraw>

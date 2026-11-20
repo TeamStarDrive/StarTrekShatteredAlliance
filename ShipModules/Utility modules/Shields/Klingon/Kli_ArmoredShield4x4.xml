@@ -15,12 +15,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Kli_ArmoredShield4x4</Name>
+  <Name>Klingon Warship Emitter Housing</Name>
   <IconTexturePath>Modules/ArmoredShield4x4</IconTexturePath>
   <Mass>144</Mass>
   <HealthMax>27500</HealthMax>
   
-  <Description>A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A large shield that gives heavy protection at a heavy power cost.</Description>
+  <Description>Emitters set in a hardened housing, so that they survive the beating the warship is expecting. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>300</PowerDraw>

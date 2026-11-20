@@ -16,7 +16,7 @@
   <XSize>5</XSize>
   <YSize>5</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Kli_station_adv_torpedo_mk1</Name>
+  <Name>Klingon Fortress Torpedo Battery</Name>
   <Restrictions>O</Restrictions>
   <UID>Kli_station_adv_torpedo_mk1</UID> 
   <Version>2</Version>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_adv_torpedo_mk1</IconTexturePath>
   <Mass>14500</Mass>
   <HealthMax>84500</HealthMax>
-  <Description>An advanced photon torpedo launcher for stations and platforms, with a bigger warhead and better guidance. Loud, brutal and made to win glory.</Description>
+  <Description>A battery of torpedoes for a fortress. Of the Klingon orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size.</Description>
   
   
   <PowerDraw>5</PowerDraw>

@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Klingon_cloaked_torpedo</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>9500</HealthMax>
-  <Description>A launcher whose torpedoes stay cloaked in flight and decloak only at the moment of impact. Forged for the Empire: loud, brutal and made to win glory.</Description>
+  <Description>A launcher built for firing from under cloak, in the manner of the later cloaking prototypes that could fire while cloaked. Of the Klingon torpedo weapons, it reaches the farthest and fires the fastest, but has the smallest blast.</Description>
   
   
   <PowerDraw>5</PowerDraw>

@@ -10,7 +10,7 @@
   <XSize>2</XSize>
   <YSize>2</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Kli_SteelArmorMed</Name>
+  <Name>Klingon Battlecruiser Hull Plate (Medium)</Name>
   <Restrictions>O</Restrictions>
   <UID>Kli_SteelArmorMed</UID> 
   <Version>2</Version>
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.04</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Thick duranium plate hammered out in the forges of Qo'noS: heavy, crude and hard to break.</Description>
+  <Description>Heavy plate for the battlecruisers of the Empire, thick and unadorned. "...a military ship, not a pleasure craft." (Captain K'Vada, TNG: "Unification I") Gives almost no protection against fire; it is there to soak up damage. Of the Klingon ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile.</Description>
   
 
 </ShipModule>

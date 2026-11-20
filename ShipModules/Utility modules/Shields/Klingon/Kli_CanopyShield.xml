@@ -13,12 +13,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>Kli_CanopyShield</Name>
+  <Name>Klingon Battlecruiser Deflector Canopy</Name>
   <IconTexturePath>Modules/shield_3x6</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>80188</HealthMax>
   
-  <Description>A Klingon deflector grid: loud, rugged and built to keep a warship fighting. A huge shield with high resistance and a wide protection radius, ideal for capital ships. Its power costs are enormous.</Description>
+  <Description>A deflector canopy drawn over a battlecruiser's whole hull. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon ship shields, size for size, it is the slowest to come back after being knocked down.</Description>
   
   
   <PowerDraw>900</PowerDraw>

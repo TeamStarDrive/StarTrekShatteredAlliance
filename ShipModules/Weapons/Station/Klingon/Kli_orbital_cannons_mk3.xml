@@ -18,13 +18,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>5</XSize>
   <YSize>5</YSize>
-  <Name>Kli_orbital_cannons_mk3</Name>
+  <Name>Klingon Ty'Gokor Disruptor Battery</Name>
   <Restrictions>O</Restrictions>
   <UID>Kli_orbital_cannons_mk3</UID>
   <IconTexturePath>Modules/orbital_cannons_mk3</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>38612</HealthMax>
-  <Description>A Disruptor Cannon battery on an omni-directional orbital mount: heavy shells with a moderate blast radius. Loud, brutal and made to win glory. A refined, later model.</Description>
+  <Description>A battery fitted to a great fortress, as at Ty'Gokor. Of the Klingon orbital cannon weapons, it is the cheapest for its size and has the fastest shots, but is the frailest for its size.</Description>
   
   
   <PowerDraw>40</PowerDraw>

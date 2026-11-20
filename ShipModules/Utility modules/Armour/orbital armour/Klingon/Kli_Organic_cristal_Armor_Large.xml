@@ -20,7 +20,7 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Kli_Organic_cristal_Armor_Large</Name>
+    <Name>Klingon Living Crystal Plate (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>Kli_Organic_cristal_Armor_Large</UID> 
   <Version>2</Version>
@@ -42,6 +42,6 @@
     <PlasmaResist>0.7</PlasmaResist>
 
     <!-- Description -->
-    <Description>Crystal plate with a living layer that mends itself. A warrior's armour that heals.</Description>
+    <Description>A crystal grown on living tissue, which heals as a warrior does, by enduring. Strong protection against every kind of fire. Of the Klingon orbital plates of its size, it is the best protected against energy fire and the best protected against kinetic rounds, but the costliest to build.</Description>
     <APResist>2</APResist>
 </ShipModule>

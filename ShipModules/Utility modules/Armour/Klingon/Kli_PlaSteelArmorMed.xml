@@ -10,7 +10,7 @@
   <XSize>2</XSize>
   <YSize>2</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Kli_PlaSteelArmorMed</Name>
+  <Name>Klingon Qo'noS Yard Laminate (Medium)</Name>
   <Restrictions>O</Restrictions>
   <UID>Kli_PlaSteelArmorMed</UID> 
   <Version>2</Version>
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.08</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Tritanium plate scored with the marks of earlier battles: light enough for a fast ship, strong enough to be proud of.</Description>
+  <Description>A laminate turned out in the shipyards of Qo'noS, rolled in great sheets for the fleet. Some protection against explosions. Of the Klingon ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams.</Description>
   
 
 </ShipModule>

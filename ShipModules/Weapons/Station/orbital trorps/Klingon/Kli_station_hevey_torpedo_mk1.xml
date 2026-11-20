@@ -16,7 +16,7 @@
   <XSize>5</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Kli_station_hevey_torpedo_mk1</Name>
+  <Name>Klingon Empire Torpedo Battery</Name>
   <Restrictions>O</Restrictions>
   <UID>Kli_station_hevey_torpedo_mk1</UID> 
   <Version>2</Version>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_hevey_torpedo_mk1</IconTexturePath>
   <Mass>14000</Mass>
   <HealthMax>70500</HealthMax>
-  <Description>A heavy photon torpedo launcher for stations and platforms: a large warhead on a long reload. Loud, brutal and made to win glory.</Description>
+  <Description>The heaviest torpedo battery the Empire keeps. Of the Klingon orbital torpedo weapons, it hits the hardest and is the cheapest for its size, but fires the slowest.</Description>
   
   
   <PowerDraw>5</PowerDraw>
