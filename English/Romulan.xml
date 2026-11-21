@@ -1,0 +1,658 @@
+﻿<DiplomacyDialog>
+  <Dialogs>
+  <DialogLine>
+      <DialogType>TREATY_TOO_SOON_REJECT</DialogType>
+      <Default>The Senate does not bind the Empire to a treaty on so short an acquaintance. Patience is a virtue we expect in others.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>First Contact</DialogType>
+      <Friendly>Greetings. We are the Romulan Star Empire. We are pleased to find a people who understand the value of a measured welcome.</Friendly>
+      <Neutral>This is the Romulan Star Empire. We have watched your ships for some time. State your purpose, and be brief.</Neutral>
+      <Hostile>So you have found us. The Romulan Star Empire does not invite strangers to its borders. Choose your next words with care.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Colonized Warning</DialogType>
+      <Friendly>Our Senate has noted your colony in TARSYS. We are sure it is a misunderstanding, and we are confident you will correct it.</Friendly>
+      <Neutral>SING, your settlement in TARSYS lies within the Empire's interests. We suggest you reconsider before the Tal Shiar does it for you.</Neutral>
+      <Hostile>A colony in TARSYS, in the Empire's sphere? The Praetor has taken note. That was a mistake.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Aggression Warning</DialogType>
+      <Friendly>Your warships fired upon ours. We assume this was an error among friends. We hope you will make that clear.</Friendly>
+      <Neutral>You have struck at Romulan ships, SING. The Empire has a long memory and a longer reach.</Neutral>
+      <Hostile>You will pay for this aggression, PLURAL. The Empire does not forget, and it does not forgive.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Ships</DialogType>
+      <Friendly>Your ships have been near our borders for some time, friend. We would appreciate your withdrawal, before others in the Senate grow concerned.</Friendly>
+      <Neutral>PLURAL ships in Romulan space. We are watching. You may leave in peace, or you may stay and see what we do.</Neutral>
+      <Hostile>Your ships are in Romulan space, PLURAL. Withdraw them at once, or our warbirds will do it for you.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Ships then Colonized</DialogType>
+      <Friendly>We asked you to withdraw from our space, and you did not. Now you have taken TARSYS. We are disappointed.</Friendly>
+      <Neutral>You were told to leave Romulan space, and instead you settled TARSYS. This is a very poor decision, SING.</Neutral>
+      <Hostile>You trespassed, you were warned, and now you take TARSYS. The Praetor will answer your insolence.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Colonized then Ships</DialogType>
+      <Friendly>You settled TARSYS, and we kept our silence, and now your fleet crowds our space. Our patience has limits.</Friendly>
+      <Neutral>First TARSYS, and now your warships at our borders. The Empire is beginning to understand your intentions, SING.</Neutral>
+      <Hostile>You took TARSYS and now you bring warships to the Empire's door. The Senate will not be patient a third time.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War</DialogType>
+      <misc1>The Praetor has spoken. The Empire is at war with you. Your worlds will learn what the Romulan Star Empire does to its enemies.</misc1>
+      <misc2>Our warbirds are already on their way. You will not see them until it is too late.</misc2>>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Dunno_Anybody</DialogType>
+      <Default>There are others beyond our borders? We have heard rumour of them. The Empire has not yet had the pleasure.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Greeting</DialogType>
+      <Friendly>Ah, a friend. The Senate is pleased to hear from you. What may the Empire do for you?</Friendly>
+      <Neutral>You have our attention, SING. We trust you will not waste it.</Neutral>
+      <Hostile>Speak. We are listening, though we are not inclined to be generous.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Racial_Inquiry_1</DialogType>
+      <Default>Your people have an interesting history. Tell us how you came to be where you are now.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Racial_Response_1</DialogType>
+      <Default>Interesting. We shall remember it.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>OfferResponse_InsufficientTrust</DialogType>
+      <Default>No. We do not yet trust you enough for such an agreement.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_AcceptGreatOffer_LowTrust</DialogType>
+      <Default>This is a generous offer from a people we hardly trust. We accept, naturally. We will be watching to see what you hoped to gain by it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_PoorOffer_LowTrust</DialogType>
+      <Default>No. The terms are poor, and we do not trust you enough to overlook it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_PoorOffer_EnoughTrust</DialogType>
+      <Default>We have a good opinion of you, so we will be plain: your offer is not good enough. Try again.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_NearRival</DialogType>
+      <Default>A rival holds worlds in that system, and we have no open borders with them. We cannot have your fleet crossing our lines.</Default>
+      <DL_Agg>The Empire will choose its own enemies, SING. We do not need yours.</DL_Agg>
+      <DL_Xeno>Outsiders meddling on our borders. We would have expected better manners.</DL_Xeno>
+      <DL_Hon>To set neighbours against each other is a dishonourable game. We are surprised you would try it.</DL_Hon>
+      <DL_Pac>You would have us quarrel with our neighbours? We would rather talk to them than fight them.</DL_Pac>
+      <DL_Ruth>A clever scheme. The Empire invented most of them, and it will not be played by its own tricks.</DL_Ruth>
+      <DL_Cunn>We see the trap you have laid, and we admire the effort. We will not step into it.</DL_Cunn>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_NearEnemy</DialogType>
+      <Default>The Empire's enemies hold worlds in that system, SING. We will not let you settle in the middle of our war.</Default>
+      <DL_Agg>When the Empire wants those worlds, it will take them from our enemies by force.</DL_Agg>
+      <DL_Xeno>The Empire does not need outsiders to settle its battlefields.</DL_Xeno>
+      <DL_Hon>We will not put your settlers in danger on our account. We are grateful for the thought.</DL_Hon>
+      <DL_Pac>We hope to end that war, not spread it. Thank you, but no.</DL_Pac>
+      <DL_Ruth>Those worlds will be ours soon enough, without your help.</DL_Ruth>
+      <DL_Cunn>A world on a front line is a liability, not a prize. Perhaps another time.</DL_Cunn>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_Insulting</DialogType>
+      <Default>This offer is an insult to the Empire. We reject it, and we will remember it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair</DialogType>
+      <Default>This is a fair arrangement. The Senate approves. It is agreed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Good</DialogType>
+      <Default>A good arrangement for both of us. The Senate accepts.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Great</DialogType>
+      <Default>You are far too generous, SING. We accept, and we shall remember your generosity.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Gift</DialogType>
+      <Default>A gift. How thoughtful. The Empire accepts it, naturally.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair_Pleading</DialogType>
+      <Default>Your request is modest enough. We accept it, and we expect you to remember that we did.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_InsufficientFear</DialogType>
+      <Default>You think the Empire will bend to this? Come and enforce it, if you dare.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair_Threatening</DialogType>
+      <Default>Very well. The Empire has no wish to be quarrelsome over a small matter.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Bad_Threatening</DialogType>
+      <Default>A poor bargain, forced upon us. Enjoy it while it lasts. The Empire has a long memory.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>WarDeclared_FeelsBetrayed</DialogType>
+      <Default>You make a pact with the Empire, and then break it? That was unwise. It is war.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>WarDeclared_Generic</DialogType>
+      <Default>So it comes to war. We had prepared for it long ago, and we are quite ready.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Greeting_AtWar</DialogType>
+      <Default>We are at war, PLURAL. Whatever you have to say, say it quickly.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Defense</DialogType>
+      <Default>You bring your ships to our border, so our warbirds will meet them. Let us see which of us was better prepared.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War BC</DialogType>
+      <Default>We told you not to enter Romulan territory, and you did it anyway. The Senate has chosen war.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War BC TarSys</DialogType>
+      <Default>You remain in TARSYS despite our warnings, PLURAL. The Empire is now at war with you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer NAPact</DialogType>
+      <Default>The Empire would prefer to avoid needless conflict. Perhaps a non-aggression pact would serve us both?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>NAPact Accepted</DialogType>
+      <Default>A sensible choice. The Empire will honour this agreement, as long as you do.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>NAPact Rejected</DialogType>
+      <Default>You refuse? The offer will not remain open indefinitely. We suggest you reconsider.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Trade</DialogType>
+      <Default>The Senate has considered the matter of trade, and the Empire is willing to open its markets to you. Shall we draw up a treaty?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Trade Accepted</DialogType>
+      <Default>Excellent. May our exchange be profitable for both our peoples.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Trade Rejected</DialogType>
+      <Default>You decline the Empire's offer of trade. We are surprised, SING, and we will not forget it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ComeAround_NAPACT</DialogType>
+      <Default>First you declined a pact, and now you ask for one? The Senate does not appreciate indecision.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ComeAround_TRADE</DialogType>
+      <Default>You refused trade before. Now you ask for it. We would like to know what has changed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech</DialogType>
+      <Default>The Empire requires TECH_DEMAND from you, SING. We would hate for our relations to suffer.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech Accepted</DialogType>
+      <Default>Thank you. The Empire appreciates a sensible partner.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech Rejected</DialogType>
+      <Default>You refuse? How unwise. We will remember this, SING.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Insult Military</DialogType>
+      <Default>The PLURAL fleet is a curiosity. We would pity you, but the Empire has no use for pity.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Compliment Military</DialogType>
+      <Default>Your fleet is not unimpressive. The Empire notes it, with some interest.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Compliment Military Better</DialogType>
+      <Default>You have strengthened your fleet, SING. We will have to adjust our plans accordingly.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Imperialism</DialogType>
+      <Default>You are too weak to hold your worlds, SING. The Empire will gladly take them off your hands.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Kulrathi</DialogType>
+      <Default>The Kulrathi Shogunate has a proper respect for order and discipline. We have much in common with them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Kulrathi</DialogType>
+      <Default>The Kulrathi keep to their warrior's code. We neither trust them nor fear them. A suitable arrangement.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Kulrathi</DialogType>
+      <Default>The Kulrathi believe their code makes them wiser than us. The Empire has been listening to such claims for centuries.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Pollops</DialogType>
+      <Default>The Pollops are gentle and well mannered. They are no threat, and they have lovely songs. We wish them well.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Pollops</DialogType>
+      <Default>The Pollops live quietly among their gardens. They are no concern of the Empire, and we have no concern with them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Pollops</DialogType>
+      <Default>The Pollops are too naive to survive for long. The Empire would be doing them a kindness to take charge of their worlds.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Vulfen</DialogType>
+      <Default>The Vulfen Imperium is proud and fierce. We can respect an empire that knows what it is. We are on good terms.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Vulfen</DialogType>
+      <Default>The Vulfen Imperium is loud and warlike. They have not troubled us, and we have taken care not to trouble them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Vulfen</DialogType>
+      <Default>The Vulfen Imperium is a pack of loud, aggressive hunters, and they mistake noise for strength. We will teach them otherwise.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Terran</DialogType>
+      <Default>The Humans are an unpredictable people, and we find that refreshing. They have a gift for surprising us. We like them for it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Terran</DialogType>
+      <Default>The Humans are a young people, loud and idealistic. They have not yet harmed the Empire, and we have no strong view.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Terran</DialogType>
+      <Default>The Humans speak of peace, and they call it a virtue. They have yet to learn how it is kept. We do not care to teach them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Ralyeh</DialogType>
+      <Default>The Ralyeh Devoted are patient and committed to their ways. We know a good deal about patience. We approve of theirs.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Ralyeh</DialogType>
+      <Default>The Ralyeh pray to their gods and keep to their own waters. The Empire does not meddle in faith, as long as faith does not meddle with us.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Ralyeh</DialogType>
+      <Default>The Ralyeh Devoted speak of their gods and their dead. Those who worship death should not be surprised to meet it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Imperialism Break NA</DialogType>
+      <Default>You thought a treaty would hold the Empire? Treaties are tools, SING. This one has served its purpose.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Conquered_Player</DialogType>
+      <Default>The game is done, SING. The Empire has won, and your worlds are ours. The Praetor thanks you for your cooperation.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Open Borders</DialogType>
+      <Default>The PLURAL have behaved with propriety, and the Senate sees no harm in open borders. Shall we agree to it?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Accepted</DialogType>
+      <Default>A wise decision. Our ships may pass in peace, and we expect yours to do the same.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Rejected</DialogType>
+      <Default>You refuse open borders? Then we shall continue to look at you from afar. For now.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Invaded NA Pact</DialogType>
+      <Default>We had a treaty, and you broke it. The Senate will not forget this betrayal. We are at war.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Invaded Start War</DialogType>
+      <Default>TARSYS is Romulan territory. You have invaded it. The Empire is now at war with you.</Default>
+    </DialogLine>
+
+  <DialogLine>
+    <DialogType>Opinion_Positive_Opteris</DialogType>
+    <Default>The Opteris are efficient, patient and not given to idle talk. We admire that.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Opinion_Neutral_Opteris</DialogType>
+    <Default>The Opteris are an odd people, half machine and half insect. We keep watch on them, as we do on everyone.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Opinion_Negative_Opteris</DialogType>
+    <Default>The Opteris are cold and mechanical, and they cannot be bargained with. It makes them a danger, and the Empire dislikes dangers.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Claim System</DialogType>
+    <Friendly>Dear friend, the Empire has claimed TARSYS. We would be grateful if you would not settle there.</Friendly>
+    <Neutral>TARSYS is claimed by the Empire. We suggest you look elsewhere, SING.</Neutral>
+    <Hostile>TARSYS is within the Empire's claim, PLURAL. Settle there, and we will remove you.</Hostile>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Stole Claim</DialogType>
+    <Default>TARSYS was claimed by the Empire. You took it. The Senate does not overlook such things.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Opinion_JustMetUs</DialogType>
+    <Default>We have only just made your acquaintance, PLURAL. We are still forming our opinion.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Opinion_NoProblems</DialogType>
+    <Default>We have no quarrel with the PLURAL. You have been courteous, and the Senate takes note.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Opinion_Problems</DialogType>
+    <Default>We have some concerns about you, PLURAL. We shall be happy to discuss them, at length.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Problem_JustTerritorial</DialogType>
+    <Default>You have taken worlds that the Empire had its eye on. This is noticed.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Problem_Territorial</DialogType>
+    <Default>You have taken worlds that the Empire had its eye on. This is noticed.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Problem_AlsoMilitary</DialogType>
+    <Default>Your fleet has grown too large for comfort. The Senate is considering what that means.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Problem_AlsoMilitaryWeak</DialogType>
+    <Default>Your fleet is small, and a weak neighbour is a temptation. We would prefer not to be tempted.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Problem_MilitaryWeak</DialogType>
+    <Default>Your fleet is weak. The Empire does not make alliances with the defenceless.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Problem_PrimaryMilitary</DialogType>
+    <Default>Your fleet has grown too large for comfort. The Senate is considering what that means.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Problem_AlliedWithEnemy</DialogType>
+    <Default>You are allied with TAREMP, who are enemies of the Empire. A curious choice of friends.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Problem_AlsoAlliedWithEnemy</DialogType>
+    <Default>You remain allied with TAREMP, who are enemies of the Empire. We have noted it.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>Opinion_NothingMajor</DialogType>
+    <Default>We have no great quarrel with you. We would like it to stay that way.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>AtWar_Winning</DialogType>
+    <Default>The war goes well for the Empire, SING. You may wish to speak, while there is still someone to listen.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>AtWar_Losing</DialogType>
+    <Default>The war has not gone as the Senate had hoped. We are willing to hear you, SING.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>HelpUS_War</DialogType>
+    <Default>TAREMP are enemies of the Empire. We invite you to fight beside us. There will be rewards for those who help.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>HelpUS_War_Yes</DialogType>
+    <Default>Excellent. The Senate will remember this. Together we shall crush TAREMP.</Default>
+  </DialogLine>
+  <DialogLine>
+    <DialogType>HelpUS_War_No</DialogType>
+    <Default>You decline to help us against TAREMP? The Empire will remember who stood with it, and who did not.</Default>
+  </DialogLine>
+
+
+
+    <!--  Second Run Localization Efforts -->
+
+    <DialogLine>
+      <DialogType>Declare War Defense BrokenNA</DialogType>
+      <Default>We trusted our treaty, and you broke it. The Empire will make sure you regret it.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>OFFERPEACE_FAIR</DialogType>
+      <Default>This war has cost us both enough. The Senate would be willing to discuss peace.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_FAIR_WINNING</DialogType>
+      <Default>We are winning this war, but the Senate sees no profit in prolonging it. Make peace with us.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_EVENLY_MATCHED</DialogType>
+      <Default>Neither of us can win this war, SING. A sensible people would end it before more ships are lost.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_PLEADING</DialogType>
+      <Default>The war has gone badly for us. We would be willing to make peace, on reasonable terms.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_WINNINGBC</DialogType>
+      <Default>We hold your worlds. Sign this treaty, and the war will end.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_LOSINGBC</DialogType>
+      <Default>You hold the field, SING. Keep your worlds, and give us peace. The Empire will bide its time.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_REJECTED</DialogType>
+      <Default>You refuse peace? Then we continue. The Empire is patient.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_ACCEPTED</DialogType>
+      <Default>Very well. There will be peace between us. The Senate is satisfied.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>ACCEPT_OFFER_PEACE</DialogType>
+      <Default>A reasonable offer. The Senate accepts. There will be peace between us.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_OFFER_PEACE_POOROFFER</DialogType>
+      <Default>Your offer is not good enough. There will be no peace on those terms.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_OFFER_PEACE_UNWILLING_BC</DialogType>
+      <Default>You still hold worlds that the Empire wants. There will be no peace.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ACCEPT_OFFER_PEACE_RELUCTANT</DialogType>
+      <Default>We will accept this peace, though it does not please us. Do not mistake it for friendship.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>PROBLEM_RECENTWAR</DialogType>
+      <Default>We were at war not long ago. The Senate has not forgotten, and neither should you.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>OFFER_ALLIANCE</DialogType>
+      <Default>The Empire and the PLURAL have a good understanding of each other. Perhaps it is time for a formal alliance.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ALLIANCE_ACCEPTED</DialogType>
+      <Default>Excellent. The Senate welcomes this alliance, and looks forward to its fruits.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ALLIANCE_REJECTED</DialogType>
+      <Default>You decline an alliance with the Empire? Perhaps you will think again.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFER_ALLIANCE_TOO_COMPLICATED</DialogType>
+      <Default>This is needlessly complicated. If you wish an alliance, propose one plainly.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AI_ALLIANCE_ACCEPT</DialogType>
+      <Default>The Senate agrees. The Empire will stand with you, as long as you stand with us.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AI_ALLIANCE_REJECT</DialogType>
+      <Default>An alliance? The Empire has not yet decided that you deserve one.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_PEACE_RUTHLESS</DialogType>
+      <Default>No peace. The Empire intends to finish what it has begun.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ACCEPT_PEACE_COLDWAR</DialogType>
+      <Default>There has been no great loss on either side. A sensible time to make peace. The Senate agrees.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_No_BreakAlliance</DialogType>
+      <Default>You will not fight beside us? Then you are no ally of the Empire. The alliance is ended.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim 2</DialogType>
+      <Default>You have crossed the Empire twice now. A third time would be unwise.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim 3</DialogType>
+      <Default>You have stolen from the Empire too many times. The Praetor's patience is at an end.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AboutUS</DialogType>
+      <DL_Agg>The Romulan Star Empire does not seek war. It simply prepares for it, as any prudent people must, and the Senate is always prepared.</DL_Agg>
+      <DL_Hon>Our people hold honour above comfort, and duty above life. We expect the same of those who deal with us.</DL_Hon>
+      <DL_Pac>The Empire would prefer peace, and has often kept it. But a wise people do not mistake peace for weakness, and neither should you.</DL_Pac>
+      <DL_Ruth>The Romulan people have survived by being more patient and more thorough than their enemies. The Empire will go on surviving.</DL_Ruth>
+      <DL_Xeno>The Romulan people have kept apart from the galaxy for a very long time. We see no reason to change.</DL_Xeno>
+      <DL_Cunn>A people who tell you everything they know have nothing left to trade. We prefer to keep a little in reserve.</DL_Cunn>
+      <DL_Exp>The Empire's borders are wide, and its ambitions wider. There is always another world worth the Senate's attention.</DL_Exp>
+      <DL_Tech>Our science is well advanced, and our engineers have never been shy about using it. Do not be surprised by what we can build.</DL_Tech>
+      <DL_Mil>Our warbirds are the finest in the quadrant. Many have learned this at too late a moment.</DL_Mil>
+      <DL_Ind>The Empire's shipyards are busy, and its people disciplined. Nothing is wasted.</DL_Ind>
+      <DL_Gen>The Empire is old, patient and proud. We take the long view, and we have rarely been surprised by what it shows.</DL_Gen>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Cordrazine</DialogType>
+      <Default>The Cordrazine Collective is orderly and disciplined. We can respect a people who keep their house in order.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Cordrazine</DialogType>
+      <Default>We know the Cordrazine only a little. They keep to themselves, which we find sensible.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Cordrazine</DialogType>
+      <Default>The Cordrazine hide behind their Collective and speak with one voice. We prefer to know who is speaking.</Default>
+    </DialogLine>
+    
+    <DialogLine>
+      <DialogType>Caught_Spying_1</DialogType>
+      <Default>We know that you are spying on us, SING. We are flattered, but we ask that you stop.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_2</DialogType>
+      <Default>We asked you to stop spying. The Tal Shiar does not ask twice.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_3</DialogType>
+      <Default>You have spied on us again. All treaties between our peoples are cancelled.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Killed_Spy_1</DialogType>
+      <Default>We have captured your spy. He told us a great deal, and then a little more.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Spy_Success_Caught</DialogType>
+      <Default>Caught in the act of espionage? How quaint. Better luck next time.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_Ally_1</DialogType>
+      <Default>A spy among our allies? We caught your agent. Is this how the PLURAL treat friends?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_Ally_2</DialogType>
+      <Default>You spy on us again, ally? Our alliance is at an end.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Open Borders Friends</DialogType>
+      <Default>Friends should not keep their borders closed to each other. Open yours to us, SING.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Friends Rejected</DialogType>
+      <Default>You keep your borders closed even to friends? The PLURAL are very careful.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_JustMet</DialogType>
+      <Default>We have only just met. The Senate does not join a federation with strangers.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_NoAlliance</DialogType>
+      <Default>We are not even allies. The Senate will not consider a federation until we are.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_AllianceTooYoung</DialogType>
+      <Default>We are allies, and it is a good beginning. But a federation requires a longer history of trust.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_WeAreTooStrong</DialogType>
+      <Default>Why should the Empire follow you? We are the stronger power. If anything, you should join us.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Accept</DialogType>
+      <Default>Our peoples have come far, SING. The Senate has agreed. We will stand together in a federation, and face what comes.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Quest_DestroyEnemy</DialogType>
+      <Default>Before we join you, the Empire asks a service. Destroy TAREMP, and we will consider it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_YouDidIt_KilledEnemy</DialogType>
+      <Default>TAREMP is destroyed. The Senate is satisfied. The Empire will join your federation.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_RelationsPoor</DialogType>
+      <Default>You wish us to join your federation? The Empire does not even trust you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Quest_AllyFriend</DialogType>
+      <Default>We will join you, but you must first become allies with our friends, TAREMP. Win their confidence, and speak to us again.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_YouDidIt_AllyFriend</DialogType>
+      <Default>You have made allies of our friends. The Senate is pleased. The Empire will join your federation.</Default>
+    </DialogLine>
+
+
+    <DialogLine>
+      <DialogType>JoinWar_YouAreNotAtWar</DialogType>
+      <Default>You are not even at war with TAREMP. Why would the Empire fight for you?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_WeAreAtWar</DialogType>
+      <Default>The Empire is already at war with TAREMP. Were you not informed?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Allied_OK</DialogType>
+      <Default>The Empire stands with its allies. We will make war on TAREMP, and the Praetor will see it done.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Allied_DECLINE</DialogType>
+      <Default>TAREMP is our ally. The Empire does not break its word, even for a friend. We regret it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_PoorRelations</DialogType>
+      <Default>Why should the Empire fight for you, PLURAL? Our relations do not warrant such a favour.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_Pacifist</DialogType>
+      <Default>The Empire has no appetite for war with TAREMP. We would prefer to settle our differences without bloodshed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_TooDangerous</DialogType>
+      <Default>TAREMP is formidable. The Senate does not choose such a war lightly. We decline.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_OK</DialogType>
+      <Default>We agree to your proposal. Much can be gained in a war with TAREMP. Save some worlds for the Empire.</Default>
+    </DialogLine>
+<!-- Treaties With Low Trust -->
+    <DialogLine>
+      <DialogType>TRUST_LOW_ALLIANCE</DialogType>
+      <Default>The Senate is concerned that you cannot be trusted as an ally, SING. We would like to see that change.</Default>
+    </DialogLine>              
+    <DialogLine>
+      <DialogType>TRUST_LOW_OPEN_BORDERS</DialogType>
+      <Default>The Senate has revoked our open borders. We no longer trust your empire to keep them.</Default>
+    </DialogLine>
+  </Dialogs>
+</DiplomacyDialog>

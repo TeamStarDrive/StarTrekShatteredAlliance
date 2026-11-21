@@ -81,16 +81,16 @@
     <Name>Borg</Name>
     <Singular>Drone</Singular>
     <Plural>Colective</Plural>
-    <VideoPath>FreeBorg</VideoPath>
+    <VideoPath>Borg_Leader</VideoPath>
     <ShipType>FreeBorg</ShipType>
     <Adj1>drone</Adj1>
     <Adj2>drone</Adj2>
     <HomeSystemName>Unimatrix 01</HomeSystemName>
     <HomeworldName>One of Seven</HomeworldName>
     <FlagIndex>7</FlagIndex>
-    <R>800</R>
-    <G>400</G>
-    <B>430</B>
+    <R>255</R>
+    <G>255</G>
+    <B>255</B>
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>

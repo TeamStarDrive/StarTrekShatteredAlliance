@@ -6358,3 +6358,63 @@ Bor_orbital_weapons_platform_Name:
 Bor_orbital_weapons_platform_Desc:
  Id: 30951
  ENG: "A weapon array for the nodes that guard the Collective's space. Of the Borg orbital cannon weapons, it is the sturdiest for its size, but hits the softest."
+Bor_warpcore_2x2_Name:
+ Id: 30952
+ ENG: "Borg Transwarp Core (2x2)"
+Bor_warpcore_2x2_Desc:
+ Id: 30953
+ ENG: "A power core built around a transwarp coil, the Borg's faster way of crossing space, which gives the Collective a warp field and then some. Of the Borg transwarp cores, size for size, it is the sturdiest, but produces the least power."
+Rom_warpcore_2x2_Name:
+ Id: 30962
+ ENG: "Romulan Singularity Core (2x2)"
+Rom_warpcore_2x2_Desc:
+ Id: 30963
+ ENG: "A power core built around an artificial quantum singularity, the Romulan way of feeding a warp field without a matter and antimatter reaction. Of the Romulan singularity cores, size for size, it is the sturdiest, but produces the least power."
+Bor_warpcore_3x3_Name:
+ Id: 30954
+ ENG: "Borg Transwarp Core (3x3)"
+Bor_warpcore_3x3_Desc:
+ Id: 30955
+ ENG: "A power core built around a transwarp coil, the Borg's faster way of crossing space, which gives the Collective a warp field and then some."
+Rom_warpcore_3x3_Name:
+ Id: 30964
+ ENG: "Romulan Singularity Core (3x3)"
+Rom_warpcore_3x3_Desc:
+ Id: 30965
+ ENG: "A power core built around an artificial quantum singularity, the Romulan way of feeding a warp field without a matter and antimatter reaction."
+Bor_warpcore_4x4_Name:
+ Id: 30956
+ ENG: "Borg Transwarp Core (4x4)"
+Bor_warpcore_4x4_Desc:
+ Id: 30957
+ ENG: "A power core built around a transwarp coil, the Borg's faster way of crossing space, which gives the Collective a warp field and then some. Of the Borg transwarp cores, size for size, it stores the most power."
+Rom_warpcore_4x4_Name:
+ Id: 30966
+ ENG: "Romulan Singularity Core (4x4)"
+Rom_warpcore_4x4_Desc:
+ Id: 30967
+ ENG: "A power core built around an artificial quantum singularity, the Romulan way of feeding a warp field without a matter and antimatter reaction. Of the Romulan singularity cores, size for size, it stores the most power."
+Bor_warpcore_5x5_Name:
+ Id: 30958
+ ENG: "Borg Transwarp Core (5x5)"
+Bor_warpcore_5x5_Desc:
+ Id: 30959
+ ENG: "A power core built around a transwarp coil, the Borg's faster way of crossing space, which gives the Collective a warp field and then some. Of the Borg transwarp cores, size for size, it stores the least power."
+Rom_warpcore_5x5_Name:
+ Id: 30968
+ ENG: "Romulan Singularity Core (5x5)"
+Rom_warpcore_5x5_Desc:
+ Id: 30969
+ ENG: "A power core built around an artificial quantum singularity, the Romulan way of feeding a warp field without a matter and antimatter reaction. Of the Romulan singularity cores, size for size, it stores the least power."
+Bor_warpcore_6x6_Name:
+ Id: 30960
+ ENG: "Borg Transwarp Core (6x6)"
+Bor_warpcore_6x6_Desc:
+ Id: 30961
+ ENG: "A power core built around a transwarp coil, the Borg's faster way of crossing space, which gives the Collective a warp field and then some. Of the Borg transwarp cores, size for size, it produces the most power and is the lightest."
+Rom_warpcore_6x6_Name:
+ Id: 30970
+ ENG: "Romulan Singularity Core (6x6)"
+Rom_warpcore_6x6_Desc:
+ Id: 30971
+ ENG: "A power core built around an artificial quantum singularity, the Romulan way of feeding a warp field without a matter and antimatter reaction. Of the Romulan singularity cores, size for size, it produces the most power and is the lightest."

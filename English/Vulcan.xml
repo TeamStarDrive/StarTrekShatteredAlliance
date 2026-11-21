@@ -1,0 +1,641 @@
+﻿<DiplomacyDialog>
+  <Dialogs>
+    <DialogLine>
+      <DialogType>First Contact</DialogType>
+      <Friendly>Greetings. We are the Vulcans. Live long and prosper. It is logical that our peoples should seek understanding.</Friendly>
+      <Neutral>We are the Vulcans. We have observed your ships, and we find your presence of interest. State your intentions.</Neutral>
+      <Hostile>We are the Vulcans. Your approach to our space is regrettable. We would advise you to consider the consequences of your next action.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Colonized Warning</DialogType>
+      <Friendly>Your colony in TARSYS lies within Vulcan interests. We believe a logical solution exists, and we are willing to discuss it.</Friendly>
+      <Neutral>SING, your colony in TARSYS is in territory the Vulcan High Command regards as its own. We request that you withdraw.</Neutral>
+      <Hostile>Your colony in TARSYS is a violation of Vulcan territory. Remove it, or the High Command will take appropriate measures.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Aggression Warning</DialogType>
+      <Friendly>Your ships have fired on ours. We assume this is an error. We request an explanation, as friends.</Friendly>
+      <Neutral>You have attacked Vulcan ships, SING. This is an unwise course. We urge you to reconsider.</Neutral>
+      <Hostile>Your aggression against Vulcan ships is noted. The High Command will respond, PLURAL, and the response will be proportionate.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Ships</DialogType>
+      <Friendly>Your ships have remained in Vulcan space for some time. We would be grateful if they withdrew, as a courtesy between friends.</Friendly>
+      <Neutral>PLURAL ships are in Vulcan space. We request that they withdraw. Remaining would be illogical.</Neutral>
+      <Hostile>Your warships in Vulcan space are a provocation, PLURAL. Withdraw them, or we shall be forced to act.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Ships then Colonized</DialogType>
+      <Friendly>We requested that you withdraw from our space, and you did not. You have since settled TARSYS. We find this regrettable.</Friendly>
+      <Neutral>You disregarded our request and colonised TARSYS. This was not logical, SING, and it will have consequences.</Neutral>
+      <Hostile>You trespassed, were warned, and settled TARSYS regardless. The High Command will no longer be patient.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Colonized then Ships</DialogType>
+      <Friendly>You settled TARSYS without incident, and now your ships enter our space. This pattern concerns us.</Friendly>
+      <Neutral>First TARSYS, and now warships at our borders. We draw the obvious conclusion, SING.</Neutral>
+      <Hostile>You took TARSYS, and now you threaten our borders. The High Command will defend Vulcan, PLURAL.</Hostile>    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War</DialogType>
+      <misc1>The High Command has concluded that war is unavoidable. Vulcan is at war with you. It is regrettable, but it is logical.</misc1>
+      <misc2>We will not take this course lightly, nor will we abandon it until it is complete.</misc2>>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Dunno_Anybody</DialogType>
+      <Default>There are other species beyond our observation? Fascinating. We have not encountered them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Greeting</DialogType>
+      <Friendly>Live long and prosper, SING. How may we assist you?</Friendly>
+      <Neutral>Greetings, SING. State your purpose.</Neutral>
+      <Hostile>You may speak. We will listen, though we expect little of value.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Racial_Inquiry_1</DialogType>
+      <Default>Your people are of interest to us. We should like to know more about your history and your customs.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Racial_Response_1</DialogType>
+      <Default>Fascinating. We shall record it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AboutUS</DialogType>
+      <DL_Agg>Vulcans do not seek war. But we are not defenceless, and our ancestors knew well what violence can do. We do not forget it.</DL_Agg>
+      <DL_Hon>A Vulcan's word is binding. We expect the same of those who deal with us.</DL_Hon>
+      <DL_Pac>Vulcans chose logic and peace long ago, after nearly destroying ourselves. We believe all peoples may do the same.</DL_Pac>
+      <DL_Ruth>Logic does not forbid decisive action. When the needs of the many require it, Vulcans will act without hesitation.</DL_Ruth>
+      <DL_Cunn>Logic is a precise instrument. We believe it can solve most problems, and it frequently does so without anyone noticing.</DL_Cunn>
+      <DL_Xeno>Vulcans have observed many species, and found most of them governed by emotion. We find it difficult to rely on them.</DL_Xeno>
+      <DL_Exp>There is much of the galaxy yet to study. Vulcans pursue knowledge, and we are willing to share what we find.</DL_Exp>
+      <DL_Tech>Vulcan science is among the most advanced in the quadrant. We share it with those who use it wisely.</DL_Tech>
+      <DL_Mil>Vulcan vessels are well armed and well crewed. We would prefer never to demonstrate it.</DL_Mil>
+      <DL_Ind>Vulcan industry is efficient and orderly. It wastes nothing, and it is never idle.</DL_Ind>
+      <DL_Gen>Vulcans value logic, discipline and the pursuit of knowledge. We find that infinite diversity in infinite combinations strengthens us all.</DL_Gen>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_InsufficientTrust</DialogType>
+      <Default>We do not yet possess sufficient grounds to trust you. We must decline.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_AcceptGreatOffer_LowTrust</DialogType>
+      <Default>This offer exceeds what logic would predict from a people we barely know. We accept, and we shall observe your motives.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_PoorOffer_LowTrust</DialogType>
+      <Default>The terms are poor, and we do not trust you sufficiently to overlook that. We must decline.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_PoorOffer_EnoughTrust</DialogType>
+      <Default>We hold you in regard, and so we will say plainly: this offer is insufficient. We suggest revising it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_NearRival</DialogType>
+      <Default>Another power holds worlds in that system, and we have no open borders with them. Agreement would be illogical.</Default>
+      <DL_Agg>Vulcans choose their own disputes. We would ask that you not choose them for us.</DL_Agg>
+      <DL_Xeno>We observe that you are attempting to involve us in a quarrel with our neighbours. We decline.</DL_Xeno>
+      <DL_Hon>To set neighbours against each other is not a course we would expect from an honourable people.</DL_Hon>
+      <DL_Pac>You wish us to quarrel with our neighbours? We would prefer to speak with them.</DL_Pac>
+      <DL_Ruth>We have understood your strategy, SING. It is not effective.</DL_Ruth>
+      <DL_Cunn>We see the trap. It was well constructed. We shall not step into it.</DL_Cunn>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_NearEnemy</DialogType>
+      <Default>Vulcan's enemies hold worlds in that system, SING. Settlers there would be at unnecessary risk.</Default>
+      <DL_Agg>If Vulcan requires those worlds, we shall secure them by our own means.</DL_Agg>
+      <DL_Xeno>We do not require outsiders to settle our battlefields.</DL_Xeno>
+      <DL_Hon>We do not wish to expose your settlers to risk on our behalf. We thank you for the offer.</DL_Hon>
+      <DL_Pac>We hope to end that conflict, not extend it. We thank you, but must decline.</DL_Pac>
+      <DL_Ruth>Those worlds will be ours without assistance.</DL_Ruth>
+      <DL_Cunn>A world on the front line is a liability. Perhaps at a later time.</DL_Cunn>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_Insulting</DialogType>
+      <Default>This offer is insulting. It is also illogical. We must decline.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair</DialogType>
+      <Default>The terms are fair. We accept.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Good</DialogType>
+      <Default>The terms are favourable to both parties. We accept.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Great</DialogType>
+      <Default>You are very generous, SING. We accept, with gratitude, though we find it surprising.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Gift</DialogType>
+      <Default>A gift. We accept, with thanks. It is a gracious gesture.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair_Pleading</DialogType>
+      <Default>Your request is reasonable. We will grant it. We trust you will remember it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_InsufficientFear</DialogType>
+      <Default>Threats are not persuasive, SING. Vulcan does not yield to them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair_Threatening</DialogType>
+      <Default>Very well. It is more logical to agree than to quarrel over a small matter.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Bad_Threatening</DialogType>
+      <Default>The terms are poor and were obtained under pressure. We accept, but the High Command will record it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>WarDeclared_FeelsBetrayed</DialogType>
+      <Default>You made a pact with Vulcan, and broke it. This is a serious breach of trust. Vulcan must respond.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>WarDeclared_Generic</DialogType>
+      <Default>It is war. Vulcan did not seek it, but it has arrived, and we shall meet it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Greeting_AtWar</DialogType>
+      <Default>We are at war, SING. If you have a proposal, make it concisely.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Defense</DialogType>
+      <Default>You have brought your fleet to our border. Vulcan will meet it, and defend its worlds.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War BC</DialogType>
+      <Default>We requested that you respect Vulcan borders. You did not. War is the logical consequence.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War BC TarSys</DialogType>
+      <Default>You remain in TARSYS despite our requests, PLURAL. Vulcan must now defend its territory.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer NAPact</DialogType>
+      <Default>War would be wasteful for both our peoples. We propose a non-aggression pact. It is the logical course.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>NAPact Accepted</DialogType>
+      <Default>A logical decision. Vulcan will honour this agreement.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>NAPact Rejected</DialogType>
+      <Default>You decline. This is regrettable. The proposal will remain open for a time.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Trade</DialogType>
+      <Default>Trade between our peoples would be beneficial to both. We propose a trade agreement.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Trade Accepted</DialogType>
+      <Default>An efficient decision. May the exchange prove profitable.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Trade Rejected</DialogType>
+      <Default>You decline trade with Vulcan. We find this illogical, SING, but we shall respect it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ComeAround_NAPACT</DialogType>
+      <Default>You declined a pact earlier, and now you propose one. We would like to understand the change.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ComeAround_TRADE</DialogType>
+      <Default>You declined trade earlier. You now request it. We would like to understand why.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech</DialogType>
+      <Default>Vulcan requires TECH_DEMAND from you, SING. It would improve relations considerably.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech Accepted</DialogType>
+      <Default>Thank you. Your cooperation is logical.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech Rejected</DialogType>
+      <Default>You refuse. This is regrettable. We shall note it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Insult Military</DialogType>
+      <Default>We have assessed the PLURAL fleet. It is inadequate. We offer this observation without malice.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Compliment Military</DialogType>
+      <Default>The PLURAL fleet is impressive. We are glad that we are on good terms.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Compliment Military Better</DialogType>
+      <Default>You have improved your fleet, SING. We trust the purpose is defensive.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Imperialism</DialogType>
+      <Default>You cannot defend your worlds, SING. Vulcan will not allow chaos to spread. We shall intervene.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Kulrathi</DialogType>
+      <Default>The Kulrathi Shogunate follows a strict code. Vulcan respects discipline, and finds the Kulrathi a rational people.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Kulrathi</DialogType>
+      <Default>The Kulrathi follow a warrior's code of honour. Vulcan observes it with interest, but does not interfere.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Kulrathi</DialogType>
+      <Default>The Kulrathi equate strength with virtue. This is a flawed premise, and one that endangers their neighbours.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Pollops</DialogType>
+      <Default>The Pollops are peaceful, thoughtful and orderly. We regard them with respect, and we enjoy their company.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Pollops</DialogType>
+      <Default>The Pollops live quietly and rarely trouble others. Vulcan has no objection to them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Pollops</DialogType>
+      <Default>The Pollops are admirable in their peacefulness, but their worlds are poorly defended. This is a risk we cannot ignore.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Vulfen</DialogType>
+      <Default>The Vulfen Imperium is proud, and loyal to its own. These are qualities that we can respect.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Vulfen</DialogType>
+      <Default>The Vulfen Imperium is a martial culture. We have no quarrel with it, though we do not share its values.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Vulfen</DialogType>
+      <Default>The Vulfen Imperium is aggressive, and quick to threaten. This conduct is both unwise and unnecessary.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Terran</DialogType>
+      <Default>Humans are emotional and illogical, but they have a remarkable capacity to adapt. We hold them in considerable regard.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Terran</DialogType>
+      <Default>Humans are a young species, enthusiastic and inconsistent. Vulcan has no fixed opinion of them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Terran</DialogType>
+      <Default>Humans act on impulse, and speak at length before they reason. We find it difficult to work with them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Imperialism Break NA</DialogType>
+      <Default>We held a treaty with you, and you violated it to seize what is not yours. Vulcan will respond.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Conquered_Player</DialogType>
+      <Default>The war is concluded, SING. Vulcan has prevailed. We will govern your worlds fairly, and we trust you will cooperate.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Open Borders</DialogType>
+      <Default>The PLURAL have been courteous neighbours. We propose an open borders agreement. It would be mutually beneficial.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Accepted</DialogType>
+      <Default>A logical decision. Our ships may pass freely, and we expect the same courtesy.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Rejected</DialogType>
+      <Default>You decline. This is regrettable. The proposal remains open.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Invaded NA Pact</DialogType>
+      <Default>We held a treaty, and you violated it. Vulcan will defend itself. We regret that it has come to this.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Invaded Start War</DialogType>
+      <Default>You have invaded TARSYS, which Vulcan holds. We will take the necessary measures to defend it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Opteris</DialogType>
+      <Default>The Opteris are disciplined and tireless. They are, in many respects, a logical people. We respect them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Opteris</DialogType>
+      <Default>The Opteris are partly machine and partly insect. This is a remarkable combination, and we study it with interest.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Opteris</DialogType>
+      <Default>The Opteris act without regard for other lives. This is not logic. It is merely indifference.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>Opinion_JustMetUs</DialogType>
+      <Default>We have only just met the PLURAL. We have insufficient data to form an opinion.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_NoProblems</DialogType>
+      <Default>Vulcan has no concerns about the PLURAL. Your conduct has been logical and courteous.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Problems</DialogType>
+      <Default>Vulcan has some concerns regarding the PLURAL. We would like to discuss them in detail.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_JustTerritorial</DialogType>
+      <Default>You have taken worlds that Vulcan intended to settle. We request that this be discussed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_Territorial</DialogType>
+      <Default>You have taken worlds that Vulcan intended to settle. We request that this be discussed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlsoMilitary</DialogType>
+      <Default>Your fleet has grown considerably. We trust its purpose is defensive.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlsoMilitaryWeak</DialogType>
+      <Default>Your fleet is small. This is a vulnerability, and we are concerned for your safety.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_MilitaryWeak</DialogType>
+      <Default>Your fleet is weak. Vulcan has concerns about your ability to defend yourselves.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_PrimaryMilitary</DialogType>
+      <Default>Your fleet has grown considerably. We trust its purpose is defensive.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlliedWithEnemy</DialogType>
+      <Default>You are allied with TAREMP, who are our enemies. We would like to understand why.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlsoAlliedWithEnemy</DialogType>
+      <Default>You remain allied with TAREMP, who are our enemies. We would ask that you reconsider.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_NothingMajor</DialogType>
+      <Default>We have no significant concerns regarding you. We hope this will continue.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AtWar_Winning</DialogType>
+      <Default>The war favours Vulcan, SING, but we have no wish to prolong it. We are prepared to hear your proposal.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AtWar_Losing</DialogType>
+      <Default>The war has not progressed as predicted. We are willing to hear your proposal, SING.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War</DialogType>
+      <Default>TAREMP threatens us all. Vulcan requests that you join us against them. It is the logical course.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_Yes</DialogType>
+      <Default>A wise decision. Together, we will neutralise the threat posed by TAREMP.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_No</DialogType>
+      <Default>You decline to assist us against TAREMP. We note the decision, and we shall remember it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Draylok</DialogType>
+      <Default>The Draylok Council is thoughtful and refined. Their use of illusion is of scientific interest, and we find their company agreeable.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Draylok</DialogType>
+      <Default>The Draylok change their appearance and their intentions with some frequency. We observe them with care.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Draylok</DialogType>
+      <Default>The Draylok conceal their true nature behind illusion, and have deceived others. Deception is a poor foundation for any relationship.</Default>
+    </DialogLine>
+
+
+    <!-- Second Run Localization -->
+    <DialogLine>
+      <DialogType>OFFERPEACE_FAIR</DialogType>
+      <Default>This war has cost us both a great deal. Vulcan proposes that it be ended.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_FAIR_WINNING</DialogType>
+      <Default>Vulcan is winning this war, but finds no logic in prolonging it. We propose peace.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_EVENLY_MATCHED</DialogType>
+      <Default>Neither side can achieve victory without disproportionate cost. We propose an armistice.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_PLEADING</DialogType>
+      <Default>The war has gone poorly for Vulcan. We request peace, on reasonable terms.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_LOSINGBC</DialogType>
+      <Default>You hold the advantage, SING. Vulcan asks for peace, and will honour fair terms.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_WINNINGBC</DialogType>
+      <Default>We hold your worlds, SING. We propose a treaty, and will treat your people with fairness.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_REJECTED</DialogType>
+      <Default>You decline peace. This is regrettable. The offer remains open.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_ACCEPTED</DialogType>
+      <Default>A logical decision. Peace will be established between our peoples.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>ACCEPT_OFFER_PEACE</DialogType>
+      <Default>The terms are acceptable. Vulcan agrees. Peace will now be established.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_OFFER_PEACE_POOROFFER</DialogType>
+      <Default>The terms are inadequate. Vulcan cannot accept them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_OFFER_PEACE_UNWILLING_BC</DialogType>
+      <Default>You still hold worlds that were taken from us. Vulcan cannot accept peace until they are returned.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ACCEPT_OFFER_PEACE_RELUCTANT</DialogType>
+      <Default>Vulcan will accept this peace, though it is not entirely satisfactory. We will do what we can to make it last.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>PROBLEM_RECENTWAR</DialogType>
+      <Default>We were at war not long ago. Vulcan does not forget, though it does not hold grudges.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFER_ALLIANCE</DialogType>
+      <Default>Vulcan and the PLURAL have established a productive relationship. We propose a formal alliance.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ALLIANCE_ACCEPTED</DialogType>
+      <Default>A logical outcome. Vulcan is honoured to call you an ally.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ALLIANCE_REJECTED</DialogType>
+      <Default>You decline an alliance. We regret it, though we respect your reasoning.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFER_ALLIANCE_TOO_COMPLICATED</DialogType>
+      <Default>The proposal is unnecessarily complex. If you desire an alliance, state it plainly.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>TREATY_TOO_SOON_REJECT</DialogType>
+      <Default>It would be illogical to bind our peoples by treaty so soon. We have too little evidence of one another's intentions.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AI_ALLIANCE_ACCEPT</DialogType>
+      <Default>Vulcan agrees. We shall stand with you, and we trust you will do likewise.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AI_ALLIANCE_REJECT</DialogType>
+      <Default>An alliance? We do not yet possess sufficient evidence of your trustworthiness.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_PEACE_RUTHLESS</DialogType>
+      <Default>Vulcan cannot accept peace while the threat remains. The war continues.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ACCEPT_PEACE_COLDWAR</DialogType>
+      <Default>There has been little loss on either side. Peace is the logical outcome. Vulcan agrees.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_No_BreakAlliance</DialogType>
+      <Default>You will not aid us? Then the alliance is of no value. It is therefore ended.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim</DialogType>
+      <Default>Vulcan had claimed TARSYS, and you took it. This will not be overlooked.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim 2</DialogType>
+      <Default>This is the second time you have acted against Vulcan's claims. We observe the pattern.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim 3</DialogType>
+      <Default>You have taken from Vulcan too many times. Our patience has reached its limit.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Claim System</DialogType>
+      <Friendly>Friend, Vulcan has claimed TARSYS. We would be grateful if you did not settle there.</Friendly>
+      <Neutral>TARSYS is claimed by Vulcan. We suggest you look elsewhere, SING.</Neutral>
+      <Hostile>TARSYS lies within Vulcan space, PLURAL. Settle there, and the High Command will respond.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Cordrazine</DialogType>
+      <Default>The Cordrazine Collective maintains a stable and orderly society. We find much to admire in it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Cordrazine</DialogType>
+      <Default>We have little data on the Cordrazine Collective. It appears orderly. We reserve judgement.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Cordrazine</DialogType>
+      <Default>The Cordrazine Collective suppresses individual thought, in the name of unity. It is a poor imitation of logic.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_1</DialogType>
+      <Default>We are aware that you are spying on us, SING. We request that you cease.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_2</DialogType>
+      <Default>We have asked you to cease spying. We take this matter seriously.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_3</DialogType>
+      <Default>You have spied on us again. All agreements between our peoples are cancelled.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Killed_Spy_1</DialogType>
+      <Default>Your agent has been detained. He is being treated fairly, though he will not be returned.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_Ally_1</DialogType>
+      <Default>A spy among allies? We have detained your agent. This is not how friends behave.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_Ally_2</DialogType>
+      <Default>You spy on us again, ally. Our alliance is concluded.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Open Borders Friends</DialogType>
+      <Default>As friends, we ask that you open your borders to us. We will gladly do the same.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Friends Rejected</DialogType>
+      <Default>You keep your borders closed even to friends. We find this regrettable, though we understand caution.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_JustMet</DialogType>
+      <Default>We have only just met. It would be illogical to join a federation so soon.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_NoAlliance</DialogType>
+      <Default>We are not yet allied. The logical first step is an alliance.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_AllianceTooYoung</DialogType>
+      <Default>We are allies, which is good. A federation requires deeper trust, which takes time.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_WeAreTooStrong</DialogType>
+      <Default>Why should Vulcan join you? We are the stronger power. It would be more logical for you to join us.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Accept</DialogType>
+      <Default>Vulcan accepts. Together we will build a union worthy of both our peoples. Peace and long life.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Quest_DestroyEnemy</DialogType>
+      <Default>Before we join you, we request your assistance. TAREMP threatens us both. Neutralise them, and we will join you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_YouDidIt_KilledEnemy</DialogType>
+      <Default>TAREMP has been neutralised. Vulcan will join your federation.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_RelationsPoor</DialogType>
+      <Default>You ask Vulcan to join your federation? We do not trust each other sufficiently.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Quest_AllyFriend</DialogType>
+      <Default>We will join you, but first you must become allied with our friends, TAREMP. Earn their trust, then speak with us again.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_YouDidIt_AllyFriend</DialogType>
+      <Default>You have allied with our friends. This is logical. Vulcan will join your federation.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>JoinWar_YouAreNotAtWar</DialogType>
+      <Default>You are not at war with TAREMP. It would be illogical for Vulcan to fight them on your behalf.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_WeAreAtWar</DialogType>
+      <Default>Vulcan is already at war with TAREMP. Were you not informed?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Allied_OK</DialogType>
+      <Default>Vulcan stands by its allies. We will join you against TAREMP.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Allied_DECLINE</DialogType>
+      <Default>TAREMP is our ally. Vulcan cannot break its word, even for a friend. We regret this.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_PoorRelations</DialogType>
+      <Default>Why should Vulcan fight for you, PLURAL? Our relationship does not warrant it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_Pacifist</DialogType>
+      <Default>Vulcan will not make war on TAREMP. We believe a peaceful solution still exists.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_TooDangerous</DialogType>
+      <Default>TAREMP is formidable. A war against them would be unwise. We decline.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_OK</DialogType>
+      <Default>We agree. Vulcan will join you against TAREMP. We hope the conflict will be brief.</Default>
+    </DialogLine>
+<!-- Treaties With Low Trust -->
+    <DialogLine>
+      <DialogType>TRUST_LOW_ALLIANCE</DialogType>
+      <Default>The High Command has concluded that you cannot be trusted as an ally, SING. We hope you will correct this.</Default>
+    </DialogLine>              
+    <DialogLine>
+      <DialogType>TRUST_LOW_OPEN_BORDERS</DialogType>
+      <Default>The High Command has revoked our open borders. We no longer trust your empire to keep them.</Default>
+    </DialogLine>
+  </Dialogs>
+</DiplomacyDialog>

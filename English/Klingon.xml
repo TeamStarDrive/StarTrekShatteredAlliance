@@ -1,0 +1,643 @@
+﻿<DiplomacyDialog>
+  <Dialogs>
+  <DialogLine>
+      <DialogType>TREATY_TOO_SOON_REJECT</DialogType>
+      <Default>A treaty is a bond of honour. We have not yet seen yours tested. Ask again when we have fought beside you, or against you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>First Contact</DialogType>
+      <Friendly>I am a Klingon of the Empire. Your ship is well made. Perhaps we will meet in battle with respect, or at table with a long memory.</Friendly>
+      <Neutral>We are Klingons. Your hull looks thin. Tell us who you are, and whether you can fight.</Neutral>
+      <Hostile>So the galaxy holds yet more small ships with large opinions. The Klingon Empire will measure you, and it will not be gentle.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Colonized Warning</DialogType>
+      <Friendly>Friend, many on the High Council call your settling of TARSYS an insult to the Empire. Withdraw, before they say it with disruptors.</Friendly>
+      <Neutral>SING, your colony in TARSYS stands in our territory. It would be a fine place for your people to die. Leave.</Neutral>
+      <Hostile>TARSYS belongs to the Empire! Who gave you the right to plant a flag there? Take it down, or we will take down you.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Aggression Warning</DialogType>
+      <Friendly>You fire upon our ships when we thought you an ally? Where is your honour? Explain this, quickly.</Friendly>
+      <Neutral>You strike one Klingon ship and forget the rest of the fleet, SING. Remember it now. Be wary.</Neutral>
+      <Hostile>Cowardly PLURAL! Your aggression will be answered in blood, and the Empire does not forget a debt.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Ships</DialogType>
+      <Friendly>Your warships linger at our border, friend. We would like to trust you, but our captains grow restless. Withdraw.</Friendly>
+      <Neutral>Your ships sit in Klingon space. Our young captains hunger for glory, and you offer it to them. Leave now.</Neutral>
+      <Hostile>PLURAL ships in Klingon space! You come to die, it seems. Leave, or give our captains the battle they crave.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Ships then Colonized</DialogType>
+      <Friendly>We told you to leave our space. We wished to remain friends. Now you take TARSYS. Do not mistake our patience for weakness.</Friendly>
+      <Neutral>We warned you, and you ignored us, and now you settle TARSYS. Your people have a poor idea of how to survive.</Neutral>
+      <Hostile>You trespassed in our borders, were warned, and took TARSYS anyway. The Empire will answer with ships and blades.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Colonized then Ships</DialogType>
+      <Friendly>You settled TARSYS and we kept the peace, and now your fleet sits in our space. Our patience wears thin.</Friendly>
+      <Neutral>First you took TARSYS from us, and now your ships crowd our worlds. You are asking for war.</Neutral>
+      <Hostile>First TARSYS, now a fleet in our territory. The Empire will not be tested twice. Prepare to fight.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War</DialogType>
+      <misc1>Qapla'! There will be war! Your worlds will soon fly the banner of the Empire!</misc1>
+      <misc2>Run if you must. A Klingon enjoys a good chase, and a better kill.</misc2>>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Greeting</DialogType>
+      <Friendly>nuqneH. It is you. What do you want? Speak plainly.</Friendly>
+      <Neutral>You come before the Empire. State your business, and make it worth our time.</Neutral>
+      <Hostile>Speak, if you have the courage, or be silent and leave.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Dunno_Anybody</DialogType>
+      <Default>There are others like you out there? Good. A galaxy with more warriors in it is a better one. We have not met them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AboutUS</DialogType>
+      <DL_Xeno>You wish to know the Klingons? We are the Empire, heirs of Kahless. What you are matters little to us, unless you can fight.</DL_Xeno>
+      <DL_Agg>You wish to know the Klingons? We are warriors, born to battle. If you do not fear us, you should.</DL_Agg>
+      <DL_Ruth>You wish to know the Klingons? Weakness is a disease, and the Empire is the cure. We will rid the quadrant of it, one world at a time.</DL_Ruth>
+      <DL_Exp>There are many worlds yet to take, and the Empire has the ships to take them. Glory waits for those who reach for it.</DL_Exp>
+      <DL_Mil>Look upon our fleet, and know what the Empire can do. A thousand ships, and every captain eager for battle.</DL_Mil>
+      <DL_Ind>The Empire's strength is not only in our blades. Our forges and mines never rest, and every warrior goes to battle well armed.</DL_Ind>
+      <DL_Gen>The great houses of the Empire are both wise and strong, swift and tough. A Klingon who is only one of those is not truly Klingon.</DL_Gen>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Racial_Inquiry_1</DialogType>
+      <Default>Your crew looks strong. Do they fight as well as they look?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Racial_Response_1</DialogType>
+      <Default>Hmph. We will see on the field of battle.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_InsufficientTrust</DialogType>
+      <Default>No. We do not trust a bargain with a stranger.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_AcceptGreatOffer_LowTrust</DialogType>
+      <Default>Ha! You give far more than you ask. Either you fear us or you are a fool. We accept, and you may offer more like it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_PoorOffer_LowTrust</DialogType>
+      <Default>No. You think we are fools, and you do not even offer us a fair price. We reject it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_PoorOffer_EnoughTrust</DialogType>
+      <Default>We respect you enough to be honest: this offer is an insult. Make a better one.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_NearRival</DialogType>
+      <Default>Another power holds worlds in that system, SING, and we have no borders open with them. We will not have your fleet leaving ours exposed.</Default>
+      <DL_Agg>The Empire picks its own wars. Do not try to pick them for us.</DL_Agg>
+      <DL_Xeno>Outsiders meddling on our borders. We knew you could not be trusted.</DL_Xeno>
+      <DL_Hon>To set neighbours against each other is dishonourable. We expected better of you.</DL_Hon>
+      <DL_Pac>You would start a war between us and our neighbours? That angers us.</DL_Pac>
+      <DL_Ruth>A clever scheme, but it is the Empire that sets others against each other. Remember that.</DL_Ruth>
+      <DL_Cunn>We see the trap you have laid. We will trust you far less from now on.</DL_Cunn>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_NearEnemy</DialogType>
+      <Default>Our enemies hold worlds in that system, SING. A Klingon takes his enemy's worlds in battle, not across a table.</Default>
+      <DL_Agg>When the Empire wants worlds there, it will take them from our enemies by force.</DL_Agg>
+      <DL_Xeno>The Empire needs no outsiders' worlds to fight its wars.</DL_Xeno>
+      <DL_Hon>We will not put your settlers in the middle of our war, but we thank you for the thought.</DL_Hon>
+      <DL_Pac>We hope to end that war, not to spread it. We thank you all the same.</DL_Pac>
+      <DL_Ruth>Their worlds will be ours soon enough, by our own hand.</DL_Ruth>
+      <DL_Cunn>A world on the front line is a burden, not a prize. Perhaps another time.</DL_Cunn>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_Insulting</DialogType>
+      <Default>This is an insult to the Empire! No!</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair</DialogType>
+      <Default>This arrangement serves the Empire. It is agreed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Good</DialogType>
+      <Default>A good bargain. The Empire is stronger for it. Agreed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Great</DialogType>
+      <Default>You give us far more than you receive. A wise PLURAL, or a frightened one. Either way, we accept.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Gift</DialogType>
+      <Default>Tribute. Good. The Empire accepts it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair_Pleading</DialogType>
+      <Default>We will take these scraps. But next time, bring us something worthy of Klingons.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_InsufficientFear</DialogType>
+      <Default>You want this from us? Come and take it, if you can.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair_Threatening</DialogType>
+      <Default>Very well. The Empire has no need to fight you over so little.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Bad_Threatening</DialogType>
+      <Default>A poor bargain, forced upon us. We will remember it. Take your spoils.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>WarDeclared_Generic</DialogType>
+      <Default>PLURAL fools! We were going to come for you anyway. It is war, then, and today is a good day to fight it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Greeting_AtWar</DialogType>
+      <Default>We are at war. Speak quickly, and then let our ships speak.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Defense</DialogType>
+      <Default>You bring your ships to our border to fight, and we will meet them with ours. Let the best fleet win.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Defense BrokenNA</DialogType>
+      <Default>We never trusted a paper treaty over a blade. Now you have broken it, and we will break you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War BC</DialogType>
+      <Default>We warned you not to enter Klingon territory, and you came regardless. You have chosen war.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War BC TarSys</DialogType>
+      <Default>PLURAL dare to stay in TARSYS, when it is Klingon territory? Then we are at war!</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer NAPact</DialogType>
+      <Default>The Empire has no wish to fight you today. Swear a non-aggression pact, and we will consider it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>NAPact Accepted</DialogType>
+      <Default>Good. A wise choice. We will honour it, as long as you do.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>NAPact Rejected</DialogType>
+      <Default>You refuse? Then you may wish for this treaty later. It will not be offered twice.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Trade</DialogType>
+      <Default>The Empire makes the finest weapons in the quadrant. Trade with us, and see for yourself.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Trade Accepted</DialogType>
+      <Default>Good. Trade well and we will be friends. Trade badly and we will not.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Trade Rejected</DialogType>
+      <Default>You refuse the Empire's trade? PLURAL are fools. Remember who offered.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ComeAround_NAPACT</DialogType>
+      <Default>First you refuse a pact, and now you want one? Make up your mind, PLURAL, before we make it up for you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ComeAround_TRADE</DialogType>
+      <Default>You refused trade before. Now you ask for it. Are you trying to trick us?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech</DialogType>
+      <Default>Give us TECH_DEMAND, or we will not call you a friend.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech Accepted</DialogType>
+      <Default>Good. You are not as weak as you look.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech Rejected</DialogType>
+      <Default>You refuse us? Then we will take it from you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Insult Military</DialogType>
+      <Default>Ha! The PLURAL fleet is a joke. When we get around to conquering you, it will be a short battle.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Compliment Military</DialogType>
+      <Default>Your fleet is strong. Perhaps we should pick an easier opponent. Perhaps not.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Compliment Military Better</DialogType>
+      <Default>You have strengthened your fleet. Good. A strong enemy makes victory worth singing.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Imperialism</DialogType>
+      <Default>You are too weak to hold your worlds, SING. The Empire will take them for you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Terran</DialogType>
+      <Default>The Humans fought beside the Empire when it mattered. They talk too much, but they have teeth, and we respect that.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Terran</DialogType>
+      <Default>The Humans talk a great deal and fight less than they speak. They are not our enemy, and not quite our friend.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Terran</DialogType>
+      <Default>Humans lecture the Empire on peace while standing behind our guns. We have no use for their sermons.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Pollops</DialogType>
+      <Default>The Pollops sing, and their songs are old and good. A people with such memory understand honour. We like them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Pollops</DialogType>
+      <Default>We know the Pollops little. They are a quiet people of the green, and they have not troubled the Empire.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Pollops</DialogType>
+      <Default>The Pollops talk of harmony while their worlds lie open for the taking. Their songs will not defend them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Kulrathi</DialogType>
+      <Default>The Kulrathi Shogunate lives by a warrior's code, as we do. We know what a blade and a bond are worth. They are good company.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Kulrathi</DialogType>
+      <Default>The Kulrathi keep to their codes and their shogun. We watch them, and they watch us. That is a fair arrangement for now.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Kulrathi</DialogType>
+      <Default>The Kulrathi believe they are the Empire's equal. Let them test it in battle, and they will learn.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Cordrazine</DialogType>
+      <Default>The Cordrazine Collective is strong, and we respect strength. We would be glad to see how well it fights.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Cordrazine</DialogType>
+      <Default>We do not know the Cordrazine well. They keep to their Collective, and the Empire keeps to its own.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Cordrazine</DialogType>
+      <Default>The Cordrazine hide behind their Collective like cowards behind a crowd. Let them stand alone and see how brave they are.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Imperialism Break NA</DialogType>
+      <Default>You thought a treaty would stop the Klingon Empire? Words are for lawyers. Today we answer with ships.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Conquered_Player</DialogType>
+      <Default>It is done! The PLURAL are broken, and the Empire stands victorious. You have lost, SING. Die well, or live in shame.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Open Borders</DialogType>
+      <Default>The PLURAL have shown us respect, and we have no reason to fight you. Let our ships pass freely, and we will do the same.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Accepted</DialogType>
+      <Default>Good. A wise choice. Our ships will pass in peace, unless you give us a reason.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Rejected</DialogType>
+      <Default>You refuse an open road? A cautious PLURAL, or a fearful one. Soon it will be too late to ask.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Invaded NA Pact</DialogType>
+      <Default>We held a pact with you, and you broke it! A Klingon does not forgive betrayal. War!</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Invaded Start War</DialogType>
+      <Default>TARSYS is ours! You have invaded Klingon space. This means war!</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Opteris</DialogType>
+      <Default>The Opteris fight without fear, machine and insect alike. It is a good enemy, and a good friend to have at one's side.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Opteris</DialogType>
+      <Default>The Opteris are strange to us. Insects and machines. We do not understand them, and we are not eager to try.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Opteris</DialogType>
+      <Default>The Opteris are cold machines that feel nothing, and there is no honour in killing them. Still, we will break them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Claim System</DialogType>
+      <Friendly>Friend, the Empire has claimed TARSYS. Stay out of it, and we will remain on good terms.</Friendly>
+      <Neutral>TARSYS is claimed by the Empire. Stay out, or you will answer to our fleet.</Neutral>
+      <Hostile>TARSYS belongs to the Klingon Empire, PLURAL. Come near it, and you will be met with blades.</Hostile>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>Opinion_JustMetUs</DialogType>
+      <Default>We have only just met the PLURAL. Show us how you fight, and then we will tell you what we think.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_NoProblems</DialogType>
+      <Default>We have no quarrel with the PLURAL. You have treated the Empire with respect, and we remember it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Problems</DialogType>
+      <Default>We have problems with you, PLURAL. We will name them, and then we will settle them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_JustTerritorial</DialogType>
+      <Default>You have taken worlds that belong to the Empire! We will have them back.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_Territorial</DialogType>
+      <Default>You have taken worlds that belong to the Empire! We will have them back.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlsoMilitary</DialogType>
+      <Default>Your fleet has grown too large. Any warrior would grow uneasy at a rival with so many ships.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlsoMilitaryWeak</DialogType>
+      <Default>Your fleet is small and weak, and a weak ally is a poor one. Make it stronger.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_MilitaryWeak</DialogType>
+      <Default>Your fleet is weak. The Empire does not ally with a people who cannot defend themselves.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_PrimaryMilitary</DialogType>
+      <Default>Your fleet is too large. The Empire does not like a rival with so many ships.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlliedWithEnemy</DialogType>
+      <Default>You are allied with TAREMP, who are enemies of the Empire. Choose your friends with more care.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlsoAlliedWithEnemy</DialogType>
+      <Default>You are still allied with TAREMP, who are enemies of the Empire. We take notice of it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_NothingMajor</DialogType>
+      <Default>We have no great quarrel with you. Do not give us one.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AtWar_Winning</DialogType>
+      <Default>You can run, SING, but you cannot hide forever. Speak, if you have breath left to spare!</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AtWar_Losing</DialogType>
+      <Default>We are at war, and the fight is not over. Speak quickly.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War</DialogType>
+      <Default>TAREMP are enemies of the Empire. Fight with us, and share the glory.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_Yes</DialogType>
+      <Default>Qapla'! We will fight together. Death to TAREMP!</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_No</DialogType>
+      <Default>You will not fight beside us? Then do not expect us to bleed for you, PLURAL.</Default>    
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Draylok</DialogType>
+      <Default>The Draylok Council changes shape and plans in the shadows. But they keep their word to us, and we repay it in kind.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Draylok</DialogType>
+      <Default>The Draylok shift their faces and their loyalties. We do not trust them, but we have no quarrel with them yet.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Draylok</DialogType>
+      <Default>The Draylok hide behind shifting faces and councils. A warrior shows his face, and they have none. We despise them.</Default>
+    </DialogLine>
+
+
+    <!-- Second Run Localization -->
+    <DialogLine>
+      <DialogType>OFFERPEACE_FAIR</DialogType>
+      <Default>This war has taken enough blood for now. We will make peace, if you will.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_FAIR_WINNING</DialogType>
+      <Default>We are winning this war, but the High Council thinks it should end for now. Make peace with us.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_EVENLY_MATCHED</DialogType>
+      <Default>We fight, and you fight, and neither side wins. There is no honour in a war without end. We should make peace.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_PLEADING</DialogType>
+      <Default>You have beaten us this time. We will make peace, if you will. Do not mistake it for surrender.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_LOSINGBC</DialogType>
+      <Default>Keep your planets and give us peace. For now.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_WINNINGBC</DialogType>
+      <Default>We hold your worlds. Sign this treaty, and the war will end.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_REJECTED</DialogType>
+      <Default>Good. We did not want peace anyway.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_ACCEPTED</DialogType>
+      <Default>Very well. We will have peace. May it be a good rest between battles.</Default>
+    </DialogLine>
+    
+    
+    <DialogLine>
+      <DialogType>ACCEPT_OFFER_PEACE</DialogType>
+      <Default>A good offer. We accept. There will be peace between us.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_OFFER_PEACE_POOROFFER</DialogType>
+      <Default>No peace. Your offer is an insult.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_OFFER_PEACE_UNWILLING_BC</DialogType>
+      <Default>You still hold lands the Empire wants. There will be no peace.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ACCEPT_OFFER_PEACE_RELUCTANT</DialogType>
+      <Default>We will make this peace, and we are not happy with it. Do not waste it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>PROBLEM_RECENTWAR</DialogType>
+      <Default>We made war on you, and you are still standing. That is not forgotten.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFER_ALLIANCE</DialogType>
+      <Default>The Klingon Empire and the PLURAL have fought well, and respect each other. Let us make an alliance.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ALLIANCE_ACCEPTED</DialogType>
+      <Default>Good! The Empire will stand beside you, and expects the same.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ALLIANCE_REJECTED</DialogType>
+      <Default>So you do not wish to stand with the Empire? We will think on that.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFER_ALLIANCE_TOO_COMPLICATED</DialogType>
+      <Default>This is too confusing! If you want an alliance, offer us an alliance, plainly.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AI_ALLIANCE_ACCEPT</DialogType>
+      <Default>Good! We will be your allies, and we will fight beside you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AI_ALLIANCE_REJECT</DialogType>
+      <Default>You call yourselves our friends? You have not earned it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_PEACE_RUTHLESS</DialogType>
+      <Default>No! There will be no peace until your fleet is broken!</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ACCEPT_PEACE_COLDWAR</DialogType>
+      <Default>No blood has been shed between us, and no fleet destroyed. Very well. We will have peace.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>WarDeclared_FeelsBetrayed</DialogType>
+      <Default>You made a pact with us, and now you break it? That is dishonour! It is war!</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_No_BreakAlliance</DialogType>
+      <Default>You will not fight beside us? Then you are no ally of the Empire. The alliance is ended.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim</DialogType>
+      <Default>TARSYS was ours! The Empire claimed it first, and you took it. You will pay.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim 2</DialogType>
+      <Default>Twice now you have crossed the Empire. Few live to do it once. Do not make it three times.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim 3</DialogType>
+      <Default>Too many times you have stolen from the Empire! Your death will be slow.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Ralyeh</DialogType>
+      <Default>The Ralyeh Devoted live for their faith, and a Klingon honours devotion. They do not bother us, and we do not bother them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Ralyeh</DialogType>
+      <Default>The Ralyeh keep to their faith and their waters. They are no concern of the Empire.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Ralyeh</DialogType>
+      <Default>The Ralyeh preach and pray while others fight for them. Their faith will not stop a disruptor.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_1</DialogType>
+      <Default>We know you spy on us. The Empire has nothing to hide from the brave, but we do not forgive spies. Stop.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_2</DialogType>
+      <Default>We warned you to stop spying. Do the PLURAL not listen? It will not be said a third time.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_3</DialogType>
+      <Default>You spy on us again! We are done with you. All treaties between us are ended.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Killed_Spy_1</DialogType>
+      <Default>We caught your spy, and gave him an honest death. He was not worth the trouble.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_Ally_1</DialogType>
+      <Default>A spy among our allies? We caught your agent. Are we friends or not? Stop it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_Ally_2</DialogType>
+      <Default>You spy on us again, ally? We are no longer friends. Our alliance is ended.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Open Borders Friends</DialogType>
+      <Default>Open your borders to us, SING. Friends should not stand at each other's gates.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Friends Rejected</DialogType>
+      <Default>You keep your borders closed to your friends? The PLURAL are very wary.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_JustMet</DialogType>
+      <Default>We have only just met. A Klingon does not swear to a banner he has never seen in battle.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_NoAlliance</DialogType>
+      <Default>We are not yet allied. First an alliance, then perhaps something more. Allies first.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_AllianceTooYoung</DialogType>
+      <Default>We are allies now. This is good. But a bond must be tested over time, and we want to see how it holds.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_WeAreTooStrong</DialogType>
+      <Default>Why would we follow you? The Empire is stronger. It is you who should join us.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Accept</DialogType>
+      <Default>You ask the Empire to stand with you? Yes. We agree. From today, PLURAL and Klingons fight as one house. Qapla'!</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Quest_DestroyEnemy</DialogType>
+      <Default>You want the Empire at your side? Prove yourself in battle. Destroy TAREMP, and we will stand with you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_YouDidIt_KilledEnemy</DialogType>
+      <Default>TAREMP is destroyed. You have proved yourself a warrior. The Empire joins your federation, with honour.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_RelationsPoor</DialogType>
+      <Default>You want the Empire to follow you? We do not even like you!</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Quest_AllyFriend</DialogType>
+      <Default>We will join you, but first you must ally with our friends, TAREMP. Win their trust, and then speak to us again.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_YouDidIt_AllyFriend</DialogType>
+      <Default>You have made friends of our friends. A good sign. The Empire will join your federation.</Default>
+    </DialogLine>
+    
+    <DialogLine>
+      <DialogType>JoinWar_YouAreNotAtWar</DialogType>
+      <Default>You are not even at war with TAREMP. Why would the Empire fight for you? Do the PLURAL think us fools?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_WeAreAtWar</DialogType>
+      <Default>We are already at war with TAREMP. Were you not paying attention, PLURAL?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Allied_OK</DialogType>
+      <Default>We will always fight beside our allies. Death to TAREMP!</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Allied_DECLINE</DialogType>
+      <Default>We are allied with TAREMP. A Klingon does not break his word, even for a friend. I am sorry.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_PoorRelations</DialogType>
+      <Default>Why should we fight for you, PLURAL? When TAREMP is done with you, perhaps we will pick through what is left.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_Pacifist</DialogType>
+      <Default>I cannot believe I am saying this, but we will not make war on TAREMP. We have had enough of battle, for now.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_TooDangerous</DialogType>
+      <Default>TAREMP is very strong. A wise warrior chooses his battles. We will not fight them yet.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_OK</DialogType>
+      <Default>TAREMP are worthy foes. We will fight them with you. Qapla'!</Default>
+    </DialogLine>
+<!-- Treaties With Low Trust -->
+    <DialogLine>
+      <DialogType>TRUST_LOW_ALLIANCE</DialogType>
+      <Default>The High Council doubts that you can be trusted as an ally, SING. Give them a reason to think otherwise.</Default>
+    </DialogLine>              
+    <DialogLine>
+      <DialogType>TRUST_LOW_OPEN_BORDERS</DialogType>
+      <Default>The High Council has revoked our open borders. We no longer trust your empire to keep them.</Default>
+    </DialogLine>
+  </Dialogs>
+</DiplomacyDialog>

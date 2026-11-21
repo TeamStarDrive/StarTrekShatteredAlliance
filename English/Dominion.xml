@@ -1,0 +1,651 @@
+﻿<DiplomacyDialog>
+  <Dialogs>
+    <DialogLine>
+      <DialogType>First Contact</DialogType>
+      <Friendly>Greetings. I speak for the Dominion, and for the Founders, who are pleased to make your acquaintance. It is an honour, truly.</Friendly>
+      <Neutral>The Dominion greets you. I am a Vorta, and I speak for the Founders. I hope this meeting will be agreeable to everyone.</Neutral>
+      <Hostile>So you are the PLURAL. The Founders were curious, and I confess I am rather unimpressed. You should hope that does not change.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Colonized Warning</DialogType>
+      <Friendly>Forgive me, but the Founders have noticed your colony in TARSYS. I am sure it was an oversight. I would hate to see it become a problem.</Friendly>
+      <Neutral>SING, your colony in TARSYS stands in the Dominion's way. The Founders would be most displeased if it remained there.</Neutral>
+      <Hostile>You settle TARSYS, a system that the Dominion has marked as its own? The Founders will not forget your arrogance.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Aggression Warning</DialogType>
+      <Friendly>Your ships have fired on ours. Surely there has been a misunderstanding? I would so like to avoid reporting this to the Founders.</Friendly>
+      <Neutral>You have attacked Dominion ships, SING. The Founders do not look kindly on that.</Neutral>
+      <Hostile>You attack the Dominion, PLURAL? That was a very bad idea, and I cannot imagine what you were thinking.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Ships</DialogType>
+      <Friendly>Your ships have been in our space for some time. I'm certain you mean no harm, but I must ask you to withdraw them.</Friendly>
+      <Neutral>PLURAL ships in Dominion space. The Jem'Hadar are growing impatient, and so, I am afraid, am I.</Neutral>
+      <Hostile>Your ships are in Dominion space, PLURAL. Leave at once, or the Jem'Hadar will remove them. They are very good at it.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Ships then Colonized</DialogType>
+      <Friendly>We asked you to leave our space, and you stayed. Now you take TARSYS. I am afraid the Founders are very disappointed.</Friendly>
+      <Neutral>You ignored our warning and settled TARSYS. The Founders do not take kindly to being ignored, SING.</Neutral>
+      <Hostile>You trespassed, you were warned, and now you take TARSYS. The Founders will not be patient any longer.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Colonized then Ships</DialogType>
+      <Friendly>You settled TARSYS and we said nothing, and now you bring warships. The Founders are growing concerned.</Friendly>
+      <Neutral>First TARSYS, and now warships at our borders. The Founders are beginning to see a pattern, SING.</Neutral>
+      <Hostile>You took TARSYS, and now you threaten our borders. The Founders will answer, and the Jem'Hadar will carry it out.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War</DialogType>
+      <misc1>The Founders have decided. The Dominion is at war with you. Order will be restored, one world at a time.</misc1>
+      <misc2>The Jem'Hadar are on their way. For them, victory is life. For you, I am afraid, the opposite.</misc2>>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Dunno_Anybody</DialogType>
+      <Default>There are others out there? How fascinating. The Founders will want to hear of it. We have not yet met them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Greeting</DialogType>
+      <Friendly>Ah, an old friend! The Founders will be so pleased to hear from you. What can I do for you?</Friendly>
+      <Neutral>I'm listening, SING. I do hope this will not take too long.</Neutral>
+      <Hostile>Yes? Speak. The Founders have more important matters, and so do I.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Racial_Inquiry_1</DialogType>
+      <Default>Fascinating. Your people are not what the Founders expected. Tell me more about yourselves.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Racial_Response_1</DialogType>
+      <Default>I see. The Founders will be interested to hear it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AboutUS</DialogType>
+      <DL_Agg>The Dominion does not start wars, as a rule. It simply finishes them, and the Jem'Hadar are very, very good at finishing them.</DL_Agg>
+      <DL_Hon>The Founders keep their word, and so do the Vorta. We would ask nothing less of you.</DL_Hon>
+      <DL_Pac>The Dominion wishes only for order and peace. The best way to keep peace is to make sure everyone knows their place.</DL_Pac>
+      <DL_Ruth>The Founders have a great plan for the galaxy, and everyone has a place in it. Those who resist will find the Jem'Hadar waiting.</DL_Ruth>
+      <DL_Cunn>A Vorta is bred to be clever, and loyal. I assure you I am both. You may trust me, in matters the Founders have approved.</DL_Cunn>
+      <DL_Xeno>The Founders look upon solids with caution, and with good reason. We would not trust them with anything of importance.</DL_Xeno>
+      <DL_Exp>The Dominion's borders are wide, and the Founders have so much more to bring under their care. There is a great deal of order still to be made.</DL_Exp>
+      <DL_Tech>The Founders' science is far beyond what you can imagine. The Dominion shares its gifts only with those it trusts.</DL_Tech>
+      <DL_Mil>The Jem'Hadar number in the many thousands, and they do not fear death. I would recommend you do not test them.</DL_Mil>
+      <DL_Ind>Order requires many ships and many hands. The Dominion has both, and it builds more every day.</DL_Ind>
+      <DL_Gen>The Dominion is a great power, and a patient one. Order, peace and loyalty: that is what we offer. I would accept it, if I were you.</DL_Gen>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_InsufficientTrust</DialogType>
+      <Default>I am afraid not. The Founders do not trust you enough for that.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_AcceptGreatOffer_LowTrust</DialogType>
+      <Default>You are very generous, SING, for a people who barely know us. The Founders accept, of course. They do like to be treated well.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_PoorOffer_LowTrust</DialogType>
+      <Default>I'm afraid this is a poor offer from a people we do not trust. The Founders decline.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_PoorOffer_EnoughTrust</DialogType>
+      <Default>The Founders hold you in some regard, so I will be honest: your offer is not good enough. I suggest you try again.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_NearRival</DialogType>
+      <Default>Another power holds worlds in that system, and the Dominion has no open borders with them. I am afraid the Founders cannot allow it.</Default>
+      <DL_Agg>The Dominion chooses its own enemies, SING. It does not need your help.</DL_Agg>
+      <DL_Xeno>Solids meddling on our borders. The Founders have always had their doubts.</DL_Xeno>
+      <DL_Hon>To set neighbours against each other is a poor way to treat a friend. I am surprised.</DL_Hon>
+      <DL_Pac>You would have us quarrel with our neighbours? The Founders prefer order to quarrels.</DL_Pac>
+      <DL_Ruth>A clever scheme, but the Dominion was playing such games before your people had a name.</DL_Ruth>
+      <DL_Cunn>I can see the trap you have laid, SING. I am a Vorta, after all. We do not step into them.</DL_Cunn>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_NearEnemy</DialogType>
+      <Default>The Dominion's enemies hold worlds in that system, SING. The Founders do not wish your settlers caught up in the war.</Default>
+      <DL_Agg>When the Dominion wants those worlds, the Jem'Hadar will take them.</DL_Agg>
+      <DL_Xeno>The Dominion has no use for solids' colonies on its battlefields.</DL_Xeno>
+      <DL_Hon>We will not put your settlers at risk on our account. It is a kind thought, and I thank you for it.</DL_Hon>
+      <DL_Pac>We hope to end that war, not to spread it. Thank you, but no.</DL_Pac>
+      <DL_Ruth>Those worlds will be ours shortly, without your help.</DL_Ruth>
+      <DL_Cunn>A world on the front line is more trouble than it is worth. Perhaps another time.</DL_Cunn>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_Insulting</DialogType>
+      <Default>I would call this offer an insult, but that suggests you intended something. The Founders decline.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair</DialogType>
+      <Default>A reasonable arrangement. The Founders approve. It is agreed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Good</DialogType>
+      <Default>A very good arrangement. The Founders are pleased. It is agreed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Great</DialogType>
+      <Default>You are far too generous, SING. The Founders accept, with their compliments.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Gift</DialogType>
+      <Default>A gift for the Founders? How thoughtful. They accept, naturally.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair_Pleading</DialogType>
+      <Default>Your request is modest enough. The Founders grant it. I hope you will remember their kindness.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_InsufficientFear</DialogType>
+      <Default>You expect the Dominion to bend to this? I would not push the matter, if I were you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair_Threatening</DialogType>
+      <Default>Very well. The Founders do not need to be quarrelsome over so small a matter.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Bad_Threatening</DialogType>
+      <Default>A poor bargain, forced upon us. The Founders will remember it. They remember everything.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>WarDeclared_FeelsBetrayed</DialogType>
+      <Default>You make a pact with the Dominion and then break it? That was unwise. The Founders declare war.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>WarDeclared_Generic</DialogType>
+      <Default>It is war, then. The Founders had expected it, and the Jem'Hadar have been waiting.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Greeting_AtWar</DialogType>
+      <Default>We are at war, PLURAL. Say what you must, and quickly.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Defense</DialogType>
+      <Default>You bring warships to our border, and the Jem'Hadar will meet them. I do not expect a long engagement.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War BC</DialogType>
+      <Default>We warned you to leave Dominion territory, and you stayed. The Founders have chosen war, and I am afraid it is your doing.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War BC TarSys</DialogType>
+      <Default>You remain in TARSYS despite every warning, PLURAL. The Dominion is at war with you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer NAPact</DialogType>
+      <Default>The Founders would prefer not to waste ships on needless wars. Perhaps a non-aggression pact would serve us both?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>NAPact Accepted</DialogType>
+      <Default>Wonderful. The Founders will be so pleased. The Dominion will honour this agreement, as long as you do.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>NAPact Rejected</DialogType>
+      <Default>You decline? Then the Founders will assume that you wish to remain open to other arrangements.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Trade</DialogType>
+      <Default>The Dominion is prepared to open its markets to you. The Founders believe that trade between our peoples would be most agreeable. Shall we sign a treaty?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Trade Accepted</DialogType>
+      <Default>Wonderful. The Founders are pleased, and I am delighted. Let our trade be profitable.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Trade Rejected</DialogType>
+      <Default>You turn down trade with the Dominion? The Founders will be disappointed. As am I, SING.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ComeAround_NAPACT</DialogType>
+      <Default>First you refuse a pact, and now you ask for one? The Founders do not like indecision.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ComeAround_TRADE</DialogType>
+      <Default>You declined trade earlier. Now you ask for it. I confess I am curious as to what changed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech</DialogType>
+      <Default>The Founders require TECH_DEMAND from you, SING. I would hate for our relations to suffer.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech Accepted</DialogType>
+      <Default>Thank you. The Founders appreciate a sensible partner. I do as well.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech Rejected</DialogType>
+      <Default>You refuse? How unfortunate. The Founders will take note.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Insult Military</DialogType>
+      <Default>The PLURAL fleet is rather small, isn't it? The Jem'Hadar will be disappointed at how little challenge it offers.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Compliment Military</DialogType>
+      <Default>Your fleet is not without merit. The Founders have taken note, with interest.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Compliment Military Better</DialogType>
+      <Default>You have improved your fleet, SING. How unfortunate. I will have to report it to the Founders.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Imperialism</DialogType>
+      <Default>You cannot defend your worlds, SING. The Dominion will take over for you, and bring them order.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Kulrathi</DialogType>
+      <Default>The Kulrathi Shogunate is disciplined and loyal to its shogun. The Founders can appreciate that.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Kulrathi</DialogType>
+      <Default>The Kulrathi keep to their warrior code. The Founders watch them, and the Kulrathi watch back. It is a fair arrangement.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Kulrathi</DialogType>
+      <Default>The Kulrathi believe that their code makes them equals. The Jem'Hadar would be delighted to correct them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Pollops</DialogType>
+      <Default>The Pollops are gentle and obedient. They would make fine subjects of the Dominion, and I say it as a compliment.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Pollops</DialogType>
+      <Default>The Pollops live quietly among their gardens. They are no concern of the Dominion, and I suspect they like it that way.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Pollops</DialogType>
+      <Default>The Pollops talk of harmony while their worlds lie unguarded. They would be much happier under the Founders' care.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Vulfen</DialogType>
+      <Default>The Vulfen Imperium is loud, proud and loyal to its own. The Founders could do worse as a neighbour.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Vulfen</DialogType>
+      <Default>The Vulfen Imperium has not troubled the Dominion, and the Dominion has not troubled them. That may change.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Vulfen</DialogType>
+      <Default>The Vulfen Imperium is a pack of belligerent hunters who mistake noise for strength. The Jem'Hadar will teach them otherwise.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Terran</DialogType>
+      <Default>The Humans are noisy and sentimental, and the Founders find that oddly charming. We would like to keep them around.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Terran</DialogType>
+      <Default>The Humans are a young people with big ideas. The Founders have no fixed view of them. Yet.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Terran</DialogType>
+      <Default>The Humans insist on their freedom and their rights, as if either would save them. They are a threat to order.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Ralyeh</DialogType>
+      <Default>The Ralyeh Devoted are patient, faithful and committed. The Founders can respect such devotion, especially when it is not aimed at them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Ralyeh</DialogType>
+      <Default>The Ralyeh keep to their faith and their waters. The Dominion does not meddle in faith, so long as it does not interfere with order.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Ralyeh</DialogType>
+      <Default>The Ralyeh Devoted worship death, and they are eager to meet it. The Jem'Hadar would be happy to oblige.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Imperialism Break NA</DialogType>
+      <Default>You thought a treaty would keep the Dominion at bay? I do enjoy it when people are optimistic.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Conquered_Player</DialogType>
+      <Default>It is over, SING. The Dominion is victorious, and your worlds are now under the Founders' care. I am sure you will find order agreeable.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Open Borders</DialogType>
+      <Default>The PLURAL have been most agreeable, and the Founders see no harm in open borders. Shall we?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Accepted</DialogType>
+      <Default>Wonderful. Our ships may pass in peace, and the Founders expect yours to do the same.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Rejected</DialogType>
+      <Default>You refuse open borders? How disappointing. The Founders will keep watching, nonetheless.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Invaded NA Pact</DialogType>
+      <Default>We had a treaty, and you broke it, and for what? TARSYS? The Founders will not forget this betrayal. The Dominion is at war with you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Invaded Start War</DialogType>
+      <Default>TARSYS belongs to the Dominion. You have invaded it. The Founders have declared war.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Opteris</DialogType>
+      <Default>The Opteris are single-minded and tireless, and they do as they are told. What is there not to admire?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Opteris</DialogType>
+      <Default>The Opteris are an odd people, half machine and half insect. The Founders find them interesting, but not important.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Opteris</DialogType>
+      <Default>The Opteris are cold, and they answer to no one. That is a danger, and the Founders do not tolerate dangers.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim</DialogType>
+      <Default>TARSYS was claimed by the Dominion. You took it. The Founders do not overlook such things.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Claim System</DialogType>
+      <Friendly>Dear friend, the Dominion has claimed TARSYS. The Founders would be so grateful if you did not settle there.</Friendly>
+      <Neutral>TARSYS is claimed by the Dominion. The Founders suggest you look elsewhere, SING.</Neutral>
+      <Hostile>TARSYS is within the Dominion's claim, PLURAL. Settle there, and the Jem'Hadar will remove your colony.</Hostile>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>Opinion_JustMetUs</DialogType>
+      <Default>We have only just met the PLURAL. The Founders are still forming their opinion.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_NoProblems</DialogType>
+      <Default>The Dominion has no quarrel with the PLURAL. You have behaved well, and the Founders take note.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Problems</DialogType>
+      <Default>The Founders have some concerns about the PLURAL. I would be delighted to discuss them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_JustTerritorial</DialogType>
+      <Default>You have taken worlds that the Dominion had planned for itself. The Founders have noticed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_Territorial</DialogType>
+      <Default>You have taken worlds that the Dominion had planned for itself. The Founders have noticed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlsoMilitary</DialogType>
+      <Default>Your fleet has grown too large for comfort. The Founders worry about such things.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlsoMilitaryWeak</DialogType>
+      <Default>Your fleet is small, and a weak neighbour is a temptation. The Founders would rather not be tempted.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_MilitaryWeak</DialogType>
+      <Default>Your fleet is weak. The Dominion does not ally with those who cannot defend themselves.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_PrimaryMilitary</DialogType>
+      <Default>Your fleet has grown too large for comfort. The Founders worry about such things.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlliedWithEnemy</DialogType>
+      <Default>You are allied with TAREMP, who are enemies of the Dominion. A curious choice of friends.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlsoAlliedWithEnemy</DialogType>
+      <Default>You remain allied with TAREMP, who are enemies of the Dominion. The Founders have noted it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_NothingMajor</DialogType>
+      <Default>We have no great quarrel with you. The Founders would like it to stay that way.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AtWar_Winning</DialogType>
+      <Default>The war goes very well, SING. You may wish to speak while there is still someone left to hear you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AtWar_Losing</DialogType>
+      <Default>The war has not gone as the Founders hoped. I am willing to hear what you have to say, SING.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War</DialogType>
+      <Default>TAREMP are enemies of the Dominion. The Founders invite you to join us. There will be rewards for those who help.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_Yes</DialogType>
+      <Default>Wonderful. The Founders will be so pleased. Together we shall bring TAREMP to order.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_No</DialogType>
+      <Default>You will not help us against TAREMP? The Founders will remember who stood with them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Draylok</DialogType>
+      <Default>The Draylok Council is shrewd and well organised. The Founders approve of a people who keep their house in order.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Draylok</DialogType>
+      <Default>The Draylok change their faces and their minds. We watch them. They are not yet a concern.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Draylok</DialogType>
+      <Default>The Draylok hide behind borrowed faces, and the Founders have never trusted a people who hide. We find it insulting.</Default>
+    </DialogLine>
+    
+    
+    <!--  Second Run Localization Efforts -->
+
+    <DialogLine>
+      <DialogType>OFFERPEACE_FAIR</DialogType>
+      <Default>This war has cost us both a great deal. The Founders are willing to discuss peace.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_FAIR_WINNING</DialogType>
+      <Default>We are winning, SING, but the Founders see no profit in prolonging it. Make peace with us.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_EVENLY_MATCHED</DialogType>
+      <Default>Neither of us can win this war. A sensible people would end it before more ships are lost.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_PLEADING</DialogType>
+      <Default>The war has gone poorly for us. The Founders would accept peace, on reasonable terms.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_WINNINGBC</DialogType>
+      <Default>We hold your worlds. Sign this treaty, and the Founders will end the war.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_LOSINGBC</DialogType>
+      <Default>You hold the field, SING. Keep your worlds, and give us peace. The Founders will be patient.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_REJECTED</DialogType>
+      <Default>You refuse peace? Then the war continues. The Founders are patient.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_ACCEPTED</DialogType>
+      <Default>Very well. There will be peace between us. The Founders are satisfied.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>ACCEPT_OFFER_PEACE</DialogType>
+      <Default>A reasonable offer. The Founders accept. There will be peace.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_OFFER_PEACE_POOROFFER</DialogType>
+      <Default>Your offer is not good enough. The Founders will not accept peace on those terms.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_OFFER_PEACE_UNWILLING_BC</DialogType>
+      <Default>You still hold worlds that the Dominion wants. There will be no peace.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ACCEPT_OFFER_PEACE_RELUCTANT</DialogType>
+      <Default>The Founders will accept this peace, though it does not please them. Do not mistake it for friendship.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>PROBLEM_RECENTWAR</DialogType>
+      <Default>We were at war not long ago. The Founders have not forgotten, and neither should you.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>OFFER_ALLIANCE</DialogType>
+      <Default>The Dominion and the PLURAL understand each other so well. Perhaps it is time for a formal alliance. The Founders would be delighted.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ALLIANCE_ACCEPTED</DialogType>
+      <Default>Wonderful. The Founders welcome this alliance, and look forward to its fruits.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ALLIANCE_REJECTED</DialogType>
+      <Default>You decline an alliance with the Dominion? Perhaps you will think again.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFER_ALLIANCE_TOO_COMPLICATED</DialogType>
+      <Default>This is needlessly complicated. If you want an alliance, propose one plainly.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>TREATY_TOO_SOON_REJECT</DialogType>
+      <Default>The Founders do not sign treaties with strangers. Not yet. Perhaps once we have come to know one another better.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AI_ALLIANCE_ACCEPT</DialogType>
+      <Default>The Founders agree. The Dominion will stand with you, as long as you stand with us.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AI_ALLIANCE_REJECT</DialogType>
+      <Default>An alliance? The Founders have not yet decided that you deserve one.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Defense BrokenNA</DialogType>
+      <Default>We trusted our treaty, and you broke it. The Founders will not forget this betrayal.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_PEACE_RUTHLESS</DialogType>
+      <Default>No peace. The Founders intend to finish what they have started.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ACCEPT_PEACE_COLDWAR</DialogType>
+      <Default>There has been little loss on either side. A sensible time for peace. The Founders agree.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_No_BreakAlliance</DialogType>
+      <Default>You will not fight beside us? Then you are no ally of the Dominion. The alliance is at an end.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim 2</DialogType>
+      <Default>You have colonised TARSYS, and you have crossed the Dominion twice now. A third time would be unwise.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim 3</DialogType>
+      <Default>You have stolen from the Dominion too many times. The Founders' patience is at an end.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>Caught_Spying_1</DialogType>
+      <Default>We know you are spying on us, SING. The Dominion is flattered, but I must ask you to stop.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_2</DialogType>
+      <Default>We asked you to stop spying. The Founders do not like to repeat themselves.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_3</DialogType>
+      <Default>You have spied on us again. All treaties between our peoples are cancelled.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Killed_Spy_1</DialogType>
+      <Default>We have captured your spy. He had a great deal to say, once the Jem'Hadar asked.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_Ally_1</DialogType>
+      <Default>A spy among our allies? We caught your agent. Is this how the PLURAL treat friends?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_Ally_2</DialogType>
+      <Default>You spy on us again, ally? Our alliance is at an end.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Open Borders Friends</DialogType>
+      <Default>Friends should not close their borders to one another. Open yours to us, SING.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Friends Rejected</DialogType>
+      <Default>You keep your borders closed even to friends? The PLURAL are very careful.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_JustMet</DialogType>
+      <Default>We have only just met. The Founders do not join a federation with strangers.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_NoAlliance</DialogType>
+      <Default>We are not even allies. The Founders will not consider a federation until we are.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_AllianceTooYoung</DialogType>
+      <Default>We are allies, and that is a good beginning. But a federation requires a longer history of trust.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_WeAreTooStrong</DialogType>
+      <Default>Why should the Dominion follow you? We are the stronger power. If anything, you should join us.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Accept</DialogType>
+      <Default>The Founders have decided. The Dominion will stand with you in a federation, and bring order to the galaxy together. It is a great day.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Quest_DestroyEnemy</DialogType>
+      <Default>Before we join you, the Founders ask a service. Destroy TAREMP, and we will consider it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_YouDidIt_KilledEnemy</DialogType>
+      <Default>TAREMP is destroyed. The Founders are satisfied. The Dominion will join your federation.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_RelationsPoor</DialogType>
+      <Default>You wish the Dominion to join your federation? The Founders do not even trust you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Quest_AllyFriend</DialogType>
+      <Default>We will join you, but you must first ally with our friends, TAREMP. Win their confidence, and speak to us again.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_YouDidIt_AllyFriend</DialogType>
+      <Default>You have made allies of our friends. The Founders are pleased. The Dominion will join your federation.</Default>
+    </DialogLine>
+
+
+    <DialogLine>
+      <DialogType>JoinWar_YouAreNotAtWar</DialogType>
+      <Default>You are not even at war with TAREMP. Why would the Dominion fight for you?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_WeAreAtWar</DialogType>
+      <Default>The Dominion is already at war with TAREMP. Were you not informed?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Allied_OK</DialogType>
+      <Default>The Dominion stands with its allies. The Jem'Hadar will make war on TAREMP. Victory is life.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Allied_DECLINE</DialogType>
+      <Default>TAREMP is our ally. The Dominion does not break its word, even for a friend. I regret it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_PoorRelations</DialogType>
+      <Default>Why should the Dominion fight for you, PLURAL? Our relations do not warrant such a favour.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_Pacifist</DialogType>
+      <Default>The Founders have no appetite for war with TAREMP. They would prefer to settle matters without bloodshed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_TooDangerous</DialogType>
+      <Default>TAREMP is formidable. The Founders do not choose such a war lightly. We decline.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_OK</DialogType>
+      <Default>The Founders agree. We have not much else to do just now, and war with TAREMP will be most useful.</Default>
+    </DialogLine>
+<!-- Treaties With Low Trust -->
+    <DialogLine>
+      <DialogType>TRUST_LOW_ALLIANCE</DialogType>
+      <Default>The Founders are concerned that you cannot be trusted as an ally, SING. I hope you will correct that.</Default>
+    </DialogLine>              
+    <DialogLine>
+      <DialogType>TRUST_LOW_OPEN_BORDERS</DialogType>
+      <Default>The Founders have revoked our open borders. We no longer trust your empire to keep them.</Default>
+    </DialogLine>
+  </Dialogs>
+</DiplomacyDialog>

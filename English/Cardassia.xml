@@ -1,0 +1,659 @@
+﻿<DiplomacyDialog>
+ <Dialogs>
+
+ <DialogLine>
+      <DialogType>TREATY_TOO_SOON_REJECT</DialogType>
+      <Default>The Detapa Council does not rush into treaties. A hasty agreement is a poorly written one. Ask again later.</Default>
+    </DialogLine>
+	<DialogLine>
+ 	<DialogType>First Contact</DialogType>
+ 	<Friendly>Welcome. We are the Cardassian Union. It is a pleasure to meet a people with whom we may do business, and perhaps more.</Friendly>
+ 	<Neutral>This is the Cardassian Union. We have been observing your ships. Please tell us who you are, and what you want.</Neutral>
+ 	<Hostile>The Cardassian Union does not receive uninvited guests. Explain yourself, and keep it brief. The Central Command is listening.</Hostile>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Colonized Warning</DialogType>
+ 	<Friendly>Dear friend, the Detapa Council has noted your colony in TARSYS. We are sure it was an oversight, and that you will want to correct it.</Friendly>
+ 	<Neutral>SING, your colony in TARSYS lies within the Union's interests. The Obsidian Order has noticed. We suggest you reconsider.</Neutral>
+ 	<Hostile>A colony in TARSYS, within Cardassian space? How very bold. Central Command has been informed. You will regret it.</Hostile>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Aggression Warning</DialogType>
+ 	<Friendly>Your ships fired on ours, friend. We are sure there is an explanation. We would so like to hear it.</Friendly>
+ 	<Neutral>You have attacked Cardassian ships, SING. The Union records every offence, and we have a very good memory.</Neutral>
+ 	<Hostile>You will answer for this attack, PLURAL. The Cardassian Union does not forgive, and it does not forget.</Hostile>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Warning Ships</DialogType>
+ 	<Friendly>Dearest friend, your ships have remained in our space for some time. Please withdraw them, so no misunderstanding arises between us.</Friendly>
+ 	<Neutral>PLURAL ships in Cardassian space. We would be most grateful if they withdrew, before the Central Command takes an interest.</Neutral>
+ 	<Hostile>Your warships in Union space are an act of provocation, PLURAL. Withdraw them, or the Cardassian fleet will do it for you.</Hostile>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Warning Ships then Colonized</DialogType>
+ 	<Friendly>We asked you to withdraw, friend, and you did not. Now you have taken TARSYS. We are very disappointed.</Friendly>
+ 	<Neutral>You ignored our request and settled TARSYS. The Cardassian Union does not take kindly to being ignored, SING.</Neutral>
+ 	<Hostile>You trespassed, you were warned, and now you take TARSYS. Central Command will answer your insolence.</Hostile>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Warning Colonized then Ships</DialogType>
+ 	<Friendly>You settled TARSYS and we said nothing, and now you bring warships. Our patience is not unlimited.</Friendly>
+ 	<Neutral>First TARSYS, and now warships on our borders. A pattern emerges, SING, and we do not like it.</Neutral>
+ 	<Hostile>You took TARSYS and now you threaten our borders. The Cardassian Union will defend itself, PLURAL. With enthusiasm.</Hostile>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Declare War</DialogType>
+ 	<misc1>Central Command has issued the order. The Cardassian Union is at war with you. Your worlds will learn what discipline looks like.</misc1>
+ 	<misc2>The Obsidian Order will bring you down from within, while our fleets close in from without. It will be very orderly.</misc2>>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Dunno_Anybody</DialogType>
+ 	<Default>There are others out there? How interesting. The Obsidian Order will be delighted to hear of it. We have not yet had the pleasure.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Greeting</DialogType>
+ 	<Friendly>Hello, dear friend. What can the Union do to assist you? Please, do ask.</Friendly>
+ 	<Neutral>Greetings, SING. We are listening. We trust this will be worth our time.</Neutral>
+ 	<Hostile>Speak. Central Command is recording this conversation. Choose your words carefully.</Hostile>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Racial_Inquiry_1</DialogType>
+ 	<Default>Your people are most interesting. We would like to know more about your history, and your customs. It is purely a matter of courtesy.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Racial_Response_1</DialogType>
+ 	<Default>Fascinating. Central Command will find it useful.</Default>
+	</DialogLine>
+
+	<DialogLine>
+ 	<DialogType>OfferResponse_InsufficientTrust</DialogType>
+ 	<Default>I am afraid we do not trust you enough for this. Perhaps in time.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_AcceptGreatOffer_LowTrust</DialogType>
+ 	<Default>This is a very generous offer, from a people we barely know. We accept, naturally. We will be looking carefully at what you want in return.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Reject_PoorOffer_LowTrust</DialogType>
+ 	<Default>This offer is poor, and we do not trust you enough to overlook it. The Union declines.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Reject_PoorOffer_EnoughTrust</DialogType>
+ 	<Default>You are a valued friend, so I will be honest: your offer is not good enough. Could you try again?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Reject_NearRival</DialogType>
+ 	<Default>A rival holds worlds in that system, and we have no open borders with them. We cannot allow your fleet to pass.</Default>
+ 	<DL_Agg>The Union will choose its own enemies, SING. It does not need your help.</DL_Agg>
+ 	<DL_Xeno>Outsiders meddling on our borders? We find it distasteful.</DL_Xeno>
+ 	<DL_Hon>To set neighbours against each other is a poor way to repay hospitality. We expected better.</DL_Hon>
+ 	<DL_Pac>You would have us quarrel with our neighbours? Cardassia has had enough of quarrels.</DL_Pac>
+ 	<DL_Ruth>A clever scheme. We have used most of them ourselves. We will not be used in turn.</DL_Ruth>
+ 	<DL_Cunn>We see the trap, SING. It was a good attempt. We will not step into it.</DL_Cunn>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Reject_NearEnemy</DialogType>
+ 	<Default>The Union's enemies hold worlds in that system, SING. We would rather your settlers were not caught up in the war.</Default>
+ 	<DL_Agg>When the Union wants those worlds, we will take them ourselves.</DL_Agg>
+ 	<DL_Xeno>The Union does not need outsiders to settle its battlefields.</DL_Xeno>
+ 	<DL_Hon>We will not ask your settlers to risk themselves on our account. We are grateful for the thought.</DL_Hon>
+ 	<DL_Pac>We hope to end that war, not spread it. Thank you, but no.</DL_Pac>
+ 	<DL_Ruth>Those worlds will be ours soon enough. Without your help.</DL_Ruth>
+ 	<DL_Cunn>A world on the front line is a liability, not a prize. Perhaps another time.</DL_Cunn>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Reject_Insulting</DialogType>
+ 	<Default>This offer is an insult to the Cardassian Union. We decline, and we shall remember it.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Accept_Fair</DialogType>
+ 	<Default>A fair arrangement. The Detapa Council approves. It is agreed.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Accept_Good</DialogType>
+ 	<Default>A very good arrangement for both of us. The Council accepts.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Accept_Great</DialogType>
+ 	<Default>You are far too generous, SING. We accept, and we shall remember it.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Accept_Gift</DialogType>
+ 	<Default>A gift for the Union? How kind. We accept, of course.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Accept_Fair_Pleading</DialogType>
+ 	<Default>Your request is modest. The Union grants it, and trusts you will remember its kindness.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_InsufficientFear</DialogType>
+ 	<Default>You expect the Union to bend to this? We would not push the matter, if I were you.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Accept_Fair_Threatening</DialogType>
+ 	<Default>Very well. The Union has no wish to quarrel over so small a matter.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OfferResponse_Accept_Bad_Threatening</DialogType>
+ 	<Default>A poor bargain, forced upon us. The Union will remember it. The Union remembers everything.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>WarDeclared_FeelsBetrayed</DialogType>
+ 	<Default>You make a pact with the Union, and then break it? That was unwise. Central Command declares war.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>WarDeclared_Generic</DialogType>
+ 	<Default>So it is war. Central Command had expected it. The fleet is ready.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Greeting_AtWar</DialogType>
+ 	<Default>We are at war, PLURAL. Say what you must, and quickly.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Declare War Defense</DialogType>
+ 	<Default>You bring your fleet to our border, and Central Command will meet it. I do not expect a long engagement.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Declare War BC</DialogType>
+ 	<Default>We warned you to leave Cardassian territory, and you stayed. Central Command has chosen war, and the fault is yours.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Declare War BC TarSys</DialogType>
+ 	<Default>You remain in TARSYS despite every warning, PLURAL. The Union is at war with you.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Offer NAPact</DialogType>
+ 	<Default>The Union would rather not waste ships on needless wars. Perhaps a non-aggression pact would serve us both?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>NAPact Accepted</DialogType>
+ 	<Default>Excellent. The Detapa Council is pleased. The Union will honour this agreement, as long as you do.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>NAPact Rejected</DialogType>
+ 	<Default>You decline? Then we will assume that you prefer to remain open to other arrangements.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Offer Trade</DialogType>
+ 	<Default>The time has come for the Cardassian Union to open its markets to you. Will you accept a trade treaty with us?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Trade Accepted</DialogType>
+ 	<Default>Excellent. The Council is delighted. May our trade be most profitable.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Trade Rejected</DialogType>
+ 	<Default>You decline trade with the Union? The Council is disappointed. As am I, SING.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>ComeAround_NAPACT</DialogType>
+ 	<Default>First you refuse a pact, and now you ask for one? The Council does not care for indecision.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>ComeAround_TRADE</DialogType>
+ 	<Default>You declined trade earlier. Now you ask for it. I confess I am curious as to what has changed.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Xeno Demand Tech</DialogType>
+ 	<Default>The Union requires TECH_DEMAND from you, SING. It would improve our relations.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Xeno Demand Tech Accepted</DialogType>
+ 	<Default>Thank you. The Council appreciates a sensible partner.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Xeno Demand Tech Rejected</DialogType>
+ 	<Default>You refuse? How unfortunate. The Obsidian Order will take note.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Insult Military</DialogType>
+ 	<Default>Your fleets appear to be in a state of disrepair and disarray. How pathetic.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Compliment Military</DialogType>
+ 	<Default>Your fleet is not without merit. The Central Command has noted it, with interest.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Compliment Military Better</DialogType>
+ 	<Default>You have improved your fleet, SING. How unfortunate. We shall have to adjust our plans.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Declare War Imperialism</DialogType>
+ 	<Default>You cannot defend your worlds, SING. The Union will take them off your hands, and bring them order.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Positive_Borg</DialogType>
+ 	<Default>The Borg are efficient and tireless. In many respects they are what a perfect Cardassian state might be. We admire it, from afar.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Neutral_Borg</DialogType>
+ 	<Default>The Borg are a Collective of machines and minds. We know little of them, and we would like to keep it that way.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Negative_Borg</DialogType>
+ 	<Default>The Borg take whatever they wish, and leave nothing behind. We have no wish to be assimilated, and we have no intention of it.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Positive_Dominion</DialogType>
+ 	<Default>The Dominion offers the Union security, order and a powerful friend. We are grateful for the arrangement.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Neutral_Dominion</DialogType>
+ 	<Default>The Dominion is vast and distant, and we are careful in our dealings with it. Careful, and respectful.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Negative_Dominion</DialogType>
+ 	<Default>The Dominion's help comes at a price, and the price is our independence. Cardassia has not forgotten who it is.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Positive_Federation</DialogType>
+ 	<Default>The Federation is idealistic, but its people are generous. We hold them in some regard, though we would never say so to their face.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Neutral_Federation</DialogType>
+ 	<Default>The Federation is a large and talkative union. It has not harmed us, and we have not harmed it. We remain watchful.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Negative_Federation</DialogType>
+ 	<Default>The Federation preaches to everyone, and listens to no one. Its Prime Directive is a polite excuse for doing nothing.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Positive_Hydran</DialogType>
+ 	<Default>The Hydran Kingdom is a distant and respectable power. We have had no quarrel with them, and we hope to keep it so.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Neutral_Hydran</DialogType>
+ 	<Default>The Hydrans live far from our borders, and we know them only by report. We have no opinion.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Negative_Hydran</DialogType>
+ 	<Default>The Hydrans are proud and unpredictable, and they may be dangerous. We do not pretend to understand them.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Positive_Klingon</DialogType>
+ 	<Default>The Klingons are honest in their way, and they fight bravely. We respect that, from a safe distance.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Neutral_Klingon</DialogType>
+ 	<Default>The Klingon Empire is loud and warlike. We have no strong view of them, other than a preference for distance.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Negative_Klingon</DialogType>
+ 	<Default>The Klingons are brutes who mistake noise for strength. They have invaded our worlds before, and they will not forget our answer.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Declare War Imperialism Break NA</DialogType>
+ 	<Default>You thought a treaty would hold the Union? Treaties are for those who cannot afford to ignore them. We can.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Conquered_Player</DialogType>
+ 	<Default>It is over, SING. The Cardassian Union has won. Your worlds are ours, and your people will find order very agreeable.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Offer Open Borders</DialogType>
+ 	<Default>The PLURAL have been most agreeable, and the Council sees no harm in open borders. Shall we agree to it?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Open Borders Accepted</DialogType>
+ 	<Default>Excellent. Our ships may pass in peace, and we expect yours to do the same.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Open Borders Rejected</DialogType>
+ 	<Default>You refuse open borders? How disappointing. The Council will continue to observe you, nonetheless.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Invaded NA Pact</DialogType>
+ 	<Default>We had a treaty, and you broke it. The Union will not forget this betrayal. We are at war.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Invaded Start War</DialogType>
+ 	<Default>TARSYS belongs to the Union. You have invaded it. Central Command has declared war.</Default>
+	</DialogLine>
+
+ <DialogLine>
+	<DialogType>Opinion_Positive_Romulan</DialogType>
+	<Default>The Romulans are patient and disciplined, and they value secrecy. We have a good deal in common with them.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Opinion_Neutral_Romulan</DialogType>
+	<Default>The Romulan Star Empire keeps to itself, and so do we. We find that arrangement quite agreeable.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Opinion_Negative_Romulan</DialogType>
+	<Default>The Romulans play deep games, and we do not trust them. They would sacrifice us for a small advantage, and without apology.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Claim System</DialogType>
+	<Friendly>Valued friend, the Cardassian Union claims the TARSYS system. Please do not go against our wishes by colonising it.</Friendly>
+	<Neutral>TARSYS is claimed by the Cardassian Union. We suggest you look elsewhere, SING.</Neutral>
+	<Hostile>TARSYS is within the Union's claim, PLURAL. Settle there, and Central Command will remove your colony.</Hostile>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Stole Claim</DialogType>
+	<Default>TARSYS was claimed by the Union. You took it. Central Command does not overlook such things.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Opinion_JustMetUs</DialogType>
+	<Default>We have only just met the PLURAL. The Council is still forming its opinion.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Opinion_NoProblems</DialogType>
+	<Default>The Union has no quarrel with the PLURAL. You have behaved well, and the Council takes note.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Opinion_Problems</DialogType>
+	<Default>The Council has some concerns about the PLURAL. I would be happy to discuss them.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_JustTerritorial</DialogType>
+	<Default>You have taken worlds that the Union had planned for itself. The Council has noticed.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_Territorial</DialogType>
+	<Default>You have taken worlds that the Union had planned for itself. The Council has noticed.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_AlsoMilitary</DialogType>
+	<Default>Your fleet has grown too large for comfort. The Council worries about such things.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_AlsoMilitaryWeak</DialogType>
+	<Default>Your fleet is small, and a weak neighbour is a temptation. The Council would rather not be tempted.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_MilitaryWeak</DialogType>
+	<Default>Your fleet is weak. The Union does not ally with those who cannot defend themselves.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_PrimaryMilitary</DialogType>
+	<Default>Your fleet has grown too large for comfort. The Council worries about such things.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_AlliedWithEnemy</DialogType>
+	<Default>You are allied with TAREMP, who are enemies of the Union. A curious choice of friends.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Problem_AlsoAlliedWithEnemy</DialogType>
+	<Default>You remain allied with TAREMP, who are enemies of the Union. The Order has noted it.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>Opinion_NothingMajor</DialogType>
+	<Default>We have no great quarrel with you. The Council would like it to stay that way.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>AtWar_Winning</DialogType>
+	<Default>The war goes very well, SING. You may wish to speak while there is still someone left to hear you.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>AtWar_Losing</DialogType>
+	<Default>The war has not gone as Central Command hoped. I am willing to hear what you have to say, SING.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>HelpUS_War</DialogType>
+	<Default>TAREMP are enemies of the Union. We invite you to join us. There will be rewards for those who help.</Default>
+</DialogLine>
+ <DialogLine>
+	<DialogType>HelpUS_War_Yes</DialogType>
+	<Default>Excellent. The Council will be pleased. Together we shall bring TAREMP to order.</Default>
+ </DialogLine>
+ <DialogLine>
+	<DialogType>HelpUS_War_No</DialogType>
+	<Default>You will not help us against TAREMP? The Union will remember who stood with it.</Default>
+ </DialogLine>
+
+
+
+	<!--  Second Run Localization Efforts -->
+
+	<DialogLine>
+ 	<DialogType>Declare War Defense BrokenNA</DialogType>
+ 	<Default>We trusted our treaty, and you broke it. The Cardassian Union will not forget this betrayal.</Default>
+	</DialogLine>
+
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_FAIR</DialogType>
+ 	<Default>Dear SING, this war has brought both sides nothing but sorrow. Won't you agree to end it?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_FAIR_WINNING</DialogType>
+ 	<Default>We are winning, SING, but the Council sees no profit in prolonging it. Make peace with us.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_EVENLY_MATCHED</DialogType>
+ 	<Default>Neither of us can win this war. A sensible people would end it before more ships are lost.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_PLEADING</DialogType>
+ 	<Default>The war has gone poorly for us. The Union would accept peace, on reasonable terms.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_WINNINGBC</DialogType>
+ 	<Default>We hold your worlds. Sign this treaty, and the Union will end the war.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_LOSINGBC</DialogType>
+ 	<Default>You hold the field, SING. Keep your worlds, and give us peace. The Union will be patient.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_REJECTED</DialogType>
+ 	<Default>You refuse peace? Then the war continues. The Union is patient.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFERPEACE_ACCEPTED</DialogType>
+ 	<Default>Very well. There will be peace between us. The Council is satisfied.</Default>
+	</DialogLine>
+
+	<DialogLine>
+ 	<DialogType>ACCEPT_OFFER_PEACE</DialogType>
+ 	<Default>A reasonable offer. The Council accepts. There will be peace.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>REJECT_OFFER_PEACE_POOROFFER</DialogType>
+ 	<Default>Your offer is not good enough. The Union will not accept peace on those terms.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>REJECT_OFFER_PEACE_UNWILLING_BC</DialogType>
+ 	<Default>You still hold worlds that the Union wants. There will be no peace.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>ACCEPT_OFFER_PEACE_RELUCTANT</DialogType>
+ 	<Default>The Union will accept this peace, though it does not please us. Do not mistake it for friendship.</Default>
+	</DialogLine>
+
+	<DialogLine>
+ 	<DialogType>PROBLEM_RECENTWAR</DialogType>
+ 	<Default>We were at war not long ago. The Union has not forgotten, and neither should you.</Default>
+	</DialogLine>
+
+	<DialogLine>
+ 	<DialogType>OFFER_ALLIANCE</DialogType>
+ 	<Default>The Cardassian Union and the PLURAL understand each other so well. Perhaps it is time for a formal alliance.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>ALLIANCE_ACCEPTED</DialogType>
+ 	<Default>Excellent. The Council welcomes this alliance, and looks forward to its fruits.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>ALLIANCE_REJECTED</DialogType>
+ 	<Default>You decline an alliance with the Union? Perhaps you will think again.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>OFFER_ALLIANCE_TOO_COMPLICATED</DialogType>
+ 	<Default>This is needlessly complicated. If you want an alliance, propose one plainly.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>AI_ALLIANCE_ACCEPT</DialogType>
+ 	<Default>The Council agrees. The Union will stand with you, as long as you stand with us.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>AI_ALLIANCE_REJECT</DialogType>
+ 	<Default>An alliance? The Council has not yet decided that you deserve one.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>REJECT_PEACE_RUTHLESS</DialogType>
+ 	<Default>No peace. The Union intends to finish what it has started.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>ACCEPT_PEACE_COLDWAR</DialogType>
+ 	<Default>There has been little loss on either side. A sensible time for peace. The Council agrees.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>HelpUS_War_No_BreakAlliance</DialogType>
+ 	<Default>You will not fight beside us? Then you are no ally of the Union. The alliance is at an end.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Stole Claim 2</DialogType>
+ 	<Default>You have crossed the Union twice now. A third time would be unwise.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Stole Claim 3</DialogType>
+ 	<Default>You have stolen from the Union too many times. Central Command's patience is at an end.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>AboutUS</DialogType>
+ 	<DL_Agg>The Cardassian Union will defend its space and its interests with the strength they require. Our military has never been shy of doing so.</DL_Agg>
+ 	<DL_Hon>We are a people of duty, and a proud tradition of service to the State. If you prove to be worthy of it, we will treat you accordingly.</DL_Hon>
+ 	<DL_Pac>Cardassia has suffered greatly in the past. Our world is poor, and our people have known hunger. We wish only for a lasting peace, and the order it brings.</DL_Pac>
+ 	<DL_Ruth>The Union has survived by being more efficient and more thorough than its rivals. We intend to go on surviving.</DL_Ruth>
+ 	<DL_Xeno>We are cautious with outsiders. Cardassians tend to believe that what others do not know cannot hurt us.</DL_Xeno>
+ 	<DL_Cunn>The Obsidian Order sees a great deal, and says very little. It is how the Union remains so well informed.</DL_Cunn>
+ 	<DL_Exp>Cardassia's resources are meagre, and its people many. It is only natural that the Union looks outward for what it needs.</DL_Exp>
+ 	<DL_Tech>The Union's engineers are among the best in the quadrant. Our technology is practical, efficient and thoroughly tested.</DL_Tech>
+ 	<DL_Mil>The Cardassian fleet is disciplined, well drilled and deeply loyal. It will defend the Union against anything.</DL_Mil>
+ 	<DL_Ind>Every Cardassian citizen has a role, and every role serves the State. Nothing is wasted. Nothing is idle.</DL_Ind>
+ 	<DL_Gen>The Union values order, discipline and loyalty. We believe a well-ordered society can accomplish anything.</DL_Gen>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Positive_Vulcan</DialogType>
+ 	<Default>The Vulcans are orderly, rational and reliable. We can respect a people who keep their word.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Neutral_Vulcan</DialogType>
+ 	<Default>The Vulcans are cool and logical. We have no quarrel with them, and no great affection either.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Opinion_Negative_Vulcan</DialogType>
+ 	<Default>The Vulcans pretend to be above us. They have watched our people suffer, and offered lectures instead of help.</Default>
+	</DialogLine>
+   
+	<DialogLine>
+ 	<DialogType>Caught_Spying_1</DialogType>
+ 	<Default>We have caught you spying on us. Be warned that such actions will not be tolerated by the Cardassian Union.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Caught_Spying_2</DialogType>
+ 	<Default>We asked you to stop spying. The Obsidian Order does not ask twice.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Caught_Spying_3</DialogType>
+ 	<Default>You have spied on us again. All treaties between our peoples are cancelled.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Killed_Spy_1</DialogType>
+ 	<Default>We have captured your spy. He had a great deal to say, once he was asked properly.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Spy_Success_Caught</DialogType>
+ 	<Default>We have caught on to your acts of espionage against us. Be warned that there will be consequences.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Caught_Spying_Ally_1</DialogType>
+ 	<Default>A spy among our allies? We caught your agent. Is this how the PLURAL treat friends?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Caught_Spying_Ally_2</DialogType>
+ 	<Default>You spy on us again, ally? Our alliance is at an end.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Offer Open Borders Friends</DialogType>
+ 	<Default>Friends should not close their borders to one another. Open yours to us, SING.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Open Borders Friends Rejected</DialogType>
+ 	<Default>You keep your borders closed even to friends? The PLURAL are very careful.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_JustMet</DialogType>
+ 	<Default>We have only just met. The Council does not join a federation with strangers.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_NoAlliance</DialogType>
+ 	<Default>We are not even allies. The Council will not consider a federation until we are.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_AllianceTooYoung</DialogType>
+ 	<Default>We are allies, and that is a good beginning. But a federation requires a longer history of trust.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_WeAreTooStrong</DialogType>
+ 	<Default>Why should the Union follow you? We are the stronger power. If anything, you should join us.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_Accept</DialogType>
+ 	<Default>You have proven your commitment to us through your actions. Let our combined might keep all future aggressors at bay.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_Quest_DestroyEnemy</DialogType>
+ 	<Default>Before we consider merging with you, we need you to defeat our enemies. Conquer TAREMP and the Cardassian Union will agree to merge with you.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_YouDidIt_KilledEnemy</DialogType>
+ 	<Default>TAREMP is destroyed. The Council is satisfied. The Union will join your federation.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_RelationsPoor</DialogType>
+ 	<Default>You wish the Union to join your federation? The Council does not even trust you.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_Quest_AllyFriend</DialogType>
+ 	<Default>We will join you, but you must first ally with our friends, TAREMP. Win their confidence, and speak to us again.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>Federation_YouDidIt_AllyFriend</DialogType>
+ 	<Default>You have made allies of our friends. The Council is pleased. The Union will join your federation.</Default>
+	</DialogLine>
+
+
+	<DialogLine>
+ 	<DialogType>JoinWar_YouAreNotAtWar</DialogType>
+ 	<Default>You are not even at war with TAREMP. Why would the Union fight for you?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>JoinWar_WeAreAtWar</DialogType>
+ 	<Default>The Union is already at war with TAREMP. Were you not informed?</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>JoinWar_Allied_OK</DialogType>
+ 	<Default>The Union stands with its allies. We will make war on TAREMP.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>JoinWar_Allied_DECLINE</DialogType>
+ 	<Default>TAREMP is our ally. The Union does not break its word, even for a friend. We regret it.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>JoinWar_Reject_PoorRelations</DialogType>
+ 	<Default>Why should the Union fight for you, PLURAL? Our relations do not warrant such a favour.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>JoinWar_Reject_Pacifist</DialogType>
+ 	<Default>Cardassia has suffered enough war. We would prefer to settle matters with TAREMP without bloodshed.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>JoinWar_Reject_TooDangerous</DialogType>
+ 	<Default>TAREMP is formidable. The Council does not choose such a war lightly. We decline.</Default>
+	</DialogLine>
+	<DialogLine>
+ 	<DialogType>JoinWar_OK</DialogType>
+ 	<Default>The Cardassian Union has agreed to your war proposal. We will gladly join you. Our warships are on the way.</Default>
+	</DialogLine>
+<!-- Treaties With Low Trust -->
+    <DialogLine>
+      <DialogType>TRUST_LOW_ALLIANCE</DialogType>
+      <Default>The Detapa Council is concerned that you cannot be trusted as an ally, SING. I hope you will correct that.</Default>
+    </DialogLine>              
+    <DialogLine>
+      <DialogType>TRUST_LOW_OPEN_BORDERS</DialogType>
+      <Default>The Detapa Council has revoked our open borders. We no longer trust your empire to keep them.</Default>
+    </DialogLine>
+ </Dialogs>
+</DiplomacyDialog>
