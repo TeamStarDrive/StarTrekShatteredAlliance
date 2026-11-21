@@ -12,7 +12,7 @@
   <XSize>2</XSize>
   <YSize>6</YSize>
   <ModuleType>MainGun</ModuleType>
-  <Name>Kling_DisruptorBeamMk1</Name>
+  <Name>Klingon Wing Disruptor</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/Kling_DisruptorBeamMk1</IconTexturePath>3
@@ -34,7 +34,7 @@
   <FieldOfFire>15</FieldOfFire>
   <AccuracyPercent>0.58</AccuracyPercent>
   <!-- Description -->
-  <Description>This heavy-mount fusion beam has a fixed spinal facing and a 45 degree field of fire.</Description>
+  <Description>The wing-mounted disruptor of a Bird-of-Prey, the weapon with which Klingon raiders do most of their work. Of the Klingon beam weapons, it hits the softest.</Description>
   
 
 </ShipModule>

@@ -8,15 +8,15 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>CompositeAlloys Med</Name>
+    <Name>Composite Alloy Armour (Medium)</Name>
     <Restrictions>O</Restrictions>
     <UID>CompositeAlloys_Med</UID> 
   <Version>2</Version>
 
     <TexturePath>Textures/transparent</TexturePath>
     <IconTexturePath>Modules/CompositeAlloys Med</IconTexturePath>
-    <NameIndex>6572</NameIndex>
-    <DescriptionIndex>6585</DescriptionIndex>
+    <NameIndex>19128</NameIndex>
+    <DescriptionIndex>19129</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>28</Mass>
     <HealthMax>22560</HealthMax>
@@ -30,6 +30,6 @@
     <ExplosiveResist>0.16</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Composite Alloys provides massive defence however the mass is also very "massive".</Description>
+    <Description>Layered alloys bonded into one plate: much stronger than steel for the same weight.</Description>
     <APResist>1</APResist>    
 </ShipModule>

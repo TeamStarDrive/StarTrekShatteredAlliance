@@ -13,7 +13,7 @@
   <XSize>4</XSize>
   <YSize>4</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>Light Phasor Array</Name>
+  <Name>Cardassian Prototype Disruptor Array</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/cardasian_prototype_beam</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>60</FieldOfFire>
 
   <!-- Description -->
-  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  <Description>A trial array built for the Central Command's testing yards. Hand-tuned, and not yet ready for the line. Of the Cardassian beam weapons, it hits the hardest and fires the fastest, but is the frailest for its size.</Description>
   
 
 </ShipModule>

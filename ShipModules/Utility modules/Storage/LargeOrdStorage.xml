@@ -6,7 +6,7 @@
   <XSize>4</XSize>
   <YSize>4</YSize>
   <ModuleType>Storage</ModuleType>
-  <Name>LargeOrdStorage</Name>
+  <Name>Large Ordnance Storage</Name>
   <Restrictions>IO</Restrictions>
   <UID>LargeOrdStorage</UID> 
   <Version>2</Version>
@@ -14,15 +14,14 @@
   <IconTexturePath>Modules/LargeOrdStorage</IconTexturePath>
   <Mass>46</Mass>
   <HealthMax>9500</HealthMax>
-  <Description>Ordnance represents a ship's stores of munitions and explosives such as bullets, missiles, torpedoes, mines, and other special weapons.  A basic ordnance locker such as this one provides a captain with a safe and convenient place to store his munitions.
-  </Description>
+  <Description>Bigger magazines for torpedoes and missiles, so ships can fire for longer.</Description>
   
   
   <PowerDraw>0</PowerDraw>
 
 
-  <NameIndex>1006</NameIndex>
-  <DescriptionIndex>1007</DescriptionIndex>
+  <NameIndex>19006</NameIndex>
+  <DescriptionIndex>19007</DescriptionIndex>
 
 
 

@@ -1,0 +1,627 @@
+﻿<DiplomacyDialog>
+  <Dialogs>
+  <DialogLine>
+      <DialogType>TREATY_TOO_SOON_REJECT</DialogType>
+      <Default>Insufficient data on SING. Treaty proposal deferred. The Collective will process the request at a later time.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>First Contact</DialogType>
+      <Friendly>We are the Borg. Your biological and technological distinctiveness will be of interest. The Collective is prepared to negotiate.</Friendly>
+      <Neutral>We are the Borg. Your biological and technological distinctiveness will be added to our own. Resistance is futile. Alternatively, you may negotiate.</Neutral>
+      <Hostile>We are the Borg. Lower your shields and surrender your ships. We will add your biological and technological distinctiveness to our own. Your culture will adapt to service us. Resistance is futile.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Colonized Warning</DialogType>
+      <Friendly>SING colonisation of TARSYS detected. This activity conflicts with Collective plans. Request cessation. The Collective will consider compensation.</Friendly>
+      <Neutral>SING colony in TARSYS detected. Location designated for Borg use. Remove the colony, or it will be assimilated.</Neutral>
+      <Hostile>SING colony in TARSYS is irrelevant. It will be assimilated. Resistance is futile.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Aggression Warning</DialogType>
+      <Friendly>SING weapons fire detected against Borg vessels. Analysis suggests error. Request clarification.</Friendly>
+      <Neutral>SING aggression against Borg vessels detected. Threat level: elevated. The Collective will adapt.</Neutral>
+      <Hostile>SING aggression is noted. The Collective will adapt to your weapons. You will be assimilated.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Ships</DialogType>
+      <Friendly>SING ships detected in Borg space. Analysis of Borg and SING relations suggests non-aggressive force movements. Further analysis required.</Friendly>
+      <Neutral>SING ships detected in Borg space. Withdraw, or they will be assimilated.</Neutral>
+      <Hostile>SING ships in Borg space are a threat. They will be assimilated. Resistance is futile.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Ships then Colonized</DialogType>
+      <Friendly>SING ships were detected in Borg space. Warning issued. SING then colonised TARSYS. The Collective is displeased.</Friendly>
+      <Neutral>Warning was issued. SING colonised TARSYS regardless. The Collective will respond accordingly.</Neutral>
+      <Hostile>SING ignored the warning and colonised TARSYS. Assimilation will follow.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Colonized then Ships</DialogType>
+      <Friendly>SING colonised TARSYS. The Collective did not respond. SING ships now enter Borg space. Probability of hostile intent: rising.</Friendly>
+      <Neutral>SING colonised TARSYS, and now SING ships enter Borg space. The Collective has recognised a pattern.</Neutral>
+      <Hostile>SING colonised TARSYS and now threatens Borg space. The Collective will respond. You will be assimilated.</Hostile>    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War</DialogType>
+      <misc1>We are the Borg. Lower your shields and surrender your ships. We will add your biological and technological distinctiveness to our own. Resistance is futile.</misc1>
+      <misc2>Your defences will adapt to service us. The Collective approaches. Resistance is futile.</misc2>>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Dunno_Anybody</DialogType>
+      <Default>Species unknown. The Collective has not encountered them. They will be located, and assimilated, in due course.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Greeting</DialogType>
+      <Friendly>Engaging diplomatic routines. Case: friendly. Non-threatening greeting tendered.</Friendly>
+      <Neutral>Diplomatic channel open. State your purpose, SING. Efficiency is preferred.</Neutral>
+      <Hostile>You have been noticed, SING. State your purpose before you are assimilated.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Racial_Inquiry_1</DialogType>
+      <Default>SING physiology and culture will be catalogued. Provide data.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Racial_Response_1</DialogType>
+      <Default>Data received. Analysis in progress.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AboutUS</DialogType>
+      <DL_Ruth>We seek perfection through assimilation. We will add your biological and technological distinctiveness to our own.</DL_Ruth>
+      <DL_Ind>Borg imperative: production. Survival. Every drone has a function. Nothing is wasted.</DL_Ind>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_InsufficientTrust</DialogType>
+      <Default>Insufficient trust. Proposal rejected.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_AcceptGreatOffer_LowTrust</DialogType>
+      <Default>Offer exceeds expected value. Probability of deception: elevated. Proposal accepted. Monitoring will continue.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_PoorOffer_LowTrust</DialogType>
+      <Default>Offer value is below threshold, and trust is insufficient. Proposal rejected.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_PoorOffer_EnoughTrust</DialogType>
+      <Default>Offer value is below threshold. Revise the proposal. Efficiency is expected.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_NearRival</DialogType>
+      <Default>Another power holds worlds in that system. The Collective has no open borders with them. Proposal rejected.</Default>
+      <DL_Agg>The Collective selects its own targets. SING input is irrelevant.</DL_Agg>
+      <DL_Xeno>SING attempts to influence Borg decisions. This is noted, and rejected.</DL_Xeno>
+      <DL_Hon>SING attempt to provoke conflict between neighbours is noted. The Collective is not persuaded.</DL_Hon>
+      <DL_Pac>The Collective prefers to assimilate rather than to quarrel. Proposal rejected.</DL_Pac>
+      <DL_Ruth>SING manipulation detected. The Collective will not be used.</DL_Ruth>
+      <DL_Cunn>Trap detected. Probability of success: negligible.</DL_Cunn>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_NearEnemy</DialogType>
+      <Default>Borg enemies hold worlds in that system. SING settlers would be at risk. Proposal rejected.</Default>
+      <DL_Agg>The Collective will assimilate those worlds without assistance.</DL_Agg>
+      <DL_Xeno>SING settlers are not required on Borg battlefields.</DL_Xeno>
+      <DL_Hon>Concern for SING settlers is noted. Proposal rejected regardless.</DL_Hon>
+      <DL_Pac>The Collective will not spread the conflict. Proposal rejected.</DL_Pac>
+      <DL_Ruth>Those worlds will be assimilated. Settlers are unnecessary.</DL_Ruth>
+      <DL_Cunn>A world on the front line is a liability. Proposal deferred.</DL_Cunn>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_Insulting</DialogType>
+      <Default>Offer value: negligible. Proposal rejected.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair</DialogType>
+      <Default>Offer is acceptable. Proposal accepted.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Good</DialogType>
+      <Default>Offer is advantageous. Proposal accepted.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Great</DialogType>
+      <Default>Offer is highly advantageous. Proposal accepted. SING contribution is noted.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Gift</DialogType>
+      <Default>Tribute received. The Collective acknowledges it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair_Pleading</DialogType>
+      <Default>Request is minor. Proposal accepted. SING dependence is noted.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_InsufficientFear</DialogType>
+      <Default>SING threats are irrelevant. Proposal rejected.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair_Threatening</DialogType>
+      <Default>Proposal accepted. Conflict would be inefficient.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Bad_Threatening</DialogType>
+      <Default>Proposal is disadvantageous. It is accepted under duress. The Collective will adapt.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>WarDeclared_FeelsBetrayed</DialogType>
+      <Default>SING has violated a pact with the Collective. Hostilities commence. Assimilation will follow.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>WarDeclared_Generic</DialogType>
+      <Default>Hostilities have commenced. The Collective will adapt. SING will be assimilated.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Greeting_AtWar</DialogType>
+      <Default>Hostilities are in progress. State your purpose, or be assimilated.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Defense</DialogType>
+      <Default>SING forces approach Borg space. They will be assimilated.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War BC</DialogType>
+      <Default>Warnings were issued, and ignored. SING is hereby targeted for assimilation.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War BC TarSys</DialogType>
+      <Default>SING remains in TARSYS in defiance of warnings. The Collective will assimilate it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer NAPact</DialogType>
+      <Default>Economic analysis suggests that a non-aggression pact would increase Borg efficiency. Treaty proposed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>NAPact Accepted</DialogType>
+      <Default>Treaty acknowledged. The Collective will comply as long as SING does.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>NAPact Rejected</DialogType>
+      <Default>Proposal declined. Probability of future conflict: increased.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Trade</DialogType>
+      <Default>Economic analysis suggests importation of SING goods would increase Borg efficiency. Trade treaty offered. Inputs?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Trade Accepted</DialogType>
+      <Default>Trade treaty acknowledged. Efficiency will increase.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Trade Rejected</DialogType>
+      <Default>SING refusal noted. Probability of future conflict: increased.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ComeAround_NAPACT</DialogType>
+      <Default>SING previously declined a pact, and now proposes one. Inconsistency is noted.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ComeAround_TRADE</DialogType>
+      <Default>SING previously declined trade, and now requests it. Reason for the change is unknown.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech</DialogType>
+      <Default>The Collective requires TECH_DEMAND from SING. Compliance is advised.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech Accepted</DialogType>
+      <Default>Technology received. The Collective is satisfied.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech Rejected</DialogType>
+      <Default>SING refusal noted. The technology will be acquired by other means.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Insult Military</DialogType>
+      <Default>Military analysis of SING fleets suggests critical weakness. Probability of targeting PLURAL for assimilation is increasing.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Compliment Military</DialogType>
+      <Default>SING fleets are adequate. Threat assessment: minor.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Compliment Military Better</DialogType>
+      <Default>SING fleet capability has increased. Threat assessment revised upward.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Imperialism</DialogType>
+      <Default>SING defences are inadequate. The Collective will assimilate your worlds.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Dominion</DialogType>
+      <Default>The Dominion is an organised empire. Its Founders' ability to shape themselves is of interest. Assimilation would be valuable.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Dominion</DialogType>
+      <Default>The Dominion is distant. Data insufficient. Observation continues.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Dominion</DialogType>
+      <Default>The Dominion controls its subjects through genetic engineering. It is inferior. It will be assimilated.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Federation</DialogType>
+      <Default>The Federation is of interest. Its diversity is notable, and its capacity to adapt is high. The Collective regards it with approval.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Federation</DialogType>
+      <Default>The Federation is a large union. Data insufficient. Observation continues.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Federation</DialogType>
+      <Default>The Federation resists assimilation and obstructs Borg objectives. It is a priority target.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Hydran</DialogType>
+      <Default>The Hydran Kingdom has shown no hostile intent. Data limited. The Collective regards it with neutrality.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Hydran</DialogType>
+      <Default>The Hydrans are distant. Data insufficient. Observation continues.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Hydran</DialogType>
+      <Default>The Hydran Kingdom is a potential obstacle. It will be assimilated in due course.</Default>
+    </DialogLine>
+	<DialogLine>
+      <DialogType>Opinion_Positive_Klingon</DialogType>
+      <Default>Klingon warriors are strong and adaptive. Their assimilation would be advantageous. The Collective acknowledges them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Klingon</DialogType>
+      <Default>The Klingon Empire is a militaristic power. Threat assessment: moderate.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Klingon</DialogType>
+      <Default>Klingon resistance is aggressive and unpredictable. It will be eliminated or assimilated.</Default>
+    </DialogLine><DialogLine>
+      <DialogType>Opinion_Positive_Romulan</DialogType>
+      <Default>The Romulan Star Empire is advanced and disciplined. Its technology is of interest. Assimilation would be beneficial.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Romulan</DialogType>
+      <Default>The Romulan Star Empire is secretive. Data insufficient. Observation continues.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Romulan</DialogType>
+      <Default>The Romulans conceal their technology and act with deception. They are a priority for assimilation.</Default>
+    </DialogLine><DialogLine>
+      <DialogType>Opinion_Positive_Vulcan</DialogType>
+      <Default>Vulcan logic and discipline are efficient. Vulcan minds would add value to the Collective. They are of interest.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Vulcan</DialogType>
+      <Default>The Vulcans are a rational species. Threat assessment: moderate. Observation continues.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Vulcan</DialogType>
+      <Default>Vulcan mental discipline resists assimilation. This is inconvenient. It will be overcome.</Default>
+    </DialogLine>
+	<DialogLine>
+      <DialogType>Opinion_Positive_Cardassian</DialogType>
+      <Default>The Cardassian Union is efficient and organised. It has a record of service to a greater purpose. It is of interest.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Cardassian</DialogType>
+      <Default>The Cardassian Union is a minor power. Threat assessment: low. Observation continues.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Cardassian</DialogType>
+      <Default>The Cardassian Union resists Borg objectives. It will be assimilated.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Imperialism Break NA</DialogType>
+      <Default>The treaty has served its purpose. The Collective will now assimilate you. Resistance is futile.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Conquered_Player</DialogType>
+      <Default>Assimilation successful. Welcome to the Collective.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Open Borders</DialogType>
+      <Default>Analysis shows open borders would increase efficiency. The Collective proposes an agreement.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Accepted</DialogType>
+      <Default>Agreement acknowledged. Borg vessels will pass freely. SING vessels may do the same.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Rejected</DialogType>
+      <Default>Proposal declined. The Collective will adapt.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Invaded NA Pact</DialogType>
+      <Default>The treaty has been violated by SING. The Collective will respond. Hostilities begin.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Invaded Start War</DialogType>
+      <Default>SING has invaded TARSYS. This is a hostile act. The Collective will respond.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Claim System</DialogType>
+      <Friendly>SING activity detected in TARSYS system. SING presence is counter-productive to Borg imperatives. Cessation of SING colonisation activity in TARSYS is requested.</Friendly>
+      <Neutral>TARSYS is designated for Borg use. SING presence is not permitted.</Neutral>
+      <Hostile>SING activity in TARSYS will be assimilated. Resistance is futile.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim</DialogType>
+      <Default>TARSYS was designated for Borg use. SING has taken it. This is noted.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_JustMetUs</DialogType>
+      <Default>SING data is insufficient. The Collective has not yet formed an assessment.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_NoProblems</DialogType>
+      <Default>SING has not obstructed Borg imperatives. Relations are acceptable.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Problems</DialogType>
+      <Default>SING has obstructed Borg imperatives. Problems have been identified.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_JustTerritorial</DialogType>
+      <Default>SING holds worlds designated for Borg use. This is noted.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_Territorial</DialogType>
+      <Default>SING holds worlds designated for Borg use. This is noted.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlsoMilitary</DialogType>
+      <Default>SING military capability has increased. The Collective has noted it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlsoMilitaryWeak</DialogType>
+      <Default>SING military capability is low. SING is vulnerable to assimilation.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_MilitaryWeak</DialogType>
+      <Default>SING military capability is inadequate. SING is of limited value as an ally.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_PrimaryMilitary</DialogType>
+      <Default>SING military capability is a threat. The Collective has noted it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlliedWithEnemy</DialogType>
+      <Default>SING is allied with TAREMP, an enemy of the Collective. This is noted.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlsoAlliedWithEnemy</DialogType>
+      <Default>SING remains allied with TAREMP, an enemy of the Collective. This is noted.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_NothingMajor</DialogType>
+      <Default>No major obstruction by SING detected.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AtWar_Winning</DialogType>
+      <Default>Assimilation of SING is proceeding. State your purpose, or be assimilated.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AtWar_Losing</DialogType>
+      <Default>Assimilation of SING has been delayed. The Collective will adapt. State your purpose.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War</DialogType>
+      <Default>The Collective proposes a joint operation against TAREMP. Cooperation will increase efficiency.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_Yes</DialogType>
+      <Default>Affirmative. Target acquired for assimilation.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_No</DialogType>
+      <Default>SING refusal is noted. The Collective will proceed without assistance.</Default>
+    </DialogLine>
+
+    <!-- Second Run Localization -->
+    <DialogLine>
+      <DialogType>OFFERPEACE_FAIR</DialogType>
+      <Default>Borg request cessation of hostilities.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_FAIR_WINNING</DialogType>
+      <Default>Hostilities are inefficient. The Collective proposes cessation.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_EVENLY_MATCHED</DialogType>
+      <Default>Neither side can achieve assimilation or victory efficiently. Cessation of hostilities is proposed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_PLEADING</DialogType>
+      <Default>The Collective has suffered losses. Cessation of hostilities is proposed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_WINNINGBC</DialogType>
+      <Default>The Collective holds SING worlds. Sign this treaty, or they will be assimilated.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_LOSINGBC</DialogType>
+      <Default>SING holds the advantage. The Collective proposes cessation. It will adapt, and return.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_REJECTED</DialogType>
+      <Default>SING refusal is noted. Hostilities will continue.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_ACCEPTED</DialogType>
+      <Default>Cessation of hostilities acknowledged.</Default>
+    </DialogLine>
+    
+    <DialogLine>
+      <DialogType>ACCEPT_OFFER_PEACE</DialogType>
+      <Default>Proposal is acceptable. Cessation of hostilities acknowledged.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_OFFER_PEACE_POOROFFER</DialogType>
+      <Default>Proposal is inadequate. Hostilities will continue.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_OFFER_PEACE_UNWILLING_BC</DialogType>
+      <Default>SING still holds worlds designated for Borg use. Hostilities will continue.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ACCEPT_OFFER_PEACE_RELUCTANT</DialogType>
+      <Default>Cessation acknowledged. It is sub-optimal. The Collective will adapt.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>PROBLEM_RECENTWAR</DialogType>
+      <Default>Recent hostilities with SING are recorded. They have not been forgotten.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFER_ALLIANCE</DialogType>
+      <Default>Analysis suggests alliance with PLURAL would increase efficiency. Alliance proposed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ALLIANCE_ACCEPTED</DialogType>
+      <Default>Alliance acknowledged. The Collective will comply.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ALLIANCE_REJECTED</DialogType>
+      <Default>Alliance declined. The Collective will adapt.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFER_ALLIANCE_TOO_COMPLICATED</DialogType>
+      <Default>Proposal is too complex. State your alliance proposal clearly.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AI_ALLIANCE_ACCEPT</DialogType>
+      <Default>Alliance accepted. The Collective will comply.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AI_ALLIANCE_REJECT</DialogType>
+      <Default>Alliance rejected. SING is not yet of sufficient value.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_PEACE_RUTHLESS</DialogType>
+      <Default>Cessation rejected. Assimilation will continue.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ACCEPT_PEACE_COLDWAR</DialogType>
+      <Default>Losses on both sides are minimal. Cessation is efficient. Accepted.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_No_BreakAlliance</DialogType>
+      <Default>SING has failed to assist the Collective. The alliance is terminated.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim 2</DialogType>
+      <Default>SING has obstructed Borg claims a second time. This is noted.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim 3</DialogType>
+      <Default>SING has obstructed Borg claims repeatedly. Assimilation is now authorised.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_1</DialogType>
+      <Default>Network security breach detected. We know it was you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_2</DialogType>
+      <Default>Network security breach detected again. The Collective will adapt. Cease.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_3</DialogType>
+      <Default>Repeated breaches detected. All treaties with SING are terminated.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Killed_Spy_1</DialogType>
+      <Default>SING infiltration unit detected and terminated.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_Ally_1</DialogType>
+      <Default>Network breach detected within allied systems. SING agent identified. Cease.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_Ally_2</DialogType>
+      <Default>Repeated breaches by SING. The alliance is terminated.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Open Borders Friends</DialogType>
+      <Default>Analysis shows that SING access to Borg space would increase efficiency. Reciprocal access is proposed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Friends Rejected</DialogType>
+      <Default>SING declines reciprocal access. The Collective will adapt.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_JustMet</DialogType>
+      <Default>Insufficient data on SING. Full integration is premature.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_NoAlliance</DialogType>
+      <Default>No alliance exists. Integration requires alliance. Proposal rejected.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_AllianceTooYoung</DialogType>
+      <Default>Alliance duration is insufficient. Integration is deferred.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_WeAreTooStrong</DialogType>
+      <Default>The Collective is superior. SING should be integrated into the Collective.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Accept</DialogType>
+      <Default>Full system integration? Your individuality added to our own? It is agreed. We shall merge and create something superior.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Quest_DestroyEnemy</DialogType>
+      <Default>Borg will integrate systems with PLURAL. First, PLURAL must eliminate TAREMP.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_YouDidIt_KilledEnemy</DialogType>
+      <Default>TAREMP has been eliminated. Integration is authorised. The Collective will join your federation.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_RelationsPoor</DialogType>
+      <Default>Relations with SING are inadequate for integration. Proposal rejected.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Quest_AllyFriend</DialogType>
+      <Default>Integration requires alliance with TAREMP. Establish an alliance, and resubmit the proposal.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_YouDidIt_AllyFriend</DialogType>
+      <Default>Alliance with TAREMP established. Integration is authorised.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_YouAreNotAtWar</DialogType>
+      <Default>SING is not at war with TAREMP. The Collective sees no benefit in joining.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_WeAreAtWar</DialogType>
+      <Default>The Collective is already at war with TAREMP. Redundant request.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Allied_OK</DialogType>
+      <Default>Affirmative. Target acquired for assimilation. TAREMP will be assimilated.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Allied_DECLINE</DialogType>
+      <Default>TAREMP is allied with the Collective. Request denied.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_PoorRelations</DialogType>
+      <Default>Relations with SING are inadequate. Request denied.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_Pacifist</DialogType>
+      <Default>The Collective will not engage TAREMP at this time. Request denied.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_TooDangerous</DialogType>
+      <Default>TAREMP threat level is high. Engagement is not advised. Request denied.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_OK</DialogType>
+      <Default>Affirmative. Target acquired for assimilation.</Default>
+    </DialogLine>
+<!-- Treaties With Low Trust -->
+    <DialogLine>
+      <DialogType>TRUST_LOW_ALLIANCE</DialogType>
+      <Default>SING reliability has decreased. Alliance status is under review.</Default>
+    </DialogLine>              
+    <DialogLine>
+      <DialogType>TRUST_LOW_OPEN_BORDERS</DialogType>
+      <Default>SING reliability has decreased. Open borders agreement is revoked.</Default>
+    </DialogLine>
+  </Dialogs>
+</DiplomacyDialog>

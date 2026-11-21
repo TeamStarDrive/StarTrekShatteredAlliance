@@ -5,8 +5,8 @@
   <TechnologyType>General</TechnologyType>
   <RequiresSalvageOps>true</RequiresSalvageOps>
   <Cost>400</Cost>
-  <NameIndex>7233</NameIndex>
-  <DescriptionIndex>7234</DescriptionIndex>
+  <NameIndex>19008</NameIndex>
+  <DescriptionIndex>19009</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>SalvageSpeed</UID>

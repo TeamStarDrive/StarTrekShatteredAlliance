@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>3</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>torpedo</Name>
+  <Name>Romulan Raider Torpedo</Name>
   <Restrictions>O</Restrictions>
   <UID>torpedo</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/torpedo</IconTexturePath>
   <Mass>100</Mass>
   <HealthMax>10500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A plain torpedo for raiders and scouts, the Romulan answer to a photon torpedo on a small hull. Of the Romulan torpedo weapons, it has the shortest reach.</Description>
   
   
   <PowerDraw>5</PowerDraw>

@@ -22,13 +22,13 @@
     <XSize>1</XSize>
     <YSize>1</YSize>
     <ModuleType>Shield</ModuleType>
-    <Name>Amplifier</Name>
+    <Name>Shield Amplifier</Name>
     <UID>Amplifier</UID> 
   <Version>2</Version>
 
     <IconTexturePath>Modules/Amplifier</IconTexturePath>
-    <NameIndex>17495</NameIndex>
-    <DescriptionIndex>17496</DescriptionIndex>
+    <NameIndex>19022</NameIndex>
+    <DescriptionIndex>19023</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>2</Mass>
     <HealthMax>1600</HealthMax>
@@ -46,7 +46,7 @@
     
     <!-- for Weapons -->
     <!-- Description -->
-    <Description>Advanced Armored Solar collector, procides power within a small radius.</Description>
+    <Description>An armoured solar collector that supplies extra power within a small radius.</Description>
 
   <PowerFlowMax>0</PowerFlowMax>
   <PowerStoreMax>0</PowerStoreMax>

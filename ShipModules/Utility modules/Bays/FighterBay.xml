@@ -29,8 +29,6 @@
 
 
   <!-- for Hangar items -->
-  <hangarShipUID>Vulcan Scout</hangarShipUID>
-  <hangerTimerConstant>120</hangerTimerConstant>
   <MaximumHangarShipSize>46</MaximumHangarShipSize>
   <OrdinanceCapacity>100</OrdinanceCapacity>
   <PermittedHangarRoles>
@@ -59,4 +57,6 @@
   
   
 
+  <HangarShipUID>Vulcan Scout</HangarShipUID>
+  <HangarTimerConstant>120</HangarTimerConstant>
 </ShipModule>

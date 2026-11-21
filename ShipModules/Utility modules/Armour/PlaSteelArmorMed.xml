@@ -10,7 +10,7 @@
   <XSize>2</XSize>
   <YSize>2</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Medium Plasteel Armor</Name>
+  <Name>Plasteel Armour (Medium)</Name>
   <Restrictions>O</Restrictions>
   <UID>PlaSteelArmorMed</UID> 
   <Version>2</Version>
@@ -19,8 +19,8 @@
   <IconTexturePath>Modules/Plasteel_2x2</IconTexturePath>
 
 
-  <NameIndex>1024</NameIndex>
-  <DescriptionIndex>1025</DescriptionIndex>
+  <NameIndex>19140</NameIndex>
+  <DescriptionIndex>19141</DescriptionIndex>
 
 
   <!-- Mass and Health -->
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.08</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Plasteel armor provides approximately 25% less protection than steel armor but does so with half of the mass</Description>
+  <Description>A plastic and steel laminate: light, strong and cheap to build.</Description>
   
 
 </ShipModule>

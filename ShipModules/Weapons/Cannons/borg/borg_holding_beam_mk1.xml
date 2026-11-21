@@ -7,7 +7,7 @@
   <ModuleType>Turret</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>borg_holding_beam_mk1</Name>
+  <Name>Borg Tractor Beam Emitter</Name>
   <Restrictions>O</Restrictions>
   <UID>borg_holding_beam_mk1</UID> 
   <Version>2</Version>
@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/borg_holding_beam_mk1</IconTexturePath>
   <Mass>20</Mass>
   <HealthMax>9760</HealthMax>
-  <Description>A crude but effective high-energy cannon weapon </Description>
+  <Description>The tractor beam seizes a target and drains its shields. Once it holds, the cutting beam finishes the work. Of the Borg tractor beam weapons, it is the sturdiest for its size, but hits the softest.</Description>
   <CrewRequired>12</CrewRequired>
   
   <PowerDraw>5</PowerDraw>

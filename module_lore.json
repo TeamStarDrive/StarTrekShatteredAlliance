@@ -1,0 +1,1294 @@
+{
+ "version": 1,
+ "about": "Hand-written lore per module. kind/group/peers/adj drive the stat sentences rebuilt by the editor (Bulk edits > Stat descriptions).",
+ "modules": {
+  "Car_SteelArmorSmall": {
+   "name": "Cardassian Galor Hull Plate (Small)",
+   "lore": "Hull plate of uridium alloy, a staple of Cardassian shipbuilding. Plain, in the ochre of the Union's fleets, and sound enough to bring a ship home. \"...could not defend itself against one Cardassian warship...\" (Gul Jasad, DS9: \"Emissary\")",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Small"
+  },
+  "Car_SteelArmorMed": {
+   "name": "Cardassian Galor Hull Plate (Medium)",
+   "lore": "Hull plate of uridium alloy, a staple of Cardassian shipbuilding. Plain, in the ochre of the Union's fleets, and sound enough to bring a ship home. \"...could not defend itself against one Cardassian warship...\" (Gul Jasad, DS9: \"Emissary\")",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Medium"
+  },
+  "Car_SteelArmorLarge": {
+   "name": "Cardassian Galor Hull Plate (Large)",
+   "lore": "Hull plate of uridium alloy, a staple of Cardassian shipbuilding. Plain, in the ochre of the Union's fleets, and sound enough to bring a ship home. \"...could not defend itself against one Cardassian warship...\" (Gul Jasad, DS9: \"Emissary\")",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Large"
+  },
+  "Car_PlaSteelArmorSmall": {
+   "name": "Cardassian Orbital Yard Laminate (Small)",
+   "lore": "A laminate rolled out in bulk at the orbital assembly yards above Cardassia Prime. There is always more of it.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Small"
+  },
+  "Car_PlaSteelArmorMed": {
+   "name": "Cardassian Orbital Yard Laminate (Medium)",
+   "lore": "A laminate rolled out in bulk at the orbital assembly yards above Cardassia Prime. There is always more of it.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Medium"
+  },
+  "Car_PlaSteelArmorLarge": {
+   "name": "Cardassian Orbital Yard Laminate (Large)",
+   "lore": "A laminate rolled out in bulk at the orbital assembly yards above Cardassia Prime. There is always more of it.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Large"
+  },
+  "Car_Ceramic_Armor_Small": {
+   "name": "Cardassian Refinery Ceramic Plate (Small)",
+   "lore": "Ceramic fired from the by-products of uridite ore, refined by the Union at stations like Terok Nor. The Union can turn it out in vast numbers.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Small"
+  },
+  "Car_Ceramic_Armor_Med": {
+   "name": "Cardassian Refinery Ceramic Plate (Medium)",
+   "lore": "Ceramic fired from the by-products of uridite ore, refined by the Union at stations like Terok Nor. The Union can turn it out in vast numbers.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Medium"
+  },
+  "Car_Ceramic_Armor_Large": {
+   "name": "Cardassian Refinery Ceramic Plate (Large)",
+   "lore": "Ceramic fired from the by-products of uridite ore, refined by the Union at stations like Terok Nor. The Union can turn it out in vast numbers.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Large"
+  },
+  "Car_CompositeAlloys_Small": {
+   "name": "Cardassian Gul Composite Plate (Small)",
+   "lore": "Uridium alloy bonded in layers with other metals. The Union cannot afford to waste ships, so the plate is made to keep them alive.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Small"
+  },
+  "Car_CompositeAlloys_Med": {
+   "name": "Cardassian Gul Composite Plate (Medium)",
+   "lore": "Uridium alloy bonded in layers with other metals. The Union cannot afford to waste ships, so the plate is made to keep them alive.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Medium"
+  },
+  "Car_CompositeAlloys_Large": {
+   "name": "Cardassian Gul Composite Plate (Large)",
+   "lore": "Uridium alloy bonded in layers with other metals. The Union cannot afford to waste ships, so the plate is made to keep them alive.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Large"
+  },
+  "Car_Crystal_Armor_Small": {
+   "name": "Cardassian Obsidian Lattice Plate (Small)",
+   "lore": "Crystal lattice plating, dark as obsidian, developed in the Obsidian Order's own laboratories. Its makers will not say how it works, only that it does.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Small"
+  },
+  "Car_Crystal_Armor_Med": {
+   "name": "Cardassian Obsidian Lattice Plate (Medium)",
+   "lore": "Crystal lattice plating, dark as obsidian, developed in the Obsidian Order's own laboratories. Its makers will not say how it works, only that it does.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Medium"
+  },
+  "Car_Crystal_Armor_Large": {
+   "name": "Cardassian Obsidian Lattice Plate (Large)",
+   "lore": "Crystal lattice plating, dark as obsidian, developed in the Obsidian Order's own laboratories. Its makers will not say how it works, only that it does.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Large"
+  },
+  "Car_ablative_ship_armor_Small": {
+   "name": "Cardassian Burn-Off Plate (Small)",
+   "lore": "Ablative plate that burns away in layers, so the first hits fall on plating and not on the crew. The Union has plenty of plate and fewer ships than it needs.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Small"
+  },
+  "Car_ablative_ship_armor_med": {
+   "name": "Cardassian Burn-Off Plate (Medium)",
+   "lore": "Ablative plate that burns away in layers, so the first hits fall on plating and not on the crew. The Union has plenty of plate and fewer ships than it needs.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Medium"
+  },
+  "Car_ablative_ship_armor_large": {
+   "name": "Cardassian Burn-Off Plate (Large)",
+   "lore": "Ablative plate that burns away in layers, so the first hits fall on plating and not on the crew. The Union has plenty of plate and fewer ships than it needs.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/armour/ship/Large"
+  },
+  "Car_ablative_armor_Small": {
+   "name": "Cardassian Station Ablative Plating (Small)",
+   "lore": "Ablative plating for the ring and pylons of a Nor-style station, whose pylons are packed with ore processing plant. Replaced after every siege. \"Your home was built by Cardassians. Don't ever forget that.\" (Kira, DS9: \"Civil Defense\")",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "orbital",
+   "peers": "Cardassian/armour/orb/Small"
+  },
+  "Car_ablative_armor_Med": {
+   "name": "Cardassian Station Ablative Plating (Medium)",
+   "lore": "Ablative plating for the ring and pylons of a Nor-style station, whose pylons are packed with ore processing plant. Replaced after every siege. \"Your home was built by Cardassians. Don't ever forget that.\" (Kira, DS9: \"Civil Defense\")",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "orbital",
+   "peers": "Cardassian/armour/orb/Medium"
+  },
+  "Car_ablative_armor_Large": {
+   "name": "Cardassian Station Ablative Plating (Large)",
+   "lore": "Ablative plating for the ring and pylons of a Nor-style station, whose pylons are packed with ore processing plant. Replaced after every siege. \"Your home was built by Cardassians. Don't ever forget that.\" (Kira, DS9: \"Civil Defense\")",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "orbital",
+   "peers": "Cardassian/armour/orb/Large"
+  },
+  "Car_Organic_Bioplates_Small": {
+   "name": "Cardassian Reclamation Bioplate (Small)",
+   "lore": "Living plate regrown from reclaimed waste. A people short of resources learn to waste nothing, armour included.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "orbital",
+   "peers": "Cardassian/armour/orb/Small"
+  },
+  "Car_Organic_Bioplates_Med": {
+   "name": "Cardassian Reclamation Bioplate (Medium)",
+   "lore": "Living plate regrown from reclaimed waste. A people short of resources learn to waste nothing, armour included.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "orbital",
+   "peers": "Cardassian/armour/orb/Medium"
+  },
+  "Car_Organic_Bioplates_Large": {
+   "name": "Cardassian Reclamation Bioplate (Large)",
+   "lore": "Living plate regrown from reclaimed waste. A people short of resources learn to waste nothing, armour included.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "orbital",
+   "peers": "Cardassian/armour/orb/Large"
+  },
+  "Car_Organic_cristal_Small": {
+   "name": "Cardassian Reclaimed Crystal Plate (Small)",
+   "lore": "Crystal grown through a living scaffold from reclaimed material, which seals cracks as they open.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "orbital",
+   "peers": "Cardassian/armour/orb/Small"
+  },
+  "Car_Organic_cristal_Armor_Med": {
+   "name": "Cardassian Reclaimed Crystal Plate (Medium)",
+   "lore": "Crystal grown through a living scaffold from reclaimed material, which seals cracks as they open.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "orbital",
+   "peers": "Cardassian/armour/orb/Medium"
+  },
+  "Car_Organic_cristal_Armor_Large": {
+   "name": "Cardassian Reclaimed Crystal Plate (Large)",
+   "lore": "Crystal grown through a living scaffold from reclaimed material, which seals cracks as they open.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "orbital",
+   "peers": "Cardassian/armour/orb/Large"
+  },
+  "Car_small_polirised_orbital_armor": {
+   "name": "Cardassian Orbital Ring Plate (Small)",
+   "lore": "Polarised plating for a station's habitat ring, tuned to bleed off energy fire and built to hold through a long siege.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "orbital",
+   "peers": "Cardassian/armour/orb/Small"
+  },
+  "Car_med_polirised_orbital_armor": {
+   "name": "Cardassian Orbital Ring Plate (Medium)",
+   "lore": "Polarised plating for a station's habitat ring, tuned to bleed off energy fire and built to hold through a long siege.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "orbital",
+   "peers": "Cardassian/armour/orb/Medium"
+  },
+  "Car_large_polirised_orbital_armor": {
+   "name": "Cardassian Orbital Ring Plate (Large)",
+   "lore": "Polarised plating for a station's habitat ring, tuned to bleed off energy fire and built to hold through a long siege.",
+   "kind": "armour",
+   "adj": "Cardassian",
+   "group": "orbital",
+   "peers": "Cardassian/armour/orb/Large"
+  },
+  "Fed_SteelArmorSmall": {
+   "name": "Starfleet Duranium Hull Plate (Small)",
+   "lore": "Duranium alloy plate, the standard hull armour of Starfleet starships. Plain, dependable, and repairable at any dock in the Federation.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Small"
+  },
+  "Fed_SteelArmorMed": {
+   "name": "Starfleet Duranium Hull Plate (Medium)",
+   "lore": "Duranium alloy plate, the standard hull armour of Starfleet starships. Plain, dependable, and repairable at any dock in the Federation.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Medium"
+  },
+  "Fed_SteelArmorLarge": {
+   "name": "Starfleet Duranium Hull Plate (Large)",
+   "lore": "Duranium alloy plate, the standard hull armour of Starfleet starships. Plain, dependable, and repairable at any dock in the Federation.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Large"
+  },
+  "Fed_PlaSteelArmorSmall": {
+   "name": "Starfleet Transparent Aluminium Plate (Small)",
+   "lore": "Transparent aluminium, the strong clear material of Starfleet viewports and cargo bay walls, laminated in layers and rolled opaque for use as hull plate. Its aluminium oxynitride matrix is aligned at the molecular level, so it is far stronger than it looks.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Small"
+  },
+  "Fed_PlaSteelArmorMed": {
+   "name": "Starfleet Transparent Aluminium Plate (Medium)",
+   "lore": "Transparent aluminium, the strong clear material of Starfleet viewports and cargo bay walls, laminated in layers and rolled opaque for use as hull plate. Its aluminium oxynitride matrix is aligned at the molecular level, so it is far stronger than it looks.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Medium"
+  },
+  "Fed_PlaSteelArmorLarge": {
+   "name": "Starfleet Transparent Aluminium Plate (Large)",
+   "lore": "Transparent aluminium, the strong clear material of Starfleet viewports and cargo bay walls, laminated in layers and rolled opaque for use as hull plate. Its aluminium oxynitride matrix is aligned at the molecular level, so it is far stronger than it looks.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Large"
+  },
+  "Fed_Ceramic_Armor_Small": {
+   "name": "Starfleet Ceramic Composite Plate (Small)",
+   "lore": "A ceramic layer bonded to a duranium backing. The ceramic is seeded with a fractal lattice that shatters on impact and spreads the shock across the whole plate, so the backing is never loaded at a single point.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Small"
+  },
+  "Fed_Ceramic_Armor_Med": {
+   "name": "Starfleet Ceramic Composite Plate (Medium)",
+   "lore": "A ceramic layer bonded to a duranium backing. The ceramic is seeded with a fractal lattice that shatters on impact and spreads the shock across the whole plate, so the backing is never loaded at a single point.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Medium"
+  },
+  "Fed_Ceramic_Armor_Large": {
+   "name": "Starfleet Ceramic Composite Plate (Large)",
+   "lore": "A ceramic layer bonded to a duranium backing. The ceramic is seeded with a fractal lattice that shatters on impact and spreads the shock across the whole plate, so the backing is never loaded at a single point.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Large"
+  },
+  "Fed_CompositeAlloys_Small": {
+   "name": "Starfleet Tritanium Composite Plate (Small)",
+   "lore": "Tritanium alloy, the hull and bulkhead metal of Galaxy- and Intrepid-class starships, laid in layers. Tritanium in its pure form is 21.4 times as hard as diamond.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Small"
+  },
+  "Fed_CompositeAlloys_Med": {
+   "name": "Starfleet Tritanium Composite Plate (Medium)",
+   "lore": "Tritanium alloy, the hull and bulkhead metal of Galaxy- and Intrepid-class starships, laid in layers. Tritanium in its pure form is 21.4 times as hard as diamond.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Medium"
+  },
+  "Fed_CompositeAlloys_Large": {
+   "name": "Starfleet Tritanium Composite Plate (Large)",
+   "lore": "Tritanium alloy, the hull and bulkhead metal of Galaxy- and Intrepid-class starships, laid in layers. Tritanium in its pure form is 21.4 times as hard as diamond.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Large"
+  },
+  "Fed_Crystal_Armor_Small": {
+   "name": "Starfleet Utopia Planitia Laminate (Small)",
+   "lore": "A crystalline laminate grown in the fabrication bays of the Utopia Planitia yards above Mars, with its atoms aligned along the line of the hull stress. The lattice vibrates at a resonant frequency, so a hit is spread through the crystal before it can crack.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Small"
+  },
+  "Fed_Crystal_Armor_Med": {
+   "name": "Starfleet Utopia Planitia Laminate (Medium)",
+   "lore": "A crystalline laminate grown in the fabrication bays of the Utopia Planitia yards above Mars, with its atoms aligned along the line of the hull stress. The lattice vibrates at a resonant frequency, so a hit is spread through the crystal before it can crack.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Medium"
+  },
+  "Fed_Crystal_Armor_Large": {
+   "name": "Starfleet Utopia Planitia Laminate (Large)",
+   "lore": "A crystalline laminate grown in the fabrication bays of the Utopia Planitia yards above Mars, with its atoms aligned along the line of the hull stress. The lattice vibrates at a resonant frequency, so a hit is spread through the crystal before it can crack.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Large"
+  },
+  "Fed_ablative_ship_armor_Small": {
+   "name": "Starfleet Ablative Hull Armour (Small)",
+   "lore": "Ablative armour, as fitted to the USS Defiant: layers that burn away under fire and leave the hull beneath whole.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Small"
+  },
+  "Fed_ablative_ship_armor_med": {
+   "name": "Starfleet Ablative Hull Armour (Medium)",
+   "lore": "Ablative armour, as fitted to the USS Defiant: layers that burn away under fire and leave the hull beneath whole.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Medium"
+  },
+  "Fed_ablative_ship_armor_large": {
+   "name": "Starfleet Ablative Hull Armour (Large)",
+   "lore": "Ablative armour, as fitted to the USS Defiant: layers that burn away under fire and leave the hull beneath whole.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/armour/ship/Large"
+  },
+  "Fed_ablative_armor_Small": {
+   "name": "Starfleet Starbase Ablative Plating (Small)",
+   "lore": "Ablative plating for a starbase ring, replaced in sections once it has taken a beating.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "orbital",
+   "peers": "Starfleet/armour/orb/Small"
+  },
+  "Fed_ablative_armor_Med": {
+   "name": "Starfleet Starbase Ablative Plating (Medium)",
+   "lore": "Ablative plating for a starbase ring, replaced in sections once it has taken a beating.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "orbital",
+   "peers": "Starfleet/armour/orb/Medium"
+  },
+  "Fed_ablative_armor_Large": {
+   "name": "Starfleet Starbase Ablative Plating (Large)",
+   "lore": "Ablative plating for a starbase ring, replaced in sections once it has taken a beating.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "orbital",
+   "peers": "Starfleet/armour/orb/Large"
+  },
+  "Fed_Organic_Bioplates_Small": {
+   "name": "Starfleet Regenerative Bioplate (Small)",
+   "lore": "Plate grown on a bio-neural substrate, a living gel that senses damage and lays down new material at the edge of a breach. The substrate is tuned to the ship's own power grid, and the plate knits itself whole between engagements.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "orbital",
+   "peers": "Starfleet/armour/orb/Small"
+  },
+  "Fed_Organic_Bioplates_Med": {
+   "name": "Starfleet Regenerative Bioplate (Medium)",
+   "lore": "Plate grown on a bio-neural substrate, a living gel that senses damage and lays down new material at the edge of a breach. The substrate is tuned to the ship's own power grid, and the plate knits itself whole between engagements.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "orbital",
+   "peers": "Starfleet/armour/orb/Medium"
+  },
+  "Fed_Organic_Bioplates_Large": {
+   "name": "Starfleet Regenerative Bioplate (Large)",
+   "lore": "Plate grown on a bio-neural substrate, a living gel that senses damage and lays down new material at the edge of a breach. The substrate is tuned to the ship's own power grid, and the plate knits itself whole between engagements.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "orbital",
+   "peers": "Starfleet/armour/orb/Large"
+  },
+  "Fed_Organic_cristal_Small": {
+   "name": "Starfleet Bio-Crystalline Plate (Small)",
+   "lore": "A crystal lattice seeded on a bio-neural scaffold, which seals hairline cracks as they open. A trickle of power through the scaffold keeps the crystal growing back to its original pattern.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "orbital",
+   "peers": "Starfleet/armour/orb/Small"
+  },
+  "Fed_Organic_cristal_Armor_Med": {
+   "name": "Starfleet Bio-Crystalline Plate (Medium)",
+   "lore": "A crystal lattice seeded on a bio-neural scaffold, which seals hairline cracks as they open. A trickle of power through the scaffold keeps the crystal growing back to its original pattern.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "orbital",
+   "peers": "Starfleet/armour/orb/Medium"
+  },
+  "Fed_Organic_cristal_Armor_Large": {
+   "name": "Starfleet Bio-Crystalline Plate (Large)",
+   "lore": "A crystal lattice seeded on a bio-neural scaffold, which seals hairline cracks as they open. A trickle of power through the scaffold keeps the crystal growing back to its original pattern.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "orbital",
+   "peers": "Starfleet/armour/orb/Large"
+  },
+  "Fed_small_polirised_orbital_armor": {
+   "name": "Starfleet Polarised Hull Plating (Small)",
+   "lore": "Polarised plating, a current run through the hull to stiffen it against impact. It was in use before shields, and still guards the rings of starbases.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "orbital",
+   "peers": "Starfleet/armour/orb/Small"
+  },
+  "Fed_med_polirised_orbital_armor": {
+   "name": "Starfleet Polarised Hull Plating (Medium)",
+   "lore": "Polarised plating, a current run through the hull to stiffen it against impact. It was in use before shields, and still guards the rings of starbases.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "orbital",
+   "peers": "Starfleet/armour/orb/Medium"
+  },
+  "Fed_large_polirised_orbital_armor": {
+   "name": "Starfleet Polarised Hull Plating (Large)",
+   "lore": "Polarised plating, a current run through the hull to stiffen it against impact. It was in use before shields, and still guards the rings of starbases.",
+   "kind": "armour",
+   "adj": "Starfleet",
+   "group": "orbital",
+   "peers": "Starfleet/armour/orb/Large"
+  },
+  "Car_Fighter_Shield": {
+   "name": "Cardassian Hideki Shield Emitter",
+   "lore": "Emitter for the Hideki-pattern fighters the Union flew as pickets and escorts. Good enough against energy fire, and little help against debris and solid shot.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "fighter",
+   "peers": "Cardassian/shield/fighter"
+  },
+  "Car_advanced_fighter_sheaild": {
+   "name": "Cardassian Hideki Reinforced Emitter",
+   "lore": "A refit of the Hideki emitter with a larger coil, for the fighters kept at the edge of a battle to pick off stragglers.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "fighter",
+   "peers": "Cardassian/shield/fighter"
+  },
+  "Car_prototype_fighter_shealds": {
+   "name": "Cardassian Skirmisher Prototype Grid",
+   "lore": "A trial grid built for the Central Command's small strike craft. Hurriedly fitted, and a step above the standard emitter.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "fighter",
+   "peers": "Cardassian/shield/fighter"
+  },
+  "Car_transphasic_fighter_shealds": {
+   "name": "Cardassian Alliance-Pattern Fighter Grid",
+   "lore": "Built after the Union joined the Dominion, on designs shared under the Alliance. It is the best a Cardassian fighter ever carried.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "fighter",
+   "peers": "Cardassian/shield/fighter"
+  },
+  "Car_freighter_sheaild": {
+   "name": "Cardassian Freighter Shield Generator",
+   "lore": "Modest generator for the Union's freighters and transports, enough to turn away raiders and little else.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/shield/ship"
+  },
+  "Car_Shield_1KW": {
+   "name": "Cardassian Patrol Shield Generator",
+   "lore": "The standard generator of the Union's small patrol craft and escorts.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/shield/ship"
+  },
+  "Car_frigate_shealds": {
+   "name": "Cardassian Frigate Shield Grid",
+   "lore": "The grid carried by Cardassian frigates, the picket ships that kept order over worlds like Bajor.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/shield/ship"
+  },
+  "Car_Shield_10KW": {
+   "name": "Cardassian Galor Shield Grid",
+   "lore": "The Galor-class carried its shield generators in the tail, aft of the hull. Heavy and thorough, it is the backbone of the Cardassian fleet.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/shield/ship"
+  },
+  "Car_advanced_crusier_sheaild": {
+   "name": "Cardassian Keldon Shield Grid",
+   "lore": "The Keldon-class shares the Galor's hull with an extra superstructure, and a stronger grid to match. Its shields take energy fire well.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/shield/ship"
+  },
+  "Car_ArmoredShield4x4": {
+   "name": "Cardassian Armoured Shield Casing",
+   "lore": "Emitters buried in a hardened casing, so the shield can fail without the ship losing the generator.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/shield/ship"
+  },
+  "Car_CanopyShield": {
+   "name": "Cardassian Hegemony Canopy Shield",
+   "lore": "A wide canopy field thrown over the largest hulls of the Union's fleets, built to cover a whole formation.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/shield/ship"
+  },
+  "Car_advanced_CanopyShields": {
+   "name": "Cardassian Dreadnought Canopy Shield",
+   "lore": "The canopy field of the biggest Cardassian warships. Meant to cover a whole squadron at once.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "ship",
+   "peers": "Cardassian/shield/ship"
+  },
+  "Car_ORBITAL_SHEAILD_2X2": {
+   "name": "Cardassian Picket Field Generator",
+   "lore": "A field for the pickets and defence stations that guarded Union worlds.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "platform",
+   "peers": "Cardassian/shield/platform"
+  },
+  "Car_ORBITAL_SHEAILD_2X2_MK2": {
+   "name": "Cardassian Bulwark Field Generator",
+   "lore": "A larger field generator for the pickets, with a wider cover and a deeper store of power.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "platform",
+   "peers": "Cardassian/shield/platform"
+  },
+  "Car_TRANSPHASIC_OWP_SHEAILD": {
+   "name": "Cardassian Platform Regenerative Shield",
+   "lore": "The regenerative force fields that made the orbital weapon platforms of the Chin'toka system nearly invulnerable to return fire. \"Captain, I've just noticed something odd about those platforms.\" (Garak, DS9: \"Tears of the Prophets\")",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "platform",
+   "peers": "Cardassian/shield/platform"
+  },
+  "Car_small_station_sheaild_mk1": {
+   "name": "Cardassian Pylon Shield Projector",
+   "lore": "A projector for the pylons of a Nor-pattern station, where the ore processing plant sits.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "station",
+   "peers": "Cardassian/shield/station"
+  },
+  "Car_station_deflector_mk1": {
+   "name": "Cardassian Station Deflector Array",
+   "lore": "The main deflector array of a Cardassian station, built to keep an occupied world's skies under guard.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "station",
+   "peers": "Cardassian/shield/station"
+  },
+  "Car_starbase_sheailds": {
+   "name": "Cardassian Nor Station Shield Grid",
+   "lore": "The full shield grid of a large Nor-pattern station, covering the ring and all three pylons.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "station",
+   "peers": "Cardassian/shield/station"
+  },
+  "Car_station_deflector_mk2": {
+   "name": "Cardassian Bastion Deflector",
+   "lore": "The deflector of the Union's greatest fortress stations, tuned to bounce the heaviest energy fire.",
+   "kind": "shield",
+   "adj": "Cardassian",
+   "group": "station",
+   "peers": "Cardassian/shield/station"
+  },
+  "Fed_Fighter_Shield": {
+   "name": "Starfleet Runabout Deflector Emitter",
+   "lore": "Compact deflector emitter for shuttles and runabouts. It holds a single modulated shield frequency in the megahertz range, the same band as the shields of larger Starfleet ships.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "fighter",
+   "peers": "Starfleet/shield/fighter"
+  },
+  "Fed_advanced_fighter_sheaild": {
+   "name": "Starfleet Rotating-Frequency Emitter",
+   "lore": "The emitter steps through a rotating shield frequency, so an enemy that has matched one harmonic is thrown off at the next.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "fighter",
+   "peers": "Starfleet/shield/fighter"
+  },
+  "Fed_prototype_fighter_shealds": {
+   "name": "Starfleet Experimental Harmonic Emitter",
+   "lore": "A test emitter that carries the shield harmonics on a tighter subspace field. It is a prototype, and the engineers still tune it by hand.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "fighter",
+   "peers": "Starfleet/shield/fighter"
+  },
+  "Fed_transphasic_fighter_shealds": {
+   "name": "Starfleet Transphasic Fighter Grid",
+   "lore": "Borrows the subspace compression pulse of transphasic weapons for its field, with a randomised phase pattern across the grid. An enemy has no steady frequency to learn.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "fighter",
+   "peers": "Starfleet/shield/fighter"
+  },
+  "Fed_freighter_sheaild": {
+   "name": "Starfleet Cargo Deflector Generator",
+   "lore": "A simple deflector generator for cargo haulers and tenders. It is built to turn away debris and the odd raider.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/shield/ship"
+  },
+  "Fed_Shield_1KW": {
+   "name": "Starfleet Escort Deflector Generator",
+   "lore": "The standard deflector generator of Starfleet escorts and patrol craft, with its emitters modulated across a narrow frequency band.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/shield/ship"
+  },
+  "Fed_frigate_shealds": {
+   "name": "Starfleet Multiphasic Shield Grid",
+   "lore": "A multiphasic grid, the advanced Federation deflector type that also shields against subspace radiation and the energy emissions of stars.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/shield/ship"
+  },
+  "Fed_Shield_10KW": {
+   "name": "Starfleet Heavy Deflector Grid",
+   "lore": "The main deflector grid of Starfleet cruisers, with its emitters spread over the hull to keep the field even.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/shield/ship"
+  },
+  "Fed_advanced_crusier_sheaild": {
+   "name": "Starfleet Adaptive Harmonic Grid",
+   "lore": "The grid reads incoming fire and remodulates its shield harmonics to match, so each hit lands on a field already tuned against it.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/shield/ship"
+  },
+  "Fed_ArmoredShield4x4": {
+   "name": "Starfleet Hardened Emitter Housing",
+   "lore": "Shield emitters set in a hardened housing and tied into the hull's structural integrity field, so the emitters survive a hit that breaks the shield.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/shield/ship"
+  },
+  "Fed_CanopyShield": {
+   "name": "Starfleet Wide-Area Deflector Canopy",
+   "lore": "A canopy field drawn over the largest hulls from a ring of emitters, with the harmonics phase-locked across the whole span.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/shield/ship"
+  },
+  "Fed_advanced_CanopyShields": {
+   "name": "Starfleet Transphasic Canopy Array",
+   "lore": "An experimental canopy that applies transphasic subspace compression to the field. The phase configuration is randomised so it cannot be predicted.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "ship",
+   "peers": "Starfleet/shield/ship"
+  },
+  "Fed_ORBITAL_SHEAILD_2X2": {
+   "name": "Starfleet Picket Deflector Generator",
+   "lore": "A deflector for pickets and defence stations, powered from the station's own grid.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "platform",
+   "peers": "Starfleet/shield/platform"
+  },
+  "Fed_ORBITAL_SHEAILD_2X2_MK2": {
+   "name": "Starfleet Phase-Locked Platform Deflector",
+   "lore": "A platform deflector with its emitters phase-locked into one field.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "platform",
+   "peers": "Starfleet/shield/platform"
+  },
+  "Fed_TRANSPHASIC_OWP_SHEAILD": {
+   "name": "Starfleet Transphasic Platform Shield",
+   "lore": "A transphasic shield for the largest platforms, with a subspace compression pulse that randomises the phase of the field.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "platform",
+   "peers": "Starfleet/shield/platform"
+  },
+  "Fed_small_station_sheaild_mk1": {
+   "name": "Starfleet Outpost Shield Emitter",
+   "lore": "A shield emitter for outposts and relay stations, tied to the station's structural integrity field.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "station",
+   "peers": "Starfleet/shield/station"
+  },
+  "Fed_station_deflector_mk1": {
+   "name": "Starfleet Starbase Deflector Array",
+   "lore": "The main deflector array of a Starbase, with emitters on every pylon and rotating shield harmonics.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "station",
+   "peers": "Starfleet/shield/station"
+  },
+  "Fed_starbase_sheailds": {
+   "name": "Starfleet Starbase Shield Grid",
+   "lore": "The full shield grid of a large Starbase, with multiphasic emitters across the ring and the docking arms.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "station",
+   "peers": "Starfleet/shield/station"
+  },
+  "Fed_station_deflector_mk2": {
+   "name": "Starfleet Spacedock Deflector Array",
+   "lore": "The deflector of the great Spacedock stations, with adaptive harmonics that follow every ship in the docking zone.",
+   "kind": "shield",
+   "adj": "Starfleet",
+   "group": "station",
+   "peers": "Starfleet/shield/station"
+  },
+  "cardasian_fighter_beam": {
+   "name": "Cardassian Hideki Disruptor Array",
+   "lore": "Light disruptor array for Hideki-pattern fighters. Disruptors break down the target's molecular bonds, and this one does it from a small hull.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "beam",
+   "peers": "Cardassian/weapon/beam"
+  },
+  "Car_DisruptorBeamMk1": {
+   "name": "Cardassian Spiral-Wave Disruptor",
+   "lore": "The spiral-wave disruptor is the standard gun of Cardassian warships, with a firing arc wide enough for a long patrol.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "beam",
+   "peers": "Cardassian/weapon/beam"
+  },
+  "Car_DisruptorBeamMk2": {
+   "name": "Cardassian Galor Spiral-Wave Array",
+   "lore": "The array carried by Galor-class cruisers, the workhorse of the Cardassian fleet.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "beam",
+   "peers": "Cardassian/weapon/beam"
+  },
+  "Car_DisruptorBeamMk3": {
+   "name": "Cardassian Keldon Spiral-Wave Array",
+   "lore": "A heavier array for the Keldon-class, which shares the Galor's hull under a larger superstructure.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "beam",
+   "peers": "Cardassian/weapon/beam"
+  },
+  "cardasian_prototype_beam": {
+   "name": "Cardassian Prototype Phase-Disruptor Array",
+   "lore": "A trial array built for the Central Command's testing yards. Hand-tuned, and not yet ready for the line.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "beam",
+   "peers": "Cardassian/weapon/beam"
+  },
+  "ADVANCED_cardasian_prototype_beam": {
+   "name": "Cardassian Experimental Nadion Array",
+   "lore": "An experimental array that pushes the rapid nadion effect of Cardassian disruptors past its normal limit.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "beam",
+   "peers": "Cardassian/weapon/beam"
+  },
+  "Car_DisruptorCannonMk1": {
+   "name": "Cardassian Disruptor Wave Cannon",
+   "lore": "The aft disruptor wave cannon of the Galor-class, a close-in weapon that fires in short bursts.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "cannon",
+   "peers": "Cardassian/weapon/cannon"
+  },
+  "Car_DisruptorCannonMk2": {
+   "name": "Cardassian Heavy Wave Cannon",
+   "lore": "A larger wave cannon, fitted to heavier ships.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "cannon",
+   "peers": "Cardassian/weapon/cannon"
+  },
+  "Car_DisruptorCannonMk3": {
+   "name": "Cardassian Siege Wave Cannon",
+   "lore": "The biggest wave cannon the Union ever mounted on a ship, meant for hammering defended worlds.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "cannon",
+   "peers": "Cardassian/weapon/cannon"
+  },
+  "Car_PhotonTorpedoMk1": {
+   "name": "Cardassian Escort Torpedo Launcher",
+   "lore": "A single-tube launcher for escorts and light cruisers.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "torpedo",
+   "peers": "Cardassian/weapon/torpedo"
+  },
+  "Car_PhotonTorpedoMk2": {
+   "name": "Cardassian Galor Torpedo Launcher",
+   "lore": "Launcher for the Galor-class, built to fit alongside the disruptor banks.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "torpedo",
+   "peers": "Cardassian/weapon/torpedo"
+  },
+  "Car_PhotonTorpedoMk3": {
+   "name": "Cardassian Keldon Torpedo Launcher",
+   "lore": "A heavier launcher for the Keldon-class.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "torpedo",
+   "peers": "Cardassian/weapon/torpedo"
+  },
+  "Car_PhotonTorpedoMk4": {
+   "name": "Cardassian Dreadnought Torpedo Launcher",
+   "lore": "A launcher for the largest cruisers of the fleet.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "torpedo",
+   "peers": "Cardassian/weapon/torpedo"
+  },
+  "Car_HeavyPhotonTorpedoMk1": {
+   "name": "Cardassian Siege Torpedo Launcher",
+   "lore": "A heavy launcher for ships built to break defended worlds.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "torpedo",
+   "peers": "Cardassian/weapon/torpedo"
+  },
+  "Car_HeavyPhotonTorpedoMk2": {
+   "name": "Cardassian Fortress Torpedo Launcher",
+   "lore": "The heaviest launcher in the fleet, made to reduce fortress stations.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "torpedo",
+   "peers": "Cardassian/weapon/torpedo"
+  },
+  "cardassian_prototype_torpedo": {
+   "name": "Cardassian Experimental Torpedo Launcher",
+   "lore": "An experimental launcher, still on the testing range.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "torpedo",
+   "peers": "Cardassian/weapon/torpedo"
+  },
+  "Car_orbital_weapons_platform": {
+   "name": "Cardassian Weapon Platform Disruptor Array",
+   "lore": "An orbital weapon platform carried three disruptor arrays. Many were built to guard the home worlds so the fleet could be used offensively.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "orbital cannon",
+   "peers": "Cardassian/weapon/orbital cannon"
+  },
+  "Car_orbital_cannons": {
+   "name": "Cardassian System-5 Defence Disruptor",
+   "lore": "The System-5 disruptor was a planetary defence weapon, never designed to move. It guarded outposts like Korma.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "orbital cannon",
+   "peers": "Cardassian/weapon/orbital cannon"
+  },
+  "Car_orbital_cannons_mk1": {
+   "name": "Cardassian Orbital Disruptor Cannon",
+   "lore": "A heavy disruptor cannon for a station's ring.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "orbital cannon",
+   "peers": "Cardassian/weapon/orbital cannon"
+  },
+  "Car_orbital_cannons_mk2": {
+   "name": "Cardassian Ring Disruptor Battery",
+   "lore": "A battery of cannons spread around a station's habitat ring.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "orbital cannon",
+   "peers": "Cardassian/weapon/orbital cannon"
+  },
+  "Car_orbital_cannons_mk3": {
+   "name": "Cardassian Pylon Disruptor Battery",
+   "lore": "A battery mounted on the pylons of a Nor-pattern station.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "orbital cannon",
+   "peers": "Cardassian/weapon/orbital cannon"
+  },
+  "Car_orbital_cannons_mk4": {
+   "name": "Cardassian Bastion Disruptor Battery",
+   "lore": "The largest battery in the Union's fortress stations, covering whole sectors of sky.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "orbital cannon",
+   "peers": "Cardassian/weapon/orbital cannon"
+  },
+  "Car_station_phasor_beem_mk1": {
+   "name": "Cardassian Outpost Disruptor Lance",
+   "lore": "A lance for outposts, firing a narrow beam.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "orbital beam",
+   "peers": "Cardassian/weapon/orbital beam"
+  },
+  "Car_station_phasor_beem_mk2": {
+   "name": "Cardassian Ring Disruptor Array",
+   "lore": "A beam array for a station's ring.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "orbital beam",
+   "peers": "Cardassian/weapon/orbital beam"
+  },
+  "Car_station_phasor_beem_mk3": {
+   "name": "Cardassian Pylon Disruptor Array",
+   "lore": "A beam array for the pylons of a Nor-pattern station.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "orbital beam",
+   "peers": "Cardassian/weapon/orbital beam"
+  },
+  "Car_station_phasor_beem_mk4": {
+   "name": "Cardassian Bastion Lance",
+   "lore": "The long lance of the Union's fortress stations, which no ship can safely approach.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "orbital beam",
+   "peers": "Cardassian/weapon/orbital beam"
+  },
+  "Car_orbital_defence_torpedo": {
+   "name": "Cardassian Defence Torpedo Tube",
+   "lore": "A fixed tube for stations and garrisons.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "orbital torpedo",
+   "peers": "Cardassian/weapon/orbital torpedo"
+  },
+  "Car_station_torpedo_launcher_mk1": {
+   "name": "Cardassian Garrison Torpedo Launcher",
+   "lore": "A launcher for a station's garrison, kept loaded in case of attack.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "orbital torpedo",
+   "peers": "Cardassian/weapon/orbital torpedo"
+  },
+  "Car_station_torpedo_launcher_mk2": {
+   "name": "Cardassian Reinforced Garrison Launcher",
+   "lore": "A garrison launcher with a reinforced magazine.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "orbital torpedo",
+   "peers": "Cardassian/weapon/orbital torpedo"
+  },
+  "Car_station_adv_torpedo_mk1": {
+   "name": "Cardassian Advanced Siege Launcher",
+   "lore": "A long-reach launcher used to hold off a fleet at a distance.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "orbital torpedo",
+   "peers": "Cardassian/weapon/orbital torpedo"
+  },
+  "Car_station_hevey_torpedo_mk1": {
+   "name": "Cardassian Heavy Bombardment Launcher",
+   "lore": "The heaviest launcher on a Cardassian station, built to crack a fleet.",
+   "kind": "weapon",
+   "adj": "Cardassian",
+   "group": "orbital torpedo",
+   "peers": "Cardassian/weapon/orbital torpedo"
+  },
+  "Phasor_Beam_mk1": {
+   "name": "Starfleet Type-VI Phaser Array",
+   "lore": "A phased array that fires a stream of nadion-charged energy, with each emitter fed from the warp plasma grid.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "beam",
+   "peers": "Starfleet/weapon/beam"
+  },
+  "Phasor_Beam_mk2": {
+   "name": "Starfleet Type-VIII Phaser Array",
+   "lore": "A heavier array with a phase-modulated pulse.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "beam",
+   "peers": "Starfleet/weapon/beam"
+  },
+  "Phasor_Beam_mk3": {
+   "name": "Starfleet Type-X Phaser Array",
+   "lore": "The array of the Federation's great cruisers, with the beam focused through a rotating phase discriminator.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "beam",
+   "peers": "Starfleet/weapon/beam"
+  },
+  "fighter_power_drain_phasor": {
+   "name": "Starfleet Fighter Disruption Phaser",
+   "lore": "A compact phaser for fighters that bleeds the power grid of whatever it hits.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "beam",
+   "peers": "Starfleet/weapon/beam"
+  },
+  "modulated_phasor": {
+   "name": "Starfleet Modulated Phaser Array",
+   "lore": "A phaser whose pulse is modulated across many frequencies at once, so it finds the gaps in a hull's plating.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "beam",
+   "peers": "Starfleet/weapon/beam"
+  },
+  "power_drain_phasor_beam_4x4": {
+   "name": "Starfleet Power-Drain Phaser Lance",
+   "lore": "A heavy phaser lance tuned to overload a target's power grid rather than burn its hull.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "beam",
+   "peers": "Starfleet/weapon/beam"
+  },
+  "Fed_PhaserCannon": {
+   "name": "Starfleet Phase Cannon",
+   "lore": "A phase cannon, the forerunner of the modern phaser. It fires a short bolt of phased energy and needs little to keep it running.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "cannon",
+   "peers": "Starfleet/weapon/cannon"
+  },
+  "Fed_PhaserCannon_2x2": {
+   "name": "Starfleet Pulse Phase Cannon",
+   "lore": "A phase cannon that fires in pulses, each one a fresh bolt of phased energy.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "cannon",
+   "peers": "Starfleet/weapon/cannon"
+  },
+  "Fed_PhaserCannon_3x3": {
+   "name": "Starfleet Rapid-Pulse Phaser Cannon",
+   "lore": "A larger pulse cannon, driven by a faster phase cycle for sustained fire.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "cannon",
+   "peers": "Starfleet/weapon/cannon"
+  },
+  "Fed_Hevey_PhaserCannon_3x3": {
+   "name": "Starfleet Heavy Pulse Phaser Cannon",
+   "lore": "The heavy cannon of the line, built for slow, hard-hitting pulses.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "cannon",
+   "peers": "Starfleet/weapon/cannon"
+  },
+  "Fed_PhotonTorpedo_Mk1": {
+   "name": "Starfleet Photon Torpedo Launcher",
+   "lore": "The standard matter-antimatter launcher of Starfleet ships. Each torpedo carries a measure of matter and antimatter, held apart in a magnetic bottle until impact.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "torpedo",
+   "peers": "Starfleet/weapon/torpedo"
+  },
+  "Fed_PhotonTorpedo_Mk2": {
+   "name": "Starfleet Advanced Photon Launcher",
+   "lore": "A refit launcher with a better magnetic bottle and faster loading.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "torpedo",
+   "peers": "Starfleet/weapon/torpedo"
+  },
+  "Fed_HeavyPhotonTorpedo_Mk1": {
+   "name": "Starfleet Heavy Photon Launcher",
+   "lore": "A heavy launcher for ships that need to break a hull and not just a shield.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "torpedo",
+   "peers": "Starfleet/weapon/torpedo"
+  },
+  "Fed_HeavyPhotonTorpedo_Mk2": {
+   "name": "Starfleet High-Yield Photon Launcher",
+   "lore": "A launcher tuned for a high-yield warhead, with a larger antimatter charge.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "torpedo",
+   "peers": "Starfleet/weapon/torpedo"
+  },
+  "Fed_Photonstorm": {
+   "name": "Starfleet Photon Torpedo Spread Launcher",
+   "lore": "A launcher that fires a spread of photon torpedoes in one burst, each pre-set to its own flight pattern.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "torpedo",
+   "peers": "Starfleet/weapon/torpedo"
+  },
+  "Fed_QuantumTorpedo_Mk1": {
+   "name": "Starfleet Quantum Torpedo Launcher",
+   "lore": "A launcher for quantum torpedoes, which draw their yield from vacuum energy.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "torpedo",
+   "peers": "Starfleet/weapon/torpedo"
+  },
+  "Fed_QuantumTorpedo_Mk2": {
+   "name": "Starfleet Quantum Torpedo Array",
+   "lore": "An improved array for quantum torpedoes, with a compact warhead and a refined vacuum-energy core.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "torpedo",
+   "peers": "Starfleet/weapon/torpedo"
+  },
+  "Fed_orbital_weapons_platform": {
+   "name": "Starfleet Weapon Platform Phaser Array",
+   "lore": "A phaser array for automated defence platforms in orbit, fed from the platform's own power grid.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "orbital cannon",
+   "peers": "Starfleet/weapon/orbital cannon"
+  },
+  "Fed_orbital_cannons": {
+   "name": "Starfleet Defence Phaser Bank",
+   "lore": "A fixed phaser bank for a planetary defence post, aimed by the station's tactical computer.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "orbital cannon",
+   "peers": "Starfleet/weapon/orbital cannon"
+  },
+  "Fed_orbital_cannons_mk1": {
+   "name": "Starfleet Orbital Phaser Cannon",
+   "lore": "A heavy phaser cannon for a Starbase's ring.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "orbital cannon",
+   "peers": "Starfleet/weapon/orbital cannon"
+  },
+  "Fed_orbital_cannons_mk2": {
+   "name": "Starfleet Ring Phaser Battery",
+   "lore": "A battery of phaser cannons set around the ring of a Starbase.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "orbital cannon",
+   "peers": "Starfleet/weapon/orbital cannon"
+  },
+  "Fed_orbital_cannons_mk3": {
+   "name": "Starfleet Spacedock Phaser Battery",
+   "lore": "A battery fitted to the arms of a Spacedock.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "orbital cannon",
+   "peers": "Starfleet/weapon/orbital cannon"
+  },
+  "Fed_orbital_cannons_mk4": {
+   "name": "Starfleet Starbase Phaser Battery",
+   "lore": "The largest phaser battery on a Starbase, with an emitter spread wide to cover a whole sector of sky.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "orbital cannon",
+   "peers": "Starfleet/weapon/orbital cannon"
+  },
+  "Fed_station_phasor_beem_mk1": {
+   "name": "Starfleet Outpost Phaser Lance",
+   "lore": "A phaser lance for outposts, firing a narrow beam through a tight phase discriminator.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "orbital beam",
+   "peers": "Starfleet/weapon/orbital beam"
+  },
+  "Fed_station_phasor_beem_mk2": {
+   "name": "Starfleet Starbase Phaser Array",
+   "lore": "A phased array for a Starbase, with an array of emitters on the ring.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "orbital beam",
+   "peers": "Starfleet/weapon/orbital beam"
+  },
+  "Fed_station_phasor_beem_mk3": {
+   "name": "Starfleet Spacedock Phaser Array",
+   "lore": "A phased array for a Spacedock, fed by the full power of the station.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "orbital beam",
+   "peers": "Starfleet/weapon/orbital beam"
+  },
+  "Fed_station_phasor_beem_mk4": {
+   "name": "Starfleet Defence Grid Phaser Lance",
+   "lore": "The heavy lance of the Federation's defence grid, focused through a rotating phase discriminator.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "orbital beam",
+   "peers": "Starfleet/weapon/orbital beam"
+  },
+  "Fed_orbital_defence_torpedo": {
+   "name": "Starfleet Defence Torpedo Tube",
+   "lore": "A fixed torpedo tube for stations and garrisons.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "orbital torpedo",
+   "peers": "Starfleet/weapon/orbital torpedo"
+  },
+  "Fed_station_torpedo_launcher_mk1": {
+   "name": "Starfleet Starbase Torpedo Launcher",
+   "lore": "A launcher for a Starbase's garrison, kept loaded in case of attack.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "orbital torpedo",
+   "peers": "Starfleet/weapon/orbital torpedo"
+  },
+  "Fed_station_torpedo_launcher_mk2": {
+   "name": "Starfleet Reinforced Starbase Launcher",
+   "lore": "A Starbase launcher with a reinforced magazine.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "orbital torpedo",
+   "peers": "Starfleet/weapon/orbital torpedo"
+  },
+  "Fed_station_adv_torpedo_mk1": {
+   "name": "Starfleet Quantum Torpedo Battery",
+   "lore": "A battery of quantum torpedoes, with the vacuum-energy cores held in a shielded magazine.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "orbital torpedo",
+   "peers": "Starfleet/weapon/orbital torpedo"
+  },
+  "Fed_station_hevey_torpedo_mk1": {
+   "name": "Starfleet Transphasic Torpedo Battery",
+   "lore": "The heaviest battery on a Starbase. Its torpedoes use a subspace compression pulse with a randomised phase pattern, which no shield can predict.",
+   "kind": "weapon",
+   "adj": "Starfleet",
+   "group": "orbital torpedo",
+   "peers": "Starfleet/weapon/orbital torpedo"
+  }
+ }
+}

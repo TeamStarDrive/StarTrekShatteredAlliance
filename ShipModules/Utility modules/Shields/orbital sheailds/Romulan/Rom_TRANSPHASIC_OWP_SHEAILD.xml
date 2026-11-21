@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DroneModule>false</DroneModule>
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>
+  <Cost>188</Cost>
+  <RepairDifficulty>8</RepairDifficulty>
+  
+  <!-- common traits shared by all ship modules -->
+  <ModuleType>Shield</ModuleType>
+  <XSize>2</XSize>
+  <YSize>2</YSize>
+  <UID>Rom_TRANSPHASIC_OWP_SHEAILD</UID> 
+  <Version>2</Version>
+
+  <Restrictions>IO</Restrictions>
+  <Name>Romulan Border Platform Shield</Name>
+  <IconTexturePath>Modules/TRANSPHASIC_OWP_SHEAILD</IconTexturePath>
+  <Mass>7000</Mass>
+  <HealthMax>60188</HealthMax>
+  
+  <Description>A shield for the defence platforms of the Romulan border. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Romulan platform shields, size for size, it covers the widest area, but draws the most power.</Description>
+  
+  
+  <PowerDraw>450</PowerDraw>
+
+  <NameIndex>30676</NameIndex>
+  <DescriptionIndex>30677</DescriptionIndex>
+
+  <!-- for shield items -->
+  <ShieldPowerMax>100000</ShieldPowerMax>
+  <ShieldRechargeDelay>5</ShieldRechargeDelay>
+  <ShieldRechargeRate>4200</ShieldRechargeRate>
+  <ShieldRadius>150</ShieldRadius>
+  <ShieldRechargeCombatRate>800</ShieldRechargeCombatRate>
+  <ShieldEnergyResist>0.69</ShieldEnergyResist>
+  <ShieldBeamResist>0.69</ShieldBeamResist>
+  <ShieldKineticResist>0.67</ShieldKineticResist>
+  <PlasmaResist>1.03</PlasmaResist>
+  <Deflection>90</Deflection>
+</ShipModule>

@@ -4,8 +4,8 @@
   <UID>LaserBeamTurrets</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>160</Cost>
-  <NameIndex>17618</NameIndex>
-  <DescriptionIndex>17619</DescriptionIndex>
+  <NameIndex>18955</NameIndex>
+  <DescriptionIndex>18956</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>Fusion Beam</UID>

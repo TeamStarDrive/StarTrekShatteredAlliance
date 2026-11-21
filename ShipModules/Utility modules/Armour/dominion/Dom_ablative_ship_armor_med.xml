@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Cost>15</Cost>
+    <!-- Tech Level -->
+    <TechLevel>5</TechLevel>
+    <TechBranch>Armor</TechBranch>
+    <!-- common traits shared by all ship modules -->
+    <XSize>2</XSize>
+    <YSize>2</YSize>
+    <ModuleType>Armor</ModuleType>
+    <Name>Dominion Attack Ship Ablative Plate (Medium)</Name>
+    <Restrictions>O</Restrictions>
+    <UID>Dom_ablative_ship_armor_med</UID> 
+  <Version>2</Version>
+
+    <TexturePath>Textures/transparent</TexturePath>
+    <IconTexturePath>Modules/ablative_ship_armor_med</IconTexturePath>
+    <NameIndex>30246</NameIndex>
+    <DescriptionIndex>30247</DescriptionIndex>
+    <!-- Mass and Health -->
+    <Mass>80</Mass>
+    <HealthMax>59680</HealthMax>
+    <RepairDifficulty>1.5</RepairDifficulty>
+    <Deflection>90</Deflection>
+    <!-- Armor resistance -->
+    <KineticResist>0.20</KineticResist>
+    <EnergyResist>0.20</EnergyResist>  
+    <BeamResist>0.20</BeamResist>
+    <ExplosiveResist>0.20</ExplosiveResist>      
+    <PlasmaResist>0.10</PlasmaResist>
+
+    <!-- Description -->
+    <Description>Ablative plate for attack ships, made to burn away while the ship flies on, since the Dominion expects its crews to be spent as well. Good protection against kinetic rounds, beams, energy fire and explosions, some protection against plasma. Of the Dominion ship plates of its size, it is the toughest and the best protected against beams, but the heaviest.</Description>
+    <APResist>2</APResist>    
+</ShipModule>

@@ -6,7 +6,7 @@
   <XSize>4</XSize>
   <YSize>7</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>singlarity_torpedo</Name>
+  <Name>Romulan Singularity Torpedo</Name>
   <Restrictions>O</Restrictions>
   <UID>singlarity_torpedo</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/singlarity_torpedo</IconTexturePath>
   <Mass>300</Mass>
   <HealthMax>30500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A torpedo that draws on the quantum singularity technology that powers the warbirds, kept for the targets that matter most. Of the Romulan torpedo weapons, it reaches the farthest and is the cheapest for its size, but fires the slowest.</Description>
   
   
   <PowerDraw>5</PowerDraw>

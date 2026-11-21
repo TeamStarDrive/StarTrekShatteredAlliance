@@ -6,7 +6,7 @@
   <ModuleType>Sensors</ModuleType>
   <XSize>3</XSize>
   <YSize>3</YSize>
-  <Name>Astrometrics_3x3</Name>
+  <Name>Astrometrics</Name>
   <Restrictions>IO</Restrictions>
   <UID>Astrometrics_3x3</UID> 
   <Version>2</Version>
@@ -14,14 +14,13 @@
   <IconTexturePath>Modules/Astrometrics_3x3</IconTexturePath>
   <Mass>20</Mass>
   <HealthMax>1950</HealthMax>
-  <Description>Ships equipped with a Astrometrics scanning module have an effective sensor range of 400,000.
-  </Description>
+  <Description>Stellar cartography and long-range scanning that reveal nearby systems and hidden hazards.</Description>
   <PowerDraw>600</PowerDraw>
 
   <SensorRange>200000</SensorRange>
 
-  <NameIndex>18285</NameIndex>
-  <DescriptionIndex>18286</DescriptionIndex>
+  <NameIndex>18965</NameIndex>
+  <DescriptionIndex>18966</DescriptionIndex>
 
   <TargetTracking>18</TargetTracking>
   <!-- for shield items -->

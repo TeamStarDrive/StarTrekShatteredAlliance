@@ -20,15 +20,15 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>ablative_armor_Large</Name>
+    <Name>Ablative Armour (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>ablative_armor_Large</UID> 
   <Version>2</Version>
 
     <TexturePath>Textures/transparent</TexturePath>
     <IconTexturePath>Modules/ablative_armor_Large</IconTexturePath>
-    <NameIndex>18736</NameIndex>
-    <DescriptionIndex>18737</DescriptionIndex>
+    <NameIndex>19160</NameIndex>
+    <DescriptionIndex>19161</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>85530</Mass>
     <HealthMax>360000</HealthMax>
@@ -42,6 +42,6 @@
     <PlasmaResist>0.2</PlasmaResist>
 
     <!-- Description -->
-    <Description>Through using Crystal materials, the mass of armor has been greatly decreased. </Description>
+    <Description>Plating that burns away in layers, soaking up the damage meant for the hull beneath.</Description>
     <APResist>2</APResist>
 </ShipModule>

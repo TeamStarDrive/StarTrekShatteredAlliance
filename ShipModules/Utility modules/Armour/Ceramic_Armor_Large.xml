@@ -9,15 +9,15 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Ceramic Armor Large</Name>
+    <Name>Ceramic Armour (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>Ceramic_Armor_Large</UID> 
   <Version>2</Version>
 
     <TexturePath>Textures/transparent</TexturePath>
     <IconTexturePath>Modules/Ceramic Armor Large</IconTexturePath>
-    <NameIndex>6582</NameIndex>
-    <DescriptionIndex>6584</DescriptionIndex>
+    <NameIndex>19124</NameIndex>
+    <DescriptionIndex>19125</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>54</Mass>
     <HealthMax>42120</HealthMax>
@@ -30,6 +30,6 @@
     <ExplosiveResist>0.12</ExplosiveResist>
 
     <!-- Description -->
-    <Description>New generation of Ceramic Armor.</Description>
+    <Description>A new generation of ceramic plating: light, hard and able to take a lot of heat.</Description>
     <APResist>1</APResist>
 </ShipModule>

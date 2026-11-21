@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>3</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Fed_QuantumTorpedo_Mk1</Name>
+  <Name>Starfleet Quantum Torpedo Launcher Mk1</Name>
   <Restrictions>O</Restrictions>
   <UID>Fed_QuantumTorpedo_Mk1</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Fed_QuantumTorpedo_Mk1</IconTexturePath>
   <Mass>300</Mass>
   <HealthMax>10500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A launcher for quantum torpedoes, which draw their yield from vacuum energy. Of the Starfleet torpedo weapons, it carries the least ordnance.</Description>
   
   
   <PowerDraw>5</PowerDraw>

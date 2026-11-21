@@ -10,7 +10,7 @@
   <XSize>4</XSize>
   <YSize>4</YSize>
   <ModuleType>PowerPlant</ModuleType>
-  <Name>warpcore_4x4</Name>
+  <Name>Warp Core 4x4</Name>
   <Restrictions>I</Restrictions>
   <UID>warpcore_4x4</UID> 
   <Version>2</Version>
@@ -20,15 +20,15 @@
   <Mass>80</Mass>
   <HealthMax>6450</HealthMax>
   
-  <Description>Harnesses a matter/anti-matter reaction to create large amounts of power</Description>
+  <Description>A warp core reactor that mixes deuterium and antimatter for large amounts of power. This is the 4x4 size.</Description>
   <CrewRequired>10</CrewRequired>
   
   <PowerDraw>0</PowerDraw>
   <BonusRepairRate>60.0</BonusRepairRate>
   <EMPProtection>800</EMPProtection>
 
-  <NameIndex>18292</NameIndex>
-  <DescriptionIndex>18293</DescriptionIndex>
+  <NameIndex>18979</NameIndex>
+  <DescriptionIndex>18980</DescriptionIndex>
 
   <!-- for PowerPlant Items -->
   <ExplosionDamage>10000</ExplosionDamage>

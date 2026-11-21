@@ -7,7 +7,7 @@
   <ModuleType>Turret</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Car_DisruptorCannonMk1</Name>
+  <Name>Cardassian Disruptor Cannon Mk1</Name>
   <Restrictions>O</Restrictions>
   <UID>Car_DisruptorCannonMk1</UID> 
   <Version>2</Version>
@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/Car_DisruptorCannonMk1</IconTexturePath>
   <Mass>20</Mass>
   <HealthMax>10760</HealthMax>
-  <Description>A crude but effective high-energy cannon weapon </Description>
+  <Description>The aft disruptor wave cannon of the Galor-class, a close-in weapon that fires in short bursts. Of the Cardassian cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
   <CrewRequired>12</CrewRequired>
   
   <PowerDraw>10</PowerDraw>

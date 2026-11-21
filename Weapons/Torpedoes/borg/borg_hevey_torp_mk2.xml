@@ -22,7 +22,6 @@
 
 
   <UID>borg_hevey_torp_mk2</UID>
-  <fireDelay>10</fireDelay>
   <Range>11000</Range>
   <PowerRequiredToFire>1900</PowerRequiredToFire>
   <OrdinanceRequiredToFire>40</OrdinanceRequiredToFire>
@@ -33,8 +32,6 @@
 
 
   <!-- name of XACT audio cue to play on firing this weapon -->
-  <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>
-  <dieCue>sd_weapon_rocket_explode_01</dieCue>
   
   
   <!-- Projectile Information -->
@@ -61,4 +58,7 @@
   <WeaponType>Photon Torpedoes</WeaponType>
 
   <FireArc>90</FireArc>
+  <DieCue>sd_weapon_rocket_explode_01</DieCue>
+  <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
+  <FireDelay>10</FireDelay>
 </Weapon>

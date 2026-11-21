@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>2</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>micro_torpedo</Name>
+  <Name>Romulan Cloak-Strike Micro Torpedo</Name>
   <Restrictions>O</Restrictions>
   <UID>micro_torpedo</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/micro_torpedo</IconTexturePath>
   <Mass>30</Mass>
   <HealthMax>9000</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A small torpedo for the moment a cloaked ship decloaks, thrown quickly before the target can react. Of the Romulan torpedo weapons, it has the fastest shots, but hits the softest.</Description>
   
   
   <PowerDraw>5</PowerDraw>

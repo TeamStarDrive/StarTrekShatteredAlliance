@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>4</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>plasma_torpedo</Name>
+  <Name>Romulan Plasma Torpedo</Name>
   <Restrictions>O</Restrictions>
   <UID>plasma_torpedo</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/plasma_torpedo</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>19500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A plasma torpedo, the weapon the Romulans turned on the Earth outposts along the Neutral Zone. Of the Romulan torpedo weapons, it fires the largest salvos and is the sturdiest for its size, but has the slowest shots.</Description>
   
   
   <PowerDraw>5</PowerDraw>

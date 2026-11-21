@@ -193,45 +193,15 @@ Elements:
 
   - Panel:
     Name: stardrive_animated_logo
+    # Star Trek (TNG / LCARS) title, one still picture: Textures/MMenu/st_title.png  (the old animated StarDrive + BlackBox logos are gone)
+    Texture: MMenu/st_title.png
     RelSize: [0.3, 0] # auto-detect height from aspect ratio
     LocalPos: [-30, 10]
     AxisAlign: TopRight
     DrawDepth: Foreground
-    SpriteAnim:
-      Path: MMenu/stardrive_logo
-      Delay: 0
-      Duration: 3
-      FreezeAtLastFrame: true
-    Children:
-      - Panel:
-        Name: blacbox_animated_logo
-        RelSize: [0.7, 0] # auto-detect height from aspect ratio
-        RelPos: [0.03, 0.45]
-        Color: [0.8,0.8,0.8,0.0] # start with alpha 0.0
-        AxisAlign: Center
-        DrawDepth: Foreground
-        SpriteAnim:
-          Path: MMenu/bb_logo_animated
-          Delay: 0
-          Duration: 7
-          StartAt: 0
-          Looping: true
-          FreezeAtLastFrame: false
-          VisibleBeforeDelay: true
-        Animation:
-          Params: [1, 2, 0, 2, 0] # delay, duration, end-time, fadein, fadeout
-          Alpha: [0, 1]
-        Children:
-          - Panel:
-            Name: blackbox_subver
-            Texture: MMenu/subver.png
-            RelSize: [0, 0.75]
-            RelPos: [0.013, -0.27]
-            ParentAlign: BottomLeft
-            DrawDepth: Foreground
-            Animation:
-              Params: [3, 2, 0, 2, 0] # delay, duration, end-time, fadein, fadeout
-              Alpha: [0, 1]
+    Animation:
+      Params: [0.5, 2, 0, 2, 0] # delay, duration, end-time, fadein, fadeout
+      Alpha: [0, 1]
 
   - Panel:
     Name: vignette
@@ -253,17 +223,16 @@ Elements:
     Children:
       - Button:
           Name: new_game
-          ButtonStyle: Default
           AbsSize: [200, 0] # aspect fill width
           Title: "{1}" # "New Game"
           ClickSfx: sd_ui_tactical_pause
-          ButtonStyle: BigDip
+          ButtonStyle: Default
       - Button:
           Name: load_game
           Title: "{2}" # "Load Game"
           AbsSize: [200, 0] # aspect fill width
           ClickSfx: sd_ui_tactical_pause
-          ButtonStyle: BigDip
+          ButtonStyle: Default
       - Button:
           Name: options
           Title: "{4}" # "Options"
@@ -299,4 +268,4 @@ Elements:
           Title: "{5}" # "Exit"
           AbsSize: [200, 0] # aspect fill width
           ClickSfx: sd_ui_tactical_pause
-          ButtonStyle: BigDip
+          ButtonStyle: Default

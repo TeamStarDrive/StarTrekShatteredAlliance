@@ -16,7 +16,7 @@
   <XSize>5</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>station_hevey_torpedo_mk1</Name>
+  <Name>Orbital Heavy Torpedo Launcher Mk1</Name>
   <Restrictions>O</Restrictions>
   <UID>station_hevey_torpedo_mk1</UID> 
   <Version>2</Version>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_hevey_torpedo_mk1</IconTexturePath>
   <Mass>14000</Mass>
   <HealthMax>70500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A heavy launcher for stations and platforms: a large warhead on a long reload.</Description>
   
   
   <PowerDraw>5</PowerDraw>

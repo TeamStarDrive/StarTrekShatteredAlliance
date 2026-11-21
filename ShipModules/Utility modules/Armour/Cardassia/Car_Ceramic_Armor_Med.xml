@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Cost>9</Cost>
+    <!-- Tech Level -->
+    <TechLevel>3</TechLevel>
+    <TechBranch>Armor</TechBranch>
+    <!-- common traits shared by all ship modules -->
+    <XSize>2</XSize>
+    <YSize>2</YSize>
+    <ModuleType>Armor</ModuleType>
+    <Name>Cardassian Refinery Ceramic Plate (Medium)</Name>
+    <Restrictions>O</Restrictions>
+    <UID>Car_Ceramic_Armor_Med</UID> 
+  <Version>2</Version>
+
+    <TexturePath>Textures/transparent</TexturePath>
+    <IconTexturePath>Modules/Ceramic Armor Med</IconTexturePath>
+    <NameIndex>30020</NameIndex>
+    <DescriptionIndex>30021</DescriptionIndex>
+    <!-- Mass and Health -->
+    <Mass>24</Mass>
+    <HealthMax>15600</HealthMax>
+    <RepairDifficulty>1</RepairDifficulty>
+    <Deflection>0</Deflection>
+    <!-- Armor resistance -->
+    <KineticResist>0.06</KineticResist>
+    <BeamResist>0</BeamResist>  
+    <PlasmaResist>0</PlasmaResist>
+    <ExplosiveResist>0.12</ExplosiveResist>
+
+    <!-- Description -->
+    <Description>Ceramic fired from the by-products of uridite ore, refined by the Union at stations like Terok Nor. The Union can turn it out in vast numbers. Some protection against kinetic rounds and explosions. Of the Cardassian ship plates of its size, it is the weakest against beams.</Description>
+    <APResist>1</APResist>
+</ShipModule>

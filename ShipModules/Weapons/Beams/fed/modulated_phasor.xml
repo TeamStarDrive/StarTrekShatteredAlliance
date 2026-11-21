@@ -13,7 +13,7 @@
   <XSize>4</XSize>
   <YSize>4</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>modulated_phasor</Name>
+  <Name>Starfleet Modulated Phaser Array</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/modulated_phasor</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>360</FieldOfFire>
 
   <!-- Description -->
-  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  <Description>A phaser whose pulse is modulated across many frequencies at once, so it finds the gaps in a hull's plating. Of the Starfleet beam weapons, it hits the hardest and reaches the farthest.</Description>
   
 
 </ShipModule>

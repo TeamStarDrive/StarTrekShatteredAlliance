@@ -4,8 +4,8 @@
   <UID>Spaceport</UID>
   <TechnologyType>Economic</TechnologyType>
   <Cost>200</Cost>
-  <NameIndex>17655</NameIndex>
-  <DescriptionIndex>17656</DescriptionIndex>
+  <NameIndex>19014</NameIndex>
+  <DescriptionIndex>19015</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>Shipyards</UID>

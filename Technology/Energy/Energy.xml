@@ -5,8 +5,8 @@
   <TechnologyType>General</TechnologyType>
   <Cost>50</Cost>
   <RootNode>7</RootNode>
-  <NameIndex>558</NameIndex>
-  <DescriptionIndex>559</DescriptionIndex>
+  <NameIndex>18945</NameIndex>
+  <DescriptionIndex>18946</DescriptionIndex>
   <IconPath>icons_techroot_energy</IconPath>
   <LeadsTo>
     <LeadsToTech>

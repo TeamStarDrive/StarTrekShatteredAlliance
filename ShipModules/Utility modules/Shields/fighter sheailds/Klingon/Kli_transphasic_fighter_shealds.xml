@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DroneModule>false</DroneModule>
+  <FighterModule>true</FighterModule>
+  <CorvetteModule>true</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>false</StationModule>
+  
+  
+  <Cost>17</Cost>
+  <!-- Tech Level Used by AI for Upgrading Ships -->
+  <TechLevel>4</TechLevel>
+  <RepairDifficulty>2</RepairDifficulty>
+  <!-- common traits shared by all ship modules -->
+
+  <ModuleType>Shield</ModuleType>
+  <XSize>1</XSize>
+  <YSize>2</YSize>
+  <Name>Klingon Honour Guard Emitter</Name>
+  <Restrictions>IO</Restrictions>
+  <UID>Kli_transphasic_fighter_shealds</UID> 
+  <Version>2</Version>
+
+  <IconTexturePath>Modules/transphasic_fighter_shealds</IconTexturePath>
+  <Mass>12</Mass>
+  <HealthMax>4800</HealthMax>
+  
+  <Description>An emitter built for the picked ships that guard the High Council, where failure is not forgiven. Strong protection against beams and energy fire. Of the Klingon fighter shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
+  
+  
+  <PowerDraw>60</PowerDraw>
+
+  <NameIndex>30604</NameIndex>
+  <DescriptionIndex>30605</DescriptionIndex>
+
+  <!-- for shield items -->
+  <ShieldPowerMax>17000</ShieldPowerMax>
+  <ShieldRechargeDelay>3</ShieldRechargeDelay>
+  <ShieldRechargeRate>155</ShieldRechargeRate>
+  <ShieldRechargeCombatRate>160</ShieldRechargeCombatRate>
+  <ShieldRadius>120</ShieldRadius>
+  <ShieldEnergyResist>0.79</ShieldEnergyResist>
+  <ShieldBeamResist>0.79</ShieldBeamResist>
+  <ShieldKineticResist>-0.1</ShieldKineticResist>
+</ShipModule>

@@ -4,8 +4,8 @@
   <UID>MassiveSubspaceArtillery</UID>
   <TechnologyType>ShipWeapons</TechnologyType>
   <Cost>4560</Cost>
-  <NameIndex>665</NameIndex>
-  <DescriptionIndex>666</DescriptionIndex>
+  <NameIndex>18939</NameIndex>
+  <DescriptionIndex>18940</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>Plasma Ordnance</UID>

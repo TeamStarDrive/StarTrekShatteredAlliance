@@ -13,7 +13,7 @@
   <BonusUnlocked>
     <UnlockedBonus>
       <Name>Shield_power</Name>
-      <BonusType>Shield_Power_Bonus</BonusType>
+      <BonusType>Shield Power Bonus</BonusType>
       <Bonus>0.14</Bonus>
       <BonusIndex>17644</BonusIndex>
     </UnlockedBonus>

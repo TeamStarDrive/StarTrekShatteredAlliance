@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <DroneModule>false</DroneModule>
+  <FighterModule>true</FighterModule>
+  <CorvetteModule>true</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>false</StationModule>
+  
+  
+  <Cost>10</Cost>
+  <!-- common traits shared by all ship modules -->
+  <TechLevel>2</TechLevel>
+  <ModuleType>Shield</ModuleType>
+  <XSize>1</XSize>
+  <YSize>1</YSize>
+  <Name>Klingon Wing Deflector Emitter</Name>
+  <Restrictions>IO</Restrictions>
+  <UID>Kli_advanced_fighter_sheaild</UID> 
+  <Version>2</Version>
+
+  <IconTexturePath>Modules/advanced_fighter_sheaild</IconTexturePath>
+  <Mass>10</Mass>
+  <HealthMax>1500</HealthMax>
+  
+  <Description>An emitter set in the wing of a small warship, built to keep it alive long enough to close with the enemy. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon fighter shields, size for size, it recharges the fastest, but draws the most power.</Description>
+  
+  
+  <PowerDraw>30</PowerDraw>
+
+  <NameIndex>30576</NameIndex>
+  <DescriptionIndex>30577</DescriptionIndex>
+
+  <!-- for shield items -->
+  <ShieldPowerMax>6500</ShieldPowerMax>
+  <ShieldRechargeDelay>5</ShieldRechargeDelay>
+  <ShieldRechargeRate>125</ShieldRechargeRate>
+  <ShieldRechargeCombatRate>50</ShieldRechargeCombatRate>
+  <ShieldRadius>85</ShieldRadius>
+  <ShieldEnergyResist>0.19</ShieldEnergyResist>
+  <ShieldBeamResist>0.19</ShieldBeamResist>
+  <ShieldKineticResist>-1.0</ShieldKineticResist>
+</ShipModule>

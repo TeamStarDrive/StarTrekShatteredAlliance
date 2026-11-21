@@ -7,14 +7,14 @@
   <YSize>5</YSize>
   <Restrictions>IO</Restrictions>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>dom_torpedo_bomb_mk1</Name>
+  <Name>Dominion Siege Torpedo</Name>
   <UID>dom_torpedo_bomb_mk1</UID> 
   <Version>2</Version>
 
   <IconTexturePath>Modules/torpedo_bomb_mk1</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>16500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A single enormous warhead for stations and fixed positions, not for ships that can move. Of the Dominion torpedo weapons, it hits the hardest and has the widest blast, but fires the smallest salvos.</Description>
   
   
   <PowerDraw>20</PowerDraw>
@@ -27,8 +27,8 @@
   <ShieldRadius>0</ShieldRadius>
   <radius>0</radius>
 
-  <NameIndex>18685</NameIndex>
-  <DescriptionIndex>18686</DescriptionIndex>
+  <NameIndex>19090</NameIndex>
+  <DescriptionIndex>19091</DescriptionIndex>
 
   <!-- for PowerPlant Items -->
   

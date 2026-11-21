@@ -8,15 +8,15 @@
     <XSize>2</XSize>
     <YSize>2</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>Crystal Armor Med</Name>
+    <Name>Crystal Armour (Medium)</Name>
     <Restrictions>O</Restrictions>
     <UID>Crystal_Armor_Med</UID> 
   <Version>2</Version>
 
     <TexturePath>Textures/transparent</TexturePath>
     <IconTexturePath>Modules/Crystal_Armor_Med</IconTexturePath>
-    <NameIndex>6577</NameIndex>
-    <DescriptionIndex>6583</DescriptionIndex>
+    <NameIndex>19134</NameIndex>
+    <DescriptionIndex>19135</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>32</Mass>
     <HealthMax>31680</HealthMax>
@@ -30,6 +30,6 @@
     <PlasmaResist>0</PlasmaResist>
 
     <!-- Description -->
-    <Description>Through using Crystal materials, the mass of armor has been greatly decreased. </Description>
+    <Description>Plating built from crystalline material, which spreads and turns aside the force of a hit.</Description>
     <APResist>2</APResist>    
 </ShipModule>

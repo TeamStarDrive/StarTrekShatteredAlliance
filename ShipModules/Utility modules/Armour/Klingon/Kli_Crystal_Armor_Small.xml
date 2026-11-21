@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Cost>5</Cost>
+  <DroneModule>true</DroneModule>
+  <FighterModule>true</FighterModule>
+  <CorvetteModule>true</CorvetteModule>
+  <FrigateModule>true</FrigateModule>
+  <DestroyerModule>true</DestroyerModule>
+  <CruiserModule>true</CruiserModule>
+  <BattleshipModule>true</BattleshipModule>
+  <CapitalModule>true</CapitalModule>
+  
+  <FreighterModule>true</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>  
+  <!-- Tech Level -->
+  <TechLevel>5</TechLevel>
+  <TechBranch>Armor</TechBranch>
+
+  <!-- common traits shared by all ship modules -->
+  <XSize>1</XSize>
+  <YSize>1</YSize>
+  <ModuleType>Armor</ModuleType>
+  <Name>Klingon Hardened Crystal Plate (Small)</Name>
+  <Restrictions>O</Restrictions>
+  <UID>Kli_Crystal_Armor_Small</UID> 
+  <Version>2</Version>
+
+  <TexturePath>Textures/transparent</TexturePath>
+  <IconTexturePath>Modules/Crystal_Armor_Small</IconTexturePath>
+
+
+  <NameIndex>30114</NameIndex>
+  <DescriptionIndex>30115</DescriptionIndex>
+
+
+  <!-- Mass and Health -->
+  <Mass>8</Mass>
+  <HealthMax>6600</HealthMax>
+  <RepairDifficulty>1.5</RepairDifficulty>
+  <Deflection>0</Deflection>              
+  <!-- Armor resistance -->
+  <KineticResist>0.10</KineticResist>
+  <EnergyResist>0</EnergyResist>  
+  <BeamResist>0</BeamResist>
+  <ExplosiveResist>0.20</ExplosiveResist>      
+  <PlasmaResist>0</PlasmaResist>
+
+  <!-- Description -->
+  <Description>A crystal lattice grown hard and clear, struck and tested in the forges before it is allowed on a ship. Good protection against explosions, some protection against kinetic rounds. Of the Klingon ship plates of its size, it is the best protected against kinetic rounds and the best protected against explosions, but the costliest to build.</Description>
+  <APResist>2</APResist>  
+
+</ShipModule>

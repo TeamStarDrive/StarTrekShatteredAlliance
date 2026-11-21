@@ -13,7 +13,7 @@
   <XSize>2</XSize>
   <YSize>4</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>romulan_disrupter_beam_mk2</Name>
+  <Name>Romulan Disruptor Beam Mk2</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/romulan_disrupter_beam_mk2</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>15</FieldOfFire>
 
   <!-- Description -->
-  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  <Description>A heavier bank for the warbirds, firing a beam of charged particles. Of the Romulan beam weapons, it does the most to armour.</Description>
   
 
 </ShipModule>

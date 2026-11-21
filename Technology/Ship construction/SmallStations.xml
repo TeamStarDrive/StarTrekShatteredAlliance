@@ -4,8 +4,8 @@
   <UID>SmallStations</UID>
   <TechnologyType>ShipHull</TechnologyType>
   <Cost>1000</Cost>
-  <NameIndex>17603</NameIndex>
-  <DescriptionIndex>17604</DescriptionIndex>
+  <NameIndex>19012</NameIndex>
+  <DescriptionIndex>19013</DescriptionIndex>
   <LeadsTo>
     <LeadsToTech>
       <UID>Battle_Stations</UID>

@@ -12,7 +12,7 @@
   <XSize>4</XSize>
   <YSize>6</YSize>
   <ModuleType>MainGun</ModuleType>
-  <Name>trifocused_disrupter_beam</Name>
+  <Name>Klingon Trifocal Disruptor Array</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/trifocused_disrupter_beam</IconTexturePath>3
@@ -34,7 +34,7 @@
   <FieldOfFire>65</FieldOfFire>
   <AccuracyPercent>0.98</AccuracyPercent>
   <!-- Description -->
-  <Description>This heavy-mount fusion beam has a fixed spinal facing and a 45 degree field of fire.</Description>
+  <Description>A disruptor array that fires three beams focused on one target. Of the Klingon beam weapons, it hits the hardest and reaches the farthest.</Description>
   
 
 </ShipModule>

@@ -22,12 +22,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>TRANSPHASIC_OWP_SHEAILD</Name>
+  <Name>Transphasic Orbital Platform Shield</Name>
   <IconTexturePath>Modules/TRANSPHASIC_OWP_SHEAILD</IconTexturePath>
   <Mass>7000</Mass>
   <HealthMax>60188</HealthMax>
   
-  <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
+  <Description>A transphasic shield for orbital weapon platforms, with very high resistance and a wide radius.</Description>
   
   
   <PowerDraw>450</PowerDraw>

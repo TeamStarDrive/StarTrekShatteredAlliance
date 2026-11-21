@@ -10,7 +10,7 @@
   <XSize>2</XSize>
   <YSize>2</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Medium_Steel_Armor</Name>
+  <Name>Steel Armour (Medium)</Name>
   <Restrictions>O</Restrictions>
   <UID>SteelArmorMed</UID> 
   <Version>2</Version>
@@ -19,8 +19,8 @@
   <IconTexturePath>Modules/SteelArmorMedium</IconTexturePath>
 
 
-  <NameIndex>1058</NameIndex>
-  <DescriptionIndex>1059</DescriptionIndex>
+  <NameIndex>19146</NameIndex>
+  <DescriptionIndex>19147</DescriptionIndex>
 
 
   <!-- Mass and Health -->
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.04</ExplosiveResist>
 
   <!-- Description -->
-  <Description>This is a medium-sized slab of thick steel armor.  It is cheap and heavy but provides significant protection.</Description>
+  <Description>Thick plates of forged steel: heavy and basic, but dependable.</Description>
   
 
 </ShipModule>

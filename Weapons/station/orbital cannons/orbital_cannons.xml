@@ -19,7 +19,6 @@
   <Tag_Cannon>true</Tag_Cannon>
   
   <UID>orbital_cannons</UID>
-  <fireDelay>3</fireDelay>
   <Range>8000</Range>
   <PowerRequiredToFire>100</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
@@ -49,4 +48,5 @@
   <ModelPath>projTear</ModelPath>
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
   <WeaponType>Phaser Cannons</WeaponType>
+  <FireDelay>3</FireDelay>
 </Weapon>

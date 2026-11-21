@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>vul_hevey_torpedo_mk2</Name>
+  <Name>Vulcan Siege Photonic Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>vul_hevey_torpedo_mk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/hevey_torpedo_mk2</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>22500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A heavier launcher still, meant for defended targets. Of the Vulcan torpedo weapons, it is the cheapest for its size, but is the frailest for its size.</Description>
   
   
   <PowerDraw>5</PowerDraw>
@@ -27,8 +27,8 @@
   <ShieldRadius>0</ShieldRadius>
   <radius>0</radius>
 
-  <NameIndex>18432</NameIndex>
-  <DescriptionIndex>18433</DescriptionIndex>
+  <NameIndex>19114</NameIndex>
+  <DescriptionIndex>19115</DescriptionIndex>
 
   <!-- for PowerPlant Items -->
   

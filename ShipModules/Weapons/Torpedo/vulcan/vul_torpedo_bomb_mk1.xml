@@ -7,14 +7,14 @@
   <YSize>5</YSize>
   <Restrictions>IO</Restrictions>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>vul_torpedo_bomb_mk1</Name>
+  <Name>Vulcan Photonic Bomb Launcher</Name>
   <UID>vul_torpedo_bomb_mk1</UID> 
   <Version>2</Version>
 
   <IconTexturePath>Modules/torpedo_bomb_mk1</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>16500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A launcher for a torpedo bomb, a single heavy warhead. Of the Vulcan torpedo weapons, it hits the hardest and has the widest blast, but fires the smallest salvos.</Description>
   
   
   <PowerDraw>20</PowerDraw>
@@ -27,8 +27,8 @@
   <ShieldRadius>0</ShieldRadius>
   <radius>0</radius>
 
-  <NameIndex>18685</NameIndex>
-  <DescriptionIndex>18686</DescriptionIndex>
+  <NameIndex>19118</NameIndex>
+  <DescriptionIndex>19119</DescriptionIndex>
 
   <!-- for PowerPlant Items -->
   

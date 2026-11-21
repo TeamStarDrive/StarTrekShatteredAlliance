@@ -12,7 +12,7 @@
   <XSize>2</XSize>
   <YSize>6</YSize>
   <ModuleType>MainGun</ModuleType>
-  <Name>cutting_beam_mk2</Name>
+  <Name>Borg Tactical Cutting Beam</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/cutting_beam_mk2</IconTexturePath>3
@@ -33,7 +33,7 @@
   <WeaponType>cutting_beam_mk3</WeaponType>
   <FieldOfFire>45</FieldOfFire>
   <!-- Description -->
-  <Description>This heavy-mount fusion beam has a fixed spinal facing and a 45 degree field of fire.</Description>
+  <Description>A focused cutting beam for tactical vessels, tuned to the shield frequency of its target. Of the Borg beam weapons, it hits the hardest and reaches the farthest, but fires the slowest.</Description>
   
 
 </ShipModule>

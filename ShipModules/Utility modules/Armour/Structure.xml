@@ -18,7 +18,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>Structure</Name>
+  <Name>Hull Structure</Name>
   <Restrictions>IO</Restrictions>
   <UID>Structure</UID> 
   <Version>2</Version>
@@ -27,8 +27,8 @@
   <IconTexturePath>Modules/Structure</IconTexturePath>
   
 
-  <NameIndex>18048</NameIndex>
-  <DescriptionIndex>18049</DescriptionIndex>
+  <NameIndex>19174</NameIndex>
+  <DescriptionIndex>19175</DescriptionIndex>
 
 
   <!-- Mass and Health -->

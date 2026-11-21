@@ -7,7 +7,7 @@
   <ModuleType>Turret</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>Kling_DisruptorCannonMk1</Name>
+  <Name>Klingon Bird-of-Prey Disruptor Cannon</Name>
   <Restrictions>O</Restrictions>
   <UID>Kling_DisruptorCannonMk1</UID> 
   <Version>2</Version>
@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/Kling_DisruptorCannonMk1</IconTexturePath>
   <Mass>20</Mass>
   <HealthMax>8760</HealthMax>
-  <Description>A crude but effective high-energy cannon weapon </Description>
+  <Description>A disruptor cannon for the Bird-of-Prey, fitted to a hull that prefers to strike from the side. Of the Klingon cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
   <CrewRequired>12</CrewRequired>
   
   <PowerDraw>10</PowerDraw>

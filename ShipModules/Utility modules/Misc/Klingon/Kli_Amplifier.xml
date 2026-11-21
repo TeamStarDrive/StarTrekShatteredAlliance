@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DroneModule>false</DroneModule>
+  <FighterModule>true</FighterModule>
+  <CorvetteModule>true</CorvetteModule>
+  <FrigateModule>true</FrigateModule>
+  <DestroyerModule>true</DestroyerModule>
+  <CruiserModule>true</CruiserModule>
+  <BattleshipModule>true</BattleshipModule>
+  <CapitalModule>true</CapitalModule>
+  
+  <FreighterModule>true</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>
+  
+  
+    <Cost>64</Cost>
+    <!-- Tech Level -->
+    <TechLevel>2</TechLevel>
+    <TechBranch>Shield</TechBranch>
+    <!-- common traits shared by all ship modules -->
+    <XSize>1</XSize>
+    <YSize>1</YSize>
+    <ModuleType>Shield</ModuleType>
+    <Name>Kli_Amplifier</Name>
+    <UID>Kli_Amplifier</UID> 
+  <Version>2</Version>
+
+    <IconTexturePath>Modules/Amplifier</IconTexturePath>
+    <NameIndex>30450</NameIndex>
+    <DescriptionIndex>30451</DescriptionIndex>
+    <!-- Mass and Health -->
+    <Mass>2</Mass>
+    <HealthMax>1600</HealthMax>
+    <RepairDifficulty>3</RepairDifficulty>                          
+    <!-- Power Drawn -->
+    <PowerDraw>30</PowerDraw>
+    <PowerDrawAtWarp>-25</PowerDrawAtWarp>
+    <!-- Armor resistance -->
+    <!-- for PowerPlant Items -->
+    
+    <AmplifyShields>15950</AmplifyShields>
+
+    <!-- Crew Reqs -->
+    
+    
+    <!-- for Weapons -->
+    <!-- Description -->
+    <Description>A Klingon deflector grid: loud, rugged and built to keep a warship fighting. An armoured solar collector that supplies extra power within a small radius.</Description>
+
+  <PowerFlowMax>0</PowerFlowMax>
+  <PowerStoreMax>0</PowerStoreMax>
+  <PowerRadius>0</PowerRadius>
+</ShipModule>

@@ -9,7 +9,7 @@
   <ModuleType>Drone</ModuleType>
   <XSize>4</XSize>
   <YSize>4</YSize>
-  <Name>orbital_RepairDrone</Name>
+  <Name>Orbital Repair Drone</Name>
   <Restrictions>IO</Restrictions>
   <UID>orbital_RepairDrone</UID> 
   <Version>2</Version>
@@ -17,13 +17,12 @@
   <IconTexturePath>Modules/orbital_RepairDrone</IconTexturePath>
   <Mass>9000</Mass>
   <HealthMax>9000</HealthMax>
-  <Description>
-  </Description>
+  <Description>A drone bay that sends out repair drones to patch up damage to the platform.</Description>
 
   <PowerDraw>100</PowerDraw>
 
-  <NameIndex>2100</NameIndex>
-  <DescriptionIndex>2101</DescriptionIndex>
+  <NameIndex>19176</NameIndex>
+  <DescriptionIndex>19177</DescriptionIndex>
 
 
   <!-- for shield items -->

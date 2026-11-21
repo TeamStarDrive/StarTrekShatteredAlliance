@@ -6,7 +6,7 @@
   <XSize>1</XSize>
   <YSize>4</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Kling_PhotonTorpedoMk1</Name>
+  <Name>Klingon Bird-of-Prey Torpedo Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>Kling_PhotonTorpedoMk1</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Kling_PhotonTorpedoMk1</IconTexturePath>
   <Mass>100</Mass>
   <HealthMax>15500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>The launcher of a Bird-of-Prey, with one tube forward and one aft. Of the Klingon torpedo weapons, it is the sturdiest for its size, but hits the softest.</Description>
   
   
   <PowerDraw>5</PowerDraw>

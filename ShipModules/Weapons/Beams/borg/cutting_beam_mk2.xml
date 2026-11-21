@@ -12,7 +12,7 @@
   <XSize>2</XSize>
   <YSize>6</YSize>
   <ModuleType>MainGun</ModuleType>
-  <Name>cutting_beam_mk2</Name>
+  <Name>Borg Cube Cutting Beam</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/cutting_beam_mk2</IconTexturePath>3
@@ -33,7 +33,7 @@
   <WeaponType>cutting_beam_mk2</WeaponType>
   <FieldOfFire>25</FieldOfFire>
   <!-- Description -->
-  <Description>This heavy-mount fusion beam has a fixed spinal facing and a 45 degree field of fire.</Description>
+  <Description>The cutting beam of a Borg cube, which can cut through a shielded vessel in seconds once the tractor beam holds it. Of the Borg beam weapons, it does the most to shields, but fires the slowest.</Description>
   
 
 </ShipModule>

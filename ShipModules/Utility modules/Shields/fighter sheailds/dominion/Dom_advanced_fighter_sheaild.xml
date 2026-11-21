@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <DroneModule>false</DroneModule>
+  <FighterModule>true</FighterModule>
+  <CorvetteModule>true</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>false</StationModule>
+  
+  
+  <Cost>10</Cost>
+  <!-- common traits shared by all ship modules -->
+  <TechLevel>2</TechLevel>
+  <ModuleType>Shield</ModuleType>
+  <XSize>1</XSize>
+  <YSize>1</YSize>
+  <Name>Dominion Shrouded Emitter</Name>
+  <Restrictions>IO</Restrictions>
+  <UID>Dom_advanced_fighter_sheaild</UID> 
+  <Version>2</Version>
+
+  <IconTexturePath>Modules/advanced_fighter_sheaild</IconTexturePath>
+  <Mass>10</Mass>
+  <HealthMax>1500</HealthMax>
+  
+  <Description>An emitter named for the shroud, the Jem'Hadar trick of vanishing from sensors until the moment they attack. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Dominion fighter shields, size for size, it recharges the fastest, but draws the most power.</Description>
+  
+  
+  <PowerDraw>30</PowerDraw>
+
+  <NameIndex>30582</NameIndex>
+  <DescriptionIndex>30583</DescriptionIndex>
+
+  <!-- for shield items -->
+  <ShieldPowerMax>6500</ShieldPowerMax>
+  <ShieldRechargeDelay>5</ShieldRechargeDelay>
+  <ShieldRechargeRate>125</ShieldRechargeRate>
+  <ShieldRechargeCombatRate>50</ShieldRechargeCombatRate>
+  <ShieldRadius>85</ShieldRadius>
+  <ShieldEnergyResist>0.19</ShieldEnergyResist>
+  <ShieldBeamResist>0.19</ShieldBeamResist>
+  <ShieldKineticResist>-1.0</ShieldKineticResist>
+</ShipModule>

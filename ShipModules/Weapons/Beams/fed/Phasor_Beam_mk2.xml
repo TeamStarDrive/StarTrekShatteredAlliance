@@ -13,7 +13,7 @@
   <XSize>2</XSize>
   <YSize>5</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>Phasor_Beam_mk2</Name>
+  <Name>Starfleet Phaser Array Mk2</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/Phasor_Beam_mk2</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>45</FieldOfFire>
 
   <!-- Description -->
-  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  <Description>A heavier array with a phase-modulated pulse. Of the Starfleet beam weapons, it fires the slowest.</Description>
   
 
 </ShipModule>

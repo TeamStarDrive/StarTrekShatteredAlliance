@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>8</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Fed_HeavyPhotonTorpedo_Mk2</Name>
+  <Name>Starfleet Heavy Photon Torpedo Launcher Mk2</Name>
   <Restrictions>O</Restrictions>
   <UID>Fed_HeavyPhotonTorpedo_Mk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Fed_HeavyPhotonTorpedo_Mk2</IconTexturePath>
   <Mass>292</Mass>
   <HealthMax>16500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A launcher tuned for a high-yield warhead, with a larger antimatter charge. Of the Starfleet torpedo weapons, it hits the hardest and is the cheapest for its size, but carries the least ordnance.</Description>
   
   
   <PowerDraw>20</PowerDraw>

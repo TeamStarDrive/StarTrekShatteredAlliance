@@ -23,12 +23,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>small_station_sheaild_mk1</Name>
+  <Name>Small Station Shield Mk1</Name>
   <IconTexturePath>Modules/small_station_sheaild_mk1</IconTexturePath>
   <Mass>9000</Mass>
   <HealthMax>56188</HealthMax>
   
-  <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
+  <Description>A shield for small stations, with high resistance and a wide protection radius.</Description>
   
   
   <PowerDraw>900</PowerDraw>

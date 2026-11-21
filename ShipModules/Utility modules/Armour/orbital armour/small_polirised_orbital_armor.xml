@@ -32,7 +32,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>small_polirised_orbital_armor</Name>
+  <Name>Polarised Orbital Armour (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>small_polirised_orbital_armor</UID> 
   <Version>2</Version>
@@ -57,7 +57,7 @@
   <ExplosiveResist>0.12</ExplosiveResist>
 
   <!-- Description -->
-  <Description>New generation of Ceramic Armor.</Description>
+  <Description>Heavy ceramic plating for orbital platforms, polarised to shrug off energy fire.</Description>
   <APResist>1</APResist>
   
 

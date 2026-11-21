@@ -13,7 +13,7 @@
   <XSize>1</XSize>
   <YSize>4</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>Phasor_Beam_mk1</Name>
+  <Name>Starfleet Phaser Array Mk1</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/Phasor_Beam_mk1</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>15</FieldOfFire>
 
   <!-- Description -->
-  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  <Description>A phased array that fires a stream of nadion-charged energy, with each emitter fed from the warp plasma grid. Of the Starfleet beam weapons, it hits the softest.</Description>
   
 
 </ShipModule>

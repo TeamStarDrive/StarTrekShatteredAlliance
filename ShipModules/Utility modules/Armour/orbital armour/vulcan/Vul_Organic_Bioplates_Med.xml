@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DroneModule>false</DroneModule>
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>
+    <Cost>12</Cost>
+    <!-- Tech Level -->
+    <TechLevel>4</TechLevel>
+    <TechBranch>Armor</TechBranch>
+    <!-- common traits shared by all ship modules -->
+    <XSize>2</XSize>
+    <YSize>2</YSize>
+    <ModuleType>Armor</ModuleType>
+    <Name>Vulcan Healing Trance Bioplate (Medium)</Name>
+    <Restrictions>O</Restrictions>
+    <UID>Vul_Organic_Bioplates_Med</UID> 
+  <Version>2</Version>
+
+    <TexturePath>Textures/transparent</TexturePath>
+    <IconTexturePath>Modules/Organic_Bioplates_Med</IconTexturePath>
+    <NameIndex>30276</NameIndex>
+    <DescriptionIndex>30277</DescriptionIndex>
+    <!-- Mass and Health -->
+    <Mass>28000</Mass>
+    <HealthMax>70000</HealthMax>
+    <RepairDifficulty>2</RepairDifficulty>
+    <Deflection>60</Deflection>
+    <!-- Armor resistance -->
+    <KineticResist>0.4</KineticResist>
+    <BeamResist>0.4</BeamResist>
+    <EnergyResist>0.4</EnergyResist>    
+    <PlasmaResist>0.4</PlasmaResist>
+    <ExplosiveResist>0.4</ExplosiveResist>
+
+    <!-- Description -->
+    <Description>Plate that repairs itself in a slow, disciplined cycle, named for the healing trance in which a Vulcan mends injuries. Strong protection against every kind of fire. Of the Vulcan orbital plates of its size, it is the lightest, but the hardest to repair.</Description>
+    <APResist>1</APResist>    
+</ShipModule>

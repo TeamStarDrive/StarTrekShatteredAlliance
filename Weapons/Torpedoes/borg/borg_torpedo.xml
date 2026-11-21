@@ -21,7 +21,6 @@
 
 
   <UID>borg_torpedo</UID>
-  <fireDelay>8</fireDelay>
   <Range>5000</Range>
   <PowerRequiredToFire>600</PowerRequiredToFire>
   <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
@@ -31,8 +30,6 @@
   <SalvoTimer>7</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
-  <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>
-  <dieCue>sd_weapon_rocket_explode_01</dieCue>
   
   
   <!-- Projectile Information -->
@@ -59,4 +56,7 @@
   <WeaponType>Photon Torpedoes</WeaponType>
 
   <FireArc>90</FireArc>
+  <DieCue>sd_weapon_rocket_explode_01</DieCue>
+  <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
+  <FireDelay>8</FireDelay>
 </Weapon>

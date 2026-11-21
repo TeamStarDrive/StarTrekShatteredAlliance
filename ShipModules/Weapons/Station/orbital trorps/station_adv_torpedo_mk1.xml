@@ -16,7 +16,7 @@
   <XSize>5</XSize>
   <YSize>5</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>station_adv_torpedo_mk1</Name>
+  <Name>Orbital Advanced Torpedo Launcher Mk1</Name>
   <Restrictions>O</Restrictions>
   <UID>station_adv_torpedo_mk1</UID> 
   <Version>2</Version>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_adv_torpedo_mk1</IconTexturePath>
   <Mass>14500</Mass>
   <HealthMax>84500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>An advanced torpedo launcher for stations and platforms, with a bigger warhead and better guidance.</Description>
   
   
   <PowerDraw>5</PowerDraw>

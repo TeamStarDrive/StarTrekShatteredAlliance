@@ -24,7 +24,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>frigate_shealds</Name>
+  <Name>Frigate Shield</Name>
   <Restrictions>IO</Restrictions>
   <UID>frigate_shealds</UID> 
   <Version>2</Version>
@@ -33,8 +33,7 @@
   <Mass>46</Mass>
   <HealthMax>30100</HealthMax>
   
-  <Description> This particular model is a very basic 1 KW shieid (2000 hp) with a 75 meter protective radius and a low recharge speed.
-  </Description>
+  <Description>A basic shield for frigates: short radius and a slow recharge.</Description>
   
   
   <PowerDraw>120</PowerDraw>

@@ -13,7 +13,7 @@
   <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>romulan_disrupter_beam_mk4</Name>
+  <Name>Romulan Disruptor Beam Mk4</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/romulan_disrupter_beam_mk4</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>45</FieldOfFire>
 
   <!-- Description -->
-  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  <Description>A disruptor array reserved for the ships of the Tal Shiar. Of the Romulan beam weapons, it is the cheapest for its size, but is the frailest for its size.</Description>
   
 
 </ShipModule>

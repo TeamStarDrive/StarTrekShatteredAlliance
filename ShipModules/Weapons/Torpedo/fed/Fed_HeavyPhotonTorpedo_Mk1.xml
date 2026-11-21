@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Fed_HeavyPhotonTorpedo_Mk1</Name>
+  <Name>Starfleet Heavy Photon Torpedo Launcher Mk1</Name>
   <Restrictions>O</Restrictions>
   <UID>Fed_HeavyPhotonTorpedo_Mk1</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Fed_HeavyPhotonTorpedo_Mk1</IconTexturePath>
   <Mass>250</Mass>
   <HealthMax>11900</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A heavy launcher for ships that need to break a hull and not just a shield. Of the Starfleet torpedo weapons, it is the cheapest for its size and has the widest blast, but is the frailest for its size.</Description>
   
   
   <PowerDraw>10</PowerDraw>

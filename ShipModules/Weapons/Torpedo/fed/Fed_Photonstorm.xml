@@ -6,7 +6,7 @@
   <XSize>6</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Fed_Photonstorm</Name>
+  <Name>Starfleet Photon Storm Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>Fed_Photonstorm</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Fed_Photonstorm</IconTexturePath>
   <Mass>500</Mass>
   <HealthMax>34500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A launcher that fires a spread of photon torpedoes in one burst, each pre-set to its own flight pattern. Of the Starfleet torpedo weapons, it reaches the farthest and fires the fastest, but has the slowest shots.</Description>
   
   
   <PowerDraw>5</PowerDraw>

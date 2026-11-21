@@ -23,12 +23,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>station_deflector_mk2</Name>
+  <Name>Station Deflector Mk2</Name>
   <IconTexturePath>Modules/station_deflector_mk2</IconTexturePath>
   <Mass>12000</Mass>
   <HealthMax>99188</HealthMax>
   
-  <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
+  <Description>An improved station deflector with higher resistance and a wide protection radius.</Description>
   
   
   <PowerDraw>1600</PowerDraw>

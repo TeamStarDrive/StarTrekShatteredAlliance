@@ -20,7 +20,7 @@
     <XSize>3</XSize>
     <YSize>3</YSize>
     <ModuleType>Armor</ModuleType>
-    <Name>large_polirised_orbital_armor</Name>
+    <Name>Polarised Orbital Armour (Large)</Name>
     <Restrictions>O</Restrictions>
     <UID>large_polirised_orbital_armor</UID> 
   <Version>2</Version>
@@ -41,6 +41,6 @@
     <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
-    <Description>New generation of Ceramic Armor.</Description>
+    <Description>Heavy ceramic plating for orbital platforms, polarised to shrug off energy fire.</Description>
     <APResist>1</APResist>
 </ShipModule>

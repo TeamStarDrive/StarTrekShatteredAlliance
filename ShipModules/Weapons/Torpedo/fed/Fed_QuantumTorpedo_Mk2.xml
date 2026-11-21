@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Fed_QuantumTorpedo_Mk2</Name>
+  <Name>Starfleet Quantum Torpedo Launcher Mk2</Name>
   <Restrictions>O</Restrictions>
   <UID>Fed_QuantumTorpedo_Mk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Fed_QuantumTorpedo_Mk2</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>12500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>An improved array for quantum torpedoes, with a compact warhead and a refined vacuum-energy core. Of the Starfleet torpedo weapons, it has the fastest shots.</Description>
   
   
   <PowerDraw>5</PowerDraw>

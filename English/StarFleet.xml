@@ -1,0 +1,650 @@
+﻿<DiplomacyDialog>
+  <Dialogs>
+  <DialogLine>
+      <DialogType>TREATY_TOO_SOON_REJECT</DialogType>
+      <Default>We would welcome such an agreement in time, but trust takes time to build. Let us get to know one another first.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>First Contact</DialogType>
+      <Friendly>Greetings. We are the United Federation of Planets. We come in peace, and we hope this is the start of a long friendship.</Friendly>
+      <Neutral>This is the United Federation of Planets. We are explorers and diplomats, and we would like to learn about your people.</Neutral>
+      <Hostile>We are the United Federation of Planets. We regret that our first meeting is so tense, but we are prepared to defend ourselves, and we will.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Colonized Warning</DialogType>
+      <Friendly>Our Council has noticed your colony in TARSYS. We value our friendship, and we hope we can resolve this without difficulty.</Friendly>
+      <Neutral>SING, your colony in TARSYS lies within Federation space. We would like to discuss this before it becomes a dispute.</Neutral>
+      <Hostile>Your colony in TARSYS is a violation of Federation territory. We ask you to withdraw. We would prefer not to say it twice.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Aggression Warning</DialogType>
+      <Friendly>Your ships fired on ours. We assume this was a mistake. We would welcome an explanation.</Friendly>
+      <Neutral>You have attacked Federation vessels, SING. We urge you to reconsider. We would still prefer to talk.</Neutral>
+      <Hostile>Your attack on Starfleet vessels will not go unanswered, PLURAL. We will defend our people.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Ships</DialogType>
+      <Friendly>Your ships have been in Federation space for some time, friend. We would appreciate it if they withdrew, to avoid any misunderstanding.</Friendly>
+      <Neutral>PLURAL ships in Federation space. We ask you to withdraw them. We would rather resolve this peacefully.</Neutral>
+      <Hostile>Your warships in Federation space are a provocation, PLURAL. Withdraw them now, or Starfleet will respond.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Ships then Colonized</DialogType>
+      <Friendly>We asked you to withdraw from our space, and you stayed. Now you have taken TARSYS. We are disappointed, and concerned.</Friendly>
+      <Neutral>You ignored our request and settled TARSYS. We regret this, SING. It will not help our relations.</Neutral>
+      <Hostile>You trespassed, were warned, and settled TARSYS. The Federation Council will not be patient much longer.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Warning Colonized then Ships</DialogType>
+      <Friendly>You settled TARSYS and we kept the peace, and now your fleet is in our space. Our patience is being tested.</Friendly>
+      <Neutral>First TARSYS, and now warships on our borders. We are beginning to doubt your intentions, SING.</Neutral>
+      <Hostile>You took TARSYS, and now you threaten our borders. The Federation will defend itself, PLURAL.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War</DialogType>
+      <misc1>The Federation Council has voted. We are at war. We did not want this, but we will see it through.</misc1>
+      <misc2>Starfleet is mobilising. We will defend our worlds, and we will not stop until the threat is ended.</misc2>>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Dunno_Anybody</DialogType>
+      <Default>There are others out there? We would very much like to meet them. We have not yet had the chance.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Greeting</DialogType>
+      <Friendly>Hello, my friend. It is good to hear from you. How may the Federation help?</Friendly>
+      <Neutral>Communication channels opened. Greetings, SING. What can we do for you?</Neutral>
+      <Hostile>Go ahead, SING. We are listening, though our patience is limited.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Racial_Inquiry_1</DialogType>
+      <Default>We would like to learn more about your people. What are your customs, and what do you value?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Racial_Response_1</DialogType>
+      <Default>Thank you. That is fascinating. We will remember it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AboutUS</DialogType>
+      <DL_Agg>The Federation prefers peace, but Starfleet is ready to defend it. We would not like to see that tested.</DL_Agg>
+      <DL_Hon>The Federation is built on principles: freedom, equality and respect for all life. We try to live by them, and we expect the same of our friends.</DL_Hon>
+      <DL_Pac>The Federation is a union of worlds who chose peace over war. We believe there is always another way, and we will look for it.</DL_Pac>
+      <DL_Ruth>We would rather not be forced to defend ourselves. But those who threaten the Federation will find we do not fall easily.</DL_Ruth>
+      <DL_Cunn>Diplomacy is a skill, and the Federation has practised it for many years. We would prefer to talk until everyone is satisfied.</DL_Cunn>
+      <DL_Xeno>The Federation is wary of those who would exploit its openness. We welcome friends, but we do not welcome trouble.</DL_Xeno>
+      <DL_Exp>The Federation seeks out new worlds and new life. There is much more to discover, and we are glad to share the journey.</DL_Exp>
+      <DL_Tech>Starfleet's engineers and scientists work tirelessly. We share what we learn with those who share our values.</DL_Tech>
+      <DL_Mil>Starfleet is an exploratory service first, but its ships are well armed and its crews well trained. We hope never to have to prove it.</DL_Mil>
+      <DL_Ind>The Federation's worlds are productive, its people well fed, and its resources shared. Good citizens make a strong Federation.</DL_Ind>
+      <DL_Gen>The Federation believes in balance. Exploration and defence, science and art, diplomacy and strength. Infinite diversity in infinite combinations.</DL_Gen>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_InsufficientTrust</DialogType>
+      <Default>We would like to agree, but our people do not yet trust each other enough for this. Perhaps in time.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_AcceptGreatOffer_LowTrust</DialogType>
+      <Default>This is a remarkably generous offer. We accept, with thanks. We hope it marks the start of a lasting trust.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_PoorOffer_LowTrust</DialogType>
+      <Default>We do not think this offer is fair, and we do not know each other well enough to overlook it. We must decline.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_PoorOffer_EnoughTrust</DialogType>
+      <Default>We value our friendship, so we will be honest: this offer is not fair. Could we discuss it again?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_NearRival</DialogType>
+      <Default>Another power holds worlds in that system, and we have no open borders with them. We cannot agree without risking an incident.</Default>
+      <DL_Agg>The Federation chooses its own disputes, SING. We would rather you did not choose them for us.</DL_Agg>
+      <DL_Xeno>We do not take well to attempts to turn us against our neighbours.</DL_Xeno>
+      <DL_Hon>Setting neighbours against each other is not how friends behave. We expected better.</DL_Hon>
+      <DL_Pac>You would have us quarrel with our neighbours? We would rather talk to them than fight them.</DL_Pac>
+      <DL_Ruth>We see what you are attempting. The Federation will not be used as a weapon against its neighbours.</DL_Ruth>
+      <DL_Cunn>We see the trap, SING. We will not step into it.</DL_Cunn>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_NearEnemy</DialogType>
+      <Default>The Federation's enemies hold worlds in that system, SING. We do not wish your settlers caught up in the war.</Default>
+      <DL_Agg>If the Federation needs those worlds, we will secure them ourselves.</DL_Agg>
+      <DL_Xeno>We do not need your help to fight our war.</DL_Xeno>
+      <DL_Hon>We cannot ask your settlers to take such a risk for us. Thank you, but no.</DL_Hon>
+      <DL_Pac>We hope to end that war, not spread it. We are grateful for the offer.</DL_Pac>
+      <DL_Ruth>Those worlds will be ours before long. We will not need your settlers.</DL_Ruth>
+      <DL_Cunn>A world on the front line is a burden, not a gift. Perhaps another time.</DL_Cunn>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Reject_Insulting</DialogType>
+      <Default>We find this offer insulting. We must decline, and we hope you will reconsider.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair</DialogType>
+      <Default>This seems like a fair agreement. We accept. Thank you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Good</DialogType>
+      <Default>This is a good arrangement for both our peoples. We accept, gladly.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Great</DialogType>
+      <Default>That is very generous, SING. We accept, with our sincere thanks.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Gift</DialogType>
+      <Default>A gift. We are touched. The Federation accepts, with gratitude.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair_Pleading</DialogType>
+      <Default>Your request is reasonable. We will help, and we hope you will do the same for us one day.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_InsufficientFear</DialogType>
+      <Default>The Federation does not respond to threats, SING. We will not agree under pressure.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Fair_Threatening</DialogType>
+      <Default>Very well. We would rather settle this without conflict.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OfferResponse_Accept_Bad_Threatening</DialogType>
+      <Default>This is a poor agreement, forced upon us. We accept it, but we will not forget it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>WarDeclared_FeelsBetrayed</DialogType>
+      <Default>You made a pact with us, and then broke it. We trusted you. This is a deep betrayal, and the Federation must respond.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>WarDeclared_Generic</DialogType>
+      <Default>It has come to war. We tried to prevent it, but we will defend the Federation.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Greeting_AtWar</DialogType>
+      <Default>We are at war, SING. If you have something to say, say it now.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Defense</DialogType>
+      <Default>You have brought your fleet to our border. Starfleet will meet you there, and we will defend our worlds.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War BC</DialogType>
+      <Default>We asked you to respect our borders. You have not. We are at war, and the responsibility is yours.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War BC TarSys</DialogType>
+      <Default>You remain in TARSYS despite repeated requests, PLURAL. The Federation has no choice but to defend its territory.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer NAPact</DialogType>
+      <Default>The Federation has no desire to fight you. Would you consider a non-aggression pact?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>NAPact Accepted</DialogType>
+      <Default>Thank you. This is a good step toward lasting peace. The Federation will honour it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>NAPact Rejected</DialogType>
+      <Default>We are disappointed you declined. The offer stands, if you change your mind.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Trade</DialogType>
+      <Default>The Federation believes that open trade benefits everyone. Would you consider a trade treaty? We think both our peoples would prosper.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Trade Accepted</DialogType>
+      <Default>Excellent. We look forward to a prosperous exchange between our peoples.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Trade Rejected</DialogType>
+      <Default>We are sorry that you declined. The offer remains open, whenever you are ready.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ComeAround_NAPACT</DialogType>
+      <Default>You declined a pact before, and now you propose one. What has changed, SING?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ComeAround_TRADE</DialogType>
+      <Default>You declined our offer of trade earlier. We are happy to reconsider, but we are curious what has changed.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech</DialogType>
+      <Default>The Federation would greatly value TECH_DEMAND from you, SING. It would help our relations.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech Accepted</DialogType>
+      <Default>Thank you. We are grateful, and we will use it wisely.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Xeno Demand Tech Rejected</DialogType>
+      <Default>We are sorry you refused. We hope we can find another way to work together.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Insult Military</DialogType>
+      <Default>We have studied the PLURAL fleet. It is not what we would have hoped for. We would offer help, but we suspect you would decline.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Compliment Military</DialogType>
+      <Default>The PLURAL fleet is impressive. We are glad we are on good terms.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Compliment Military Better</DialogType>
+      <Default>You have strengthened your fleet, SING. We hope it is only for defence.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Imperialism</DialogType>
+      <Default>You cannot hold your worlds, SING, and the Federation will not stand by while others suffer. We will intervene.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Kulrathi</DialogType>
+      <Default>The Kulrathi Shogunate lives by a strict code of honour. We admire the discipline, and we hope to work with them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Kulrathi</DialogType>
+      <Default>The Kulrathi follow their own code. We respect their traditions, and we hope they respect ours.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Kulrathi</DialogType>
+      <Default>The Kulrathi believe that strength is the only virtue. We disagree, and we hope to show them otherwise without war.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Pollops</DialogType>
+      <Default>The Pollops are gentle, thoughtful and kind. We value their friendship highly. Their songs are a treasure.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Pollops</DialogType>
+      <Default>The Pollops live peacefully and keep their own counsel. We respect that, and we hope to know them better.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Pollops</DialogType>
+      <Default>We are concerned for the Pollops. Their worlds are poorly defended, and the Federation would be glad to help them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Vulfen</DialogType>
+      <Default>The Vulfen Imperium is proud and fierce, but also loyal to its friends. We respect that, and we hope to deepen our ties.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Vulfen</DialogType>
+      <Default>The Vulfen Imperium is a strong power, and a loud one. We have no quarrel with them, and we hope to keep it that way.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Vulfen</DialogType>
+      <Default>The Vulfen Imperium is aggressive and quick to threaten. We would prefer peace, but we will not be intimidated.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Cordrazine</DialogType>
+      <Default>The Cordrazine Collective has a long history, and a gift for community. We value their friendship.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Cordrazine</DialogType>
+      <Default>We do not know the Cordrazine very well yet, but we would like to. We are hopeful.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Cordrazine</DialogType>
+      <Default>The Cordrazine Collective is closed and secretive, and it makes us uneasy. We hope to build trust, but it will take time.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>Opinion_Positive_Ralyeh</DialogType>
+      <Default>The Ralyeh Devoted are patient, thoughtful and committed to their beliefs. We respect that, and we admire their devotion.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Ralyeh</DialogType>
+      <Default>The Ralyeh keep to their faith and their waters. The Federation respects every belief, and we hope to learn more of theirs.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Ralyeh</DialogType>
+      <Default>The Ralyeh Devoted worship death, and their reverence for it troubles us. We hope they will reconsider.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Declare War Imperialism Break NA</DialogType>
+      <Default>We had a treaty, and you broke it to seize what is not yours. The Federation will respond.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Conquered_Player</DialogType>
+      <Default>It is over, SING. The Federation has prevailed. We will treat your people fairly, and we hope you will help us build a lasting peace.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Open Borders</DialogType>
+      <Default>The PLURAL have been good neighbours. We would like to propose an open borders agreement, so our peoples can travel freely.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Accepted</DialogType>
+      <Default>Thank you. This is a great step. Our ships may pass freely, and we hope yours will do the same.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Rejected</DialogType>
+      <Default>We are sorry you declined. The offer remains open, if you reconsider.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Invaded NA Pact</DialogType>
+      <Default>We held a treaty, and you violated it. The Federation will defend itself. We regret that it has come to this.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Invaded Start War</DialogType>
+      <Default>You have invaded TARSYS, which the Federation holds. Starfleet will defend it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Opteris</DialogType>
+      <Default>The Opteris are hardworking and loyal. We find them endlessly interesting, and we are glad to be on good terms.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Opteris</DialogType>
+      <Default>The Opteris are a remarkable people, part machine and part insect. We would like to learn more about them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Opteris</DialogType>
+      <Default>The Opteris act without regard for other lives, and it troubles us. We would prefer to talk, but we will defend ourselves.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Claim System</DialogType>
+      <Friendly>Friend, the Federation has claimed TARSYS. We would be grateful if you did not settle there.</Friendly>
+      <Neutral>TARSYS is claimed by the Federation. We suggest you look elsewhere, SING.</Neutral>
+      <Hostile>TARSYS lies within Federation space, PLURAL. Settle there, and we will protest in the strongest terms.</Hostile>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim</DialogType>
+      <Default>The Federation had claimed TARSYS, and you took it. This will not be forgotten.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>Opinion_JustMetUs</DialogType>
+      <Default>We have only just met the PLURAL. We are looking forward to learning more.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>Opinion_NoProblems</DialogType>
+      <Default>The Federation has no quarrel with the PLURAL. You have been good friends, and we are grateful.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Problems</DialogType>
+      <Default>The Federation has some concerns about the PLURAL. We hope we can talk through them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_JustTerritorial</DialogType>
+      <Default>You have taken worlds that the Federation was hoping to settle. We would like to discuss it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_Territorial</DialogType>
+      <Default>You have taken worlds that the Federation was hoping to settle. We would like to discuss it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlsoMilitary</DialogType>
+      <Default>Your fleet has grown quite large. We hope it is only for defence.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlsoMilitaryWeak</DialogType>
+      <Default>Your fleet is small, and we worry for your safety. The Federation would be happy to help.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_MilitaryWeak</DialogType>
+      <Default>Your fleet is weak. The Federation is concerned about your ability to defend yourselves.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_PrimaryMilitary</DialogType>
+      <Default>Your fleet has grown quite large. We hope it is only for defence.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlliedWithEnemy</DialogType>
+      <Default>You are allied with TAREMP, who are our enemies. We would like to understand why.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Problem_AlsoAlliedWithEnemy</DialogType>
+      <Default>You remain allied with TAREMP, who are our enemies. We hope you will reconsider.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_NothingMajor</DialogType>
+      <Default>We have no great concerns about you. We hope to keep it that way.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AtWar_Winning</DialogType>
+      <Default>We are winning this war, SING, but we would rather end it than win it. We are willing to talk.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AtWar_Losing</DialogType>
+      <Default>The war is not going as we had hoped. We are willing to talk, if you are.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War</DialogType>
+      <Default>TAREMP threatens the Federation, and we ask you to fight beside us. Together we can stop them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_Yes</DialogType>
+      <Default>Thank you. We are grateful. Together we will bring TAREMP to the table, or to a halt.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_No</DialogType>
+      <Default>You will not help us against TAREMP? We are disappointed, but we understand.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Positive_Draylok</DialogType>
+      <Default>The Draylok Council is thoughtful and subtle. We find their company stimulating, and we trust them.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Neutral_Draylok</DialogType>
+      <Default>The Draylok change their faces and their plans. We do not yet know them well. We would like to.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Opinion_Negative_Draylok</DialogType>
+      <Default>The Draylok hide behind borrowed faces, and have been caught taking what is not theirs. Trust is hard to build under such conditions.</Default>
+    </DialogLine>
+
+
+
+    <!--  Second Run Localization Efforts -->
+
+    <DialogLine>
+      <DialogType>Declare War Defense BrokenNA</DialogType>
+      <Default>We trusted our treaty, and you broke it. The Federation will not forget.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_FAIR</DialogType>
+      <Default>This war has cost too many lives on both sides. The Federation would like to discuss peace.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_FAIR_WINNING</DialogType>
+      <Default>We are winning this war, but we would rather end it than win it. We offer you peace.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_EVENLY_MATCHED</DialogType>
+      <Default>Neither of us can win this war without terrible cost. We would like to end it now.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_PLEADING</DialogType>
+      <Default>The war has gone badly for us. The Federation asks for peace, and offers fair terms.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_LOSINGBC</DialogType>
+      <Default>You hold the field, SING. Let us keep what we have, and end this war. We will remember your generosity.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_WINNINGBC</DialogType>
+      <Default>We hold your worlds, SING. Sign this treaty, and we will end the war, and treat your people fairly.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_REJECTED</DialogType>
+      <Default>We are sorry that you refused. The offer remains open.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFERPEACE_ACCEPTED</DialogType>
+      <Default>Thank you. This is a wise decision. There will be peace between us.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>ACCEPT_OFFER_PEACE</DialogType>
+      <Default>This is a fair offer. The Federation accepts. There will be peace between us.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_OFFER_PEACE_POOROFFER</DialogType>
+      <Default>We cannot accept these terms. We would be glad to hear a better offer.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_OFFER_PEACE_UNWILLING_BC</DialogType>
+      <Default>You still hold worlds that were taken from us. We cannot accept peace until they are returned.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ACCEPT_OFFER_PEACE_RELUCTANT</DialogType>
+      <Default>We accept this peace, though it is not what we hoped. We will do what we can to make it last.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>PROBLEM_RECENTWAR</DialogType>
+      <Default>We were at war not long ago. It is difficult to forget. We hope time will help.</Default>
+    </DialogLine>
+
+    <DialogLine>
+      <DialogType>OFFER_ALLIANCE</DialogType>
+      <Default>The Federation and the PLURAL have come a long way together. We would like to propose a formal alliance.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ALLIANCE_ACCEPTED</DialogType>
+      <Default>Thank you. The Federation is proud to call you an ally.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ALLIANCE_REJECTED</DialogType>
+      <Default>We are sorry that you declined. We hope we can still be friends.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>OFFER_ALLIANCE_TOO_COMPLICATED</DialogType>
+      <Default>That is a little complicated. If you wish for an alliance, simply propose one.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AI_ALLIANCE_ACCEPT</DialogType>
+      <Default>The Federation agrees. We will stand beside you, and we hope you will do the same for us.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>AI_ALLIANCE_REJECT</DialogType>
+      <Default>An alliance? We do not feel we know each other well enough yet.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>REJECT_PEACE_RUTHLESS</DialogType>
+      <Default>No. The Federation will not accept peace while our people remain at risk.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>ACCEPT_PEACE_COLDWAR</DialogType>
+      <Default>There has been little bloodshed on either side. We welcome the chance to end this peacefully.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>HelpUS_War_No_BreakAlliance</DialogType>
+      <Default>You will not fight beside us? Then our alliance is no longer meaningful. We regret it.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim 2</DialogType>
+      <Default>Your colonisation of TARSYS has not gone unnoticed, SING. This is the second time you have crossed us, and we would like to understand why.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Stole Claim 3</DialogType>
+      <Default>You have taken from the Federation too many times. TARSYS was legally claimed by us, and our patience is at an end.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_1</DialogType>
+      <Default>We know that you are spying on us, SING. We would rather be friends. Please stop.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_2</DialogType>
+       <Default>We asked you to stop spying. We take this very seriously.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_3</DialogType>
+      <Default>You have spied on us again. All agreements between us are cancelled.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Killed_Spy_1</DialogType>
+      <Default>We have detained your agent, SING. He is being treated fairly, but he will not be returning.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_Ally_1</DialogType>
+      <Default>A spy among allies? We have caught your agent. Is this how the PLURAL treat friends?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Caught_Spying_Ally_2</DialogType>
+      <Default>You spy on us again, ally? Our alliance is at an end.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Offer Open Borders Friends</DialogType>
+      <Default>As friends, would you consider opening your borders to us? We would gladly do the same.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Open Borders Friends Rejected</DialogType>
+      <Default>You keep your borders closed even to friends? We are sorry. We hope you will reconsider.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_JustMet</DialogType>
+      <Default>We have only just met. We would not ask you to join us, and we would not join you, so soon.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_NoAlliance</DialogType>
+      <Default>We are not allied yet. Let us begin there, and see where it leads.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_AllianceTooYoung</DialogType>
+      <Default>We are allies now, and we are glad. A federation needs deeper trust, and that takes time.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_WeAreTooStrong</DialogType>
+      <Default>Why should we join you? The Federation is already the stronger union. Would you consider joining us?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Accept</DialogType>
+      <Default>Yes. The Federation will stand with you. Together we will build something worthy of both our peoples.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Quest_DestroyEnemy</DialogType>
+      <Default>Before we join you, we ask your help. TAREMP threatens us all. Stop them, and we will stand with you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_YouDidIt_KilledEnemy</DialogType>
+      <Default>TAREMP is stopped. We are grateful. The Federation will join you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_RelationsPoor</DialogType>
+      <Default>You ask us to join your federation? We do not trust each other enough for that.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_Quest_AllyFriend</DialogType>
+      <Default>We will join you, but first, please become allies of our friends, TAREMP. Win their trust, and speak to us again.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>Federation_YouDidIt_AllyFriend</DialogType>
+      <Default>You have made allies of our friends. We are pleased. The Federation will join you.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_YouAreNotAtWar</DialogType>
+      <Default>You are not at war with TAREMP. Why would the Federation fight them for you?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_WeAreAtWar</DialogType>
+      <Default>The Federation is already at war with TAREMP. Were you not informed?</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Allied_OK</DialogType>
+      <Default>The Federation stands by its allies. We will join you against TAREMP.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Allied_DECLINE</DialogType>
+      <Default>TAREMP is our ally. The Federation cannot break its word, even for a friend. We are sorry.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_PoorRelations</DialogType>
+      <Default>Why should the Federation fight for you, PLURAL? We do not know each other well enough.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_Pacifist</DialogType>
+      <Default>The Federation will not make war on TAREMP. We believe there is still a peaceful way.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_Reject_TooDangerous</DialogType>
+      <Default>TAREMP is formidable. The Federation will not enter such a war lightly. We decline.</Default>
+    </DialogLine>
+    <DialogLine>
+      <DialogType>JoinWar_OK</DialogType>
+      <Default>We agree. The Federation will join you against TAREMP. We hope it will be brief.</Default>
+    </DialogLine>
+<!-- Treaties With Low Trust -->
+    <DialogLine>
+      <DialogType>TRUST_LOW_ALLIANCE</DialogType>
+      <Default>The Federation Council is concerned that you cannot be trusted as an ally, SING. We hope you will change that.</Default>
+    </DialogLine>              
+    <DialogLine>
+      <DialogType>TRUST_LOW_OPEN_BORDERS</DialogType>
+      <Default>The Federation Council has revoked our open borders. We no longer trust your empire to keep them.</Default>
+    </DialogLine>
+  </Dialogs>
+</DiplomacyDialog>

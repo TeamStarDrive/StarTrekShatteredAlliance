@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>7</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Kling_HeavyPhotonTorpedoMk2</Name>
+  <Name>Klingon Vor'cha Torpedo Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>Kling_HeavyPhotonTorpedoMk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Kling_HeavyPhotonTorpedoMk2</IconTexturePath>
   <Mass>250</Mass>
   <HealthMax>39500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>The heavy launcher of the Vor'cha-class attack cruiser. Of the Klingon torpedo weapons, it hits the hardest, but fires the slowest.</Description>
   
   
   <PowerDraw>5</PowerDraw>

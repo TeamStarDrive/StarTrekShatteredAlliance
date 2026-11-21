@@ -22,12 +22,12 @@
   <Version>2</Version>
 
   <Restrictions>IO</Restrictions>
-  <Name>ORBITAL_SHEAILD_2X2_MK2</Name>
+  <Name>Orbital Shield 2x2 Mk2</Name>
   <IconTexturePath>Modules/ORBITAL_SHEAILD_2X2_MK2</IconTexturePath>
   <Mass>6000</Mass>
   <HealthMax>56188</HealthMax>
   
-  <Description>This is a monstrous shield with the a high resistance and a massive protection radius, making it ideal for capital ships or specialized shield ships.  The power costs are enormous.</Description>
+  <Description>An improved orbital shield with higher resistance and a wide protection radius.</Description>
   
   
   <PowerDraw>450</PowerDraw>

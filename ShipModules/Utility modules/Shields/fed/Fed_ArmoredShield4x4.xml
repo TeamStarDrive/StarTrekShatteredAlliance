@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Cost>138</Cost>
+  <!-- Tech Level Used by AI for Upgrading Ships -->
+  <TechLevel>4</TechLevel>
+  <RepairDifficulty>2</RepairDifficulty>
+
+  <RepairDifficulty>8</RepairDifficulty>
+  <!-- common traits shared by all ship modules -->
+  <ModuleType>Shield</ModuleType>
+  <XSize>4</XSize>
+  <YSize>4</YSize>
+  <UID>Fed_ArmoredShield4x4</UID> 
+  <Version>2</Version>
+
+  <Restrictions>IO</Restrictions>
+  <Name>Fed_ArmoredShield4x4</Name>
+  <IconTexturePath>Modules/ArmoredShield4x4</IconTexturePath>
+  <Mass>144</Mass>
+  <HealthMax>27500</HealthMax>
+  
+  <Description>Shield emitters set in a hardened housing and tied into the hull's structural integrity field, so the emitters survive a hit that breaks the shield. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
+  
+  
+  <PowerDraw>300</PowerDraw>
+
+  <NameIndex>30476</NameIndex>
+  <DescriptionIndex>30477</DescriptionIndex>
+
+  <ExplosiveResist>0.25</ExplosiveResist>
+
+  <!-- for shield items -->
+  <ShieldPowerMax>75000</ShieldPowerMax>
+  <ShieldRechargeDelay>20</ShieldRechargeDelay>
+  <ShieldRechargeRate>640</ShieldRechargeRate>
+  <ShieldRadius>290</ShieldRadius>
+  <ShieldRechargeCombatRate>250</ShieldRechargeCombatRate>
+  <ShieldEnergyResist>0.44</ShieldEnergyResist>
+  <ShieldBeamResist>0.45</ShieldBeamResist>
+  <ShieldKineticResist>-0.48</ShieldKineticResist>
+  <Deflection>150</Deflection>
+</ShipModule>

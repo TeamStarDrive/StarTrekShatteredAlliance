@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Klingon_cloaked_torpedo</Name>
+  <Name>Klingon Cloaked Torpedo Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>Klingon_cloaked_torpedo</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Klingon_cloaked_torpedo</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>9500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A launcher built for firing from under cloak, in the manner of the later cloaking prototypes that could fire while cloaked. Of the Klingon torpedo weapons, it reaches the farthest and fires the fastest, but has the smallest blast.</Description>
   
   
   <PowerDraw>5</PowerDraw>
@@ -27,8 +27,8 @@
   <ShieldRadius>0</ShieldRadius>
   <radius>0</radius>
 
-  <NameIndex>18634</NameIndex>
-  <DescriptionIndex>18634</DescriptionIndex>
+  <NameIndex>19100</NameIndex>
+  <DescriptionIndex>19101</DescriptionIndex>
 
   <!-- for PowerPlant Items -->
   

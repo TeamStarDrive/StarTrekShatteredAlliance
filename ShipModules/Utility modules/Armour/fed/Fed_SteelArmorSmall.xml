@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Cost>1</Cost>
+  <!-- Tech Level -->
+  <TechLevel>1</TechLevel>
+  <TechBranch>Armor</TechBranch>
+
+  <!-- common traits shared by all ship modules -->
+  <XSize>1</XSize>
+  <YSize>1</YSize>
+  <ModuleType>Armor</ModuleType>
+  <Name>Fed_SteelArmorSmall</Name>
+  <Restrictions>O</Restrictions>
+  <UID>Fed_SteelArmorSmall</UID> 
+  <Version>2</Version>
+
+  <TexturePath>Textures/transparent</TexturePath>
+  <IconTexturePath>Modules/SteelArmorSmall</IconTexturePath>
+
+
+  <NameIndex>30196</NameIndex>
+  <DescriptionIndex>30197</DescriptionIndex>
+
+
+  <!-- Mass and Health -->
+  <Mass>6</Mass>
+  <HealthMax>2000</HealthMax>
+
+
+<!-- Armor resistance -->
+    <KineticResist>0.02</KineticResist>
+    <BeamResist>0</BeamResist>
+    <EnergyResist>0</EnergyResist>    
+    <PlasmaResist>0</PlasmaResist>
+    <ExplosiveResist>0.04</ExplosiveResist>
+
+  <!-- Description -->
+  <Description>Duranium alloy plate, the standard hull armour of Starfleet starships. Plain, dependable, and repairable at any dock in the Federation. Gives almost no protection against fire; it is there to soak up damage. Of the Starfleet ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile.</Description>
+  
+
+</ShipModule>

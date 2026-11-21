@@ -13,7 +13,7 @@
   <XSize>3</XSize>
   <YSize>8</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>Phasor_Beam_mk3</Name>
+  <Name>Starfleet Phaser Array Mk3</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/Phasor_Beam_mk3</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>90</FieldOfFire>
 
   <!-- Description -->
-  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  <Description>The array of the Federation's great cruisers, with the beam focused through a rotating phase discriminator. Of the Starfleet beam weapons, it hits the hardest and fires the fastest.</Description>
   
 
 </ShipModule>

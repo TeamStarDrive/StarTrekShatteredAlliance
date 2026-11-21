@@ -9,14 +9,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>3</XSize>
   <YSize>3</YSize>
-  <Name>dom_phased_cannon_mk2</Name>
+  <Name>Dominion Heavy Polaron Cannon</Name>
   <Restrictions>O</Restrictions>
   <UID>dom_phased_cannon_mk2</UID>
   <IconTexturePath>Modules/phased_cannon_mk2</IconTexturePath>
   <Mass>15</Mass>
   <HealthMax>15750</HealthMax>
-  <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
-  </Description>
+  <Description>A heavier cannon, mounted on the larger Jem'Hadar warships. Of the Dominion cannon weapons, it fires the fastest and fires the largest salvos.</Description>
   
   
   <PowerDraw>4</PowerDraw>

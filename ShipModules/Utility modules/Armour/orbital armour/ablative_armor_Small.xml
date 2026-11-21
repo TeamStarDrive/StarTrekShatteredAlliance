@@ -32,7 +32,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>ablative_armor_Small</Name>
+  <Name>Ablative Armour (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>ablative_armor_Small</UID> 
   <Version>2</Version>
@@ -41,8 +41,8 @@
   <IconTexturePath>Modules/ablative_armor_Small</IconTexturePath>
 
 
-  <NameIndex>18732</NameIndex>
-  <DescriptionIndex>18733</DescriptionIndex>
+  <NameIndex>19156</NameIndex>
+  <DescriptionIndex>19157</DescriptionIndex>
 
 
   <!-- Mass and Health -->
@@ -58,7 +58,7 @@
   <PlasmaResist>0.2</PlasmaResist>
 
   <!-- Description -->
-  <Description>Through using Crystal materials, the mass of armor has been greatly decreased. </Description>
+  <Description>Plating that burns away in layers, soaking up the damage meant for the hull beneath.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

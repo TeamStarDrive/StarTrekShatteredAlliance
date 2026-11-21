@@ -9,14 +9,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>2</XSize>
   <YSize>2</YSize>
-  <Name>dom_phased_cannon</Name>
+  <Name>Dominion Phased Polaron Cannon</Name>
   <Restrictions>O</Restrictions>
   <UID>dom_phased_cannon</UID>
   <IconTexturePath>Modules/phased_cannon</IconTexturePath>
   <Mass>10</Mass>
   <HealthMax>10750</HealthMax>
-  <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
-  </Description>
+  <Description>A cannon that throws phased polaron in short bursts, for ships that fight in swarms. Of the Dominion cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
   
   
   <PowerDraw>4</PowerDraw>

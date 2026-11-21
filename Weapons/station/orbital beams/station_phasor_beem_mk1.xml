@@ -21,7 +21,6 @@
   <BeamTexture>beam_purple3</BeamTexture>
   <DamageAmount>550</DamageAmount>
   <ShieldPenChance>0.4</ShieldPenChance>
-  <EffectVsShield>5.5</EffectVsShield>
   <BeamThickness>28</BeamThickness>
   <BeamPowerCostPerSecond>424</BeamPowerCostPerSecond>
   <OffPowerMod>0.3</OffPowerMod>
@@ -32,4 +31,5 @@
   <WeaponShieldHitEffect>Beam_Hit_Shield</WeaponShieldHitEffect>
   <WeaponDeathEffect></WeaponDeathEffect>
 
+  <EffectVsShields>5.5</EffectVsShields>
 </Weapon>

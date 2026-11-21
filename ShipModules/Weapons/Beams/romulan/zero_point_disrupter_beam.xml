@@ -13,7 +13,7 @@
   <XSize>3</XSize>
   <YSize>6</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>zero_point_disrupter_beam</Name>
+  <Name>Romulan Zero-Point Disruptor Beam</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/zero_point_disrupter_beam</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>60</FieldOfFire>
 
   <!-- Description -->
-  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  <Description>A disruptor array fed directly from the warbird's quantum singularity. Of the Romulan beam weapons, it hits the hardest and reaches the farthest, but does the least to armour.</Description>
   
 
 </ShipModule>

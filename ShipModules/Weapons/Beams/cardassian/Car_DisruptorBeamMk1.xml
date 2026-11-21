@@ -13,7 +13,7 @@
   <XSize>2</XSize>
   <YSize>2</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>Light Phasor Array</Name>
+  <Name>Cardassian Disruptor Array Mk1</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/Car_DisruptorBeamMk1</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>30</FieldOfFire>
 
   <!-- Description -->
-  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  <Description>The spiral-wave disruptor is the standard gun of Cardassian warships, with a firing arc wide enough for a long patrol. Of the Cardassian beam weapons, it hits the softest.</Description>
   
 
 </ShipModule>

@@ -13,13 +13,13 @@
   <XSize>3</XSize>
   <YSize>8</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>power_drain_phasor_beam_4x4</Name>
+  <Name>Starfleet Heavy Phaser Drain Array</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/power_drain_phasor_beam_4x4</IconTexturePath>3
 
 
-  <NameIndex>18595</NameIndex>
+  <NameIndex>19066</NameIndex>
   <DescriptionIndex> 18596</DescriptionIndex>
 
 
@@ -35,7 +35,7 @@
   <FieldOfFire>90</FieldOfFire>
 
   <!-- Description -->
-  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  <Description>A heavy phaser lance tuned to overload a target's power grid rather than burn its hull. Of the Starfleet beam weapons, it fires the fastest and does the most to armour, but has the shortest reach.</Description>
   
 
 </ShipModule>

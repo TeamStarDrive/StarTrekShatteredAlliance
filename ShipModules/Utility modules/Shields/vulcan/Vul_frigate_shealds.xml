@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DroneModule>false</DroneModule>
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <FrigateModule>true</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>false</PlatformModule>
+  <StationModule>false</StationModule>
+  
+  
+  <Cost>80</Cost>
+
+  <!-- Tech Level Used by AI for Upgrading Ships -->
+  <TechLevel>4</TechLevel>
+  <RepairDifficulty>2</RepairDifficulty>
+
+  <!-- common traits shared by all ship modules -->
+  <ModuleType>Shield</ModuleType>
+  <XSize>2</XSize>
+  <YSize>2</YSize>
+  <Name>Vulcan Suurok Deflector Grid</Name>
+  <Restrictions>IO</Restrictions>
+  <UID>Vul_frigate_shealds</UID> 
+  <Version>2</Version>
+
+  <IconTexturePath>Modules/frigate_shealds</IconTexturePath>
+  <Mass>46</Mass>
+  <HealthMax>30100</HealthMax>
+  
+  <Description>The deflector grid of the Suurok-class, the Vulcan science ship. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build.</Description>
+  
+  
+  <PowerDraw>120</PowerDraw>
+
+  <NameIndex>30640</NameIndex>
+  <DescriptionIndex>30641</DescriptionIndex>
+
+  <!-- for shield items -->
+  <ShieldPowerMax>40000</ShieldPowerMax>
+  <ShieldRechargeDelay>13</ShieldRechargeDelay>
+  <ShieldRechargeRate>480.0</ShieldRechargeRate>
+  <ShieldRadius>175</ShieldRadius>
+  <ShieldRechargeCombatRate>370</ShieldRechargeCombatRate>
+  <ShieldEnergyResist>0.42</ShieldEnergyResist>
+  <ShieldBeamResist>0.45</ShieldBeamResist>
+  <ShieldKineticResist>-0.22</ShieldKineticResist>
+  <Deflection>100</Deflection>
+</ShipModule>

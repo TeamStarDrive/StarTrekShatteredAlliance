@@ -6,7 +6,7 @@
   <XSize>4</XSize>
   <YSize>4</YSize>
   <ModuleType>Storage</ModuleType>
-  <Name>LargeFabricator</Name>
+  <Name>Large Fabricators</Name>
   <Restrictions>I</Restrictions>
   <UID>LargeFabricator</UID> 
   <Version>2</Version>
@@ -15,14 +15,14 @@
   <IconTexturePath>Modules/LargeFabricator</IconTexturePath>
   <Mass>55</Mass>
   <HealthMax>11000</HealthMax>
-  <Description>.</Description>
+  <Description>Industrial fabricators that build ships and components faster.</Description>
   
   
   <PowerDraw>400</PowerDraw>
   <PowerDrawAtWarp>-100</PowerDrawAtWarp>
 
-  <NameIndex>2046</NameIndex>
-  <DescriptionIndex>2047</DescriptionIndex>
+  <NameIndex>19004</NameIndex>
+  <DescriptionIndex>19005</DescriptionIndex>
 
 
   <OrdnanceAddedPerSecond>28</OrdnanceAddedPerSecond>

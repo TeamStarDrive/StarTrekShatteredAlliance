@@ -19,7 +19,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>1</YSize>
-  <Name>Fighter_Shield</Name>
+  <Name>Fighter Shield</Name>
   <Restrictions>IO</Restrictions>
   <UID>Fighter_Shield</UID> 
   <Version>2</Version>
@@ -28,7 +28,7 @@
   <Mass>9</Mass>
   <HealthMax>500</HealthMax>
   
-  <Description>This shield has a decent sized protection radius but is only capable of taking a few hits. However it does have a quick recharge rate.</Description>
+  <Description>A fighter shield with a decent radius that can only take a few hits, but recharges quickly.</Description>
   
   
   <PowerDraw>20</PowerDraw>

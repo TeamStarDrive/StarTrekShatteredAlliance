@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>5</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>borg_torpedo_mk2</Name>
+  <Name>Borg Advanced Drain Missile</Name>
   <Restrictions>O</Restrictions>
   <UID>borg_torpedo_mk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/borg_torpedo_mk2</IconTexturePath>
   <Mass>132</Mass>
   <HealthMax>15500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>An improved drain missile, carrying the Collective's latest remodulation data. Of the Borg missile weapons, it fires the fastest and fires the largest salvos, but carries the least ordnance.</Description>
   
   
   <PowerDraw>5</PowerDraw>

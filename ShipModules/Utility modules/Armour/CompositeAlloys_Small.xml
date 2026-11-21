@@ -22,7 +22,7 @@
   <XSize>1</XSize>
   <YSize>1</YSize>
   <ModuleType>Armor</ModuleType>
-  <Name>CompositeAlloys Small</Name>
+  <Name>Composite Alloy Armour (Small)</Name>
   <Restrictions>O</Restrictions>
   <UID>CompositeAlloys_Small</UID> 
   <Version>2</Version>
@@ -31,8 +31,8 @@
   <IconTexturePath>Modules/CompositeAlloys Small</IconTexturePath>
 
 
-  <NameIndex>6571</NameIndex>
-  <DescriptionIndex>6585</DescriptionIndex>
+  <NameIndex>19126</NameIndex>
+  <DescriptionIndex>19127</DescriptionIndex>
 
 
   <!-- Mass and Health -->
@@ -48,7 +48,7 @@
   <ExplosiveResist>0.16</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Composite Alloys provides massive defence however the mass is also very "massive".</Description>
+  <Description>Layered alloys bonded into one plate: much stronger than steel for the same weight.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

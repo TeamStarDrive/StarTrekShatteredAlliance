@@ -12,7 +12,7 @@
   <XSize>3</XSize>
   <YSize>8</YSize>
   <ModuleType>MainGun</ModuleType>
-  <Name>Kling_DisruptorBeamMk2</Name>
+  <Name>Klingon K't'inga Disruptor Bank</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/Kling_DisruptorBeamMk2</IconTexturePath>3
@@ -34,7 +34,7 @@
   <FieldOfFire>15</FieldOfFire>
   <AccuracyPercent>0.68</AccuracyPercent>
   <!-- Description -->
-  <Description>This heavy-mount fusion beam has a fixed spinal facing and a 45 degree field of fire.</Description>
+  <Description>The disruptor banks of the K't'inga-class battlecruiser, which carries several along its hull. Of the Klingon beam weapons, it fires the fastest and is the cheapest for its size, but is the frailest for its size.</Description>
   
 
 </ShipModule>

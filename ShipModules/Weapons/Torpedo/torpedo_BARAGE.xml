@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>7</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>torpedo_BARAGE</Name>
+  <Name>Torpedo Barrage Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>torpedo_BARAGE</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/torpedo_BARAGE</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>44500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A launcher that fires a heavy salvo of torpedoes in one volley.</Description>
   
   
   <PowerDraw>5</PowerDraw>
@@ -27,8 +27,8 @@
   <ShieldRadius>0</ShieldRadius>
   <radius>0</radius>
 
-  <NameIndex>18683</NameIndex>
-  <DescriptionIndex>18684</DescriptionIndex>
+  <NameIndex>19102</NameIndex>
+  <DescriptionIndex>19103</DescriptionIndex>
 
   <!-- for PowerPlant Items -->
   

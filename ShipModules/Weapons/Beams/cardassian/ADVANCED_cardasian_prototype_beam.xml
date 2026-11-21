@@ -13,7 +13,7 @@
   <XSize>4</XSize>
   <YSize>4</YSize>
   <ModuleType>Turret</ModuleType>
-  <Name>Light Phasor Array</Name>
+  <Name>Cardassian Advanced Prototype Disruptor Array</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/ADVANCED_cardasian_prototype_beam</IconTexturePath>3
@@ -35,7 +35,7 @@
   <FieldOfFire>60</FieldOfFire>
 
   <!-- Description -->
-  <Description>Phasors are powerful and efficient directed energy weapons.</Description>
+  <Description>An experimental array that pushes the rapid nadion effect of Cardassian disruptors past its normal limit. Of the Cardassian beam weapons, it reaches the farthest and fires the fastest.</Description>
   
 
 </ShipModule>

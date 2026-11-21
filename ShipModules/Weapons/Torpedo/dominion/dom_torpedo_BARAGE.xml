@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>7</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>dom_torpedo_BARAGE</Name>
+  <Name>Dominion Swarm Torpedo Barrage</Name>
   <Restrictions>O</Restrictions>
   <UID>dom_torpedo_BARAGE</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/torpedo_BARAGE</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>44500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A launcher that throws a great many torpedoes at once, the way the fighters themselves arrive: all together. Of the Dominion torpedo weapons, it fires the fastest and fires the largest salvos.</Description>
   
   
   <PowerDraw>5</PowerDraw>
@@ -27,8 +27,8 @@
   <ShieldRadius>0</ShieldRadius>
   <radius>0</radius>
 
-  <NameIndex>18683</NameIndex>
-  <DescriptionIndex>18684</DescriptionIndex>
+  <NameIndex>19088</NameIndex>
+  <DescriptionIndex>19089</DescriptionIndex>
 
   <!-- for PowerPlant Items -->
   

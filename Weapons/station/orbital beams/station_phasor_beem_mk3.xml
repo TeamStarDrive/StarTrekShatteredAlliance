@@ -20,7 +20,6 @@
   <!-- Projectile Information -->
   <BeamTexture>beam_purple3</BeamTexture>
   <DamageAmount>2620</DamageAmount>
-  <EffectVsShield>7.8</EffectVsShield>
   <ShieldPenChance>0.2</ShieldPenChance>
   <BeamThickness>40</BeamThickness>
   <BeamPowerCostPerSecond>1924</BeamPowerCostPerSecond>
@@ -31,4 +30,5 @@
   <WeaponShieldHitEffect>Beam_Hit_Shield</WeaponShieldHitEffect>
   <WeaponDeathEffect></WeaponDeathEffect>
 
+  <EffectVsShields>7.8</EffectVsShields>
 </Weapon>

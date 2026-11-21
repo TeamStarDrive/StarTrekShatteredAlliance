@@ -12,7 +12,7 @@
   <XSize>6</XSize>
   <YSize>6</YSize>
   <ModuleType>MainGun</ModuleType>
-  <Name>borg_gravametric_distortion_beam</Name>
+  <Name>Borg Gravimetric Distortion Beam</Name>
   <Restrictions>O</Restrictions>
 
   <IconTexturePath>Modules/borg_gravametric_distortion_beam</IconTexturePath>3
@@ -33,7 +33,7 @@
   <WeaponType>borg_gravametric_distortion_beam</WeaponType>
   <FieldOfFire>360</FieldOfFire>
   <!-- Description -->
-  <Description>This heavy-mount fusion beam has a fixed spinal facing and a 45 degree field of fire.</Description>
+  <Description>A beam that distorts the gravity around its target until the hull tears itself apart. Of the Borg beam weapons, it hits the hardest and fires the fastest, but does the least to shields.</Description>
   
 
 </ShipModule>

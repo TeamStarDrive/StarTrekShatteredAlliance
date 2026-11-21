@@ -6,7 +6,7 @@
   <XSize>3</XSize>
   <YSize>7</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>borg_hevey_torp_mk2</Name>
+  <Name>Borg Cube Projectile Launcher</Name>
   <Restrictions>O</Restrictions>
   <UID>borg_hevey_torp_mk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/borg_hevey_torp_mk2</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>24500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>The projectile launcher of a Borg cube. Of the Borg missile weapons, it hits the hardest and reaches the farthest, but fires the slowest.</Description>
   
   
   <PowerDraw>5</PowerDraw>
@@ -27,7 +27,7 @@
   <ShieldRadius>0</ShieldRadius>
   <radius>0</radius>
 
-  <NameIndex>18379</NameIndex>
+  <NameIndex>19075</NameIndex>
   <DescriptionIndex>18380</DescriptionIndex>
 
   <!-- for PowerPlant Items -->

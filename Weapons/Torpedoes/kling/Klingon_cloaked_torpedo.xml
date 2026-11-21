@@ -21,7 +21,6 @@
 
 
   <UID>Klingon_cloaked_torpedo</UID>
-  <fireDelay>10</fireDelay>
   <Range>17000</Range>
   <PowerRequiredToFire>2600</PowerRequiredToFire>
   <OrdinanceRequiredToFire>400</OrdinanceRequiredToFire>
@@ -31,8 +30,6 @@
   <SalvoTimer>7</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
-  <fireCueName>sd_weapon_pulse_alt15_01</fireCueName>
-  <dieCue>sd_weapon_rocket_explode_01</dieCue>
   
   
   <!-- Projectile Information -->
@@ -58,4 +55,7 @@
   <WeaponType>Photon Torpedoes</WeaponType>
 
   <FireArc>180</FireArc>
+  <DieCue>sd_weapon_rocket_explode_01</DieCue>
+  <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
+  <FireDelay>10</FireDelay>
 </Weapon>

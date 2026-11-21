@@ -21,7 +21,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>2</YSize>
-  <Name>prototype_fighter_shealds</Name>
+  <Name>Prototype Fighter Shield</Name>
   <Restrictions>IO</Restrictions>
   <UID>prototype_fighter_shealds</UID> 
   <Version>2</Version>
@@ -30,13 +30,13 @@
   <Mass>10</Mass>
   <HealthMax>2800</HealthMax>
   
-  <Description>This shield has a decent sized protection radius but is only capable of taking a few hits. However it does have a quick recharge rate.</Description>
+  <Description>A prototype fighter shield: powerful, but experimental.</Description>
   
   
   <PowerDraw>40</PowerDraw>
 
-  <NameIndex>18540</NameIndex>
-  <DescriptionIndex>18541</DescriptionIndex>
+  <NameIndex>19036</NameIndex>
+  <DescriptionIndex>19198</DescriptionIndex>
 
   <!-- for shield items -->
   <ShieldPowerMax>13500</ShieldPowerMax>

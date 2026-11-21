@@ -9,14 +9,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>4</XSize>
   <YSize>4</YSize>
-  <Name>Fed_Hevey_PhaserCannon_3x3</Name>
+  <Name>Starfleet Heavy Phaser Cannon 3x3</Name>
   <Restrictions>O</Restrictions>
   <UID>Fed_Hevey_PhaserCannon_3x3</UID>
   <IconTexturePath>Modules/Fed_Hevey_PhaserCannon_3x3</IconTexturePath>
   <Mass>40</Mass>
   <HealthMax>15975</HealthMax>
-  <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
-  </Description>
+  <Description>The heavy cannon of the line, built for slow, hard-hitting pulses. Of the Starfleet cannon weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
   
   
   <PowerDraw>4</PowerDraw>

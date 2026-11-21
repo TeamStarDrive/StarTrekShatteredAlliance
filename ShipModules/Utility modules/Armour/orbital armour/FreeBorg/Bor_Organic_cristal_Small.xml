@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DroneModule>false</DroneModule>
+  <FighterModule>false</FighterModule>
+  <CorvetteModule>false</CorvetteModule>
+  <FrigateModule>false</FrigateModule>
+  <DestroyerModule>false</DestroyerModule>
+  <CruiserModule>false</CruiserModule>
+  <BattleshipModule>false</BattleshipModule>
+  <CapitalModule>false</CapitalModule>
+  <FreighterModule>false</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>
+  <Cost>5</Cost>
+  <DroneModule>true</DroneModule>
+  <FighterModule>true</FighterModule>
+  <CorvetteModule>true</CorvetteModule>
+  <FrigateModule>true</FrigateModule>
+  <DestroyerModule>true</DestroyerModule>
+  <CruiserModule>true</CruiserModule>
+  <BattleshipModule>true</BattleshipModule>
+  <CapitalModule>true</CapitalModule>
+  
+  <FreighterModule>true</FreighterModule>
+  <PlatformModule>true</PlatformModule>
+  <StationModule>true</StationModule>  
+  <!-- Tech Level -->
+  <TechLevel>5</TechLevel>
+  <TechBranch>Armor</TechBranch>
+
+  <!-- common traits shared by all ship modules -->
+  <XSize>1</XSize>
+  <YSize>1</YSize>
+  <ModuleType>Armor</ModuleType>
+  <Name>Borg Bio-Synthetic Crystal Plate (Small)</Name>
+  <Restrictions>O</Restrictions>
+  <UID>Bor_Organic_cristal_Small</UID> 
+  <Version>2</Version>
+
+  <TexturePath>Textures/transparent</TexturePath>
+  <IconTexturePath>Modules/Organic_cristal_Small</IconTexturePath>
+
+
+  <NameIndex>30334</NameIndex>
+  <DescriptionIndex>30335</DescriptionIndex>
+
+
+  <!-- Mass and Health -->
+  <Mass>3</Mass>
+  <HealthMax>20000</HealthMax>
+  <RepairDifficulty>1.5</RepairDifficulty>
+  <Deflection>0</Deflection>              
+  <!-- Armor resistance -->
+    <KineticResist>0.5</KineticResist>
+    <EnergyResist>0.5</EnergyResist>  
+    <BeamResist>0.5</BeamResist>
+    <ExplosiveResist>0.5</ExplosiveResist>      
+    <PlasmaResist>0.5</PlasmaResist>
+
+  <!-- Description -->
+  <Description>Crystal threaded with assimilated organic tissue, which the nanoprobes keep repairing from within. Strong protection against every kind of fire. Of the Borg orbital plates of its size, it is the lightest and the best protected against plasma, but the costliest to build.</Description>
+  <APResist>2</APResist>  
+
+</ShipModule>

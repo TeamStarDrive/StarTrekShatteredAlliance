@@ -6,7 +6,7 @@
   <XSize>2</XSize>
   <YSize>6</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>Fed_PhotonTorpedo_Mk2</Name>
+  <Name>Starfleet Photon Torpedo Launcher Mk2</Name>
   <Restrictions>O</Restrictions>
   <UID>Fed_PhotonTorpedo_Mk2</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Fed_PhotonTorpedo_Mk2</IconTexturePath>
   <Mass>232</Mass>
   <HealthMax>10500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A refit launcher with a better magnetic bottle and faster loading. Of the Starfleet torpedo weapons, it carries the least ordnance.</Description>
   
   
   <PowerDraw>5</PowerDraw>

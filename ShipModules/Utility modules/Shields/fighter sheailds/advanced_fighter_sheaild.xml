@@ -21,7 +21,7 @@
   <ModuleType>Shield</ModuleType>
   <XSize>1</XSize>
   <YSize>1</YSize>
-  <Name>advanced_fighter_sheaild</Name>
+  <Name>Advanced Fighter Shield</Name>
   <Restrictions>IO</Restrictions>
   <UID>advanced_fighter_sheaild</UID> 
   <Version>2</Version>
@@ -30,7 +30,7 @@
   <Mass>10</Mass>
   <HealthMax>1500</HealthMax>
   
-  <Description>This shield has a decent sized protection radius but is only capable of taking a few hits. However it does have a quick recharge rate.</Description>
+  <Description>An improved fighter shield with a decent radius that recharges quickly.</Description>
   
   
   <PowerDraw>30</PowerDraw>

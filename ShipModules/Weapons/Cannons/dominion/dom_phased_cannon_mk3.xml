@@ -9,14 +9,13 @@
   <ModuleType>Turret</ModuleType>
   <XSize>4</XSize>
   <YSize>4</YSize>
-  <Name>dom_phased_cannon_mk3</Name>
+  <Name>Dominion Siege Polaron Cannon</Name>
   <Restrictions>O</Restrictions>
   <UID>dom_phased_cannon_mk3</UID>
   <IconTexturePath>Modules/phased_cannon_mk3</IconTexturePath>
   <Mass>25</Mass>
   <HealthMax>26750</HealthMax>
-  <Description>Flak Turrets are mounted on omni-directional swivel platforms for a 90 degree field of fire.  They fire explosive shells with a moderate damaging radius, but the projectiles are somewhat slow and ill-suited for tracking swift targets.  Furthermore, this weapon requires ordnance to fire.
-  </Description>
+  <Description>A cannon for breaking the defences of a held position. Of the Dominion cannon weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
   
   
   <PowerDraw>7</PowerDraw>

@@ -6,7 +6,7 @@
   <XSize>1</XSize>
   <YSize>4</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>borg_torpedo</Name>
+  <Name>Borg Shield-Draining Missile</Name>
   <Restrictions>O</Restrictions>
   <UID>borg_torpedo</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/borg_torpedo</IconTexturePath>
   <Mass>90</Mass>
   <HealthMax>10500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>A missile used when the tractor beam cannot reach, built to drain a target's shields on a hit. Of the Borg missile weapons, it is the sturdiest for its size and has the fastest shots, but hits the softest.</Description>
   
   
   <PowerDraw>5</PowerDraw>

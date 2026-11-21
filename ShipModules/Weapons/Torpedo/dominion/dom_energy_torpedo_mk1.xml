@@ -6,7 +6,7 @@
   <XSize>1</XSize>
   <YSize>3</YSize>
   <ModuleType>MissileLauncher</ModuleType>
-  <Name>dom_energy_torpedo_mk1</Name>
+  <Name>Dominion Basic Energy Torpedo</Name>
   <Restrictions>O</Restrictions>
   <UID>dom_energy_torpedo_mk1</UID> 
   <Version>2</Version>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/energy_torpedo_mk1</IconTexturePath>
   <Mass>100</Mass>
   <HealthMax>10500</HealthMax>
-  <Description>This torpedo tube launches slow-moving but devastating torpedos packed to the hilt with explosives.  They require substantial ordnance to fire and can be intercepted by point defense weapons.</Description>
+  <Description>The basic torpedo of the Dominion's ships. Of the Dominion torpedo weapons, it is the sturdiest for its size, but hits the softest.</Description>
   
   
   <PowerDraw>5</PowerDraw>
@@ -27,8 +27,8 @@
   <ShieldRadius>0</ShieldRadius>
   <radius>0</radius>
 
-  <NameIndex>18673</NameIndex>
-  <DescriptionIndex>18674</DescriptionIndex>
+  <NameIndex>19080</NameIndex>
+  <DescriptionIndex>19081</DescriptionIndex>
 
   <!-- for PowerPlant Items -->
   

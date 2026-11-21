@@ -19,7 +19,6 @@
   
   <!-- Projectile Information -->
   <DamageAmount>36</DamageAmount>
-  <EffectVsShield>1.3</EffectVsShield>
   <BeamThickness>25</BeamThickness>
   <BeamPowerCostPerSecond>2024</BeamPowerCostPerSecond>
 
@@ -29,4 +28,5 @@
   <WeaponShieldHitEffect>Beam_Hit_Shield</WeaponShieldHitEffect>
   <WeaponDeathEffect></WeaponDeathEffect>
 
+  <EffectVsShields>1.3</EffectVsShields>
 </Weapon>
