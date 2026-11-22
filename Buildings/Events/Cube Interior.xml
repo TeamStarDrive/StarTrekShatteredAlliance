@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Cube Interior</Name>
+  <Icon>underhive</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Cube Interior</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40114</NameTranslationIndex>
+  <DescriptionIndex>40115</DescriptionIndex>
+  <ShortDescriptionIndex>40115</ShortDescriptionIndex>
+</Building>

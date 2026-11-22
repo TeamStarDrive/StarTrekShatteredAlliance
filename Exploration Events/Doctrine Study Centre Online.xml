@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Doctrine Study Centre Online</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>The College Finds the Supply</TitleText>
+      <DescriptionText>Staff officers compare the range logs with Dominion supply patterns and find a ketracel depot not far from the border.</DescriptionText>
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <ReplaceWith>Ketracel Depot</ReplaceWith>
+      <Image>Encounters/remn2.png</Image>
+      <ConfirmText>Mark the coordinates</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

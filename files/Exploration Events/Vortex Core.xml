@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Vortex Core</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>The Omega Arrives</TitleText>
+      <DescriptionText>At the heart of the scar the vortex has narrowed to a single, shaking point. Then a hull the size of a small moon edges through: a dark, ridged Earthforce Omega-class destroyer, drifting, its crew long gone. Our engineers re-lit its systems and sealed the rift behind it before it could pull the ship back. The vortex has collapsed, but the data it left behind may open the way to the last Earthforce and Shadow designs. The Omega is now ours, and Starfleet Command wants to know what else is out there.</DescriptionText>
+      <UnlockTech>legendery tech mk3</UnlockTech>
+      <MoneyGranted>500</MoneyGranted>
+      <ScienceBonus>0.05</ScienceBonus>
+      <GrantArtifact>true</GrantArtifact>
+      <FriendlyShipsToSpawn>
+        <string>omega 1</string>
+      </FriendlyShipsToSpawn>
+      <Image>Encounters/techevent1.png</Image>
+      <ConfirmText>Welcome aboard the Omega</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

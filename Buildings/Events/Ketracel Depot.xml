@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Ketracel Depot</Name>
+  <Icon>largewarehouse</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Ketracel Depot</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40138</NameTranslationIndex>
+  <DescriptionIndex>40139</DescriptionIndex>
+  <ShortDescriptionIndex>40139</ShortDescriptionIndex>
+</Building>

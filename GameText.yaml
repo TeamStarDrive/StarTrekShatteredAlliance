@@ -6418,3 +6418,393 @@ Rom_warpcore_6x6_Name:
 Rom_warpcore_6x6_Desc:
  Id: 30971
  ENG: "A power core built around an artificial quantum singularity, the Romulan way of feeding a warp field without a matter and antimatter reaction. Of the Romulan singularity cores, size for size, it produces the most power and is the lightest."
+BB_Tech_Chroniton_Detection_Name:
+ Id: 40000
+ ENG: "Chroniton Detection"
+BB_Tech_Chroniton_Detection_Desc:
+ Id: 40001
+ ENG: "Chroniton particles are the fingerprint of temporal disturbances. Tuned detectors can pick out a time vortex forming at the edge of explored space. Unlocks the Chroniton Observatory."
+BB_Building_Chroniton_Observatory_Name:
+ Id: 40010
+ ENG: "Chroniton Observatory"
+BB_Building_Chroniton_Observatory_Desc:
+ Id: 40011
+ ENG: "A deep-space array tuned to chroniton particles. Once it is built it scans for time vortices on the edge of explored space and marks the wreckage of anything that has come through one."
+BB_Building_Chroniton_Observatory_ShortDesc:
+ Id: 40012
+ ENG: "Detects temporal vortices and marks their wreckage on your map."
+BB_Building_Temporal_Debris_Field_Name:
+ Id: 40013
+ ENG: "Temporal Debris Field"
+BB_Building_Temporal_Debris_Field_Desc:
+ Id: 40014
+ ENG: "Wreckage left behind by a time vortex. Send troops to investigate."
+BB_Building_Temporal_Debris_Field_ShortDesc:
+ Id: 40015
+ ENG: "Wreckage from a time vortex. Send troops to investigate."
+BB_Building_Chronal_Rift_Scar_Name:
+ Id: 40016
+ ENG: "Chronal Rift Scar"
+BB_Building_Chronal_Rift_Scar_Desc:
+ Id: 40017
+ ENG: "A pocket of unstable time left where the vortex touched this world. Send troops to study it."
+BB_Building_Chronal_Rift_Scar_ShortDesc:
+ Id: 40018
+ ENG: "A pocket of unstable time. Send troops to study it."
+BB_Building_Vortex_Core_Name:
+ Id: 40019
+ ENG: "Vortex Core"
+BB_Building_Vortex_Core_Desc:
+ Id: 40020
+ ENG: "The narrowing heart of the time vortex. Something large is about to come through. Send troops."
+BB_Building_Vortex_Core_ShortDesc:
+ Id: 40021
+ ENG: "The heart of the vortex. Something is coming through."
+BB_Tech_legendery_tech_NameEcho:
+ Id: 40030
+ ENG: "Earthforce Fighter Salvage"
+BB_Tech_legendery_tech_DescEcho:
+ Id: 40031
+ ENG: "Flight data and hull sections of an Earth Alliance Starfury recovered from a time vortex. Unlocks the Starfury hull and a shield power bonus."
+BB_Tech_legendery_tech_mk2_NameEcho:
+ Id: 40032
+ ENG: "Omega-class Destroyer Schematics"
+BB_Tech_legendery_tech_mk2_DescEcho:
+ Id: 40033
+ ENG: "Schematics of the Earthforce Omega-class destroyer and combat data on a Shadow-technology fighter. Unlocks the Omega Destroyer and Shadow Fighter hulls and a shield power bonus."
+BB_Tech_legendery_tech_mk3_NameEcho:
+ Id: 40034
+ ENG: "Shadow and Excalibur Programme Data"
+BB_Tech_legendery_tech_mk3_DescEcho:
+ Id: 40035
+ ENG: "The last data from beyond the vortex. Unlocks the Shadow Scout and Excalibur hulls."
+ST_EVT_nz1_Name:
+ Id: 40100
+ ENG: "Neutral Zone Beacon"
+ST_EVT_nz1_Desc:
+ Id: 40101
+ ENG: "A Starfleet distress signal repeats from a dead world on the Romulan border. It could be a rescue, a trap or a smuggler's lure."
+ST_EVT_nz2_Name:
+ Id: 40102
+ ENG: "Defector Rendezvous"
+ST_EVT_nz2_Desc:
+ Id: 40103
+ ENG: "A Romulan officer has asked for a meeting on this world. He says he carries proof of a faction that wants war."
+ST_EVT_nz3_Name:
+ Id: 40104
+ ENG: "Neutral Zone Accord"
+ST_EVT_nz3_Desc:
+ Id: 40105
+ ENG: "The agreed meeting place is a quiet, bare plateau. The Romulans have promised to arrive. Whether they come in peace is another matter."
+ST_EVT_gof1_Name:
+ Id: 40106
+ ENG: "Time Portal"
+ST_EVT_gof1_Desc:
+ Id: 40107
+ ENG: "A stone ring hums in the ruins of a dead world. It shows pictures of times that never were."
+ST_EVT_gof2_Name:
+ Id: 40108
+ ENG: "Guardian Archive"
+ST_EVT_gof2_Desc:
+ Id: 40109
+ ENG: "The portal has opened a stack of recorded years. One of them is marked in a script the ship's translator does not know."
+ST_EVT_gof3_Name:
+ Id: 40110
+ ENG: "The Pivotal Moment"
+ST_EVT_gof3_Desc:
+ Id: 40111
+ ENG: "The Guardian speaks for the first time: a single question, and the question is about us."
+ST_EVT_cube1_Name:
+ Id: 40112
+ ENG: "Derelict Cube"
+ST_EVT_cube1_Desc:
+ Id: 40113
+ ENG: "A cold, dark Borg cube lies broken across a ridge. Nothing moves, but nothing has decayed either."
+ST_EVT_cube2_Name:
+ Id: 40114
+ ENG: "Cube Interior"
+ST_EVT_cube2_Desc:
+ Id: 40115
+ ENG: "Inside the wreck a dark hall stretches for kilometres. A few alcoves still glow green."
+ST_EVT_cube3_Name:
+ Id: 40116
+ ENG: "Transwarp Hub"
+ST_EVT_cube3_Desc:
+ Id: 40117
+ ENG: "At the core of the wreck, a half-formed transwarp conduit is still holding open. The cube was heading somewhere important."
+ST_EVT_gen1_Name:
+ Id: 40118
+ ENG: "Genesis Cache"
+ST_EVT_gen1_Desc:
+ Id: 40119
+ ENG: "A sealed vault of Federation terraforming hardware. The label on the door has been scratched out."
+ST_EVT_gen2_Name:
+ Id: 40120
+ ENG: "Matrix Calibration"
+ST_EVT_gen2_Desc:
+ Id: 40121
+ ENG: "The control crystals can be tuned. The settings are a matter of faith, calculation and caffeine."
+ST_EVT_gen3_Name:
+ Id: 40122
+ ENG: "Genesis Wave"
+ST_EVT_gen3_Desc:
+ Id: 40123
+ ENG: "The final stage. Set right, the wave will turn the planet into a paradise. Set wrong, it will turn it into something else."
+ST_EVT_trib1_Name:
+ Id: 40124
+ ENG: "Quadrotriticale Silo"
+ST_EVT_trib1_Desc:
+ Id: 40125
+ ENG: "A forgotten grain silo at the edge of a settled world. It is warm inside, and something is purring."
+ST_EVT_trib2_Name:
+ Id: 40126
+ ENG: "Tribble Infestation"
+ST_EVT_trib2_Desc:
+ Id: 40127
+ ENG: "There are now more tribbles than any census can count, and they have discovered the rest of the colony."
+ST_EVT_trib3_Name:
+ Id: 40128
+ ENG: "The Grain Treaty"
+ST_EVT_trib3_Desc:
+ Id: 40129
+ ENG: "A Klingon trade mission arrives to buy the surplus. They have heard the Federation grain is excellent and the pests are not."
+ST_EVT_orion1_Name:
+ Id: 40130
+ ENG: "Smuggler Cache"
+ST_EVT_orion1_Desc:
+ Id: 40131
+ ENG: "Stacks of sealed crates in a hollowed-out hill. No guards, no manifest and no fear."
+ST_EVT_orion2_Name:
+ Id: 40132
+ ENG: "Syndicate Safehouse"
+ST_EVT_orion2_Desc:
+ Id: 40133
+ ENG: "The ledger points to a hidden base with a large vault. It also points to a very angry manager."
+ST_EVT_orion3_Name:
+ Id: 40134
+ ENG: "The Corsair Flagship"
+ST_EVT_orion3_Desc:
+ Id: 40135
+ ENG: "The ring leader's personal ship is docked here, unfuelled. She is rumoured to be quick, fast and unlucky."
+ST_EVT_jem1_Name:
+ Id: 40136
+ ENG: "Jem'Hadar Training Ground"
+ST_EVT_jem1_Desc:
+ Id: 40137
+ ENG: "A dusty range with hundreds of identical targets and the faint smell of ketracel-white."
+ST_EVT_jem2_Name:
+ Id: 40138
+ ENG: "Ketracel Depot"
+ST_EVT_jem2_Desc:
+ Id: 40139
+ ENG: "A sealed warehouse of white vials. Without it, the Jem'Hadar cannot fight. With it, they cannot be bargained with."
+ST_EVT_jem3_Name:
+ Id: 40140
+ ENG: "The Founders' Message"
+ST_EVT_jem3_Desc:
+ Id: 40141
+ ENG: "A shape in the dark offers us the message it was sent to deliver. The Dominion wants an answer."
+ST_EVT_mirror1_Name:
+ Id: 40142
+ ENG: "Mirror Rift"
+ST_EVT_mirror1_Desc:
+ Id: 40143
+ ENG: "A tear in the sky, with faint lights on the other side. The ships are not ours."
+ST_EVT_mirror2_Name:
+ Id: 40144
+ ENG: "Terran Bridgehead"
+ST_EVT_mirror2_Desc:
+ Id: 40145
+ ENG: "The Terran Empire has established a beachhead on the other side. A small outpost sits right on top of the rift."
+ST_EVT_mirror3_Name:
+ Id: 40146
+ ENG: "The Mirror at the Rift"
+ST_EVT_mirror3_Desc:
+ Id: 40147
+ ENG: "The rift is closing, and it takes everything on our side with it. We can close it for good or keep it open one more hour."
+ST_EVT_sel1_Name:
+ Id: 40148
+ ENG: "Katric Archive"
+ST_EVT_sel1_Desc:
+ Id: 40149
+ ENG: "A mountain temple of carved stone, silent for a thousand years. The pilgrims say it remembers."
+ST_EVT_sel2_Name:
+ Id: 40150
+ ENG: "The Pilgrim's Path"
+ST_EVT_sel2_Desc:
+ Id: 40151
+ ENG: "Another pilgrimage. This time the priests ask us to carry one of their katras up the mountain."
+ST_EVT_sel3_Name:
+ Id: 40152
+ ENG: "Fal-tor-pan"
+ST_EVT_sel3_Desc:
+ Id: 40153
+ ENG: "The ritual of refusion: the one thing the priests have never done for outsiders."
+ST_EVT_praxis1_Name:
+ Id: 40154
+ ENG: "Praxis Wreckage"
+ST_EVT_praxis1_Desc:
+ Id: 40155
+ ENG: "Twisted metal in orbit with Klingon markings. A faint distress signal from the surface."
+ST_EVT_praxis2_Name:
+ Id: 40156
+ ENG: "Warrior's Camp"
+ST_EVT_praxis2_Desc:
+ Id: 40157
+ ENG: "A camp of survivors sits on a nearby ridge, cooking over a salvaged engine."
+ST_EVT_praxis3_Name:
+ Id: 40158
+ ENG: "Gorkon's Legacy"
+ST_EVT_praxis3_Desc:
+ Id: 40159
+ ENG: "A memorial of melted steel. Someone has left a battle fleet in orbit and no flag."
+ST_EVT_q1_Name:
+ Id: 40160
+ ENG: "Q's Doorstep"
+ST_EVT_q1_Desc:
+ Id: 40161
+ ENG: "A shimmering point in space, in orbit around nothing at all. It looks, rudely, like an invitation."
+ST_EVT_q2_Name:
+ Id: 40162
+ ENG: "Q's Trial"
+ST_EVT_q2_Desc:
+ Id: 40163
+ ENG: "Q has decided we are on trial. The court is a copy of a twentieth-century war tribunal and the crowd is all him."
+ST_EVT_q3_Name:
+ Id: 40164
+ ENG: "Merely a Mortal"
+ST_EVT_q3_Desc:
+ Id: 40165
+ ENG: "Q appears one last time and asks, politely, what we want."
+ST_EVT_nz_Tech_Name:
+ Id: 40166
+ ENG: "Neutral Zone Protocols"
+ST_EVT_nz_Tech_Desc:
+ Id: 40167
+ ENG: "Formal procedures for talking to the Romulan Star Empire without starting a war. Unlocks the Diplomatic Mission."
+ST_EVT_nz_Lab_Name:
+ Id: 40168
+ ENG: "Diplomatic Mission"
+ST_EVT_nz_Lab_Desc:
+ Id: 40169
+ ENG: "A staffed diplomatic office. When it opens, the Romulan defector's rendezvous is arranged."
+ST_EVT_gof_Tech_Name:
+ Id: 40170
+ ENG: "Temporal Mechanics Study"
+ST_EVT_gof_Tech_Desc:
+ Id: 40171
+ ENG: "A first rigorous look at how time can be read and modelled. Unlocks the Temporal Study Station."
+ST_EVT_gof_Lab_Name:
+ Id: 40172
+ ENG: "Temporal Study Station"
+ST_EVT_gof_Lab_Desc:
+ Id: 40173
+ ENG: "A research station tuned to chronal anomalies. When it is switched on it points at the next archive of the Guardian."
+ST_EVT_cube_Tech_Name:
+ Id: 40174
+ ENG: "Borg Technology Analysis"
+ST_EVT_cube_Tech_Desc:
+ Id: 40175
+ ENG: "Methods for safely reading Borg adaptive computing. Unlocks the Borg Analysis Lab."
+ST_EVT_cube_Lab_Name:
+ Id: 40176
+ ENG: "Borg Analysis Lab"
+ST_EVT_cube_Lab_Desc:
+ Id: 40177
+ ENG: "A hardened lab for studying recovered Borg hardware. Switching it on points us at the cube's interior."
+ST_EVT_gen_Tech_Name:
+ Id: 40178
+ ENG: "Genesis Matrix Theory"
+ST_EVT_gen_Tech_Desc:
+ Id: 40179
+ ENG: "Theory behind sub-atomic terraforming and why it is dangerous. Unlocks the Genesis Control Lab."
+ST_EVT_gen_Lab_Name:
+ Id: 40180
+ ENG: "Genesis Control Lab"
+ST_EVT_gen_Lab_Desc:
+ Id: 40181
+ ENG: "A shielded lab for tuning stored Genesis matrices. It finds the next stage of the project."
+ST_EVT_trib_Tech_Name:
+ Id: 40182
+ ENG: "Quadrotriticale Cultivation"
+ST_EVT_trib_Tech_Desc:
+ Id: 40183
+ ENG: "How to grow, store and protect the universe's fastest wheat. Unlocks the Grain Research Station."
+ST_EVT_trib_Lab_Name:
+ Id: 40184
+ ENG: "Grain Research Station"
+ST_EVT_trib_Lab_Desc:
+ Id: 40185
+ ENG: "An agricultural lab focused on a single grain. It tracks down the spread of the tribble problem."
+ST_EVT_orion_Tech_Name:
+ Id: 40186
+ ENG: "Smuggling Interdiction"
+ST_EVT_orion_Tech_Desc:
+ Id: 40187
+ ENG: "Methods for tracking illicit cargo across a border. Unlocks the Interdiction Office."
+ST_EVT_orion_Lab_Name:
+ Id: 40188
+ ENG: "Interdiction Office"
+ST_EVT_orion_Lab_Desc:
+ Id: 40189
+ ENG: "A small customs office. It traces the cache's ledger to a safehouse."
+ST_EVT_jem_Tech_Name:
+ Id: 40190
+ ENG: "Dominion Combat Doctrine"
+ST_EVT_jem_Tech_Desc:
+ Id: 40191
+ ENG: "A study of the Dominion's combat doctrine, built from the logs on the training range. Unlocks the Doctrine Study Centre."
+ST_EVT_jem_Lab_Name:
+ Id: 40192
+ ENG: "Doctrine Study Centre"
+ST_EVT_jem_Lab_Desc:
+ Id: 40193
+ ENG: "A war college for studying Dominion warfare. It finds the supply that feeds the Jem'Hadar."
+ST_EVT_mirror_Tech_Name:
+ Id: 40194
+ ENG: "Quantum Mirror Theory"
+ST_EVT_mirror_Tech_Desc:
+ Id: 40195
+ ENG: "Theory of parallel quantum realities. Unlocks the Rift Research Station."
+ST_EVT_mirror_Lab_Name:
+ Id: 40196
+ ENG: "Rift Research Station"
+ST_EVT_mirror_Lab_Desc:
+ Id: 40197
+ ENG: "A station for studying the rift. It opens a window onto the Terran side."
+ST_EVT_sel_Tech_Name:
+ Id: 40198
+ ENG: "Vulcan Philosophy"
+ST_EVT_sel_Tech_Desc:
+ Id: 40199
+ ENG: "A formal study of Vulcan philosophy and katra tradition. Unlocks the Katra Study Centre."
+ST_EVT_sel_Lab_Name:
+ Id: 40200
+ ENG: "Katra Study Centre"
+ST_EVT_sel_Lab_Desc:
+ Id: 40201
+ ENG: "A quiet centre for the study of katra records. It leads to the pilgrim's path."
+ST_EVT_praxis_Tech_Name:
+ Id: 40202
+ ENG: "Kitomer Salvage Techniques"
+ST_EVT_praxis_Tech_Desc:
+ Id: 40203
+ ENG: "How to safely recover hulls from old battlefields. Unlocks the Salvage Command."
+ST_EVT_praxis_Lab_Name:
+ Id: 40204
+ ENG: "Salvage Command"
+ST_EVT_praxis_Lab_Desc:
+ Id: 40205
+ ENG: "A salvage command post. It finds the survivors' camp."
+ST_EVT_q_Tech_Name:
+ Id: 40206
+ ENG: "Continuum Studies"
+ST_EVT_q_Tech_Desc:
+ Id: 40207
+ ENG: "Theory and etiquette for talking to beings who can edit reality. Unlocks the Continuum Observatory."
+ST_EVT_q_Lab_Name:
+ Id: 40208
+ ENG: "Continuum Observatory"
+ST_EVT_q_Lab_Desc:
+ Id: 40209
+ ENG: "An observatory aimed at nothing in particular. Q finds it flattering."

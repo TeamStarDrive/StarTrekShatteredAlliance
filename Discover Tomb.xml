@@ -1,0 +1,96 @@
+﻿<ExplorationEvent>
+  <Name>Discover Ancient Tomb</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>Ancient Curse</TitleText>
+      <DescriptionText>There is no life within miles. Close to the tomb there are signs of battle, old weapons and armour on the ground. Then skeletal guardians pour out of the tomb. Your platoon opens fire.</DescriptionText>
+       <TroopsToSpawn>
+        <string>Skeleton</string>
+        <string>Skeleton</string>
+      </TroopsToSpawn>     
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <SpawnBuildingOnPlanet>Mysterious Tomb</SpawnBuildingOnPlanet>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/1.png</Image>
+      <ConfirmText>Defend the line</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>Watch Your Step</TitleText>
+      <DescriptionText>Your team finds signs of old automated activity and an operational hangar bay. When they trip the security sensors the whole fleet launches and moves into orbit.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+        <string>Heavy Drone</string>
+        <string>Heavy Drone</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+      </RemnantShipsToSpawn>
+      <Image>Encounters/remn3.png</Image>
+      <ConfirmText>Oops</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Tomb Raiders</TitleText>
+      <DescriptionText>Inside are the remains of a long-dead civilisation. The artifacts and curiosities will sell very well to collectors.</DescriptionText>
+      <MoneyGranted>1200</MoneyGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/3.png</Image>
+      <ConfirmText>Where's our moral compass?</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Ancient Customs</TitleText>
+      <DescriptionText>The tomb is full of degraded materials. This civilisation buried its nobles with all their possessions. They won't mind if we find a use for the metal.</DescriptionText>
+      <ReplaceWith>Scrapyard</ReplaceWith>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/4.png</Image>
+      <ConfirmText>Nothing is sacred</ConfirmText>
+    </Outcome>
+   
+   <Outcome>
+      <Chance>25</Chance>
+      <TitleText>Ancient Burial</TitleText>
+      <DescriptionText>Inside the tomb are exotic minerals, formed from the remains of an ancient race with a unique molecular physiology.</DescriptionText>
+      <ReplaceWith>Exotic Minerals</ReplaceWith>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/5.png</Image>
+      <ConfirmText>Dig it up</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>8</Chance>
+      <TitleText>A Unique Technology</TitleText>
+      <DescriptionText>On an altar, a holo-chip holds schematics for an unknown technology. When it is removed the tomb starts to shake and sand fills the room, waking guardian constructs and an automated fleet.</DescriptionText>
+      <MoneyGranted>200</MoneyGranted>
+      <UnlockTech>Remnant Shielding</UnlockTech>       
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+        <string>Heavy Drone</string>
+        <string>Heavy Drone</string>
+          <string>Support Drone</string>
+          <string>Support Drone</string>
+          <string>Xeno Fighter</string>
+      </RemnantShipsToSpawn>       
+      <TroopsToSpawn>
+        <string>Skeleton</string>
+        <string>Skeleton</string>
+      </TroopsToSpawn>
+      <Image>Encounters/techevent2.png</Image>
+      <ConfirmText>We are trapped</ConfirmText>       
+    </Outcome>
+    <Outcome>
+      <Chance>6</Chance>
+      <TitleText>Secrets of the Ancients</TitleText>
+      <DescriptionText>The complex is very well preserved. It also seems that another starfaring species was here before us, and left its own survey notes. We gain 3% to science and an artifact.</DescriptionText>
+      <ScienceBonus>0.03</ScienceBonus>
+      <GrantArtifact>true</GrantArtifact>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/techevent1.png</Image>
+      <ConfirmText>Command will be pleased</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

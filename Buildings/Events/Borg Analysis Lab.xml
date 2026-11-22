@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Borg Analysis Lab</Name>
+  <Icon>Science_facility</Icon>
+
+  <Cost>500</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventOnBuild>Borg Analysis Lab Online</EventOnBuild>
+  <BuildOnlyOnce>true</BuildOnlyOnce>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40176</NameTranslationIndex>
+  <DescriptionIndex>40177</DescriptionIndex>
+  <ShortDescriptionIndex>40177</ShortDescriptionIndex>
+</Building>

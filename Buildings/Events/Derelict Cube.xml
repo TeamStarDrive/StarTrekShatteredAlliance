@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Derelict Cube</Name>
+  <Icon>crash</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Derelict Cube</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <EventSpawnChance>45</EventSpawnChance>
+
+  <NameTranslationIndex>40112</NameTranslationIndex>
+  <DescriptionIndex>40113</DescriptionIndex>
+  <ShortDescriptionIndex>40113</ShortDescriptionIndex>
+</Building>

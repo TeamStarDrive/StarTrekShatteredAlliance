@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Praxis Wreckage</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>Honoured Dead</TitleText>
+      <DescriptionText>Bat'leths lie among the wreckage and the survivors want to talk. They offer their swords to whoever respects their dead. Research Kitomer Salvage Techniques to follow this lead up.</DescriptionText>
+      <MoneyGranted>100</MoneyGranted>
+      <TroopsGranted>
+        <string>klingon</string>
+        <string>klingon</string>
+      </TroopsGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_28_Praxis_Wreckage.png</Image>
+      <ConfirmText>Honour them</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>Ghosts of Kitomer</TitleText>
+      <DescriptionText>The old battlefield is not quiet. Drones left by the last war activate as the team arrives, and they have not been told it has ended. Research Kitomer Salvage Techniques to follow this lead up.</DescriptionText>
+      <GrantArtifact>true</GrantArtifact>
+      <RemnantShipsToSpawn>
+        <string>Heavy Drone</string>
+        <string>Support Drone</string>
+      </RemnantShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_28_Praxis_Wreckage.png</Image>
+      <ConfirmText>Fight to the last</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

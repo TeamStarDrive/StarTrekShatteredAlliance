@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Rift Research Station</Name>
+  <Icon>research_station</Icon>
+
+  <Cost>500</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventOnBuild>Rift Research Station Online</EventOnBuild>
+  <BuildOnlyOnce>true</BuildOnlyOnce>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40196</NameTranslationIndex>
+  <DescriptionIndex>40197</DescriptionIndex>
+  <ShortDescriptionIndex>40197</ShortDescriptionIndex>
+</Building>

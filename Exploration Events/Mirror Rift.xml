@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Mirror Rift</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>40</Chance>
+      <TitleText>A Familiar Ship</TitleText>
+      <DescriptionText>A Defiant-class vessel in Terran Empire grey slides out of the rift with its running lights off. Its crew assume we are the ones who are wrong, and we agree not to argue. Research Quantum Mirror Theory to follow this lead up.</DescriptionText>
+      <ScienceBonus>0.02</ScienceBonus>
+      <FriendlyShipsToSpawn>
+        <string>Defiant mk5</string>
+      </FriendlyShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_22_Mirror_Rift.png</Image>
+      <ConfirmText>Welcome her crew</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>40</Chance>
+      <TitleText>The Terran Empire Responds</TitleText>
+      <DescriptionText>The rift widens and ISS cruisers come through, weapons hot. They have a long memory for a Federation that never existed on their side.</DescriptionText>
+      <PirateShipsToSpawn>
+        <string>Excelsior Class mk4</string>
+        <string>Excelsior Class mk4</string>
+        <string>Defiant mk4b</string>
+      </PirateShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Mirror Rift</ReplaceWith>
+      <Image>Encounters/st_22_Mirror_Rift.png</Image>
+      <ConfirmText>Raise shields</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>A Cracked Mirror</TitleText>
+      <DescriptionText>The rift stays closed. Instead, a tangle of impossible geometry hangs over the site and teaches us more about subspace than a decade of research. Research Quantum Mirror Theory to follow this lead up.</DescriptionText>
+      <ScienceBonus>0.05</ScienceBonus>
+      <GrantArtifact>true</GrantArtifact>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_22_Mirror_Rift.png</Image>
+      <ConfirmText>Document it</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

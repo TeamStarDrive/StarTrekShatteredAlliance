@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Dominion Combat Doctrine</UID>
+  <TechnologyType>General</TechnologyType>
+  <Cost>1500</Cost>
+  <NameIndex>40190</NameIndex>
+  <DescriptionIndex>40191</DescriptionIndex>
+  <LeadsTo />
+  <ModulesUnlocked />
+  <BuildingsUnlocked>
+    <UnlockedBuilding>
+      <Name>Doctrine Study Centre</Name>
+    </UnlockedBuilding>
+  </BuildingsUnlocked>
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

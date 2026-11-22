@@ -1,0 +1,141 @@
+﻿<ExplorationEvent>
+  <Name>Discover pillar</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>10</Chance>
+      <TitleText>Unknown Defenders</TitleText>
+      <DescriptionText>Before reaching the pillar, your team spots an automated fleet in orbit. The pillar sinks into the ground, leaving a deep hole behind.</DescriptionText>
+       <RemnantShipsToSpawn>
+          <string>Heavy Drone</string>
+          <string>Heavy Drone</string>          
+          <string>Support Drone</string>          
+          <string>Support Drone</string>
+          <string>Support Drone</string>
+          <string>Support Drone</string>
+      </RemnantShipsToSpawn>           
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/remn1.png</Image>
+      <ConfirmText>What was that?</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>8</Chance>
+      <TitleText>Scientific Discovery</TitleText>
+      <DescriptionText>Deep in the pillar is an active power core. As the team activates it, a beam engulfs one soldier and downloads enormous amounts of information into his mind. The core then burns out. Your empire gains a 5% bonus to all scientific effort and an artifact.</DescriptionText>
+      <ScienceBonus>0.05</ScienceBonus>
+      <GrantArtifact>true</GrantArtifact>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/techevent1.png</Image>
+      <ConfirmText>Rapid evolution</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>10</Chance>
+      <TitleText>The Wave</TitleText>
+      <DescriptionText>The ground around the pillar is barren. A rising tone comes from it and grows unbearable. Then the pillar disintegrates and a lethal radiation wave sweeps the planet. Planet scans changed: -1.5 Fertility (temporarily).</DescriptionText>
+      <ChangeBaseFertility>-1.5</ChangeBaseFertility>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/3.png</Image>
+      <ConfirmText>Run</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>Shattering</TitleText>
+      <DescriptionText>As the team nears the pillar, it shakes and falls apart in a pile of rubble and strange crystals.</DescriptionText>
+      <ReplaceWith>Thought Crystal</ReplaceWith>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/4.png</Image>
+      <ConfirmText>More delicate than we thought</ConfirmText>
+     </Outcome>
+
+     <Outcome>
+      <Chance>15</Chance>
+      <TitleText>Exotic Materials</TitleText>
+      <DescriptionText>The pillar is made from rare minerals. Engineers place charges and reduce it to a pile of usable ore.</DescriptionText>
+      <ReplaceWith>Exotic Minerals</ReplaceWith>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/5.png</Image>
+      <ConfirmText>Useful material</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>5</Chance>
+      <TitleText>A Unique Technology</TitleText>
+      <DescriptionText>The pillar holds a data core of unknown schematics. When it is pulled, the pillar shakes and crumbles, waking guardian constructs on the ground and an automated fleet overhead.</DescriptionText>
+      <MoneyGranted>500</MoneyGranted>
+      <UnlockTech>Slip Streams</UnlockTech>       
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+          <string>Heavy Drone</string>
+          <string>Heavy Drone</string>          
+          <string>Xeno Fighter</string>
+          <string>Xeno Fighter</string>
+      </RemnantShipsToSpawn>       
+      <TroopsToSpawn>
+        <string>Skeleton</string>
+        <string>Skeleton</string>
+        <string>Skeleton</string>
+      </TroopsToSpawn>
+      <Image>Encounters/remn3.png</Image>
+      <ConfirmText>Blast them</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>5</Chance>
+      <TitleText>That's No Moon</TitleText>
+      <DescriptionText>A deafening hum shakes the ground and a beam of light shoots into the sky: one of your soldiers has hit a switch that reveals a Nausicaan raider station in orbit. He also grabs a rare artifact and runs.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <GrantArtifact>true</GrantArtifact>
+      <PirateShipsToSpawn>
+        <string>Draug Station-Mk2</string>
+        <string>Draug-Slaver-Mk2</string>
+        <string>Draug-Slaver-Mk2</string>
+        <string>Draug-Mk2</string>
+        <string>Draug-Mk2</string>
+        <string>Draug-Fighter-Mk2</string>          
+        <string>Draug-Fighter-Mk2</string>          
+        <string>Draug-Fighter-Mk2</string>          
+        <string>Draug-Fighter-Mk2</string>          
+        <string>Draug-Fighter-Mk2</string>          
+      </PirateShipsToSpawn>
+       <Image>Encounters/pirates3.png</Image>
+       <ConfirmText>Oh no</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>5</Chance>
+      <TitleText>Intervention</TitleText>
+      <DescriptionText>Your team finds equipment and a large power generator: they are not the first here. When an engineer switches the generator on, it alerts its owners and a small automated fleet arrives in orbit.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+        <string>Heavy Drone</string>
+        <string>Heavy Drone</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Ancient Frigate</string>
+       </RemnantShipsToSpawn>
+       <Image>Encounters/remn1.png</Image>
+       <ConfirmText>Take cover</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+     <Chance>20</Chance>
+      <TitleText>Minor Shock</TitleText>
+      <DescriptionText>Lightning strikes the pillar and it stores the energy. As your team studies its markings, they accidentally release it into the core of the planet. The pillar is destroyed, and the core restarts its production of rare elements. Planet scans changed: +0.6 Richness.</DescriptionText>
+      <ChangeRichness>0.6</ChangeRichness>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/3.png</Image>
+      <ConfirmText>What a shock</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+     <Chance>15</Chance>
+      <TitleText>Major Shock</TitleText>
+      <DescriptionText>Lightning strikes the pillar and it stores the energy. As your team studies its markings, they accidentally release it into the core of the planet. The pillar is destroyed, and the core is flooded with rare elements. Planet scans changed: +0.8 Richness.</DescriptionText>
+      <ChangeRichness>0.8</ChangeRichness>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/4.png</Image>
+      <ConfirmText>Don't stick around</ConfirmText>
+    </Outcome>
+    
+  </PotentialOutcomes>
+</ExplorationEvent>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Rift Research Station Online</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>The Station Sees the Other Side</TitleText>
+      <DescriptionText>The station's instruments resolve a Terran outpost sitting on the far side of the rift. A signal comes through. It is addressed to us, by name.</DescriptionText>
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <ReplaceWith>Terran Bridgehead</ReplaceWith>
+      <Image>Encounters/CrashedShip.png</Image>
+      <ConfirmText>Mark the coordinates</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

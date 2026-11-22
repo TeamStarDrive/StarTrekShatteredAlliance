@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Fal-tor-pan</Name>
+  <Icon>Altar</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Fal-tor-pan</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40152</NameTranslationIndex>
+  <DescriptionIndex>40153</DescriptionIndex>
+  <ShortDescriptionIndex>40153</ShortDescriptionIndex>
+</Building>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Doctrine Study Centre</Name>
+  <Icon>military_outpost</Icon>
+
+  <Cost>400</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventOnBuild>Doctrine Study Centre Online</EventOnBuild>
+  <BuildOnlyOnce>true</BuildOnlyOnce>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40192</NameTranslationIndex>
+  <DescriptionIndex>40193</DescriptionIndex>
+  <ShortDescriptionIndex>40193</ShortDescriptionIndex>
+</Building>

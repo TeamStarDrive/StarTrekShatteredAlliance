@@ -10,6 +10,9 @@
     <LeadsToTech>
       <UID>IS Government</UID>
     </LeadsToTech>
+    <LeadsToTech>
+      <UID>Smuggling Interdiction</UID>
+    </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked />
   <BuildingsUnlocked>

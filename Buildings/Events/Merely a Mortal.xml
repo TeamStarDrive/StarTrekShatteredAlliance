@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Merely a Mortal</Name>
+  <Icon>Orb</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Merely a Mortal</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40164</NameTranslationIndex>
+  <DescriptionIndex>40165</DescriptionIndex>
+  <ShortDescriptionIndex>40165</ShortDescriptionIndex>
+</Building>

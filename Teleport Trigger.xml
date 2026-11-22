@@ -1,0 +1,107 @@
+<ExplorationEvent>
+  <Name>Teleport Trigger</Name>
+  <PotentialOutcomes>
+
+    <Outcome>
+      <Chance>10</Chance>
+      <TitleText>Collapse</TitleText>
+      <DescriptionText>The ring is dormant and damaged. Your team powers it up. It starts to vibrate and then it collapses, taking part of the planet with it. Planet scans changed: -1 Fertility, some tiles lost.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ChangeBaseFertility>-1</ChangeBaseFertility>
+      <NumTilesToMakeUnhabitable>5</NumTilesToMakeUnhabitable>
+      <Image>Encounters/1.png</Image>
+      <ConfirmText>We got it wrong</ConfirmText>
+    </Outcome>
+
+     <Outcome>
+      <Chance>25</Chance>
+      <TitleText>Pests</TitleText>
+      <DescriptionText>The ring is dormant and damaged. Your team powers it up and a wormhole opens. Burrowing predators come through. The ring is now a source of exotic minerals.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Exotic Minerals</ReplaceWith>
+      <TroopsToSpawn>
+        <string>Antlion</string>
+        <string>Antlion</string>
+          <string>Antlion</string>
+      </TroopsToSpawn>      
+      <Image>Encounters/2.png</Image>
+      <ConfirmText>It could have been worse</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>7</Chance>
+      <TitleText>Unwanted Attention</TitleText>
+      <DescriptionText>The ring is in remarkable condition. Your team powers it up and a wormhole opens, and the gate draws an automated fleet. Planet scans changed: -0.5 Fertility and -0.8 Max Fertility, some tiles lost.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <NumTilesToMakeUnhabitable>3</NumTilesToMakeUnhabitable>
+      <ChangeBaseFertility>-0.5</ChangeBaseFertility>
+      <ChangeBaseMaxFertility>-0.8</ChangeBaseMaxFertility>
+      <RemnantShipsToSpawn>
+        <string>Heavy Drone</string>
+        <string>Heavy Drone</string>
+        <string>Heavy Drone</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Light Ancient Bomber</string>
+        <string>Light Ancient Bomber</string>
+        <string>Ancient Frigate</string>
+       </RemnantShipsToSpawn>
+       <Image>Encounters/remn4.png</Image>
+       <ConfirmText>Take cover</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>Just in Time</TitleText>
+      <DescriptionText>The ring is in remarkable condition. Your team powers it up and a wormhole opens. An automated fleet comes through right behind.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Teleport</ReplaceWith>
+      <RemnantShipsToSpawn>
+        <string>Heavy Drone</string>
+        <string>Heavy Drone</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Light Ancient Bomber</string>
+        <string>Light Ancient Bomber</string>
+       </RemnantShipsToSpawn>
+       <Image>Encounters/remn2.png</Image>
+       <ConfirmText>What now</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>35</Chance>
+      <TitleText>Hirogen</TitleText>
+      <DescriptionText>The ring is in remarkable condition. Your team powers it up and a wormhole opens. A party of Hirogen hunters comes through. They were not invited, but the gate is working.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Teleport</ReplaceWith>
+      <TroopsToSpawn>>
+        <string>Wyvern</string>
+        <string>Wyvern</string>
+      </TroopsToSpawn>      
+      <Image>Encounters/5.png</Image>
+      <ConfirmText>I wonder where they came from</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>7</Chance>
+      <TitleText>Grey Goo</TitleText>
+      <DescriptionText>The ring is in remarkable condition. Your team powers it up and a wormhole opens. Out of it flows a living mass of nanites. It consumes much of the planet before it settles. Planet scans changed: -2 Max Fertility.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+       <ReplaceWith>GreyGoo</ReplaceWith>
+      <ChangeBaseMaxFertility>-2</ChangeBaseMaxFertility>
+      <Image>Encounters/6.png</Image>
+      <ConfirmText>Eww, it's slimy</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>7</Chance>
+      <TitleText>Grey Goo</TitleText>
+      <DescriptionText>The ring is in remarkable condition. Your team powers it up and a wormhole opens. Out of it flows a living mass of nanites. Our scientists contain it and study it. We gain a 4% bonus to research.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+       <ReplaceWith>Teleport</ReplaceWith>
+      <ScienceBonus>0.04</ScienceBonus>
+      <Image>Encounters/1.png</Image>
+      <ConfirmText>Nice save</ConfirmText>
+    </Outcome>
+
+  </PotentialOutcomes>
+ </ExplorationEvent>

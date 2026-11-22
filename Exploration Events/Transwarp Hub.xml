@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Transwarp Hub</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>We Hold the Hub</TitleText>
+      <DescriptionText>The conduit is stabilised and then shut down. We keep the coil, the coordinates and an entire library of Borg adaptive computing.</DescriptionText>
+      <UnlockTech>Remnant Computing</UnlockTech>
+      <MoneyGranted>500</MoneyGranted>
+      <ScienceBonus>0.06</ScienceBonus>
+      <GrantArtifact>true</GrantArtifact>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_09_Transwarp_Hub.png</Image>
+      <ConfirmText>Shut it down</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>The Cube Comes Home</TitleText>
+      <DescriptionText>Before we can shut it down a Borg sphere emerges from the conduit. We win, barely, and the coil survives the fight.</DescriptionText>
+      <UnlockTech>Remnant Computing</UnlockTech>
+      <MoneyGranted>350</MoneyGranted>
+      <ScienceBonus>0.04</ScienceBonus>
+      <GrantArtifact>true</GrantArtifact>
+      <PirateShipsToSpawn>
+        <string>BORG Sphere MK3</string>
+      </PirateShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_09_Transwarp_Hub.png</Image>
+      <ConfirmText>Open fire</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

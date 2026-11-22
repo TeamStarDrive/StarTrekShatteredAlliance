@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>The Pivotal Moment</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>We Do Nothing</TitleText>
+      <DescriptionText>We answer that history should be left alone. The Guardian accepts and, as a gift, shows how to bend subspace without breaking time.</DescriptionText>
+      <UnlockTech>Slip Streams</UnlockTech>
+      <MoneyGranted>300</MoneyGranted>
+      <ScienceBonus>0.05</ScienceBonus>
+      <GrantArtifact>true</GrantArtifact>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_06_The_Pivotal_Moment.png</Image>
+      <ConfirmText>Leave history be</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>We Take Notes</TitleText>
+      <DescriptionText>We ask to be shown just one thing and the Guardian obliges. It is a long ride, but when it ends we know a little more about how the universe fits together.</DescriptionText>
+      <UnlockTech>Slip Streams</UnlockTech>
+      <ScienceBonus>0.08</ScienceBonus>
+      <NumTilesToMakeHabitable>2</NumTilesToMakeHabitable>
+      <ChangeBaseFertility>0.2</ChangeBaseFertility>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_06_The_Pivotal_Moment.png</Image>
+      <ConfirmText>Ask to see more</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

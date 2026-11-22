@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Genesis Cache</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>60</Chance>
+      <TitleText>Life From Nothing</TitleText>
+      <DescriptionText>The cache holds a stable matrix. Our terraformers seed it in a single afternoon, and by evening the dead rock below has its first rivers. The rest of the cache is a ring of control crystals we do not understand yet. Research Genesis Matrix Theory to follow this lead up.</DescriptionText>
+      <NumTilesToMakeHabitable>2</NumTilesToMakeHabitable>
+      <ChangeBaseFertility>0.3</ChangeBaseFertility>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_10_Genesis_Cache.png</Image>
+      <ConfirmText>Watch the dawn</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>40</Chance>
+      <TitleText>Unstable Matrix</TitleText>
+      <DescriptionText>The matrix runs hot and the planet convulses. Half the surface becomes unusable, but the upheaval pushes rare minerals up to where the miners can reach them. The control crystals survive. Research Genesis Matrix Theory to follow this lead up.</DescriptionText>
+      <NumTilesToMakeUnhabitable>3</NumTilesToMakeUnhabitable>
+      <ChangeBaseMaxFertility>-0.2</ChangeBaseMaxFertility>
+      <ChangeRichness>0.4</ChangeRichness>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_10_Genesis_Cache.png</Image>
+      <ConfirmText>Send the miners</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

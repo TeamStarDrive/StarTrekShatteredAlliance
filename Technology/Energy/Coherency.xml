@@ -7,7 +7,11 @@
   <MaxLevel>15</MaxLevel>
   <NameIndex>17636</NameIndex>
   <DescriptionIndex>17637</DescriptionIndex>
-  <LeadsTo />
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>Continuum Studies</UID>
+    </LeadsToTech>
+  </LeadsTo>
   <ModulesUnlocked />
   <BuildingsUnlocked />
   <BonusUnlocked>

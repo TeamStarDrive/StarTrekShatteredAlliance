@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Neutral Zone Beacon</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>A Ship in Need</TitleText>
+      <DescriptionText>A Miranda-class science vessel, adrift for three weeks, answers our hail. Her crew are alive and grateful. Before the tow ships arrive her captain passes us a coded rendezvous: a Romulan officer wants to talk. Research Neutral Zone Protocols to follow this lead up.</DescriptionText>
+      <MoneyGranted>200</MoneyGranted>
+      <ScienceBonus>0.02</ScienceBonus>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_01_Neutral_Zone_Beacon.png</Image>
+      <ConfirmText>Tow her home</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>30</Chance>
+      <TitleText>It Was a Trap</TitleText>
+      <DescriptionText>The distress signal was a lure. Romulan warbirds decloak around the beacon and the neutral zone is suddenly very narrow. The beacon is still transmitting, so we can try again once they are dealt with.</DescriptionText>
+      <PirateShipsToSpawn>
+        <string>V11Stormbird mk4</string>
+        <string>DDeridex warbird mk1</string>
+        <string>DDeridex warbird mk1</string>
+      </PirateShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Neutral Zone Beacon</ReplaceWith>
+      <Image>Encounters/st_01_Neutral_Zone_Beacon.png</Image>
+      <ConfirmText>Raise shields</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Smugglers' Bait</TitleText>
+      <DescriptionText>The beacon belongs to an Orion Syndicate crew who have been working this lane for months. They sell us the real rendezvous coordinates to avoid a fight, then try to take them back. Research Neutral Zone Protocols to follow this lead up.</DescriptionText>
+      <MoneyGranted>100</MoneyGranted>
+      <PirateShipsToSpawn>
+        <string>Corsair-Mk3</string>
+        <string>Corsair-Mk2</string>
+      </PirateShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_01_Neutral_Zone_Beacon.png</Image>
+      <ConfirmText>Hail them anyway</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

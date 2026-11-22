@@ -1,0 +1,125 @@
+﻿<ExplorationEvent>
+  <Name>Discover Crashed Ship</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>10</Chance>
+      <TitleText>Unknown Defenders</TitleText>
+      <DescriptionText>Before they reach the ship, your troops are attacked by guardian constructs and fall back. The ship takes off and leaves the system.</DescriptionText>
+       <TroopsToSpawn>
+        <string>Skeleton</string>
+        <string>Skeleton</string>
+        <string>Skeleton</string>
+      </TroopsToSpawn>     
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/remn5.png</Image>
+      <ConfirmText>What is dead should stay dead</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>6</Chance>
+      <TitleText>Unique Technology and Great Peril</TitleText>
+      <DescriptionText>Aboard the ship your team finds a data core. When it is pulled, the ship's security protocols wake a dormant Iconian sentinel in orbit.</DescriptionText>
+      <MoneyGranted>500</MoneyGranted>
+      <UnlockTech>RemnantNuker</UnlockTech>       
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+          <string>Remnant Inhibitor</string>
+      </RemnantShipsToSpawn>       
+      <TroopsToSpawn>
+      </TroopsToSpawn>      
+      <Image>Encounters/techevent2.png</Image> 
+      <ConfirmText>This could have gone worse</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>8</Chance>
+      <TitleText>A Unique Technology</TitleText>
+      <DescriptionText>Aboard the ship your team finds a data core. When it is pulled, ship security protocols alert dormant defence craft.</DescriptionText>
+      <MoneyGranted>500</MoneyGranted>
+      <UnlockTech>Remnant Studies</UnlockTech>       
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+          <string>Heavy Drone</string>
+          <string>Xeno Fighter</string>
+          <string>Xeno Fighter</string>
+          <string>Xeno Fighter</string>
+      </RemnantShipsToSpawn>       
+      <TroopsToSpawn>
+      </TroopsToSpawn>       
+      <Image>Encounters/remn2.png</Image>
+      <ConfirmText>Let's study it</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>10</Chance>
+      <TitleText>Red Alert</TitleText>
+      <DescriptionText>The ship's computers come online and a clumsy ensign trips the alarm. Your team salvages the control system, which is worth plenty on the black market, but a squadron of automated craft jumps into orbit.</DescriptionText>
+      <MoneyGranted>500</MoneyGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Heavy Drone</string>
+        <string>Heavy Drone</string>
+      </RemnantShipsToSpawn>
+      <Image>Encounters/remn1.png</Image>
+      <ConfirmText>Retreat</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>30</Chance>
+      <TitleText>A Sad Wreck</TitleText>
+      <DescriptionText>The wreck is old, very old. Time has taken its toll, but your team recovers several curiosities that will sell well.</DescriptionText>
+      <MoneyGranted>250</MoneyGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/CrashedShip.png</Image>
+      <ConfirmText>Profit</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>Excellent Find</TitleText>
+      <DescriptionText>What looked like a wreck is a fully intact alien frigate, ready to fly. The cargo hold also holds a strange artifact.</DescriptionText>
+      <FriendlyShipsToSpawn>
+          <string>Heavy Drone</string>
+          <string>Heavy Drone</string>
+          <string>Support Drone</string>
+      </FriendlyShipsToSpawn>
+      <GrantArtifact>true</GrantArtifact>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/remn4.png</Image>
+      <ConfirmText>Test the engines</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>8</Chance>
+      <TitleText>Unstable</TitleText>
+      <DescriptionText>The wreck's reactor is leaking antimatter and it is about to blow. The team runs for the shuttles. The explosion destroys part of the planet's surface.</DescriptionText>
+      <NumTilesToMakeUnhabitable>3</NumTilesToMakeUnhabitable>
+      <ChangeBaseFertility>-0.6</ChangeBaseFertility>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/CrashedShip.png</Image>
+      <ConfirmText>What a disaster</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Precious Cargo</TitleText>
+      <DescriptionText>The wreck's reactor still powers a storage unit. Inside is a very rare seed that was being carried to a new home.</DescriptionText>
+      <ReplaceWith>WorldSeed</ReplaceWith>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/CrashedShip2.png</Image>
+      <ConfirmText>Don't eat it</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>2</Chance>
+      <TitleText>Warp Speed Ahead</TitleText>
+      <DescriptionText>Your team finds the wreck of a small craft that crashed long ago. It is far too small for a starship, and it has wheels. Whoever built it appears to have broken the warp barrier on a very small budget.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/CrashedShip.png</Image>
+      <ConfirmText>Warp speed on a budget</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

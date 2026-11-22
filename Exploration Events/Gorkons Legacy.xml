@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Gorkons Legacy</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>60</Chance>
+      <TitleText>A Fleet Given</TitleText>
+      <DescriptionText>The Klingon Council sends a squadron to honour the memorial. They are yours to command, and the engineers have already found the armour research left behind.</DescriptionText>
+      <UnlockTech>Armor Piercing</UnlockTech>
+      <MoneyGranted>400</MoneyGranted>
+      <FriendlyShipsToSpawn>
+        <string>Vorcha Class mk4</string>
+        <string>BirdOfDeath mk4</string>
+        <string>BirdOfDeath mk4</string>
+      </FriendlyShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_30_Gorkons_Legacy.png</Image>
+      <ConfirmText>Receive the squadron</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>40</Chance>
+      <TitleText>A Quiet Peace</TitleText>
+      <DescriptionText>The squadron stays with the memorial. We take the armour research and leave a garrison.</DescriptionText>
+      <UnlockTech>Armor Piercing</UnlockTech>
+      <MoneyGranted>300</MoneyGranted>
+      <ScienceBonus>0.04</ScienceBonus>
+      <TroopsGranted>
+        <string>klingon</string>
+        <string>klingon</string>
+        <string>klingon</string>
+      </TroopsGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_30_Gorkons_Legacy.png</Image>
+      <ConfirmText>Take the research</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

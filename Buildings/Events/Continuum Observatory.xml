@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Continuum Observatory</Name>
+  <Icon>ancient_array</Icon>
+
+  <Cost>700</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventOnBuild>Continuum Observatory Online</EventOnBuild>
+  <BuildOnlyOnce>true</BuildOnlyOnce>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40208</NameTranslationIndex>
+  <DescriptionIndex>40209</DescriptionIndex>
+  <ShortDescriptionIndex>40209</ShortDescriptionIndex>
+</Building>

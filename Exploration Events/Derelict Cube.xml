@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Derelict Cube</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>Clean Salvage</TitleText>
+      <DescriptionText>The cube is cold and dark. Our engineers cut into the hull and bring out transwarp coils, adaptive armour plating and a data core that is still, impossibly, thinking. Research Borg Technology Analysis to follow this lead up.</DescriptionText>
+      <MoneyGranted>300</MoneyGranted>
+      <ScienceBonus>0.02</ScienceBonus>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_07_Derelict_Cube.png</Image>
+      <ConfirmText>Seal the data core</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>30</Chance>
+      <TitleText>Dormant Drones</TitleText>
+      <DescriptionText>The drones in the maintenance alcoves open their eyes together. They do not speak. The away team fights its way out with a case of recovered components. Research Borg Technology Analysis to follow this lead up.</DescriptionText>
+      <MoneyGranted>150</MoneyGranted>
+      <TroopsToSpawn>
+        <string>FreeBorg</string>
+        <string>FreeBorg</string>
+        <string>FreeBorg</string>
+      </TroopsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_07_Derelict_Cube.png</Image>
+      <ConfirmText>Fall back</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>A Quiet Hail</TitleText>
+      <DescriptionText>Subspace chatter from the wreck was not a recording. Two Borg scouts are already on their way, and they have stopped transmitting.</DescriptionText>
+      <PirateShipsToSpawn>
+        <string>Borg-Scout mk5</string>
+        <string>Borg-Scout mk5</string>
+      </PirateShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Derelict Cube</ReplaceWith>
+      <Image>Encounters/st_07_Derelict_Cube.png</Image>
+      <ConfirmText>Go to red alert</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Genesis Control Lab Online</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>The Lab Finds the Matrix</TitleText>
+      <DescriptionText>The lab's sensors find a second matrix, sealed in a vault on a nearby dead world. The calibration crystals are already warm.</DescriptionText>
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <ReplaceWith>Matrix Calibration</ReplaceWith>
+      <Image>Encounters/1.png</Image>
+      <ConfirmText>Mark the coordinates</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

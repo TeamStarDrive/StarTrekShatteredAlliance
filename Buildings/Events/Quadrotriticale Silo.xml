@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Quadrotriticale Silo</Name>
+  <Icon>oasis</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Quadrotriticale Silo</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <EventSpawnChance>50</EventSpawnChance>
+
+  <NameTranslationIndex>40124</NameTranslationIndex>
+  <DescriptionIndex>40125</DescriptionIndex>
+  <ShortDescriptionIndex>40125</ShortDescriptionIndex>
+</Building>

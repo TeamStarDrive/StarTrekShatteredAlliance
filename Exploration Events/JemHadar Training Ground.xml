@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>JemHadar Training Ground</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>40</Chance>
+      <TitleText>Proving Ground</TitleText>
+      <DescriptionText>Fifty armoured Jem'Hadar stand motionless on the sand. They do not fight for us. They fight for the Founders, and the combat logs left on the range explain exactly how. Research Dominion Combat Doctrine to follow this lead up.</DescriptionText>
+      <ScienceBonus>0.03</ScienceBonus>
+      <TroopsToSpawn>
+        <string>dominion</string>
+        <string>dominion</string>
+        <string>dominion</string>
+      </TroopsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_19_JemHadar_Training_Ground.png</Image>
+      <ConfirmText>Study the logs</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>40</Chance>
+      <TitleText>Vorta Offer</TitleText>
+      <DescriptionText>A Vorta overseer offers us white in exchange for the range. She has already counted the ketracel supply and she knows precisely what we will say. Research Dominion Combat Doctrine to follow this lead up.</DescriptionText>
+      <MoneyGranted>350</MoneyGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_19_JemHadar_Training_Ground.png</Image>
+      <ConfirmText>Decline politely</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>The Founders' Eyes</TitleText>
+      <DescriptionText>A shapeshifter has been watching the entire survey. It leaves a message in a language none of our translators have, and nothing else. Research Dominion Combat Doctrine to follow this lead up.</DescriptionText>
+      <ScienceBonus>0.03</ScienceBonus>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_19_JemHadar_Training_Ground.png</Image>
+      <ConfirmText>Translate it</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

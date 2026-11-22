@@ -11,6 +11,9 @@
     <LeadsToTech>
       <UID>Nanoweave Metallurgy</UID>
     </LeadsToTech>
+    <LeadsToTech>
+      <UID>Kitomer Salvage Techniques</UID>
+    </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked />
   <BuildingsUnlocked />

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>The Pilgrims Path</Name>
+  <Icon>mountain</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>The Pilgrims Path</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40150</NameTranslationIndex>
+  <DescriptionIndex>40151</DescriptionIndex>
+  <ShortDescriptionIndex>40151</ShortDescriptionIndex>
+</Building>

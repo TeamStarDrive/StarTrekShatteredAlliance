@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Quadrotriticale Silo</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>70</Chance>
+      <TitleText>Bumper Harvest</TitleText>
+      <DescriptionText>The silo is full of quadrotriticale, the wheat that grows as fast as you can plant it. Whoever stored it here left in a hurry. The harvest feeds the colony for a decade and leaves plenty to spare. Research Quadrotriticale Cultivation to follow this lead up.</DescriptionText>
+      <MoneyGranted>100</MoneyGranted>
+      <ChangeBaseMaxFertility>0.2</ChangeBaseMaxFertility>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_13_Quadrotriticale_Silo.png</Image>
+      <ConfirmText>Start the harvest</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>30</Chance>
+      <TitleText>The Tribbles Got In</TitleText>
+      <DescriptionText>A purring sound comes from the grain bins. It is not a good sound. By the time the quartermaster counted the tribbles the silo was a third empty. Research Quadrotriticale Cultivation to follow this lead up.</DescriptionText>
+      <ChangeBaseMaxFertility>-0.1</ChangeBaseMaxFertility>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_13_Quadrotriticale_Silo.png</Image>
+      <ConfirmText>Start counting</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

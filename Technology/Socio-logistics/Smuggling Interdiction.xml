@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Smuggling Interdiction</UID>
+  <TechnologyType>General</TechnologyType>
+  <Cost>900</Cost>
+  <NameIndex>40186</NameIndex>
+  <DescriptionIndex>40187</DescriptionIndex>
+  <LeadsTo />
+  <ModulesUnlocked />
+  <BuildingsUnlocked>
+    <UnlockedBuilding>
+      <Name>Interdiction Office</Name>
+    </UnlockedBuilding>
+  </BuildingsUnlocked>
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

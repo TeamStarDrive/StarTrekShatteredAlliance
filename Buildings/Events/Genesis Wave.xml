@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Genesis Wave</Name>
+  <Icon>oasis</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Genesis Wave</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40122</NameTranslationIndex>
+  <DescriptionIndex>40123</DescriptionIndex>
+  <ShortDescriptionIndex>40123</ShortDescriptionIndex>
+</Building>

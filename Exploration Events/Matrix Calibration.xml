@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Matrix Calibration</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>60</Chance>
+      <TitleText>A Careful Tuning</TitleText>
+      <DescriptionText>A week of work and the crystals settle on a stable curve. The planet's biosphere responds.</DescriptionText>
+      <ScienceBonus>0.03</ScienceBonus>
+      <NumTilesToMakeHabitable>2</NumTilesToMakeHabitable>
+      <ChangeBaseMaxFertility>0.3</ChangeBaseMaxFertility>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Genesis Wave</ReplaceWith>
+      <Image>Encounters/st_11_Matrix_Calibration.png</Image>
+      <ConfirmText>Run the numbers again</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>40</Chance>
+      <TitleText>A Bold Tuning</TitleText>
+      <DescriptionText>We override the safeties. The vault shakes and an echo of the original Genesis device comes online. A small war party arrives to claim it.</DescriptionText>
+      <NumTilesToMakeHabitable>2</NumTilesToMakeHabitable>
+      <ChangeRichness>0.2</ChangeRichness>
+      <PirateShipsToSpawn>
+        <string>Corsair-Mk3</string>
+        <string>Corsair-Mk2</string>
+      </PirateShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Genesis Wave</ReplaceWith>
+      <Image>Encounters/st_11_Matrix_Calibration.png</Image>
+      <ConfirmText>Fire the device</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

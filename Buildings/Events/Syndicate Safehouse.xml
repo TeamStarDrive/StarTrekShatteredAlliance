@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Syndicate Safehouse</Name>
+  <Icon>underhive</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Syndicate Safehouse</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40132</NameTranslationIndex>
+  <DescriptionIndex>40133</DescriptionIndex>
+  <ShortDescriptionIndex>40133</ShortDescriptionIndex>
+</Building>

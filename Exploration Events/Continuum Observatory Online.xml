@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Continuum Observatory Online</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>Q Is Flattered</TitleText>
+      <DescriptionText>The observatory's lens points at empty space, and empty space waves back. A familiar voice asks whether we have finished the paperwork.</DescriptionText>
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <ReplaceWith>Qs Trial</ReplaceWith>
+      <Image>Encounters/6.png</Image>
+      <ConfirmText>Mark the coordinates</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

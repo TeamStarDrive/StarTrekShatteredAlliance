@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Guardian Archive</Name>
+  <Icon>Obelisk</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Guardian Archive</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40108</NameTranslationIndex>
+  <DescriptionIndex>40109</DescriptionIndex>
+  <ShortDescriptionIndex>40109</ShortDescriptionIndex>
+</Building>

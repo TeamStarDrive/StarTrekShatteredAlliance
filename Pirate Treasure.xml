@@ -1,0 +1,109 @@
+﻿<ExplorationEvent>
+  <Name>Discover Pirate Treasure</Name>
+  <PotentialOutcomes>
+  <Outcome>
+      <Chance>12</Chance>
+      <TitleText>A Trap</TitleText>
+      <DescriptionText>The bunker doors have been blasted open. The corridors are littered with bodies and signs of a fight. There is nothing of value here and a nest of burrowing predators has taken over.</DescriptionText>
+       <TroopsToSpawn>
+        <string>Antlion</string>
+        <string>Antlion</string>
+        <string>Antlion</string>
+      </TroopsToSpawn>     
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/1.png</Image>
+      <ConfirmText>Why won't they stay dead</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>A Treasure</TitleText>
+      <DescriptionText>Someone has already cleared out most of the rooms, but several valuable things remain.</DescriptionText>
+      <MoneyGranted>1500</MoneyGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/2.png</Image>
+      <ConfirmText>Shiny things</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>7</Chance>
+      <TitleText>The Boss Arrives</TitleText>
+      <DescriptionText>Before your troops enter the hidden cave, your scanners detect a powerful Orion flagship warping in. The pirates have come back for their treasure.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <PirateShipsToSpawn>
+          <string>Corsair Flagship</string>
+      </PirateShipsToSpawn>
+      <Image>Encounters/pirates3.png</Image>
+      <ConfirmText>Again the pirates</ConfirmText>
+    </Outcome>     
+    <Outcome>
+      <Chance>10</Chance>
+      <TitleText>Pirate Technology</TitleText>
+      <DescriptionText>Your team finds an untested piece of technology in a hidden cave. The pirate fleet left to guard it isn't going to let you leave unharmed.</DescriptionText>
+      <UnlockTech>Ancient Shield Technology</UnlockTech>
+      <RemoveTrigger>true</RemoveTrigger>
+      <PirateShipsToSpawn>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+      </PirateShipsToSpawn>       
+      <Image>Encounters/techevent2.png</Image>
+      <ConfirmText>This is ours now</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>10</Chance>
+      <TitleText>A Trap</TitleText>
+      <DescriptionText>The hidden cave is empty. A note reads: Even in death I outsmart you. Take two credits instead, ha ha. When your troops leave, they find hostile creatures waiting.</DescriptionText>
+      <MoneyGranted>2</MoneyGranted>
+      <RemoveTrigger>true</RemoveTrigger>       
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <SpawnBuildingOnPlanet>Treasure</SpawnBuildingOnPlanet>
+      <TroopsToSpawn>
+        <string>Antlion</string>
+        <string>Antlion</string>
+        <string>Antlion</string>
+          <string>Antlion</string>
+        <string>Antlion</string>
+      </TroopsToSpawn>
+      <Image>Encounters/6.png</Image>
+      <ConfirmText>Let's play a game of tag</ConfirmText>
+    </Outcome>     
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Military Salvage</TitleText>
+      <DescriptionText>The hidden cave holds two stolen frigates, without any pirate marks. Your troops bring them into orbit.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>       
+      <FriendlyShipsToSpawn>
+        <string>Gunboat Ballista Mk1</string>
+          <string>Gunboat Ballista Mk1</string>
+      </FriendlyShipsToSpawn>
+      <Image>Encounters/pirates1.png</Image>
+      <ConfirmText>Stealing from the thieves</ConfirmText>
+    </Outcome>     
+
+      <Outcome>
+      <Chance>11</Chance>
+      <TitleText>An Artifact</TitleText>
+      <DescriptionText>Someone has been here already, but they missed a hidden room that holds an ancient artifact.</DescriptionText>
+      <GrantArtifact>true</GrantArtifact>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/techevent1.png</Image>
+      <ConfirmText>Haste makes waste</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>A Seed</TitleText>
+      <DescriptionText>The facility has been ransacked in a hurry. A technician finds a hidden room with a rare seed.</DescriptionText>
+      <ReplaceWith>WorldSeed</ReplaceWith>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/3.png</Image>
+      <ConfirmText>Haste makes waste</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

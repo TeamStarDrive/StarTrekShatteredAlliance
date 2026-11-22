@@ -10,6 +10,9 @@
     <LeadsToTech>
       <UID>Astrometrics_3x3</UID>
     </LeadsToTech>
+    <LeadsToTech>
+      <UID>Chroniton Detection</UID>
+    </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked />
   <BuildingsUnlocked />

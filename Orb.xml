@@ -1,0 +1,171 @@
+<ExplorationEvent>
+  <Name>Orb</Name>
+  <PotentialOutcomes>
+
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>A Trap</TitleText>
+      <DescriptionText>A control panel opens up to your translators. The orb is an advanced cloaking system. When it is turned off the orb drops and shatters, and the planet's scans are altered. An automated fleet had been waiting.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ChangeRichness>-0.5</ChangeRichness>
+      <ChangeBaseMaxFertility>-0.4</ChangeBaseMaxFertility>
+      <NumTilesToMakeUnhabitable>4</NumTilesToMakeUnhabitable>
+       <RemnantShipsToSpawn>
+        <string>Ancient Frigate</string>
+        <string>Ancient Frigate</string>
+        <string>Light Ancient Bomber</string>
+        <string>Support Drone</string>
+        <string>Support Drone</string>
+        <string>Support Drone</string>
+        <string>Heavy Drone</string>
+        <string>Heavy Drone</string>
+       </RemnantShipsToSpawn>
+       <Image>Encounters/remn1.png</Image>
+       <ConfirmText>Cloaking?</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>A Pirate Trap</TitleText>
+      <DescriptionText>A control panel opens up to your translators. The orb is an advanced cloaking system. When it is turned off the orb drops and shatters, and the scans of the planet change. An Orion raiding party has been waiting.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ChangeRichness>-0.3</ChangeRichness>
+      <ChangeBaseMaxFertility>-0.3</ChangeBaseMaxFertility>
+      <NumTilesToMakeUnhabitable>6</NumTilesToMakeUnhabitable>
+       <PirateShipsToSpawn>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+        <string>Corsair-Fighter-Mk2</string>
+        <string>Corsair</string>
+        <string>Corsair</string>
+        <string>Corsair</string>
+      </PirateShipsToSpawn>
+      <Image>Encounters/pirates3.png</Image>
+      <ConfirmText>Why don't we have this for ships?</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Updated Scans</TitleText>
+      <DescriptionText>A control panel opens up to your translators. The orb is an advanced cloaking system. When it is turned off the orb drops and shatters, and the planet's scans change.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ChangeRichness>0.7</ChangeRichness>
+      <ChangeBaseMaxFertility>-0.5</ChangeBaseMaxFertility>
+      <Image>Encounters/3.png</Image>
+      <ConfirmText>Cloaking would be useful</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Updated Scans</TitleText>
+      <DescriptionText>A control panel opens up to your translators. The orb is an advanced cloaking system. When it is turned off the orb drops and shatters, and the planet's scans change.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ChangeRichness>-0.5</ChangeRichness>
+      <ChangeBaseMaxFertility>0.5</ChangeBaseMaxFertility>
+      <Image>Encounters/4.png</Image>
+      <ConfirmText>Like magic</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Updated Scans</TitleText>
+      <DescriptionText>A control panel opens up to your translators. The orb is an advanced cloaking system. When it is turned off the orb drops and shatters, and the planet's scans change.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ChangeRichness>0.8</ChangeRichness>
+      <ChangeBaseMaxFertility>0.4</ChangeBaseMaxFertility>
+      <Image>Encounters/5.png</Image>
+      <ConfirmText>Neat trick</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>A Pirate Base</TitleText>
+      <DescriptionText>A control panel opens up to your translators. The orb is an advanced cloaking system. When it is turned off the orb drops and shatters, and it reveals an Orion pirate base.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ChangeRichness>1.2</ChangeRichness>
+      <ChangeBaseMaxFertility>0.4</ChangeBaseMaxFertility>
+      <NumTilesToMakeHabitable>5</NumTilesToMakeHabitable>
+       <PirateShipsToSpawn>
+          <string>Corsair Asteroid Base</string>
+          <string>Corsair Station</string>
+          <string>Corsair Station</string>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+        <string>Corsair-Fighter-Mk2</string>
+        <string>Corsair</string>
+        <string>Corsair</string>
+        <string>Corsair</string>
+      </PirateShipsToSpawn>
+      <Image>Encounters/pirates1.png</Image>
+      <ConfirmText>Bloody pirates</ConfirmText>
+    </Outcome>
+
+     <Outcome>
+      <Chance>25</Chance>
+      <TitleText>Pirate Outcast</TitleText>
+      <DescriptionText>Your scientists work out that the orb is a cloaking system. When it is turned off, it shatters. It was hiding the planet's true potential. It was also hiding an Orion outcast, who joins us.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ChangeRichness>0.4</ChangeRichness>
+      <ChangeBaseMaxFertility>0.2</ChangeBaseMaxFertility>
+      <NumTilesToMakeHabitable>2</NumTilesToMakeHabitable>
+      <FriendlyShipsToSpawn>
+        <string>Corsair</string>
+      </FriendlyShipsToSpawn>
+      <Image>Encounters/pirates2.png</Image>
+      <ConfirmText>What a champion</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>An Alien Incubator</TitleText>
+      <DescriptionText>A control panel opens up to your translators. It is an alien incubator and your team is about to be overrun.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <TroopsToSpawn>
+        <string>Antlion</string>
+          <string>Antlion</string>
+          <string>Antlion</string>
+        <string>Antlion</string>
+       </TroopsToSpawn>
+      <Image>Encounters/4.png</Image>
+      <ConfirmText>Burn it all</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>30</Chance>
+      <TitleText>Rare Materials</TitleText>
+      <DescriptionText>The orb is made from rare minerals with strong magnetic properties. It explains the levitation and the scrambled scans.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Exotic Minerals</ReplaceWith>
+      <Image>Encounters/3.png</Image>
+      <ConfirmText>More rocks to mine</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>5</Chance>
+      <TitleText>Tech Discovery</TitleText>
+      <DescriptionText>The orb is made of black matter in a quantum bubble. When a sample is taken, the bubble collapses. Follow-up studies lead to a new type of weapon.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <UnlockTech>Black matter weaponry</UnlockTech>
+      <Image>Encounters/techevent1.png</Image>
+      <ConfirmText>Black matter?</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>7</Chance>
+      <TitleText>Updated Scans</TitleText>
+      <DescriptionText>A control panel opens up to your translators. The orb is an advanced cloaking system. When it is turned off the orb drops and shatters, and the planet is revealed to be far richer than anyone thought.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ChangeRichness>2</ChangeRichness>
+      <ChangeBaseMaxFertility>1</ChangeBaseMaxFertility>
+      <NumTilesToMakeHabitable>6</NumTilesToMakeHabitable>
+      <Image>Encounters/1.png</Image>
+      <ConfirmText>Command will be very pleased</ConfirmText>
+    </Outcome>
+
+  </PotentialOutcomes>
+ </ExplorationEvent>

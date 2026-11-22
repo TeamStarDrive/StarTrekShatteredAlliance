@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Katra Study Centre Online</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>The Centre Opens the Path</TitleText>
+      <DescriptionText>Our scholars learn the pilgrim's path by heart. A messenger of the priests arrives to confirm it, and to ask us to leave our weapons at the door.</DescriptionText>
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <ReplaceWith>The Pilgrims Path</ReplaceWith>
+      <Image>Encounters/techevent2.png</Image>
+      <ConfirmText>Mark the coordinates</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

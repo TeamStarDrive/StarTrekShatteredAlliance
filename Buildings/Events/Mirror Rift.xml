@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Mirror Rift</Name>
+  <Icon>Teleport</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Mirror Rift</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <EventSpawnChance>40</EventSpawnChance>
+
+  <NameTranslationIndex>40142</NameTranslationIndex>
+  <DescriptionIndex>40143</DescriptionIndex>
+  <ShortDescriptionIndex>40143</ShortDescriptionIndex>
+</Building>

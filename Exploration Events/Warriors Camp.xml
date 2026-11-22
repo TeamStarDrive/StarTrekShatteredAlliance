@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Warriors Camp</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>60</Chance>
+      <TitleText>A Feast</TitleText>
+      <DescriptionText>The Klingons feast us on gagh and bloodwine and demand to see our weapons. They are impressed by two of them and shocked by the third.</DescriptionText>
+      <MoneyGranted>200</MoneyGranted>
+      <ScienceBonus>0.02</ScienceBonus>
+      <TroopsGranted>
+        <string>klingon</string>
+        <string>klingon</string>
+      </TroopsGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Gorkons Legacy</ReplaceWith>
+      <Image>Encounters/st_29_Warriors_Camp.png</Image>
+      <ConfirmText>Share the feast</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>40</Chance>
+      <TitleText>A Duel</TitleText>
+      <DescriptionText>Their champion challenges our captain to a duel. The captain accepts, which is why we have a captain.</DescriptionText>
+      <MoneyGranted>300</MoneyGranted>
+      <TroopsToSpawn>
+        <string>klingon</string>
+      </TroopsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Gorkons Legacy</ReplaceWith>
+      <Image>Encounters/st_29_Warriors_Camp.png</Image>
+      <ConfirmText>Take the challenge</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

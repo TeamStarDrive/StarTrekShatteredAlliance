@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Salvage Command Online</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>The Command Finds the Camp</TitleText>
+      <DescriptionText>Salvage crews pick up the survivors' beacon and plot a course for their camp. A Klingon voice demands our captain by name.</DescriptionText>
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <ReplaceWith>Warriors Camp</ReplaceWith>
+      <Image>Encounters/4.png</Image>
+      <ConfirmText>Mark the coordinates</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

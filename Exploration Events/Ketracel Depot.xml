@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Ketracel Depot</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>Quiet Theft</TitleText>
+      <DescriptionText>We take the stock in one night. The depot guards wake up with a very bad headache and a locked door.</DescriptionText>
+      <MoneyGranted>300</MoneyGranted>
+      <TroopsGranted>
+        <string>dominion</string>
+      </TroopsGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>The Founders Message</ReplaceWith>
+      <Image>Encounters/st_20_Ketracel_Depot.png</Image>
+      <ConfirmText>Take the vials</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>Jem'Hadar Pursuit</TitleText>
+      <DescriptionText>The depot was a trap. Dominion warships arrive in orbit within the hour, and a team of Jem'Hadar are already in the corridors.</DescriptionText>
+      <MoneyGranted>200</MoneyGranted>
+      <PirateShipsToSpawn>
+        <string>Dominator mk6</string>
+        <string>Dominator mk6</string>
+      </PirateShipsToSpawn>
+      <TroopsToSpawn>
+        <string>dominion</string>
+        <string>dominion</string>
+      </TroopsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>The Founders Message</ReplaceWith>
+      <Image>Encounters/st_20_Ketracel_Depot.png</Image>
+      <ConfirmText>Hold the depot</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

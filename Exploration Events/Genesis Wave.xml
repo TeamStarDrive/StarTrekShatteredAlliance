@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Genesis Wave</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>60</Chance>
+      <TitleText>Paradise</TitleText>
+      <DescriptionText>The wave rolls across the planet and turns every sea blue. Within days the surface is a garden. The Federation Council lists it as an honour of the age.</DescriptionText>
+      <MoneyGranted>300</MoneyGranted>
+      <GrantArtifact>true</GrantArtifact>
+      <NumTilesToMakeHabitable>5</NumTilesToMakeHabitable>
+      <ChangeBaseFertility>0.5</ChangeBaseFertility>
+      <ChangeBaseMaxFertility>1.0</ChangeBaseMaxFertility>
+      <ChangeRichness>0.3</ChangeRichness>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_12_Genesis_Wave.png</Image>
+      <ConfirmText>Watch the wave</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>40</Chance>
+      <TitleText>A Rich Wasteland</TitleText>
+      <DescriptionText>The wave lands wrong and the continents crack. What is left is a huge, rough, easily mined world that will take years to settle.</DescriptionText>
+      <MoneyGranted>600</MoneyGranted>
+      <NumTilesToMakeHabitable>3</NumTilesToMakeHabitable>
+      <ChangeBaseMaxFertility>0.4</ChangeBaseMaxFertility>
+      <ChangeRichness>1.0</ChangeRichness>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_12_Genesis_Wave.png</Image>
+      <ConfirmText>Send the miners</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

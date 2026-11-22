@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Temporal Study Station Online</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>The Station Reads the Ring</TitleText>
+      <DescriptionText>The station's sensors lock onto a far-off anomaly in the shape of the first ring. A chamber of recorded years is waiting beneath a nearby ruin.</DescriptionText>
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <ReplaceWith>Guardian Archive</ReplaceWith>
+      <Image>Encounters/techevent1.png</Image>
+      <ConfirmText>Mark the coordinates</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

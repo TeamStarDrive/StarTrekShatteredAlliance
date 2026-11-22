@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Grain Research Station</Name>
+  <Icon>Greenhouse</Icon>
+
+  <Cost>300</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventOnBuild>Grain Research Station Online</EventOnBuild>
+  <BuildOnlyOnce>true</BuildOnlyOnce>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40184</NameTranslationIndex>
+  <DescriptionIndex>40185</DescriptionIndex>
+  <ShortDescriptionIndex>40185</ShortDescriptionIndex>
+</Building>

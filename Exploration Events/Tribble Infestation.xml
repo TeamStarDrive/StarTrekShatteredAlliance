@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Tribble Infestation</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>Call a Klingon Exterminator</TitleText>
+      <DescriptionText>A Klingon envoy beams down, takes one look at the grain bins and starts shouting. His cleaning crew are armed and enthusiastic. When he leaves, the silo is clean and the Klingons are grateful.</DescriptionText>
+      <MoneyGranted>150</MoneyGranted>
+      <TroopsGranted>
+        <string>klingon</string>
+        <string>klingon</string>
+      </TroopsGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>The Grain Treaty</ReplaceWith>
+      <Image>Encounters/st_14_Tribble_Infestation.png</Image>
+      <ConfirmText>Hand over the bins</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>Scientific Interest</TitleText>
+      <DescriptionText>A xenobiologist discovers that tribbles metabolise soil toxins. A long, noisy, scientifically valuable week follows.</DescriptionText>
+      <ScienceBonus>0.04</ScienceBonus>
+      <NumTilesToMakeHabitable>2</NumTilesToMakeHabitable>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>The Grain Treaty</ReplaceWith>
+      <Image>Encounters/st_14_Tribble_Infestation.png</Image>
+      <ConfirmText>Study them</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Chronal Rift Scar</Name>
+  <Icon>Teleport</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Chronal Rift Scar</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <!-- For localization in GameText.yaml -->
+  <NameTranslationIndex>40016</NameTranslationIndex>
+  <DescriptionIndex>40017</DescriptionIndex>
+  <ShortDescriptionIndex>40018</ShortDescriptionIndex>
+</Building>

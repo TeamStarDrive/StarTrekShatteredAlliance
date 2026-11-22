@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Chronal Rift Scar</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>70</Chance>
+      <TitleText>The Rift Gives Up Its Secrets</TitleText>
+      <DescriptionText>The scar is a pocket of unstable time, and our team has stabilised it long enough to pull data out. Inside were the schematics of a heavy Earthforce warship, the Omega-class destroyer, together with combat data on a stealthy fighter built with technology no Federation scientist can explain. Whatever opened this vortex is still at work on the far side of the scar, and Chroniton readings now point to its core.</DescriptionText>
+      <UnlockTech>legendery tech mk2</UnlockTech>
+      <GrantArtifact>true</GrantArtifact>
+      <ScienceBonus>0.02</ScienceBonus>
+      <ReplaceWith>Vortex Core</ReplaceWith>
+      <Image>Encounters/techevent2.png</Image>
+      <ConfirmText>Study the schematics</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>30</Chance>
+      <TitleText>Echoes Ambush the Team</TitleText>
+      <DescriptionText>The scar pulsed as the team worked, and ghost images of the dead came out of it: defence drones and armoured walkers left behind by the vortex. The team held long enough to copy the Omega-class destroyer schematics and Shadow-technology fighter data, but the guard is awake. Heavy defenders have now appeared in orbit, and the readings point to the vortex core.</DescriptionText>
+      <UnlockTech>legendery tech mk2</UnlockTech>
+      <ReplaceWith>Vortex Core</ReplaceWith>
+      <TroopsToSpawn>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+        <string>Spider Tank</string>
+        <string>Spider Tank</string>
+      </TroopsToSpawn>
+      <RemnantShipsToSpawn>
+        <string>Ancient Frigate</string>
+        <string>Heavy Drone</string>
+      </RemnantShipsToSpawn>
+      <Image>Encounters/remn2.png</Image>
+      <ConfirmText>Hold the line</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

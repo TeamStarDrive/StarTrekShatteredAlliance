@@ -10,6 +10,9 @@
     <LeadsToTech>
       <UID>Xeno Intelligence</UID>
     </LeadsToTech>
+    <LeadsToTech>
+      <UID>Neutral Zone Protocols</UID>
+    </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked />
   <BuildingsUnlocked />

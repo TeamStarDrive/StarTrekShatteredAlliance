@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Matrix Calibration</Name>
+  <Icon>Crystal</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Matrix Calibration</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40120</NameTranslationIndex>
+  <DescriptionIndex>40121</DescriptionIndex>
+  <ShortDescriptionIndex>40121</ShortDescriptionIndex>
+</Building>

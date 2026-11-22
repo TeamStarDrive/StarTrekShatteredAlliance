@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Qs Trial</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>Guilty as Charged</TitleText>
+      <DescriptionText>Q pronounces us a dangerous, savage child-race. He then, to everyone's surprise, declares the case suspended.</DescriptionText>
+      <MoneyGranted>300</MoneyGranted>
+      <ScienceBonus>0.04</ScienceBonus>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Merely a Mortal</ReplaceWith>
+      <Image>Encounters/st_32_Qs_Trial.png</Image>
+      <ConfirmText>Plead your case</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>Not Guilty</TitleText>
+      <DescriptionText>Q finds us not guilty and then, with a flourish, locks the door and sends in a squad of Borg drones to prove it.</DescriptionText>
+      <MoneyGranted>200</MoneyGranted>
+      <ScienceBonus>0.02</ScienceBonus>
+      <TroopsToSpawn>
+        <string>FreeBorg</string>
+        <string>FreeBorg</string>
+      </TroopsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Merely a Mortal</ReplaceWith>
+      <Image>Encounters/st_32_Qs_Trial.png</Image>
+      <ConfirmText>Resist</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

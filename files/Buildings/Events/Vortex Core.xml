@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Vortex Core</Name>
+  <Icon>stargate</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Vortex Core</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <!-- For localization in GameText.yaml -->
+  <NameTranslationIndex>40019</NameTranslationIndex>
+  <DescriptionIndex>40020</DescriptionIndex>
+  <ShortDescriptionIndex>40021</ShortDescriptionIndex>
+</Building>

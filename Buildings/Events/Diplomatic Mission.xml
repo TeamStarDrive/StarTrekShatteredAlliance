@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Diplomatic Mission</Name>
+  <Icon>Science_facility</Icon>
+
+  <Cost>350</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventOnBuild>Diplomatic Mission Online</EventOnBuild>
+  <BuildOnlyOnce>true</BuildOnlyOnce>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40168</NameTranslationIndex>
+  <DescriptionIndex>40169</DescriptionIndex>
+  <ShortDescriptionIndex>40169</ShortDescriptionIndex>
+</Building>

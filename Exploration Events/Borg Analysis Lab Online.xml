@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Borg Analysis Lab Online</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>The Lab Reads the Wreck</TitleText>
+      <DescriptionText>The recovered data core talks to our own computers for eleven seconds. It gives us a map of the cube's interior, a power-line trace and a warning.</DescriptionText>
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <ReplaceWith>Cube Interior</ReplaceWith>
+      <Image>Encounters/remn1.png</Image>
+      <ConfirmText>Mark the coordinates</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

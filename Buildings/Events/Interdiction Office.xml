@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Interdiction Office</Name>
+  <Icon>Tax_Office</Icon>
+
+  <Cost>300</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventOnBuild>Interdiction Office Online</EventOnBuild>
+  <BuildOnlyOnce>true</BuildOnlyOnce>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40188</NameTranslationIndex>
+  <DescriptionIndex>40189</DescriptionIndex>
+  <ShortDescriptionIndex>40189</ShortDescriptionIndex>
+</Building>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Chroniton Observatory Online</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>The Chroniton Observatory Is Online</TitleText>
+      <DescriptionText>Starfleet Temporal Investigations powered up the Chroniton Observatory and the array screamed. A time vortex, a rolling tunnel of chronal distortion, has opened on the edge of explored space, and something came through it. Telemetry places wreckage at the coordinates now marked on your map. Starfleet Science reports hull fragments that match no Federation, Klingon or Romulan design. Automated defence drones, apparently left on station by whatever passed through, have been detected on the surface. Send a team before the vortex pulls the wreckage back.</DescriptionText>
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <ReplaceWith>Temporal Debris Field</ReplaceWith>
+      <TroopsToSpawn>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+      </TroopsToSpawn>
+      <Image>Encounters/techevent1.png</Image>
+      <ConfirmText>Mark the coordinates</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

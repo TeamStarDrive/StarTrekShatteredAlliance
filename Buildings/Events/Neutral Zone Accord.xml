@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Neutral Zone Accord</Name>
+  <Icon>pillar</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Neutral Zone Accord</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40104</NameTranslationIndex>
+  <DescriptionIndex>40105</DescriptionIndex>
+  <ShortDescriptionIndex>40105</ShortDescriptionIndex>
+</Building>

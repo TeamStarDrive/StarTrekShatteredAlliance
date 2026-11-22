@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Fal-tor-pan</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>60</Chance>
+      <TitleText>The Refusion</TitleText>
+      <DescriptionText>The priests perform the ritual. The katra is returned and the archive opens its inner halls. A garrison of Vulcan guards will watch the site for as long as we want.</DescriptionText>
+      <UnlockTech>Ancient Shield Technology</UnlockTech>
+      <MoneyGranted>300</MoneyGranted>
+      <ScienceBonus>0.08</ScienceBonus>
+      <GrantArtifact>true</GrantArtifact>
+      <TroopsGranted>
+        <string>vulcan</string>
+        <string>vulcan</string>
+        <string>vulcan</string>
+      </TroopsGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_27_Fal_tor_pan.png</Image>
+      <ConfirmText>Observe the ritual</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>40</Chance>
+      <TitleText>The Priests Withhold</TitleText>
+      <DescriptionText>The priests withhold the ritual, but they give us the shield records before they close the doors.</DescriptionText>
+      <UnlockTech>Ancient Shield Technology</UnlockTech>
+      <MoneyGranted>200</MoneyGranted>
+      <ScienceBonus>0.05</ScienceBonus>
+      <TroopsGranted>
+        <string>vulcan</string>
+      </TroopsGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_27_Fal_tor_pan.png</Image>
+      <ConfirmText>Accept the records</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

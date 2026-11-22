@@ -1,0 +1,51 @@
+﻿<ExplorationEvent>
+  <Name>A Fire Upon the Deep</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>An Iconian Gateway Wakes</TitleText>
+      <DescriptionText>Your assault team reaches the source of the signal and finds that the building is not broadcasting it. It is a gateway: a vast ring of light that tears open as the team approaches. On the other side is a dormant warship, and the planet shakes as it climbs out of the ground along with its escorts and a squad of automated guardians. The Iconians built these defences to outlast their own civilisation.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <TroopsToSpawn>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+      </TroopsToSpawn>
+      <RemnantShipsToSpawn>
+        <string>Remnant Mothership</string>
+        <string>Remnant Slaver</string>
+        <string>Remnant Inhibitor</string>
+        <string>Ancient Torpedo Cruiser</string>
+        <string>Ancient Torpedo Cruiser</string>
+        <string>Ancient Carrier</string>
+        <string>Ancient Carrier</string>
+        <string>Ancient Torpedo Cruiser</string>
+        <string>Ancient Torpedo Cruiser</string>
+        <string>Ancient Carrier</string>
+        <string>Ancient Carrier</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Disruptor Drone</string>
+        <string>Disruptor Drone</string>
+        <string>Heavy Drone</string>
+        <string>Heavy Drone</string>
+        <string>Slaver Drone</string>
+        <string>Slaver Drone</string>
+        <string>Support Drone</string>
+        <string>Support Drone</string>
+        <string>Disruptor Drone</string>
+        <string>Disruptor Drone</string>
+        <string>Heavy Drone</string>
+        <string>Heavy Drone</string>
+      </RemnantShipsToSpawn>
+      <ConfirmText>Raise shields</ConfirmText>
+    </Outcome>
+    
+  </PotentialOutcomes>
+  
+</ExplorationEvent>

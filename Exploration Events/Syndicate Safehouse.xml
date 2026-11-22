@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Syndicate Safehouse</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>The Quiet Raid</TitleText>
+      <DescriptionText>We take the safehouse before its crew wake up. The vault contains pre-sorted ship plans and a roomful of stolen supplies.</DescriptionText>
+      <UnlockTech>Ancient Repulsor</UnlockTech>
+      <MoneyGranted>500</MoneyGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>The Corsair Flagship</ReplaceWith>
+      <Image>Encounters/st_17_Syndicate_Safehouse.png</Image>
+      <ConfirmText>Open the vault</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>Defended</TitleText>
+      <DescriptionText>The safehouse is protected by a Syndicate cruiser and its gunners. When they stand down, the vault is easy to open.</DescriptionText>
+      <MoneyGranted>300</MoneyGranted>
+      <PirateShipsToSpawn>
+        <string>Corsair-Mk3</string>
+        <string>Corsair-Mk3</string>
+        <string>Corsair-Mk2</string>
+      </PirateShipsToSpawn>
+      <TroopsToSpawn>
+        <string>Cardasian</string>
+        <string>Cardasian</string>
+      </TroopsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>The Corsair Flagship</ReplaceWith>
+      <Image>Encounters/st_17_Syndicate_Safehouse.png</Image>
+      <ConfirmText>Break the line</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

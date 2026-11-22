@@ -10,6 +10,9 @@
     <LeadsToTech>
       <UID>SubspaceCommunication</UID>
     </LeadsToTech>
+    <LeadsToTech>
+      <UID>Quantum Mirror Theory</UID>
+    </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked />
   <BuildingsUnlocked />

@@ -1,0 +1,118 @@
+<ExplorationEvent>
+  <Name>Mysterious Altar</Name>
+  <PotentialOutcomes>
+
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>An Alien Beacon</TitleText>
+      <DescriptionText>Your troops trip a security device near the altar. Seconds later an automated fleet drops into orbit.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+       <RemnantShipsToSpawn>
+        <string>Ancient Frigate</string>
+        <string>Ancient Frigate</string>
+        <string>Light Ancient Bomber</string>
+        <string>Support Drone</string>
+        <string>Support Drone</string>
+       </RemnantShipsToSpawn>
+       <Image>Encounters/remn4.png</Image>
+       <ConfirmText>Oh, no</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>An Alien Replicator</TitleText>
+      <DescriptionText>As your troops approach the altar, some of them fall ill. The troops open fire and disable it, and relief is instant. But what spills out of the altar is not friendly.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <TroopsToSpawn>
+        <string>Antlion</string>
+          <string>Antlion</string>
+          <string>Antlion</string>
+        <string>Antlion</string>
+       </TroopsToSpawn>
+      <Image>Encounters/2.png</Image>
+      <ConfirmText>Repel them</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>Forcefield</TitleText>
+      <DescriptionText>The lead scientist reaches for the altar with a scanner. It flies out of his hand into the glowing orb on top of it, and a deadly forcefield spreads over the surface.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <NumTilesToMakeUnhabitable>5</NumTilesToMakeUnhabitable>
+      <ReplaceWith>Forcefield</ReplaceWith>
+      <Image>Encounters/3.png</Image>
+      <ConfirmText>Command won't be pleased</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>30</Chance>
+      <TitleText>Rare Materials</TitleText>
+      <DescriptionText>The altar is built on a small but very valuable ore deposit that can be mined.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Exotic Minerals</ReplaceWith>
+      <Image>Encounters/4.png</Image>
+      <ConfirmText>No complaints</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>World Bubble</TitleText>
+      <DescriptionText>The altar turns out to be a powerful shield emitter.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>World bubble</ReplaceWith>
+      <Image>Encounters/5.png</Image>
+      <ConfirmText>Feel safer</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>The Rich Core</TitleText>
+      <DescriptionText>The altar drew its power from the planet's core, which is rich in exotic minerals. Planet scans changed: +0.8 Richness.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ChangeRichness>0.8</ChangeRichness>
+      <Image>Encounters/6.png</Image>
+      <ConfirmText>But how?</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>10</Chance>
+      <TitleText>The Super Rich Core</TitleText>
+      <DescriptionText>The altar drew its power from the planet's core, which is extremely rich in exotic minerals. Planet scans changed: +1.5 Richness.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ChangeRichness>1.5</ChangeRichness>
+      <Image>Encounters/5.png</Image>
+      <ConfirmText>Command will be pleased</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>10</Chance>
+      <TitleText>The Depleted Core</TitleText>
+      <DescriptionText>For many centuries the altar has drained the planet's core of most of its value. Planet scans changed: -0.6 Richness.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ChangeRichness>-0.6</ChangeRichness>
+      <Image>Encounters/4.png</Image>
+      <ConfirmText>Destroy it</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Pretty Gem</TitleText>
+      <DescriptionText>The energy signature comes from a decaying power gem. It is too weak for our use, but will sell.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <MoneyGranted>250</MoneyGranted>
+      <Image>Encounters/3.png</Image>
+      <ConfirmText>A little dusty, still valuable</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>8</Chance>
+      <TitleText>Tech Schematics</TitleText>
+      <DescriptionText>The energy comes from a small forcefield on top of the altar. When it is disabled it reveals a cache of schematics for a weapon.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <UnlockTech>Remnant Assembly</UnlockTech>
+      <Image>Encounters/techevent1.png</Image>
+      <ConfirmText>A handy alien locker</ConfirmText>
+    </Outcome>
+
+  </PotentialOutcomes>
+ </ExplorationEvent>

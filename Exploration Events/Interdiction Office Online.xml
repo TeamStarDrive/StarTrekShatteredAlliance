@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Interdiction Office Online</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>The Office Follows the Money</TitleText>
+      <DescriptionText>Customs inspectors cross-check the cache ledger against three trade routes and one very bad accountant. The safehouse is easy to find.</DescriptionText>
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <ReplaceWith>Syndicate Safehouse</ReplaceWith>
+      <Image>Encounters/pirates2.png</Image>
+      <ConfirmText>Mark the coordinates</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Katra Study Centre</Name>
+  <Icon>imperialuniversity</Icon>
+
+  <Cost>350</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventOnBuild>Katra Study Centre Online</EventOnBuild>
+  <BuildOnlyOnce>true</BuildOnlyOnce>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40200</NameTranslationIndex>
+  <DescriptionIndex>40201</DescriptionIndex>
+  <ShortDescriptionIndex>40201</ShortDescriptionIndex>
+</Building>

@@ -1,0 +1,44 @@
+﻿<ExplorationEvent>
+  <Name>Mystery of the Remnant</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Scientific Discovery</TitleText>
+      <DescriptionText>Your away team enters the ruins and scans show a structure older than any known civilisation in the quadrant. Murals show a humanoid figure engulfed by energy. At the heart of the hall is a quantum data store in a stasis field. Its contents give your empire a 10% bonus to all scientific effort. As the team leaves, a huge automated warship drops out of warp. It is not friendly.</DescriptionText>
+      <ScienceBonus>.10</ScienceBonus>
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+        <string>Remnant Exterminator</string>
+      </RemnantShipsToSpawn>
+       <ConfirmText>Download everything</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Fantastic Discovery</TitleText>
+      <DescriptionText>Your away team enters the ruins and scans show a structure older than any known civilisation in the quadrant. At the far end of the hall sits a powerful warship, intact and ready for flight. The team takes her up for a test run. As they leave the ruins, a huge guardian vessel appears on the horizon. It is not friendly.</DescriptionText>
+      <FriendlyShipsToSpawn>
+        <string>Ancient Torpedo Cruiser</string>
+      </FriendlyShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+        <string>Remnant Exterminator</string>
+      </RemnantShipsToSpawn>
+       <ConfirmText>Take her out</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>60</Chance>
+      <TitleText>Mysterious Discovery</TitleText>
+      <DescriptionText>Your away team enters the ruins and scans show a structure older than any known civilisation in the quadrant. Murals show a humanoid figure engulfed by energy. In a stasis field at the far end sits a small artifact of great power. As the team leaves, a huge automated warship drops out of warp. It is not friendly.</DescriptionText>
+      <GrantArtifact>true</GrantArtifact>
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+        <string>Remnant Exterminator</string>
+      </RemnantShipsToSpawn>
+       <ConfirmText>Grab the artifact</ConfirmText>
+    </Outcome>
+    
+  </PotentialOutcomes>
+  
+</ExplorationEvent>

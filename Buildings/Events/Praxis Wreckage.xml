@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Praxis Wreckage</Name>
+  <Icon>crash</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Praxis Wreckage</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <EventSpawnChance>45</EventSpawnChance>
+
+  <NameTranslationIndex>40154</NameTranslationIndex>
+  <DescriptionIndex>40155</DescriptionIndex>
+  <ShortDescriptionIndex>40155</ShortDescriptionIndex>
+</Building>

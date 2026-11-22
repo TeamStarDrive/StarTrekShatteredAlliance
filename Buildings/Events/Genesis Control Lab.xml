@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Genesis Control Lab</Name>
+  <Icon>research_station</Icon>
+
+  <Cost>600</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventOnBuild>Genesis Control Lab Online</EventOnBuild>
+  <BuildOnlyOnce>true</BuildOnlyOnce>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40180</NameTranslationIndex>
+  <DescriptionIndex>40181</DescriptionIndex>
+  <ShortDescriptionIndex>40181</ShortDescriptionIndex>
+</Building>

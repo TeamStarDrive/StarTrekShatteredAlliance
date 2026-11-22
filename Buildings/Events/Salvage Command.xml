@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Salvage Command</Name>
+  <Icon>Outpost</Icon>
+
+  <Cost>300</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventOnBuild>Salvage Command Online</EventOnBuild>
+  <BuildOnlyOnce>true</BuildOnlyOnce>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40204</NameTranslationIndex>
+  <DescriptionIndex>40205</DescriptionIndex>
+  <ShortDescriptionIndex>40205</ShortDescriptionIndex>
+</Building>

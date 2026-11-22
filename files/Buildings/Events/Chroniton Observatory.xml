@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Chroniton Observatory</Name>
+  <Icon>rda</Icon>
+
+  <Cost>600</Cost>
+  <Maintenance>3</Maintenance>
+
+  <EventOnBuild>Chroniton Observatory Online</EventOnBuild>
+  <BuildOnlyOnce>true</BuildOnlyOnce>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <!-- For localization in GameText.yaml -->
+  <NameTranslationIndex>40010</NameTranslationIndex>
+  <DescriptionIndex>40011</DescriptionIndex>
+  <ShortDescriptionIndex>40012</ShortDescriptionIndex>
+</Building>

@@ -1,0 +1,129 @@
+<ExplorationEvent>
+  <Name>Temple</Name>
+  <PotentialOutcomes>
+
+    <Outcome>
+      <Chance>25</Chance>
+      <TitleText>Transaction</TitleText>
+      <DescriptionText>Outside the temple your troops meet a scavenger named Yuriy who speaks in a strange dialect. He found an old relic in the temple and will sell it for 550 credits.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <MoneyGranted>-550</MoneyGranted>
+      <GrantArtifact>true</GrantArtifact>
+      <Image>Encounters/techevent1.png</Image>
+      <ConfirmText>Nice doing business</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>An Alien Nest</TitleText>
+      <DescriptionText>Your troops hear sounds in the temple. A nest of burrowing predators lives there. The troops place charges around the main supports and the temple comes down on them.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <TroopsToSpawn>
+        <string>Antlion</string>
+          <string>Antlion</string>
+          <string>Antlion</string>
+       </TroopsToSpawn>
+      <Image>Encounters/2.png</Image>
+      <ConfirmText>Burn it to the ground</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Worshippers</TitleText>
+      <DescriptionText>The temple walls are covered with primitive carvings worshipping a god that came from the sky. As your team examines the roof, they notice a sentinel ship in orbit that has been watching them.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+        <string>Ancient Frigate</string>
+       </RemnantShipsToSpawn>
+       <Image>Encounters/remn5.png</Image>
+       <ConfirmText>I hate cults</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>5</Chance>
+      <TitleText>A Unique Technology</TitleText>
+      <DescriptionText>A hidden chamber holds a data core of schematics for an unknown technology. When it is removed, the whole structure begins to tremble.</DescriptionText>
+      <UnlockTech>AncientArmor</UnlockTech>       
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/techevent2.png</Image>
+      <ConfirmText>Armour that ages like fine wine</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Space Pyramid</TitleText>
+      <DescriptionText>From outside, the huge pyramid looks like a temple, but inside it is a large housing complex.</DescriptionText>
+      <ReplaceWith>Ancient megacity</ReplaceWith>       
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/5.png</Image>
+      <ConfirmText>Cozy</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>6</Chance>
+      <TitleText>Two Voices</TitleText>
+      <DescriptionText>An energy source deep in the temple leads your team to a faint sound of two beings arguing. It is an old computer core, and it appears to want a word.</DescriptionText>
+      <ReplaceWith>AI</ReplaceWith>       
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/6.png</Image>
+      <ConfirmText>We are all equal, more or less</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>10</Chance>
+      <TitleText>Scavenger Pirates</TitleText>
+      <DescriptionText>A group of scavengers opens fire. They are dealt with, but they belonged to a larger Orion band and the rest of it is on its way.</DescriptionText>
+       <PirateShipsToSpawn>
+          <string>Corsair</string>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+          <string>Corsair-Fighter-Mk2</string>
+      </PirateShipsToSpawn>      
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/pirates2.png</Image>
+      <ConfirmText>Who scavenges sacred grounds?</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>World Seed</TitleText>
+      <DescriptionText>The temple looks like a vault. At the centre is a sealed room with two huge doors that won't open. Your team forces them. Inside is a world seed, and a patrol of automated craft arrives.</DescriptionText>
+       <ReplaceWith>WorldSeed</ReplaceWith>      
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+        <string>Ancient Frigate</string>
+        <string>Ancient Frigate</string>
+        <string>Light Ancient Bomber</string>
+        <string>Light Ancient Bomber</string>
+        <string>Support Drone</string>
+       </RemnantShipsToSpawn>
+       <Image>Encounters/remn2.png</Image>
+       <ConfirmText>Looking tasty</ConfirmText>
+    </Outcome>
+    
+        <Outcome>
+      <Chance>10</Chance>
+      <TitleText>Mad Scientist</TitleText>
+      <DescriptionText>Barricades are broken and the remains of the temple's former occupants lie in the corridors. In a laboratory is a manual that describes an experiment on the dead. The experiment is still running.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <TroopsToSpawn>
+          <string>Skeleton</string>
+          <string>Skeleton</string>
+          <string>Skeleton</string>
+       </TroopsToSpawn>
+      <Image>Encounters/3.png</Image>
+      <ConfirmText>This makes me sick</ConfirmText>
+    </Outcome>
+        <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Ancient Schematics</TitleText>
+      <DescriptionText>The temple walls are covered with primitive carvings and mosaics that worship a god in the sky. In the largest chamber your team finds schematics for a troop design.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <UnlockTech>RemnantTroop</UnlockTech>   
+       <Image>Encounters/techevent2.png</Image>
+       <ConfirmText>Interesting square thing</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+ </ExplorationEvent>

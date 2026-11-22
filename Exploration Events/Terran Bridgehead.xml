@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Terran Bridgehead</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>Defectors</TitleText>
+      <DescriptionText>A Terran science crew offer to come across with a stolen agony-booth research and their own warship. Starfleet agrees, on condition that nobody asks about the booth.</DescriptionText>
+      <MoneyGranted>200</MoneyGranted>
+      <ScienceBonus>0.04</ScienceBonus>
+      <FriendlyShipsToSpawn>
+        <string>Excelsior Class mk4</string>
+      </FriendlyShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Mirror Mirror</ReplaceWith>
+      <Image>Encounters/st_23_Terran_Bridgehead.png</Image>
+      <ConfirmText>Take them in</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>Boarders</TitleText>
+      <DescriptionText>The outpost has been reinforced and its crew have been given orders. They will not take prisoners.</DescriptionText>
+      <MoneyGranted>200</MoneyGranted>
+      <PirateShipsToSpawn>
+        <string>Excelsior Class mk4</string>
+      </PirateShipsToSpawn>
+      <TroopsToSpawn>
+        <string>Romulan</string>
+        <string>Romulan</string>
+      </TroopsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Mirror Mirror</ReplaceWith>
+      <Image>Encounters/st_23_Terran_Bridgehead.png</Image>
+      <ConfirmText>Defend the post</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

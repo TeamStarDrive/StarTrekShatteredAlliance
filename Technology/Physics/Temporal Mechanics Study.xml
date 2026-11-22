@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Temporal Mechanics Study</UID>
+  <TechnologyType>General</TechnologyType>
+  <Cost>2500</Cost>
+  <NameIndex>40170</NameIndex>
+  <DescriptionIndex>40171</DescriptionIndex>
+  <LeadsTo />
+  <ModulesUnlocked />
+  <BuildingsUnlocked>
+    <UnlockedBuilding>
+      <Name>Temporal Study Station</Name>
+    </UnlockedBuilding>
+  </BuildingsUnlocked>
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

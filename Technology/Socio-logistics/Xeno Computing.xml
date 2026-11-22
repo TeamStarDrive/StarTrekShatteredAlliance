@@ -6,7 +6,11 @@
   <Cost>1050</Cost>
  <NameIndex>693</NameIndex>
   <DescriptionIndex>694</DescriptionIndex>
-  <LeadsTo />
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>Borg Technology Analysis</UID>
+    </LeadsToTech>
+  </LeadsTo>
   <ModulesUnlocked />
   <BuildingsUnlocked />
   <BonusUnlocked>

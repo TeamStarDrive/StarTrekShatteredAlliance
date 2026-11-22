@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Katric Archive</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>70</Chance>
+      <TitleText>The Katra Archive</TitleText>
+      <DescriptionText>The priests of Mount Seleya open the vaults. Their katra records go back thousands of years and the pilgrims make the climb in complete silence. Research Vulcan Philosophy to follow this lead up.</DescriptionText>
+      <ScienceBonus>0.05</ScienceBonus>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_25_Katric_Archive.png</Image>
+      <ConfirmText>Begin the study</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>30</Chance>
+      <TitleText>The Masters Decline</TitleText>
+      <DescriptionText>The priests do not admit outsiders to the archive. They do share food, shelter and a little of their time. Research Vulcan Philosophy to follow this lead up.</DescriptionText>
+      <ScienceBonus>0.02</ScienceBonus>
+      <ChangeBaseFertility>0.2</ChangeBaseFertility>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_25_Katric_Archive.png</Image>
+      <ConfirmText>Accept their hospitality</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

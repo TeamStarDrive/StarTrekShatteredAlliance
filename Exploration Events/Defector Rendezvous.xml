@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Defector Rendezvous</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>The Defector Delivers</TitleText>
+      <DescriptionText>Commander T'Vel steps out of a stolen shuttle with a data core and a plea. The core holds phased-cloak research and the location of a neutral site where both powers can talk. We take her aboard.</DescriptionText>
+      <MoneyGranted>150</MoneyGranted>
+      <ScienceBonus>0.03</ScienceBonus>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Neutral Zone Accord</ReplaceWith>
+      <Image>Encounters/st_02_Defector_Rendezvous.png</Image>
+      <ConfirmText>Welcome him aboard</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>30</Chance>
+      <TitleText>Tal Shiar Hunters</TitleText>
+      <DescriptionText>The Tal Shiar were already following him. Warbirds and a boarding party arrive within minutes of our landing. The defector asks us to hold the line.</DescriptionText>
+      <PirateShipsToSpawn>
+        <string>V11Stormbird mk4</string>
+        <string>V11Stormbird mk4</string>
+      </PirateShipsToSpawn>
+      <TroopsToSpawn>
+        <string>Romulan</string>
+        <string>Romulan</string>
+      </TroopsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Defector Rendezvous</ReplaceWith>
+      <Image>Encounters/st_02_Defector_Rendezvous.png</Image>
+      <ConfirmText>Hold the line</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>A Double Agent</TitleText>
+      <DescriptionText>He sold us half a truth. The codes are real but he is working for someone else. We give the other half to a hungry Starfleet intelligence team and they find the true meeting place.</DescriptionText>
+      <MoneyGranted>300</MoneyGranted>
+      <PirateShipsToSpawn>
+        <string>DDeridex warbird mk1</string>
+      </PirateShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Neutral Zone Accord</ReplaceWith>
+      <Image>Encounters/st_02_Defector_Rendezvous.png</Image>
+      <ConfirmText>Take the codes</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

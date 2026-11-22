@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Cube Interior</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>The Quiet Hall</TitleText>
+      <DescriptionText>We follow the power lines into a vault of inactive drones and a single intact processing node. The node asks us nothing. We remove it carefully.</DescriptionText>
+      <UnlockTech>Remnant Assembly</UnlockTech>
+      <MoneyGranted>200</MoneyGranted>
+      <ScienceBonus>0.03</ScienceBonus>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Transwarp Hub</ReplaceWith>
+      <Image>Encounters/st_08_Cube_Interior.png</Image>
+      <ConfirmText>Remove the node</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>Awakening</TitleText>
+      <DescriptionText>The vault wakes as we take the node. The drones step out in a line and the bulkhead behind us seals itself.</DescriptionText>
+      <UnlockTech>Remnant Assembly</UnlockTech>
+      <TroopsToSpawn>
+        <string>FreeBorg</string>
+        <string>FreeBorg</string>
+        <string>FreeBorg</string>
+        <string>FreeBorg</string>
+      </TroopsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Transwarp Hub</ReplaceWith>
+      <Image>Encounters/st_08_Cube_Interior.png</Image>
+      <ConfirmText>Fight your way out</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Time Portal</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>Glimpses of Yesterday</TitleText>
+      <DescriptionText>The ring pulses and shows our own history, too fast to follow. Our scientists record every frame. The Guardian says nothing, which the Vulcans in the team call encouraging. Research Temporal Mechanics Study to follow this lead up.</DescriptionText>
+      <ScienceBonus>0.05</ScienceBonus>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_04_Time_Portal.png</Image>
+      <ConfirmText>Record everything</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>30</Chance>
+      <TitleText>The Past Pushes Back</TitleText>
+      <DescriptionText>Something stepped out of the portal that was never meant to leave it. It left an object that hums at a frequency we cannot match to any known power source. Research Temporal Mechanics Study to follow this lead up.</DescriptionText>
+      <GrantArtifact>true</GrantArtifact>
+      <TroopsToSpawn>
+        <string>Skeleton</string>
+        <string>Skeleton</string>
+      </TroopsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_04_Time_Portal.png</Image>
+      <ConfirmText>Secure the object</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Do Not Touch</TitleText>
+      <DescriptionText>A technician reached for the ring. When the light cleared, the planet scans no longer matched our records. History has been edited and nobody can say by how much. The ring is still there.</DescriptionText>
+      <NumTilesToMakeUnhabitable>2</NumTilesToMakeUnhabitable>
+      <ChangeRichness>-0.3</ChangeRichness>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Time Portal</ReplaceWith>
+      <Image>Encounters/st_04_Time_Portal.png</Image>
+      <ConfirmText>Step away</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>The Founders Message</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>We Accept the Truce</TitleText>
+      <DescriptionText>The Founder reveals the Dominion's combat doctrine, and the weapons that go with it. In exchange we promise a pause. The Jem'Hadar leave one of their own behind to watch.</DescriptionText>
+      <UnlockTech>Black matter weaponry</UnlockTech>
+      <MoneyGranted>500</MoneyGranted>
+      <ScienceBonus>0.05</ScienceBonus>
+      <TroopsGranted>
+        <string>dominion</string>
+        <string>dominion</string>
+        <string>dominion</string>
+      </TroopsGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_21_The_Founders_Message.png</Image>
+      <ConfirmText>Hear them out</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>We Refuse</TitleText>
+      <DescriptionText>The Founder dissolves into a puddle of sulking light. The Dominion pulls back, leaving their research behind.</DescriptionText>
+      <UnlockTech>Black matter weaponry</UnlockTech>
+      <MoneyGranted>700</MoneyGranted>
+      <PirateShipsToSpawn>
+        <string>Chimera Class mK8</string>
+      </PirateShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_21_The_Founders_Message.png</Image>
+      <ConfirmText>Say no</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

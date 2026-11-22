@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Merely a Mortal</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>We Ask for Knowledge</TitleText>
+      <DescriptionText>Q rolls his eyes, snaps his fingers and walks away. A library of the history of the universe is in our computers. A small starship hangs in orbit, nameplate reading "Merely a Mortal".</DescriptionText>
+      <UnlockTech>Owlwok Freedom</UnlockTech>
+      <ScienceBonus>0.08</ScienceBonus>
+      <GrantArtifact>true</GrantArtifact>
+      <FriendlyShipsToSpawn>
+        <string>Galaxy Class mk3a</string>
+      </FriendlyShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_33_Merely_a_Mortal.png</Image>
+      <ConfirmText>Ask for knowledge</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>We Ask for Nothing</TitleText>
+      <DescriptionText>Q is so stunned that he gives us everything he is allowed to. He leaves a starship in orbit and a note that says "do not tell anyone".</DescriptionText>
+      <UnlockTech>Owlwok Freedom</UnlockTech>
+      <MoneyGranted>1000</MoneyGranted>
+      <FriendlyShipsToSpawn>
+        <string>Intrepid mk4</string>
+        <string>Intrepid mk4</string>
+      </FriendlyShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_33_Merely_a_Mortal.png</Image>
+      <ConfirmText>Decline</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

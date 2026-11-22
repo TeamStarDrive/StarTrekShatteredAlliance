@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>The Grain Treaty</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>60</Chance>
+      <TitleText>A Fair Price</TitleText>
+      <DescriptionText>A very large Klingon with a very small pen signs a grain treaty. Warriors will garrison the harvest and the world will never be hungry again.</DescriptionText>
+      <MoneyGranted>400</MoneyGranted>
+      <GrantArtifact>true</GrantArtifact>
+      <NumTilesToMakeHabitable>4</NumTilesToMakeHabitable>
+      <ChangeBaseMaxFertility>1.0</ChangeBaseMaxFertility>
+      <TroopsGranted>
+        <string>klingon</string>
+        <string>klingon</string>
+        <string>klingon</string>
+      </TroopsGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_15_The_Grain_Treaty.png</Image>
+      <ConfirmText>Sign the treaty</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>40</Chance>
+      <TitleText>A Cargo of Tribbles</TitleText>
+      <DescriptionText>The envoy takes the surplus and a few "souvenirs". The quartermaster counts them twice. The world is richer.</DescriptionText>
+      <MoneyGranted>250</MoneyGranted>
+      <NumTilesToMakeHabitable>2</NumTilesToMakeHabitable>
+      <ChangeBaseMaxFertility>0.6</ChangeBaseMaxFertility>
+      <TroopsGranted>
+        <string>klingon</string>
+      </TroopsGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_15_The_Grain_Treaty.png</Image>
+      <ConfirmText>Wave them off</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

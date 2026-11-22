@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>JemHadar Training Ground</Name>
+  <Icon>mountain</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>JemHadar Training Ground</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <EventSpawnChance>40</EventSpawnChance>
+
+  <NameTranslationIndex>40136</NameTranslationIndex>
+  <DescriptionIndex>40137</DescriptionIndex>
+  <ShortDescriptionIndex>40137</ShortDescriptionIndex>
+</Building>

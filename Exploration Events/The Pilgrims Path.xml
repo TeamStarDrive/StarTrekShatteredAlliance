@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>The Pilgrims Path</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>60</Chance>
+      <TitleText>The Long Climb</TitleText>
+      <DescriptionText>The climb is long and silent. At the summit the priest lays down the katra and the mountain answers.</DescriptionText>
+      <MoneyGranted>150</MoneyGranted>
+      <ScienceBonus>0.04</ScienceBonus>
+      <TroopsGranted>
+        <string>vulcan</string>
+      </TroopsGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Fal-tor-pan</ReplaceWith>
+      <Image>Encounters/st_26_The_Pilgrims_Path.png</Image>
+      <ConfirmText>Carry the katra</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>40</Chance>
+      <TitleText>A Rival Pilgrim</TitleText>
+      <DescriptionText>A lone Romulan pilgrim has followed us up. She, too, has a katra to deliver. She has also brought friends.</DescriptionText>
+      <ScienceBonus>0.03</ScienceBonus>
+      <TroopsToSpawn>
+        <string>Romulan</string>
+        <string>Romulan</string>
+      </TroopsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Fal-tor-pan</ReplaceWith>
+      <Image>Encounters/st_26_The_Pilgrims_Path.png</Image>
+      <ConfirmText>Make room</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Temporal Study Station</Name>
+  <Icon>research_station</Icon>
+
+  <Cost>500</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventOnBuild>Temporal Study Station Online</EventOnBuild>
+  <BuildOnlyOnce>true</BuildOnlyOnce>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40172</NameTranslationIndex>
+  <DescriptionIndex>40173</DescriptionIndex>
+  <ShortDescriptionIndex>40173</ShortDescriptionIndex>
+</Building>

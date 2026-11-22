@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Temporal Debris Field</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>55</Chance>
+      <TitleText>Wreckage From Another Time</TitleText>
+      <DescriptionText>Our away team found it: the broken hull of a single-seat fighter, a Starfury, flown from an Earth Alliance carrier unknown to the Federation. The pilot's log uses a calendar nobody here recognises. Engineers are already copying the shield harmonics and hull geometry, and Temporal Investigations has marked the entire site as classified. Above the wreck the vortex has left a scar on local space. It is worth a closer look.</DescriptionText>
+      <UnlockTech>legendery tech</UnlockTech>
+      <MoneyGranted>150</MoneyGranted>
+      <ReplaceWith>Chronal Rift Scar</ReplaceWith>
+      <Image>Encounters/CrashedShip.png</Image>
+      <ConfirmText>Log it for Temporal Investigations</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>30</Chance>
+      <TitleText>The Wreckage Fights Back</TitleText>
+      <DescriptionText>The defence drones woke as soon as the away team touched the hull. In the firefight the team still recovered the fighter's flight recorder and a section of its shield emitter before withdrawing. The wreckage is a Starfury from an Earth Alliance carrier that does not exist in any Federation record. The vortex has left a scar above the site, and the drones are still on guard there.</DescriptionText>
+      <UnlockTech>legendery tech</UnlockTech>
+      <ReplaceWith>Chronal Rift Scar</ReplaceWith>
+      <TroopsToSpawn>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+      </TroopsToSpawn>
+      <Image>Encounters/remn.png</Image>
+      <ConfirmText>Fall back and analyse the data</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>A Fading Echo</TitleText>
+      <DescriptionText>The debris was only an echo, a ghost image of the wreck cast by the vortex. Our team found nothing to touch. Chroniton readings are still climbing, which means the vortex is still open somewhere. Another echo should resolve shortly. Keep monitoring.</DescriptionText>
+      <ReplaceWith>Temporal Debris Field</ReplaceWith>
+      <Image>Encounters/3.png</Image>
+      <ConfirmText>Keep monitoring</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

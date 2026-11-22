@@ -1,0 +1,108 @@
+<ExplorationEvent>
+  <Name>Obelisk</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>Ambush</TitleText>
+      <DescriptionText>Before your team reaches the obelisk, an automated fleet in orbit fires on it and destroys it.</DescriptionText>
+       <RemnantShipsToSpawn>
+          <string>Heavy Drone</string>
+          <string>Heavy Drone</string>
+          <string>Support Drone</string>
+          <string>Support Drone</string>
+          <string>Support Drone</string>
+          <string>Support Drone</string>
+      </RemnantShipsToSpawn>           
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/remn4.png</Image>
+      <ConfirmText>Not again</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>3</Chance>
+      <TitleText>A Virus</TitleText>
+      <DescriptionText>The team's devices begin to malfunction. The obelisk held a computer virus of unknown origin that spreads through our networks. All research is reduced by 4%.</DescriptionText>
+      <ScienceBonus>-0.04</ScienceBonus>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/2.png</Image>
+      <ConfirmText>Command won't be pleased</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>10</Chance>
+      <TitleText>The Wave</TitleText>
+      <DescriptionText>The ground around the obelisk is barren. A high tone comes from it and grows unbearable. The team retreats to the shuttle but the wave sweeps the planet. Planet scans changed: -1.5 Fertility (temporarily).</DescriptionText>
+      <ChangeBaseFertility>-1.5</ChangeBaseFertility>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/3.png</Image>
+      <ConfirmText>It doesn't look good</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>25</Chance>
+      <TitleText>Neural Enhancer</TitleText>
+      <DescriptionText>The obelisk shakes and shatters into rubble and crystals with unusual properties.</DescriptionText>
+      <ReplaceWith>Neural Enhancer</ReplaceWith>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/4.png</Image>
+      <ConfirmText>We feel smarter</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+     <Chance>10</Chance>
+      <TitleText>Neural Dampener</TitleText>
+      <DescriptionText>The obelisk shakes and shatters into rubble and crystals with unusual properties.</DescriptionText>
+      <ReplaceWith>Neural Dampener</ReplaceWith>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/5.png</Image>
+      <ConfirmText>Were they always this slow?</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>10</Chance>
+      <TitleText>Fallout</TitleText>
+      <DescriptionText>A humming sound grows to a deafening roar, and a huge beam shoots into the sky and breaks up. The pieces fall back and spread deadly radiation over the planet. Planet scans changed: -0.4 Max Fertility, some tiles lost.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <NumTilesToMakeUnhabitable>5</NumTilesToMakeUnhabitable>
+      <ChangeBaseMaxFertility>-0.4</ChangeBaseMaxFertility>
+      <Image>Encounters/6.png</Image>
+      <ConfirmText>Oh no</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>22</Chance>
+         <TitleText>Life Energy</TitleText>
+         <DescriptionText>A humming sound grows to a deafening roar and a bright beam shoots into the sky. It breaks up and falls back gently over the planet, and life flourishes. Planet scans changed: +0.6 Max Fertility, tiles made habitable.</DescriptionText>
+         <RemoveTrigger>true</RemoveTrigger>
+         <NumTilesToMakeHabitable>8</NumTilesToMakeHabitable>
+         <ChangeBaseMaxFertility>0.6</ChangeBaseMaxFertility>
+         <Image>Encounters/5.png</Image>
+         <ConfirmText>A life sprinkler</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>5</Chance>
+      <TitleText>A Unique Technology</TitleText>
+      <DescriptionText>Inside the obelisk is a data core with schematics for unknown technology. When it is pulled out, the obelisk crumbles and automated defences arrive.</DescriptionText>
+      <MoneyGranted>500</MoneyGranted>
+      <UnlockTech>Armor Phasing</UnlockTech>       
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+          <string>Heavy Drone</string>
+          <string>Heavy Drone</string>          
+          <string>Xeno Fighter</string>
+          <string>Xeno Fighter</string>
+      </RemnantShipsToSpawn>       
+      <Image>Encounters/techevent2.png</Image>
+      <ConfirmText>Bring the schematic home</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>Artifact</TitleText>
+      <DescriptionText>Your team notices a strange object set in the obelisk. To free it they dismantle the obelisk.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+       <GrantArtifact>true</GrantArtifact>
+      <Image>Encounters/techevent1.png</Image>
+      <ConfirmText>Lucky we had a dismantling tool</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

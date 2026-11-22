@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Smuggler Cache</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>Unattended</TitleText>
+      <DescriptionText>Strips of gold-pressed latinum, stacked behind a cargo shield. The Syndicate does not trust banks and evidently does not trust guards either. A ledger in the crate names a safehouse. Research Smuggling Interdiction to follow this lead up.</DescriptionText>
+      <MoneyGranted>400</MoneyGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_16_Smuggler_Cache.png</Image>
+      <ConfirmText>Count it twice</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>30</Chance>
+      <TitleText>Syndicate Ambush</TitleText>
+      <DescriptionText>The cache was bait. Orion raiders drop out of warp over the site while the away team is still loading crates. Research Smuggling Interdiction to follow this lead up.</DescriptionText>
+      <MoneyGranted>150</MoneyGranted>
+      <PirateShipsToSpawn>
+        <string>Corsair-Mk3</string>
+        <string>Corsair-Mk2</string>
+      </PirateShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_16_Smuggler_Cache.png</Image>
+      <ConfirmText>Take what we can</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Contraband</TitleText>
+      <DescriptionText>Under the latinum is a crate of prototype hardware nobody has declared at any border. Starfleet Command wants a word about its origin. The Syndicate wants it back. Research Smuggling Interdiction to follow this lead up.</DescriptionText>
+      <MoneyGranted>100</MoneyGranted>
+      <TroopsToSpawn>
+        <string>Cardasian</string>
+        <string>Cardasian</string>
+      </TroopsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_16_Smuggler_Cache.png</Image>
+      <ConfirmText>File the report</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

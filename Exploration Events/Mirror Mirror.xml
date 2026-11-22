@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Mirror Mirror</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>We Close the Rift</TitleText>
+      <DescriptionText>The rift closes with a flash. A final transmission thanks us for returning a fleet to its proper universe, and asks us to be better.</DescriptionText>
+      <UnlockTech>Remnant Metallurgy</UnlockTech>
+      <MoneyGranted>500</MoneyGranted>
+      <ScienceBonus>0.05</ScienceBonus>
+      <GrantArtifact>true</GrantArtifact>
+      <FriendlyShipsToSpawn>
+        <string>Defiant mk6</string>
+      </FriendlyShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_24_Mirror_Mirror.png</Image>
+      <ConfirmText>Seal it</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>50</Chance>
+      <TitleText>We Keep It Open</TitleText>
+      <DescriptionText>We keep the rift open one hour. A Terran dreadnought steps through and the crew defects to a man. The rift then closes by itself.</DescriptionText>
+      <UnlockTech>Remnant Metallurgy</UnlockTech>
+      <MoneyGranted>300</MoneyGranted>
+      <FriendlyShipsToSpawn>
+        <string>Excelsior Class mk6</string>
+      </FriendlyShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_24_Mirror_Mirror.png</Image>
+      <ConfirmText>Take the offer</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

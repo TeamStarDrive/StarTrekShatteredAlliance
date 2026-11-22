@@ -6,7 +6,11 @@
   <Cost>700</Cost>
   <NameIndex>675</NameIndex>
   <DescriptionIndex>676</DescriptionIndex>
-  <LeadsTo />
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>Temporal Mechanics Study</UID>
+    </LeadsToTech>
+  </LeadsTo>
   <LeadsTo>
     <LeadsToTech>
       <UID>Transwarp_5x5</UID>

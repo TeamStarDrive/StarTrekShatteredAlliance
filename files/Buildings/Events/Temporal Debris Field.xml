@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Temporal Debris Field</Name>
+  <Icon>crash</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Temporal Debris Field</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <!-- For localization in GameText.yaml -->
+  <NameTranslationIndex>40013</NameTranslationIndex>
+  <DescriptionIndex>40014</DescriptionIndex>
+  <ShortDescriptionIndex>40015</ShortDescriptionIndex>
+</Building>

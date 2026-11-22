@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>The Corsair Flagship</Name>
+  <Icon>Chest</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>The Corsair Flagship</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40134</NameTranslationIndex>
+  <DescriptionIndex>40135</DescriptionIndex>
+  <ShortDescriptionIndex>40135</ShortDescriptionIndex>
+</Building>

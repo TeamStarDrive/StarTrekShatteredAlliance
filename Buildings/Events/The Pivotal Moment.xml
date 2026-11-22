@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>The Pivotal Moment</Name>
+  <Icon>Orb</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>The Pivotal Moment</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40110</NameTranslationIndex>
+  <DescriptionIndex>40111</DescriptionIndex>
+  <ShortDescriptionIndex>40111</ShortDescriptionIndex>
+</Building>

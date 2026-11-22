@@ -1,0 +1,86 @@
+<ExplorationEvent>
+  <Name>Unexplored cave</Name>
+  <PotentialOutcomes>
+
+    <Outcome>
+      <Chance>25</Chance>
+      <TitleText>An Alien Nest</TitleText>
+      <DescriptionText>Your troops hear sounds from the cave. A flare shows movement. A nest of burrowing predators has made its den there. Procedure is followed.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <TroopsToSpawn>
+        <string>Antlion</string>
+          <string>Antlion</string>
+          <string>Antlion</string>
+       </TroopsToSpawn>
+       <Image>Encounters/1.png</Image>
+       <ConfirmText>Hate alien nests</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>An Alien Nest</TitleText>
+      <DescriptionText>Your troops hear sounds from the cave. A flare shows movement. A nest of burrowing predators has made its den there. After clearing them out, the cave becomes a wastepit.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Evaporative Wastepit</ReplaceWith>
+       <Image>Encounters/2.png</Image>
+       <ConfirmText>No one mentioned the smell</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Infested</TitleText>
+      <DescriptionText>The cave is a huge cave system, but something large lives in it. Your troops fight their way out.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Cave system</ReplaceWith>
+      <TroopsToSpawn>
+        <string>Antlion</string>
+          <string>Antlion</string>
+          <string>Antlion</string>
+        <string>Antlion</string>
+       </TroopsToSpawn>
+       <Image>Encounters/3.png</Image>
+       <ConfirmText>Let's be cavemen</ConfirmText>
+    </Outcome>
+
+     <Outcome>
+      <Chance>25</Chance>
+      <TitleText>An Unexpected Meeting</TitleText>
+      <DescriptionText>In the cave your troops find crates and an aged smuggler named Roland. They agree a deal to supply the colony with food and equipment in return for regular payment.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Drop off point</ReplaceWith>
+       <Image>Encounters/4.png</Image>
+       <ConfirmText>Shady business, I like it</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>15</Chance>
+      <TitleText>Updated Scans</TitleText>
+      <DescriptionText>Your troops scan the minerals under the cave. The crust is not as rich as orbital scans suggested. Planet scans changed: -0.4 Richness.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ChangeRichness>-0.4</ChangeRichness>
+       <Image>Encounters/5.png</Image>
+       <ConfirmText>Caves are full of terrors</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>25</Chance>
+      <TitleText>Updated Scans</TitleText>
+      <DescriptionText>Your troops scan the minerals under the cave. The crust is richer than orbital scans suggested. Planet scans changed: +0.6 Richness.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ChangeRichness>0.6</ChangeRichness>
+       <Image>Encounters/6.png</Image>
+       <ConfirmText>Caves are full of wonders</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>10</Chance>
+      <TitleText>A Scam</TitleText>
+      <DescriptionText>A shady character who says he is a cave explorer offers to sell a map of this cave system, which hides a secret room. You pay 250 credits. The map is of a different cave.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <MoneyGranted>-250</MoneyGranted>
+       <Image>Encounters/5.png</Image>
+       <ConfirmText>Was he a Ferengi?</ConfirmText>
+    </Outcome>
+    
+  </PotentialOutcomes>
+ </ExplorationEvent>

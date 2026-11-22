@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/ XMLSchema"> 
+  <Version>2</Version>
+  <UID>Borg Technology Analysis</UID>
+  <TechnologyType>General</TechnologyType>
+  <Cost>3000</Cost>
+  <NameIndex>40174</NameIndex>
+  <DescriptionIndex>40175</DescriptionIndex>
+  <LeadsTo />
+  <ModulesUnlocked />
+  <BuildingsUnlocked>
+    <UnlockedBuilding>
+      <Name>Borg Analysis Lab</Name>
+    </UnlockedBuilding>
+  </BuildingsUnlocked>
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

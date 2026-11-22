@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Diplomatic Mission Online</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>The Mission Opens Its Doors</TitleText>
+      <DescriptionText>Our diplomats have sent a sealed message through Romulan channels. A reply comes within hours: a meeting place on a nearby world, a defector and a very short deadline.</DescriptionText>
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <ReplaceWith>Defector Rendezvous</ReplaceWith>
+      <Image>Encounters/techevent2.png</Image>
+      <ConfirmText>Mark the coordinates</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

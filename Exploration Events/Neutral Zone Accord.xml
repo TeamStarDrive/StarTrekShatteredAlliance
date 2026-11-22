@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Neutral Zone Accord</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>60</Chance>
+      <TitleText>The Accord Is Signed</TitleText>
+      <DescriptionText>A Romulan praetor and a Federation envoy sign terms on a table made from a shuttle hatch. Both sides trade phased-armour research as proof of good faith and Starfleet is given two refit Defiants to escort the convoy home.</DescriptionText>
+      <UnlockTech>Armor Phasing</UnlockTech>
+      <MoneyGranted>400</MoneyGranted>
+      <ScienceBonus>0.05</ScienceBonus>
+      <GrantArtifact>true</GrantArtifact>
+      <FriendlyShipsToSpawn>
+        <string>Defiant mk6</string>
+        <string>Defiant mk6</string>
+      </FriendlyShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_03_Neutral_Zone_Accord.png</Image>
+      <ConfirmText>Sign the accord</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>40</Chance>
+      <TitleText>An Uneasy Peace</TitleText>
+      <DescriptionText>The talks break down but the technical exchange does not. Armour plans change hands and a single Defiant is released to us as a courtesy.</DescriptionText>
+      <UnlockTech>Armor Phasing</UnlockTech>
+      <MoneyGranted>250</MoneyGranted>
+      <ScienceBonus>0.03</ScienceBonus>
+      <FriendlyShipsToSpawn>
+        <string>Defiant mk5</string>
+      </FriendlyShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_03_Neutral_Zone_Accord.png</Image>
+      <ConfirmText>Take the plans and leave</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

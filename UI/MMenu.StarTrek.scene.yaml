@@ -2,10 +2,10 @@
 SunPos: [100000, 100000, -100000]
 SunColor: [255,224,144]
 SunIntensity: 3.45
-AmbientColor: [40,0,110] # dark violet
+AmbientColor: [63,0,110] # dark violet
 AmbientIntensity: 1
-CameraPos: [4000, -20000, -8000] # Z:-1000 means out of the screen
-LookAt: [-12000, 4000, 8000] # we're looking far into the screen
+CameraPos: [2285, 265, -1970] # Z:-1000 means out of the screen
+LookAt: [233, -1039, 7730] # we're looking far into the screen
 
 # You can control group behaviours by adding AI list commands:
 #  - [SetSpawnPos] #! Resets the ship to its original spawn position
@@ -39,7 +39,7 @@ Groups:
       - { Type: asteroid, Count: 0, Scale: [1.1,1.5], Speed: [25,35], Orbit: [42000,-75,-25], Offset: [500,250,100], RandRot: [180] }
       - { Type: asteroid, Count: 0, Scale: [0.4,0.5], Speed: [30,40], Orbit: [42000,-75,-25], Offset: [1000,300,100], RandRot: [180] }
       - { Type: asteroid, Count: 0, Scale: [0.08,0.12], Speed: [24,32], Orbit: [42000,-75,-25], Offset: [1500,400,150], RandRot: [180] }
-      - { Type: corvette, Count: 1, Speed: [109,112], MinPos: [-401,800,3210], MaxPos: [4539,800,4811], Rotation: [0,45,-90] } 
+      - { Type: corvette, Count: 5, Speed: [118,152], MinPos: [-778,-1176,191], MaxPos: [3557,558,3462], Rotation: [0,28,90] } 
   - Group:
     Name: AsteroidsClose
     DustTrails: true
@@ -50,15 +50,6 @@ Groups:
       - [GoToState, 0, 0]
     ObjectGroups:
       - { Type: asteroid, Count: 0, Scale: [0.2,0.3], Speed: [300], Orbit: [45500,-75,-25], Offset: [200,100,150], RandRot: [180] }
-
-  - Group:
-    Name: Shipyard
-    Empire: "StarFleet"
-    AI:
-      - [CoastWithRotate, [80, 1000], [0, 0.24, 0]]
-      - [IdlingInDeepSpace, [15, 18]]
-    Objects:
-      - Object: { Type: station, Scale: 3.95, Speed: 10, Position: [600, 300, 2450], Rotation: [-25, -168, 295] } #doesnt load shipyard model
 
   - Group:
     Name: BackgroundFreighters_LeftToRight
@@ -73,12 +64,12 @@ Groups:
       - [WarpingIn, [1]]
       - [GoToState, 0, 0]
     ObjectGroups:
-      - { Type: cruiser,       Count: 4, Speed: [85,95], MinPos: [-66,-356,3328], MaxPos: [19542,339,10549], Rotation: [0,45,90] }
-      - { Type: fighter,       Count: 22, Speed: [146,188], MinPos: [-11256,-614,10744], MaxPos: [37355,173,8387], Rotation: [0,45,90] }
-      - { Type: battleship,    Count: 7, Speed:  [87,129], MinPos: [-17974,-3544,11797],   MaxPos: [9449,8197,-20824], Rotation: [0,45,90] }
-      - { Type: frigate,       Count: 11, Speed: [99,103], MinPos: [-26963,-47,13369], MaxPos: [28199,78,8640], Rotation: [0,45,90] }
-      - { Type: corvette,      Count: 1,  Speed: [147,165], MinPos: [-2786,800,3362], MaxPos: [2131,800,5487], Rotation: [0,45,-90] } 
-      - { Type: titen,         Count: 5, Speed: [72,84], MinPos: [-13525,-3518,13305], MaxPos: [28032,-24365,-13371], Rotation: [0,45,-90] }
+      - { Type: cruiser,       Count: 1, Speed: [83,91], MinPos: [-178, -900, -106], MaxPos: [3266, 478, 2182], Rotation: [0,40,-90] }
+      - { Type: fighter,       Count: 1, Speed: [125,168], MinPos: [-228, -923, -412], MaxPos: [3291, 484, 2620], Rotation: [0,33,-90] }
+      - { Type: battleship,    Count: 1, Speed:  [103,156], MinPos: [-4456, -2866, 2332],   MaxPos: [5339, 1052, 10993], Rotation: [0,63,-90] }
+      - { Type: frigate,       Count: 1, Speed: [105,156], MinPos: [-1476,-1496,650], MaxPos: [3895,652,4838], Rotation: [0,65,90] }
+      - { Type: corvette,      Count: 1,  Speed: [129,199], MinPos: [-589,-1089,376], MaxPos: [3465,533,2781], Rotation: [0,53,90] } 
+      - { Type: titen,         Count: 1, Speed: [84,86], MinPos: [-4373, -2828, 2171], MaxPos: [5299, 1041, 10937], Rotation: [0,55,-90] }
   - Group:
     Name: BackgroundFreighters_RightToLeft
     DiverseShipEmpires: true
@@ -91,7 +82,24 @@ Groups:
       - [WarpingIn, [1]]
       - [GoToState, 0, 0]
     ObjectGroups:
-      - { Type: freighter, Count: 23, Speed: [85,98], MinPos: [-15699,-22617,-22457], MaxPos: [16988,4073,11803], Rotation: [0,45,-90] }
-      - { Type: fighter,   Count: 1, Speed: [135,177], MinPos: [-21443,989,12054], MaxPos: [19481,1351,7107], Rotation: [0,45,-90] }
-      - { Type: corvette,  Count: 5, Speed: [142,170], MinPos: [-16203,681,14156], MaxPos: [29557,1619,10643], Rotation: [0,45,-90] } 
-      - { Type: frigate,  Count: 1, Speed: [120,165], MinPos: [-19928,870,13046], MaxPos: [16849,1781,9163], Rotation: [0,45,-90] } 
+      - { Type: freighter, Count: 5, Speed: [88,97], MinPos: [-4006, -2659, 4330], MaxPos: [5121, 992, 7812], Rotation: [0,48,90] }
+      - { Type: fighter,   Count: 1, Speed: [108,139], MinPos: [-191, -906, -399], MaxPos: [3273, 479, 2511], Rotation: [0,38,-90] }
+      - { Type: corvette,  Count: 10, Speed: [123,133], MinPos: [-1478,-1497,1016], MaxPos: [3896,652,4479], Rotation: [0,24,-90] } 
+      - { Type: frigate,  Count: 5, Speed: [57,88], MinPos: [-4512, -2892, 4841], MaxPos: [5367, 1060, 8633], Rotation: [0,32,90] } 
+  - Group:
+    Name: Placed
+    DiverseShipEmpires: true
+    DisableJumpSfx: true
+    EngineTrails: true
+    AI:
+      - [ForwardCoast, [1, 130]]
+      - [WarpingOut, [1]]
+      - [IdlingInDeepSpace, [10, 15]]
+      - [WarpingIn, [1]]
+      - [GoToState, 0, 0]
+    Objects:
+      - Object: { Type: battleship, Scale: 1, Speed: 90, Position: [-232, 4094, 4496], Rotation: [0, 59, -90] }
+      - Object: { Type: battleship, Scale: 1, Speed: 108, Position: [-232, 4094, 4496], Rotation: [0, 62, -90] }
+      - Object: { Type: battleship, Scale: 1, Speed: 110, Position: [-232, 4094, 4496], Rotation: [0, 59, 90] }
+      - Object: { Type: station, Scale: 1, Speed: 33, Position: [-3825, -2516, 2001], Rotation: [0, 45, 90] }
+      - Object: { Type: station, Scale: 1, Speed: 17, Position: [935, 101, 824], Rotation: [0, 45, 90] }

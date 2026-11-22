@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Guardian Archive</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>60</Chance>
+      <TitleText>A Year Marked in Red</TitleText>
+      <DescriptionText>We find the year the Guardian warns about, and the exact hour a small decision tilts the whole timeline. Starfleet Historians can use this.</DescriptionText>
+      <MoneyGranted>200</MoneyGranted>
+      <ScienceBonus>0.04</ScienceBonus>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>The Pivotal Moment</ReplaceWith>
+      <Image>Encounters/st_05_Guardian_Archive.png</Image>
+      <ConfirmText>Copy the record</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>40</Chance>
+      <TitleText>Echoes in the Stacks</TitleText>
+      <DescriptionText>Figures from the archive turn to look at us. They are not recordings. Two of them step out and the portal flickers with every step.</DescriptionText>
+      <ScienceBonus>0.02</ScienceBonus>
+      <TroopsToSpawn>
+        <string>Skeleton</string>
+        <string>Spider Tank</string>
+      </TroopsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>The Pivotal Moment</ReplaceWith>
+      <Image>Encounters/st_05_Guardian_Archive.png</Image>
+      <ConfirmText>Hold your ground</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

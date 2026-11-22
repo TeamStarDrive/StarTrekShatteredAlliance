@@ -64,16 +64,16 @@
     <Name>StarFleet</Name>
     <Singular>StarFleet</Singular>
     <Plural>StarFleet</Plural>
-    <VideoPath>StarFleet</VideoPath>
+    <VideoPath>StarFleet_Leader</VideoPath>
     <ShipType>fed</ShipType>
     <Adj1>smooth-skinned</Adj1>
     <Adj2>simian</Adj2>
     <HomeSystemName>47 Ursae Majoris</HomeSystemName>
     <HomeworldName>Coyote</HomeworldName>
     <FlagIndex>77</FlagIndex>
-    <R>406</R>
-    <G>306</G>
-    <B>506</B>
+    <R>255</R>
+    <G>255</G>
+    <B>255</B>
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>

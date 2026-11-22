@@ -1,0 +1,28 @@
+<ExplorationEvent>
+  <Name>Debug Exploration Event</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>Debug Subroutine</TitleText>
+      <DescriptionText>The away team's tricorders are almost certain this is a test scenario, which does not stop the burrowing predators from attacking. Once they are dealt with, a hidden dock opens and a recovered Iconian cruiser slips out of the dark. Starfleet's engineers are thrilled. The Q Continuum, as ever, declines to comment.</DescriptionText>
+      <ConfirmText>Clear the room</ConfirmText>
+      <Image>Encounters/1.png</Image>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ReplaceWith>Nano Mine</ReplaceWith>
+      <FriendlyShipsToSpawn>
+        <string>Ancient Torpedo Cruiser</string>
+      </FriendlyShipsToSpawn>
+
+      
+      <GrantArtifact>true</GrantArtifact> <!-- Grants a random artifact -->
+
+      <TroopsToSpawn>
+        <string>Skeleton</string>
+        <string>Skeleton</string>
+        <string>Antlion</string>
+        <string>Antlion</string>
+      </TroopsToSpawn>
+      
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

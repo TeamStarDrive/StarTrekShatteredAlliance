@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Grain Research Station Online</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>The Station Tracks the Pests</TitleText>
+      <DescriptionText>The station traces the spread of quadrotriticale across the sector. Tribbles have found a second colony and the colony would like a word.</DescriptionText>
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <ReplaceWith>Tribble Infestation</ReplaceWith>
+      <Image>Encounters/3.png</Image>
+      <ConfirmText>Mark the coordinates</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

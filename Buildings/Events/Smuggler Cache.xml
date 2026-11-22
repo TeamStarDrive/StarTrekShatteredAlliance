@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Smuggler Cache</Name>
+  <Icon>largewarehouse</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Smuggler Cache</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <EventSpawnChance>45</EventSpawnChance>
+
+  <NameTranslationIndex>40130</NameTranslationIndex>
+  <DescriptionIndex>40131</DescriptionIndex>
+  <ShortDescriptionIndex>40131</ShortDescriptionIndex>
+</Building>

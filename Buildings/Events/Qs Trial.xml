@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Qs Trial</Name>
+  <Icon>Orb</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Qs Trial</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40162</NameTranslationIndex>
+  <DescriptionIndex>40163</DescriptionIndex>
+  <ShortDescriptionIndex>40163</ShortDescriptionIndex>
+</Building>

@@ -1,0 +1,78 @@
+<ExplorationEvent>
+  <Name>Unidentified signature</Name>
+  <PotentialOutcomes>
+
+    <Outcome>
+      <Chance>1</Chance>
+      <TitleText>A Temple</TitleText>
+      <DescriptionText>As your troops get close, they recognise an ancient temple.</DescriptionText>
+      <ReplaceWith>Temple</ReplaceWith>       
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/1.png</Image>
+      <ConfirmText>Looks ancient</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>1</Chance>
+      <TitleText>An Orb</TitleText>
+      <DescriptionText>As your troops get close, they recognise a levitating orb.</DescriptionText>
+      <ReplaceWith>Orb</ReplaceWith>       
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/2.png</Image>
+      <ConfirmText>It's levitating</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>1</Chance>
+      <TitleText>A Mountain</TitleText>
+      <DescriptionText>As your troops get close, they recognise a mountain.</DescriptionText>
+      <ReplaceWith>Mountain trigger</ReplaceWith>       
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/3.png</Image>
+      <ConfirmText>Just a mountain?</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>1</Chance>
+      <TitleText>A Space Elevator</TitleText>
+      <DescriptionText>As your troops get close, they recognise a space elevator.</DescriptionText>
+      <ReplaceWith>Space Elevator Trigger</ReplaceWith>       
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/4.png</Image>
+      <ConfirmText>How did we miss it from orbit?</ConfirmText>
+    </Outcome>
+
+
+    <Outcome>
+      <Chance>1</Chance>
+      <TitleText>An Altar</TitleText>
+      <DescriptionText>As your troops get close, they recognise a mysterious altar.</DescriptionText>
+      <ReplaceWith>Mysterious Altar</ReplaceWith>       
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/5.png</Image>
+      <ConfirmText>A strange altar</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>1</Chance>
+      <TitleText>An Obelisk</TitleText>
+      <DescriptionText>As your troops get close, they recognise an ancient obelisk.</DescriptionText>
+      <ReplaceWith>Obelisk</ReplaceWith>       
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/6.png</Image>
+      <ConfirmText>Be careful</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>1</Chance>
+      <TitleText>A Gateway</TitleText>
+      <DescriptionText>As your troops get close, they recognise a ring-shaped gateway.</DescriptionText>
+      <ReplaceWith>Teleport Trigger</ReplaceWith>       
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/1.png</Image>
+      <ConfirmText>It's a stargate. Sorry, a transporter ring</ConfirmText>
+    </Outcome>
+
+    
+  </PotentialOutcomes>
+ </ExplorationEvent>

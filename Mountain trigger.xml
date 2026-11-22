@@ -1,0 +1,93 @@
+<ExplorationEvent>
+  <Name>Mountain trigger</Name>
+  <PotentialOutcomes>
+
+    <Outcome>
+      <Chance>25</Chance>
+      <TitleText>Unknown Defenders</TitleText>
+      <DescriptionText>Before reaching the power source, your troops are attacked by guardian constructs and fall back. A ship rises from the mountain peak and leaves.</DescriptionText>
+     <RemnantShipsToSpawn>
+          <string>Ancient Frigate</string>
+      </RemnantShipsToSpawn>
+       <TroopsToSpawn>
+        <string>Skeleton</string>
+        <string>Skeleton</string>
+      </TroopsToSpawn>     
+      <ReplaceWith>Mountain</ReplaceWith>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/remn3.png</Image>
+      <ConfirmText>Was that a ship?</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>35</Chance>
+      <TitleText>A Sad Wreck</TitleText>
+      <DescriptionText>Under the snow the team finds the buried wreck of a very old ship. Its damaged reactor is causing errors in your scans. They destroy it and carry on. The snowy mountains turn out to be even bigger than expected.</DescriptionText>
+       <ReplaceWith>Massive mountains</ReplaceWith>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/CrashedShip2.png</Image>
+      <ConfirmText>Let's go back</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>8</Chance>
+      <TitleText>Artifact</TitleText>
+      <DescriptionText>Following the power signature, your troops find an ancient relic and take it.</DescriptionText>
+      <ReplaceWith>Mountain</ReplaceWith>
+      <RemoveTrigger>true</RemoveTrigger>
+      <GrantArtifact>true</GrantArtifact>
+      <Image>Encounters/techevennt1.png</Image>
+      <ConfirmText>Bring it home</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>25</Chance>
+      <TitleText>Hidden Hangar</TitleText>
+      <DescriptionText>The power signature leads to a hidden hangar. Inside are ships in perfect condition, ready for use.</DescriptionText>
+      <ReplaceWith>Mountain</ReplaceWith>
+      <RemoveTrigger>true</RemoveTrigger>
+      <FriendlyShipsToSpawn>
+          <string>Xeno Fighter</string>
+          <string>Xeno Fighter</string>
+          <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+      </FriendlyShipsToSpawn>
+      <Image>Encounters/remn4.png</Image>
+      <ConfirmText>Alien fighters</ConfirmText>
+    </Outcome>
+
+    <Outcome>
+      <Chance>22</Chance>
+      <TitleText>Hidden Hangar</TitleText>
+      <DescriptionText>The power signature leads to a hidden Orion hangar. Inside is a frigate in perfect condition.</DescriptionText>
+      <ReplaceWith>Mountain</ReplaceWith>
+      <RemoveTrigger>true</RemoveTrigger>
+      <FriendlyShipsToSpawn>
+          <string>Corsair</string>
+      </FriendlyShipsToSpawn>
+      <Image>Encounters/pirates3.png</Image>
+      <ConfirmText>Perfect</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>9</Chance>
+      <TitleText>Recovered Technology</TitleText>
+      <DescriptionText>Your team finds an old ship split in half. Its leaking reactor was the source of the scan errors. While searching the wreck your troops find tech schematics.</DescriptionText>
+      <UnlockTech>Remnant Shielding</UnlockTech>
+      <ReplaceWith>Mountain</ReplaceWith>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/CrashedShip2.png</Image>
+      <ConfirmText>A what?</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>25</Chance>
+      <TitleText>Updated Scans</TitleText>
+      <DescriptionText>In the caves, your troops find that the mountain has a unique mineral makeup that reflects most orbital scans. Much of the mountain is rich in exotic minerals. Planet scans changed: +0.8 Richness.</DescriptionText>
+      <ReplaceWith>Mountain</ReplaceWith>
+      <RemoveTrigger>true</RemoveTrigger>
+      <ChangeRichness>0.8</ChangeRichness>
+      <Image>Encounters/5.png</Image>
+      <ConfirmText>A mountain of treasure</ConfirmText>
+    </Outcome>
+
+  </PotentialOutcomes>
+ </ExplorationEvent>

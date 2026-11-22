@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Warriors Camp</Name>
+  <Icon>mountain</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Warriors Camp</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40156</NameTranslationIndex>
+  <DescriptionIndex>40157</DescriptionIndex>
+  <ShortDescriptionIndex>40157</ShortDescriptionIndex>
+</Building>

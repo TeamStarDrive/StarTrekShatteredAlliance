@@ -1,0 +1,24 @@
+﻿<ExplorationEvent>
+  <Name>A Mysterious Signal</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>The Detection Array Hums</TitleText>
+      <DescriptionText>The detection array comes online and your science officers pick up a faint, ancient subspace carrier that seems to come from everywhere at once. A second, sharper signal sits on top of it: a repeating Iconian-pattern beacon from a world inside our own space. The location is now marked on your map. Whatever is broadcasting there is waiting to be found.</DescriptionText>
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <SpawnBuildingOnPlanet>Signal Origin</SpawnBuildingOnPlanet>
+      <SpawnFleetInOrbitOfPlanet>Planetary Shield</SpawnFleetInOrbitOfPlanet>
+
+      <TroopsToSpawn>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+      </TroopsToSpawn>
+      
+      <ConfirmText>Mark the coordinates</ConfirmText>
+    </Outcome>
+    
+  </PotentialOutcomes>
+  
+</ExplorationEvent>

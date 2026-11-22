@@ -1,0 +1,14 @@
+﻿<ExplorationEvent>
+  <Name>Reverse Engineering</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>Secrets of the Ancients</TitleText>
+      <DescriptionText>We have met a group of hostile automated ships. They cannot or will not communicate and have no regard for their own safety. The leading theory is that they are what remains of a once great starfaring empire, left to patrol long after their makers died. Our scientists believe the Iconians may have built them. Further study could tell us a great deal.</DescriptionText>
+<SecretTechDiscovered>Remnant Computing</SecretTechDiscovered>
+<ConfirmText>Let's study it</ConfirmText>
+    </Outcome>
+    
+  </PotentialOutcomes>
+  
+</ExplorationEvent>

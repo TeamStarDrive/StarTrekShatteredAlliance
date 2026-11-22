@@ -10,6 +10,9 @@
     <LeadsToTech>
       <UID>WeatherManipulation</UID>
     </LeadsToTech>
+    <LeadsToTech>
+      <UID>Quadrotriticale Cultivation</UID>
+    </LeadsToTech>
   </LeadsTo>
   <HiddenFrom>
     <RaceRequirements>

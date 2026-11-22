@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Neutral Zone Beacon</Name>
+  <Icon>Unidentified</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Neutral Zone Beacon</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <EventSpawnChance>50</EventSpawnChance>
+
+  <NameTranslationIndex>40100</NameTranslationIndex>
+  <DescriptionIndex>40101</DescriptionIndex>
+  <ShortDescriptionIndex>40101</ShortDescriptionIndex>
+</Building>

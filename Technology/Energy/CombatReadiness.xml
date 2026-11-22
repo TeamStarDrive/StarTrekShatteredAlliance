@@ -13,6 +13,9 @@
     <LeadsToTech>
       <UID>FuelCell1</UID>
     </LeadsToTech>
+    <LeadsToTech>
+      <UID>Dominion Combat Doctrine</UID>
+    </LeadsToTech>
   </LeadsTo>
   <ModulesUnlocked>
     <UnlockedMod>

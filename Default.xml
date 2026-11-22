@@ -1,0 +1,13 @@
+﻿<ExplorationEvent>
+  <Name>Default</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>Out of Order</TitleText>
+      <DescriptionText>A sign on the strange old device reads: OUT OF ORDER, PLEASE CONTACT THE CREATOR. The away team reports that the device is dead, but the parts alone are worth a small fortune on the Orion black market. Commander Riker would like it noted that he did not touch anything.</DescriptionText>
+      <ConfirmText>Take the parts</ConfirmText>
+      <MoneyGranted>150</MoneyGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

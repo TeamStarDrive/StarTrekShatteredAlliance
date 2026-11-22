@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>Qs Doorstep</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>34</Chance>
+      <TitleText>A Gift</TitleText>
+      <DescriptionText>A man in a Starfleet uniform that does not quite fit appears on the bridge, hands you a crate and vanishes. Inside are five hundred credits in a currency nobody has seen before. Research Continuum Studies to follow this lead up.</DescriptionText>
+      <MoneyGranted>500</MoneyGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_31_Qs_Doorstep.png</Image>
+      <ConfirmText>Say thank you</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>33</Chance>
+      <TitleText>A Joke</TitleText>
+      <DescriptionText>The planet below is suddenly a different shape. Q finds this very funny. Research Continuum Studies to follow this lead up.</DescriptionText>
+      <NumTilesToMakeUnhabitable>3</NumTilesToMakeUnhabitable>
+      <ChangeBaseFertility>-0.3</ChangeBaseFertility>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_31_Qs_Doorstep.png</Image>
+      <ConfirmText>Please, no more</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>33</Chance>
+      <TitleText>A Lesson</TitleText>
+      <DescriptionText>Q projects a lecture across every viewscreen in the fleet. It is rude, well-timed, and unquestionably correct. Research Continuum Studies to follow this lead up.</DescriptionText>
+      <ScienceBonus>0.03</ScienceBonus>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_31_Qs_Doorstep.png</Image>
+      <ConfirmText>Take notes</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

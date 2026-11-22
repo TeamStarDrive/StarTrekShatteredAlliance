@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExplorationEvent>
+  <Name>The Corsair Flagship</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>60</Chance>
+      <TitleText>We Take the Flagship</TitleText>
+      <DescriptionText>The Syndicate's flagship is ours, along with her escorts. Her captain tries to bargain, fails, and is released at the nearest port.</DescriptionText>
+      <UnlockTech>Ancient Repulsor</UnlockTech>
+      <MoneyGranted>800</MoneyGranted>
+      <FriendlyShipsToSpawn>
+        <string>Corsair Flagship</string>
+        <string>Corsair-Mk3</string>
+        <string>Corsair-Mk3</string>
+      </FriendlyShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_18_The_Corsair_Flagship.png</Image>
+      <ConfirmText>Take the keys</ConfirmText>
+    </Outcome>
+    <Outcome>
+      <Chance>40</Chance>
+      <TitleText>We Sell the Flagship</TitleText>
+      <DescriptionText>We sell the flagship to a rival syndicate and use the proceeds to refit the fleet.</DescriptionText>
+      <UnlockTech>Ancient Repulsor</UnlockTech>
+      <MoneyGranted>1500</MoneyGranted>
+      <ScienceBonus>0.03</ScienceBonus>
+      <RemoveTrigger>true</RemoveTrigger>
+      <Image>Encounters/st_18_The_Corsair_Flagship.png</Image>
+      <ConfirmText>Count the bars</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

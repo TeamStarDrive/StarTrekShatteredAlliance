@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>Katric Archive</Name>
+  <Icon>Temple</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>Katric Archive</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <EventSpawnChance>45</EventSpawnChance>
+
+  <NameTranslationIndex>40148</NameTranslationIndex>
+  <DescriptionIndex>40149</DescriptionIndex>
+  <ShortDescriptionIndex>40149</ShortDescriptionIndex>
+</Building>

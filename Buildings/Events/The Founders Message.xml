@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Building>
+  <Name>The Founders Message</Name>
+  <Icon>Orb</Icon>
+
+  <Cost>40</Cost>
+  <Maintenance>0</Maintenance>
+
+  <EventTriggerUID>The Founders Message</EventTriggerUID>
+  <CanBuildAnywhere>true</CanBuildAnywhere>
+  <Scrappable>false</Scrappable>
+  <Strength>100</Strength>
+  <NoRandomSpawn>true</NoRandomSpawn>
+
+  <NameTranslationIndex>40140</NameTranslationIndex>
+  <DescriptionIndex>40141</DescriptionIndex>
+  <ShortDescriptionIndex>40141</ShortDescriptionIndex>
+</Building>
