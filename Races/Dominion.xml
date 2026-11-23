@@ -24,43 +24,42 @@
   <ThrustColor1B>222</ThrustColor1B>
   
   <PersonalityTraitsWeights>
-	<string>Aggressive</string>
     <string>Ruthless</string>
-	<string>Ruthless</string>
-	<string>Ruthless</string>
-	<string>Xenophobic</string>
-	<string>Xenophobic</string>
-	<string>Xenophobic</string>
+    <string>Ruthless</string>
+    <string>Ruthless</string>
+    <string>Ruthless</string>
     <string>Cunning</string>
-	<string>Cunning</string>
-	<string>Cunning</string>
-	<string>Cunning</string>	
-	<string>Honorable</string>	
-	<string>Honorable</string>	
-    <string>Pacifist</string>
+    <string>Cunning</string>
+    <string>Cunning</string>
+    <string>Cunning</string>
+    <string>Xenophobic</string>
+    <string>Xenophobic</string>
+    <string>Xenophobic</string>
+    <string>Aggressive</string>
+    <string>Aggressive</string>
   </PersonalityTraitsWeights>
 
   <EconomicTraitsWeights>
-    <string>Technologists</string>
-	<string>Technologists</string>
-	<string>Technologists</string>
-	<string>Technologists</string>
-	<string>Industrialists</string>
-	<string>Industrialists</string>
-	<string>Generalists</string>
-	<string>Generalists</string>
-	<string>Militarists</string>
-	<string>Militarists</string>
-	<string>Expansionists</string>
-	<string>Expansionists</string>
-	<string>Expansionists</string>
+    <string>Militarists</string>
+    <string>Militarists</string>
+    <string>Militarists</string>
+    <string>Militarists</string>
+    <string>Militarists</string>
+    <string>Expansionists</string>
+    <string>Expansionists</string>
+    <string>Expansionists</string>
+    <string>Expansionists</string>
+    <string>Expansionists</string>
+    <string>Generalists</string>
+    <string>Generalists</string>
+    <string>Industrialists</string>
   </EconomicTraitsWeights>
   <!-- Rebel Faction data.-->
-  <RebelName>Confederate Rebels</RebelName>
-  <RebelSing>Confederate</RebelSing>
-  <RebelPlur>Confederates</RebelPlur>
-  <TroopNameIndex>2083</TroopNameIndex>
-  <TroopDescriptionIndex>2092</TroopDescriptionIndex>
+  <RebelName>Jem'Hadar Deserters</RebelName>
+  <RebelSing>Jem'Hadar Deserter</RebelSing>
+  <RebelPlur>Jem'Hadar Deserters</RebelPlur>
+  <TroopNameIndex>40112</TroopNameIndex>
+  <TroopDescriptionIndex>40113</TroopDescriptionIndex>
 
   <Traits>
     <Name>Dominion</Name>

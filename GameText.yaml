@@ -7261,3 +7261,126 @@ BB_Building_RemnantMainframeComplex_ShortDesc2:
 BB_Tech_RemnantLegacy_Desc3:
  Id: 131439
  ENG: "What the Remnant mainframe remembers: every hull they built and the technology behind their fleets."
+TrekArtifact02Name:
+ Id: 40002
+ ENG: "Iconian Frequency Codex"
+TrekArtifact02Description:
+ Id: 40003
+ ENG: "A codex of shield-phase mathematics left by the Iconians, whose gateways once linked the whole galaxy. Your targeting computers can use it to follow a shield's rotating frequency and strike through the gaps. Your weapons gain +10% shield penetration."
+TrekArtifact03Name:
+ Id: 40004
+ ENG: "Ba'ku Metaphasic Seeds"
+TrekArtifact03Description:
+ Id: 40005
+ ENG: "Seeds grown for generations in the Ba'ku gardens, under a metaphasic radiation field that renews every living thing it touches. Sown on a colony, they make the soil richer and the harvests larger. Raises fertility on all your colonies by 10%."
+TrekArtifact04Name:
+ Id: 40006
+ ENG: "Exocomp Swarm Controller"
+TrekArtifact04Description:
+ Id: 40007
+ ENG: "A controller for a swarm of Exocomps, the self-aware repair machines that learned to refuse orders they judged unsafe. Treated as partners, they will build and repair around your industries without being asked. Raises production by 10%."
+TrekArtifact05Name:
+ Id: 40008
+ ENG: "Augment Genome Vial"
+TrekArtifact05Description:
+ Id: 40009
+ ENG: "A sealed vial of genetic material from the Augments of the Eugenics Wars, bred to be stronger and faster than any ordinary soldier, and hard to control. Your ground troops are strengthened by it. Raises ground combat strength by 10%."
+TrekArtifact12Name:
+ Id: 40022
+ ENG: "Praxis Dilithium Cache"
+TrekArtifact12Description:
+ Id: 40023
+ ENG: "A sealed cache of raw dilithium recovered from the shattered moon Praxis, the Klingon homeworld's energy source. Traders will pay well for it, and for the contacts it brings. Adds 15 credits per turn to your income."
+TrekArtifact13Name:
+ Id: 40024
+ ENG: "Soong's Positronic Matrix"
+TrekArtifact13Description:
+ Id: 40025
+ ENG: "A positronic brain matrix from the workshop of Doctor Noonien Soong, creator of Data. Studied by your scientists it speeds research, and its designs teach your factories to work faster. Raises research by 10% and production by 5%."
+TrekArtifact14Name:
+ Id: 40026
+ ENG: "Genesis Matrix Fragment"
+TrekArtifact14Description:
+ Id: 40027
+ ENG: "A fragment of the matrix at the heart of the Genesis Device, which can turn a dead world into a living one. Spread across your colonies it makes the land richer and the people healthier. Raises fertility by 10% and population growth by 25%."
+TrekArtifact15Name:
+ Id: 40028
+ ENG: "Bat'leth of Kahless"
+TrekArtifact15Description:
+ Id: 40029
+ ENG: "The first bat'leth, forged by Kahless the Unforgettable from a lock of his own hair. Warriors fight harder under it, and even old enemies respect whoever holds it. Raises ground combat strength by 10% and diplomacy by 5%."
+TrekArtifact19Name:
+ Id: 40036
+ ENG: "Tholian Crystal Armour Seed"
+TrekArtifact19Description:
+ Id: 40037
+ ENG: "A seed of the crystal the Tholians grow into ship armour, in an atmosphere that would melt most hulls. Planted in a drydock it gives modules a sharper edge and your sensors a clearer picture. Raises module hit points by 10% and sensor range by 10%."
+TrekArtifact20Name:
+ Id: 40038
+ ENG: "Ketracel-White Cache"
+TrekArtifact20Description:
+ Id: 40039
+ ENG: "A sealed cache of the white the Dominion's Jem'Hadar soldiers need to live, and the drug that makes them obey. Used sparingly it hardens troops for battle. Raises ground combat strength by 15%."
+TrekArtifact21Name:
+ Id: 40040
+ ENG: "Kir'Shara"
+TrekArtifact21Description:
+ Id: 40041
+ ENG: "The Kir'Shara, the original writings of Surak, long hidden in the Vulcan desert. Followers find calm in them, and negotiators find the right words. Raises diplomacy by 10% and research by 5%."
+ExoticResourcePulseFieldName:
+ Id: 4953
+ ENG: "Verteron Gas"
+ExoticResourceRefinedPulsefieldName:
+ Id: 4933
+ ENG: "Verteron"
+ExoticResourcePulseFieldDesc:
+ Id: 4954
+ ENG: "Verteron particles are what deflector dishes and shield grids are built to push around. Refined Verteron can enhance the recharge of ship and planetary shields by up to 50%."
+ExoticResourceLuxariumName:
+ Id: 4947
+ ENG: "Latinum Vapour"
+ExoticResourceRefinedLuxariumName:
+ Id: 4934
+ ENG: "Latinum"
+ExoticResourceLuxariumDesc:
+ Id: 4948
+ ENG: "Latinum, the one thing a Ferengi will never stop counting. Refined Latinum can increase the rate of Credits added to your empire per turn by up to 50%."
+ExoticResourceFortifumeName:
+ Id: 4945
+ ENG: "Trellium-D Gas"
+ExoticResourceRefinedFortifumeName:
+ Id: 4935
+ ENG: "Trellium-D"
+ExoticResourceFortifumeDesc:
+ Id: 4946
+ ENG: "Trellium-D shrugs off the subspace and radiation damage that tears ordinary armour apart. Refined Trellium-D can decrease damage dealt to your ship modules by up to 50%, the damage reduction is applied if the module was actually hit (projectile was not deflected)."
+ExoticResourceEnergonName:
+ Id: 4943
+ ENG: "Deuterium Gas"
+ExoticResourceRefinedEnergonName:
+ Id: 4936
+ ENG: "Deuterium"
+ExoticResourceEnergonDesc:
+ Id: 4944
+ ENG: "Deuterium is the fuel of every matter and antimatter core, and the lifeblood of a shipyard. Refined Deuterium can increase Production output by up to 25%."
+ExoticResourceNanoGasName:
+ Id: 4941
+ ENG: "Metaphasic Gas"
+ExoticResourceRefinedNanoName:
+ Id: 4937
+ ENG: "Metaphasic Compound"
+ExoticResourceNanoGasDesc:
+ Id: 4942
+ ENG: "Metaphasic radiation renews living tissue and starship hulls alike. Refined Metaphasic Compound can increase Repair rate by up to 100%."
+ExoticResourceAetheriumName:
+ Id: 4939
+ ENG: "Dilithium Vapour"
+ExoticResourceRefinedAetheriumName:
+ Id: 4938
+ ENG: "Dilithium"
+ExoticResourceAetheriumDesc:
+ Id: 4940
+ ENG: "Dilithium is the crystal that keeps a warp core's matter and antimatter reaction in balance. Refined Dilithium can increase Warp Speeds by up to 100%."
+CodexExpansionExoticResourcesText:
+ Id: 100179
+ ENG: "Some gas giants hold an exotic gas. Mine it, refine it at a station in orbit, and your whole empire gets a bonus, from faster shield recharge to more credits.\n\n<color=Caption>Where they are</color>Each such gas giant holds one of six resources, drawn with equal odds, and a richness from 1 to 6: how much one mining ship gathers there per turn. The exotic systems list shows every one you have found.\n<li>Verteron: shield recharge, up to +50%.</li>\n<li>Latinum: credits, up to +50%.</li>\n<li>Trellium-D: damage reduction, up to +50%.</li>\n<li>Deuterium: production, up to +25%.</li>\n<li>Metaphasic Compound: repair rate, up to +100%.</li>\n<li>Dilithium: warp speed, up to +100%.</li>\n\n<color=Caption>Mining stations</color>With the technology, a mining station can be placed in orbit, by hand from the deep space build window or by the automation. Up to four stations fit around one planet. The first empire to set up operations owns the planet's mining, and no one else can add a station there. The claim passes to another empire that boards every station present, and lapses when the owner's last station is gone, or may while it comes apart, to whoever holds the most planets in the system.\n<li>The station launches mining ships from its mining bays, which need ordnance to launch. They gather the raw resource at the planet and bring it back to the station's hold, landing on the station to unload. From the moment a mining ship leaves the station until it has taken off from the planet again, nothing can harm or board it; it can be attacked only on its flight back to the station.</li>\n<li>Each turn the station refines raw material from its hold, up to its refining rate, and gets the refined resource at the resource's refine ratio: 0.5 to start, raised by the Refining Efficiency technology. It never refines more than the empire still needs.</li>\n<li>Refining eats food, or production for a cybernetic race, brought by freighters. A station without supplies, or without raw material yet, sits inactive. Richness, Refining and Costs has the numbers.</li>\n\n<color=Caption>What the empire does with it</color>Each resource has a consumption that grows with your empire: credits with your population, production with your gross production, damage reduction with the surface area of all your ships, warp speed with their total warp thrust, and shield recharge and repair with what was actually recharged or repaired that turn.\n<li>The bonus each turn is the refined amount, capped at consumption, plus what is in store, divided by consumption, times the resource's maximum. Meet consumption and you have the full bonus.</li>\n<li>Refining beyond consumption goes into the empire's exotic store, a tenth of your colonies' total storage before racial and technology modifiers. When the store is full, output throttles down to consumption, which is why a busy station can show low output.</li>\n<li>When consumption outgrows refining, the store drains and the bonus falls with it. Add stations.</li>\n\n<color=Caption>Reading the panel</color>Output is refining done against what your stations could refine. Refining against consumption shows whether the store is filling or draining. Ops counts active stations, all built stations, and stations under construction or on their way. Mining can be switched off for a whole game in the rule options."

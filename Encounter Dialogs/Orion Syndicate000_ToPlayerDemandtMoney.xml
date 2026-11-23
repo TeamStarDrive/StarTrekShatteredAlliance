@@ -4,43 +4,48 @@
   <Name>Protection Money</Name>
   <FactionInitiated>true</FactionInitiated>
   <PercentMoneyDemanded>10</PercentMoneyDemanded> <!-- this percentage of total treasury request will be modified and overwrite any MoneyToThem below -->
-  <DescriptionText>While you are busy managing your empire's new found colonies, you receive a message from an organization which is called "The Orion Syndicate":</DescriptionText>
+  <DescriptionText>While your colonies are busy growing, an unregistered ship drops out of warp at the edge of your territory and hails you. The transmission is signed "The Orion Syndicate":</DescriptionText>
   <MessageList>
     <Message>
-    <LocalizedText>EncOrion Syndicate000_Msg0</LocalizedText>
-    <ResponseOptions>
-      <Response>
-        <LocalizedText>EncOrion Syndicate000_Msg0_R1_AgreeToPay</LocalizedText>
-        <MoneyToThem>250</MoneyToThem>
-        <SuccessIndex>1</SuccessIndex>
-        <FailIndex>3</FailIndex>
-      </Response>
-      <Response>
-        <LocalizedText>EncOrion Syndicate000_Msg0_R2_RefuseToPay</LocalizedText>
-        <DefaultIndex>2</DefaultIndex>
-      </Response>
-    </ResponseOptions>
-  </Message>
+      <Text>Dearest SING friends,
+
+We are so pleased that you have found a few new worlds. Space is a dangerous place, and all those freighters flying between your colonies are so very exposed. Pirates, Nausicaans, raiders from the Badlands, you would be amazed what is out there.
+
+So here is our proposal. You pay the Orion Syndicate MONEY credits now, and we will see to it that nothing unfortunate happens to your SING ships. If you decline, we cannot make any promises about what happens to them.
+
+With warmest regards,
+  Harcourt Fenton Mudd, Independent Trader and Gentleman
+  (acting on behalf of the Orion Syndicate)</Text>
+      <ResponseOptions>
+        <Response>
+          <Text>Agree to pay this gentleman his protection money.</Text>
+          <MoneyToThem>250</MoneyToThem>
+          <SuccessIndex>1</SuccessIndex>
+          <FailIndex>3</FailIndex>
+        </Response>
+        <Response>
+          <Text>Refuse to pay the Syndicate!</Text>
+          <DefaultIndex>2</DefaultIndex>
+        </Response>
+      </ResponseOptions>
+    </Message>
     <Message>
-      <Index>1</Index>
+      <Text>Splendid! A sensible SING is a rich SING. The Syndicate will remember your generosity. Until we need something else, sleep well and safe flying.</Text>
       <EndWar>true</EndWar>
-      <LocalizedText>EncOrion Syndicate000_Msg1</LocalizedText>
       <SetPlayerContactStep>2</SetPlayerContactStep> <!--Friendly, option to terminate agreement-->
       <SetFactionContactStep>2</SetFactionContactStep> <!-- Money demand after end of contract period -->
       <EndTransmission>true</EndTransmission>
     </Message>
     <Message>
-      <Index>2</Index>
+      <Text>How disappointing. We hoped we could be friends. We will see how long your freighters last without the Syndicate's goodwill. Remember, you were asked politely.</Text>
       <SetWar>true</SetWar>
-      <LocalizedText>EncOrion Syndicate000_Msg2</LocalizedText>
       <EndTransmission>true</EndTransmission>
       <SetPlayerContactStep>3</SetPlayerContactStep> <!--pay twice to end the war-->
       <SetFactionContactStep>2</SetFactionContactStep> <!-- Money demand after end of contract period -->
     </Message>
     <Message>
-      <Index>3</Index>
+      <Text>Is this some sort of SING joke? You do not have the credits! That is not the Syndicate's problem. We will collect our payment from your freighters instead.</Text>
       <SetWar>true</SetWar>
-      <LocalizedText>EncOrion Syndicate000_Msg3</LocalizedText>
       <EndTransmission>true</EndTransmission>
       <SetPlayerContactStep>3</SetPlayerContactStep> <!--pay twice to end the war-->
       <SetFactionContactStep>2</SetFactionContactStep> <!-- Money demand after end of contract period -->

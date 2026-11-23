@@ -1,46 +1,38 @@
 ﻿<Encounter>
   <Faction>Orion Syndicate</Faction>
   <Step>3</Step>
-  <PlayerInitiated>true</PlayerInitiated>
   <Name>Contact Orion Syndicate</Name>
+  <PlayerInitiated>true</PlayerInitiated>
   <PercentMoneyDemanded>20</PercentMoneyDemanded> <!-- this percentage of total treasury request will be modified and overwrite any MoneyToThem below -->
-  <DescriptionText>You hail the corsair captain. After a few short moments a crackling voice comes over the subspace communicator:</DescriptionText>
+  <DescriptionText>You hail the Syndicate vessel. After a few moments a crackling voice answers over the subspace channel:</DescriptionText>
   <MessageList>
     <Message>
-      <Text>
-Hello SING, 
-So you are here to pay your protection money like a good boy? It will Cost you MONEY credits this time,
-harry mud
-      </Text>
+      <Text>Hello again, SING. Have you come to pay what you owe like a good customer? It will cost you MONEY credits this time. The Syndicate does not forget debts.</Text>
       <ResponseOptions>
         <Response>
-          <Text>Pay them what they want.</Text>
+          <Text>Pay what they ask.</Text>
           <SuccessIndex>1</SuccessIndex>
           <FailIndex>3</FailIndex>
         </Response>
         <Response>
-          <Text>Change your mind and tell them to bug off.</Text>
+          <Text>Change your mind and tell them to leave you alone.</Text>
           <DefaultIndex>2</DefaultIndex>
         </Response>
       </ResponseOptions>
     </Message>
-
     <Message>
-      <Index>1</Index>
+      <Text>Thank you, SING. These credits are very shiny. You are once again under the Syndicate's protection.</Text>
       <EndWar>true</EndWar>
-      <Text>Why, thank you. These credits look shiny</Text>
       <MoneyToThem>500</MoneyToThem>
       <EndTransmission>true</EndTransmission>
       <SetPlayerContactStep>2</SetPlayerContactStep> <!--Friendly, option to terminate agreement-->
     </Message>
     <Message>
-      <Index>2</Index>
-      <Text>So why bother contacting us?</Text>
+      <Text>Then why waste our time? Your freighters will pay for this.</Text>
       <EndTransmission>true</EndTransmission>
     </Message>
     <Message>
-      <Index>3</Index>
-      <Text>Unfortunately for your freighters, you do not had enough money.</Text>
+      <Text>You cannot afford it? Then your freighters will have to cover the difference.</Text>
       <EndTransmission>true</EndTransmission>
     </Message>
   </MessageList>

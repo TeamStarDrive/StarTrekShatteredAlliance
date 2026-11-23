@@ -54,11 +54,11 @@
   </EconomicTraitsWeights>  
   
   <!-- Rebel Faction data.-->
-  <RebelName>Confederate Rebels</RebelName>
-  <RebelSing>Confederate</RebelSing>
-  <RebelPlur>Confederates</RebelPlur>
-  <TroopNameIndex>2083</TroopNameIndex>
-  <TroopDescriptionIndex>2092</TroopDescriptionIndex>
+  <RebelName>Terran Resistance</RebelName>
+  <RebelSing>Resistance Fighter</RebelSing>
+  <RebelPlur>Resistance Fighters</RebelPlur>
+  <TroopNameIndex>40102</TroopNameIndex>
+  <TroopDescriptionIndex>40103</TroopDescriptionIndex>
 
   <Traits>
     <Name>The United Federation</Name>

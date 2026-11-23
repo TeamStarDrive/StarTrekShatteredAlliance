@@ -1,35 +1,96 @@
 ﻿<Encounter>
   <Faction>Orion Syndicate</Faction>
   <Step>2</Step>
-  <PlayerInitiated>true</PlayerInitiated>
   <Name>Contact Orion Syndicate</Name>
-  <DescriptionText>You hail the corsair captain. After a few short moments a crackling voice comes over the subspace communicator:</DescriptionText>
+  <PlayerInitiated>true</PlayerInitiated>
+  <DescriptionText>You hail the Syndicate vessel. This time they answer quickly, and the face on the screen is smiling:</DescriptionText>
   <MessageList>
     <Message>
-      <Text>Hello SING, how can we help you in this fine day?</Text>
+      <Text>Hello SING, and a fine day to you! A valued customer of the Syndicate is always welcome. What can we do for you?</Text>
       <ResponseOptions>
         <Response>
-          <Text>Tell them you want the Protection Contract off and you are going to kill them.</Text>
+          <Text>Ask what the Syndicate has been hearing lately.</Text>
           <DefaultIndex>1</DefaultIndex>
         </Response>
         <Response>
-          <Text>Give regards and end transmission</Text>
+          <Text>Tell them the protection contract is over, and that you are coming for them.</Text>
           <DefaultIndex>2</DefaultIndex>
+        </Response>
+        <Response>
+          <Text>Give your regards and end the transmission.</Text>
+          <DefaultIndex>3</DefaultIndex>
         </Response>
       </ResponseOptions>
     </Message>
-
     <Message>
-      <Index>1</Index>
+      <Text>Ah, you are interested in news! The Syndicate has ears in every port, from the Orion Colonies to the Klingon border. Information is the one cargo that never spoils. And for a customer in good standing, the gossip is free. What would you like to know?</Text>
+      <ResponseOptions>
+        <Response>
+          <Text>What is happening along the Klingon and Romulan borders?</Text>
+          <DefaultIndex>4</DefaultIndex>
+        </Response>
+        <Response>
+          <Text>What do you know about the Dominion?</Text>
+          <DefaultIndex>5</DefaultIndex>
+        </Response>
+        <Response>
+          <Text>Have you heard anything about the Borg?</Text>
+          <DefaultIndex>6</DefaultIndex>
+        </Response>
+        <Response>
+          <Text>Never mind. Let us talk about something else.</Text>
+          <DefaultIndex>0</DefaultIndex>
+        </Response>
+      </ResponseOptions>
+    </Message>
+    <Message>
+      <Text>Well then, if you insist on losing your freighters. Do not say that the Syndicate did not warn you. We will see you soon.</Text>
       <SetWar>true</SetWar>
-      <Text>OK then. If you insist losing your freighters. We'll see you around, soon.</Text>
       <EndTransmission>true</EndTransmission>
       <SetPlayerContactStep>3</SetPlayerContactStep> <!--pay twice to end the war-->
     </Message>
     <Message>
-      <Index>2</Index>
-      <Text>Thank you, we will contact you later.</Text>
+      <Text>Thank you for calling, SING. We will be in touch when the contract needs renewing. Safe flying.</Text>
       <EndTransmission>true</EndTransmission>
+    </Message>
+    <Message>
+      <Text>The Klingons are restless, as always. Honour is a fine thing, but it does not fill a cargo hold, and a surprising number of warriors are happy to buy disruptors with no questions asked. The Romulans watch the Neutral Zone and say nothing, which worries us far more than shouting. Cloaked ships have been seen where no cloaked ships should be, and the Tal Shiar is paying very well for silence.</Text>
+      <ResponseOptions>
+        <Response>
+          <Text>Ask about something else.</Text>
+          <DefaultIndex>1</DefaultIndex>
+        </Response>
+        <Response>
+          <Text>That is enough for today.</Text>
+          <DefaultIndex>3</DefaultIndex>
+        </Response>
+      </ResponseOptions>
+    </Message>
+    <Message>
+      <Text>The Dominion? Now that is a name that makes even Syndicate captains lower their voices. Out beyond the wormhole there is a power that has ruled a quarter of the galaxy for a thousand years, and its soldiers do not drink, bargain or take bribes. A smuggler can get used to many things, but not to customers who cannot be bought. We keep our distance, and so should you.</Text>
+      <ResponseOptions>
+        <Response>
+          <Text>Ask about something else.</Text>
+          <DefaultIndex>1</DefaultIndex>
+        </Response>
+        <Response>
+          <Text>That is enough for today.</Text>
+          <DefaultIndex>3</DefaultIndex>
+        </Response>
+      </ResponseOptions>
+    </Message>
+    <Message>
+      <Text>The Borg? We do not sell to the Borg, SING, and we would advise you not to meet them. Whole colonies have gone silent in the dark, without a distress call or a wreck. A cube arrives, and then there is nothing. Even the Syndicate can profit from a war, but not from a hive that wants nothing and takes everything. If you see a cube, run.</Text>
+      <ResponseOptions>
+        <Response>
+          <Text>Ask about something else.</Text>
+          <DefaultIndex>1</DefaultIndex>
+        </Response>
+        <Response>
+          <Text>That is enough for today.</Text>
+          <DefaultIndex>3</DefaultIndex>
+        </Response>
+      </ResponseOptions>
     </Message>
   </MessageList>
 </Encounter>

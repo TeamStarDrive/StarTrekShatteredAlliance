@@ -1,23 +1,21 @@
 ﻿<Encounter>
   <Faction>Orion Syndicate</Faction>
   <Step>1</Step>
-  <PlayerInitiated>true</PlayerInitiated>
   <Name>Contact Orion Syndicate</Name>
-  <DescriptionText>You hail the corsair captain. After a few short moments a crackling voice comes over the subspace communicator:</DescriptionText>
+  <PlayerInitiated>true</PlayerInitiated>
+  <DescriptionText>You hail the Syndicate vessel. After a few moments a crackling voice answers over the subspace channel:</DescriptionText>
   <MessageList>
     <Message>
-      <Text>SING! We said we do not wish to speak with you. Go Away!</Text>
+      <Text>SING, we told you we would call you when the time came. The Syndicate does not take calls. Go away.</Text>
       <ResponseOptions>
         <Response>
-          <Text>End Transmission.</Text>
-         <DefaultIndex>1</DefaultIndex>
+          <Text>End transmission.</Text>
+          <DefaultIndex>1</DefaultIndex>
         </Response>
       </ResponseOptions>
     </Message>
-
     <Message>
-      <Index>1</Index>
-      <Text>Your subspace transmitter cracks in a strange noise. These guys are grumpy.</Text>
+      <Text>The channel is cut. Nobody on the other end seems to be in a good mood.</Text>
       <EndTransmission>true</EndTransmission>
     </Message>
   </MessageList>

@@ -24,23 +24,40 @@
   <ThrustColor1B>222</ThrustColor1B>
   
   <PersonalityTraitsWeights>
-	<string>Aggressive</string>
-	<string>Ruthless</string>
-    <string>Cunning</string>
-    <string>Honorable</string>	
-	<string>Honorable</string>	
-	<string>Honorable</string>	
     <string>Pacifist</string>
-	<string>Pacifist</string>
-	<string>Pacifist</string>
-  </PersonalityTraitsWeights>  
+    <string>Pacifist</string>
+    <string>Pacifist</string>
+    <string>Pacifist</string>
+    <string>Pacifist</string>
+    <string>Honorable</string>
+    <string>Honorable</string>
+    <string>Honorable</string>
+    <string>Honorable</string>
+    <string>Honorable</string>
+    <string>Cunning</string>
+  </PersonalityTraitsWeights>
+
+  <EconomicTraitsWeights>
+    <string>Technologists</string>
+    <string>Technologists</string>
+    <string>Technologists</string>
+    <string>Technologists</string>
+    <string>Technologists</string>
+    <string>Technologists</string>
+    <string>Technologists</string>
+    <string>Generalists</string>
+    <string>Generalists</string>
+    <string>Generalists</string>
+    <string>Industrialists</string>
+    <string>Expansionists</string>
+  </EconomicTraitsWeights>  
   
   <!-- Rebel Faction data.-->
-  <RebelName>Confederate Rebels</RebelName>
-  <RebelSing>Confederate</RebelSing>
-  <RebelPlur>Confederates</RebelPlur>
-  <TroopNameIndex>2083</TroopNameIndex>
-  <TroopDescriptionIndex>2092</TroopDescriptionIndex>
+  <RebelName>Syrrannite Movement</RebelName>
+  <RebelSing>Syrrannite</RebelSing>
+  <RebelPlur>Syrrannites</RebelPlur>
+  <TroopNameIndex>40110</TroopNameIndex>
+  <TroopDescriptionIndex>40111</TroopDescriptionIndex>
 
   <Traits>
     <Name>Vulcan</Name>

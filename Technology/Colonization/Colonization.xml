@@ -26,23 +26,23 @@
   </ModulesUnlocked>
   <TroopsUnlocked>
   <UnlockedTroop>
-      <Name>dominion</Name>
+      <Name>Jem'Hadar Soldier</Name>
       <Type>dominion</Type>
     </UnlockedTroop>
   <UnlockedTroop>
-      <Name>vulcan</Name>
+      <Name>Vulcan Security Guard</Name>
       <Type>vulcan</Type>
     </UnlockedTroop>
   <UnlockedTroop>
-      <Name>Cardassia</Name>
+      <Name>Cardassian Guard</Name>
       <Type>Cardassia</Type>
     </UnlockedTroop>
   <UnlockedTroop>
-      <Name>FreeBorg</Name>
+      <Name>Liberated Drone</Name>
       <Type>FreeBorg</Type>
     </UnlockedTroop>
   <UnlockedTroop>
-      <Name>Klingon</Name>
+      <Name>Klingon Warrior</Name>
       <Type>Klingon</Type>
     </UnlockedTroop>
     <UnlockedTroop>
@@ -50,11 +50,11 @@
       <Type>Terran</Type>
     </UnlockedTroop>
 	<UnlockedTroop>
-      <Name>Romulan</Name>
+      <Name>Romulan Legionary</Name>
       <Type>Romulan</Type>
     </UnlockedTroop>
 	<UnlockedTroop>
-      <Name>Fed_Security</Name>
+      <Name>Starfleet Security Detail</Name>
       <Type>fed</Type>
     </UnlockedTroop>
     <UnlockedTroop>

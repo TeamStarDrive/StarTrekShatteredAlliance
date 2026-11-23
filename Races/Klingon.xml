@@ -28,11 +28,11 @@
   </ExcludedDTraits>
   
   <!-- Rebel Faction data.-->
-  <RebelName>Confederate Rebels</RebelName>
-  <RebelSing>Confederate</RebelSing>
-  <RebelPlur>Confederates</RebelPlur>
-  <TroopNameIndex>2083</TroopNameIndex>
-  <TroopDescriptionIndex>2092</TroopDescriptionIndex>
+  <RebelName>House of Duras</RebelName>
+  <RebelSing>Duras Rebel</RebelSing>
+  <RebelPlur>Duras Rebels</RebelPlur>
+  <TroopNameIndex>40104</TroopNameIndex>
+  <TroopDescriptionIndex>40105</TroopDescriptionIndex>
 
   <!-- Fertility multipliers for environments. The default is 1 in the code, but the tags are included here for reference -->
   <EnvTerran>1</EnvTerran>
@@ -46,35 +46,35 @@
   <PreferredEnv>Terran</PreferredEnv> <!-- Terraformers will terraform a planet to this environment -->
   
   <PersonalityTraitsWeights>
-	<string>Aggressive</string>
-	<string>Aggressive</string>
-	<string>Aggressive</string>
-	<string>Aggressive</string>
+    <string>Honorable</string>
+    <string>Honorable</string>
+    <string>Honorable</string>
+    <string>Honorable</string>
+    <string>Honorable</string>
+    <string>Aggressive</string>
+    <string>Aggressive</string>
+    <string>Aggressive</string>
+    <string>Aggressive</string>
+    <string>Aggressive</string>
     <string>Ruthless</string>
-	<string>Ruthless</string>
-	<string>Ruthless</string>
-	<string>Xenophobic</string>
-    <string>Cunning</string>
-    <string>Honorable</string>
-    <string>Honorable</string>
-    <string>Honorable</string>
-    <string>Honorable</string>
-    <string>Honorable</string>
-    <string>Pacifist</string>
+    <string>Ruthless</string>
+    <string>Xenophobic</string>
   </PersonalityTraitsWeights>
   
   <EconomicTraitsWeights>
-    <string>Technologists</string>
-	<string>Industrialists</string>
-	<string>Industrialists</string>
-	<string>Generalists</string>
-	<string>Generalists</string>
-	<string>Militarists</string>
-	<string>Militarists</string>
-	<string>Militarists</string>
-	<string>Expansionists</string>
-	<string>Expansionists</string>
-	<string>Expansionists</string>
+    <string>Militarists</string>
+    <string>Militarists</string>
+    <string>Militarists</string>
+    <string>Militarists</string>
+    <string>Militarists</string>
+    <string>Militarists</string>
+    <string>Expansionists</string>
+    <string>Expansionists</string>
+    <string>Expansionists</string>
+    <string>Expansionists</string>
+    <string>Industrialists</string>
+    <string>Industrialists</string>
+    <string>Generalists</string>
   </EconomicTraitsWeights>  
   
   <Traits>

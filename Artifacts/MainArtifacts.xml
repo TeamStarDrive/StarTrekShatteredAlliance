@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfArtifact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
+  <!-- Modders et al note that if you want to change the name or description of an artifact, or add an artifact, you need to modify the 
+  localization file and reference the NameIndex and DescriptionIndexes here. The Name and Description Fields are just for show here-->
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Birth Crystal</Name>
+    <Description>A crystal charged with the energy of the Ocampan Elogium, the once-in-a-lifetime fertility event of a species that lives only nine years. Held by your empire, it brings that surge of life to every colony: more births, healthier young. Raises population growth by 50%.</Description>
+    <NameIndex>40000</NameIndex>
+    <DescriptionIndex>40001</DescriptionIndex>
+    <ReproductionMod>0.5</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Polaron Codex</Name>
+    <Description>A codex of shield-phase mathematics left by the Iconians, whose gateways once linked the whole galaxy. Your targeting computers can use it to follow a shield's rotating frequency and strike through the gaps. Your weapons gain +10% shield penetration.</Description>
+    <NameIndex>40002</NameIndex>
+    <DescriptionIndex>40003</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0.1</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Lemba Seeds</Name>
+    <Description>Seeds grown for generations in the Ba'ku gardens, under a metaphasic radiation field that renews every living thing it touches. Sown on a colony, they make the soil richer and the harvests larger. Raises fertility on all your colonies by 10%.</Description>
+    <NameIndex>40004</NameIndex>
+    <DescriptionIndex>40005</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0.1</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Nano-Collective Controller</Name>
+    <Description>A controller for a swarm of Exocomps, the self-aware repair machines that learned to refuse orders they judged unsafe. Treated as partners, they will build and repair around your industries without being asked. Raises production by 10%.</Description>
+    <NameIndex>40006</NameIndex>
+    <DescriptionIndex>40007</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0.1</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Rage Crystal</Name>
+    <Description>A sealed vial of genetic material from the Augments of the Eugenics Wars, bred to be stronger and faster than any ordinary soldier, and hard to control. Your ground troops are strengthened by it. Raises ground combat strength by 10%.</Description>
+    <NameIndex>40008</NameIndex>
+    <DescriptionIndex>40009</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0.1</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Ascension Crystal</Name>
+    <Description>One of the Orbs of the Prophets, the Bajoran artifacts that show whoever holds them a vision of their own past and a hint of what lies ahead. Scholars who study it make leaps they cannot explain. Raises research by 10%.</Description>
+    <NameIndex>40010</NameIndex>
+    <DescriptionIndex>40011</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0.1</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Ecstasy Crystal</Name>
+    <Description>A crystal from the pleasure resort world of Risa. Anyone near it feels warm, relaxed and generous, and visitors spend freely. Adds 10 credits per turn to your income.</Description>
+    <NameIndex>40012</NameIndex>
+    <DescriptionIndex>40013</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>10</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Latinum Sceptre</Name>
+    <Description>The staff of office of a Grand Nagus of the Ferengi Alliance, topped with a crystal of pressed latinum. Whoever carries it is treated as a person worth doing business with. Raises your diplomacy by 10%.</Description>
+    <NameIndex>40014</NameIndex>
+    <DescriptionIndex>40015</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0.1</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Palanquin Crystal</Name>
+    <Description>A sphere left by the Tkon Empire, which ruled this part of space long before the first Vulcan reached the stars. It looks like a plain ball of crystal, but it listens across the whole spectrum at once. Raises sensor range by 25%.</Description>
+    <NameIndex>40016</NameIndex>
+    <DescriptionIndex>40017</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0.25</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Quantanium Lathe</Name>
+    <Description>A forge lathe of unknown make, built to shape sheets of tritanium armour at the molecular level. Modules made with it are tougher than the plans say they should be. Raises module hit points by 10%.</Description>
+    <NameIndex>40018</NameIndex>
+    <DescriptionIndex>40019</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0.1</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Spice of the Sleeper</Name>
+    <Description>A memory core holding the lives of many past hosts of a Trill symbiont: soldiers, scientists and diplomats. Whoever studies it takes in centuries of hard-won experience. Raises ground combat strength by 10% and research by 10%.</Description>
+    <NameIndex>40020</NameIndex>
+    <DescriptionIndex>40021</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0.1</GroundCombatMod>
+    <ResearchMod>0.1</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Praxis Dilithium Cache</Name>
+    <Description>A sealed cache of raw dilithium recovered from the shattered moon Praxis, the Klingon homeworld's energy source. Traders will pay well for it, and for the contacts it brings. Adds 15 credits per turn to your income.</Description>
+    <NameIndex>40022</NameIndex>
+    <DescriptionIndex>40023</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>15</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Soong's Positronic Matrix</Name>
+    <Description>A positronic brain matrix from the workshop of Doctor Noonien Soong, creator of Data. Studied by your scientists it speeds research, and its designs teach your factories to work faster. Raises research by 10% and production by 5%.</Description>
+    <NameIndex>40024</NameIndex>
+    <DescriptionIndex>40025</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0.05</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0.1</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Genesis Matrix Fragment</Name>
+    <Description>A fragment of the matrix at the heart of the Genesis Device, which can turn a dead world into a living one. Spread across your colonies it makes the land richer and the people healthier. Raises fertility by 10% and population growth by 25%.</Description>
+    <NameIndex>40026</NameIndex>
+    <DescriptionIndex>40027</DescriptionIndex>
+    <ReproductionMod>0.25</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0.1</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Bat'leth of Kahless</Name>
+    <Description>The first bat'leth, forged by Kahless the Unforgettable from a lock of his own hair. Warriors fight harder under it, and even old enemies respect whoever holds it. Raises ground combat strength by 10% and diplomacy by 5%.</Description>
+    <NameIndex>40028</NameIndex>
+    <DescriptionIndex>40029</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0.1</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0.05</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Khitomer Accords Tablet</Name>
+    <Description>The original tablet of the Khitomer Accords, signed by the Federation and the Klingon Empire after a generation of war. Showing it opens doors that were closed. Raises your diplomacy by 15%.</Description>
+    <NameIndex>40030</NameIndex>
+    <DescriptionIndex>40031</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0.15</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>P'Jem Sensor Array</Name>
+    <Description>The hidden sensor array of the Vulcan monastery at P'Jem, which listened to Andoria for centuries. Its sensitive dishes see further than any ship's, and its records help your scientists. Raises sensor range by 15% and research by 5%.</Description>
+    <NameIndex>40032</NameIndex>
+    <DescriptionIndex>40033</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0.05</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0.15</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Borg Adaptation Node</Name>
+    <Description>A dead Borg node that still holds the frequencies it used to adapt to enemy shields. Your engineers read them to bypass shields, and its nanites harden your ship modules. Raises shield penetration by 10% and module hit points by 5%.</Description>
+    <NameIndex>40034</NameIndex>
+    <DescriptionIndex>40035</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0.1</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0.05</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Tholian Crystal Armour Seed</Name>
+    <Description>A seed of the crystal the Tholians grow into ship armour, in an atmosphere that would melt most hulls. Planted in a drydock it gives modules a sharper edge and your sensors a clearer picture. Raises module hit points by 10% and sensor range by 10%.</Description>
+    <NameIndex>40036</NameIndex>
+    <DescriptionIndex>40037</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0.1</SensorMod>
+    <ModuleHPMod>0.1</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Ketracel-White Cache</Name>
+    <Description>A sealed cache of the white the Dominion's Jem'Hadar soldiers need to live, and the drug that makes them obey. Used sparingly it hardens troops for battle. Raises ground combat strength by 15%.</Description>
+    <NameIndex>40038</NameIndex>
+    <DescriptionIndex>40039</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0.15</GroundCombatMod>
+    <ResearchMod>0</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+  <Artifact>
+    <Discovered>false</Discovered>
+    <Name>Kir'Shara</Name>
+    <Description>The Kir'Shara, the original writings of Surak, long hidden in the Vulcan desert. Followers find calm in them, and negotiators find the right words. Raises diplomacy by 10% and research by 5%.</Description>
+    <NameIndex>40040</NameIndex>
+    <DescriptionIndex>40041</DescriptionIndex>
+    <ReproductionMod>0</ReproductionMod>
+    <ShieldPenBonus>0</ShieldPenBonus>
+    <FertilityMod>0</FertilityMod>
+    <ProductionMod>0</ProductionMod>
+    <GroundCombatMod>0</GroundCombatMod>
+    <ResearchMod>0.05</ResearchMod>
+    <PlusFlatMoney>0</PlusFlatMoney>
+    <DiplomacyMod>0.1</DiplomacyMod>
+    <SensorMod>0</SensorMod>
+    <ModuleHPMod>0</ModuleHPMod>
+  </Artifact>
+</ArrayOfArtifact>

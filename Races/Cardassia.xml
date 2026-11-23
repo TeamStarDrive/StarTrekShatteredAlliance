@@ -24,44 +24,44 @@
   <ThrustColor1B>222</ThrustColor1B>
   
   
-   <PersonalityTraitsWeights>
-	<string>Aggressive</string>
-	<string>Aggressive</string>
-    <string>Ruthless</string>
-	<string>Ruthless</string>
-	<string>Ruthless</string>
-	<string>Xenophobic</string>
+  <PersonalityTraitsWeights>
     <string>Cunning</string>
-	<string>Cunning</string>
-	<string>Cunning</string>
-    <string>Cunning</string>	
-	<string>Ruthless</string>	
-	<string>Honorable</string>	
-    <string>Pacifist</string>
+    <string>Cunning</string>
+    <string>Cunning</string>
+    <string>Cunning</string>
+    <string>Ruthless</string>
+    <string>Ruthless</string>
+    <string>Ruthless</string>
+    <string>Ruthless</string>
+    <string>Aggressive</string>
+    <string>Aggressive</string>
+    <string>Aggressive</string>
+    <string>Xenophobic</string>
+    <string>Xenophobic</string>
   </PersonalityTraitsWeights>
 
   <EconomicTraitsWeights>
-    <string>Technologists</string>
-	<string>Technologists</string>
-	<string>Technologists</string>
-	<string>Technologists</string>
-	<string>Industrialists</string>
-	<string>Industrialists</string>
-	<string>Generalists</string>
-	<string>Generalists</string>
-	<string>Militarists</string>
-	<string>Militarists</string>
-	<string>Expansionists</string>
-	<string>Expansionists</string>
-	<string>Expansionists</string>
+    <string>Industrialists</string>
+    <string>Industrialists</string>
+    <string>Industrialists</string>
+    <string>Industrialists</string>
+    <string>Industrialists</string>
+    <string>Militarists</string>
+    <string>Militarists</string>
+    <string>Militarists</string>
+    <string>Militarists</string>
+    <string>Expansionists</string>
+    <string>Expansionists</string>
+    <string>Expansionists</string>
+    <string>Generalists</string>
   </EconomicTraitsWeights>
   
   <!-- Rebel Faction data.-->
-  <RebelName>Confederate Rebels</RebelName>
-  <RebelSing>Confederate</RebelSing>
-  <RebelPlur>Confederates</RebelPlur>
-  <TroopNameIndex>2083</TroopNameIndex>
-  <TroopDescriptionIndex>2092</TroopDescriptionIndex>
+  <RebelName>Cardassian Dissidents</RebelName>
+  <RebelSing>Dissident</RebelSing>
+  <RebelPlur>Dissidents</RebelPlur>
+  <TroopNameIndex>40108</TroopNameIndex>
+  <TroopDescriptionIndex>40109</TroopDescriptionIndex>
 
   <Traits>
     <Name>Cardassia</Name>
