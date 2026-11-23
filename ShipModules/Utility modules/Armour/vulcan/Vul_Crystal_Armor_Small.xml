@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>5</Cost>
+  <Cost>7</Cost>
   <DroneModule>true</DroneModule>
   <FighterModule>true</FighterModule>
   <CorvetteModule>true</CorvetteModule>
@@ -37,15 +37,15 @@
 
   <!-- Mass and Health -->
   <Mass>8</Mass>
-  <HealthMax>6600</HealthMax>
+  <HealthMax>8712</HealthMax>
   <RepairDifficulty>1.5</RepairDifficulty>
   <Deflection>0</Deflection>              
   <!-- Armor resistance -->
-  <KineticResist>0.10</KineticResist>
+  <KineticResist>-0.05</KineticResist>
   <EnergyResist>0</EnergyResist>  
   <BeamResist>0</BeamResist>
   <ExplosiveResist>0.20</ExplosiveResist>      
-  <PlasmaResist>0</PlasmaResist>
+  <PlasmaResist>-0.05</PlasmaResist>
 
   <!-- Description -->
   <Description>A crystal lattice grown to a calculated pattern, its facets aligned so that an impact is spread evenly through the plate. Good protection against explosions, some protection against kinetic rounds. Of the Vulcan ship plates of its size, it is the best protected against kinetic rounds and the best protected against explosions, but the costliest to build.</Description>

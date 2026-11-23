@@ -12,7 +12,7 @@
   <FreighterModule>true</FreighterModule>
   <PlatformModule>false</PlatformModule>
   <StationModule>false</StationModule>
-  <Cost>9</Cost>
+  <Cost>12</Cost>
 
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>2</TechLevel>
@@ -29,7 +29,7 @@
 
   <IconTexturePath>Modules/freighter_sheaild</IconTexturePath>
   <Mass>16</Mass>
-  <HealthMax>2900</HealthMax>
+  <HealthMax>2361</HealthMax>
   
   <Description>A plain deflector generator for supply haulers. The Empire's warriors are expected to guard them. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
   
@@ -40,7 +40,7 @@
   <DescriptionIndex>30619</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>3000</ShieldPowerMax>
+  <ShieldPowerMax>2700</ShieldPowerMax>
   <ShieldRechargeDelay>15</ShieldRechargeDelay>
   <ShieldRechargeRate>60.0</ShieldRechargeRate>
   <ShieldRadius>200</ShieldRadius>
@@ -49,4 +49,5 @@
   <ShieldBeamResist>0.35</ShieldBeamResist>
   <ShieldKineticResist>-0.32</ShieldKineticResist>
     <Deflection>20</Deflection>
+  <ShieldPlasmaResist>-0.256</ShieldPlasmaResist>
 </ShipModule>

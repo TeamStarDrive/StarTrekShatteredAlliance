@@ -4,7 +4,7 @@
   <UID>cardasian_fighter_beam</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>51</Cost>
+  <Cost>35</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
 
@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>8</Mass>
-  <HealthMax>9920</HealthMax>
+  <HealthMax>4166</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>5</PowerDraw>

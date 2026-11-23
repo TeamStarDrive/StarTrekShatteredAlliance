@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>4</Cost>
+  <Cost>5</Cost>
   <DroneModule>true</DroneModule>
   <FighterModule>true</FighterModule>
   <CorvetteModule>true</CorvetteModule>
@@ -47,15 +47,15 @@
 
   <!-- Mass and Health -->
   <Mass>3</Mass>
-  <HealthMax>15000</HealthMax>
+  <HealthMax>12210</HealthMax>
   <RepairDifficulty>2</RepairDifficulty>
   <Deflection>50</Deflection>              
   <!-- Armor resistance -->
-  <KineticResist>0.3</KineticResist>
-    <BeamResist>0.3</BeamResist>
-    <EnergyResist>0.3</EnergyResist>    
-    <PlasmaResist>0.3</PlasmaResist>
-    <ExplosiveResist>0.3</ExplosiveResist>
+  <KineticResist>-0.05</KineticResist>
+    <BeamResist>0.35</BeamResist>
+    <EnergyResist>0.35</EnergyResist>    
+    <PlasmaResist>-0.05</PlasmaResist>
+    <ExplosiveResist>0.35</ExplosiveResist>
 
   <!-- Description -->
   <Description>Klingons are born with two of every organ, and so is this plate. When one layer is wounded, a spare takes its place. Strong protection against every kind of fire. Of the Klingon orbital plates of its size, it is the lightest.</Description>

@@ -80,19 +80,18 @@
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>
-				<string>Industrious</string>
+				<string>Watchful State</string>
 				<string>Militaristic</string>
-				<string>Efficient Metabolism</string>
-				<string>Naval Tradition</string>
+				<string>Industrious</string>
+				<string>Barren Homeworld</string>
 				<string>Industrialized Homeworld</string>
-				<string>Corrupt</string>
-				<string>Duplicitous</string>
-				<string>Steppe Homeworld</string>
 				<string>Salvagers</string>
-				<string>Ponderous</string>
-				<string>Timid</string>
-				<string>Haphazard Engineers</string>
+				<string>Forced Labour</string>
 				<string>Prototype Flagship</string>
+				<string>Eagle Eyed</string>
+				<string>Secret Police</string>
+				<string>Less Fertile</string>
+				<string>Repulsive</string>
 			</TraitOptions>		
 		</TraitSet>
 	</TraitSets>	

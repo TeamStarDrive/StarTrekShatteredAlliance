@@ -1,0 +1,13 @@
+<ExplorationEvent>
+  <Name>Remnant Mainframe Online</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>The Remnant mainframe wakes</TitleText>
+      <DescriptionText>The Remnant Mainframe Complex is complete, and for the first time the intact mainframe has power. Its archives open one after another, far beyond anything we recovered from the Portal. Among them are the plans for every hull the Remnant ever built, and the technology behind their fleets. \n \n A new line of research, Remnant Legacy, has opened. Our scientists are already arguing over who gets to read it first.</DescriptionText>
+      <SecretTechDiscovered>Remnant Hull Studies</SecretTechDiscovered>
+      <Image>Encounters/techevent2.png</Image>
+      <ConfirmText>Open the archives!</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

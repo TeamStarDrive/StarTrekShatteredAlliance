@@ -22,10 +22,10 @@
 
   <UID>Kling_HeavyPhotonTorpedoMk2</UID>
   <Range>11000</Range>
-  <PowerRequiredToFire>1600</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>400</OrdinanceRequiredToFire>
+  <PowerRequiredToFire>1500</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>30</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>40</HitPoints>
+  <HitPoints>50</HitPoints>
   <SalvoCount>2</SalvoCount>
   <SalvoTimer>7</SalvoTimer>
 
@@ -33,9 +33,10 @@
   
   
   <!-- Projectile Information -->
-  <DamageAmount>45000</DamageAmount>
+  <DamageAmount>32458</DamageAmount>
+  <ExplosionRadius>100</ExplosionRadius>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>2200</ProjectileSpeed>
+  <ProjectileSpeed>1800</ProjectileSpeed>
 
   <!-- Animation Information -->
   <Light>Red</Light>
@@ -48,7 +49,7 @@
   <!-- Explosion Information -->
   <explodes>true</explodes>
   <ExpColor>Blue_1</ExpColor>
-  <DamageRadius>50</DamageRadius>
+  <DamageRadius>40</DamageRadius>
   
   <ProjectileTexturePath>projBall_01_red</ProjectileTexturePath>
   <ModelPath>projBall</ModelPath>
@@ -58,4 +59,5 @@
   <DieCue>sd_weapon_rocket_explode_01</DieCue>
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
   <FireDelay>8</FireDelay>
+  <EffectVsArmor>1.14</EffectVsArmor>
 </Weapon>

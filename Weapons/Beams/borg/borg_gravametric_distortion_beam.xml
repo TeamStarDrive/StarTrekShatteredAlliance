@@ -5,11 +5,11 @@
 
   <UID>borg_gravametric_distortion_beam</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
-  <Range>12500</Range>
+  <FireDelay>5</FireDelay>
+  <Range>14000</Range>
   <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>3.5</BeamDuration>
+  <BeamDuration>2.6</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
   <OffPowerMod>0.35</OffPowerMod>
@@ -21,12 +21,12 @@
   
   <!-- Projectile Information -->
   <BeamTexture>vul_phaser</BeamTexture>
-  <EffectVsArmor>1.00</EffectVsArmor>
-  <DamageAmount>290</DamageAmount>
+  <EffectVsArmor>1.25</EffectVsArmor>
+  <DamageAmount>101</DamageAmount>
   <BeamThickness>25</BeamThickness>
-  <BeamPowerCostPerSecond>3050</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>1720</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
-  <TroopDamageChance>45</TroopDamageChance>
+  <TroopDamageChance>72</TroopDamageChance>
   <TractorDamage>80</TractorDamage>
   <ShieldPenChance>20</ShieldPenChance>
 

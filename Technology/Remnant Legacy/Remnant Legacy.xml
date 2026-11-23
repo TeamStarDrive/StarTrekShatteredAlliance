@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Technology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>2</Version>
+  <UID>Remnant Legacy</UID>
+  <TechnologyType>General</TechnologyType>
+  <Cost>50</Cost>
+  <RootNode>9</RootNode>
+  <Secret>true</Secret>
+  <NameIndex>131520</NameIndex>
+  <DescriptionIndex>131439</DescriptionIndex>
+  <IconPath>icons_techroot_biohazard</IconPath>
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>Remnant Hull Studies</UID>
+    </LeadsToTech>
+  </LeadsTo>
+  <ModulesUnlocked />
+  <BuildingsUnlocked />
+  <BonusUnlocked />
+  <TroopsUnlocked />
+  <HullsUnlocked />
+</Technology>

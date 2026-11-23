@@ -14,7 +14,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>17</Cost>
+  <Cost>23</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
   <RepairDifficulty>2</RepairDifficulty>
@@ -30,7 +30,7 @@
 
   <IconTexturePath>Modules/transphasic_fighter_shealds</IconTexturePath>
   <Mass>12</Mass>
-  <HealthMax>4800</HealthMax>
+  <HealthMax>6336</HealthMax>
   
   <Description>A grid that holds its phase to a calculated pattern across every emitter, with no deviation to exploit. Strong protection against beams and energy fire. Of the Vulcan fighter shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
   

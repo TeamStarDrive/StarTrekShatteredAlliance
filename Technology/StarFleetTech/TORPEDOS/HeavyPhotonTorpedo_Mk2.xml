@@ -65,11 +65,11 @@
       <Type>Cordrazine</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>hevey_torpedo_mk2</ModuleUID>
+      <ModuleUID>dom_hevey_torpedo_mk2</ModuleUID>
       <Type>dominion</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>hevey_torpedo_mk2</ModuleUID>
+      <ModuleUID>vul_hevey_torpedo_mk2</ModuleUID>
       <Type>vulcan</Type>
     </UnlockedMod>
   </ModulesUnlocked>

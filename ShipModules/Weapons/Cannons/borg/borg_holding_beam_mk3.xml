@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>110</Cost>
+  <Cost>88</Cost>
   <TechLevel>4</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -14,7 +14,7 @@
 
   <IconTexturePath>Modules/borg_holding_beam_mk3</IconTexturePath>
   <Mass>40</Mass>
-  <HealthMax>25760</HealthMax>
+  <HealthMax>28903</HealthMax>
   <Description>The tractor array of a Borg cube, holding a target immobile. Of the Borg tractor beam weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
   <CrewRequired>12</CrewRequired>
   

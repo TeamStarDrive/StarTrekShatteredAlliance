@@ -12,7 +12,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>488</Cost>
+  <Cost>659</Cost>
   <RepairDifficulty>11</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -26,7 +26,7 @@
   <Name>Vulcan Academy Shield Grid</Name>
   <IconTexturePath>Modules/starbase_sheailds</IconTexturePath>
   <Mass>11000</Mass>
-  <HealthMax>86188</HealthMax>
+  <HealthMax>113768</HealthMax>
   
   <Description>The shield grid of a Science Academy station, designed so that research can go on under any attack. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Vulcan station shields, size for size, it holds the most energy and is the lightest.</Description>
   
@@ -48,4 +48,6 @@
   <PlasmaResist>0.63</PlasmaResist>
   <Deflection>350</Deflection>
   <ShieldKineticResist>1.6</ShieldKineticResist>
+  <ShieldPlasmaResist>0.472</ShieldPlasmaResist>
+  <ShieldDeflection>400</ShieldDeflection>
 </ShipModule>

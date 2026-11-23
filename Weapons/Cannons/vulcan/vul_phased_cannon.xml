@@ -19,7 +19,7 @@
   <Tag_Cannon>true</Tag_Cannon>
   
   <UID>vul_phased_cannon</UID>
-  <Range>4000</Range>
+  <Range>4400</Range>
   <PowerRequiredToFire>100</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <SalvoCount>4</SalvoCount>
@@ -38,7 +38,7 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>290</DamageAmount>
+  <DamageAmount>367</DamageAmount>
   <ProjectileSpeed>4200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>0.6</Scale>

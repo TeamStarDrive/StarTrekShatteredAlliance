@@ -5,7 +5,7 @@
 
   <UID>cutting_beam</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>4</FireDelay>
+  <FireDelay>5</FireDelay>
   <Range>6000</Range>
   <PowerRequiredToFire>50</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
@@ -19,13 +19,12 @@
   
   <!-- Projectile Information -->
   <BeamTexture>beam_greenA</BeamTexture>
-  <EffectVsArmor>1.50</EffectVsArmor>
-  <DamageAmount>30</DamageAmount>
-  <EffectVsShields>0.80</EffectVsShields> 
+  <EffectVsArmor>1.322</EffectVsArmor>
+  <DamageAmount>21</DamageAmount>
   <BeamThickness>15</BeamThickness>
-  <BeamPowerCostPerSecond>200</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>187</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
-  <TroopDamageChance>5</TroopDamageChance>
+  <TroopDamageChance>8</TroopDamageChance>
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>
   <WeaponHitEffect>Beam_Hit_Armor</WeaponHitEffect>

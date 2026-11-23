@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>3</Cost>
+  <Cost>4</Cost>
 
   <FighterModule>true</FighterModule>
   <CorvetteModule>true</CorvetteModule>
@@ -47,13 +47,13 @@
 
   <!-- Mass and Health -->
   <Mass>4</Mass>
-  <HealthMax>10050</HealthMax>
+  <HealthMax>13266</HealthMax>
   <RepairDifficulty>1</RepairDifficulty>
   <Deflection>0</Deflection>          
   <!-- Armor resistance -->
-  <KineticResist>0.06</KineticResist>
+  <KineticResist>-0.05</KineticResist>
   <BeamResist>0</BeamResist>  
-  <PlasmaResist>0</PlasmaResist>
+  <PlasmaResist>-0.05</PlasmaResist>
   <ExplosiveResist>0.12</ExplosiveResist>
 
   <!-- Description -->

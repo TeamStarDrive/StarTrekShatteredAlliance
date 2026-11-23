@@ -12,7 +12,7 @@
   <FreighterModule>true</FreighterModule>
   <PlatformModule>false</PlatformModule>
   <StationModule>false</StationModule>
-  <Cost>9</Cost>
+  <Cost>12</Cost>
 
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>2</TechLevel>
@@ -29,7 +29,7 @@
 
   <IconTexturePath>Modules/freighter_sheaild</IconTexturePath>
   <Mass>16</Mass>
-  <HealthMax>2900</HealthMax>
+  <HealthMax>3828</HealthMax>
   
   <Description>A restrained deflector generator for Vulcan merchant ships, enough to turn away debris. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
   
@@ -49,4 +49,5 @@
   <ShieldBeamResist>0.35</ShieldBeamResist>
   <ShieldKineticResist>-0.32</ShieldKineticResist>
     <Deflection>20</Deflection>
+  <ShieldPlasmaResist>-0.256</ShieldPlasmaResist>
 </ShipModule>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>288</Cost>
+  <Cost>216</Cost>
   <RepairDifficulty>16</RepairDifficulty>
   <TechLevel>6</TechLevel>
   
@@ -16,7 +16,7 @@
   <Name>Dominion Vorta Command Canopy</Name>
   <IconTexturePath>Modules/advanced_CanopyShields</IconTexturePath>
   <Mass>250</Mass>
-  <HealthMax>99696</HealthMax>
+  <HealthMax>74473</HealthMax>
   
   <Description>The canopy of ships that carry a Vorta, with every emitter locked together so that the commander is the last thing left uncovered. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Dominion ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
   
@@ -27,7 +27,7 @@
   <DescriptionIndex>30541</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>252000</ShieldPowerMax>
+  <ShieldPowerMax>226800</ShieldPowerMax>
   <ShieldRechargeDelay>20</ShieldRechargeDelay>
   <ShieldRechargeRate>1200</ShieldRechargeRate>
   <ShieldRadius>600</ShieldRadius>
@@ -36,4 +36,6 @@
   <ShieldBeamResist>0.55</ShieldBeamResist>
   <ShieldKineticResist>-0.57</ShieldKineticResist>
   <Deflection>240</Deflection>
+  <ShieldPlasmaResist>-0.456</ShieldPlasmaResist>
+  <ShieldDeflection>400</ShieldDeflection>
 </ShipModule>

@@ -2,6 +2,7 @@ Version=1
 Name=Remnant Portal
 Hull=Remnant/RemnantPortal
 Role=station
+EventOnDeath=Remnant Portal Destroyed
 ModName=Star Trek
 Style=Remnant
 Size=66,76

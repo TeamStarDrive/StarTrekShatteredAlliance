@@ -3,7 +3,7 @@
 
   <DroneModule>false</DroneModule>
 
-  <Cost>40</Cost>
+  <Cost>52</Cost>
   <TechLevel>2</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -14,7 +14,7 @@
   <UID>romulan_disrupter_cannon</UID>
   <IconTexturePath>Modules/romulan_disrupter_cannon</IconTexturePath>
   <Mass>10</Mass>
-  <HealthMax>10375</HealthMax>
+  <HealthMax>7657</HealthMax>
   <Description>A disruptor cannon for the Star Empire's raiders. Of the Romulan cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
   
   

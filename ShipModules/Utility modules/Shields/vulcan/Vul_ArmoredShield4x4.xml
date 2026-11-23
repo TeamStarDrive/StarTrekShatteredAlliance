@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>138</Cost>
+  <Cost>186</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
   <RepairDifficulty>2</RepairDifficulty>
@@ -18,7 +18,7 @@
   <Name>Vulcan Seleya Emitter Housing</Name>
   <IconTexturePath>Modules/ArmoredShield4x4</IconTexturePath>
   <Mass>144</Mass>
-  <HealthMax>27500</HealthMax>
+  <HealthMax>36300</HealthMax>
   
   <Description>Emitters set in a hardened housing, so the grid can fail without the emitters going with it. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
@@ -40,4 +40,6 @@
   <ShieldBeamResist>0.45</ShieldBeamResist>
   <ShieldKineticResist>-0.48</ShieldKineticResist>
   <Deflection>150</Deflection>
+  <ShieldPlasmaResist>-0.384</ShieldPlasmaResist>
+  <ShieldDeflection>250</ShieldDeflection>
 </ShipModule>

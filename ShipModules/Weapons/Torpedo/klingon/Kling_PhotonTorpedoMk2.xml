@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>120</Cost>
+  <Cost>162</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>2</XSize>
   <YSize>5</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/Kling_PhotonTorpedoMk2</IconTexturePath>
   <Mass>130</Mass>
-  <HealthMax>17500</HealthMax>
+  <HealthMax>14245</HealthMax>
   <Description>The launcher of the D7 battlecruiser, which carried photon torpedoes forward and aft. Of the Klingon torpedo weapons, it has the widest blast.</Description>
   
   

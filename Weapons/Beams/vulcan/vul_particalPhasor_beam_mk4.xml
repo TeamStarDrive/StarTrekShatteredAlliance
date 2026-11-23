@@ -6,7 +6,7 @@
   <UID>vul_particalPhasor_beam_mk4</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>6</FireDelay>
-  <Range>13000</Range>
+  <Range>14300</Range>
   <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2.5</BeamDuration>
@@ -21,10 +21,10 @@
   <!-- Projectile Information -->
   <BeamTexture>vul_phaser</BeamTexture>
   <EffectVsArmor>1.25</EffectVsArmor>
-  <DamageAmount>50</DamageAmount>
+  <DamageAmount>63</DamageAmount>
   <BeamThickness>20</BeamThickness>
   <BeamPowerCostPerSecond>1020</BeamPowerCostPerSecond>
-  <ShieldPenChance>10</ShieldPenChance>
+  <ShieldPenChance>1</ShieldPenChance>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

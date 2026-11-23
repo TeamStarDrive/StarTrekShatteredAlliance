@@ -19,11 +19,11 @@
   <Tag_Cannon>true</Tag_Cannon>
   
   <UID>borg_gravametric_cannon_mk3</UID>
-  <Range>7000</Range>
-  <PowerRequiredToFire>1000</PowerRequiredToFire>
+  <Range>6300</Range>
+  <PowerRequiredToFire>1500</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <SalvoCount>8</SalvoCount>
-  <SalvoTimer>4</SalvoTimer>
+  <SalvoCount>6</SalvoCount>
+  <SalvoTimer>3</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt2_01</FireCueName>
@@ -38,7 +38,7 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>1980</DamageAmount>
+  <DamageAmount>1018</DamageAmount>
   <ProjectileSpeed>4200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>2.5</Scale>
@@ -48,5 +48,5 @@
   <ModelPath>projTear</ModelPath>
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
   <WeaponType>Phaser Cannons</WeaponType>
-  <FireDelay>4</FireDelay>
+  <FireDelay>6</FireDelay>
 </Weapon>

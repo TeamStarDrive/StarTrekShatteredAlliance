@@ -1,0 +1,13 @@
+<ExplorationEvent>
+  <Name>Remnant Portal Destroyed</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>Wreckage of the Remnant Portal</TitleText>
+      <DescriptionText>The Portal is gone, and its wreckage is scattered across the system. Our salvage crews report a wealth of interesting finds: torn hull lattices, reactor cores, drone shells and fragments of technology we have never seen. Best of all, they have recovered a fully intact Remnant mainframe. Our scientists are beside themselves. \n \n A salvage project will let us recover the ancient armour and build a research complex around the mainframe. Once the complex is powered, its records promise to reveal how the Remnant built their ships, from the smallest drone up to the Portal itself.</DescriptionText>
+      <SecretTechDiscovered>Portal Wreckage Salvage</SecretTechDiscovered>
+      <Image>Encounters/remn5.png</Image>
+      <ConfirmText>Get the mainframe to the labs!</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

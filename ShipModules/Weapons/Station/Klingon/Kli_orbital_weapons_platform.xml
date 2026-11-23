@@ -13,7 +13,7 @@
   <StationModule>true</StationModule>
   <DroneModule>false</DroneModule>
 
-  <Cost>50</Cost>
+  <Cost>68</Cost>
   <TechLevel>1</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -24,7 +24,7 @@
   <UID>Kli_orbital_weapons_platform</UID>
   <IconTexturePath>Modules/orbital_weapons_platform</IconTexturePath>
   <Mass>29</Mass>
-  <HealthMax>18603</HealthMax>
+  <HealthMax>16520</HealthMax>
   <Description>A disruptor array for the platforms that guard Klingon worlds. Of the Klingon orbital cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
   
   
@@ -48,7 +48,7 @@
   <PowerStoreMax>0</PowerStoreMax>
   
   <!-- for Weapons -->
-  <WeaponType>orbital_weapons_platform</WeaponType>
+  <WeaponType>Kli_orbital_weapons_platform</WeaponType>
   <FieldOfFire>360</FieldOfFire>
   <OrdinanceCapacity>0</OrdinanceCapacity>
   

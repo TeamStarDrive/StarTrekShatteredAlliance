@@ -6,7 +6,7 @@
   <UID>dom_particalPhasor_beam_mk4</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>6</FireDelay>
-  <Range>13000</Range>
+  <Range>11700</Range>
   <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2.5</BeamDuration>
@@ -20,7 +20,7 @@
   
   <!-- Projectile Information -->
   <BeamTexture>dom_polaronbeam</BeamTexture>
-  <DamageAmount>90</DamageAmount>
+  <DamageAmount>107</DamageAmount>
   <BeamThickness>20</BeamThickness>
   <BeamPowerCostPerSecond>1020</BeamPowerCostPerSecond>
   <ShieldPenChance>30</ShieldPenChance>
@@ -33,4 +33,6 @@
   <WeaponDeathEffect></WeaponDeathEffect>
 
   
+  <EffectVsShields>1.21</EffectVsShields>
+  <RepulsionDamage>1000</RepulsionDamage>
 </Weapon>

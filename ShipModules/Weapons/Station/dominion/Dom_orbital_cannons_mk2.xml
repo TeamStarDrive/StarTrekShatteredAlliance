@@ -12,7 +12,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
 
-  <Cost>90</Cost>
+  <Cost>68</Cost>
   <TechLevel>4</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -23,7 +23,7 @@
   <UID>Dom_orbital_cannons_mk2</UID>
   <IconTexturePath>Modules/orbital_cannons_mk2</IconTexturePath>
   <Mass>50000</Mass>
-  <HealthMax>18609</HealthMax>
+  <HealthMax>15445</HealthMax>
   <Description>A battery of cannons around a station's ring. Of the Dominion orbital cannon weapons, it has the fastest shots.</Description>
   
   
@@ -47,7 +47,7 @@
   <PowerStoreMax>0</PowerStoreMax>
   
   <!-- for Weapons -->
-  <WeaponType>orbital_cannons_mk2</WeaponType>
+  <WeaponType>Dom_orbital_cannons_mk2</WeaponType>
   <FieldOfFire>360</FieldOfFire>
   <OrdinanceCapacity>0</OrdinanceCapacity>
   

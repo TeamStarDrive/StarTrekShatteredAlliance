@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <Cost>15</Cost>
+    <Cost>10</Cost>
     <!-- Tech Level -->
     <TechLevel>5</TechLevel>
     <TechBranch>Armor</TechBranch>
@@ -19,15 +19,15 @@
     <DescriptionIndex>30105</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>32</Mass>
-    <HealthMax>31680</HealthMax>
+    <HealthMax>11975</HealthMax>
     <RepairDifficulty>1.5</RepairDifficulty>
     <Deflection>0</Deflection>
     <!-- Armor resistance -->
-    <KineticResist>0.10</KineticResist>
+    <KineticResist>-0.05</KineticResist>
     <EnergyResist>0</EnergyResist>  
     <BeamResist>0</BeamResist>
     <ExplosiveResist>0.20</ExplosiveResist>      
-    <PlasmaResist>0</PlasmaResist>
+    <PlasmaResist>-0.05</PlasmaResist>
 
     <!-- Description -->
     <Description>Crystal lattice plating, dark as obsidian, developed in the Obsidian Order's own laboratories. Its makers will not say how it works, only that it does. Good protection against explosions, some protection against kinetic rounds. Of the Cardassian ship plates of its size, it is the best protected against explosions and the best against armour-piercing rounds, but the costliest to build.</Description>

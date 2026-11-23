@@ -31,7 +31,7 @@
   <!-- name of XACT audio cue to play on firing this weapon -->
   
   <!-- Projectile Information -->
-  <DamageAmount>29000</DamageAmount>
+  <DamageAmount>28838</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>1700</ProjectileSpeed>
   <ExplosionRadius>90</ExplosionRadius> <!-- This projectile explodes -->

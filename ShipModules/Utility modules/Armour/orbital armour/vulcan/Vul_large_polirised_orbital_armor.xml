@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-    <Cost>21</Cost>
+    <Cost>28</Cost>
     <FighterModule>false</FighterModule>
     <!-- Tech Level -->
     <TechLevel>3</TechLevel>
@@ -31,13 +31,13 @@
     <DescriptionIndex>30389</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>15400</Mass>
-    <HealthMax>98120</HealthMax>
+    <HealthMax>129518</HealthMax>
     <RepairDifficulty>1</RepairDifficulty>
     <Deflection>50</Deflection>            
     <!-- Armor resistance -->
-    <KineticResist>0.16</KineticResist>
+    <KineticResist>-0.05</KineticResist>
     <BeamResist>0.4</BeamResist>  
-    <PlasmaResist>0.4</PlasmaResist>
+    <PlasmaResist>-0.05</PlasmaResist>
     <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->

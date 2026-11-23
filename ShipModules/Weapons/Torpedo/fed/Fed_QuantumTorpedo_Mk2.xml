@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>170</Cost>
+  <Cost>204</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>3</XSize>
   <YSize>6</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/Fed_QuantumTorpedo_Mk2</IconTexturePath>
   <Mass>350</Mass>
-  <HealthMax>12500</HealthMax>
+  <HealthMax>17100</HealthMax>
   <Description>An improved array for quantum torpedoes, with a compact warhead and a refined vacuum-energy core. Of the Starfleet torpedo weapons, it has the fastest shots.</Description>
   
   

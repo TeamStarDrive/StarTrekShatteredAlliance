@@ -4,7 +4,7 @@
   <UID>vul_particalPhasor_beam_mk1</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>100</Cost>
+  <Cost>135</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>2</TechLevel>
 
@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>8</Mass>
-  <HealthMax>10120</HealthMax>
+  <HealthMax>14694</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>5</PowerDraw>

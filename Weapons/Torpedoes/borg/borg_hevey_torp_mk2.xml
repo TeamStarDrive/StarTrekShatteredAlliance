@@ -22,20 +22,20 @@
 
 
   <UID>borg_hevey_torp_mk2</UID>
-  <Range>11000</Range>
-  <PowerRequiredToFire>1900</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>40</OrdinanceRequiredToFire>
+  <Range>9900</Range>
+  <PowerRequiredToFire>1500</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>30</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>100</HitPoints>
+  <HitPoints>50</HitPoints>
   <SalvoCount>2</SalvoCount>
-  <SalvoTimer>10</SalvoTimer>
+  <SalvoTimer>7</SalvoTimer>
 
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   
   
   <!-- Projectile Information -->
-  <DamageAmount>42000</DamageAmount>
+  <DamageAmount>48048</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>1800</ProjectileSpeed>
   <ExplosionRadius>100</ExplosionRadius>
@@ -51,7 +51,7 @@
   <!-- Explosion Information -->
   <explodes>true</explodes>
   <ExpColor>Blue_1</ExpColor>
-  <DamageRadius>50</DamageRadius>
+  <DamageRadius>40</DamageRadius>
   
   <ProjectileTexturePath>projBall_01_red</ProjectileTexturePath>
   <ModelPath>projBall</ModelPath>
@@ -60,5 +60,5 @@
   <FireArc>90</FireArc>
   <DieCue>sd_weapon_rocket_explode_01</DieCue>
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
-  <FireDelay>10</FireDelay>
+  <FireDelay>8</FireDelay>
 </Weapon>

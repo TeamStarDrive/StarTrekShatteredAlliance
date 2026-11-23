@@ -6,7 +6,7 @@
   <UID>vul_particalPhasor_beam_mk5</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>5</FireDelay>
-  <Range>14000</Range>
+  <Range>15400</Range>
   <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2.6</BeamDuration>
@@ -22,10 +22,10 @@
   <BeamTexture>vul_phaser</BeamTexture>
   <EffectVsArmor>1.25</EffectVsArmor> 
 
-  <DamageAmount>70</DamageAmount>
+  <DamageAmount>88</DamageAmount>
   <BeamThickness>30</BeamThickness>
   <BeamPowerCostPerSecond>1720</BeamPowerCostPerSecond>
-  <ShieldPenChance>20</ShieldPenChance>
+  <ShieldPenChance>1</ShieldPenChance>
   <EffectVsArmor>2.20</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>
 

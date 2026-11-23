@@ -19,7 +19,7 @@
   <Tag_Cannon>true</Tag_Cannon>
   
   <UID>dom_phased_cannon_mk2</UID>
-  <Range>5000</Range>
+  <Range>4500</Range>
   <PowerRequiredToFire>900</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <SalvoCount>6</SalvoCount>
@@ -38,7 +38,7 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>690</DamageAmount>
+  <DamageAmount>819</DamageAmount>
   <ProjectileSpeed>4200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>1</Scale>
@@ -51,4 +51,5 @@
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
   <WeaponType>Phaser Cannons</WeaponType>
   <FireDelay>5</FireDelay>
+  <EffectVsShields>1.15</EffectVsShields>
 </Weapon>

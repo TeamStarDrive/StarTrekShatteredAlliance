@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=small_polirised_orbital_armor;large_polirised_orbital_armor;BasicFuelCell;station_phasor_beem_mk3;orbital_cannons_mk2;EnergyPDHeavy;Shuttlebay_5x9;Raider_Bay;station_deflector_mk1;station_torpedo_launcher_mk2;Reinforced Bulkhead;TorpedoBay_2x1;Cockpit;CIC;Internal Bulkhead;warpcore_4x4;AdvAmplifier;Sensor1x2;MarineBarracks6x3;warpcore_2x2;BosonTransmiter
+ModuleUIDs=Car_small_polirised_orbital_armor;Car_large_polirised_orbital_armor;BasicFuelCell;Car_station_phasor_beem_mk3;Car_orbital_cannons_mk2;EnergyPDHeavy;Shuttlebay_5x9;Raider_Bay;Car_station_deflector_mk1;Car_station_torpedo_launcher_mk2;Reinforced Bulkhead;TorpedoBay_2x1;Cockpit;CIC;Internal Bulkhead;warpcore_4x4;AdvAmplifier;Sensor1x2;MarineBarracks6x3;warpcore_2x2;BosonTransmiter
 Modules=428
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 25,0;0

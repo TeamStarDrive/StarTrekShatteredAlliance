@@ -4,7 +4,7 @@
   <UID>dom_particalPhasor_beam_mk5</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>141</Cost>
+  <Cost>106</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>5</TechLevel>
 
@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>32</Mass>
-  <HealthMax>30120</HealthMax>
+  <HealthMax>25000</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>10</PowerDraw>

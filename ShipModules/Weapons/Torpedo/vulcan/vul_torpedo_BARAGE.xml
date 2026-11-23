@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>300</Cost>
+  <Cost>405</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>3</XSize>
   <YSize>7</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/torpedo_BARAGE</IconTexturePath>
   <Mass>350</Mass>
-  <HealthMax>44500</HealthMax>
+  <HealthMax>58740</HealthMax>
   <Description>A launcher that fires a barrage of torpedoes in one volley, spaced by calculation. Of the Vulcan torpedo weapons, it fires the fastest and fires the largest salvos.</Description>
   
   

@@ -34,10 +34,10 @@
   <BeamTexture>fed_phaser</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>70</DamageAmount>
+  <DamageAmount>88</DamageAmount>
   <BeamThickness>30</BeamThickness>
-  <BeamPowerCostPerSecond>1087</BeamPowerCostPerSecond>
-  <EffectVsArmor>1.15</EffectVsArmor>
+  <BeamPowerCostPerSecond>1720</BeamPowerCostPerSecond>
+  <EffectVsArmor>1.25</EffectVsArmor>
   <ShieldPenChance>20</ShieldPenChance>
   <WeaponRotation>2</WeaponRotation>
  

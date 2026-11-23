@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>200</Cost>
+  <Cost>150</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>2</XSize>
   <YSize>5</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/torpedo_bomb_mk1</IconTexturePath>
   <Mass>200</Mass>
-  <HealthMax>16500</HealthMax>
+  <HealthMax>12326</HealthMax>
   <Description>A single enormous warhead for stations and fixed positions, not for ships that can move. Of the Dominion torpedo weapons, it hits the hardest and has the widest blast, but fires the smallest salvos.</Description>
   
   

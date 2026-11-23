@@ -26,7 +26,7 @@
 
   <IconTexturePath>Modules/Fighter_Shield</IconTexturePath>
   <Mass>9</Mass>
-  <HealthMax>500</HealthMax>
+  <HealthMax>510</HealthMax>
   
   <Description>The Borg have no energy shield in the usual sense. This is a subspace electromagnetic field that adjusts itself to the weapon that strikes it. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Borg fighter shields, size for size, it draws the least power, but holds the least energy.</Description>
   

@@ -14,7 +14,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>80</Cost>
+  <Cost>96</Cost>
 
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
@@ -31,7 +31,7 @@
 
   <IconTexturePath>Modules/frigate_shealds</IconTexturePath>
   <Mass>46</Mass>
-  <HealthMax>30100</HealthMax>
+  <HealthMax>37745</HealthMax>
   
   <Description>A multiphasic grid, the advanced Federation deflector type that also shields against subspace radiation and the energy emissions of stars. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build.</Description>
   
@@ -42,13 +42,15 @@
   <DescriptionIndex>30631</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>40000</ShieldPowerMax>
+  <ShieldPowerMax>48000</ShieldPowerMax>
   <ShieldRechargeDelay>13</ShieldRechargeDelay>
   <ShieldRechargeRate>480.0</ShieldRechargeRate>
   <ShieldRadius>175</ShieldRadius>
   <ShieldRechargeCombatRate>370</ShieldRechargeCombatRate>
-  <ShieldEnergyResist>0.42</ShieldEnergyResist>
-  <ShieldBeamResist>0.45</ShieldBeamResist>
+  <ShieldEnergyResist>0.48</ShieldEnergyResist>
+  <ShieldBeamResist>0.57</ShieldBeamResist>
   <ShieldKineticResist>-0.22</ShieldKineticResist>
   <Deflection>100</Deflection>
+  <ShieldPlasmaResist>-0.176</ShieldPlasmaResist>
+  <ShieldExplosiveResist>0.06</ShieldExplosiveResist>
 </ShipModule>

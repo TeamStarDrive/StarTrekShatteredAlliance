@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>5</Cost>
+  <Cost>7</Cost>
   <DroneModule>true</DroneModule>
   <FighterModule>true</FighterModule>
   <CorvetteModule>true</CorvetteModule>
@@ -47,15 +47,15 @@
 
   <!-- Mass and Health -->
   <Mass>3</Mass>
-  <HealthMax>20000</HealthMax>
+  <HealthMax>26400</HealthMax>
   <RepairDifficulty>1.5</RepairDifficulty>
   <Deflection>0</Deflection>              
   <!-- Armor resistance -->
-    <KineticResist>0.5</KineticResist>
+    <KineticResist>-0.05</KineticResist>
     <EnergyResist>0.5</EnergyResist>  
     <BeamResist>0.5</BeamResist>
     <ExplosiveResist>0.5</ExplosiveResist>      
-    <PlasmaResist>0.5</PlasmaResist>
+    <PlasmaResist>-0.05</PlasmaResist>
 
   <!-- Description -->
   <Description>A bio-crystalline plate in a pattern recalling the Kir'Shara, the artefact that kept the teachings of Surak. Strong protection against every kind of fire. Of the Vulcan orbital plates of its size, it is the lightest and the best protected against plasma, but the costliest to build.</Description>

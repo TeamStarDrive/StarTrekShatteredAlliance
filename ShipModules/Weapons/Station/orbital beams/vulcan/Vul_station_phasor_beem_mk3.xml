@@ -14,7 +14,7 @@
   <UID>Vul_station_phasor_beem_mk3</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>41</Cost>
+  <Cost>55</Cost>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
   <!-- Tech Level Used by AI for Upgrading Ships -->
@@ -37,13 +37,13 @@
 
   <!-- Mass and Health -->
   <Mass>19120</Mass>
-  <HealthMax>55120</HealthMax>
+  <HealthMax>80034</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>9</PowerDraw>
 
   <!-- for Weapons -->
-  <WeaponType>station_phasor_beem_mk3</WeaponType>
+  <WeaponType>Vul_station_phasor_beem_mk3</WeaponType>
   <FieldOfFire>180</FieldOfFire>
 
   <!-- Description -->

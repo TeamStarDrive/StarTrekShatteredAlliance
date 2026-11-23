@@ -14,7 +14,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>17</Cost>
+  <Cost>16</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
   <RepairDifficulty>2</RepairDifficulty>
@@ -30,7 +30,7 @@
 
   <IconTexturePath>Modules/transphasic_fighter_shealds</IconTexturePath>
   <Mass>12</Mass>
-  <HealthMax>4800</HealthMax>
+  <HealthMax>2016</HealthMax>
   
   <Description>Built after the Union joined the Dominion, on designs shared under the Alliance. It is the best a Cardassian fighter ever carried. Strong protection against beams and energy fire. Of the Cardassian fighter shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
   

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>188</Cost>
+  <Cost>132</Cost>
   <RepairDifficulty>16</RepairDifficulty>
   <TechLevel>5</TechLevel>
   
@@ -16,7 +16,7 @@
   <Name>Cardassian Hegemony Canopy Shield</Name>
   <IconTexturePath>Modules/shield_3x6</IconTexturePath>
   <Mass>200</Mass>
-  <HealthMax>80188</HealthMax>
+  <HealthMax>30311</HealthMax>
   
   <Description>A wide canopy field thrown over the largest hulls of the Union's fleets, built to cover a whole formation. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it is the slowest to come back after being knocked down.</Description>
   
@@ -27,7 +27,7 @@
   <DescriptionIndex>30497</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>170000</ShieldPowerMax>
+  <ShieldPowerMax>153000</ShieldPowerMax>
   <ShieldRechargeDelay>30</ShieldRechargeDelay>
   <ShieldRechargeRate>1200</ShieldRechargeRate>
   <ShieldRadius>400</ShieldRadius>
@@ -36,4 +36,6 @@
   <ShieldBeamResist>0.45</ShieldBeamResist>
   <ShieldKineticResist>-0.47</ShieldKineticResist>
   <Deflection>190</Deflection>
+  <ShieldPlasmaResist>-0.376</ShieldPlasmaResist>
+  <ShieldDeflection>250</ShieldDeflection>
 </ShipModule>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>310</Cost>
+  <Cost>357</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>6</TechLevel>
   <RepairDifficulty>6</RepairDifficulty>
@@ -18,7 +18,7 @@
   <IconTexturePath>Modules/warpcore_3x3</IconTexturePath>
   
   <Mass>60</Mass>
-  <HealthMax>3450</HealthMax>
+  <HealthMax>2588</HealthMax>
   
   <Description>Harnesses an artificial quantum singularity to create large amounts of power</Description>
   <CrewRequired>10</CrewRequired>
@@ -33,7 +33,7 @@
   <!-- for PowerPlant Items -->
   <ExplosionDamage>10000</ExplosionDamage>
   <ExplosionRadius>64</ExplosionRadius> 
-  <PowerFlowMax>5190</PowerFlowMax>
+  <PowerFlowMax>6228</PowerFlowMax>
   <PowerStoreMax>5500</PowerStoreMax>
   <PowerRadius>17</PowerRadius>
   <!-- for Engines -->

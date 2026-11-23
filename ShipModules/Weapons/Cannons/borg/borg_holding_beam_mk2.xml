@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>90</Cost>
+  <Cost>72</Cost>
   <TechLevel>3</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -14,7 +14,7 @@
 
   <IconTexturePath>Modules/borg_holding_beam_mk2</IconTexturePath>
   <Mass>35</Mass>
-  <HealthMax>15760</HealthMax>
+  <HealthMax>17683</HealthMax>
   <Description>A tractor beam tuned to drain the shields of the ship it holds, even a Galaxy-class ship.</Description>
   <CrewRequired>12</CrewRequired>
   

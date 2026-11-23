@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>100</Cost>
+  <Cost>70</Cost>
   <TechLevel>2</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -14,7 +14,7 @@
 
   <IconTexturePath>Modules/Car_DisruptorCannonMk1</IconTexturePath>
   <Mass>20</Mass>
-  <HealthMax>10760</HealthMax>
+  <HealthMax>4519</HealthMax>
   <Description>The aft disruptor wave cannon of the Galor-class, a close-in weapon that fires in short bursts. Of the Cardassian cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
   <CrewRequired>12</CrewRequired>
   

@@ -1,0 +1,21 @@
+﻿<ExplorationEvent>
+  <Name>A Fire Upon the Deep</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>The Portal's command centre is ours</TitleText>
+      <DescriptionText>Your assault team fights its way into the command centre of the Portal, and the last of its defences fall silent. \n \n Just as the control room is taken, a new fleet jumps in through the gate. Your commanders brace for a fight, but the ships do not fire. They are fresh off the production line and waiting for their programming, and they will follow whoever gives it to them. Our engineers are happy to oblige. \n \n Salvage teams are already picking over what is left of the Portal, and have found an intact Remnant mainframe among the wreckage.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <SecretTechDiscovered>Portal Wreckage Salvage</SecretTechDiscovered>
+      <FriendlyShipsToSpawn>
+        <string>Behemoth</string>
+        <string>Behemoth</string>
+        <string>Behemoth</string>
+        <string>Behemoth</string>
+        <string>Behemoth</string>
+      </FriendlyShipsToSpawn>
+      <Image>Encounters/remn5.png</Image>
+      <ConfirmText>Program the fleet!</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

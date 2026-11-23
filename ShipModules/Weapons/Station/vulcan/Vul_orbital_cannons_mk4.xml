@@ -12,7 +12,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
 
-  <Cost>130</Cost>
+  <Cost>176</Cost>
   <TechLevel>6</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -23,7 +23,7 @@
   <UID>Vul_orbital_cannons_mk4</UID>
   <IconTexturePath>Modules/orbital_cannons_mk4</IconTexturePath>
   <Mass>50000</Mass>
-  <HealthMax>58612</HealthMax>
+  <HealthMax>85104</HealthMax>
   <Description>The largest phase battery on a Vulcan fortress station. Of the Vulcan orbital cannon weapons, it hits the hardest and reaches the farthest.</Description>
   
   
@@ -47,7 +47,7 @@
   <PowerStoreMax>0</PowerStoreMax>
   
   <!-- for Weapons -->
-  <WeaponType>orbital_cannons_mk4</WeaponType>
+  <WeaponType>Vul_orbital_cannons_mk4</WeaponType>
   <FieldOfFire>360</FieldOfFire>
   <OrdinanceCapacity>0</OrdinanceCapacity>
   

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>80</Cost>
+  <Cost>104</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>2</XSize>
   <YSize>2</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/micro_torpedo</IconTexturePath>
   <Mass>30</Mass>
-  <HealthMax>9000</HealthMax>
+  <HealthMax>7380</HealthMax>
   <Description>A small torpedo for the moment a cloaked ship decloaks, thrown quickly before the target can react. Of the Romulan torpedo weapons, it has the fastest shots, but hits the softest.</Description>
   
   

@@ -20,7 +20,7 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>
 
   <UID>hevey_torpedo</UID>
-  <Range>10000</Range>
+  <Range>11000</Range>
   <PowerRequiredToFire>1500</PowerRequiredToFire>
   <OrdinanceRequiredToFire>20</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
@@ -31,7 +31,7 @@
   <!-- name of XACT audio cue to play on firing this weapon -->
   
   <!-- Projectile Information -->
-  <DamageAmount>29000</DamageAmount>
+  <DamageAmount>28838</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>1700</ProjectileSpeed>
 

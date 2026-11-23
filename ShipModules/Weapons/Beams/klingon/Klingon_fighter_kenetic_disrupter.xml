@@ -4,7 +4,7 @@
   <UID>Klingon_fighter_kenetic_disrupter</UID> 
   <Version>2</Version>
 
-  <Cost>33</Cost>
+  <Cost>45</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
   
@@ -23,7 +23,7 @@
 
   <!-- Mass and Health -->
   <Mass>60</Mass>
-  <HealthMax>1270</HealthMax>
+  <HealthMax>1034</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>10</PowerDraw>

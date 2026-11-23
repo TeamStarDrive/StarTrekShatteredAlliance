@@ -12,7 +12,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>288</Cost>
+  <Cost>374</Cost>
   <RepairDifficulty>9</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -26,7 +26,7 @@
   <Name>Romulan Listening Post Emitter</Name>
   <IconTexturePath>Modules/small_station_sheaild_mk1</IconTexturePath>
   <Mass>9000</Mass>
-  <HealthMax>56188</HealthMax>
+  <HealthMax>41467</HealthMax>
   
   <Description>A shield emitter for a listening post, whose first job is to be forgotten. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Romulan station shields, size for size, it draws the least power and is the cheapest to build, but holds the least energy.</Description>
   
@@ -37,15 +37,18 @@
   <DescriptionIndex>30691</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>550000</ShieldPowerMax>
+  <ShieldPowerMax>605000</ShieldPowerMax>
   <ShieldRechargeDelay>10</ShieldRechargeDelay>
   <ShieldRechargeRate>1200</ShieldRechargeRate>
   <ShieldRadius>340</ShieldRadius>
   <ShieldRechargeCombatRate>600</ShieldRechargeCombatRate>
-  <ShieldEnergyResist>0.39</ShieldEnergyResist>
-  <ShieldBeamResist>0.39</ShieldBeamResist>
+  <ShieldEnergyResist>0.45</ShieldEnergyResist>
+  <ShieldBeamResist>0.45</ShieldBeamResist>
   <ShieldKineticResist>0.39</ShieldKineticResist>
   <PlasmaResist>0.43</PlasmaResist>
   <Deflection>200</Deflection>
   <ShieldKineticResist>0.6</ShieldKineticResist>
+  <ShieldPlasmaResist>0.312</ShieldPlasmaResist>
+  <ShieldExplosiveResist>0.06</ShieldExplosiveResist>
+  <ShieldDeflection>500</ShieldDeflection>
 </ShipModule>

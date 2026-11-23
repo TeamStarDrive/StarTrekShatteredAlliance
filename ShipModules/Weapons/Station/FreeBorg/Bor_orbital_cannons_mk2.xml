@@ -12,7 +12,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
 
-  <Cost>90</Cost>
+  <Cost>72</Cost>
   <TechLevel>4</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -23,7 +23,7 @@
   <UID>Bor_orbital_cannons_mk2</UID>
   <IconTexturePath>Modules/orbital_cannons_mk2</IconTexturePath>
   <Mass>50000</Mass>
-  <HealthMax>18609</HealthMax>
+  <HealthMax>20879</HealthMax>
   <Description>A battery of gravimetric cannons spread over a plexus. Of the Borg orbital cannon weapons, it has the fastest shots.</Description>
   
   
@@ -47,7 +47,7 @@
   <PowerStoreMax>0</PowerStoreMax>
   
   <!-- for Weapons -->
-  <WeaponType>orbital_cannons_mk2</WeaponType>
+  <WeaponType>Bor_orbital_cannons_mk2</WeaponType>
   <FieldOfFire>360</FieldOfFire>
   <OrdinanceCapacity>0</OrdinanceCapacity>
   

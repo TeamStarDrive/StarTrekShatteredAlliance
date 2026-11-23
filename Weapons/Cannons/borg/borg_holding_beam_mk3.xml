@@ -20,12 +20,12 @@
   <RepulsionDamage>19000</RepulsionDamage>
   <EffectVsShields>40</EffectVsShields>
   <TroopDamageChance>9</TroopDamageChance>
-  <PowerDamage>4000</PowerDamage>
+  <PowerDamage>5200</PowerDamage>
   <SiphonDamage>900</SiphonDamage>
-  <EMPDamage>1650</EMPDamage>
+  <EMPDamage>2640</EMPDamage>
   <ShieldPenChance>100</ShieldPenChance>
   <BeamTexture>borg_holdingbeam</BeamTexture>
-  <DamageAmount>9</DamageAmount>
+  <DamageAmount>12</DamageAmount>
   <BeamThickness>74</BeamThickness>
   <BeamPowerCostPerSecond>1520</BeamPowerCostPerSecond>
   <WeaponRotation>3</WeaponRotation>

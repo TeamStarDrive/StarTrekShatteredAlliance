@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>155</Cost>
+  <Cost>209</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>4</XSize>
   <YSize>4</YSize>
@@ -23,7 +23,7 @@
 
   <IconTexturePath>Modules/station_torpedo_launcher_mk1</IconTexturePath>
   <Mass>19500</Mass>
-  <HealthMax>60500</HealthMax>
+  <HealthMax>49247</HealthMax>
   <Description>A photon torpedo launcher for a Klingon station, kept loaded. Of the Klingon orbital torpedo weapons, it fires the fastest, but has the slowest shots.</Description>
   
   
@@ -46,7 +46,7 @@
   <PowerStoreMax>0</PowerStoreMax>
 
   <!-- for Weapons -->
-  <WeaponType>station_torpedo_launcher_mk1</WeaponType>
+  <WeaponType>Kli_station_torpedo_launcher_mk1</WeaponType>
   <OrdinanceCapacity>1000</OrdinanceCapacity>
   <FieldOfFire>360</FieldOfFire>
 

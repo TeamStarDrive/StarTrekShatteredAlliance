@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=CombatEngine_2x1;cutting_beam;WarpEngine_1x1;Ceramic Armor Small;Sensor1x2;borg_holding_beam_mk1;Shield_1KW;borg_gravametric_cannon_mk1;borg_torpedo;Internal Bulkhead;Cockpit;NuclearReactorSmall;Fusion Reactor
+ModuleUIDs=CombatEngine_2x1;cutting_beam;WarpEngine_1x1;Ceramic Armor Small;Sensor1x2;borg_holding_beam_mk1;Bor_Shield_1KW;borg_gravametric_cannon_mk1;borg_torpedo;Internal Bulkhead;Cockpit;NuclearReactorSmall;Fusion Reactor
 Modules=44
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 0,0;0;2,1

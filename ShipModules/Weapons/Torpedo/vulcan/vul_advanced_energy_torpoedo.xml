@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>150</Cost>
+  <Cost>202</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>2</XSize>
   <YSize>4</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/advanced_energy_torpoedo</IconTexturePath>
   <Mass>200</Mass>
-  <HealthMax>18500</HealthMax>
+  <HealthMax>24420</HealthMax>
   <Description>A launcher with a charged energy torpedo, tuned for greater effect.</Description>
   
   

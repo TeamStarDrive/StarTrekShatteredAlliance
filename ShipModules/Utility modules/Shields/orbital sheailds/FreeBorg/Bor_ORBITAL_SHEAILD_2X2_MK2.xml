@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>128</Cost>
+  <Cost>102</Cost>
   <RepairDifficulty>7</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -25,7 +25,7 @@
   <Name>Borg Node Remodulating Field</Name>
   <IconTexturePath>Modules/ORBITAL_SHEAILD_2X2_MK2</IconTexturePath>
   <Mass>6000</Mass>
-  <HealthMax>56188</HealthMax>
+  <HealthMax>63043</HealthMax>
   
   <Description>A node field that remodulates between shots and keeps its frequencies close to the Collective's own. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Borg platform shields, size for size, it is the lightest and the cheapest to build, but holds the least energy.</Description>
   
@@ -36,14 +36,16 @@
   <DescriptionIndex>30671</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>70000</ShieldPowerMax>
+  <ShieldPowerMax>77000</ShieldPowerMax>
   <ShieldRechargeDelay>5</ShieldRechargeDelay>
   <ShieldRechargeRate>3200</ShieldRechargeRate>
   <ShieldRadius>120</ShieldRadius>
   <ShieldRechargeCombatRate>500</ShieldRechargeCombatRate>
-  <ShieldEnergyResist>0.39</ShieldEnergyResist>
-  <ShieldBeamResist>0.39</ShieldBeamResist>
+  <ShieldEnergyResist>0.45</ShieldEnergyResist>
+  <ShieldBeamResist>0.45</ShieldBeamResist>
   <ShieldKineticResist>0.37</ShieldKineticResist>
   <PlasmaResist>1.03</PlasmaResist>
   <Deflection>90</Deflection>
+  <ShieldPlasmaResist>0.296</ShieldPlasmaResist>
+  <ShieldExplosiveResist>0.06</ShieldExplosiveResist>
 </ShipModule>

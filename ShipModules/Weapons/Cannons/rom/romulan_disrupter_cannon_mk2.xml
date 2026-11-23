@@ -3,7 +3,7 @@
 
   <DroneModule>false</DroneModule>
 
-  <Cost>45</Cost>
+  <Cost>59</Cost>
   <TechLevel>3</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -14,7 +14,7 @@
   <UID>romulan_disrupter_cannon_mk2</UID>
   <IconTexturePath>Modules/romulan_disrupter_cannon_mk2</IconTexturePath>
   <Mass>15</Mass>
-  <HealthMax>15975</HealthMax>
+  <HealthMax>11790</HealthMax>
   <Description>A heavier cannon, mounted on the larger warships. Of the Romulan cannon weapons, it fires the fastest and fires the largest salvos.</Description>
   
   

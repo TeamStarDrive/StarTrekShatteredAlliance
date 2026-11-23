@@ -19,8 +19,8 @@
   <Tag_Cannon>true</Tag_Cannon>
   
   <UID>Car_DisruptorCannonMk1</UID>
-  <Range>4000</Range>
-  <PowerRequiredToFire>140</PowerRequiredToFire>
+  <Range>3600</Range>
+  <PowerRequiredToFire>100</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <SalvoCount>4</SalvoCount>
   <SalvoTimer>3</SalvoTimer>
@@ -34,16 +34,17 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>295</DamageAmount>
+  <DamageAmount>263</DamageAmount>
   <ProjectileSpeed>4200</ProjectileSpeed>
   <Light>Green</Light>
   <Scale>1.0</Scale>
-  <DamageRadius>15</DamageRadius>
+  <DamageRadius>10</DamageRadius>
   <explodes>false</explodes>
   <ProjectileTexturePath>projTear_01_green</ProjectileTexturePath>
   <ModelPath>projTear</ModelPath>
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
   <WeaponType>Disruptor Cannons</WeaponType>
   <FireCueName>disruptor</FireCueName>
-  <FireDelay>3</FireDelay>
+  <FireDelay>4</FireDelay>
+  <ShieldPenChance>0.024</ShieldPenChance>
 </Weapon>

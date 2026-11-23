@@ -25,13 +25,13 @@
 
   <!-- Mass and Health -->
   <Mass>24</Mass>
-  <HealthMax>9200</HealthMax>
+  <HealthMax>6790</HealthMax>
 
   <!-- Armor resistance -->
-    <KineticResist>0.02</KineticResist>
+    <KineticResist>-0.05</KineticResist>
     <BeamResist>0</BeamResist>
     <EnergyResist>0</EnergyResist>    
-    <PlasmaResist>0</PlasmaResist>
+    <PlasmaResist>-0.05</PlasmaResist>
     <ExplosiveResist>0.04</ExplosiveResist>
 
   <!-- Description -->

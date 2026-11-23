@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>170</Cost>
+  <Cost>136</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>3</XSize>
   <YSize>6</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/gravametric_torpedo_mk2</IconTexturePath>
   <Mass>200</Mass>
-  <HealthMax>26500</HealthMax>
+  <HealthMax>29733</HealthMax>
   <Description>A heavier launcher for gravimetric torpedoes. Of the Borg gravimetric torpedo weapons, it is the cheapest for its size and has the fastest shots, but is the frailest for its size.</Description>
   
   

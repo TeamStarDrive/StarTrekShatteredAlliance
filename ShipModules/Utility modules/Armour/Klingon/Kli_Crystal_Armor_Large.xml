@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <Cost>35</Cost>
+    <Cost>47</Cost>
     <FighterModule>false</FighterModule>
     <!-- Tech Level -->
     <TechLevel>5</TechLevel>
@@ -20,15 +20,15 @@
     <DescriptionIndex>30087</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>72</Mass>
-    <HealthMax>85530</HealthMax>
+    <HealthMax>69621</HealthMax>
     <RepairDifficulty>1.5</RepairDifficulty>
     <Deflection>0</Deflection>                  
     <!-- Armor resistance -->
-    <KineticResist>0.10</KineticResist>
-    <EnergyResist>0</EnergyResist>  
-    <BeamResist>0</BeamResist>
-    <ExplosiveResist>0.20</ExplosiveResist>      
-    <PlasmaResist>0</PlasmaResist>
+    <KineticResist>-0.05</KineticResist>
+    <EnergyResist>0.05</EnergyResist>  
+    <BeamResist>0.05</BeamResist>
+    <ExplosiveResist>0.25</ExplosiveResist>      
+    <PlasmaResist>-0.05</PlasmaResist>
 
     <!-- Description -->
     <Description>A crystal lattice grown hard and clear, struck and tested in the forges before it is allowed on a ship. Good protection against explosions, some protection against kinetic rounds. Of the Klingon ship plates of its size, it is the best against armour-piercing rounds, but the heaviest.</Description>

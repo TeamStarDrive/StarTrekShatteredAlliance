@@ -34,7 +34,7 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>19000</DamageAmount>
+  <DamageAmount>18894</DamageAmount>
   <ShieldPenChance>0.6</ShieldPenChance>
   <Scale>3</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>

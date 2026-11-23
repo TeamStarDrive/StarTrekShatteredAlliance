@@ -6,7 +6,7 @@
   <UID>Car_DisruptorBeamMk1</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>5</FireDelay>
-  <Range>6000</Range>
+  <Range>5400</Range>
   <PowerRequiredToFire>50</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2</BeamDuration>
@@ -18,10 +18,10 @@
   
   <!-- Projectile Information -->
   <BeamTexture>car_disruptorbeam</BeamTexture>
-  <DamageAmount>14</DamageAmount>
+  <DamageAmount>13</DamageAmount>
+  <EffectVsArmor>1.15</EffectVsArmor>
   <BeamThickness>10</BeamThickness>
   <BeamPowerCostPerSecond>187</BeamPowerCostPerSecond>
-  <EffectVsShields>0.3</EffectVsShields>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
@@ -31,4 +31,5 @@
   <WeaponDeathEffect></WeaponDeathEffect>
 
   
+  <SiphonDamage>60</SiphonDamage>
 </Weapon>

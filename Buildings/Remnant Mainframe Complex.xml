@@ -1,0 +1,18 @@
+<Building>
+  <Name>Remnant Mainframe Complex</Name>
+  <Icon>rda</Icon>
+
+  <Cost>3000</Cost>
+  <Maintenance>4</Maintenance>
+
+  <PlusFlatResearchAmount>5</PlusFlatResearchAmount>
+  <EventOnBuild>Remnant Mainframe Online</EventOnBuild>
+  <BuildOnlyOnce>true</BuildOnlyOnce>
+  <NoRandomSpawn>true</NoRandomSpawn>
+  <Scrappable>false</Scrappable>
+
+  <!-- For localization in GameText.yaml -->
+  <NameTranslationIndex>131500</NameTranslationIndex>
+  <DescriptionIndex>131503</DescriptionIndex>
+  <ShortDescriptionIndex>131504</ShortDescriptionIndex>
+</Building>

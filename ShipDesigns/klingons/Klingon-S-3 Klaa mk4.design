@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=Organic_Bioplates_Med;Organic_Bioplates_Small;station_phasor_beem_mk2;PowerSolar;ORBITAL_SHEAILD_2X2_MK2;Extreme Fusion Reactor;Cockpit;NuclearReactorSmall;Organic_Bioplates_Large;orbital_weapons_platform;Sensor1x2;MediumFuelCell
+ModuleUIDs=Kli_Organic_Bioplates_Med;Kli_Organic_Bioplates_Small;Kli_station_phasor_beem_mk2;PowerSolar;Kli_ORBITAL_SHEAILD_2X2_MK2;Extreme Fusion Reactor;Cockpit;NuclearReactorSmall;Kli_Organic_Bioplates_Large;Kli_orbital_weapons_platform;Sensor1x2;MediumFuelCell
 Modules=64
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 5,0;0;2,2

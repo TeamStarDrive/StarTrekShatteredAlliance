@@ -302,7 +302,13 @@
       <Cost>2</Cost>
       <Description>83</Description>
       <ShipCostMod>-0.2</ShipCostMod>
-    </RacialTraitOption>
+    <Excludes>
+		<string>Costly Ships</string>
+		<string>Drone Shipyards</string>
+		<string>Forced Labour</string>
+		<string>Starfleet Standards</string>
+	</Excludes>
+  </RacialTraitOption>
     <RacialTraitOption>
       <!-- Militaristic -->
 	  <TraitName>Militaristic</TraitName>
@@ -329,7 +335,10 @@
       <Cost>-2</Cost>
       <Description>87</Description>
       <HomeworldFertMod>-0.35</HomeworldFertMod>
-    </RacialTraitOption>
+    <Excludes>
+		<string>Fertile Homeworld</string>
+	</Excludes>
+  </RacialTraitOption>
     <RacialTraitOption>
       <!-- Industrialized Homeworld -->
 	  <TraitName>Industrialized Homeworld</TraitName>
@@ -339,7 +348,11 @@
       <Description>5082</Description>
       <HomeworldFertMod>-1.0</HomeworldFertMod>
       <HomeworldRichMod>1.0</HomeworldRichMod>
-    </RacialTraitOption>
+    <Excludes>
+		<string>Fertile Homeworld</string>
+		<string>Poor Homeworld</string>
+	</Excludes>
+  </RacialTraitOption>
     <RacialTraitOption>
       <!-- Huge Homeworld -->
 	  <TraitName>Huge Homeworld</TraitName>
@@ -440,7 +453,9 @@
 		<string>Desert Homeworld</string>
 		<string>Ice Homeworld</string>
 		<string>Terran Homeworld</string>
-	  </Excludes>
+		<string>Barren Homeworld</string>
+		<string>Volcanic Homeworld</string>
+	</Excludes>
     </RacialTraitOption>	
     <RacialTraitOption>
       <!-- Explorers -->
@@ -469,7 +484,9 @@
 		<string>Desert Homeworld</string>
 		<string>Ice Homeworld</string>
 		<string>Aquatic</string>
-	  </Excludes>
+		<string>Barren Homeworld</string>
+		<string>Volcanic Homeworld</string>
+	</Excludes>
 	</RacialTraitOption>  	  	
     <RacialTraitOption>
 	  <!-- Oceanic Homeworld -->
@@ -487,8 +504,10 @@
 		<string>Swamp Homeworld</string>
 		<string>Desert Homeworld</string>
 		<string>Ice Homeworld</string>
-		<string>Aquatic</string>	  
-	  </Excludes>
+		<string>Aquatic</string>
+		<string>Barren Homeworld</string>
+		<string>Volcanic Homeworld</string>
+	</Excludes>
 	</RacialTraitOption>  	  		
     <RacialTraitOption>
 	  <!-- Steppe Homeworld -->
@@ -506,8 +525,10 @@
 		<string>Swamp Homeworld</string>
 		<string>Desert Homeworld</string>
 		<string>Ice Homeworld</string>
-		<string>Aquatic</string>	  
-	  </Excludes>
+		<string>Aquatic</string>
+		<string>Barren Homeworld</string>
+		<string>Volcanic Homeworld</string>
+	</Excludes>
 	</RacialTraitOption>  		
     <RacialTraitOption>
 	  <!-- Tundra Homeworld -->
@@ -525,8 +546,10 @@
 		<string>Swamp Homeworld</string>
 		<string>Desert Homeworld</string>
 		<string>Ice Homeworld</string>
-		<string>Aquatic</string>	  
-	  </Excludes>
+		<string>Aquatic</string>
+		<string>Barren Homeworld</string>
+		<string>Volcanic Homeworld</string>
+	</Excludes>
 	</RacialTraitOption>  			
     <RacialTraitOption>
 	  <!-- Swamp Homeworld -->
@@ -544,8 +567,10 @@
 		<string>Tundra Homeworld</string>
 		<string>Desert Homeworld</string>
 		<string>Ice Homeworld</string>
-		<string>Aquatic</string>	  
-	  </Excludes>
+		<string>Aquatic</string>
+		<string>Barren Homeworld</string>
+		<string>Volcanic Homeworld</string>
+	</Excludes>
 	</RacialTraitOption> 	
     <RacialTraitOption>
 	  <!-- Desert Homeworld -->
@@ -563,8 +588,10 @@
 		<string>Tundra Homeworld</string>
 		<string>Swamp Homeworld</string>
 		<string>Ice Homeworld</string>
-		<string>Aquatic</string>	  
-	  </Excludes>
+		<string>Aquatic</string>
+		<string>Barren Homeworld</string>
+		<string>Volcanic Homeworld</string>
+	</Excludes>
 	</RacialTraitOption> 		
     <RacialTraitOption>
 	  <!-- Ice Homeworld -->
@@ -582,8 +609,10 @@
 		<string>Tundra Homeworld</string>
 		<string>Swamp Homeworld</string>
 		<string>Desert Homeworld</string>
-		<string>Aquatic</string>	  
-	  </Excludes>
+		<string>Aquatic</string>
+		<string>Barren Homeworld</string>
+		<string>Volcanic Homeworld</string>
+	</Excludes>
 	</RacialTraitOption> 		
     <RacialTraitOption>
 	  <!-- Salvagers -->
@@ -710,5 +739,404 @@
       <Description>You would swindle an old lady out of her last credit, and in fact have done so on two separate occasions.  +20% credits gain from looting. </Description>
       <PassengerModifier>2</PassengerModifier>
     </RacialTraitOption>    -->
+  <!-- Star Trek traits (added by the trait update) -->
+  <RacialTraitOption>
+    <!-- Federation Charter -->
+    <TraitName>Federation Charter</TraitName>
+    <TraitIndex>119400</TraitIndex>
+    <Category>HistoryAndTradition</Category>
+    <Cost>2</Cost>
+    <Description>119401</Description>
+    <DiplomacyMod>0.2</DiplomacyMod>
+    <ResearchBenefitFromAlliance>0.05</ResearchBenefitFromAlliance>
+    <Excludes>
+		<string>Isolationist Doctrine</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Isolationist Doctrine -->
+    <TraitName>Isolationist Doctrine</TraitName>
+    <TraitIndex>119402</TraitIndex>
+    <Category>HistoryAndTradition</Category>
+    <Cost>-4</Cost>
+    <Description>119403</Description>
+    <DiplomacyMod>-0.2</DiplomacyMod>
+    <ResearchBenefitFromAlliance>-0.05</ResearchBenefitFromAlliance>
+    <Excludes>
+		<string>Federation Charter</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Corps of Engineers -->
+    <TraitName>Corps of Engineers</TraitName>
+    <TraitIndex>119404</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>2</Cost>
+    <Description>119405</Description>
+    <ConstructionRateMultiplier>1.25</ConstructionRateMultiplier>
+    <BuilderShipConstructionMultiplier>1.5</BuilderShipConstructionMultiplier>
+    <Excludes>
+		<string>Overstretched Engineers</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Overstretched Engineers -->
+    <TraitName>Overstretched Engineers</TraitName>
+    <TraitIndex>119406</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>-2</Cost>
+    <Description>119407</Description>
+    <ConstructionRateMultiplier>0.75</ConstructionRateMultiplier>
+    <BuilderShipConstructionMultiplier>0.5</BuilderShipConstructionMultiplier>
+    <Excludes>
+		<string>Corps of Engineers</string>
+		<string>Swift Builders</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Warrior Culture -->
+    <TraitName>Warrior Culture</TraitName>
+    <TraitIndex>119408</TraitIndex>
+    <Category>HistoryAndTradition</Category>
+    <Cost>3</Cost>
+    <Description>119409</Description>
+    <GroundCombatModifier>0.3</GroundCombatModifier>
+    <CreditsPerKilledSlot>0.05</CreditsPerKilledSlot>
+    <Excludes>
+		<string>Dishonoured House</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Dishonoured House -->
+    <TraitName>Dishonoured House</TraitName>
+    <TraitIndex>119410</TraitIndex>
+    <Category>HistoryAndTradition</Category>
+    <Cost>-3</Cost>
+    <Description>119411</Description>
+    <GroundCombatModifier>-0.3</GroundCombatModifier>
+    <PenaltyPerKilledSlot>0.05</PenaltyPerKilledSlot>
+    <Excludes>
+		<string>Warrior Culture</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Logic and Discipline -->
+    <TraitName>Logic and Discipline</TraitName>
+    <TraitIndex>119412</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>3</Cost>
+    <Description>119413</Description>
+    <ResearchMod>0.1</ResearchMod>
+    <MaintMod>-0.1</MaintMod>
+    <Excludes>
+		<string>Unchecked Emotion</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Unchecked Emotion -->
+    <TraitName>Unchecked Emotion</TraitName>
+    <TraitIndex>119414</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>-4</Cost>
+    <Description>119415</Description>
+    <ResearchMod>-0.1</ResearchMod>
+    <MaintMod>0.1</MaintMod>
+    <Excludes>
+		<string>Logic and Discipline</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Secret Police -->
+    <TraitName>Secret Police</TraitName>
+    <TraitIndex>119416</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>3</Cost>
+    <Description>119417</Description>
+    <SpyMultiplier>15</SpyMultiplier>
+    <Excludes>
+		<string>Open Senate</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Open Senate -->
+    <TraitName>Open Senate</TraitName>
+    <TraitIndex>119418</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>-3</Cost>
+    <Description>119419</Description>
+    <SpyMultiplier>-15</SpyMultiplier>
+    <Excludes>
+		<string>Secret Police</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Watchful State -->
+    <TraitName>Watchful State</TraitName>
+    <TraitIndex>119420</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>3</Cost>
+    <Description>119421</Description>
+    <ProductionMod>0.1</ProductionMod>
+    <SpyMultiplier>10</SpyMultiplier>
+    <Excludes>
+		<string>Purged Order</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Purged Order -->
+    <TraitName>Purged Order</TraitName>
+    <TraitIndex>119422</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>-3</Cost>
+    <Description>119423</Description>
+    <ProductionMod>-0.1</ProductionMod>
+    <SpyMultiplier>-10</SpyMultiplier>
+    <Excludes>
+		<string>Watchful State</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Engineered Soldiers -->
+    <TraitName>Engineered Soldiers</TraitName>
+    <TraitIndex>119424</TraitIndex>
+    <Category>Physical</Category>
+    <Cost>1</Cost>
+    <Description>119425</Description>
+    <GroundCombatModifier>0.4</GroundCombatModifier>
+    <ConsumptionModifier>0.1</ConsumptionModifier>
+    <Excludes>
+		<string>Conscript Soldiers</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Conscript Soldiers -->
+    <TraitName>Conscript Soldiers</TraitName>
+    <TraitIndex>119426</TraitIndex>
+    <Category>Physical</Category>
+    <Cost>-2</Cost>
+    <Description>119427</Description>
+    <GroundCombatModifier>-0.4</GroundCombatModifier>
+    <ConsumptionModifier>-0.1</ConsumptionModifier>
+    <Excludes>
+		<string>Engineered Soldiers</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Collective Adaptation -->
+    <TraitName>Collective Adaptation</TraitName>
+    <TraitIndex>119428</TraitIndex>
+    <Category>HistoryAndTradition</Category>
+    <Cost>3</Cost>
+    <Description>119429</Description>
+    <ResearchMod>0.1</ResearchMod>
+    <ModHpModifier>0.2</ModHpModifier>
+    <Excludes>
+		<string>Failed Adaptation</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Failed Adaptation -->
+    <TraitName>Failed Adaptation</TraitName>
+    <TraitIndex>119430</TraitIndex>
+    <Category>HistoryAndTradition</Category>
+    <Cost>-4</Cost>
+    <Description>119431</Description>
+    <ResearchMod>-0.1</ResearchMod>
+    <ModHpModifier>-0.2</ModHpModifier>
+    <Excludes>
+		<string>Collective Adaptation</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Barren Homeworld -->
+    <TraitName>Barren Homeworld</TraitName>
+    <TraitIndex>119432</TraitIndex>
+    <Category>Environment</Category>
+    <Cost>1</Cost>
+    <Description>119433</Description>
+    <PreferredEnv>Barren</PreferredEnv>
+    <EnvBarrenMultiplier>1.5</EnvBarrenMultiplier>
+    <Excludes>
+		<string>Terran Homeworld</string>
+		<string>Oceanic Homeworld</string>
+		<string>Steppe Homeworld</string>
+		<string>Tundra Homeworld</string>
+		<string>Swamp Homeworld</string>
+		<string>Desert Homeworld</string>
+		<string>Ice Homeworld</string>
+		<string>Aquatic</string>
+		<string>Volcanic Homeworld</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Volcanic Homeworld -->
+    <TraitName>Volcanic Homeworld</TraitName>
+    <TraitIndex>119434</TraitIndex>
+    <Category>Environment</Category>
+    <Cost>1</Cost>
+    <Description>119435</Description>
+    <PreferredEnv>Volcanic</PreferredEnv>
+    <EnvVolcanicMultiplier>1.5</EnvVolcanicMultiplier>
+    <Excludes>
+		<string>Terran Homeworld</string>
+		<string>Oceanic Homeworld</string>
+		<string>Steppe Homeworld</string>
+		<string>Tundra Homeworld</string>
+		<string>Swamp Homeworld</string>
+		<string>Desert Homeworld</string>
+		<string>Ice Homeworld</string>
+		<string>Aquatic</string>
+		<string>Barren Homeworld</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Field Repairs -->
+    <TraitName>Field Repairs</TraitName>
+    <TraitIndex>119436</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>2</Cost>
+    <Description>119437</Description>
+    <RepairMod>0.5</RepairMod>
+    <Excludes>
+		<string>Slow Repairs</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Slow Repairs -->
+    <TraitName>Slow Repairs</TraitName>
+    <TraitIndex>119438</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>-2</Cost>
+    <Description>119439</Description>
+    <RepairMod>-0.5</RepairMod>
+    <Excludes>
+		<string>Field Repairs</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Fertile Homeworld -->
+    <TraitName>Fertile Homeworld</TraitName>
+    <TraitIndex>119440</TraitIndex>
+    <Category>Environment</Category>
+    <Cost>2</Cost>
+    <Description>119441</Description>
+    <HomeworldFertMod>0.35</HomeworldFertMod>
+    <Excludes>
+		<string>Polluted Homeworld</string>
+		<string>Industrialized Homeworld</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Mineral-Rich Homeworld -->
+    <TraitName>Mineral-Rich Homeworld</TraitName>
+    <TraitIndex>119442</TraitIndex>
+    <Category>Environment</Category>
+    <Cost>2</Cost>
+    <Description>119443</Description>
+    <HomeworldRichMod>0.5</HomeworldRichMod>
+    <Excludes>
+		<string>Poor Homeworld</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Poor Homeworld -->
+    <TraitName>Poor Homeworld</TraitName>
+    <TraitIndex>119444</TraitIndex>
+    <Category>Environment</Category>
+    <Cost>-2</Cost>
+    <Description>119445</Description>
+    <HomeworldRichMod>-0.5</HomeworldRichMod>
+    <Excludes>
+		<string>Mineral-Rich Homeworld</string>
+		<string>Industrialized Homeworld</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Costly Ships -->
+    <TraitName>Costly Ships</TraitName>
+    <TraitIndex>119446</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>-2</Cost>
+    <Description>119447</Description>
+    <ShipCostMod>0.2</ShipCostMod>
+    <Excludes>
+		<string>Naval Tradition</string>
+		<string>Drone Shipyards</string>
+		<string>Forced Labour</string>
+		<string>Starfleet Standards</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Swift Builders -->
+    <TraitName>Swift Builders</TraitName>
+    <TraitIndex>119448</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>1</Cost>
+    <Description>119449</Description>
+    <BuilderShipConstructionMultiplier>1.5</BuilderShipConstructionMultiplier>
+    <Excludes>
+		<string>Slow Builders</string>
+		<string>Overstretched Engineers</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Slow Builders -->
+    <TraitName>Slow Builders</TraitName>
+    <TraitIndex>119450</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>-1</Cost>
+    <Description>119451</Description>
+    <BuilderShipConstructionMultiplier>0.5</BuilderShipConstructionMultiplier>
+    <Excludes>
+		<string>Swift Builders</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Forced Labour -->
+    <TraitName>Forced Labour</TraitName>
+    <TraitIndex>119452</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>1</Cost>
+    <Description>119453</Description>
+    <ShipCostMod>-0.25</ShipCostMod>
+    <ModHpModifier>-0.25</ModHpModifier>
+    <Excludes>
+		<string>Naval Tradition</string>
+		<string>Drone Shipyards</string>
+		<string>Costly Ships</string>
+		<string>Starfleet Standards</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Starfleet Standards -->
+    <TraitName>Starfleet Standards</TraitName>
+    <TraitIndex>119454</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>1</Cost>
+    <Description>119455</Description>
+    <ShipCostMod>0.25</ShipCostMod>
+    <ModHpModifier>0.25</ModHpModifier>
+    <Excludes>
+		<string>Naval Tradition</string>
+		<string>Drone Shipyards</string>
+		<string>Costly Ships</string>
+		<string>Forced Labour</string>
+	</Excludes>
+  </RacialTraitOption>
+  <RacialTraitOption>
+    <!-- Drone Shipyards -->
+    <TraitName>Drone Shipyards</TraitName>
+    <TraitIndex>119456</TraitIndex>
+    <Category>Sociological</Category>
+    <Cost>3</Cost>
+    <Description>119457</Description>
+    <ShipCostMod>-0.3</ShipCostMod>
+    <Excludes>
+		<string>Naval Tradition</string>
+		<string>Costly Ships</string>
+		<string>Forced Labour</string>
+		<string>Starfleet Standards</string>
+	</Excludes>
+  </RacialTraitOption>
 </TraitList>
 </RacialTraits>

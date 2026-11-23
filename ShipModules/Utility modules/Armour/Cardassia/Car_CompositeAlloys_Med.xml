@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <Cost>12</Cost>
+    <Cost>8</Cost>
     <!-- Tech Level -->
     <TechLevel>4</TechLevel>
     <TechBranch>Armor</TechBranch>
@@ -19,14 +19,14 @@
     <DescriptionIndex>30063</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>28</Mass>
-    <HealthMax>22560</HealthMax>
+    <HealthMax>8528</HealthMax>
     <RepairDifficulty>1.25</RepairDifficulty>
     <Deflection>0</Deflection>
     <!-- Armor resistance -->
-    <KineticResist>0.08</KineticResist>
+    <KineticResist>-0.05</KineticResist>
     <BeamResist>0</BeamResist>
     <EnergyResist>0</EnergyResist>    
-    <PlasmaResist>0</PlasmaResist>
+    <PlasmaResist>-0.05</PlasmaResist>
     <ExplosiveResist>0.16</ExplosiveResist>
 
     <!-- Description -->

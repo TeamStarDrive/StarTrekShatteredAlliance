@@ -79,18 +79,19 @@
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>
-				<string>Prototype Flagship</string>
+				<string>Engineered Soldiers</string>
 				<string>Savage</string>
-				<string>Reflexes</string>
-				<string>Mercantile</string>
-				<string>Oceanic Homeworld</string>
-				<string>Gluttonous</string>
+				<string>Skilled Engineers</string>
+				<string>Prototype Flagship</string>
+				<string>Duplicitous</string>
+				<string>Militaristic</string>
 				<string>Pack</string>
-				<string>Salvagers</string>
-				<string>Alluring</string>
-				<string>Gluttonous</string>
-				<string>Less Fertile</string>
 				<string>Meticulous</string>
+				<string>Field Repairs</string>
+				<string>Naval Tradition</string>
+				<string>Alluring</string>
+				<string>Research Adversaries</string>
+				<string>Less Fertile</string>
 			</TraitOptions>		
 		</TraitSet>
 	</TraitSets>	

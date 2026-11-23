@@ -22,9 +22,9 @@
   <UID>Fed_QuantumTorpedo_Mk1</UID>
   <FireDelay>8</FireDelay>
   <Range>14000</Range>
-  <PowerRequiredToFire>1100</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>20</OrdinanceRequiredToFire>
-  <HitPoints>30</HitPoints>  
+  <PowerRequiredToFire>1900</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>15</OrdinanceRequiredToFire>
+  <HitPoints>5</HitPoints>  
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
@@ -32,8 +32,8 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>15000</DamageAmount>
-  <ShieldPenChance>5</ShieldPenChance>
+  <DamageAmount>15624</DamageAmount>
+  <ShieldPenChance>0.2</ShieldPenChance>
   <Scale>0.9</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>2900</ProjectileSpeed>
@@ -43,8 +43,8 @@
   <Frames>16</Frames>
   <AnimationPath>fed_torpedo_quantum_micro/fed_torpedo_quantum_micro_cc_</AnimationPath>
   <LoopAnimation>1</LoopAnimation>
-  <SalvoCount>4</SalvoCount>
-  <SalvoTimer>10</SalvoTimer>
+  <SalvoCount>2</SalvoCount>
+  <SalvoTimer>8</SalvoTimer>
   
   <Light>Blue</Light>
   <ProjectileTexturePath>projBall_03_purple</ProjectileTexturePath>

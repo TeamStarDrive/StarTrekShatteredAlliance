@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=ablative_armor_Large;ablative_armor_Small;TRANSPHASIC_OWP_SHEAILD;Amplifier;small_antimatter_reactor;Cockpit;station_phasor_beem_mk4;warpcore_2x2
+ModuleUIDs=Bor_ablative_armor_Large;Bor_ablative_armor_Small;Bor_TRANSPHASIC_OWP_SHEAILD;Amplifier;small_antimatter_reactor;Cockpit;Bor_station_phasor_beem_mk4;Bor_warpcore_2x2
 Modules=39
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 5,0;0;3,3

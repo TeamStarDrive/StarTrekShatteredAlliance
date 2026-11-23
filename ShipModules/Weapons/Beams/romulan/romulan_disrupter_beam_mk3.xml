@@ -4,7 +4,7 @@
   <UID>romulan_disrupter_beam_mk3</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>121</Cost>
+  <Cost>157</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
 
@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>28</Mass>
-  <HealthMax>20120</HealthMax>
+  <HealthMax>16498</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>5</PowerDraw>

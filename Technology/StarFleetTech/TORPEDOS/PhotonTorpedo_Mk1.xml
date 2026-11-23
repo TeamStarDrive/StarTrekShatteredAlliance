@@ -65,11 +65,11 @@
       <Type>Terran</Type>
     </UnlockedMod>
     <UnlockedMod>
-      <ModuleUID>energy_torpedo_mk1</ModuleUID>
+      <ModuleUID>dom_energy_torpedo_mk1</ModuleUID>
       <Type>dominion</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>energy_torpedo_mk1</ModuleUID>
+      <ModuleUID>vul_energy_torpedo_mk1</ModuleUID>
       <Type>vulcan</Type>
     </UnlockedMod>
   </ModulesUnlocked>

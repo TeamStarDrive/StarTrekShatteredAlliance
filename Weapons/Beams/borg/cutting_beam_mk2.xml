@@ -5,11 +5,11 @@
 
   <UID>cutting_beam_mk2</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>4</FireDelay>
-  <Range>11000</Range>
-  <PowerRequiredToFire>80</PowerRequiredToFire>
+  <FireDelay>6</FireDelay>
+  <Range>8000</Range>
+  <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2.4</BeamDuration>
+  <BeamDuration>2</BeamDuration>
   <OffPowerMod>0.35</OffPowerMod>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
@@ -19,13 +19,13 @@
   
   <!-- Projectile Information -->
   <BeamTexture>beam_greenA</BeamTexture>
-  <EffectVsShields>0.90</EffectVsShields> 
-  <EffectVsArmor>1.60</EffectVsArmor>
-  <DamageAmount>120</DamageAmount>
+  <EffectVsArmor>1.495</EffectVsArmor>
+  <DamageAmount>51</DamageAmount>
+  <ShieldPenChance>0.2</ShieldPenChance>
   <BeamThickness>25</BeamThickness>
-  <BeamPowerCostPerSecond>720</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>220</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
-  <TroopDamageChance>15</TroopDamageChance>
+  <TroopDamageChance>24</TroopDamageChance>
 
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

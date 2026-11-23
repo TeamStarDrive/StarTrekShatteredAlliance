@@ -6,7 +6,7 @@
   <UID>dom_particalPhasor_beam_mk2</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>6</FireDelay>
-  <Range>8000</Range>
+  <Range>7200</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2</BeamDuration>
@@ -20,10 +20,11 @@
   
   <!-- Projectile Information -->
   <BeamTexture>dom_polaronbeam</BeamTexture>
-  <DamageAmount>45</DamageAmount>
+  <DamageAmount>41</DamageAmount>
+  <EffectVsArmor>1.30</EffectVsArmor>
   <BeamThickness>10</BeamThickness>
   <BeamPowerCostPerSecond>220</BeamPowerCostPerSecond>
-  <ShieldPenChance>10</ShieldPenChance>
+  <ShieldPenChance>0.2</ShieldPenChance>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
@@ -33,4 +34,6 @@
   <WeaponDeathEffect></WeaponDeathEffect>
 
   
+  <EffectVsShields>1.15</EffectVsShields>
+  <RepulsionDamage>1000</RepulsionDamage>
 </Weapon>

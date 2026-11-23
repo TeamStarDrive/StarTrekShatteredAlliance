@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>190</Cost>
+  <Cost>133</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>2</XSize>
   <YSize>7</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/Car_PhotonTorpedoMk4</IconTexturePath>
   <Mass>350</Mass>
-  <HealthMax>25500</HealthMax>
+  <HealthMax>10710</HealthMax>
   <Description>A launcher for the largest cruisers of the fleet.</Description>
   
   

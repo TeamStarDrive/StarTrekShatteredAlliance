@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=ablative_ship_armor_large;Klingon_kenetic_disrupter;Kling_DisruptorCannonMk3;ablative_ship_armor_Small;ablative_ship_armor_med;ArmoredShield4x4;OrdnanceLockerSmall;Bridge;AdvAmplifier;SubspaceSensors;TorpedoBay_2x1;WarpEngine_2x2;Kling_TriTorpedoMk2;FighterBay;warpcore_2x2;CombatEngine_2x1;Titan Engine
+ModuleUIDs=Kli_ablative_ship_armor_large;Klingon_kenetic_disrupter;Kling_DisruptorCannonMk3;Kli_ablative_ship_armor_Small;Kli_ablative_ship_armor_med;Kli_ArmoredShield4x4;OrdnanceLockerSmall;Bridge;AdvAmplifier;SubspaceSensors;TorpedoBay_2x1;WarpEngine_2x2;Kling_TriTorpedoMk2;FighterBay;warpcore_2x2;CombatEngine_2x1;Titan Engine
 Modules=64
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 7,0;0;3,3

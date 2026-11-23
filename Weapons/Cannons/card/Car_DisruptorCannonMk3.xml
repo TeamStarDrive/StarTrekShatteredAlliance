@@ -19,11 +19,11 @@
   <Tag_Cannon>true</Tag_Cannon>
   
   <UID>Car_DisruptorCannonMk3</UID>
-  <Range>6000</Range>
-  <PowerRequiredToFire>500</PowerRequiredToFire>
+  <Range>6300</Range>
+  <PowerRequiredToFire>1500</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <SalvoCount>5</SalvoCount>
-  <SalvoTimer>4</SalvoTimer>
+  <SalvoCount>6</SalvoCount>
+  <SalvoTimer>3</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   
@@ -34,16 +34,17 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>1295</DamageAmount>
+  <DamageAmount>808</DamageAmount>
   <ProjectileSpeed>4200</ProjectileSpeed>
   <Light>Green</Light>
   <Scale>2.0</Scale>
-  <DamageRadius>15</DamageRadius>
+  <DamageRadius>10</DamageRadius>
   <explodes>false</explodes>
   <ProjectileTexturePath>projTear_01_green</ProjectileTexturePath>
   <ModelPath>projTear</ModelPath>
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
   <WeaponType>Disruptor Cannons</WeaponType>
   <FireCueName>disruptor</FireCueName>
-  <FireDelay>3</FireDelay>
+  <FireDelay>6</FireDelay>
+  <ShieldPenChance>0.056</ShieldPenChance>
 </Weapon>

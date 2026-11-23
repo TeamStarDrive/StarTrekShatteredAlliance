@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=Ceramic Armor Med;BasicFuelCell;Ceramic Armor Small;ORBITAL_SHEAILD_2X2;orbital_defence_torpedo;station_phasor_beem_mk1;orbital_weapons_platform;Cockpit;PowerConduit;NuclearReactorSmall;Fusion Reactor;Sensor1x2
+ModuleUIDs=Ceramic Armor Med;BasicFuelCell;Ceramic Armor Small;Car_ORBITAL_SHEAILD_2X2;Car_orbital_defence_torpedo;Car_station_phasor_beem_mk1;Car_orbital_weapons_platform;Cockpit;PowerConduit;NuclearReactorSmall;Fusion Reactor;Sensor1x2
 Modules=88
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 42,15;0;2,2

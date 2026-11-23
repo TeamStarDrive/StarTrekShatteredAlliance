@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>300</Cost>
+  <Cost>225</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>3</XSize>
   <YSize>7</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/torpedo_BARAGE</IconTexturePath>
   <Mass>350</Mass>
-  <HealthMax>44500</HealthMax>
+  <HealthMax>33242</HealthMax>
   <Description>A launcher that throws a great many torpedoes at once, the way the fighters themselves arrive: all together. Of the Dominion torpedo weapons, it fires the fastest and fires the largest salvos.</Description>
   
   

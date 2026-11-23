@@ -15,7 +15,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>10</Cost>
+  <Cost>9</Cost>
   <!-- common traits shared by all ship modules -->
   <TechLevel>2</TechLevel>
   <ModuleType>Shield</ModuleType>
@@ -28,7 +28,7 @@
 
   <IconTexturePath>Modules/advanced_fighter_sheaild</IconTexturePath>
   <Mass>10</Mass>
-  <HealthMax>1500</HealthMax>
+  <HealthMax>1245</HealthMax>
   
   <Description>An emitter named for the shroud, the Jem'Hadar trick of vanishing from sensors until the moment they attack. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Dominion fighter shields, size for size, it recharges the fastest, but draws the most power.</Description>
   

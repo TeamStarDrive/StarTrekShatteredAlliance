@@ -20,13 +20,13 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>
   
   <UID>Kling_TriTorpedoMk2</UID>
-  <Range>15000</Range>
-  <PowerRequiredToFire>1200</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>100</OrdinanceRequiredToFire>
+  <Range>13500</Range>
+  <PowerRequiredToFire>2000</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>15</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>45</HitPoints>
-  <SalvoCount>4</SalvoCount>
-  <SalvoTimer>6</SalvoTimer>
+  <HitPoints>5</HitPoints>
+  <SalvoCount>2</SalvoCount>
+  <SalvoTimer>9</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
@@ -38,11 +38,12 @@
   <LoopAnimation>1</LoopAnimation>
 
   <!-- Projectile Information -->
-  <DamageAmount>33500</DamageAmount>
+  <DamageAmount>11537</DamageAmount>
+  <ExplosionRadius>100</ExplosionRadius>
+  <ShieldPenChance>0.6</ShieldPenChance>
   <Scale>3.6</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>2900</ProjectileSpeed>
-  <DamageRadius>50</DamageRadius>
+  <ProjectileSpeed>3500</ProjectileSpeed>
   <explodes>true</explodes>
   <Light>Red</Light>
   <ProjectileTexturePath>projBall_01_cyan</ProjectileTexturePath>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>150</Cost>
+  <Cost>196</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>2</XSize>
   <YSize>4</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/plasma_torpedo</IconTexturePath>
   <Mass>200</Mass>
-  <HealthMax>19500</HealthMax>
+  <HealthMax>15990</HealthMax>
   <Description>A plasma torpedo, the weapon the Romulans turned on the Earth outposts along the Neutral Zone. Of the Romulan torpedo weapons, it fires the largest salvos and is the sturdiest for its size, but has the slowest shots.</Description>
   
   

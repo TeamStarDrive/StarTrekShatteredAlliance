@@ -108,21 +108,18 @@
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>
-				<string>Smart</string>
-				<string>Alluring</string>
-				<string>Militaristic</string>
-				<string>Alluring</string>
+				<string>Secret Police</string>
 				<string>Duplicitous</string>
-				<string>Huge Homeworld</string>
-				<string>Tundra Homeworld</string>
-				<string>Skilled Engineers</string>
-				<string>Meticulous</string>
+				<string>Smart</string>
+				<string>Reflexes</string>
 				<string>Prototype Flagship</string>
-				<string>Salvagers</string>
-				<string>Research Adversaries</string>
-				<string>Small Homeworld</string>
-				<string>Less Fertile</string>
+				<string>Skilled Engineers</string>
+				<string>Militaristic</string>
+				<string>Watchful State</string>
+				<string>Eagle Eyed</string>
+				<string>Isolationist Doctrine</string>
 				<string>Corrupt</string>
+				<string>Orbital Aversion</string>
 			</TraitOptions>
 		</TraitSet>
 	</TraitSets>	

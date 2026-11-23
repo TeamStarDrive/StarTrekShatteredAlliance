@@ -14,7 +14,7 @@
   <UID>Dom_station_phasor_beem_mk4</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>51</Cost>
+  <Cost>38</Cost>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
   <!-- Tech Level Used by AI for Upgrading Ships -->
@@ -37,13 +37,13 @@
 
   <!-- Mass and Health -->
   <Mass>19120</Mass>
-  <HealthMax>65120</HealthMax>
+  <HealthMax>54050</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>9</PowerDraw>
 
   <!-- for Weapons -->
-  <WeaponType>station_phasor_beem_mk4</WeaponType>
+  <WeaponType>Dom_station_phasor_beem_mk4</WeaponType>
   <FieldOfFire>180</FieldOfFire>
 
   <!-- Description -->

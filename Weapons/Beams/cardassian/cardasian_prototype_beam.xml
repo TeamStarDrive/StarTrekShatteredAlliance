@@ -6,7 +6,7 @@
   <UID>cardasian_prototype_beam</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>2</FireDelay>
-  <Range>8000</Range>
+  <Range>7200</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2.5</BeamDuration>
@@ -22,7 +22,7 @@
   <BeamTexture>car_disruptorbeam</BeamTexture>
   <EffectVsArmor>1.25</EffectVsArmor>
   <EffectVsShields>1</EffectVsShields>
-  <DamageAmount>50</DamageAmount>
+  <DamageAmount>45</DamageAmount>
   <BeamThickness>20</BeamThickness>
   <BeamPowerCostPerSecond>1020</BeamPowerCostPerSecond>
   <ShieldPenChance>10</ShieldPenChance>

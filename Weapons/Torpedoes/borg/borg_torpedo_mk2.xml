@@ -22,11 +22,11 @@
 
 
   <UID>borg_torpedo_mk2</UID>
-  <Range>10000</Range>
-  <PowerRequiredToFire>1500</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>20</OrdinanceRequiredToFire>
+  <Range>7200</Range>
+  <PowerRequiredToFire>1000</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>40</HitPoints>
+  <HitPoints>15</HitPoints>
   <SalvoCount>3</SalvoCount>
   <SalvoTimer>7</SalvoTimer>
 
@@ -35,7 +35,7 @@
   
   
   <!-- Projectile Information -->
-  <DamageAmount>15500</DamageAmount>
+  <DamageAmount>17732</DamageAmount>
   <ShieldPenChance>10</ShieldPenChance>
   <Scale>1.5</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
@@ -54,7 +54,6 @@
   <!-- Explosion Information -->
   <explodes>true</explodes>
   <ExpColor>Blue_1</ExpColor>
-  <DamageRadius>30</DamageRadius>
   
   <ProjectileTexturePath>projBall_01_red</ProjectileTexturePath>
   <ModelPath>projBall</ModelPath>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>180</Cost>
+  <Cost>135</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>3</XSize>
   <YSize>6</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/hevey_torpedo_mk2</IconTexturePath>
   <Mass>200</Mass>
-  <HealthMax>22500</HealthMax>
+  <HealthMax>16808</HealthMax>
   <Description>The heavy torpedo of the great battleships. Of the Dominion torpedo weapons, it is the cheapest for its size, but is the frailest for its size.</Description>
   
   

@@ -6,7 +6,7 @@
   <UID>vul_particalPhasor_beam_mk2</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>6</FireDelay>
-  <Range>8000</Range>
+  <Range>8800</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2</BeamDuration>
@@ -20,10 +20,10 @@
   
   <!-- Projectile Information -->
   <BeamTexture>vul_phaser</BeamTexture>
-  <DamageAmount>35</DamageAmount>
+  <DamageAmount>44</DamageAmount>
   <BeamThickness>10</BeamThickness>
   <BeamPowerCostPerSecond>220</BeamPowerCostPerSecond>
-  <ShieldPenChance>0.2</ShieldPenChance>
+  <ShieldPenChance>0.24</ShieldPenChance>
   <EffectVsArmor>1.30</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>
 

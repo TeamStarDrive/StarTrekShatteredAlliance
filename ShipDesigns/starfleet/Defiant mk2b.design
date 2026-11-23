@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=Phasor_Beam_mk2;Ceramic Armor Small;Fed_QuantumTorpedo_Mk1;Fed_PhaserCannon_2x2;CombatEngine_2x1;Sensor1x2;OrdnanceLockerSmall;WarpEngine_1x1;warpcore_2x2;Bridge;Shield_10KW;Fed_PhotonTorpedo_Mk1
+ModuleUIDs=Phasor_Beam_mk2;Ceramic Armor Small;Fed_QuantumTorpedo_Mk1;Fed_PhaserCannon_2x2;CombatEngine_2x1;Sensor1x2;OrdnanceLockerSmall;WarpEngine_1x1;warpcore_2x2;Bridge;Fed_Shield_10KW;Fed_PhotonTorpedo_Mk1
 Modules=41
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 4,0;0;2,5

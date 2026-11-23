@@ -94,21 +94,21 @@
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>
-				<string>Pack</string>
-				<string>Prototype Flagship</string>
+				<string>Warrior Culture</string>
 				<string>Militaristic</string>
-				<string>Huge Homeworld</string>
-				<string>Naval Tradition</string>
-				<string>Efficient Metabolism</string>
-				<string>Dumb</string>
-				<string>Research Adversaries</string>
-				<string>Repulsive</string>
-				<string>Honest</string>
-				<string>Savage</string>
-				<string>Polluted Homeworld</string>
 				<string>Eagle Eyed</string>
-				<string>Reflexes</string>		
-				<string>Terran Homeworld</string>		
+				<string>Pack</string>
+				<string>Naval Tradition</string>
+				<string>Huge Homeworld</string>
+				<string>Prototype Flagship</string>
+				<string>Salvagers</string>
+				<string>Reflexes</string>
+				<string>Skilled Engineers</string>
+				<string>Efficient Metabolism</string>
+				<string>Honest</string>
+				<string>Repulsive</string>
+				<string>Research Adversaries</string>
+				<string>Dumb</string>
 			</TraitOptions>	
 		</TraitSet>
 	</TraitSets>	

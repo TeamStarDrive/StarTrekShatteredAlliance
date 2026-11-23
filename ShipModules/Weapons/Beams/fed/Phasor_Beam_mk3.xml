@@ -4,7 +4,7 @@
   <UID>Phasor_Beam_mk3</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>110</Cost>
+  <Cost>132</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
 
@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>28</Mass>
-  <HealthMax>25120</HealthMax>
+  <HealthMax>34364</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>15</PowerDraw>

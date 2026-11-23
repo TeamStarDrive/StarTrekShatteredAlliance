@@ -4,7 +4,7 @@
   <UID>Kling_DisruptorBeamMk3</UID> 
   <Version>2</Version>
 
-  <Cost>120</Cost>
+  <Cost>162</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>3</TechLevel>
   
@@ -23,7 +23,7 @@
 
   <!-- Mass and Health -->
   <Mass>60</Mass>
-  <HealthMax>44270</HealthMax>
+  <HealthMax>36036</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>20</PowerDraw>

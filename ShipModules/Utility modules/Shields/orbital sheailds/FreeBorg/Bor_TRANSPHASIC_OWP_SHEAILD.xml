@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>188</Cost>
+  <Cost>150</Cost>
   <RepairDifficulty>8</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -25,7 +25,7 @@
   <Name>Borg Phase-Compression Platform Field</Name>
   <IconTexturePath>Modules/TRANSPHASIC_OWP_SHEAILD</IconTexturePath>
   <Mass>7000</Mass>
-  <HealthMax>60188</HealthMax>
+  <HealthMax>67531</HealthMax>
   
   <Description>A platform field that records the phase compression pulse of enemy weapons and remodulates against them. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Borg platform shields, size for size, it covers the widest area, but draws the most power.</Description>
   
@@ -36,14 +36,16 @@
   <DescriptionIndex>30685</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>100000</ShieldPowerMax>
+  <ShieldPowerMax>110000</ShieldPowerMax>
   <ShieldRechargeDelay>5</ShieldRechargeDelay>
   <ShieldRechargeRate>4200</ShieldRechargeRate>
   <ShieldRadius>150</ShieldRadius>
   <ShieldRechargeCombatRate>800</ShieldRechargeCombatRate>
-  <ShieldEnergyResist>0.69</ShieldEnergyResist>
-  <ShieldBeamResist>0.69</ShieldBeamResist>
+  <ShieldEnergyResist>0.75</ShieldEnergyResist>
+  <ShieldBeamResist>0.75</ShieldBeamResist>
   <ShieldKineticResist>0.67</ShieldKineticResist>
   <PlasmaResist>1.03</PlasmaResist>
   <Deflection>90</Deflection>
+  <ShieldPlasmaResist>0.536</ShieldPlasmaResist>
+  <ShieldExplosiveResist>0.06</ShieldExplosiveResist>
 </ShipModule>

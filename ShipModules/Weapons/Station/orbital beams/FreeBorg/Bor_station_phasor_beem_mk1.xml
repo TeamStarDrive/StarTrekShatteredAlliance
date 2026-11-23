@@ -14,7 +14,7 @@
   <UID>Bor_station_phasor_beem_mk1</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>21</Cost>
+  <Cost>17</Cost>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
   <!-- Tech Level Used by AI for Upgrading Ships -->
@@ -37,13 +37,13 @@
 
   <!-- Mass and Health -->
   <Mass>8000</Mass>
-  <HealthMax>19120</HealthMax>
+  <HealthMax>23403</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>5</PowerDraw>
 
   <!-- for Weapons -->
-  <WeaponType>station_phasor_beem_mk1</WeaponType>
+  <WeaponType>Bor_station_phasor_beem_mk1</WeaponType>
   <FieldOfFire>360</FieldOfFire>
 
   <!-- Description -->

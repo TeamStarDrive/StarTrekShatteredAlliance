@@ -21,7 +21,7 @@
   
   <UID>dom_advanced_energy_torpoedo_mk2</UID>
   <FireDelay>8</FireDelay>
-  <Range>15000</Range>
+  <Range>13500</Range>
   <PowerRequiredToFire>2000</PowerRequiredToFire>
   <OrdinanceRequiredToFire>15</OrdinanceRequiredToFire>
   <HitPoints>5</HitPoints>  
@@ -34,7 +34,7 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>19000</DamageAmount>
+  <DamageAmount>17723</DamageAmount>
   <ShieldPenChance>0.6</ShieldPenChance>
   <Scale>3</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>

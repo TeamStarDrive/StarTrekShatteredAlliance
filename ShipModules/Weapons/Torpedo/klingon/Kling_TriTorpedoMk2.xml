@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>250</Cost>
+  <Cost>338</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>3</XSize>
   <YSize>6</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/Kling_TriTorpedoMk2</IconTexturePath>
   <Mass>350</Mass>
-  <HealthMax>9500</HealthMax>
+  <HealthMax>7733</HealthMax>
   <Description>The large, heavy form of the trilithium torpedo, with a warhead made to destroy stations and fortresses outright. Of the Klingon torpedo weapons, it is the frailest for its size.</Description>
   
   

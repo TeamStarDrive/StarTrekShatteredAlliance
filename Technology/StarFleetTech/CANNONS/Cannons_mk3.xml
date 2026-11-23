@@ -61,11 +61,11 @@
       <Type>Terran</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>phased_cannon_mk3</ModuleUID>
+      <ModuleUID>dom_phased_cannon_mk3</ModuleUID>
       <Type>dominion</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>phased_cannon_mk3</ModuleUID>
+      <ModuleUID>vul_phased_cannon_mk3</ModuleUID>
       <Type>vulcan</Type>
     </UnlockedMod>
   </ModulesUnlocked>

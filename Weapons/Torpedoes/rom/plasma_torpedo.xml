@@ -20,20 +20,22 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>
 
   <UID>plasma_torpedo</UID>
-  <Range>14000</Range>
-  <PowerRequiredToFire>1400</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>150</OrdinanceRequiredToFire>
+  <Range>15400</Range>
+  <PowerRequiredToFire>1900</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>15</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>30</HitPoints>
-  <SalvoCount>4</SalvoCount>
-  <SalvoTimer>7</SalvoTimer>
+  <HitPoints>5</HitPoints>
+  <SalvoCount>2</SalvoCount>
+  <SalvoTimer>8</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   
   <!-- Projectile Information -->
-  <DamageAmount>40000</DamageAmount>
+  <DamageAmount>18984</DamageAmount>
+  <ExplosionRadius>100</ExplosionRadius>
+  <ShieldPenChance>0.2</ShieldPenChance>
   <MuzzleFlash>Yes</MuzzleFlash>
-  <ProjectileSpeed>1000</ProjectileSpeed>
+  <ProjectileSpeed>2900</ProjectileSpeed>
 
   <!-- Animation Information -->
   <Light>Red</Light>
@@ -46,7 +48,6 @@
   <!-- Explosion Information -->
   <explodes>true</explodes>
   <ExpColor>Blue_1</ExpColor>
-  <DamageRadius>80</DamageRadius>
   
   <ProjectileTexturePath>projBall_01_orange</ProjectileTexturePath>
   <ModelPath>projBall</ModelPath>
@@ -56,5 +57,7 @@
 
   <DieCue>Explo1</DieCue>
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
-  <FireDelay>15</FireDelay>
+  <FireDelay>8</FireDelay>
+  <EffectVsArmor>1.12</EffectVsArmor>
+  <PowerDamage>290</PowerDamage>
 </Weapon>

@@ -3,7 +3,7 @@
 
   <DroneModule>false</DroneModule>
 
-  <Cost>70</Cost>
+  <Cost>84</Cost>
   <TechLevel>4</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -14,7 +14,7 @@
   <UID>Fed_Hevey_PhaserCannon_3x3</UID>
   <IconTexturePath>Modules/Fed_Hevey_PhaserCannon_3x3</IconTexturePath>
   <Mass>40</Mass>
-  <HealthMax>15975</HealthMax>
+  <HealthMax>20033</HealthMax>
   <Description>The heavy cannon of the line, built for slow, hard-hitting pulses. Of the Starfleet cannon weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
   
   

@@ -12,7 +12,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>false</PlatformModule>
   <StationModule>false</StationModule>
-  <Cost>15</Cost>
+  <Cost>13</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>3</TechLevel>
   <RepairDifficulty>2</RepairDifficulty>
@@ -28,7 +28,7 @@
 
   <IconTexturePath>Modules/prototype_fighter_shealds</IconTexturePath>
   <Mass>10</Mass>
-  <HealthMax>2800</HealthMax>
+  <HealthMax>2324</HealthMax>
   
   <Description>A test emitter built to the orders of the Founders, who do not explain why it is built the way it is. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Dominion fighter shields, size for size, it is the quickest to come back after being knocked down and draws the least power.</Description>
   

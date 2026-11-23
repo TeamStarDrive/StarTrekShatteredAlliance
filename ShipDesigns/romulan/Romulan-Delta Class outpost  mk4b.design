@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=Shuttlebay_5x9;ablative_ship_armor_Small;PowerSolar;PowerConduit;ablative_ship_armor_large;ablative_ship_armor_med;TorpedoBay_2x1;orbital_cannons_mk2;Amplifier;station_deflector_mk1;warpcore_2x2;orbital_defence_torpedo;Cockpit;SubspaceSensors;MarineBarracks2x2;orbital_weapons_platform;station_phasor_beem_mk3
+ModuleUIDs=Shuttlebay_5x9;Rom_ablative_ship_armor_Small;PowerSolar;PowerConduit;Rom_ablative_ship_armor_large;Rom_ablative_ship_armor_med;TorpedoBay_2x1;Rom_orbital_cannons_mk2;Amplifier;Rom_station_deflector_mk1;Rom_warpcore_2x2;Rom_orbital_defence_torpedo;Cockpit;SubspaceSensors;MarineBarracks2x2;Rom_orbital_weapons_platform;Rom_station_phasor_beem_mk3
 Modules=102
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 12,0;0;6,6;;;DynamicLaunch

@@ -4,7 +4,7 @@
   <UID>cutting_beam_mk2</UID> 
   <Version>2</Version>
 
-  <Cost>33</Cost>
+  <Cost>26</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>3</TechLevel>
   
@@ -23,7 +23,7 @@
 
   <!-- Mass and Health -->
   <Mass>60</Mass>
-  <HealthMax>18570</HealthMax>
+  <HealthMax>22730</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>10</PowerDraw>

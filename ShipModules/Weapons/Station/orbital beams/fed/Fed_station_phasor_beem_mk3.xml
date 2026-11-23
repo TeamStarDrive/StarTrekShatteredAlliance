@@ -14,7 +14,7 @@
   <UID>Fed_station_phasor_beem_mk3</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>41</Cost>
+  <Cost>49</Cost>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
   <!-- Tech Level Used by AI for Upgrading Ships -->
@@ -37,13 +37,13 @@
 
   <!-- Mass and Health -->
   <Mass>19120</Mass>
-  <HealthMax>55120</HealthMax>
+  <HealthMax>75404</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>9</PowerDraw>
 
   <!-- for Weapons -->
-  <WeaponType>station_phasor_beem_mk3</WeaponType>
+  <WeaponType>Fed_station_phasor_beem_mk3</WeaponType>
   <FieldOfFire>180</FieldOfFire>
 
   <!-- Description -->

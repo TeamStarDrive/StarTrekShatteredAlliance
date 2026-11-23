@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>15</Cost>
+  <Cost>20</Cost>
   <TechLevel>2</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -14,7 +14,7 @@
 
   <IconTexturePath>Modules/Kling_DisruptorCannonMk1</IconTexturePath>
   <Mass>20</Mass>
-  <HealthMax>8760</HealthMax>
+  <HealthMax>7779</HealthMax>
   <Description>A disruptor cannon for the Bird-of-Prey, fitted to a hull that prefers to strike from the side. Of the Klingon cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
   <CrewRequired>12</CrewRequired>
   

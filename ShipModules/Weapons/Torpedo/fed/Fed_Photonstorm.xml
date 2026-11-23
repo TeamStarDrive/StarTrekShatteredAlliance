@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>500</Cost>
+  <Cost>600</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>6</XSize>
   <YSize>6</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/Fed_Photonstorm</IconTexturePath>
   <Mass>500</Mass>
-  <HealthMax>34500</HealthMax>
+  <HealthMax>47196</HealthMax>
   <Description>A launcher that fires a spread of photon torpedoes in one burst, each pre-set to its own flight pattern. Of the Starfleet torpedo weapons, it reaches the farthest and fires the fastest, but has the slowest shots.</Description>
   
   

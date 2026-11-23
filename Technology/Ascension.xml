@@ -7,7 +7,11 @@
   <Secret>true</Secret>
   <NameIndex>5083</NameIndex>
   <DescriptionIndex>5084</DescriptionIndex>
-  <LeadsTo />
+  <LeadsTo>
+    <LeadsToTech>
+      <UID>legendery tech</UID>
+    </LeadsToTech>
+  </LeadsTo>
   <BuildingsUnlocked>
     <UnlockedBuilding>
       <Name>Ascension Array</Name>

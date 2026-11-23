@@ -4,7 +4,7 @@
   <UID>trifocused_disrupter_beam</UID> 
   <Version>2</Version>
 
-  <Cost>133</Cost>
+  <Cost>180</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>5</TechLevel>
   
@@ -23,7 +23,7 @@
 
   <!-- Mass and Health -->
   <Mass>60</Mass>
-  <HealthMax>62270</HealthMax>
+  <HealthMax>50688</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>10</PowerDraw>

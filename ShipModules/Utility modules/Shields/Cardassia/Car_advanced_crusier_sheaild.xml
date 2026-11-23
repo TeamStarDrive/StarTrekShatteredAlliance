@@ -14,7 +14,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>110</Cost>
+  <Cost>77</Cost>
   <TechLevel>4</TechLevel>
 
   <RepairDifficulty>4</RepairDifficulty>
@@ -29,7 +29,7 @@
   <Name>Cardassian Keldon Shield Grid</Name>
   <IconTexturePath>Modules/advanced_crusier_sheaild</IconTexturePath>
   <Mass>91</Mass>
-  <HealthMax>50200</HealthMax>
+  <HealthMax>18976</HealthMax>
   
   <Description>The Keldon-class shares the Galor's hull with an extra superstructure, and a stronger grid to match. Its shields take energy fire well. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it is the quickest to come back after being knocked down.</Description>
   
@@ -40,7 +40,7 @@
   <DescriptionIndex>30553</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>65000</ShieldPowerMax>
+  <ShieldPowerMax>58500</ShieldPowerMax>
   <ShieldRechargeDelay>13</ShieldRechargeDelay>
   <ShieldRechargeRate>950.0</ShieldRechargeRate>
   <ShieldRadius>270</ShieldRadius>
@@ -49,4 +49,6 @@
   <ShieldBeamResist>0.60</ShieldBeamResist>
   <ShieldKineticResist>-0.20</ShieldKineticResist>
   <Deflection>140</Deflection>
+  <ShieldPlasmaResist>-0.16</ShieldPlasmaResist>
+  <ShieldDeflection>100</ShieldDeflection>
 </ShipModule>

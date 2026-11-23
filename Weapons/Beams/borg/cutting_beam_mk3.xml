@@ -22,12 +22,12 @@
   <!-- Projectile Information -->
   <BeamTexture>beam_greenA</BeamTexture>
   <EffectVsShields>0.90</EffectVsShields> 
-  <EffectVsArmor>1.70</EffectVsArmor>
-  <DamageAmount>290</DamageAmount>
+  <EffectVsArmor>1.955</EffectVsArmor>
+  <DamageAmount>422</DamageAmount>
   <BeamThickness>35</BeamThickness>
   <BeamPowerCostPerSecond>1050</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
-  <TroopDamageChance>25</TroopDamageChance>
+  <TroopDamageChance>40</TroopDamageChance>
   <ShieldPenChance>3</ShieldPenChance>
 
 

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>58</Cost>
+  <Cost>78</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>2</TechLevel>
   <RepairDifficulty>2</RepairDifficulty> 
@@ -18,7 +18,7 @@
   <Name>Vulcan D'Kyr Deflector Grid</Name>
   <IconTexturePath>Modules/shield_3x3</IconTexturePath>
   <Mass>81</Mass>
-  <HealthMax>14200</HealthMax>
+  <HealthMax>18744</HealthMax>
   <PowerDraw>95</PowerDraw>
   
   <Description>The deflector grid of the D'Kyr-class, the High Command's cruiser. The Earth phase cannons of the day could not get through it. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
@@ -39,4 +39,6 @@
   <ShieldBeamResist>0.30</ShieldBeamResist>
   <ShieldKineticResist>-0.30</ShieldKineticResist>
     <Deflection>50</Deflection>
+  <ShieldPlasmaResist>-0.24</ShieldPlasmaResist>
+  <ShieldDeflection>100</ShieldDeflection>
 </ShipModule>

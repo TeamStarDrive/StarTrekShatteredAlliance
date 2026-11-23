@@ -14,7 +14,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>110</Cost>
+  <Cost>144</Cost>
   <TechLevel>4</TechLevel>
 
   <RepairDifficulty>4</RepairDifficulty>
@@ -29,7 +29,7 @@
   <Name>Romulan Singularity-Fed Deflector Grid</Name>
   <IconTexturePath>Modules/advanced_crusier_sheaild</IconTexturePath>
   <Mass>91</Mass>
-  <HealthMax>50200</HealthMax>
+  <HealthMax>37048</HealthMax>
   
   <Description>A deflector grid fed straight from the warbird's quantum singularity, which gives it power to spare. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Romulan ship shields, size for size, it is the quickest to come back after being knocked down.</Description>
   
@@ -40,13 +40,16 @@
   <DescriptionIndex>30551</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>65000</ShieldPowerMax>
+  <ShieldPowerMax>71500</ShieldPowerMax>
   <ShieldRechargeDelay>13</ShieldRechargeDelay>
   <ShieldRechargeRate>950.0</ShieldRechargeRate>
   <ShieldRadius>270</ShieldRadius>
   <ShieldRechargeCombatRate>450</ShieldRechargeCombatRate>
-  <ShieldEnergyResist>0.68</ShieldEnergyResist>
-  <ShieldBeamResist>0.60</ShieldBeamResist>
+  <ShieldEnergyResist>0.74</ShieldEnergyResist>
+  <ShieldBeamResist>0.66</ShieldBeamResist>
   <ShieldKineticResist>-0.20</ShieldKineticResist>
   <Deflection>140</Deflection>
+  <ShieldPlasmaResist>-0.16</ShieldPlasmaResist>
+  <ShieldExplosiveResist>0.06</ShieldExplosiveResist>
+  <ShieldDeflection>125</ShieldDeflection>
 </ShipModule>

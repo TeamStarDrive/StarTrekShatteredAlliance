@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>188</Cost>
+  <Cost>226</Cost>
   <RepairDifficulty>16</RepairDifficulty>
   <TechLevel>5</TechLevel>
   
@@ -16,7 +16,7 @@
   <Name>Fed_CanopyShield</Name>
   <IconTexturePath>Modules/shield_3x6</IconTexturePath>
   <Mass>200</Mass>
-  <HealthMax>80188</HealthMax>
+  <HealthMax>100556</HealthMax>
   
   <Description>A canopy field drawn over the largest hulls from a ring of emitters, with the harmonics phase-locked across the whole span. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it is the slowest to come back after being knocked down.</Description>
   
@@ -27,13 +27,16 @@
   <DescriptionIndex>30491</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>170000</ShieldPowerMax>
+  <ShieldPowerMax>204000</ShieldPowerMax>
   <ShieldRechargeDelay>30</ShieldRechargeDelay>
   <ShieldRechargeRate>1200</ShieldRechargeRate>
   <ShieldRadius>400</ShieldRadius>
   <ShieldRechargeCombatRate>900</ShieldRechargeCombatRate>
-  <ShieldEnergyResist>0.44</ShieldEnergyResist>
-  <ShieldBeamResist>0.45</ShieldBeamResist>
+  <ShieldEnergyResist>0.5</ShieldEnergyResist>
+  <ShieldBeamResist>0.57</ShieldBeamResist>
   <ShieldKineticResist>-0.47</ShieldKineticResist>
   <Deflection>190</Deflection>
+  <ShieldPlasmaResist>-0.376</ShieldPlasmaResist>
+  <ShieldExplosiveResist>0.06</ShieldExplosiveResist>
+  <ShieldDeflection>312</ShieldDeflection>
 </ShipModule>

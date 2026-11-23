@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>288</Cost>
+  <Cost>374</Cost>
   <RepairDifficulty>16</RepairDifficulty>
   <TechLevel>6</TechLevel>
   
@@ -16,7 +16,7 @@
   <Name>Romulan Praetor's Canopy Array</Name>
   <IconTexturePath>Modules/advanced_CanopyShields</IconTexturePath>
   <Mass>250</Mass>
-  <HealthMax>99696</HealthMax>
+  <HealthMax>73575</HealthMax>
   
   <Description>The canopy of the Praetor's own ships, with every emitter locked together. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Romulan ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
   
@@ -27,13 +27,16 @@
   <DescriptionIndex>30537</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>252000</ShieldPowerMax>
+  <ShieldPowerMax>277200</ShieldPowerMax>
   <ShieldRechargeDelay>20</ShieldRechargeDelay>
   <ShieldRechargeRate>1200</ShieldRechargeRate>
   <ShieldRadius>600</ShieldRadius>
   <ShieldRechargeCombatRate>1200</ShieldRechargeCombatRate>
-  <ShieldEnergyResist>0.54</ShieldEnergyResist>
-  <ShieldBeamResist>0.55</ShieldBeamResist>
+  <ShieldEnergyResist>0.6</ShieldEnergyResist>
+  <ShieldBeamResist>0.61</ShieldBeamResist>
   <ShieldKineticResist>-0.57</ShieldKineticResist>
   <Deflection>240</Deflection>
+  <ShieldPlasmaResist>-0.456</ShieldPlasmaResist>
+  <ShieldExplosiveResist>0.06</ShieldExplosiveResist>
+  <ShieldDeflection>500</ShieldDeflection>
 </ShipModule>

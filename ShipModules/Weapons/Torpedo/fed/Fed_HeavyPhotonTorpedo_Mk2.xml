@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>200</Cost>
+  <Cost>240</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>3</XSize>
   <YSize>8</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/Fed_HeavyPhotonTorpedo_Mk2</IconTexturePath>
   <Mass>292</Mass>
-  <HealthMax>16500</HealthMax>
+  <HealthMax>20691</HealthMax>
   <Description>A launcher tuned for a high-yield warhead, with a larger antimatter charge. Of the Starfleet torpedo weapons, it hits the hardest and is the cheapest for its size, but carries the least ordnance.</Description>
   
   

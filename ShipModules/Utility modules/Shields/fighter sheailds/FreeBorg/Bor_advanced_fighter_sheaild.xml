@@ -28,7 +28,7 @@
 
   <IconTexturePath>Modules/advanced_fighter_sheaild</IconTexturePath>
   <Mass>10</Mass>
-  <HealthMax>1500</HealthMax>
+  <HealthMax>1530</HealthMax>
   
   <Description>The field remodulates after each hit, so the weapon that struck it once does less the next time. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Borg fighter shields, size for size, it recharges the fastest, but draws the most power.</Description>
   

@@ -20,7 +20,7 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>
 
   <UID>singlarity_torpedo</UID>
-  <Range>15000</Range>
+  <Range>16500</Range>
   <PowerRequiredToFire>2500</PowerRequiredToFire>
   <OrdinanceRequiredToFire>30</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
@@ -31,7 +31,7 @@
   <!-- name of XACT audio cue to play on firing this weapon -->
   
   <!-- Projectile Information -->
-  <DamageAmount>40000</DamageAmount>
+  <DamageAmount>50624</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>2300</ProjectileSpeed>
 

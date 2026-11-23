@@ -12,7 +12,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
   
-  <Cost>50</Cost>
+  <Cost>38</Cost>
   <TechLevel>2</TechLevel>
   <!-- common traits shared by all ship modules -->
   <XSize>3</XSize>
@@ -25,7 +25,7 @@
 
   <IconTexturePath>Modules/orbital_defence_torpedo</IconTexturePath>
   <Mass>19500</Mass>
-  <HealthMax>50500</HealthMax>
+  <HealthMax>37724</HealthMax>
   <Description>A fixed torpedo tube for outposts and garrisons. Of the Dominion orbital torpedo weapons, it fires the fastest and is the sturdiest for its size, but hits the softest.</Description>
   
   
@@ -48,7 +48,7 @@
   <PowerStoreMax>0</PowerStoreMax>
 
   <!-- for Weapons -->
-  <WeaponType>orbital_defence_torpedo</WeaponType>
+  <WeaponType>Dom_orbital_defence_torpedo</WeaponType>
   <OrdinanceCapacity>1000</OrdinanceCapacity>
   <FieldOfFire>360</FieldOfFire>
 

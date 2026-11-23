@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-    <Cost>15</Cost>
+    <Cost>12</Cost>
     <!-- Tech Level -->
     <TechLevel>5</TechLevel>
     <TechBranch>Armor</TechBranch>
@@ -30,15 +30,15 @@
     <DescriptionIndex>30321</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>32000</Mass>
-    <HealthMax>90000</HealthMax>
+    <HealthMax>100980</HealthMax>
     <RepairDifficulty>1.5</RepairDifficulty>
     <Deflection>0</Deflection>
     <!-- Armor resistance -->
- <KineticResist>0.5</KineticResist>
-    <EnergyResist>0.5</EnergyResist>  
-    <BeamResist>0.5</BeamResist>
-    <ExplosiveResist>0.50</ExplosiveResist>      
-    <PlasmaResist>5</PlasmaResist>
+ <KineticResist>-0.05</KineticResist>
+    <EnergyResist>0.55</EnergyResist>  
+    <BeamResist>0.55</BeamResist>
+    <ExplosiveResist>0.55</ExplosiveResist>      
+    <PlasmaResist>-0.05</PlasmaResist>
 
     <!-- Description -->
     <Description>Crystal threaded with assimilated organic tissue, which the nanoprobes keep repairing from within. Strong protection against kinetic rounds, beams, energy fire, plasma and explosions. Of the Borg orbital plates of its size, it is the best protected against plasma and the best against armour-piercing rounds, but the costliest to build.</Description>

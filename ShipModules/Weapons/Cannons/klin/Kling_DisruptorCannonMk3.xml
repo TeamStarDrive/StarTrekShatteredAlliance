@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>30</Cost>
+  <Cost>40</Cost>
   <TechLevel>3</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -14,7 +14,7 @@
 
   <IconTexturePath>Modules/Kling_DisruptorCannonMk3</IconTexturePath>
   <Mass>20</Mass>
-  <HealthMax>12760</HealthMax>
+  <HealthMax>11331</HealthMax>
   <Description>The heaviest disruptor cannon, mounted on the Vor'cha-class attack cruisers. Of the Klingon cannon weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
   <CrewRequired>12</CrewRequired>
   

@@ -6808,3 +6808,456 @@ ST_EVT_q_Lab_Name:
 ST_EVT_q_Lab_Desc:
  Id: 40209
  ENG: "An observatory aimed at nothing in particular. Q finds it flattering."
+BB_Trait_Federation_Charter_Name:
+ Id: 117400
+ ENG: "Federation Charter"
+BB_Trait_Federation_Charter_Desc:
+ Id: 117401
+ ENG: "Founded on open diplomacy and shared science, the Federation makes friends easily and shares what it learns. Other races start +20 warmer towards you, and allies add 5% more to your research."
+BB_Trait_Isolationist_Doctrine_Name:
+ Id: 117402
+ ENG: "Isolationist Doctrine"
+BB_Trait_Isolationist_Doctrine_Desc:
+ Id: 117403
+ ENG: "Suspicious of outsiders and slow to share, this people keeps its borders and its secrets closed. Other races start 20 colder towards you, and allies add 5% less to your research."
+BB_Trait_Corps_of_Engineers_Name:
+ Id: 117404
+ ENG: "Corps of Engineers"
+BB_Trait_Corps_of_Engineers_Desc:
+ Id: 117405
+ ENG: "Starfleet's engineers can build almost anything on site. Builder ships work 50% faster and constructors 25% faster."
+BB_Trait_Overstretched_Engineers_Name:
+ Id: 117406
+ ENG: "Overstretched Engineers"
+BB_Trait_Overstretched_Engineers_Desc:
+ Id: 117407
+ ENG: "Too few engineers cover too many projects. Builder ships work at half speed and constructors 25% slower."
+BB_Trait_Warrior_Culture_Name:
+ Id: 117408
+ ENG: "Warrior Culture"
+BB_Trait_Warrior_Culture_Desc:
+ Id: 117409
+ ENG: "Glory in battle is the highest honour, and the spoils follow. +30% ground combat, and you earn credits for each enemy ship slot you destroy."
+BB_Trait_Dishonoured_House_Name:
+ Id: 117410
+ ENG: "Dishonoured House"
+BB_Trait_Dishonoured_House_Desc:
+ Id: 117411
+ ENG: "Shamed in the eyes of the Empire, its warriors fight without conviction. -30% ground combat, and every ship slot you lose costs you credits."
+BB_Trait_Logic_and_Discipline_Name:
+ Id: 117412
+ ENG: "Logic and Discipline"
+BB_Trait_Logic_and_Discipline_Desc:
+ Id: 117413
+ ENG: "Emotion is set aside for reason, and nothing is wasted. +10% research and 10% lower upkeep."
+BB_Trait_Unchecked_Emotion_Name:
+ Id: 117414
+ ENG: "Unchecked Emotion"
+BB_Trait_Unchecked_Emotion_Desc:
+ Id: 117415
+ ENG: "Feeling overrules reason, and projects are begun, dropped and begun again. -10% research and 10% higher upkeep."
+BB_Trait_Tal_Shiar_Name:
+ Id: 117416
+ ENG: "Tal Shiar"
+BB_Trait_Tal_Shiar_Desc:
+ Id: 117417
+ ENG: "The secret police of the Romulan Star Empire sees everything and trusts no one. Your spies are far more likely to succeed (+15)."
+BB_Trait_Open_Senate_Name:
+ Id: 117418
+ ENG: "Open Senate"
+BB_Trait_Open_Senate_Desc:
+ Id: 117419
+ ENG: "Nothing is hidden for long when every decision is argued in public. Your spies are far less likely to succeed (-15)."
+BB_Trait_Obsidian_Order_Name:
+ Id: 117420
+ ENG: "Obsidian Order"
+BB_Trait_Obsidian_Order_Desc:
+ Id: 117421
+ ENG: "Cardassia's intelligence service watches every citizen and every factory. Your spies are more likely to succeed (+10) and production is 10% higher."
+BB_Trait_Purged_Order_Name:
+ Id: 117422
+ ENG: "Purged Order"
+BB_Trait_Purged_Order_Desc:
+ Id: 117423
+ ENG: "Its intelligence service was purged in a power struggle, and its factories lost their watchers. Your spies are less likely to succeed (-10) and production is 10% lower."
+BB_Trait_Jem_Hadar_Soldiers_Name:
+ Id: 117424
+ ENG: "Jem'Hadar Soldiers"
+BB_Trait_Jem_Hadar_Soldiers_Desc:
+ Id: 117425
+ ENG: "Bred for war and kept loyal by ketracel-white, Jem'Hadar troops hit hard and must be fed. +40% ground combat, and 10% more food used."
+BB_Trait_Conscript_Soldiers_Name:
+ Id: 117426
+ ENG: "Conscript Soldiers"
+BB_Trait_Conscript_Soldiers_Desc:
+ Id: 117427
+ ENG: "Hastily raised troops are cheap to feed and poor in battle. -40% ground combat and 10% less food used."
+BB_Trait_Collective_Adaptation_Name:
+ Id: 117428
+ ENG: "Collective Adaptation"
+BB_Trait_Collective_Adaptation_Desc:
+ Id: 117429
+ ENG: "Every weapon used on a drone teaches the Collective how to resist the next. +20% module hit points and +10% research."
+BB_Trait_Failed_Adaptation_Name:
+ Id: 117430
+ ENG: "Failed Adaptation"
+BB_Trait_Failed_Adaptation_Desc:
+ Id: 117431
+ ENG: "The collective failed to learn from its losses, and its ships break more easily. -20% module hit points and -10% research."
+BB_Trait_Barren_Homeworld_Name:
+ Id: 117432
+ ENG: "Barren Homeworld"
+BB_Trait_Barren_Homeworld_Desc:
+ Id: 117433
+ ENG: "A harsh, dry homeworld shaped a people at home on rock and dust. Lives best on Barren planets (+50%)."
+BB_Trait_Volcanic_Homeworld_Name:
+ Id: 117434
+ ENG: "Volcanic Homeworld"
+BB_Trait_Volcanic_Homeworld_Desc:
+ Id: 117435
+ ENG: "A world of fire and ash shaped a people at ease on volcanic ground. Lives best on Volcanic planets (+50%)."
+BB_Trait_Field_Repairs_Name:
+ Id: 117436
+ ENG: "Field Repairs"
+BB_Trait_Field_Repairs_Desc:
+ Id: 117437
+ ENG: "Crews trained to patch battle damage on the move. Ships repair 50% faster."
+BB_Trait_Slow_Repairs_Name:
+ Id: 117438
+ ENG: "Slow Repairs"
+BB_Trait_Slow_Repairs_Desc:
+ Id: 117439
+ ENG: "Damaged ships wait long for spare parts and dock time. Ships repair 50% slower."
+BB_Trait_Fertile_Homeworld_Name:
+ Id: 117440
+ ENG: "Fertile Homeworld"
+BB_Trait_Fertile_Homeworld_Desc:
+ Id: 117441
+ ENG: "A garden world of rich soil and mild seasons. Your homeworld is 35% more fertile."
+BB_Trait_Mineral-Rich_Homeworld_Name:
+ Id: 117442
+ ENG: "Mineral-Rich Homeworld"
+BB_Trait_Mineral-Rich_Homeworld_Desc:
+ Id: 117443
+ ENG: "Deep veins of metal and crystal lie close to the surface. Your homeworld is 50% richer in minerals."
+BB_Trait_Poor_Homeworld_Name:
+ Id: 117444
+ ENG: "Poor Homeworld"
+BB_Trait_Poor_Homeworld_Desc:
+ Id: 117445
+ ENG: "A world stripped of its easy ore. Your homeworld is 50% poorer in minerals."
+BB_Trait_Costly_Ships_Name:
+ Id: 117446
+ ENG: "Costly Ships"
+BB_Trait_Costly_Ships_Desc:
+ Id: 117447
+ ENG: "Poor shipyards or hard-pressed industry make every hull dearer. Ships cost 20% more to build."
+BB_Trait_Swift_Builders_Name:
+ Id: 117448
+ ENG: "Swift Builders"
+BB_Trait_Swift_Builders_Desc:
+ Id: 117449
+ ENG: "Construction ships work in well-drilled crews. Builder ships work 50% faster."
+BB_Trait_Slow_Builders_Name:
+ Id: 117450
+ ENG: "Slow Builders"
+BB_Trait_Slow_Builders_Desc:
+ Id: 117451
+ ENG: "Construction ships queue for parts and crews. Builder ships work at half speed."
+BB_Trait_Forced_Labour_Name:
+ Id: 117452
+ ENG: "Forced Labour"
+BB_Trait_Forced_Labour_Desc:
+ Id: 117453
+ ENG: "Conquered peoples work the shipyards for nothing, and nobody checks the welds. Ships cost 25% less to build, and module hit points are 25% lower."
+BB_Trait_Starfleet_Standards_Name:
+ Id: 117454
+ ENG: "Starfleet Standards"
+BB_Trait_Starfleet_Standards_Desc:
+ Id: 117455
+ ENG: "Every hull is over-engineered to survive the unknown, and it shows on the bill. Ships cost 25% more to build, and module hit points are 25% higher."
+BB_Trait_Drone_Shipyards_Name:
+ Id: 117456
+ ENG: "Drone Shipyards"
+BB_Trait_Drone_Shipyards_Desc:
+ Id: 117457
+ ENG: "Drones build ships as a single mind, with no waste and no rest. Ships cost 30% less to build."
+BB_Tech_XenoHullStudies_Name:
+ Id: 131400
+ ENG: "Xeno Hull Studies"
+BB_Tech_XenoHullStudies_Desc:
+ Id: 131401
+ ENG: "The Remnant grow their fighters and gunships on small, tough hulls. Studying them lets us build the same. Unlocks the Xeno Fighter and Xeno Gunship hulls."
+BB_Tech_AncientFrigateHulls_Name:
+ Id: 131402
+ ENG: "Ancient Frigate Hulls"
+BB_Tech_AncientFrigateHulls_Desc:
+ Id: 131403
+ ENG: "A frigate hull of Remnant design and the ancient reactor that powers their ships. Unlocks the Ancient Frigate hull and the Ancient Reactor."
+BB_Tech_XenoCruiserHulls_Name:
+ Id: 131404
+ ENG: "Xeno Cruiser Hulls"
+BB_Tech_XenoCruiserHulls_Desc:
+ Id: 131405
+ ENG: "The cruiser and heavy cruiser hulls at the heart of the Remnant fleet, with the quantum torpedo cannon they carry. Unlocks the Xeno Cruiser and Xeno Heavy Cruiser hulls and the Quantum Torpedo Cannon."
+BB_Tech_RemnantCarrierDoctrine_Name:
+ Id: 131406
+ ENG: "Remnant Carrier Doctrine"
+BB_Tech_RemnantCarrierDoctrine_Desc:
+ Id: 131407
+ ENG: "How the Remnant send out fighters and drones in swarms from one great hull. Unlocks the Remnant Custom Carrier hull."
+BB_Tech_RemnantCapitalHulls_Name:
+ Id: 131408
+ ENG: "Remnant Capital Hulls"
+BB_Tech_RemnantCapitalHulls_Desc:
+ Id: 131409
+ ENG: "The flagship hulls of the Remnant, built to lead whole fleets. Unlocks the Remnant Mothership hull."
+BB_Tech_BehemothHulls_Name:
+ Id: 131410
+ ENG: "Behemoth Hulls"
+BB_Tech_BehemothHulls_Desc:
+ Id: 131411
+ ENG: "The largest warship the Remnant ever built, a fortress that moves between the stars. Unlocks the Behemoth hull."
+BB_Tech_RemnantPortalEngineering_Name:
+ Id: 131412
+ ENG: "Remnant Portal Engineering"
+BB_Tech_RemnantPortalEngineering_Desc:
+ Id: 131413
+ ENG: "The portal stations the Remnant use to bring whole fleets across space, with the troop barracks that guard them. Unlocks the Remnant Portal hull, the large marine barracks and the Remnant Mainframe Complex."
+BB_Building_RemnantMainframeComplex_Name:
+ Id: 131500
+ ENG: "Remnant Mainframe Complex"
+BB_Building_RemnantMainframeComplex_Desc:
+ Id: 131501
+ ENG: "A research complex built around the intact Remnant mainframe recovered from the Portal. It adds to the planet's research, and as its systems come online they reveal the legendary technologies the Remnant kept hidden. Can only be built once."
+BB_Building_RemnantMainframeComplex_ShortDesc:
+ Id: 131502
+ ENG: "Built around the Remnant mainframe. Reveals the legendary technologies. Can only be built once."
+BB_ST_Trait_Federation_Charter_Name:
+ Id: 119400
+ ENG: "Federation Charter"
+BB_ST_Trait_Federation_Charter_Desc:
+ Id: 119401
+ ENG: "Founded on open diplomacy and shared science, the Federation makes friends easily and shares what it learns. Other races start +20 warmer towards you, and allies add 5% more to your research."
+BB_ST_Trait_Isolationist_Doctrine_Name:
+ Id: 119402
+ ENG: "Isolationist Doctrine"
+BB_ST_Trait_Isolationist_Doctrine_Desc:
+ Id: 119403
+ ENG: "Suspicious of outsiders and slow to share, this people keeps its borders and its secrets closed. Other races start 20 colder towards you, and allies add 5% less to your research."
+BB_ST_Trait_Corps_of_Engineers_Name:
+ Id: 119404
+ ENG: "Corps of Engineers"
+BB_ST_Trait_Corps_of_Engineers_Desc:
+ Id: 119405
+ ENG: "Skilled engineers can build almost anything on site. Builder ships work 50% faster and constructors 25% faster."
+BB_ST_Trait_Overstretched_Engineers_Name:
+ Id: 119406
+ ENG: "Overstretched Engineers"
+BB_ST_Trait_Overstretched_Engineers_Desc:
+ Id: 119407
+ ENG: "Too few engineers cover too many projects. Builder ships work at half speed and constructors 25% slower."
+BB_ST_Trait_Warrior_Culture_Name:
+ Id: 119408
+ ENG: "Warrior Culture"
+BB_ST_Trait_Warrior_Culture_Desc:
+ Id: 119409
+ ENG: "Glory in battle is the highest honour, and the spoils follow. +30% ground combat, and you earn credits for each enemy ship slot you destroy."
+BB_ST_Trait_Dishonoured_House_Name:
+ Id: 119410
+ ENG: "Dishonoured House"
+BB_ST_Trait_Dishonoured_House_Desc:
+ Id: 119411
+ ENG: "Shamed in the eyes of its own people, its warriors fight without conviction. -30% ground combat, and every ship slot you lose costs you credits."
+BB_ST_Trait_Logic_and_Discipline_Name:
+ Id: 119412
+ ENG: "Logic and Discipline"
+BB_ST_Trait_Logic_and_Discipline_Desc:
+ Id: 119413
+ ENG: "Emotion is set aside for reason, and nothing is wasted. +10% research and 10% lower upkeep."
+BB_ST_Trait_Unchecked_Emotion_Name:
+ Id: 119414
+ ENG: "Unchecked Emotion"
+BB_ST_Trait_Unchecked_Emotion_Desc:
+ Id: 119415
+ ENG: "Feeling overrules reason, and projects are begun, dropped and begun again. -10% research and 10% higher upkeep."
+BB_ST_Trait_Secret_Police_Name:
+ Id: 119416
+ ENG: "Secret Police"
+BB_ST_Trait_Secret_Police_Desc:
+ Id: 119417
+ ENG: "The secret police sees everything and trusts no one. Your spies are far more likely to succeed (+15)."
+BB_ST_Trait_Open_Senate_Name:
+ Id: 119418
+ ENG: "Open Senate"
+BB_ST_Trait_Open_Senate_Desc:
+ Id: 119419
+ ENG: "Nothing is hidden for long when every decision is argued in public. Your spies are far less likely to succeed (-15)."
+BB_ST_Trait_Watchful_State_Name:
+ Id: 119420
+ ENG: "Watchful State"
+BB_ST_Trait_Watchful_State_Desc:
+ Id: 119421
+ ENG: "The state's intelligence service watches every citizen and every factory. Your spies are more likely to succeed (+10) and production is 10% higher."
+BB_ST_Trait_Purged_Order_Name:
+ Id: 119422
+ ENG: "Purged Order"
+BB_ST_Trait_Purged_Order_Desc:
+ Id: 119423
+ ENG: "Its intelligence service was purged in a power struggle, and its factories lost their watchers. Your spies are less likely to succeed (-10) and production is 10% lower."
+BB_ST_Trait_Engineered_Soldiers_Name:
+ Id: 119424
+ ENG: "Engineered Soldiers"
+BB_ST_Trait_Engineered_Soldiers_Desc:
+ Id: 119425
+ ENG: "Bred for war and kept loyal by a drug, engineered troops hit hard and must be fed. +40% ground combat, and 10% more food used."
+BB_ST_Trait_Conscript_Soldiers_Name:
+ Id: 119426
+ ENG: "Conscript Soldiers"
+BB_ST_Trait_Conscript_Soldiers_Desc:
+ Id: 119427
+ ENG: "Hastily raised troops are cheap to feed and poor in battle. -40% ground combat and 10% less food used."
+BB_ST_Trait_Collective_Adaptation_Name:
+ Id: 119428
+ ENG: "Collective Adaptation"
+BB_ST_Trait_Collective_Adaptation_Desc:
+ Id: 119429
+ ENG: "Every weapon used on a drone teaches the Collective how to resist the next. +20% module hit points and +10% research."
+BB_ST_Trait_Failed_Adaptation_Name:
+ Id: 119430
+ ENG: "Failed Adaptation"
+BB_ST_Trait_Failed_Adaptation_Desc:
+ Id: 119431
+ ENG: "The collective failed to learn from its losses, and its ships break more easily. -20% module hit points and -10% research."
+BB_ST_Trait_Barren_Homeworld_Name:
+ Id: 119432
+ ENG: "Barren Homeworld"
+BB_ST_Trait_Barren_Homeworld_Desc:
+ Id: 119433
+ ENG: "A harsh, dry homeworld shaped a people at home on rock and dust. Lives best on Barren planets (+50%)."
+BB_ST_Trait_Volcanic_Homeworld_Name:
+ Id: 119434
+ ENG: "Volcanic Homeworld"
+BB_ST_Trait_Volcanic_Homeworld_Desc:
+ Id: 119435
+ ENG: "A world of fire and ash shaped a people at ease on volcanic ground. Lives best on Volcanic planets (+50%)."
+BB_ST_Trait_Field_Repairs_Name:
+ Id: 119436
+ ENG: "Field Repairs"
+BB_ST_Trait_Field_Repairs_Desc:
+ Id: 119437
+ ENG: "Crews trained to patch battle damage on the move. Ships repair 50% faster."
+BB_ST_Trait_Slow_Repairs_Name:
+ Id: 119438
+ ENG: "Slow Repairs"
+BB_ST_Trait_Slow_Repairs_Desc:
+ Id: 119439
+ ENG: "Damaged ships wait long for spare parts and dock time. Ships repair 50% slower."
+BB_ST_Trait_Fertile_Homeworld_Name:
+ Id: 119440
+ ENG: "Fertile Homeworld"
+BB_ST_Trait_Fertile_Homeworld_Desc:
+ Id: 119441
+ ENG: "A garden world of rich soil and mild seasons. Your homeworld is 35% more fertile."
+BB_ST_Trait_Mineral-Rich_Homeworld_Name:
+ Id: 119442
+ ENG: "Mineral-Rich Homeworld"
+BB_ST_Trait_Mineral-Rich_Homeworld_Desc:
+ Id: 119443
+ ENG: "Deep veins of metal and crystal lie close to the surface. Your homeworld is 50% richer in minerals."
+BB_ST_Trait_Poor_Homeworld_Name:
+ Id: 119444
+ ENG: "Poor Homeworld"
+BB_ST_Trait_Poor_Homeworld_Desc:
+ Id: 119445
+ ENG: "A world stripped of its easy ore. Your homeworld is 50% poorer in minerals."
+BB_ST_Trait_Costly_Ships_Name:
+ Id: 119446
+ ENG: "Costly Ships"
+BB_ST_Trait_Costly_Ships_Desc:
+ Id: 119447
+ ENG: "Poor shipyards or hard-pressed industry make every hull dearer. Ships cost 20% more to build."
+BB_ST_Trait_Swift_Builders_Name:
+ Id: 119448
+ ENG: "Swift Builders"
+BB_ST_Trait_Swift_Builders_Desc:
+ Id: 119449
+ ENG: "Construction ships work in well-drilled crews. Builder ships work 50% faster."
+BB_ST_Trait_Slow_Builders_Name:
+ Id: 119450
+ ENG: "Slow Builders"
+BB_ST_Trait_Slow_Builders_Desc:
+ Id: 119451
+ ENG: "Construction ships queue for parts and crews. Builder ships work at half speed."
+BB_ST_Trait_Forced_Labour_Name:
+ Id: 119452
+ ENG: "Forced Labour"
+BB_ST_Trait_Forced_Labour_Desc:
+ Id: 119453
+ ENG: "Conquered peoples work the shipyards for nothing, and nobody checks the welds. Ships cost 25% less to build, and module hit points are 25% lower."
+BB_ST_Trait_Starfleet_Standards_Name:
+ Id: 119454
+ ENG: "Starfleet Standards"
+BB_ST_Trait_Starfleet_Standards_Desc:
+ Id: 119455
+ ENG: "Renowned across the galaxy as the best, Starfleet Standards demand that every hull is over-engineered to survive the unknown, and it shows on the bill. Ships cost 25% more to build, and module hit points are 25% higher."
+BB_ST_Trait_Drone_Shipyards_Name:
+ Id: 119456
+ ENG: "Drone Shipyards"
+BB_ST_Trait_Drone_Shipyards_Desc:
+ Id: 119457
+ ENG: "Drones build ships as a single mind, with no waste and no rest. Ships cost 30% less to build."
+BB_Tech_PortalWreckageSalvage_Name:
+ Id: 131414
+ ENG: "Portal Wreckage Salvage"
+BB_Tech_PortalWreckageSalvage_Desc:
+ Id: 131415
+ ENG: "Plates of ancient armour and a nearly whole Xeno Cruiser hull were pulled from the wreckage of the Remnant Portal. Unlocks the Xeno Cruiser hull and the Ancient Armour plates."
+BB_Tech_RemnantLegacy_Name:
+ Id: 131520
+ ENG: "Remnant Legacy"
+BB_Tech_RemnantLegacy_Desc:
+ Id: 131521
+ ENG: "The legendary technologies the Remnant kept in their mainframe, opened to us at last."
+BB_Tech_XenoHullStudies_Desc2:
+ Id: 131430
+ ENG: "The Remnant grow their small warships on tough, light hulls, and the wreckage of the Portal has shown us how. Unlocks the Xeno Gunship (corvette) hull."
+BB_Tech_XenoCruiserHulls_Desc2:
+ Id: 131431
+ ENG: "The cruiser hull at the heart of the Remnant fleet, with the quantum torpedo cannon it carries. Unlocks the Xeno Cruiser hull and the Quantum Torpedo Cannon."
+BB_Tech_RemnantPortalEngineering_Desc2:
+ Id: 131432
+ ENG: "The portal stations the Remnant use to bring whole fleets across space, with the troop barracks that guard them. Unlocks the Remnant Portal hull and the large marine barracks."
+BB_Tech_PortalWreckageSalvage_Desc2:
+ Id: 131433
+ ENG: "Plates of ancient armour and a fully intact Remnant mainframe were pulled from the wreckage of the Remnant Portal. Unlocks the Ancient Armour plates and lets us build the Remnant Mainframe Complex."
+BB_Tech_XenoHeavyHulls_Name:
+ Id: 131416
+ ENG: "Xeno Heavy Hulls"
+BB_Tech_XenoHeavyHulls_Desc:
+ Id: 131417
+ ENG: "The heavy end of the Remnant line, opened up by the mainframe's records: the Xeno fighters that swarm out of their carriers and the Xeno heavy cruiser. Unlocks the Xeno Fighter and Xeno Heavy Cruiser hulls."
+BB_Tech_RemnantLegacy_Desc2:
+ Id: 131434
+ ENG: "Everything the Remnant left behind: their technology, their hulls and the legends kept in their mainframe."
+BB_Tech_XenoHullStudies_Name2:
+ Id: 131436
+ ENG: "Remnant Drone Hulls"
+BB_Tech_XenoHullStudies_Desc3:
+ Id: 131435
+ ENG: "The Remnant's drones are small, tough warships, and reverse engineering their computers has shown us how they are built. Unlocks the Xeno Gunship drone (corvette) hull."
+BB_Tech_RemnantHullStudies_Name:
+ Id: 131437
+ ENG: "Remnant Hull Studies"
+BB_Tech_RemnantHullStudies_Desc:
+ Id: 131438
+ ENG: "The mainframe's archive of every hull the Remnant ever built. Studying it opens the cruiser, fighter and capital hull lines and the rest of the Remnant technology."
+BB_Building_RemnantMainframeComplex_Desc2:
+ Id: 131503
+ ENG: "A research complex built around the intact Remnant mainframe recovered from the Portal. It adds to the planet's research, and when its systems come online they open the Remnant Legacy research line: the larger Remnant hulls and the rest of their technology. Can only be built once."
+BB_Building_RemnantMainframeComplex_ShortDesc2:
+ Id: 131504
+ ENG: "Built around the Remnant mainframe. Opens the Remnant Legacy research. Can only be built once."
+BB_Tech_RemnantLegacy_Desc3:
+ Id: 131439
+ ENG: "What the Remnant mainframe remembers: every hull they built and the technology behind their fleets."

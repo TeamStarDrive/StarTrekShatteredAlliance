@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=ablative_armor_Small;ablative_armor_Med;ablative_armor_Large;station_phasor_beem_mk3;Amplifier;TRANSPHASIC_OWP_SHEAILD;AdvancedCellSmall;Cockpit;station_torpedo_launcher_mk2;warpcore_2x2;orbital_weapons_platform;AdvancedCellMed;Sensor1x2;TorpedoBay_2x1
+ModuleUIDs=Kli_ablative_armor_Small;Kli_ablative_armor_Med;Kli_ablative_armor_Large;Kli_station_phasor_beem_mk3;Amplifier;Kli_TRANSPHASIC_OWP_SHEAILD;AdvancedCellSmall;Cockpit;Kli_station_torpedo_launcher_mk2;warpcore_2x2;Kli_orbital_weapons_platform;AdvancedCellMed;Sensor1x2;TorpedoBay_2x1
 Modules=59
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 5,0;0

@@ -25,14 +25,14 @@
 
   <!-- Mass and Health -->
   <Mass>3</Mass>
-  <HealthMax>2200</HealthMax>
+  <HealthMax>2468</HealthMax>
 
   <!-- Armor resistance -->
-    <KineticResist>0.04</KineticResist>
-    <BeamResist>0</BeamResist>
-    <EnergyResist>0</EnergyResist>    
-    <PlasmaResist>0</PlasmaResist>
-    <ExplosiveResist>0.08</ExplosiveResist>
+    <KineticResist>-0.05</KineticResist>
+    <BeamResist>0.05</BeamResist>
+    <EnergyResist>0.05</EnergyResist>    
+    <PlasmaResist>-0.05</PlasmaResist>
+    <ExplosiveResist>0.13</ExplosiveResist>
 
   <!-- Description -->
   <Description>Plate extruded by assimilated fabrication nodes. Drones lay it down in the pattern the Collective has judged the most efficient. Some protection against explosions. Of the Borg ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams.</Description>

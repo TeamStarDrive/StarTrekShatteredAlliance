@@ -6,7 +6,7 @@
   <UID>Klingon_fighter_kenetic_disrupter</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>2</FireDelay>
-  <Range>6200</Range>
+  <Range>5600</Range>
   <PowerRequiredToFire>100</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2.5</BeamDuration>
@@ -22,7 +22,7 @@
   <BeamTexture>kling_disruptorbeam</BeamTexture>
   <EffectVsShields>1.40</EffectVsShields> 
   
-  <DamageAmount>35</DamageAmount>
+  <DamageAmount>21</DamageAmount>
   <BeamThickness>25</BeamThickness>
   <ShieldPenChance>15</ShieldPenChance>
   <EffectVsArmor>1.30</EffectVsArmor>
@@ -36,4 +36,5 @@
   <WeaponDeathEffect></WeaponDeathEffect>
 
   
+  <TroopDamageChance>5</TroopDamageChance>
 </Weapon>

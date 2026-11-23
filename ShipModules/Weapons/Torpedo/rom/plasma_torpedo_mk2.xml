@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>250</Cost>
+  <Cost>326</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>4</XSize>
   <YSize>7</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/plasma_torpedo_mk2</IconTexturePath>
   <Mass>350</Mass>
-  <HealthMax>28500</HealthMax>
+  <HealthMax>23370</HealthMax>
   <Description>A heavier plasma torpedo for the great warbirds, the same weapon on a larger scale. Of the Romulan torpedo weapons, it hits the hardest and reaches the farthest, but fires the smallest salvos.</Description>
   
   

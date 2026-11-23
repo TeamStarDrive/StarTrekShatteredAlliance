@@ -25,15 +25,15 @@
 
   <!-- Mass and Health -->
   <Mass>6</Mass>
-  <HealthMax>2000</HealthMax>
+  <HealthMax>1628</HealthMax>
 
 
 <!-- Armor resistance -->
-    <KineticResist>0.02</KineticResist>
-    <BeamResist>0</BeamResist>
-    <EnergyResist>0</EnergyResist>    
-    <PlasmaResist>0</PlasmaResist>
-    <ExplosiveResist>0.04</ExplosiveResist>
+    <KineticResist>-0.05</KineticResist>
+    <BeamResist>0.05</BeamResist>
+    <EnergyResist>0.05</EnergyResist>    
+    <PlasmaResist>-0.05</PlasmaResist>
+    <ExplosiveResist>0.09</ExplosiveResist>
 
   <!-- Description -->
   <Description>Heavy plate for the battlecruisers of the Empire, thick and unadorned. "...a military ship, not a pleasure craft." (Captain K'Vada, TNG: "Unification I") Gives almost no protection against fire; it is there to soak up damage. Of the Klingon ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile.</Description>

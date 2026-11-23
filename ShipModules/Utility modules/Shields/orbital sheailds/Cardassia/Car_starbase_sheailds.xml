@@ -12,7 +12,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>488</Cost>
+  <Cost>342</Cost>
   <RepairDifficulty>11</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -26,7 +26,7 @@
   <Name>Cardassian Nor Station Shield Grid</Name>
   <IconTexturePath>Modules/starbase_sheailds</IconTexturePath>
   <Mass>11000</Mass>
-  <HealthMax>86188</HealthMax>
+  <HealthMax>32579</HealthMax>
   
   <Description>The full shield grid of a large Nor-pattern station, covering the ring and all three pylons. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian station shields, size for size, it holds the most energy and is the lightest.</Description>
   
@@ -37,7 +37,7 @@
   <DescriptionIndex>30707</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>2410000</ShieldPowerMax>
+  <ShieldPowerMax>2169000</ShieldPowerMax>
   <ShieldRechargeDelay>10</ShieldRechargeDelay>
   <ShieldRechargeRate>6200</ShieldRechargeRate>
   <ShieldRadius>480</ShieldRadius>
@@ -48,4 +48,6 @@
   <PlasmaResist>0.63</PlasmaResist>
   <Deflection>350</Deflection>
   <ShieldKineticResist>1.6</ShieldKineticResist>
+  <ShieldPlasmaResist>0.472</ShieldPlasmaResist>
+  <ShieldDeflection>400</ShieldDeflection>
 </ShipModule>

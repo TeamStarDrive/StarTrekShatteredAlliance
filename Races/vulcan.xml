@@ -59,15 +59,18 @@
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>
-				<string>Reflexes</string>
-				<string>Meticulous</string>
-				<string>Astronomers</string>
-				<string>Small Homeworld</string>
-				<string>Desert Homeworld</string>
-				<string>Spiritual</string>
-				<string>Orbital Constructors</string>
+				<string>Logic and Discipline</string>
 				<string>Smart</string>
+				<string>Research Collaborators</string>
+				<string>Astronomers</string>
+				<string>Spiritual</string>
+				<string>Alluring</string>
+				<string>Desert Homeworld</string>
 				<string>Efficient Metabolism</string>
+				<string>Meticulous</string>
+				<string>Skilled Engineers</string>
+				<string>Timid</string>
+				<string>Honest</string>
 			</TraitOptions>		
 		</TraitSet>
 	</TraitSets>	

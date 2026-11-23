@@ -15,7 +15,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>10</Cost>
+  <Cost>14</Cost>
   <!-- common traits shared by all ship modules -->
   <TechLevel>2</TechLevel>
   <ModuleType>Shield</ModuleType>
@@ -28,7 +28,7 @@
 
   <IconTexturePath>Modules/advanced_fighter_sheaild</IconTexturePath>
   <Mass>10</Mass>
-  <HealthMax>1500</HealthMax>
+  <HealthMax>1980</HealthMax>
   
   <Description>The emitter's frequency is chosen by calculation and shifted on a fixed schedule, so it never repeats itself in a way an enemy can predict. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan fighter shields, size for size, it recharges the fastest, but draws the most power.</Description>
   

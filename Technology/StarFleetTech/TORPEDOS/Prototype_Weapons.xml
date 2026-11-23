@@ -60,11 +60,11 @@
       <Type>Terran</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>torpedo_BARAGE</ModuleUID>
+      <ModuleUID>vul_torpedo_BARAGE</ModuleUID>
       <Type>vulcan</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>torpedo_BARAGE</ModuleUID>
+      <ModuleUID>dom_torpedo_BARAGE</ModuleUID>
       <Type>dominion</Type>
     </UnlockedMod>
   </ModulesUnlocked>

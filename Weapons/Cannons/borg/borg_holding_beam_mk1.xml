@@ -19,12 +19,12 @@
   <!-- Projectile Information -->
   <TroopDamageChance>3</TroopDamageChance>
   <RepulsionDamage>4000</RepulsionDamage>
-  <EMPDamage>450</EMPDamage>
+  <EMPDamage>720</EMPDamage>
   <ShieldPenChance>70</ShieldPenChance>
   <BeamTexture>beam_shinysaphir</BeamTexture>
-  <PowerDamage>1500</PowerDamage>
+  <PowerDamage>1950</PowerDamage>
   <SiphonDamage>600</SiphonDamage>
-  <DamageAmount>4</DamageAmount>
+  <DamageAmount>5</DamageAmount>
   <BeamThickness>34</BeamThickness>
   <BeamPowerCostPerSecond>420</BeamPowerCostPerSecond>
   <WeaponRotation>3</WeaponRotation>

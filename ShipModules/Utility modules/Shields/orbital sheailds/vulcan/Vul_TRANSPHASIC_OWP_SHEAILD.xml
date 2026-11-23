@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>188</Cost>
+  <Cost>254</Cost>
   <RepairDifficulty>8</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -25,7 +25,7 @@
   <Name>Vulcan Phase-Coherent Platform Shield</Name>
   <IconTexturePath>Modules/TRANSPHASIC_OWP_SHEAILD</IconTexturePath>
   <Mass>7000</Mass>
-  <HealthMax>60188</HealthMax>
+  <HealthMax>79448</HealthMax>
   
   <Description>A platform shield whose phase is held coherent across the whole field, with no gap to attack. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Vulcan platform shields, size for size, it covers the widest area, but draws the most power.</Description>
   
@@ -46,4 +46,5 @@
   <ShieldKineticResist>0.67</ShieldKineticResist>
   <PlasmaResist>1.03</PlasmaResist>
   <Deflection>90</Deflection>
+  <ShieldPlasmaResist>0.536</ShieldPlasmaResist>
 </ShipModule>

@@ -33,7 +33,7 @@
   <BeamTexture>fed_phaser</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>26</DamageAmount>
+  <DamageAmount>33</DamageAmount>
   <BeamThickness>10</BeamThickness>
   <BeamPowerCostPerSecond>387</BeamPowerCostPerSecond>
   <EffectVsArmor>1.15</EffectVsArmor>

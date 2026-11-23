@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=ablative_armor_Small;station_phasor_beem_mk3;AdvancedCellSmall;PowerSolar;ablative_armor_Med;BasicFuelCell;Raider_Bay;FighterBay;warpcore_4x4;Sensor1x2;advanced_fighter_sheald_Amplifier;AdvAmplifier;Amplifier;station_deflector_mk2;OrdnanceLockerSmall
+ModuleUIDs=Dom_ablative_armor_Small;Dom_station_phasor_beem_mk3;AdvancedCellSmall;PowerSolar;Dom_ablative_armor_Med;BasicFuelCell;Raider_Bay;FighterBay;warpcore_4x4;Sensor1x2;advanced_fighter_sheald_Amplifier;AdvAmplifier;Amplifier;Dom_station_deflector_mk2;OrdnanceLockerSmall
 Modules=106
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 12,0;0

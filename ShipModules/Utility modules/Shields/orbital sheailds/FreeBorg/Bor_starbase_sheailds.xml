@@ -12,7 +12,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>488</Cost>
+  <Cost>390</Cost>
   <RepairDifficulty>11</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -26,7 +26,7 @@
   <Name>Borg Unimatrix Shield Matrix</Name>
   <IconTexturePath>Modules/starbase_sheailds</IconTexturePath>
   <Mass>11000</Mass>
-  <HealthMax>86188</HealthMax>
+  <HealthMax>96703</HealthMax>
   
   <Description>The shield matrix of a Unimatrix, drawing on the records of every weapon the Collective has ever faced. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Borg station shields, size for size, it holds the most energy and is the lightest.</Description>
   
@@ -37,15 +37,18 @@
   <DescriptionIndex>30713</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>2410000</ShieldPowerMax>
+  <ShieldPowerMax>2651000</ShieldPowerMax>
   <ShieldRechargeDelay>10</ShieldRechargeDelay>
   <ShieldRechargeRate>6200</ShieldRechargeRate>
   <ShieldRadius>480</ShieldRadius>
   <ShieldRechargeCombatRate>1000</ShieldRechargeCombatRate>
-  <ShieldEnergyResist>0.59</ShieldEnergyResist>
-  <ShieldBeamResist>0.59</ShieldBeamResist>
+  <ShieldEnergyResist>0.65</ShieldEnergyResist>
+  <ShieldBeamResist>0.65</ShieldBeamResist>
   <ShieldKineticResist>0.59</ShieldKineticResist>
   <PlasmaResist>0.63</PlasmaResist>
   <Deflection>350</Deflection>
   <ShieldKineticResist>1.6</ShieldKineticResist>
+  <ShieldPlasmaResist>0.472</ShieldPlasmaResist>
+  <ShieldExplosiveResist>0.06</ShieldExplosiveResist>
+  <ShieldDeflection>500</ShieldDeflection>
 </ShipModule>

@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-    <Cost>35</Cost>
+    <Cost>47</Cost>
     <FighterModule>false</FighterModule>
     <!-- Tech Level -->
     <TechLevel>5</TechLevel>
@@ -31,15 +31,15 @@
     <DescriptionIndex>30297</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>72000</Mass>
-    <HealthMax>200000</HealthMax>
+    <HealthMax>162800</HealthMax>
     <RepairDifficulty>1.5</RepairDifficulty>
     <Deflection>0</Deflection>                  
     <!-- Armor resistance -->
-     <KineticResist>0.7</KineticResist>
-    <EnergyResist>0.7</EnergyResist>  
-    <BeamResist>0.7</BeamResist>
-    <ExplosiveResist>0.60</ExplosiveResist>      
-    <PlasmaResist>0.7</PlasmaResist>
+     <KineticResist>-0.05</KineticResist>
+    <EnergyResist>0.75</EnergyResist>  
+    <BeamResist>0.75</BeamResist>
+    <ExplosiveResist>0.65</ExplosiveResist>      
+    <PlasmaResist>-0.05</PlasmaResist>
 
     <!-- Description -->
     <Description>A crystal grown on living tissue, which heals as a warrior does, by enduring. Strong protection against every kind of fire. Of the Klingon orbital plates of its size, it is the best protected against energy fire and the best protected against kinetic rounds, but the costliest to build.</Description>

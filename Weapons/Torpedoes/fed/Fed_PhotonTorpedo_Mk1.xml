@@ -20,9 +20,9 @@
   <ExcludesCorvettes>false</ExcludesCorvettes>  
   
   <UID>Fed_PhotonTorpedo_Mk1</UID>
-  <FireDelay>12</FireDelay>
-  <Range>4000</Range>
-  <PowerRequiredToFire>1000</PowerRequiredToFire>
+  <FireDelay>8</FireDelay>
+  <Range>5000</Range>
+  <PowerRequiredToFire>800</PowerRequiredToFire>
   <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
   <HitPoints>10</HitPoints>  
   
@@ -32,12 +32,14 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>10500</DamageAmount>
+  <DamageAmount>10937</DamageAmount>
+  <SalvoTimer>7</SalvoTimer>
+  <SalvoCount>2</SalvoCount>
   <Scale>1</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>2500</ProjectileSpeed>
   <ProjectileRadius>10</ProjectileRadius>
-  <ExplosionRadius>20</ExplosionRadius> <!-- This projectile explodes -->
+  <ExplosionRadius>50</ExplosionRadius> <!-- This projectile explodes -->
   <Animated>1</Animated>
   <Frames>16</Frames>
   <AnimationPath>fed_torpedo_micro/fed_torpedo_micro_cc_</AnimationPath>

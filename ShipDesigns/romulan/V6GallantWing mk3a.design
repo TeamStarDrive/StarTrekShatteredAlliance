@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=SteelArmorSmall;Shield_1KW;Maneuvering_Thruster_1x1;romulan_disrupter_beam;Engine;Cockpit;NuclearReactorSmall;NuclearReactorMed;romulan_disrupter_cannon;PowerConduit;WarpEngine_1x1
+ModuleUIDs=Rom_SteelArmorSmall;Rom_Shield_1KW;Maneuvering_Thruster_1x1;romulan_disrupter_beam;Engine;Cockpit;NuclearReactorSmall;NuclearReactorMed;romulan_disrupter_cannon;PowerConduit;WarpEngine_1x1
 Modules=32
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 4,0;0

@@ -4,7 +4,7 @@
   <UID>borg_gravametric_distortion_beam</UID> 
   <Version>2</Version>
 
-  <Cost>33</Cost>
+  <Cost>26</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>5</TechLevel>
   
@@ -23,7 +23,7 @@
 
   <!-- Mass and Health -->
   <Mass>100</Mass>
-  <HealthMax>40570</HealthMax>
+  <HealthMax>49658</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>20</PowerDraw>

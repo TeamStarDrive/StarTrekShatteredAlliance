@@ -3,7 +3,7 @@
 
   <DroneModule>false</DroneModule>
 
-  <Cost>40</Cost>
+  <Cost>54</Cost>
   <TechLevel>1</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -14,7 +14,7 @@
   <UID>vul_phased_cannon</UID>
   <IconTexturePath>Modules/phased_cannon</IconTexturePath>
   <Mass>10</Mass>
-  <HealthMax>10750</HealthMax>
+  <HealthMax>15609</HealthMax>
   <Description>A Vulcan phase cannon, firing a short, exact bolt of phased energy. Of the Vulcan cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
   
   

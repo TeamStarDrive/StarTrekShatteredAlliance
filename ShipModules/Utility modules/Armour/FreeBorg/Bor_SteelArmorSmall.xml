@@ -25,15 +25,15 @@
 
   <!-- Mass and Health -->
   <Mass>6</Mass>
-  <HealthMax>2000</HealthMax>
+  <HealthMax>2244</HealthMax>
 
 
 <!-- Armor resistance -->
-    <KineticResist>0.02</KineticResist>
-    <BeamResist>0</BeamResist>
-    <EnergyResist>0</EnergyResist>    
-    <PlasmaResist>0</PlasmaResist>
-    <ExplosiveResist>0.04</ExplosiveResist>
+    <KineticResist>-0.05</KineticResist>
+    <BeamResist>0.05</BeamResist>
+    <EnergyResist>0.05</EnergyResist>    
+    <PlasmaResist>-0.05</PlasmaResist>
+    <ExplosiveResist>0.09</ExplosiveResist>
 
   <!-- Description -->
   <Description>Plain tritanium alloy, the metal of the Borg cube. There is no ornament and no deck plan, only the hull, shaped to what the Collective needs. Gives almost no protection against fire; it is there to soak up damage. Of the Borg ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile.</Description>

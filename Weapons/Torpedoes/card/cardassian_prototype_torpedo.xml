@@ -21,7 +21,7 @@
   
   <UID>cardassian_prototype_torpedo</UID>
   <FireDelay>6</FireDelay>
-  <Range>17000</Range>
+  <Range>15300</Range>
   <PowerRequiredToFire>1900</PowerRequiredToFire>
   <OrdinanceRequiredToFire>15</OrdinanceRequiredToFire>
   <HitPoints>30</HitPoints>
@@ -34,7 +34,7 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>45000</DamageAmount>
+  <DamageAmount>40824</DamageAmount>
   <ShieldPenChance>25</ShieldPenChance>
   <Scale>2</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>

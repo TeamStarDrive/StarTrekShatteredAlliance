@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>58</Cost>
+  <Cost>76</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>2</TechLevel>
   <RepairDifficulty>2</RepairDifficulty> 
@@ -18,7 +18,7 @@
   <Name>Romulan D'deridex Deflector Grid</Name>
   <IconTexturePath>Modules/shield_3x3</IconTexturePath>
   <Mass>81</Mass>
-  <HealthMax>14200</HealthMax>
+  <HealthMax>10480</HealthMax>
   <PowerDraw>95</PowerDraw>
   
   <Description>The deflector shields of the D'deridex-class warbird, with an artificial quantum singularity behind them. "Romulans. I'll be damned." (Benjamin Sisko, DS9: "By Inferno's Light") Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
@@ -30,13 +30,16 @@
   <DescriptionIndex>30509</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>36000</ShieldPowerMax>
+  <ShieldPowerMax>39600</ShieldPowerMax>
   <ShieldRechargeDelay>16</ShieldRechargeDelay>
   <ShieldRechargeRate>650.0</ShieldRechargeRate>
   <ShieldRadius>170</ShieldRadius>
   <ShieldRechargeCombatRate>100</ShieldRechargeCombatRate>
-  <ShieldEnergyResist>0.38</ShieldEnergyResist>
-  <ShieldBeamResist>0.30</ShieldBeamResist>
+  <ShieldEnergyResist>0.44</ShieldEnergyResist>
+  <ShieldBeamResist>0.36</ShieldBeamResist>
   <ShieldKineticResist>-0.30</ShieldKineticResist>
     <Deflection>50</Deflection>
+  <ShieldPlasmaResist>-0.24</ShieldPlasmaResist>
+  <ShieldExplosiveResist>0.06</ShieldExplosiveResist>
+  <ShieldDeflection>125</ShieldDeflection>
 </ShipModule>

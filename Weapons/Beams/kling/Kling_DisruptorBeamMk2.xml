@@ -5,11 +5,11 @@
 
   <UID>Kling_DisruptorBeamMk2</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
-  <Range>8000</Range>
-  <PowerRequiredToFire>100</PowerRequiredToFire>
+  <FireDelay>6</FireDelay>
+  <Range>7200</Range>
+  <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2.5</BeamDuration>
+  <BeamDuration>2</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -20,13 +20,12 @@
   
   <!-- Projectile Information -->
   <BeamTexture>kling_disruptorbeam</BeamTexture>
-  <EffectVsShields>1.40</EffectVsShields> 
   
-  <DamageAmount>35</DamageAmount>
+  <DamageAmount>21</DamageAmount>
   <BeamThickness>15</BeamThickness>
-  <ShieldPenChance>25</ShieldPenChance>
-  <EffectVsArmor>1.00</EffectVsArmor>
-  <BeamPowerCostPerSecond>1750</BeamPowerCostPerSecond>
+  <ShieldPenChance>0.2</ShieldPenChance>
+  <EffectVsArmor>1.30</EffectVsArmor>
+  <BeamPowerCostPerSecond>220</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
@@ -36,4 +35,5 @@
   <WeaponDeathEffect></WeaponDeathEffect>
 
   
+  <TroopDamageChance>5</TroopDamageChance>
 </Weapon>

@@ -12,7 +12,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
 
-  <Cost>120</Cost>
+  <Cost>162</Cost>
   <TechLevel>5</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -23,7 +23,7 @@
   <UID>Vul_orbital_cannons_mk3</UID>
   <IconTexturePath>Modules/orbital_cannons_mk3</IconTexturePath>
   <Mass>50000</Mass>
-  <HealthMax>38612</HealthMax>
+  <HealthMax>56064</HealthMax>
   <Description>A battery for a Science Academy station, fired in calculated sequence. Of the Vulcan orbital cannon weapons, it is the cheapest for its size and has the fastest shots, but is the frailest for its size.</Description>
   
   
@@ -47,7 +47,7 @@
   <PowerStoreMax>0</PowerStoreMax>
   
   <!-- for Weapons -->
-  <WeaponType>orbital_cannons_mk3</WeaponType>
+  <WeaponType>Vul_orbital_cannons_mk3</WeaponType>
   <FieldOfFire>360</FieldOfFire>
   <OrdinanceCapacity>0</OrdinanceCapacity>
   

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>180</Cost>
+  <Cost>234</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>4</XSize>
   <YSize>7</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/singlarity_torpedo</IconTexturePath>
   <Mass>300</Mass>
-  <HealthMax>30500</HealthMax>
+  <HealthMax>25010</HealthMax>
   <Description>A torpedo that draws on the quantum singularity technology that powers the warbirds, kept for the targets that matter most. Of the Romulan torpedo weapons, it reaches the farthest and is the cheapest for its size, but fires the slowest.</Description>
   
   

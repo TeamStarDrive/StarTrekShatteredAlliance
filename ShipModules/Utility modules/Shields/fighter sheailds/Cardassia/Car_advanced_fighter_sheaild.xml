@@ -15,7 +15,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>10</Cost>
+  <Cost>9</Cost>
   <!-- common traits shared by all ship modules -->
   <TechLevel>2</TechLevel>
   <ModuleType>Shield</ModuleType>
@@ -28,7 +28,7 @@
 
   <IconTexturePath>Modules/advanced_fighter_sheaild</IconTexturePath>
   <Mass>10</Mass>
-  <HealthMax>1500</HealthMax>
+  <HealthMax>630</HealthMax>
   
   <Description>A refit of the Hideki emitter with a larger coil, for the fighters kept at the edge of a battle to pick off stragglers. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian fighter shields, size for size, it recharges the fastest, but draws the most power.</Description>
   

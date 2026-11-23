@@ -94,15 +94,19 @@
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>
-				<string>Repulsive</string>
-				<string>Polluted Homeworld</string>
-				<string>Naval Tradition</string>
-				<string>Efficient</string>
-				<string>Ponderous</string>
-				<string>Smart</string>
+				<string>Collective Adaptation</string>
 				<string>Cybernetic</string>
+				<string>Smart</string>
+				<string>Efficient</string>
+				<string>Industrious</string>
+				<string>Drone Shipyards</string>
+				<string>Field Repairs</string>
+				<string>Meticulous</string>
+				<string>Repulsive</string>
+				<string>Ponderous</string>
+				<string>Polluted Homeworld</string>
 				<string>Honest</string>
-				<string>Savage</string>
+				<string>Less Fertile</string>
 			</TraitOptions>	
 		</TraitSet>
 	</TraitSets>	

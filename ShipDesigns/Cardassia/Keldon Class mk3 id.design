@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=CompositeAlloys Small;CompositeAlloys Large;CompositeAlloys Med;Car_DisruptorCannonMk2;Car_DisruptorBeamMk3;PowerSolar;advanced_crusier_sheaild;Sensor1x2;Maneuvering_Thruster_1x3;Car_PhotonTorpedoMk3;Amplifier;AdvAmplifier;FighterBay;FrigateEngine;Bridge;Inertial Damper;Internal Bulkhead;TorpedoBay_2x1;MarineBarracks2x2;warpcore_2x2;Car_DisruptorBeamMk1;WarpEngine_4x4;Titan Engine;WarpEngine_1x1
+ModuleUIDs=CompositeAlloys Small;CompositeAlloys Large;CompositeAlloys Med;Car_DisruptorCannonMk2;Car_DisruptorBeamMk3;PowerSolar;Car_advanced_crusier_sheaild;Sensor1x2;Maneuvering_Thruster_1x3;Car_PhotonTorpedoMk3;Amplifier;AdvAmplifier;FighterBay;FrigateEngine;Bridge;Inertial Damper;Internal Bulkhead;TorpedoBay_2x1;MarineBarracks2x2;warpcore_2x2;Car_DisruptorBeamMk1;WarpEngine_4x4;Titan Engine;WarpEngine_1x1
 Modules=148
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 9,0;0

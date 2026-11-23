@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>150</Cost>
+  <Cost>180</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>3</XSize>
   <YSize>6</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/Fed_HeavyPhotonTorpedo_Mk1</IconTexturePath>
   <Mass>250</Mass>
-  <HealthMax>11900</HealthMax>
+  <HealthMax>14923</HealthMax>
   <Description>A heavy launcher for ships that need to break a hull and not just a shield. Of the Starfleet torpedo weapons, it is the cheapest for its size and has the widest blast, but is the frailest for its size.</Description>
   
   

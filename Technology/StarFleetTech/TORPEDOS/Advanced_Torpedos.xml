@@ -66,11 +66,11 @@
       <Type>Terran</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>advanced_energy_torpoedo</ModuleUID>
+      <ModuleUID>dom_advanced_energy_torpoedo</ModuleUID>
       <Type>dominion</Type>
     </UnlockedMod>
 	<UnlockedMod>
-      <ModuleUID>advanced_energy_torpoedo</ModuleUID>
+      <ModuleUID>vul_advanced_energy_torpoedo</ModuleUID>
       <Type>vulcan</Type>
     </UnlockedMod>
   </ModulesUnlocked>

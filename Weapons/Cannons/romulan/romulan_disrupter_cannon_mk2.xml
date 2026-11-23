@@ -19,8 +19,8 @@
   <Tag_Cannon>true</Tag_Cannon>
   
   <UID>romulan_disrupter_cannon_mk2</UID>
-  <Range>7000</Range>
-  <PowerRequiredToFire>800</PowerRequiredToFire>
+  <Range>5000</Range>
+  <PowerRequiredToFire>900</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <SalvoCount>6</SalvoCount>
   <SalvoTimer>3</SalvoTimer>
@@ -38,7 +38,7 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>1250</DamageAmount>
+  <DamageAmount>388</DamageAmount>
   <ProjectileSpeed>4200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>2.5</Scale>
@@ -48,5 +48,5 @@
   <ModelPath>projTear</ModelPath>
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
   <WeaponType>Disruptor Cannons</WeaponType>
-  <FireDelay>4</FireDelay>
+  <FireDelay>5</FireDelay>
 </Weapon>

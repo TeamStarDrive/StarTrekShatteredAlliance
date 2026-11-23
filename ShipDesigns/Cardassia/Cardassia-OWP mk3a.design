@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=Crystal_Armor_Large;Crystal_Armor_Small;MediumFuelCell;Crystal_Armor_Med;advanced_fighter_sheald_Amplifier;small_station_sheaild_mk1;BasicFuelCell;station_torpedo_launcher_mk1;warpcore_2x2;Bridge;station_phasor_beem_mk3
+ModuleUIDs=Car_Crystal_Armor_Large;Car_Crystal_Armor_Small;MediumFuelCell;Car_Crystal_Armor_Med;advanced_fighter_sheald_Amplifier;Car_small_station_sheaild_mk1;BasicFuelCell;Car_station_torpedo_launcher_mk1;warpcore_2x2;Bridge;Car_station_phasor_beem_mk3
 Modules=94
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 11,0;0;3,3

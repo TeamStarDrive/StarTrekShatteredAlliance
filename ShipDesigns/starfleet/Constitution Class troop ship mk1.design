@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=SteelArmorSmall;Fed_PhaserCannon_2x2;OrdnanceLockerSmall;Sensor1x2;PowerConduit;PowerSolar;Fabricator;Shield_1KW;MarineBarracks2x2;TroopAssaultBay;Cockpit;NuclearReactorSmall;NuclearBombBay2x2;NuclearReactorMed;CombatEngine_2x1;WarpEngine_2x2
+ModuleUIDs=Fed_SteelArmorSmall;Fed_PhaserCannon_2x2;OrdnanceLockerSmall;Sensor1x2;PowerConduit;PowerSolar;Fabricator;Fed_Shield_1KW;MarineBarracks2x2;TroopAssaultBay;Cockpit;NuclearReactorSmall;NuclearBombBay2x2;NuclearReactorMed;CombatEngine_2x1;WarpEngine_2x2
 Modules=86
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 3,0;0

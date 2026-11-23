@@ -5,11 +5,11 @@
 
   <UID>modulated_phasor</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
-  <Range>14200</Range>
-  <PowerRequiredToFire>100</PowerRequiredToFire>
+  <FireDelay>5</FireDelay>
+  <Range>15400</Range>
+  <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>5</BeamDuration>
+  <BeamDuration>2.6</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -20,13 +20,13 @@
   
   <!-- Projectile Information -->
   <BeamTexture>fed_phaser</BeamTexture>
-  <EffectVsArmor>1.65</EffectVsArmor>
-  <ShieldPenChance>65</ShieldPenChance>
-  <DamageAmount>55</DamageAmount>
+  <EffectVsArmor>1.25</EffectVsArmor>
+  <ShieldPenChance>20</ShieldPenChance>
+  <DamageAmount>73</DamageAmount>
   <BeamThickness>35</BeamThickness>
-  <BeamPowerCostPerSecond>950</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>1720</BeamPowerCostPerSecond>
   <WeaponRotation>1</WeaponRotation>
-  <PowerDamage>110</PowerDamage>
+  <PowerDamage>138</PowerDamage>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>
@@ -35,4 +35,5 @@
   <WeaponDeathEffect></WeaponDeathEffect>
 
   
+  <EffectVsShields>1.14</EffectVsShields>
 </Weapon>

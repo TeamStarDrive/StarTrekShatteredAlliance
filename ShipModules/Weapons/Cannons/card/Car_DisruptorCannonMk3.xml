@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>120</Cost>
+  <Cost>84</Cost>
   <TechLevel>4</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -14,7 +14,7 @@
 
   <IconTexturePath>Modules/Car_DisruptorCannonMk3</IconTexturePath>
   <Mass>50</Mass>
-  <HealthMax>29760</HealthMax>
+  <HealthMax>12499</HealthMax>
   <Description>The biggest wave cannon the Union ever mounted on a ship, meant for hammering defended worlds. Of the Cardassian cannon weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
   <CrewRequired>12</CrewRequired>
   

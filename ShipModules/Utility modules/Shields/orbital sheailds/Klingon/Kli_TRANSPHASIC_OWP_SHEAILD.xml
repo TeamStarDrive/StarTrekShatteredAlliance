@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>188</Cost>
+  <Cost>254</Cost>
   <RepairDifficulty>8</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -25,7 +25,7 @@
   <Name>Klingon Planetary Platform Shield</Name>
   <IconTexturePath>Modules/TRANSPHASIC_OWP_SHEAILD</IconTexturePath>
   <Mass>7000</Mass>
-  <HealthMax>60188</HealthMax>
+  <HealthMax>48993</HealthMax>
   
   <Description>A shield for the great defence platforms that guard Klingon worlds. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon platform shields, size for size, it covers the widest area, but draws the most power.</Description>
   
@@ -36,7 +36,7 @@
   <DescriptionIndex>30675</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>100000</ShieldPowerMax>
+  <ShieldPowerMax>90000</ShieldPowerMax>
   <ShieldRechargeDelay>5</ShieldRechargeDelay>
   <ShieldRechargeRate>4200</ShieldRechargeRate>
   <ShieldRadius>150</ShieldRadius>
@@ -46,4 +46,5 @@
   <ShieldKineticResist>0.67</ShieldKineticResist>
   <PlasmaResist>1.03</PlasmaResist>
   <Deflection>90</Deflection>
+  <ShieldPlasmaResist>0.536</ShieldPlasmaResist>
 </ShipModule>

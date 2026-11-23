@@ -21,7 +21,7 @@
   
   <UID>dom_torpedo_bomb_mk1</UID>
   <FireDelay>8</FireDelay>
-  <Range>7000</Range>
+  <Range>6300</Range>
   <PowerRequiredToFire>4000</PowerRequiredToFire>
   <OrdinanceRequiredToFire>100</OrdinanceRequiredToFire>
   <HitPoints>30</HitPoints>  
@@ -32,7 +32,7 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>90000</DamageAmount>
+  <DamageAmount>83952</DamageAmount>
   <Scale>4.5</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>900</ProjectileSpeed>

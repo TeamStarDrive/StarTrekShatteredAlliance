@@ -4,7 +4,7 @@
   <UID>power_drain_phasor_beam_4x4</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>130</Cost>
+  <Cost>156</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
 
@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>28</Mass>
-  <HealthMax>13120</HealthMax>
+  <HealthMax>17948</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>15</PowerDraw>

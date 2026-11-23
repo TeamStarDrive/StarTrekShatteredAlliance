@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>80</Cost>
+  <Cost>64</Cost>
   <TechLevel>2</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -14,7 +14,7 @@
 
   <IconTexturePath>Modules/borg_holding_beam_mk1</IconTexturePath>
   <Mass>20</Mass>
-  <HealthMax>9760</HealthMax>
+  <HealthMax>10951</HealthMax>
   <Description>The tractor beam seizes a target and drains its shields. Once it holds, the cutting beam finishes the work. Of the Borg tractor beam weapons, it is the sturdiest for its size, but hits the softest.</Description>
   <CrewRequired>12</CrewRequired>
   

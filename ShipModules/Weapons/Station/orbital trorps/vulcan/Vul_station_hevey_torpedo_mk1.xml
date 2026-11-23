@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>155</Cost>
+  <Cost>209</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>5</XSize>
   <YSize>6</YSize>
@@ -23,7 +23,7 @@
 
   <IconTexturePath>Modules/station_hevey_torpedo_mk1</IconTexturePath>
   <Mass>14000</Mass>
-  <HealthMax>70500</HealthMax>
+  <HealthMax>93060</HealthMax>
   <Description>The heaviest battery the High Command keeps on a station. Of the Vulcan orbital torpedo weapons, it hits the hardest and is the cheapest for its size, but fires the slowest.</Description>
   
   
@@ -46,7 +46,7 @@
   <PowerStoreMax>0</PowerStoreMax>
 
   <!-- for Weapons -->
-  <WeaponType>station_hevey_torpedo_mk1</WeaponType>
+  <WeaponType>Vul_station_hevey_torpedo_mk1</WeaponType>
   <OrdinanceCapacity>1000</OrdinanceCapacity>
   <FieldOfFire>360</FieldOfFire>
 

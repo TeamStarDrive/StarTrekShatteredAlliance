@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>150</Cost>
+  <Cost>120</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>3</XSize>
   <YSize>6</YSize>
@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/borg_hevey_torp_mk1</IconTexturePath>
   <Mass>100</Mass>
-  <HealthMax>21500</HealthMax>
+  <HealthMax>24123</HealthMax>
   <Description>A heavy projectile launcher, used to destroy several ships in one volley. Of the Borg missile weapons, it carries the most ordnance, but fires the slowest.</Description>
   
   

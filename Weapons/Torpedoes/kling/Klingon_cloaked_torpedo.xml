@@ -21,7 +21,7 @@
 
 
   <UID>Klingon_cloaked_torpedo</UID>
-  <Range>17000</Range>
+  <Range>15300</Range>
   <PowerRequiredToFire>2600</PowerRequiredToFire>
   <OrdinanceRequiredToFire>400</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
@@ -33,7 +33,7 @@
   
   
   <!-- Projectile Information -->
-  <DamageAmount>15000</DamageAmount>
+  <DamageAmount>9108</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>5200</ProjectileSpeed>
 

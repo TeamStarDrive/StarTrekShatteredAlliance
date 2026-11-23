@@ -12,7 +12,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>588</Cost>
+  <Cost>470</Cost>
   <RepairDifficulty>12</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -26,7 +26,7 @@
   <Name>Borg Hive Adaptive Matrix</Name>
   <IconTexturePath>Modules/station_deflector_mk2</IconTexturePath>
   <Mass>12000</Mass>
-  <HealthMax>99188</HealthMax>
+  <HealthMax>111289</HealthMax>
   
   <Description>The adaptive matrix of the largest hubs, which share frequency readings across the whole structure. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Borg station shields, size for size, it recharges the fastest and covers the widest area, but is the costliest to build.</Description>
   
@@ -37,15 +37,18 @@
   <DescriptionIndex>30741</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>1500000</ShieldPowerMax>
+  <ShieldPowerMax>1650000</ShieldPowerMax>
   <ShieldRechargeDelay>10</ShieldRechargeDelay>
   <ShieldRechargeRate>9200</ShieldRechargeRate>
   <ShieldRadius>520</ShieldRadius>
   <ShieldRechargeCombatRate>1300</ShieldRechargeCombatRate>
-  <ShieldEnergyResist>0.79</ShieldEnergyResist>
-  <ShieldBeamResist>0.79</ShieldBeamResist>
+  <ShieldEnergyResist>0.85</ShieldEnergyResist>
+  <ShieldBeamResist>0.85</ShieldBeamResist>
   <ShieldKineticResist>0.77</ShieldKineticResist>
   <PlasmaResist>0.73</PlasmaResist>
   <Deflection>60</Deflection>
   <ShieldKineticResist>0.6</ShieldKineticResist>
+  <ShieldPlasmaResist>0.616</ShieldPlasmaResist>
+  <ShieldExplosiveResist>0.06</ShieldExplosiveResist>
+  <ShieldDeflection>500</ShieldDeflection>
 </ShipModule>

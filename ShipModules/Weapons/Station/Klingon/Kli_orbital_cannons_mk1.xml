@@ -12,7 +12,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
 
-  <Cost>80</Cost>
+  <Cost>108</Cost>
   <TechLevel>3</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -23,7 +23,7 @@
   <UID>Kli_orbital_cannons_mk1</UID>
   <IconTexturePath>Modules/orbital_cannons_mk1</IconTexturePath>
   <Mass>50000</Mass>
-  <HealthMax>18609</HealthMax>
+  <HealthMax>16525</HealthMax>
   <Description>A heavy disruptor cannon for a station's ring. Of the Klingon orbital cannon weapons, it has the fastest shots, but fires the slowest.</Description>
   
   
@@ -47,7 +47,7 @@
   <PowerStoreMax>0</PowerStoreMax>
   
   <!-- for Weapons -->
-  <WeaponType>orbital_cannons_mk1</WeaponType>
+  <WeaponType>Kli_orbital_cannons_mk1</WeaponType>
   <FieldOfFire>360</FieldOfFire>
   <OrdinanceCapacity>0</OrdinanceCapacity>
   

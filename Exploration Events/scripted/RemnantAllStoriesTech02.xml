@@ -1,0 +1,15 @@
+﻿<ExplorationEvent>
+  <Name>Reverse Engineering</Name>
+  <StoryStep>2</StoryStep>
+  <AllRemnantStories>true</AllRemnantStories>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <Image>Encounters/1.png</Image>      
+      <TitleText>Secrets of the Remnant</TitleText>
+      <DescriptionText>After analyzing more Remnant wreckage, we have enough information of some of the technologies the Remnants are using. We will need to assign our scientists to the task of reverse engineering these secrets. A new "Secrets" technology path has been added to the research screen. \n \n The wreckage has already given up three things: the plans for the small Remnant reactor, a Remnant detection array we can build, and the design of the Remnant drone hull.</DescriptionText>
+      <ConfirmText></ConfirmText>
+      <SecretTechDiscovered>Xeno Hull Studies</SecretTechDiscovered>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

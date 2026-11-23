@@ -22,8 +22,8 @@
   <UID>Phasor_Beam_mk1</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>5</FireDelay>
-  <Range>7000</Range>
-  <PowerRequiredToFire>0</PowerRequiredToFire>
+  <Range>6600</Range>
+  <PowerRequiredToFire>50</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -33,10 +33,10 @@
   <BeamTexture>fed_phaser</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>16</DamageAmount>
+  <DamageAmount>15</DamageAmount>
   <BeamThickness>20</BeamThickness>
-  <BeamPowerCostPerSecond>387</BeamPowerCostPerSecond>
-  <EffectVsArmor>0.15</EffectVsArmor>
+  <BeamPowerCostPerSecond>187</BeamPowerCostPerSecond>
+  <EffectVsArmor>1.15</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>
  
 
@@ -46,4 +46,5 @@
   <WeaponShieldHitEffect>Beam_Hit_Shield</WeaponShieldHitEffect>
   <WeaponDeathEffect></WeaponDeathEffect>
 
+  <EffectVsShields>1.06</EffectVsShields>
 </Weapon>

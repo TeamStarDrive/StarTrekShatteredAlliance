@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-    <Cost>21</Cost>
+    <Cost>17</Cost>
     <FighterModule>false</FighterModule>
     <!-- Tech Level -->
     <TechLevel>3</TechLevel>
@@ -31,16 +31,17 @@
     <DescriptionIndex>30391</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>15400</Mass>
-    <HealthMax>98120</HealthMax>
+    <HealthMax>110091</HealthMax>
     <RepairDifficulty>1</RepairDifficulty>
     <Deflection>50</Deflection>            
     <!-- Armor resistance -->
-    <KineticResist>0.16</KineticResist>
-    <BeamResist>0.4</BeamResist>  
-    <PlasmaResist>0.4</PlasmaResist>
-    <ExplosiveResist>0.4</ExplosiveResist>
+    <KineticResist>-0.05</KineticResist>
+    <BeamResist>0.45</BeamResist>  
+    <PlasmaResist>-0.05</PlasmaResist>
+    <ExplosiveResist>0.45</ExplosiveResist>
 
     <!-- Description -->
     <Description>Plate for the ring of a Borg node, holding its shape while the drones repair what the enemy has damaged. Strong protection against beams, plasma and explosions, good protection against kinetic rounds. Of the Borg orbital plates of its size, it is the lightest and the cheapest to build, but the most fragile.</Description>
     <APResist>1</APResist>
+  <EnergyResist>0.05</EnergyResist>
 </ShipModule>

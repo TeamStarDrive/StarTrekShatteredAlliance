@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>4</Cost>
+  <Cost>5</Cost>
   <DroneModule>true</DroneModule>
   <FighterModule>true</FighterModule>
   <CorvetteModule>true</CorvetteModule>
@@ -37,14 +37,14 @@
 
   <!-- Mass and Health -->
   <Mass>7</Mass>
-  <HealthMax>4700</HealthMax>
+  <HealthMax>6204</HealthMax>
   <RepairDifficulty>1.25</RepairDifficulty>
   <Deflection>0</Deflection>              
   <!-- Armor resistance -->
-  <KineticResist>0.08</KineticResist>
+  <KineticResist>-0.05</KineticResist>
   <BeamResist>0</BeamResist>
   <EnergyResist>0</EnergyResist>    
-  <PlasmaResist>0</PlasmaResist>
+  <PlasmaResist>-0.05</PlasmaResist>
   <ExplosiveResist>0.16</ExplosiveResist>
 
   <!-- Description -->

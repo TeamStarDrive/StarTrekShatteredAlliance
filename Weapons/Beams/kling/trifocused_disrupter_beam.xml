@@ -5,9 +5,9 @@
 
   <UID>trifocused_disrupter_beam</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
-  <Range>13500</Range>
-  <PowerRequiredToFire>70</PowerRequiredToFire>
+  <FireDelay>5</FireDelay>
+  <Range>12600</Range>
+  <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>2.6</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
@@ -20,13 +20,12 @@
   
   <!-- Projectile Information -->
   <BeamTexture>kling_disruptorbeam</BeamTexture>
-  <EffectVsShields>1.60</EffectVsShields> 
   
-  <DamageAmount>265</DamageAmount>
+  <DamageAmount>43</DamageAmount>
   <BeamThickness>25</BeamThickness>
-  <ShieldPenChance>55</ShieldPenChance>
-  <EffectVsArmor>0.95</EffectVsArmor>
-  <BeamPowerCostPerSecond>1750</BeamPowerCostPerSecond>
+  <ShieldPenChance>20</ShieldPenChance>
+  <EffectVsArmor>1.25</EffectVsArmor>
+  <BeamPowerCostPerSecond>1720</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
@@ -36,4 +35,5 @@
   <WeaponDeathEffect></WeaponDeathEffect>
 
   
+  <TroopDamageChance>5</TroopDamageChance>
 </Weapon>

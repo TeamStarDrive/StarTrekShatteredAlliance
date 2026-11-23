@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-    <Cost>35</Cost>
+    <Cost>45</Cost>
     <FighterModule>false</FighterModule>
     <!-- Tech Level -->
     <TechLevel>5</TechLevel>
@@ -31,15 +31,15 @@
     <DescriptionIndex>30299</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>72000</Mass>
-    <HealthMax>200000</HealthMax>
+    <HealthMax>147600</HealthMax>
     <RepairDifficulty>1.5</RepairDifficulty>
     <Deflection>0</Deflection>                  
     <!-- Armor resistance -->
-     <KineticResist>0.7</KineticResist>
+     <KineticResist>-0.05</KineticResist>
     <EnergyResist>0.7</EnergyResist>  
     <BeamResist>0.7</BeamResist>
     <ExplosiveResist>0.60</ExplosiveResist>      
-    <PlasmaResist>0.7</PlasmaResist>
+    <PlasmaResist>-0.05</PlasmaResist>
 
     <!-- Description -->
     <Description>Crystal grown through living tissue from the dilithium dust of the Remus mines. Strong protection against every kind of fire. Of the Romulan orbital plates of its size, it is the best protected against energy fire and the best protected against kinetic rounds, but the costliest to build.</Description>

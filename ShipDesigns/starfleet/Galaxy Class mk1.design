@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=CompositeAlloys Small;CompositeAlloys Large;Phasor_Beam_mk3;Fed_PhaserCannon_3x3;Fed_HeavyPhotonTorpedo_Mk1;Maneuvering_Thruster_1x3;EnergyPDRapid;ArmoredShield4x4;AdvancedCellMed;CIC;MarineBarracks2x2;tractorbeam_mk1;Reinforced Bulkhead;Internal Bulkhead;warpcore_4x4;Amplifier;AdvancedCellSmall;TroopAssaultBay;warpcore_3x3;Shield_10KW;AdvAmplifier;Bridge;Raider_Bay;Astrometrics_3x3;warpcore_2x2;CompositeAlloys Med;Shuttlebay_5x9;Titan Engine;FighterBay;BosonTransmiter;TorpedoBay_2x1
+ModuleUIDs=CompositeAlloys Small;CompositeAlloys Large;Phasor_Beam_mk3;Fed_PhaserCannon_3x3;Fed_HeavyPhotonTorpedo_Mk1;Maneuvering_Thruster_1x3;EnergyPDRapid;Fed_ArmoredShield4x4;AdvancedCellMed;CIC;MarineBarracks2x2;tractorbeam_mk1;Reinforced Bulkhead;Internal Bulkhead;warpcore_4x4;Amplifier;AdvancedCellSmall;TroopAssaultBay;warpcore_3x3;Fed_Shield_10KW;AdvAmplifier;Bridge;Raider_Bay;Astrometrics_3x3;warpcore_2x2;CompositeAlloys Med;Shuttlebay_5x9;Titan Engine;FighterBay;BosonTransmiter;TorpedoBay_2x1
 Modules=406
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 18,0;0

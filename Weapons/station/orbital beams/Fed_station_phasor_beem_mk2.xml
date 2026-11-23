@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Tag_Beam>true</Tag_Beam>
+
+  
+  <UID>Fed_station_phasor_beem_mk2</UID>
+  <IsBeam>true</IsBeam>
+  <FireDelay>2</FireDelay>
+  <Range>19000</Range>
+  <PowerRequiredToFire>500</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
+  <BeamDuration>5</BeamDuration>
+  <!-- name of XACT audio cue to play on firing this weapon -->
+
+  <FireCueName>sd_weapon_flame_start_01</FireCueName>
+  <ToggleSoundName>sd_weapon_phasor_01</ToggleSoundName>
+  <BeamTexture>beam_purple3</BeamTexture>
+  
+  <!-- Projectile Information -->
+  <BeamTexture>beam_purple3</BeamTexture>
+  <DamageAmount>225</DamageAmount>
+  <ShieldPenChance>0.2</ShieldPenChance>
+  <BeamThickness>40</BeamThickness>
+  <BeamPowerCostPerSecond>924</BeamPowerCostPerSecond>
+  <OffPowerMod>0.3</OffPowerMod>
+
+  <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
+  <WeaponType>Energy Beam</WeaponType>
+  <WeaponHitEffect>Beam_Hit_Armor</WeaponHitEffect>
+  <WeaponShieldHitEffect>Beam_Hit_Shield</WeaponShieldHitEffect>
+  <WeaponDeathEffect></WeaponDeathEffect>
+
+  <EffectVsShields>6.384</EffectVsShields>
+</Weapon>

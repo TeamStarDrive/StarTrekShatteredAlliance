@@ -4,7 +4,7 @@
   <UID>ADVANCED_cardasian_prototype_beam</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>141</Cost>
+  <Cost>99</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>6</TechLevel>
 
@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>80</Mass>
-  <HealthMax>29920</HealthMax>
+  <HealthMax>12566</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>7</PowerDraw>

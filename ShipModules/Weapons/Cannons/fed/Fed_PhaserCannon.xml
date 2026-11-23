@@ -3,7 +3,7 @@
 
   <DroneModule>false</DroneModule>
 
-  <Cost>40</Cost>
+  <Cost>48</Cost>
   <TechLevel>1</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -14,7 +14,7 @@
   <UID>Fed_PhaserCannon</UID>
   <IconTexturePath>Modules/Fed_phaserCannon</IconTexturePath>
   <Mass>15</Mass>
-  <HealthMax>6750</HealthMax>
+  <HealthMax>8464</HealthMax>
   <Description>A phase cannon, the forerunner of the modern phaser. It fires a short bolt of phased energy and needs little to keep it running. Of the Starfleet cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
   
   

@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>128</Cost>
+  <Cost>90</Cost>
   <RepairDifficulty>7</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -25,7 +25,7 @@
   <Name>Cardassian Bulwark Field Generator</Name>
   <IconTexturePath>Modules/ORBITAL_SHEAILD_2X2_MK2</IconTexturePath>
   <Mass>6000</Mass>
-  <HealthMax>56188</HealthMax>
+  <HealthMax>21239</HealthMax>
   
   <Description>A larger field generator for the pickets, with a wider cover and a deeper store of power. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian platform shields, size for size, it is the lightest and the cheapest to build, but holds the least energy.</Description>
   
@@ -36,7 +36,7 @@
   <DescriptionIndex>30665</DescriptionIndex>
 
   <!-- for shield items -->
-  <ShieldPowerMax>70000</ShieldPowerMax>
+  <ShieldPowerMax>63000</ShieldPowerMax>
   <ShieldRechargeDelay>5</ShieldRechargeDelay>
   <ShieldRechargeRate>3200</ShieldRechargeRate>
   <ShieldRadius>120</ShieldRadius>
@@ -46,4 +46,5 @@
   <ShieldKineticResist>0.37</ShieldKineticResist>
   <PlasmaResist>1.03</PlasmaResist>
   <Deflection>90</Deflection>
+  <ShieldPlasmaResist>0.296</ShieldPlasmaResist>
 </ShipModule>

@@ -14,7 +14,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>80</Cost>
+  <Cost>108</Cost>
 
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
@@ -31,7 +31,7 @@
 
   <IconTexturePath>Modules/frigate_shealds</IconTexturePath>
   <Mass>46</Mass>
-  <HealthMax>30100</HealthMax>
+  <HealthMax>39732</HealthMax>
   
   <Description>The deflector grid of the Suurok-class, the Vulcan science ship. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build.</Description>
   
@@ -51,4 +51,5 @@
   <ShieldBeamResist>0.45</ShieldBeamResist>
   <ShieldKineticResist>-0.22</ShieldKineticResist>
   <Deflection>100</Deflection>
+  <ShieldPlasmaResist>-0.176</ShieldPlasmaResist>
 </ShipModule>

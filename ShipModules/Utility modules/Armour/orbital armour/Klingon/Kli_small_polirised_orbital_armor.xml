@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>3</Cost>
+  <Cost>4</Cost>
 
   <FighterModule>true</FighterModule>
   <CorvetteModule>true</CorvetteModule>
@@ -47,18 +47,19 @@
 
   <!-- Mass and Health -->
   <Mass>4</Mass>
-  <HealthMax>10050</HealthMax>
+  <HealthMax>8181</HealthMax>
   <RepairDifficulty>1</RepairDifficulty>
   <Deflection>0</Deflection>          
   <!-- Armor resistance -->
-  <KineticResist>0.06</KineticResist>
-  <BeamResist>0</BeamResist>  
-  <PlasmaResist>0</PlasmaResist>
-  <ExplosiveResist>0.12</ExplosiveResist>
+  <KineticResist>-0.05</KineticResist>
+  <BeamResist>0.05</BeamResist>  
+  <PlasmaResist>-0.05</PlasmaResist>
+  <ExplosiveResist>0.17</ExplosiveResist>
 
   <!-- Description -->
   <Description>Polarised plate for the ring of a fortress station, built to withstand a long siege. Some protection against kinetic rounds and explosions. Of the Klingon orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile.</Description>
   <APResist>1</APResist>
   
 
+  <EnergyResist>0.05</EnergyResist>
 </ShipModule>

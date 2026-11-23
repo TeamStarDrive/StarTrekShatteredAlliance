@@ -6,7 +6,7 @@
   <UID>cardasian_fighter_beam</UID>
   <IsBeam>true</IsBeam>
   <FireDelay>2</FireDelay>
-  <Range>6000</Range>
+  <Range>5400</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
   <BeamDuration>1.5</BeamDuration>
@@ -21,7 +21,7 @@
   <!-- Projectile Information -->
   <BeamTexture>car_disruptorbeam</BeamTexture>
   <EffectVsShields>1</EffectVsShields>
-  <DamageAmount>37</DamageAmount>
+  <DamageAmount>33</DamageAmount>
   <BeamThickness>20</BeamThickness>
   <BeamPowerCostPerSecond>2000</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>

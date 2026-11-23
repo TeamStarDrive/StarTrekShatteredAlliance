@@ -3,7 +3,7 @@
 
   <DroneModule>false</DroneModule>
 
-  <Cost>45</Cost>
+  <Cost>36</Cost>
   <TechLevel>2</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -14,7 +14,7 @@
   <UID>borg_gravametric_cannon_mk2</UID>
   <IconTexturePath>Modules/borg_gravametric_cannon_mk2</IconTexturePath>
   <Mass>15</Mass>
-  <HealthMax>15975</HealthMax>
+  <HealthMax>17924</HealthMax>
   <Description>A heavier gravimetric cannon, fitted to larger vessels. Of the Borg cannon weapons, it fires the slowest.</Description>
   
   

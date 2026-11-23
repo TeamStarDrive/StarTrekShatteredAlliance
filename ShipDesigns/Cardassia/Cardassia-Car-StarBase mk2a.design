@@ -13,7 +13,7 @@ IsShipyard=false
 IsOrbitalDefense=false
 IsCarrierOnly=false
 # Maps module UIDs to Index, first UID has index 0
-ModuleUIDs=Organic_Bioplates_Small;Organic_Bioplates_Large;Raider_Bay;FighterBay;Organic_Bioplates_Med;BosonTransmiter;OrdnanceLockerSmall;station_phasor_beem_mk1;RepairDrone;EnergyPDHeavy;Bridge;AdvAmplifier;station_deflector_mk1;OrdnanceLocker;TorpedoBay_2x1;MarineBarracks2x2;Reinforced Bulkhead;warpcore_2x2;SubspaceSensors;Cockpit
+ModuleUIDs=Car_Organic_Bioplates_Small;Car_Organic_Bioplates_Large;Raider_Bay;FighterBay;Car_Organic_Bioplates_Med;BosonTransmiter;OrdnanceLockerSmall;Car_station_phasor_beem_mk1;RepairDrone;EnergyPDHeavy;Bridge;AdvAmplifier;Car_station_deflector_mk1;OrdnanceLocker;TorpedoBay_2x1;MarineBarracks2x2;Reinforced Bulkhead;warpcore_2x2;SubspaceSensors;Cockpit
 Modules=491
 # gridX,gridY;moduleUIDIndex;sizeX,sizeY;turretAngle;moduleRot;hangarShipUID
 25,0;0
