@@ -21,20 +21,20 @@
   <UID>MRM mk1</UID>
   
   <ExcludesFighters>true</ExcludesFighters>  
-  <HitPoints>15</HitPoints>
-  <FireDelay>9</FireDelay>
+  <HitPoints>38</HitPoints>
+  <FireDelay>37.5</FireDelay>
   <Range>5000</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>8</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>64</OrdinanceRequiredToFire>
   <TerminalPhaseAttack>true</TerminalPhaseAttack>      
   <TerminalPhaseDistance>1000</TerminalPhaseDistance>      
   <TerminalPhaseSpeedMod>3.5</TerminalPhaseSpeedMod>  
   
 <!-- Projectile stats -->
-  <DamageAmount>800</DamageAmount>
+  <DamageAmount>6400</DamageAmount>
   <ProjectileSpeed>1200</ProjectileSpeed>
   <ExplosionRadius>30</ExplosionRadius> <!-- This projectile explodes -->
-  <SalvoCount>2</SalvoCount>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>0.5</SalvoTimer>
   <ProjectileRadius>4</ProjectileRadius>
   <RotationRadsPerSecond>1.2</RotationRadsPerSecond>

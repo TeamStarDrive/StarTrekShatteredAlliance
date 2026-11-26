@@ -21,17 +21,17 @@
 
   <UID>plasma_torpedo</UID>
   <Range>15400</Range>
-  <PowerRequiredToFire>1900</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>15</OrdinanceRequiredToFire>
+  <PowerRequiredToFire>15200</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>120</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>5</HitPoints>
-  <SalvoCount>2</SalvoCount>
+  <HitPoints>12</HitPoints>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>8</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   
   <!-- Projectile Information -->
-  <DamageAmount>18984</DamageAmount>
+  <DamageAmount>1029696</DamageAmount>
   <ExplosionRadius>100</ExplosionRadius>
   <ShieldPenChance>0.2</ShieldPenChance>
   <MuzzleFlash>Yes</MuzzleFlash>
@@ -57,7 +57,7 @@
 
   <DieCue>Explo1</DieCue>
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
-  <FireDelay>8</FireDelay>
+  <FireDelay>56</FireDelay>
   <EffectVsArmor>1.12</EffectVsArmor>
-  <PowerDamage>290</PowerDamage>
+  <PowerDamage>2320</PowerDamage>
 </Weapon>

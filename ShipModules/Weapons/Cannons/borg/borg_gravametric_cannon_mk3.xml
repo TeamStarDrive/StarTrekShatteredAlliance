@@ -3,7 +3,7 @@
 
   <DroneModule>false</DroneModule>
 
-  <Cost>48</Cost>
+  <Cost>69</Cost>
   <TechLevel>4</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/borg_gravametric_cannon_mk3</IconTexturePath>
   <Mass>50</Mass>
   <HealthMax>33632</HealthMax>
-  <Description>The largest gravimetric cannon the Collective mounts on a ship. Of the Borg cannon weapons, it hits the hardest and reaches the farthest.</Description>
+  <Description>The largest gravimetric cannon the Collective mounts on a ship.</Description>
   
   
   <PowerDraw>7</PowerDraw>

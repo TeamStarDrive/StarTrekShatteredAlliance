@@ -23,14 +23,14 @@
 
   <MirvWeapon>Dissolver_TorpedoMirv</MirvWeapon>
   <MirvSeparationDistance>2000</MirvSeparationDistance>  
-  <HitPoints>50</HitPoints>
-  <FireDelay>10</FireDelay>
+  <HitPoints>125</HitPoints>
+  <FireDelay>40</FireDelay>
   <Range>7500</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>36</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>144</OrdinanceRequiredToFire>
  
 <!-- Projectile stats -->
-  <DamageAmount>1000</DamageAmount>
+  <DamageAmount>4000</DamageAmount>
   <ProjectileSpeed>1050</ProjectileSpeed>
   <ExplosionRadius>32</ExplosionRadius> <!-- This projectile explodes -->
   <ProjectileRadius>15</ProjectileRadius>

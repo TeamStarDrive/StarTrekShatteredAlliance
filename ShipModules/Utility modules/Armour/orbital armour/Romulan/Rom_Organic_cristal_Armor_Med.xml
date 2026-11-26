@@ -41,6 +41,6 @@
     <PlasmaResist>-0.05</PlasmaResist>
 
     <!-- Description -->
-    <Description>Crystal grown through living tissue from the dilithium dust of the Remus mines. Strong protection against kinetic rounds, beams, energy fire, plasma and explosions. Of the Romulan orbital plates of its size, it is the best protected against plasma and the best against armour-piercing rounds, but the costliest to build.</Description>
+    <Description>Crystal grown through living tissue from the dilithium dust of the Remus mines. Strong protection against kinetic rounds, beams, energy fire, plasma and explosions.</Description>
     <APResist>2</APResist>    
 </ShipModule>

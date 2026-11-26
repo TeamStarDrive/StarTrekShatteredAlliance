@@ -13,7 +13,7 @@
   <StationModule>true</StationModule>
   <DroneModule>false</DroneModule>
 
-  <Cost>40</Cost>
+  <Cost>57</Cost>
   <TechLevel>1</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -25,7 +25,7 @@
   <IconTexturePath>Modules/orbital_weapons_platform</IconTexturePath>
   <Mass>29</Mass>
   <HealthMax>20872</HealthMax>
-  <Description>A weapon array for the nodes that guard the Collective's space. Of the Borg orbital cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
+  <Description>A weapon array for the nodes that guard the Collective's space.</Description>
   
   
   <PowerDraw>10</PowerDraw>

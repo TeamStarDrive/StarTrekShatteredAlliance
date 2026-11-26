@@ -21,11 +21,11 @@
 
   <UID>romulan_disrupter_beam_mk2</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>6</FireDelay>
+  <FireDelay>7.2</FireDelay>
   <Range>8000</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2</BeamDuration>
+  <BeamDuration>0.8</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
@@ -33,10 +33,10 @@
   <BeamTexture>fed_phaser</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>44</DamageAmount>
+  <DamageAmount>372</DamageAmount>
   <ShieldPenChance>0.2</ShieldPenChance>
   <BeamThickness>10</BeamThickness>
-  <BeamPowerCostPerSecond>220</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>550</BeamPowerCostPerSecond>
   <EffectVsArmor>1.30</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>
  

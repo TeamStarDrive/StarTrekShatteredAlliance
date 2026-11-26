@@ -12,7 +12,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>216</Cost>
+  <Cost>282</Cost>
   <RepairDifficulty>9</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -28,7 +28,7 @@
   <Mass>9000</Mass>
   <HealthMax>41972</HealthMax>
   
-  <Description>A shield emitter for a ketracel-white depot, which the Dominion guards as it guards nothing else. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Dominion station shields, size for size, it draws the least power and is the cheapest to build, but holds the least energy.</Description>
+  <Description>A shield emitter for a ketracel-white depot, which the Dominion guards as it guards nothing else. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>900</PowerDraw>

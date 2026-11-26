@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>141</Cost>
+  <Cost>184</Cost>
   <RepairDifficulty>8</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -27,7 +27,7 @@
   <Mass>7000</Mass>
   <HealthMax>44960</HealthMax>
   
-  <Description>A phase-shifted shield for the defence platforms of the Dominion. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Dominion platform shields, size for size, it covers the widest area, but draws the most power.</Description>
+  <Description>A phase-shifted shield for the defence platforms of the Dominion. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>450</PowerDraw>

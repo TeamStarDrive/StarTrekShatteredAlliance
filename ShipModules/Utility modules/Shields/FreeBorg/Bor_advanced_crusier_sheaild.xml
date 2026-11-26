@@ -14,7 +14,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>88</Cost>
+  <Cost>126</Cost>
   <TechLevel>4</TechLevel>
 
   <RepairDifficulty>4</RepairDifficulty>
@@ -31,7 +31,7 @@
   <Mass>91</Mass>
   <HealthMax>56324</HealthMax>
   
-  <Description>The matrix samples the frequencies of enemy weapons and remodulates the shield grid to match them. "We are the Borg. You will be assimilated. Resistance is futile." (The Borg Collective, VOY: "Scorpion") Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Borg ship shields, size for size, it is the quickest to come back after being knocked down.</Description>
+  <Description>The matrix samples the frequencies of enemy weapons and remodulates the shield grid to match them. "We are the Borg. You will be assimilated. Resistance is futile." (The Borg Collective, VOY: "Scorpion") Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>200</PowerDraw>

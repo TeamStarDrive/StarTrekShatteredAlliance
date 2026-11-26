@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-    <Cost>10</Cost>
+    <Cost>12</Cost>
     <!-- Tech Level -->
     <TechLevel>5</TechLevel>
     <TechBranch>Armor</TechBranch>
@@ -41,6 +41,6 @@
     <PlasmaResist>-0.05</PlasmaResist>
 
     <!-- Description -->
-    <Description>Crystal grown through a living scaffold from reclaimed material, which seals cracks as they open. Strong protection against kinetic rounds, beams, energy fire, plasma and explosions. Of the Cardassian orbital plates of its size, it is the best protected against plasma and the best against armour-piercing rounds, but the costliest to build.</Description>
+    <Description>Crystal grown through a living scaffold from reclaimed material, which seals cracks as they open. Strong protection against kinetic rounds, beams, energy fire, plasma and explosions.</Description>
     <APResist>2</APResist>    
 </ShipModule>

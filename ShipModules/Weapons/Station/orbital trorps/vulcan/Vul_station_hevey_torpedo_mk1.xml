@@ -23,8 +23,8 @@
 
   <IconTexturePath>Modules/station_hevey_torpedo_mk1</IconTexturePath>
   <Mass>14000</Mass>
-  <HealthMax>93060</HealthMax>
-  <Description>The heaviest battery the High Command keeps on a station. Of the Vulcan orbital torpedo weapons, it hits the hardest and is the cheapest for its size, but fires the slowest.</Description>
+  <HealthMax>105750</HealthMax>
+  <Description>The heaviest battery the High Command keeps on a station.</Description>
   
   
   <PowerDraw>5</PowerDraw>

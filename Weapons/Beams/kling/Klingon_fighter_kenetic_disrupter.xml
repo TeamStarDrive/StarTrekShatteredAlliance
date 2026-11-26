@@ -5,11 +5,11 @@
 
   <UID>Klingon_fighter_kenetic_disrupter</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
+  <FireDelay>3.5</FireDelay>
   <Range>5600</Range>
   <PowerRequiredToFire>100</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2.5</BeamDuration>
+  <BeamDuration>1</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -22,11 +22,11 @@
   <BeamTexture>kling_disruptorbeam</BeamTexture>
   <EffectVsShields>1.40</EffectVsShields> 
   
-  <DamageAmount>21</DamageAmount>
+  <DamageAmount>108</DamageAmount>
   <BeamThickness>25</BeamThickness>
   <ShieldPenChance>15</ShieldPenChance>
   <EffectVsArmor>1.30</EffectVsArmor>
-  <BeamPowerCostPerSecond>1750</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>4375</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

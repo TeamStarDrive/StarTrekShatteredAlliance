@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/Kling_TriTorpedoMk1</IconTexturePath>
   <Mass>300</Mass>
-  <HealthMax>6919</HealthMax>
-  <Description>A launcher for trilithium torpedoes. Trilithium is volatile and has no use but as a weapon, which suits the Empire well. Of the Klingon torpedo weapons, it is the costliest for its size.</Description>
+  <HealthMax>4039</HealthMax>
+  <Description>A launcher for trilithium torpedoes. Trilithium is volatile and has no use but as a weapon, which suits the Empire well.</Description>
   
   
   <PowerDraw>5</PowerDraw>

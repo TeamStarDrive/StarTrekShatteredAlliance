@@ -23,7 +23,7 @@
 
   <!-- Mass and Health -->
   <Mass>60</Mass>
-  <HealthMax>12674</HealthMax>
+  <HealthMax>7399</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>5</PowerDraw>
@@ -34,7 +34,7 @@
   <FieldOfFire>15</FieldOfFire>
   <AccuracyPercent>0.58</AccuracyPercent>
   <!-- Description -->
-  <Description>The wing-mounted disruptor of a Bird-of-Prey, the weapon with which Klingon raiders do most of their work. Of the Klingon beam weapons, it hits the softest.</Description>
+  <Description>The wing-mounted disruptor of a Bird-of-Prey, the weapon with which Klingon raiders do most of their work.</Description>
   
 
 </ShipModule>

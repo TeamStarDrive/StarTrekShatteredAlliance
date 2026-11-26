@@ -26,9 +26,9 @@
   <Name>Klingon Ty'Gokor Shield Grid</Name>
   <IconTexturePath>Modules/starbase_sheailds</IconTexturePath>
   <Mass>11000</Mass>
-  <HealthMax>70157</HealthMax>
+  <HealthMax>40957</HealthMax>
   
-  <Description>The shield grid of Ty'Gokor, the great fortress of the Klingon Empire. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon station shields, size for size, it holds the most energy and is the lightest.</Description>
+  <Description>The shield grid of Ty'Gokor, the great fortress of the Klingon Empire. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>1400</PowerDraw>
@@ -39,9 +39,9 @@
   <!-- for shield items -->
   <ShieldPowerMax>2169000</ShieldPowerMax>
   <ShieldRechargeDelay>10</ShieldRechargeDelay>
-  <ShieldRechargeRate>6200</ShieldRechargeRate>
+  <ShieldRechargeRate>4960</ShieldRechargeRate>
   <ShieldRadius>480</ShieldRadius>
-  <ShieldRechargeCombatRate>1000</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>800</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.59</ShieldEnergyResist>
   <ShieldBeamResist>0.59</ShieldBeamResist>
   <ShieldKineticResist>0.59</ShieldKineticResist>

@@ -23,7 +23,7 @@
 
   <!-- Mass and Health -->
   <Mass>60</Mass>
-  <HealthMax>36036</HealthMax>
+  <HealthMax>21037</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>20</PowerDraw>
@@ -34,7 +34,7 @@
   <FieldOfFire>45</FieldOfFire>
   <AccuracyPercent>0.78</AccuracyPercent>
   <!-- Description -->
-  <Description>The heavy disruptor bank of the Vor'cha-class attack cruiser. Of the Klingon beam weapons, it fires the fastest and does the most to armour.</Description>
+  <Description>The heavy disruptor bank of the Vor'cha-class attack cruiser.</Description>
   
 
 </ShipModule>

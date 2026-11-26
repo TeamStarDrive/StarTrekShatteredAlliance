@@ -20,14 +20,14 @@
 
 <UID>Fighter Torpedo</UID>
 
-  <HitPoints>30</HitPoints>
-  <FireDelay>7</FireDelay>
+  <HitPoints>75</HitPoints>
+  <FireDelay>28</FireDelay>
   <Range>1200</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>11</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>44</OrdinanceRequiredToFire>
   
 <!-- Projectile stats -->
-  <DamageAmount>800</DamageAmount>
+  <DamageAmount>3200</DamageAmount>
   <ProjectileSpeed>900</ProjectileSpeed>
   <ExplosionRadius>35</ExplosionRadius> <!-- This projectile explodes -->
   

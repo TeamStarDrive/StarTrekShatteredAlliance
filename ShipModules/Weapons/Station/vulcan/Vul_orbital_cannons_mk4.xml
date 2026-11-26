@@ -23,8 +23,8 @@
   <UID>Vul_orbital_cannons_mk4</UID>
   <IconTexturePath>Modules/orbital_cannons_mk4</IconTexturePath>
   <Mass>50000</Mass>
-  <HealthMax>85104</HealthMax>
-  <Description>The largest phase battery on a Vulcan fortress station. Of the Vulcan orbital cannon weapons, it hits the hardest and reaches the farthest.</Description>
+  <HealthMax>96710</HealthMax>
+  <Description>The largest phase battery on a Vulcan fortress station.</Description>
   
   
   <PowerDraw>60</PowerDraw>

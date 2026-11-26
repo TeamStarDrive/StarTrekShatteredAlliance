@@ -20,12 +20,12 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>  
   
   <UID>vul_advanced_energy_torpoedo_mk2</UID>
-  <FireDelay>8</FireDelay>
+  <FireDelay>59</FireDelay>
   <Range>15000</Range>
-  <PowerRequiredToFire>2000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>15</OrdinanceRequiredToFire>
-  <HitPoints>5</HitPoints>  
-  <SalvoCount>2</SalvoCount>
+  <PowerRequiredToFire>16000</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>120</OrdinanceRequiredToFire>
+  <HitPoints>12</HitPoints>  
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>9</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -34,7 +34,7 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>18894</DamageAmount>
+  <DamageAmount>1024808</DamageAmount>
   <ShieldPenChance>0.6</ShieldPenChance>
   <Scale>3</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>

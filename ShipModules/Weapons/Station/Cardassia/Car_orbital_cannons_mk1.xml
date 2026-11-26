@@ -12,7 +12,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
 
-  <Cost>56</Cost>
+  <Cost>68</Cost>
   <TechLevel>3</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons_mk1</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>7816</HealthMax>
-  <Description>A heavy disruptor cannon for a station's ring. Of the Cardassian orbital cannon weapons, it has the fastest shots, but fires the slowest.</Description>
+  <Description>A heavy disruptor cannon for a station's ring.</Description>
   
   
   <PowerDraw>20</PowerDraw>

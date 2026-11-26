@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>132</Cost>
+  <Cost>160</Cost>
   <RepairDifficulty>8</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -27,7 +27,7 @@
   <Mass>7000</Mass>
   <HealthMax>22751</HealthMax>
   
-  <Description>The regenerative force fields that made the orbital weapon platforms of the Chin'toka system nearly invulnerable to return fire. "Captain, I've just noticed something odd about those platforms." (Garak, DS9: "Tears of the Prophets") Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian platform shields, size for size, it covers the widest area, but draws the most power.</Description>
+  <Description>The regenerative force fields that made the orbital weapon platforms of the Chin'toka system nearly invulnerable to return fire. "Captain, I've just noticed something odd about those platforms." (Garak, DS9: "Tears of the Prophets") Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>450</PowerDraw>

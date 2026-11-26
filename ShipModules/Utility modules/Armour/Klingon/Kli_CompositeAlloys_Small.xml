@@ -37,7 +37,7 @@
 
   <!-- Mass and Health -->
   <Mass>7</Mass>
-  <HealthMax>3826</HealthMax>
+  <HealthMax>2233</HealthMax>
   <RepairDifficulty>1.25</RepairDifficulty>
   <Deflection>0</Deflection>              
   <!-- Armor resistance -->
@@ -48,7 +48,7 @@
   <ExplosiveResist>0.21</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Alloys folded in layers like the blade of a bat'leth, each fold adding strength to the edge. Good protection against explosions, some protection against kinetic rounds. Of the Klingon ship plates of its size, it is the weakest against beams.</Description>
+  <Description>Alloys folded in layers like the blade of a bat'leth, each fold adding strength to the edge. Good protection against explosions, some protection against kinetic rounds.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

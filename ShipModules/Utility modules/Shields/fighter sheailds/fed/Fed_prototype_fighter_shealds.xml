@@ -28,9 +28,9 @@
 
   <IconTexturePath>Modules/prototype_fighter_shealds</IconTexturePath>
   <Mass>10</Mass>
-  <HealthMax>3192</HealthMax>
+  <HealthMax>3875</HealthMax>
   
-  <Description>A test emitter that carries the shield harmonics on a tighter subspace field. It is a prototype, and the engineers still tune it by hand. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet fighter shields, size for size, it is the quickest to come back after being knocked down and draws the least power.</Description>
+  <Description>A test emitter that carries the shield harmonics on a tighter subspace field. It is a prototype, and the engineers still tune it by hand. Good protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>40</PowerDraw>

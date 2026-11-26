@@ -23,8 +23,8 @@
   <UID>Fed_orbital_cannons_mk4</UID>
   <IconTexturePath>Modules/orbital_cannons_mk4</IconTexturePath>
   <Mass>50000</Mass>
-  <HealthMax>73499</HealthMax>
-  <Description>The largest phaser battery on a Starbase, with an emitter spread wide to cover a whole sector of sky. Of the Starfleet orbital cannon weapons, it hits the hardest and reaches the farthest.</Description>
+  <HealthMax>89231</HealthMax>
+  <Description>The largest phaser battery on a Starbase, with an emitter spread wide to cover a whole sector of sky.</Description>
   
   
   <PowerDraw>60</PowerDraw>

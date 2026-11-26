@@ -28,11 +28,11 @@
   </ExcludedDTraits>
   
   <!-- Rebel Faction data.-->
-  <RebelName>Collective Loyalists</RebelName>
-  <RebelSing>Loyalist</RebelSing>
-  <RebelPlur>Loyalists</RebelPlur>
-  <TroopNameIndex>40114</TroopNameIndex>
-  <TroopDescriptionIndex>40115</TroopDescriptionIndex>
+  <RebelName>Confederate Rebels</RebelName>
+  <RebelSing>Confederate</RebelSing>
+  <RebelPlur>Confederates</RebelPlur>
+  <TroopNameIndex>2083</TroopNameIndex>
+  <TroopDescriptionIndex>2092</TroopDescriptionIndex>
 
   <!-- Fertility multipliers for environments. The default is 1 in the code, but the tags are included here for reference -->
   <EnvTerran>1</EnvTerran>
@@ -87,10 +87,10 @@
     <Adj2>drone</Adj2>
     <HomeSystemName>Unimatrix 01</HomeSystemName>
     <HomeworldName>One of Seven</HomeworldName>
-    <FlagIndex>7</FlagIndex>
-    <R>255</R>
-    <G>255</G>
-    <B>255</B>
+    <FlagIndex>1</FlagIndex>
+    <R>110</R>
+    <G>230</G>
+    <B>60</B>
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>

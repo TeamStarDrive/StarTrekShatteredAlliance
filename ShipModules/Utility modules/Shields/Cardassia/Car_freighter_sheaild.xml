@@ -12,7 +12,7 @@
   <FreighterModule>true</FreighterModule>
   <PlatformModule>false</PlatformModule>
   <StationModule>false</StationModule>
-  <Cost>7</Cost>
+  <Cost>8</Cost>
 
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>2</TechLevel>
@@ -31,7 +31,7 @@
   <Mass>16</Mass>
   <HealthMax>1096</HealthMax>
   
-  <Description>Modest generator for the Union's freighters and transports, enough to turn away raiders and little else. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
+  <Description>Modest generator for the Union's freighters and transports, enough to turn away raiders and little else. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>15</PowerDraw>

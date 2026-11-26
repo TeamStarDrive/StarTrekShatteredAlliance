@@ -25,9 +25,9 @@
   <Name>Vulcan Surak Defence Field</Name>
   <IconTexturePath>Modules/ORBITAL_SHEAILD_2X2_MK2</IconTexturePath>
   <Mass>6000</Mass>
-  <HealthMax>74168</HealthMax>
+  <HealthMax>84282</HealthMax>
   
-  <Description>A larger defence field, calculated to cover its station completely. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Vulcan platform shields, size for size, it is the lightest and the cheapest to build, but holds the least energy.</Description>
+  <Description>A larger defence field, calculated to cover its station completely. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>450</PowerDraw>

@@ -37,7 +37,7 @@
 
   <!-- Mass and Health -->
   <Mass>19120</Mass>
-  <HealthMax>89084</HealthMax>
+  <HealthMax>108151</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>9</PowerDraw>
@@ -47,7 +47,7 @@
   <FieldOfFire>180</FieldOfFire>
 
   <!-- Description -->
-  <Description>The heavy lance of the Federation's defence grid, focused through a rotating phase discriminator. Of the Starfleet orbital beam weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
+  <Description>The heavy lance of the Federation's defence grid, focused through a rotating phase discriminator.</Description>
   
 
 </ShipModule>

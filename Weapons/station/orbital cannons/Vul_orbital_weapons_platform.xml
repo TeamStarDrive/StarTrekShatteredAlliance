@@ -20,9 +20,9 @@
   
   <UID>Vul_orbital_weapons_platform</UID>
   <Range>7700</Range>
-  <PowerRequiredToFire>90</PowerRequiredToFire>
+  <PowerRequiredToFire>1800</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <SalvoCount>5</SalvoCount>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>3</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -38,7 +38,7 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>1519</DamageAmount>
+  <DamageAmount>257460</DamageAmount>
   <ProjectileSpeed>3200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>1.0</Scale>
@@ -48,5 +48,5 @@
   <ModelPath>projTear</ModelPath>
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
   <WeaponType>Phaser Cannons</WeaponType>
-  <FireDelay>3</FireDelay>
+  <FireDelay>21</FireDelay>
 </Weapon>

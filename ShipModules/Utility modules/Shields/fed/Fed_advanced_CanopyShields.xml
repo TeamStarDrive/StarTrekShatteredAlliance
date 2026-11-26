@@ -16,9 +16,9 @@
   <Name>Fed_advanced_CanopyShields</Name>
   <IconTexturePath>Modules/advanced_CanopyShields</IconTexturePath>
   <Mass>250</Mass>
-  <HealthMax>125019</HealthMax>
+  <HealthMax>151778</HealthMax>
   
-  <Description>An experimental canopy that applies transphasic subspace compression to the field. The phase configuration is randomised so it cannot be predicted. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
+  <Description>An experimental canopy that applies transphasic subspace compression to the field. The phase configuration is randomised so it cannot be predicted. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>1400</PowerDraw>

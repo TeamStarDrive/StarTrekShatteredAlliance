@@ -18,7 +18,7 @@
   <Mass>250</Mass>
   <HealthMax>73575</HealthMax>
   
-  <Description>The canopy of the Praetor's own ships, with every emitter locked together. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Romulan ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
+  <Description>The canopy of the Praetor's own ships, with every emitter locked together. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>1400</PowerDraw>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <Cost>26</Cost>
+    <Cost>35</Cost>
     <FighterModule>false</FighterModule>
     <!-- Tech Level -->
     <TechLevel>5</TechLevel>
@@ -31,6 +31,6 @@
     <PlasmaResist>0.20</PlasmaResist>
 
     <!-- Description -->
-    <Description>Ablative plate for attack ships, made to burn away while the ship flies on, since the Dominion expects its crews to be spent as well. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Dominion ship plates of its size, it is the toughest and the best protected against beams, but the costliest to build.</Description>
+    <Description>Ablative plate for attack ships, made to burn away while the ship flies on, since the Dominion expects its crews to be spent as well. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma.</Description>
     <APResist>2</APResist>
 </ShipModule>

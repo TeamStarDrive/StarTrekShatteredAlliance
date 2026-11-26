@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>28</Mass>
-  <HealthMax>34364</HealthMax>
+  <HealthMax>41719</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>15</PowerDraw>
@@ -35,7 +35,7 @@
   <FieldOfFire>90</FieldOfFire>
 
   <!-- Description -->
-  <Description>The array of the Federation's great cruisers, with the beam focused through a rotating phase discriminator. Of the Starfleet beam weapons, it hits the hardest and fires the fastest.</Description>
+  <Description>The array of the Federation's great cruisers, with the beam focused through a rotating phase discriminator.</Description>
   
 
 </ShipModule>

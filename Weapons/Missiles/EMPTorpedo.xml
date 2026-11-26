@@ -19,17 +19,17 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>   
   
 <UID>EMPTorpedo</UID>
-  <HitPoints>100</HitPoints>
-  <FireDelay>12</FireDelay>
+  <HitPoints>250</HitPoints>
+  <FireDelay>48</FireDelay>
   <Range>7500</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>16</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>64</OrdinanceRequiredToFire>
   
 <!-- Projectile stats -->
   <ProjectileCount>1</ProjectileCount>
   <FireArc>15</FireArc>             <!--for shotgun effect-->
-  <EMPDamage>9000</EMPDamage>
-  <DamageAmount>2000</DamageAmount>  
+  <EMPDamage>36000</EMPDamage>
+  <DamageAmount>8000</DamageAmount>  
   <ProjectileSpeed>1050</ProjectileSpeed>
   <ExplosionRadius>40</ExplosionRadius> <!-- This projectile explodes -->
   <SalvoCount>1</SalvoCount>

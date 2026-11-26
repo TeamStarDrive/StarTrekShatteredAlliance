@@ -30,6 +30,6 @@
     <ExplosiveResist>0.16</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Layered alloys made to the exact specification of the Praetorate, with no allowance for anything less. Good protection against explosions, some protection against kinetic rounds. Of the Romulan ship plates of its size, it is the weakest against beams.</Description>
+    <Description>Layered alloys made to the exact specification of the Praetorate, with no allowance for anything less. Good protection against explosions, some protection against kinetic rounds.</Description>
     <APResist>1</APResist>    
 </ShipModule>

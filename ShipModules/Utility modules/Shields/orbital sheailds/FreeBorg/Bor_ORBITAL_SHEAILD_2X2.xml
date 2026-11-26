@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>70</Cost>
+  <Cost>101</Cost>
   <RepairDifficulty>6</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -27,7 +27,7 @@
   <Mass>5000</Mass>
   <HealthMax>51823</HealthMax>
   
-  <Description>A field for outlying nodes, sampling every shot and learning from it. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Borg platform shields, size for size, it holds the most energy and recharges the fastest, but covers the narrowest area.</Description>
+  <Description>A field for outlying nodes, sampling every shot and learning from it. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>100</PowerDraw>

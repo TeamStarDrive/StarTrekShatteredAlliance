@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-    <Cost>20</Cost>
+    <Cost>24</Cost>
     <FighterModule>false</FighterModule>
     <!-- Tech Level -->
     <TechLevel>4</TechLevel>
@@ -42,6 +42,6 @@
     <ExplosiveResist>0.6</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Living plate regrown from reclaimed waste. A people short of resources learn to waste nothing, armour included. Strong protection against every kind of fire. Of the Cardassian orbital plates of its size, it is the best protected against explosions.</Description>
+    <Description>Living plate regrown from reclaimed waste. A people short of resources learn to waste nothing, armour included. Strong protection against every kind of fire.</Description>
     <APResist>1</APResist>    
 </ShipModule>

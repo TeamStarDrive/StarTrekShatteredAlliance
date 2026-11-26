@@ -5,11 +5,11 @@
 
   <UID>FusionBeam</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
+  <FireDelay>2.25</FireDelay>
   <Range>5600</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>0.5</BeamDuration>
+  <BeamDuration>0.25</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
 
@@ -20,9 +20,9 @@
   <BeamTexture>beam_purple</BeamTexture>
   <EffectVsShields>0.90</EffectVsShields> 
   
-  <DamageAmount>17</DamageAmount>
+  <DamageAmount>34</DamageAmount>
   <BeamThickness>24</BeamThickness>
-  <BeamPowerCostPerSecond>752</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>1504</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

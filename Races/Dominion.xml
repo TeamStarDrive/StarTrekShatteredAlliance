@@ -55,11 +55,11 @@
     <string>Industrialists</string>
   </EconomicTraitsWeights>
   <!-- Rebel Faction data.-->
-  <RebelName>Jem'Hadar Deserters</RebelName>
-  <RebelSing>Jem'Hadar Deserter</RebelSing>
-  <RebelPlur>Jem'Hadar Deserters</RebelPlur>
-  <TroopNameIndex>40112</TroopNameIndex>
-  <TroopDescriptionIndex>40113</TroopDescriptionIndex>
+  <RebelName>Confederate Rebels</RebelName>
+  <RebelSing>Confederate</RebelSing>
+  <RebelPlur>Confederates</RebelPlur>
+  <TroopNameIndex>2083</TroopNameIndex>
+  <TroopDescriptionIndex>2092</TroopDescriptionIndex>
 
   <Traits>
     <Name>Dominion</Name>
@@ -71,10 +71,10 @@
     <Adj2>simian</Adj2>
     <HomeSystemName>Omarion</HomeSystemName>
     <HomeworldName>The Great Link</HomeworldName>
-    <FlagIndex>10</FlagIndex>
-    <R>306</R>
-    <G>306</G>
-    <B>706</B>
+    <FlagIndex>6</FlagIndex>
+    <R>140</R>
+    <G>90</G>
+    <B>215</B>
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>

@@ -12,7 +12,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
 
-  <Cost>98</Cost>
+  <Cost>128</Cost>
   <TechLevel>6</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons_mk4</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>48648</HealthMax>
-  <Description>The largest battery of the strongholds that guard the Founders' homeworld. Of the Dominion orbital cannon weapons, it hits the hardest and reaches the farthest.</Description>
+  <Description>The largest battery of the strongholds that guard the Founders' homeworld.</Description>
   
   
   <PowerDraw>60</PowerDraw>

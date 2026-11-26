@@ -20,17 +20,17 @@
   <ExcludesFighters>true</ExcludesFighters>  
   
   <UID>auto_turets_mk2</UID>
-  <FireDelay>5</FireDelay>
+  <FireDelay>25.85</FireDelay>
   <Range>6500</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>2</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>24</OrdinanceRequiredToFire>
 
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_flakcannon_01</FireCueName>
   <DieCue>Explo1</DieCue>
   <!-- Projectile Information -->
-  <DamageAmount>950</DamageAmount>
+  <DamageAmount>11400</DamageAmount>
   <Scale>1.5</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>1850</ProjectileSpeed>
@@ -39,7 +39,7 @@
   
   <ProjectileTexturePath>projTear_02_orange</ProjectileTexturePath>
   <ModelPath>projTear</ModelPath>
-  <SalvoCount>6</SalvoCount>
+  <SalvoCount>2</SalvoCount>
   <SalvoTimer>1.95</SalvoTimer>
   <ShieldPenChance>0.3</ShieldPenChance>
   <!--the projectile count is spread over the fire arc-->

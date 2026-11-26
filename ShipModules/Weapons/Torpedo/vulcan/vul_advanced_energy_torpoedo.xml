@@ -13,7 +13,7 @@
 
   <IconTexturePath>Modules/advanced_energy_torpoedo</IconTexturePath>
   <Mass>200</Mass>
-  <HealthMax>24420</HealthMax>
+  <HealthMax>27750</HealthMax>
   <Description>A launcher with a charged energy torpedo, tuned for greater effect.</Description>
   
   

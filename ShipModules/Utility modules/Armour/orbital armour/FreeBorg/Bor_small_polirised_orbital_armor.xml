@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>2</Cost>
+  <Cost>3</Cost>
 
   <FighterModule>true</FighterModule>
   <CorvetteModule>true</CorvetteModule>
@@ -57,7 +57,7 @@
   <ExplosiveResist>0.17</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Plate for the ring of a Borg node, holding its shape while the drones repair what the enemy has damaged. Some protection against kinetic rounds and explosions. Of the Borg orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile.</Description>
+  <Description>Plate for the ring of a Borg node, holding its shape while the drones repair what the enemy has damaged. Some protection against kinetic rounds and explosions.</Description>
   <APResist>1</APResist>
   
 

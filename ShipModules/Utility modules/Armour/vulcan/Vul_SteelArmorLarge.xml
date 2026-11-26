@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>54</Mass>
-  <HealthMax>33000</HealthMax>
+  <HealthMax>37500</HealthMax>
 
   <!-- Armor resistance -->
     <KineticResist>-0.05</KineticResist>
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.04</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Plain plate for the starships of the Vulcan High Command, cut to the exact dimensions the design calls for and nothing more. Gives almost no protection against fire; it is there to soak up damage. Of the Vulcan ship plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile.</Description>
+  <Description>Plain plate for the starships of the Vulcan High Command, cut to the exact dimensions the design calls for and nothing more. Gives almost no protection against fire; it is there to soak up damage.</Description>
   
 
 </ShipModule>

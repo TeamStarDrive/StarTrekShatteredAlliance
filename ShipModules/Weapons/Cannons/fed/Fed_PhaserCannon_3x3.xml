@@ -14,8 +14,8 @@
   <UID>Fed_PhaserCannon_3x3</UID>
   <IconTexturePath>Modules/Fed_PhaserCannon_3x3</IconTexturePath>
   <Mass>50</Mass>
-  <HealthMax>13763</HealthMax>
-  <Description>A larger pulse cannon, driven by a faster phase cycle for sustained fire. Of the Starfleet cannon weapons, it reaches the farthest and fires the fastest, but has the slowest shots.</Description>
+  <HealthMax>16709</HealthMax>
+  <Description>A larger pulse cannon, driven by a faster phase cycle for sustained fire.</Description>
   
   
   <PowerDraw>4</PowerDraw>

@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/Klingon_cloaked_torpedo</IconTexturePath>
   <Mass>350</Mass>
-  <HealthMax>7733</HealthMax>
-  <Description>A launcher built for firing from under cloak, in the manner of the later cloaking prototypes that could fire while cloaked. Of the Klingon torpedo weapons, it reaches the farthest and fires the fastest, but has the smallest blast.</Description>
+  <HealthMax>4514</HealthMax>
+  <Description>A launcher built for firing from under cloak, in the manner of the later cloaking prototypes that could fire while cloaked.</Description>
   
   
   <PowerDraw>5</PowerDraw>

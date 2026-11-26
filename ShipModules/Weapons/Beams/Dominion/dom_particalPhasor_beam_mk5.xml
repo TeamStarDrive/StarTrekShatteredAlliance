@@ -4,7 +4,7 @@
   <UID>dom_particalPhasor_beam_mk5</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>106</Cost>
+  <Cost>138</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>5</TechLevel>
 
@@ -35,7 +35,7 @@
   <FieldOfFire>60</FieldOfFire>
 
   <!-- Description -->
-  <Description>A polaron lance reserved for the ships that carry a Vorta's orders. Of the Dominion beam weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
+  <Description>A polaron lance reserved for the ships that carry a Vorta's orders.</Description>
   
 
 </ShipModule>

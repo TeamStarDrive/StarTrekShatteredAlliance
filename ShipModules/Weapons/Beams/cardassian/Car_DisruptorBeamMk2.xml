@@ -4,7 +4,7 @@
   <UID>Car_DisruptorBeamMk2</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>77</Cost>
+  <Cost>94</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>2</TechLevel>
 
@@ -35,7 +35,7 @@
   <FieldOfFire>30</FieldOfFire>
 
   <!-- Description -->
-  <Description>The array carried by Galor-class cruisers, the workhorse of the Cardassian fleet. Of the Cardassian beam weapons, it fires the fastest, but does the least to armour.</Description>
+  <Description>The array carried by Galor-class cruisers, the workhorse of the Cardassian fleet.</Description>
   
 
 </ShipModule>

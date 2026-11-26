@@ -12,7 +12,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
 
-  <Cost>63</Cost>
+  <Cost>77</Cost>
   <TechLevel>4</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons_mk2</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>7816</HealthMax>
-  <Description>A battery of cannons spread around a station's habitat ring. Of the Cardassian orbital cannon weapons, it has the fastest shots.</Description>
+  <Description>A battery of cannons spread around a station's habitat ring.</Description>
   
   
   <PowerDraw>30</PowerDraw>

@@ -37,7 +37,7 @@
 
   <!-- Mass and Health -->
   <Mass>8000</Mass>
-  <HealthMax>15564</HealthMax>
+  <HealthMax>9086</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>5</PowerDraw>
@@ -47,7 +47,7 @@
   <FieldOfFire>360</FieldOfFire>
 
   <!-- Description -->
-  <Description>A disruptor lance for outposts on the frontier. Of the Klingon orbital beam weapons, it is the sturdiest for its size, but hits the softest.</Description>
+  <Description>A disruptor lance for outposts on the frontier.</Description>
   
 
 </ShipModule>

@@ -30,7 +30,7 @@
     <DescriptionIndex>30309</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>32000</Mass>
-    <HealthMax>112860</HealthMax>
+    <HealthMax>137016</HealthMax>
     <RepairDifficulty>1.5</RepairDifficulty>
     <Deflection>0</Deflection>
     <!-- Armor resistance -->
@@ -41,6 +41,6 @@
     <PlasmaResist>-0.05</PlasmaResist>
 
     <!-- Description -->
-    <Description>A crystal lattice seeded on a bio-neural scaffold, which seals hairline cracks as they open. A trickle of power through the scaffold keeps the crystal growing back to its original pattern. Strong protection against kinetic rounds, beams, energy fire, plasma and explosions. Of the Starfleet orbital plates of its size, it is the best protected against plasma and the best against armour-piercing rounds, but the costliest to build.</Description>
+    <Description>A crystal lattice seeded on a bio-neural scaffold, which seals hairline cracks as they open. A trickle of power through the scaffold keeps the crystal growing back to its original pattern. Strong protection against kinetic rounds, beams, energy fire, plasma and explosions.</Description>
     <APResist>2</APResist>    
 </ShipModule>

@@ -5,11 +5,11 @@
 
   <UID>vul_particalPhasor_beam_mk4</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>6</FireDelay>
+  <FireDelay>7.5</FireDelay>
   <Range>14300</Range>
   <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2.5</BeamDuration>
+  <BeamDuration>1</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -21,9 +21,9 @@
   <!-- Projectile Information -->
   <BeamTexture>vul_phaser</BeamTexture>
   <EffectVsArmor>1.25</EffectVsArmor>
-  <DamageAmount>63</DamageAmount>
+  <DamageAmount>535</DamageAmount>
   <BeamThickness>20</BeamThickness>
-  <BeamPowerCostPerSecond>1020</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>2550</BeamPowerCostPerSecond>
   <ShieldPenChance>1</ShieldPenChance>
   <WeaponRotation>2</WeaponRotation>
 

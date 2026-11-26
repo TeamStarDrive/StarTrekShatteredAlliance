@@ -22,17 +22,17 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>  
 
   <UID>PlasmaBomb</UID>
-  <FireDelay>9</FireDelay>
+  <FireDelay>36</FireDelay>
   <Range>3000</Range>
-  <HitPoints>15</HitPoints>
-  <PowerRequiredToFire>50</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>1</OrdinanceRequiredToFire>
+  <HitPoints>38</HitPoints>
+  <PowerRequiredToFire>200</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>4</OrdinanceRequiredToFire>
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_emptorpedo</FireCueName>
   <DieCue>Explo1</DieCue>
   <InFlightCue>sd_weapon_rocket_flight_01</InFlightCue>
   <!-- Projectile Information -->
-  <DamageAmount>500</DamageAmount>
+  <DamageAmount>2000</DamageAmount>
   <ProjectileSpeed>700</ProjectileSpeed>
   <Light>Green</Light>
 

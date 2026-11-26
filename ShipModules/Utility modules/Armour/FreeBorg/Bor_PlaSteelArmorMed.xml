@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>5</Cost>
+  <Cost>7</Cost>
   <!-- Tech Level -->
   <TechLevel>1</TechLevel>
   <TechBranch>Armor</TechBranch>
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.13</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Plate extruded by assimilated fabrication nodes. Drones lay it down in the pattern the Collective has judged the most efficient. Some protection against explosions. Of the Borg ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams.</Description>
+  <Description>Plate extruded by assimilated fabrication nodes. Drones lay it down in the pattern the Collective has judged the most efficient. Some protection against explosions.</Description>
   
 
 </ShipModule>

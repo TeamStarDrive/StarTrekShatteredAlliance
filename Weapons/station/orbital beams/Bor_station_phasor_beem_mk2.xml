@@ -6,11 +6,11 @@
   
   <UID>Bor_station_phasor_beem_mk2</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
+  <FireDelay>6</FireDelay>
   <Range>17300</Range>
   <PowerRequiredToFire>500</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>5</BeamDuration>
+  <BeamDuration>1</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
@@ -19,10 +19,10 @@
   
   <!-- Projectile Information -->
   <BeamTexture>beam_purple3</BeamTexture>
-  <DamageAmount>315</DamageAmount>
+  <DamageAmount>3930</DamageAmount>
   <ShieldPenChance>0.2</ShieldPenChance>
   <BeamThickness>40</BeamThickness>
-  <BeamPowerCostPerSecond>924</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>4620</BeamPowerCostPerSecond>
   <OffPowerMod>0.3</OffPowerMod>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

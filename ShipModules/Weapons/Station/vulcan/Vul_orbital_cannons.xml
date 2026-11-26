@@ -23,8 +23,8 @@
   <UID>Vul_orbital_cannons</UID>
   <IconTexturePath>Modules/orbital_cannons</IconTexturePath>
   <Mass>5000</Mass>
-  <HealthMax>27018</HealthMax>
-  <Description>A fixed phase bank for a defence post. Of the Vulcan orbital cannon weapons, it fires the slowest.</Description>
+  <HealthMax>30702</HealthMax>
+  <Description>A fixed phase bank for a defence post.</Description>
   
   
   <PowerDraw>15</PowerDraw>

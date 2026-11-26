@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/Fed_QuantumTorpedo_Mk2</IconTexturePath>
   <Mass>350</Mass>
-  <HealthMax>17100</HealthMax>
-  <Description>An improved array for quantum torpedoes, with a compact warhead and a refined vacuum-energy core. Of the Starfleet torpedo weapons, it has the fastest shots.</Description>
+  <HealthMax>20760</HealthMax>
+  <Description>An improved array for quantum torpedoes, with a compact warhead and a refined vacuum-energy core.</Description>
   
   
   <PowerDraw>5</PowerDraw>

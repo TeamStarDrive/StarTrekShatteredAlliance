@@ -18,17 +18,17 @@
   <Tag_Cannon>true</Tag_Cannon>
   
   <UID>AMProjector</UID>
-  <FireDelay>7.4</FireDelay>
+  <FireDelay>30.8</FireDelay>
   <Range>5000</Range>
-  <PowerRequiredToFire>155</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>0.5</OrdinanceRequiredToFire>
-  <SalvoCount>7</SalvoCount>
+  <PowerRequiredToFire>2170</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>7</OrdinanceRequiredToFire>
+  <SalvoCount>2</SalvoCount>
   <SalvoTimer>0.4</SalvoTimer>
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
   <Name>Plasma Projector</Name>
   <!-- Projectile Information -->
-  <DamageAmount>730</DamageAmount>
+  <DamageAmount>10220</DamageAmount>
   <ProjectileSpeed>2100</ProjectileSpeed>
   <EffectVsArmor>1.5</EffectVsArmor>
   <ShieldPenChance>15</ShieldPenChance>  

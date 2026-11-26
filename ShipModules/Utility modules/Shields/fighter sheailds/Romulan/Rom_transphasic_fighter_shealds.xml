@@ -32,7 +32,7 @@
   <Mass>12</Mass>
   <HealthMax>3936</HealthMax>
   
-  <Description>An emitter fed from a tiny artificial singularity, with an unusual amount of power for its size. Strong protection against beams and energy fire. Of the Romulan fighter shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
+  <Description>An emitter fed from a tiny artificial singularity, with an unusual amount of power for its size. Strong protection against beams and energy fire.</Description>
   
   
   <PowerDraw>60</PowerDraw>

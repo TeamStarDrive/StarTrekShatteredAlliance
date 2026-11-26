@@ -12,7 +12,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>291</Cost>
+  <Cost>380</Cost>
   <RepairDifficulty>10</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -28,7 +28,7 @@
   <Mass>10000</Mass>
   <HealthMax>56912</HealthMax>
   
-  <Description>The deflector array of a Dominion garrison station. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Dominion station shields, size for size, it has the sturdiest housing, but draws the most power.</Description>
+  <Description>The deflector array of a Dominion garrison station. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>1200</PowerDraw>

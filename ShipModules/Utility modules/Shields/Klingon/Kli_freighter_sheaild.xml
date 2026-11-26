@@ -29,9 +29,9 @@
 
   <IconTexturePath>Modules/freighter_sheaild</IconTexturePath>
   <Mass>16</Mass>
-  <HealthMax>2361</HealthMax>
+  <HealthMax>1378</HealthMax>
   
-  <Description>A plain deflector generator for supply haulers. The Empire's warriors are expected to guard them. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
+  <Description>A plain deflector generator for supply haulers. The Empire's warriors are expected to guard them. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>15</PowerDraw>
@@ -42,9 +42,9 @@
   <!-- for shield items -->
   <ShieldPowerMax>2700</ShieldPowerMax>
   <ShieldRechargeDelay>15</ShieldRechargeDelay>
-  <ShieldRechargeRate>60.0</ShieldRechargeRate>
+  <ShieldRechargeRate>48</ShieldRechargeRate>
   <ShieldRadius>200</ShieldRadius>
-  <ShieldRechargeCombatRate>150</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>120</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.32</ShieldEnergyResist>
   <ShieldBeamResist>0.35</ShieldBeamResist>
   <ShieldKineticResist>-0.32</ShieldKineticResist>

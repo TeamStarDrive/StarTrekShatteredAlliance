@@ -5,11 +5,11 @@
 
   <UID>fighter_power_drain_phasor</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
+  <FireDelay>5</FireDelay>
   <Range>9900</Range>
   <PowerRequiredToFire>100</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>5</BeamDuration>
+  <BeamDuration>2</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -22,9 +22,9 @@
   <BeamTexture>fed_phaser</BeamTexture>
   <EffectVsArmor>1.65</EffectVsArmor>
   <ShieldPenChance>25</ShieldPenChance>
-  <DamageAmount>58</DamageAmount>
+  <DamageAmount>405</DamageAmount>
   <BeamThickness>35</BeamThickness>
-  <BeamPowerCostPerSecond>950</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>2375</BeamPowerCostPerSecond>
   <WeaponRotation>1</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

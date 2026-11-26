@@ -20,11 +20,11 @@
   <ExcludesCorvettes>false</ExcludesCorvettes>  
   
   <UID>Rom_station_torpedo_launcher_mk1</UID>
-  <FireDelay>3</FireDelay>
+  <FireDelay>12</FireDelay>
   <Range>16500</Range>
-  <PowerRequiredToFire>2000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>50</OrdinanceRequiredToFire>
-  <HitPoints>100</HitPoints>  
+  <PowerRequiredToFire>8000</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>200</OrdinanceRequiredToFire>
+  <HitPoints>250</HitPoints>  
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
@@ -32,7 +32,7 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>177184</DamageAmount>
+  <DamageAmount>2402616</DamageAmount>
   <Scale>4</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>2000</ProjectileSpeed>

@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/torpedo</IconTexturePath>
   <Mass>100</Mass>
   <HealthMax>8610</HealthMax>
-  <Description>A plain torpedo for raiders and scouts, the Romulan answer to a photon torpedo on a small hull. Of the Romulan torpedo weapons, it has the shortest reach.</Description>
+  <Description>A plain torpedo for raiders and scouts, the Romulan answer to a photon torpedo on a small hull.</Description>
   
   
   <PowerDraw>5</PowerDraw>

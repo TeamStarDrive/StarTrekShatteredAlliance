@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_adv_torpedo_mk1</IconTexturePath>
   <Mass>14500</Mass>
   <HealthMax>69290</HealthMax>
-  <Description>A battery of plasma torpedoes, held in a protected magazine. Of the Romulan orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size.</Description>
+  <Description>A battery of plasma torpedoes, held in a protected magazine.</Description>
   
   
   <PowerDraw>5</PowerDraw>

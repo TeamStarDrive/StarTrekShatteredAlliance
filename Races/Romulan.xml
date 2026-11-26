@@ -28,11 +28,11 @@
   </ExcludedDTraits>
   
   <!-- Rebel Faction data.-->
-  <RebelName>Reunification Movement</RebelName>
-  <RebelSing>Reunificationist</RebelSing>
-  <RebelPlur>Reunificationists</RebelPlur>
-  <TroopNameIndex>40106</TroopNameIndex>
-  <TroopDescriptionIndex>40107</TroopDescriptionIndex>
+  <RebelName>Confederate Rebels</RebelName>
+  <RebelSing>Confederate</RebelSing>
+  <RebelPlur>Confederates</RebelPlur>
+  <TroopNameIndex>2083</TroopNameIndex>
+  <TroopDescriptionIndex>2092</TroopDescriptionIndex>
 
   <!-- Fertility multipliers for environments. The default is 1 in the code, but the tags are included here for reference -->
   <EnvTerran>1</EnvTerran>
@@ -45,11 +45,11 @@
   <EnvBarren>1</EnvBarren>
   <PreferredEnv>Terran</PreferredEnv> <!-- Terraformers will terraform a planet to this environment -->
   
-  <RebelName>Reunification Movement</RebelName>
-  <RebelSing>Reunificationist</RebelSing>
-  <RebelPlur>Reunificationists</RebelPlur>
-  <TroopNameIndex>40106</TroopNameIndex>
-  <TroopDescriptionIndex>40107</TroopDescriptionIndex>
+  <RebelName>Draylok Democrats</RebelName>
+  <RebelSing>Democractic Rebel</RebelSing>
+  <RebelPlur>Democractic Rebels</RebelPlur>
+  <TroopNameIndex>2084</TroopNameIndex>
+  <TroopDescriptionIndex>2094</TroopDescriptionIndex>
   <WarpStart>sd_warp_start_draylok_01</WarpStart>
   <WarpEnd>sd_warp_stop_draylok_01</WarpEnd>
 
@@ -69,10 +69,10 @@
     <Adj2>simian</Adj2>
     <HomeSystemName>Romulan</HomeSystemName>
     <HomeworldName>Romulus</HomeworldName>
-    <FlagIndex>75</FlagIndex>
-    <R>400</R>
-    <G>740</G>
-    <B>303</B>
+    <FlagIndex>4</FlagIndex>
+    <R>35</R>
+    <G>150</G>
+    <B>105</B>
   <PersonalityTraitsWeights>
     <string>Cunning</string>
     <string>Cunning</string>

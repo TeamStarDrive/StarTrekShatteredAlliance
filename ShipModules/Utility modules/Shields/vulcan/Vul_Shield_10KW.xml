@@ -18,7 +18,7 @@
   <Name>Vulcan D'Kyr Deflector Grid</Name>
   <IconTexturePath>Modules/shield_3x3</IconTexturePath>
   <Mass>81</Mass>
-  <HealthMax>18744</HealthMax>
+  <HealthMax>21300</HealthMax>
   <PowerDraw>95</PowerDraw>
   
   <Description>The deflector grid of the D'Kyr-class, the High Command's cruiser. The Earth phase cannons of the day could not get through it. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>

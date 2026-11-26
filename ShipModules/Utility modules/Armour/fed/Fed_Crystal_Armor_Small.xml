@@ -37,7 +37,7 @@
 
   <!-- Mass and Health -->
   <Mass>8</Mass>
-  <HealthMax>8276</HealthMax>
+  <HealthMax>10048</HealthMax>
   <RepairDifficulty>1.5</RepairDifficulty>
   <Deflection>0</Deflection>              
   <!-- Armor resistance -->
@@ -48,7 +48,7 @@
   <PlasmaResist>-0.05</PlasmaResist>
 
   <!-- Description -->
-  <Description>A crystalline laminate grown in the fabrication bays of the Utopia Planitia yards above Mars, with its atoms aligned along the line of the hull stress. The lattice vibrates at a resonant frequency, so a hit is spread through the crystal before it can crack. Good protection against explosions, some protection against kinetic rounds. Of the Starfleet ship plates of its size, it is the best protected against kinetic rounds and the best protected against explosions, but the costliest to build.</Description>
+  <Description>A crystalline laminate grown in the fabrication bays of the Utopia Planitia yards above Mars, with its atoms aligned along the line of the hull stress. The lattice vibrates at a resonant frequency, so a hit is spread through the crystal before it can crack. Good protection against explosions, some protection against kinetic rounds.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

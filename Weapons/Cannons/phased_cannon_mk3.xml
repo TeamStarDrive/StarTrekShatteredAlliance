@@ -20,9 +20,9 @@
   
   <UID>phased_cannon_mk3</UID>
   <Range>7000</Range>
-  <PowerRequiredToFire>1500</PowerRequiredToFire>
+  <PowerRequiredToFire>18000</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <SalvoCount>6</SalvoCount>
+  <SalvoCount>2</SalvoCount>
   <SalvoTimer>3</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -38,7 +38,7 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>890</DamageAmount>
+  <DamageAmount>10680</DamageAmount>
   <ProjectileSpeed>4200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>1.3</Scale>
@@ -48,5 +48,5 @@
   <ModelPath>projTear</ModelPath>
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
   <WeaponType>Phaser Cannons</WeaponType>
-  <FireDelay>6</FireDelay>
+  <FireDelay>33</FireDelay>
 </Weapon>

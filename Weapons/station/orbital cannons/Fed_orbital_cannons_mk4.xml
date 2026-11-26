@@ -20,9 +20,9 @@
   
   <UID>Fed_orbital_cannons_mk4</UID>
   <Range>10000</Range>
-  <PowerRequiredToFire>150</PowerRequiredToFire>
+  <PowerRequiredToFire>2400</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <SalvoCount>8</SalvoCount>
+  <SalvoCount>2</SalvoCount>
   <SalvoTimer>3</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -38,7 +38,7 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>4092</DamageAmount>
+  <DamageAmount>487104</DamageAmount>
   <ProjectileSpeed>5200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>2</Scale>
@@ -48,5 +48,5 @@
   <ModelPath>projTear</ModelPath>
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
   <WeaponType>Phaser Cannons</WeaponType>
-  <FireDelay>3</FireDelay>
+  <FireDelay>21</FireDelay>
 </Weapon>

@@ -26,9 +26,9 @@
   <Name>Fed_station_deflector_mk1</Name>
   <IconTexturePath>Modules/station_deflector_mk1</IconTexturePath>
   <Mass>10000</Mass>
-  <HealthMax>95540</HealthMax>
+  <HealthMax>115989</HealthMax>
   
-  <Description>The main deflector array of a Starbase, with emitters on every pylon and rotating shield harmonics. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet station shields, size for size, it has the sturdiest housing, but draws the most power.</Description>
+  <Description>The main deflector array of a Starbase, with emitters on every pylon and rotating shield harmonics. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>1200</PowerDraw>

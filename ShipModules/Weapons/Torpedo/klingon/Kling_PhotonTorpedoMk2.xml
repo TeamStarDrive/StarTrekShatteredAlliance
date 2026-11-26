@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/Kling_PhotonTorpedoMk2</IconTexturePath>
   <Mass>130</Mass>
-  <HealthMax>14245</HealthMax>
-  <Description>The launcher of the D7 battlecruiser, which carried photon torpedoes forward and aft. Of the Klingon torpedo weapons, it has the widest blast.</Description>
+  <HealthMax>8316</HealthMax>
+  <Description>The launcher of the D7 battlecruiser, which carried photon torpedoes forward and aft.</Description>
   
   
   <PowerDraw>5</PowerDraw>

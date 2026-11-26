@@ -26,9 +26,9 @@
   <Name>Vulcan Station Deflector Array</Name>
   <IconTexturePath>Modules/station_deflector_mk1</IconTexturePath>
   <Mass>10000</Mass>
-  <HealthMax>100568</HealthMax>
+  <HealthMax>114282</HealthMax>
   
-  <Description>The deflector array of a Vulcan station, its emitters distributed by calculation across every pylon. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Vulcan station shields, size for size, it has the sturdiest housing, but draws the most power.</Description>
+  <Description>The deflector array of a Vulcan station, its emitters distributed by calculation across every pylon. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>1200</PowerDraw>

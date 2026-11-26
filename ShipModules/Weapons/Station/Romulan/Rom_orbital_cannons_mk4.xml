@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons_mk4</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>43256</HealthMax>
-  <Description>The largest battery of the fortresses that guard the Senate. Of the Romulan orbital cannon weapons, it hits the hardest and reaches the farthest.</Description>
+  <Description>The largest battery of the fortresses that guard the Senate.</Description>
   
   
   <PowerDraw>60</PowerDraw>

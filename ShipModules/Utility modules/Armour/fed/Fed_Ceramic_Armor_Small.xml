@@ -37,7 +37,7 @@
 
   <!-- Mass and Health -->
   <Mass>6</Mass>
-  <HealthMax>4075</HealthMax>
+  <HealthMax>4948</HealthMax>
   <RepairDifficulty>1</RepairDifficulty>
   <Deflection>0</Deflection>          
   <!-- Armor resistance -->
@@ -47,7 +47,7 @@
   <ExplosiveResist>0.12</ExplosiveResist>
 
   <!-- Description -->
-  <Description>A ceramic layer bonded to a duranium backing. The ceramic is seeded with a fractal lattice that shatters on impact and spreads the shock across the whole plate, so the backing is never loaded at a single point. Some protection against kinetic rounds and explosions. Of the Starfleet ship plates of its size, it is the weakest against beams.</Description>
+  <Description>A ceramic layer bonded to a duranium backing. The ceramic is seeded with a fractal lattice that shatters on impact and spreads the shock across the whole plate, so the backing is never loaded at a single point. Some protection against kinetic rounds and explosions.</Description>
   <APResist>1</APResist>
   
 

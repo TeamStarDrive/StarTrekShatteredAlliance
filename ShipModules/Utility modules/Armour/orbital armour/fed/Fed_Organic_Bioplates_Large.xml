@@ -31,7 +31,7 @@
     <DescriptionIndex>30253</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>63000</Mass>
-    <HealthMax>175560</HealthMax>
+    <HealthMax>213136</HealthMax>
     <RepairDifficulty>2</RepairDifficulty>
     <Deflection>70</Deflection>                
     <!-- Armor resistance -->
@@ -42,6 +42,6 @@
     <ExplosiveResist>0.547</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Plate grown on a bio-neural substrate, a living gel that senses damage and lays down new material at the edge of a breach. The substrate is tuned to the ship's own power grid, and the plate knits itself whole between engagements. Strong protection against energy fire, plasma and explosions. Of the Starfleet orbital plates of its size, it is the most fragile.</Description>
+    <Description>Plate grown on a bio-neural substrate, a living gel that senses damage and lays down new material at the edge of a breach. The substrate is tuned to the ship's own power grid, and the plate knits itself whole between engagements. Strong protection against energy fire, plasma and explosions.</Description>
     <APResist>1</APResist>    
 </ShipModule>

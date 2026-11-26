@@ -5,11 +5,11 @@
 
   <UID>cardasian_fighter_beam</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
+  <FireDelay>2.9</FireDelay>
   <Range>5400</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>1.5</BeamDuration>
+  <BeamDuration>0.6</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -21,9 +21,9 @@
   <!-- Projectile Information -->
   <BeamTexture>car_disruptorbeam</BeamTexture>
   <EffectVsShields>1</EffectVsShields>
-  <DamageAmount>33</DamageAmount>
+  <DamageAmount>200</DamageAmount>
   <BeamThickness>20</BeamThickness>
-  <BeamPowerCostPerSecond>2000</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>5000</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

@@ -28,7 +28,7 @@
   <Mass>10000</Mass>
   <HealthMax>56227</HealthMax>
   
-  <Description>The deflector array of a Praetorate station. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Romulan station shields, size for size, it has the sturdiest housing, but draws the most power.</Description>
+  <Description>The deflector array of a Praetorate station. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>1200</PowerDraw>

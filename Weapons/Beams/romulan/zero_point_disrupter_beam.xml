@@ -22,11 +22,11 @@
 
   <UID>zero_point_disrupter_beam</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>5</FireDelay>
+  <FireDelay>6.56</FireDelay>
   <Range>14000</Range>
   <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2.6</BeamDuration>
+  <BeamDuration>1.04</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
@@ -34,9 +34,9 @@
   <BeamTexture>fed_phaser</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>88</DamageAmount>
+  <DamageAmount>745</DamageAmount>
   <BeamThickness>30</BeamThickness>
-  <BeamPowerCostPerSecond>1720</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>4300</BeamPowerCostPerSecond>
   <EffectVsArmor>1.25</EffectVsArmor>
   <ShieldPenChance>20</ShieldPenChance>
   <WeaponRotation>2</WeaponRotation>

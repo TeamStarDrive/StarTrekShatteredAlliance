@@ -21,17 +21,17 @@
   <ExcludesCorvettes>true</ExcludesCorvettes> 
 
   <UID>AMCannon</UID>
-  <FireDelay>4</FireDelay>
+  <FireDelay>16</FireDelay>
   <Range>9800</Range>
-  <PowerRequiredToFire>2825</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>3.5</OrdinanceRequiredToFire>
+  <PowerRequiredToFire>11300</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>14</OrdinanceRequiredToFire>
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt2_01</FireCueName>
 
   <InFlightCue>sd_weapon_photon_flight_01</InFlightCue>
 
   <!-- Projectile Information -->
-  <DamageAmount>14550</DamageAmount>
+  <DamageAmount>58200</DamageAmount>
   
   <ExplosionRadius>50</ExplosionRadius> <!-- This projectile explodes -->
   <EffectVsShields>2.5</EffectVsShields>

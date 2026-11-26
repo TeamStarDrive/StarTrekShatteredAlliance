@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/Fed_Photonstorm</IconTexturePath>
   <Mass>500</Mass>
-  <HealthMax>47196</HealthMax>
-  <Description>A launcher that fires a spread of photon torpedoes in one burst, each pre-set to its own flight pattern. Of the Starfleet torpedo weapons, it reaches the farthest and fires the fastest, but has the slowest shots.</Description>
+  <HealthMax>57298</HealthMax>
+  <Description>A launcher that fires a spread of photon torpedoes in one burst, each pre-set to its own flight pattern.</Description>
   
   
   <PowerDraw>5</PowerDraw>

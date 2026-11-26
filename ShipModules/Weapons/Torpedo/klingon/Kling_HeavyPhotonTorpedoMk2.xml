@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/Kling_HeavyPhotonTorpedoMk2</IconTexturePath>
   <Mass>250</Mass>
-  <HealthMax>35076</HealthMax>
-  <Description>The heavy launcher of the Vor'cha-class attack cruiser. Of the Klingon torpedo weapons, it hits the hardest, but fires the slowest.</Description>
+  <HealthMax>20477</HealthMax>
+  <Description>The heavy launcher of the Vor'cha-class attack cruiser.</Description>
   
   
   <PowerDraw>5</PowerDraw>

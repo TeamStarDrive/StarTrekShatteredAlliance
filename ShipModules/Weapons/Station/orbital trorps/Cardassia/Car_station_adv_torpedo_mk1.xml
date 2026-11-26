@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>210</Cost>
+  <Cost>255</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>5</XSize>
   <YSize>5</YSize>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_adv_torpedo_mk1</IconTexturePath>
   <Mass>14500</Mass>
   <HealthMax>35490</HealthMax>
-  <Description>A long-reach launcher used to hold off a fleet at a distance. Of the Cardassian orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size.</Description>
+  <Description>A long-reach launcher used to hold off a fleet at a distance.</Description>
   
   
   <PowerDraw>5</PowerDraw>

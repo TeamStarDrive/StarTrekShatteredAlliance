@@ -20,7 +20,7 @@
   <Mass>135</Mass>
   <HealthMax>27230</HealthMax>
   
-  <Description>Harnesses a transwarp coil to create large amounts of power and a faster-than-warp field</Description>
+  <Description>A power core built around a transwarp coil, the Borg's faster way of crossing space, which gives the Collective a warp field and then some.</Description>
   <CrewRequired>10</CrewRequired>
   
   <PowerDraw>0</PowerDraw>

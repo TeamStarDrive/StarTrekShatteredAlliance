@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>4</Cost>
+  <Cost>6</Cost>
   <DroneModule>true</DroneModule>
   <FighterModule>true</FighterModule>
   <CorvetteModule>true</CorvetteModule>
@@ -58,7 +58,7 @@
     <PlasmaResist>-0.05</PlasmaResist>
 
   <!-- Description -->
-  <Description>Crystal threaded with assimilated organic tissue, which the nanoprobes keep repairing from within. Strong protection against every kind of fire. Of the Borg orbital plates of its size, it is the lightest and the best protected against plasma, but the costliest to build.</Description>
+  <Description>Crystal threaded with assimilated organic tissue, which the nanoprobes keep repairing from within. Strong protection against every kind of fire.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

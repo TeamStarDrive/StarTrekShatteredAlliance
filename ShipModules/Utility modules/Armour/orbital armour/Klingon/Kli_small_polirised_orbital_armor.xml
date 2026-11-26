@@ -47,7 +47,7 @@
 
   <!-- Mass and Health -->
   <Mass>4</Mass>
-  <HealthMax>8181</HealthMax>
+  <HealthMax>4776</HealthMax>
   <RepairDifficulty>1</RepairDifficulty>
   <Deflection>0</Deflection>          
   <!-- Armor resistance -->
@@ -57,7 +57,7 @@
   <ExplosiveResist>0.17</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Polarised plate for the ring of a fortress station, built to withstand a long siege. Some protection against kinetic rounds and explosions. Of the Klingon orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile.</Description>
+  <Description>Polarised plate for the ring of a fortress station, built to withstand a long siege. Some protection against kinetic rounds and explosions.</Description>
   <APResist>1</APResist>
   
 

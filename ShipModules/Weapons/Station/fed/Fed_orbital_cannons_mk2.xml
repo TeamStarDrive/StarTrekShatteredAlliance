@@ -23,8 +23,8 @@
   <UID>Fed_orbital_cannons_mk2</UID>
   <IconTexturePath>Modules/orbital_cannons_mk2</IconTexturePath>
   <Mass>50000</Mass>
-  <HealthMax>23336</HealthMax>
-  <Description>A battery of phaser cannons set around the ring of a Starbase. Of the Starfleet orbital cannon weapons, it has the fastest shots.</Description>
+  <HealthMax>28330</HealthMax>
+  <Description>A battery of phaser cannons set around the ring of a Starbase.</Description>
   
   
   <PowerDraw>30</PowerDraw>

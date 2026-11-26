@@ -13,7 +13,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>false</StationModule>
   
-  <Cost>8</Cost>
+  <Cost>11</Cost>
   <!-- common traits shared by all ship modules -->
   <TechLevel>1</TechLevel>
   <ModuleType>Shield</ModuleType>
@@ -28,7 +28,7 @@
   <Mass>9</Mass>
   <HealthMax>510</HealthMax>
   
-  <Description>The Borg have no energy shield in the usual sense. This is a subspace electromagnetic field that adjusts itself to the weapon that strikes it. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Borg fighter shields, size for size, it draws the least power, but holds the least energy.</Description>
+  <Description>The Borg have no energy shield in the usual sense. This is a subspace electromagnetic field that adjusts itself to the weapon that strikes it. Good protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>20</PowerDraw>

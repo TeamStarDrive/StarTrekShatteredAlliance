@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>124</Cost>
+  <Cost>178</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>4</XSize>
   <YSize>4</YSize>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_torpedo_launcher_mk1</IconTexturePath>
   <Mass>19500</Mass>
   <HealthMax>67881</HealthMax>
-  <Description>A missile launcher for a hub, kept loaded. Of the Borg orbital torpedo weapons, it fires the fastest, but has the slowest shots.</Description>
+  <Description>A missile launcher for a hub, kept loaded.</Description>
   
   
   <PowerDraw>5</PowerDraw>

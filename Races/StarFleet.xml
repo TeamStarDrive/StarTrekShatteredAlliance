@@ -53,11 +53,11 @@
     <string>Militarists</string>
   </EconomicTraitsWeights>
   <!-- Rebel Faction data.-->
-  <RebelName>The Maquis</RebelName>
-  <RebelSing>Maquis</RebelSing>
-  <RebelPlur>Maquis</RebelPlur>
-  <TroopNameIndex>40100</TroopNameIndex>
-  <TroopDescriptionIndex>40101</TroopDescriptionIndex>
+  <RebelName>Confederate Rebels</RebelName>
+  <RebelSing>Confederate</RebelSing>
+  <RebelPlur>Confederates</RebelPlur>
+  <TroopNameIndex>2083</TroopNameIndex>
+  <TroopDescriptionIndex>2092</TroopDescriptionIndex>
 
   <Traits>
     <Name>StarFleet</Name>
@@ -69,10 +69,10 @@
     <Adj2>simian</Adj2>
     <HomeSystemName>47 Ursae Majoris</HomeSystemName>
     <HomeworldName>Coyote</HomeworldName>
-    <FlagIndex>77</FlagIndex>
-    <R>406</R>
-    <G>306</G>
-    <B>506</B>
+    <FlagIndex>0</FlagIndex>
+    <R>60</R>
+    <G>130</G>
+    <B>230</B>
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>

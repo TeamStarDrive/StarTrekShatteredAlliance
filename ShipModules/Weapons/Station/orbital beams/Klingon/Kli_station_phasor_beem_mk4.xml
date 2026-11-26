@@ -37,7 +37,7 @@
 
   <!-- Mass and Health -->
   <Mass>19120</Mass>
-  <HealthMax>53008</HealthMax>
+  <HealthMax>30945</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>9</PowerDraw>
@@ -47,7 +47,7 @@
   <FieldOfFire>180</FieldOfFire>
 
   <!-- Description -->
-  <Description>The long disruptor lance of the Empire's greatest fortresses. Of the Klingon orbital beam weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
+  <Description>The long disruptor lance of the Empire's greatest fortresses.</Description>
   
 
 </ShipModule>

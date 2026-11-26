@@ -23,8 +23,8 @@
   <UID>Kli_orbital_cannons_mk2</UID>
   <IconTexturePath>Modules/orbital_cannons_mk2</IconTexturePath>
   <Mass>50000</Mass>
-  <HealthMax>16525</HealthMax>
-  <Description>A battery of disruptor cannons around a station's ring. Of the Klingon orbital cannon weapons, it has the fastest shots.</Description>
+  <HealthMax>9647</HealthMax>
+  <Description>A battery of disruptor cannons around a station's ring.</Description>
   
   
   <PowerDraw>30</PowerDraw>

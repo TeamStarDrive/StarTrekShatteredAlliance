@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/energy_torpedo_mk1</IconTexturePath>
   <Mass>100</Mass>
-  <HealthMax>13860</HealthMax>
-  <Description>The standard launcher of Vulcan warships, firing an energy torpedo. Of the Vulcan torpedo weapons, it is the sturdiest for its size, but hits the softest.</Description>
+  <HealthMax>15750</HealthMax>
+  <Description>The standard launcher of Vulcan warships, firing an energy torpedo.</Description>
   
   
   <PowerDraw>5</PowerDraw>

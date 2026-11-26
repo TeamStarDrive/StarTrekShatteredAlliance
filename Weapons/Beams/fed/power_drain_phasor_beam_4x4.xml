@@ -5,11 +5,11 @@
 
   <UID>power_drain_phasor_beam_4x4</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
+  <FireDelay>3.8</FireDelay>
   <Range>7700</Range>
   <PowerRequiredToFire>100</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>3</BeamDuration>
+  <BeamDuration>1.2</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <ToggleSoundName>sd_weapon_beam_fusion_med</ToggleSoundName>
@@ -19,11 +19,11 @@
   <BeamTexture>fed_phaser</BeamTexture>
   <EffectVsArmor>1.65</EffectVsArmor>
   <ShieldPenChance>25</ShieldPenChance>
-  <DamageAmount>46</DamageAmount>
+  <DamageAmount>320</DamageAmount>
   <BeamThickness>35</BeamThickness>
-  <BeamPowerCostPerSecond>950</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>2375</BeamPowerCostPerSecond>
   <WeaponRotation>4</WeaponRotation>
-  <PowerDamage>63</PowerDamage>
+  <PowerDamage>158</PowerDamage>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>

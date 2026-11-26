@@ -29,9 +29,9 @@
   <Name>Vulcan High Command Shield Grid</Name>
   <IconTexturePath>Modules/advanced_crusier_sheaild</IconTexturePath>
   <Mass>91</Mass>
-  <HealthMax>66264</HealthMax>
+  <HealthMax>75300</HealthMax>
   
-  <Description>The grid of the High Command's best cruisers, its emitters set to a pattern the Academy has proven. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it is the quickest to come back after being knocked down.</Description>
+  <Description>The grid of the High Command's best cruisers, its emitters set to a pattern the Academy has proven. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>200</PowerDraw>

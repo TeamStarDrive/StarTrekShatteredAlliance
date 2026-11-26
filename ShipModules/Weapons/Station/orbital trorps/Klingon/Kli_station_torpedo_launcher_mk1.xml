@@ -23,8 +23,8 @@
 
   <IconTexturePath>Modules/station_torpedo_launcher_mk1</IconTexturePath>
   <Mass>19500</Mass>
-  <HealthMax>49247</HealthMax>
-  <Description>A photon torpedo launcher for a Klingon station, kept loaded. Of the Klingon orbital torpedo weapons, it fires the fastest, but has the slowest shots.</Description>
+  <HealthMax>28750</HealthMax>
+  <Description>A photon torpedo launcher for a Klingon station, kept loaded.</Description>
   
   
   <PowerDraw>5</PowerDraw>

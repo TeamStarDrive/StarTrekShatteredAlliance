@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>15</Cost>
+  <Cost>22</Cost>
 
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>2</TechLevel>
@@ -20,7 +20,7 @@
   <Mass>36</Mass>
   <HealthMax>11332</HealthMax>
   
-  <Description>The standard field of a single drone vessel, adjusting to whatever weapon is turned on it. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Borg ship shields, size for size, it covers the narrowest area.</Description>
+  <Description>The standard field of a single drone vessel, adjusting to whatever weapon is turned on it. Good protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>45</PowerDraw>

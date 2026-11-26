@@ -5,11 +5,11 @@
 
   <UID>Car_DisruptorBeamMk2</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>6</FireDelay>
+  <FireDelay>7.2</FireDelay>
   <Range>7200</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2</BeamDuration>
+  <BeamDuration>0.8</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>false</ExcludesCorvettes>
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -20,10 +20,10 @@
   
   <!-- Projectile Information -->
   <BeamTexture>car_disruptorbeam</BeamTexture>
-  <DamageAmount>32</DamageAmount>
+  <DamageAmount>195</DamageAmount>
   <EffectVsArmor>1.30</EffectVsArmor>
   <BeamThickness>10</BeamThickness>
-  <BeamPowerCostPerSecond>220</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>550</BeamPowerCostPerSecond>
   <ShieldPenChance>0.2</ShieldPenChance>
   <WeaponRotation>2</WeaponRotation>
 
@@ -34,5 +34,5 @@
   <WeaponDeathEffect></WeaponDeathEffect>
 
   
-  <SiphonDamage>80</SiphonDamage>
+  <SiphonDamage>200</SiphonDamage>
 </Weapon>

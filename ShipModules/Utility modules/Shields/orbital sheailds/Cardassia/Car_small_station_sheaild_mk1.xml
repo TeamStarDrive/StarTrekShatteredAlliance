@@ -12,7 +12,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>202</Cost>
+  <Cost>245</Cost>
   <RepairDifficulty>9</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -28,7 +28,7 @@
   <Mass>9000</Mass>
   <HealthMax>21239</HealthMax>
   
-  <Description>A projector for the pylons of a Nor-pattern station, where the ore processing plant sits. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian station shields, size for size, it draws the least power and is the cheapest to build, but holds the least energy.</Description>
+  <Description>A projector for the pylons of a Nor-pattern station, where the ore processing plant sits. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>900</PowerDraw>

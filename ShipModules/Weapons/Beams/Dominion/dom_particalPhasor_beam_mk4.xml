@@ -4,7 +4,7 @@
   <UID>dom_particalPhasor_beam_mk4</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>98</Cost>
+  <Cost>128</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>5</TechLevel>
 
@@ -35,7 +35,7 @@
   <FieldOfFire>45</FieldOfFire>
 
   <!-- Description -->
-  <Description>The main polaron beams of the great Dominion battleships. Of the Dominion beam weapons, it fires the slowest.</Description>
+  <Description>The main polaron beams of the great Dominion battleships.</Description>
   
 
 </ShipModule>

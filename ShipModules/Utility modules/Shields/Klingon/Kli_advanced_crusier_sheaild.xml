@@ -29,9 +29,9 @@
   <Name>Klingon Vor'cha Deflector Grid</Name>
   <IconTexturePath>Modules/advanced_crusier_sheaild</IconTexturePath>
   <Mass>91</Mass>
-  <HealthMax>40863</HealthMax>
+  <HealthMax>23855</HealthMax>
   
-  <Description>The deflector grid of the Vor'cha-class attack cruiser, a heavy ship made to fight the Empire's wars. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon ship shields, size for size, it is the quickest to come back after being knocked down.</Description>
+  <Description>The deflector grid of the Vor'cha-class attack cruiser, a heavy ship made to fight the Empire's wars. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>200</PowerDraw>
@@ -42,9 +42,9 @@
   <!-- for shield items -->
   <ShieldPowerMax>58500</ShieldPowerMax>
   <ShieldRechargeDelay>13</ShieldRechargeDelay>
-  <ShieldRechargeRate>950.0</ShieldRechargeRate>
+  <ShieldRechargeRate>760</ShieldRechargeRate>
   <ShieldRadius>270</ShieldRadius>
-  <ShieldRechargeCombatRate>450</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>360</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.68</ShieldEnergyResist>
   <ShieldBeamResist>0.60</ShieldBeamResist>
   <ShieldKineticResist>-0.20</ShieldKineticResist>

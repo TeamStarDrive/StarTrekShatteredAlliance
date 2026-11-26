@@ -37,7 +37,7 @@
 
   <!-- Mass and Health -->
   <Mass>8000</Mass>
-  <HealthMax>26156</HealthMax>
+  <HealthMax>31754</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>5</PowerDraw>
@@ -47,7 +47,7 @@
   <FieldOfFire>360</FieldOfFire>
 
   <!-- Description -->
-  <Description>A phaser lance for outposts, firing a narrow beam through a tight phase discriminator. Of the Starfleet orbital beam weapons, it is the sturdiest for its size, but hits the softest.</Description>
+  <Description>A phaser lance for outposts, firing a narrow beam through a tight phase discriminator.</Description>
   
 
 </ShipModule>

@@ -57,11 +57,11 @@
   </EconomicTraitsWeights>
   
   <!-- Rebel Faction data.-->
-  <RebelName>Cardassian Dissidents</RebelName>
-  <RebelSing>Dissident</RebelSing>
-  <RebelPlur>Dissidents</RebelPlur>
-  <TroopNameIndex>40108</TroopNameIndex>
-  <TroopDescriptionIndex>40109</TroopDescriptionIndex>
+  <RebelName>Confederate Rebels</RebelName>
+  <RebelSing>Confederate</RebelSing>
+  <RebelPlur>Confederates</RebelPlur>
+  <TroopNameIndex>2083</TroopNameIndex>
+  <TroopDescriptionIndex>2092</TroopDescriptionIndex>
 
   <Traits>
     <Name>Cardassia</Name>
@@ -73,10 +73,10 @@
     <Adj2>simian</Adj2>
     <HomeSystemName>Cardassia</HomeSystemName>
     <HomeworldName>Cardassia Prime</HomeworldName>
-    <FlagIndex>76</FlagIndex>
-    <R>681</R>
-    <G>114</G>
-    <B>306</B>
+    <FlagIndex>2</FlagIndex>
+    <R>180</R>
+    <G>125</G>
+    <B>60</B>
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>

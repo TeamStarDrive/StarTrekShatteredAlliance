@@ -6,11 +6,11 @@
   
   <UID>station_phasor_beem_mk4</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
+  <FireDelay>6</FireDelay>
   <Range>25300</Range>
   <PowerRequiredToFire>1000</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>5</BeamDuration>
+  <BeamDuration>1</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
@@ -19,10 +19,10 @@
   
   <!-- Projectile Information -->
   <BeamTexture>dualbeam_purple</BeamTexture>
-  <DamageAmount>4920</DamageAmount>
+  <DamageAmount>24600</DamageAmount>
   <ShieldPenChance>0.2</ShieldPenChance>
   <BeamThickness>48</BeamThickness>
-  <BeamPowerCostPerSecond>2924</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>14620</BeamPowerCostPerSecond>
   <OffPowerMod>0.3</OffPowerMod>
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>

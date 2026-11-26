@@ -26,9 +26,9 @@
   <Name>Fed_starbase_sheailds</Name>
   <IconTexturePath>Modules/starbase_sheailds</IconTexturePath>
   <Mass>11000</Mass>
-  <HealthMax>108080</HealthMax>
+  <HealthMax>131213</HealthMax>
   
-  <Description>The full shield grid of a large Starbase, with multiphasic emitters across the ring and the docking arms. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet station shields, size for size, it holds the most energy and is the lightest.</Description>
+  <Description>The full shield grid of a large Starbase, with multiphasic emitters across the ring and the docking arms. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>1400</PowerDraw>

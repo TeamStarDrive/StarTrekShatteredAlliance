@@ -5,11 +5,11 @@
 
   <UID>modulated_phasor</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>5</FireDelay>
+  <FireDelay>6.56</FireDelay>
   <Range>15400</Range>
   <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2.6</BeamDuration>
+  <BeamDuration>1.04</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -22,11 +22,11 @@
   <BeamTexture>fed_phaser</BeamTexture>
   <EffectVsArmor>1.25</EffectVsArmor>
   <ShieldPenChance>20</ShieldPenChance>
-  <DamageAmount>73</DamageAmount>
+  <DamageAmount>510</DamageAmount>
   <BeamThickness>35</BeamThickness>
-  <BeamPowerCostPerSecond>1720</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>4300</BeamPowerCostPerSecond>
   <WeaponRotation>1</WeaponRotation>
-  <PowerDamage>138</PowerDamage>
+  <PowerDamage>345</PowerDamage>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>

@@ -29,9 +29,9 @@
 
   <IconTexturePath>Modules/freighter_sheaild</IconTexturePath>
   <Mass>16</Mass>
-  <HealthMax>3828</HealthMax>
+  <HealthMax>4350</HealthMax>
   
-  <Description>A restrained deflector generator for Vulcan merchant ships, enough to turn away debris. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
+  <Description>A restrained deflector generator for Vulcan merchant ships, enough to turn away debris. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>15</PowerDraw>

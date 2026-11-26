@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>3</Cost>
+  <Cost>4</Cost>
   <DroneModule>true</DroneModule>
   <FighterModule>true</FighterModule>
   <CorvetteModule>true</CorvetteModule>
@@ -58,7 +58,7 @@
     <ExplosiveResist>0.35</ExplosiveResist>
 
   <!-- Description -->
-  <Description>A regenerative hull, tended by nanoprobes. A cube can lose most of its mass and keep working, because its systems are decentralised and redundant. Strong protection against every kind of fire. Of the Borg orbital plates of its size, it is the lightest.</Description>
+  <Description>A regenerative hull, tended by nanoprobes. A cube can lose most of its mass and keep working, because its systems are decentralised and redundant. Strong protection against every kind of fire.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

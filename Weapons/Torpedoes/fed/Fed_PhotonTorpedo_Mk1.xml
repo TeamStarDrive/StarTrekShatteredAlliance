@@ -20,11 +20,11 @@
   <ExcludesCorvettes>false</ExcludesCorvettes>  
   
   <UID>Fed_PhotonTorpedo_Mk1</UID>
-  <FireDelay>8</FireDelay>
+  <FireDelay>53</FireDelay>
   <Range>5000</Range>
-  <PowerRequiredToFire>800</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
-  <HitPoints>10</HitPoints>  
+  <PowerRequiredToFire>6400</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>80</OrdinanceRequiredToFire>
+  <HitPoints>25</HitPoints>  
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
@@ -32,9 +32,9 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>10937</DamageAmount>
+  <DamageAmount>488224</DamageAmount>
   <SalvoTimer>7</SalvoTimer>
-  <SalvoCount>2</SalvoCount>
+  <SalvoCount>1</SalvoCount>
   <Scale>1</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>2500</ProjectileSpeed>

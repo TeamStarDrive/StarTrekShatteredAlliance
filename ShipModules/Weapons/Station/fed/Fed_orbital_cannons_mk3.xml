@@ -23,8 +23,8 @@
   <UID>Fed_orbital_cannons_mk3</UID>
   <IconTexturePath>Modules/orbital_cannons_mk3</IconTexturePath>
   <Mass>50000</Mass>
-  <HealthMax>48419</HealthMax>
-  <Description>A battery fitted to the arms of a Spacedock. Of the Starfleet orbital cannon weapons, it is the cheapest for its size and has the fastest shots, but is the frailest for its size.</Description>
+  <HealthMax>58783</HealthMax>
+  <Description>A battery fitted to the arms of a Spacedock.</Description>
   
   
   <PowerDraw>40</PowerDraw>

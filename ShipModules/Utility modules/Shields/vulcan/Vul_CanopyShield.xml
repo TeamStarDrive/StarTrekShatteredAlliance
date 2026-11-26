@@ -16,9 +16,9 @@
   <Name>Vulcan Ring Ship Deflector Canopy</Name>
   <IconTexturePath>Modules/shield_3x6</IconTexturePath>
   <Mass>200</Mass>
-  <HealthMax>105848</HealthMax>
+  <HealthMax>120282</HealthMax>
   
-  <Description>A deflector canopy drawn over the whole of a ring ship's hull. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it is the slowest to come back after being knocked down.</Description>
+  <Description>A deflector canopy drawn over the whole of a ring ship's hull. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>900</PowerDraw>

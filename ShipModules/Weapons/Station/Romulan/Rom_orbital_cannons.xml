@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons</IconTexturePath>
   <Mass>5000</Mass>
   <HealthMax>13732</HealthMax>
-  <Description>A fixed disruptor bank for an outpost. Of the Romulan orbital cannon weapons, it fires the slowest.</Description>
+  <Description>A fixed disruptor bank for an outpost.</Description>
   
   
   <PowerDraw>15</PowerDraw>

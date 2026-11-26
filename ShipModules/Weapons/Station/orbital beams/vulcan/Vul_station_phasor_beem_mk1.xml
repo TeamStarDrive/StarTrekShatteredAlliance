@@ -37,7 +37,7 @@
 
   <!-- Mass and Health -->
   <Mass>8000</Mass>
-  <HealthMax>27762</HealthMax>
+  <HealthMax>31548</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>5</PowerDraw>
@@ -47,7 +47,7 @@
   <FieldOfFire>360</FieldOfFire>
 
   <!-- Description -->
-  <Description>A particle lance for outposts, firing a narrow beam. Of the Vulcan orbital beam weapons, it is the sturdiest for its size, but hits the softest.</Description>
+  <Description>A particle lance for outposts, firing a narrow beam.</Description>
   
 
 </ShipModule>

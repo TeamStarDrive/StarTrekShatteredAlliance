@@ -4,7 +4,7 @@
   <UID>cutting_beam_mk2</UID> 
   <Version>2</Version>
 
-  <Cost>26</Cost>
+  <Cost>37</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>3</TechLevel>
   
@@ -33,7 +33,7 @@
   <WeaponType>cutting_beam_mk2</WeaponType>
   <FieldOfFire>25</FieldOfFire>
   <!-- Description -->
-  <Description>The cutting beam of a Borg cube, which can cut through a shielded vessel in seconds once the tractor beam holds it. Of the Borg beam weapons, it does the most to shields, but fires the slowest.</Description>
+  <Description>The cutting beam of a Borg cube, which can cut through a shielded vessel in seconds once the tractor beam holds it.</Description>
   
 
 </ShipModule>

@@ -37,7 +37,7 @@
 
   <!-- Mass and Health -->
   <Mass>19120</Mass>
-  <HealthMax>94554</HealthMax>
+  <HealthMax>107448</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>9</PowerDraw>
@@ -47,7 +47,7 @@
   <FieldOfFire>180</FieldOfFire>
 
   <!-- Description -->
-  <Description>The long particle lance of the fortress stations. Of the Vulcan orbital beam weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
+  <Description>The long particle lance of the fortress stations.</Description>
   
 
 </ShipModule>

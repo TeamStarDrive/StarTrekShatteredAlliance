@@ -37,7 +37,7 @@
 
   <!-- Mass and Health -->
   <Mass>7</Mass>
-  <HealthMax>6204</HealthMax>
+  <HealthMax>7050</HealthMax>
   <RepairDifficulty>1.25</RepairDifficulty>
   <Deflection>0</Deflection>              
   <!-- Armor resistance -->
@@ -48,7 +48,7 @@
   <ExplosiveResist>0.16</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Alloys layered by calculation, each in the proportion the Science Academy has shown to be the most efficient. Good protection against explosions, some protection against kinetic rounds. Of the Vulcan ship plates of its size, it is the weakest against beams.</Description>
+  <Description>Alloys layered by calculation, each in the proportion the Science Academy has shown to be the most efficient. Good protection against explosions, some protection against kinetic rounds.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

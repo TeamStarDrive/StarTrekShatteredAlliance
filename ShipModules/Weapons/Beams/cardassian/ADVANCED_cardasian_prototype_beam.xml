@@ -4,7 +4,7 @@
   <UID>ADVANCED_cardasian_prototype_beam</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>99</Cost>
+  <Cost>120</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>6</TechLevel>
 
@@ -35,7 +35,7 @@
   <FieldOfFire>60</FieldOfFire>
 
   <!-- Description -->
-  <Description>An experimental array that pushes the rapid nadion effect of Cardassian disruptors past its normal limit. Of the Cardassian beam weapons, it reaches the farthest and fires the fastest.</Description>
+  <Description>An experimental array that pushes the rapid nadion effect of Cardassian disruptors past its normal limit.</Description>
   
 
 </ShipModule>

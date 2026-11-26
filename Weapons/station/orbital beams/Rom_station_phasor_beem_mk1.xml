@@ -6,11 +6,11 @@
   
   <UID>Rom_station_phasor_beem_mk1</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
+  <FireDelay>6</FireDelay>
   <Range>14300</Range>
   <PowerRequiredToFire>400</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>5</BeamDuration>
+  <BeamDuration>1</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
@@ -19,10 +19,10 @@
   
   <!-- Projectile Information -->
   <BeamTexture>beam_purple3</BeamTexture>
-  <DamageAmount>84</DamageAmount>
+  <DamageAmount>1425</DamageAmount>
   <ShieldPenChance>0.4</ShieldPenChance>
   <BeamThickness>28</BeamThickness>
-  <BeamPowerCostPerSecond>424</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>2120</BeamPowerCostPerSecond>
   <OffPowerMod>0.3</OffPowerMod>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

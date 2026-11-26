@@ -5,11 +5,11 @@
 
   <UID>cutting_beam_mk3</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>4</FireDelay>
+  <FireDelay>5.5</FireDelay>
   <Range>13500</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2.5</BeamDuration>
+  <BeamDuration>1</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
   <OffPowerMod>0.35</OffPowerMod>
@@ -23,11 +23,11 @@
   <BeamTexture>beam_greenA</BeamTexture>
   <EffectVsShields>0.90</EffectVsShields> 
   <EffectVsArmor>1.955</EffectVsArmor>
-  <DamageAmount>422</DamageAmount>
+  <DamageAmount>2638</DamageAmount>
   <BeamThickness>35</BeamThickness>
-  <BeamPowerCostPerSecond>1050</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>2625</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
-  <TroopDamageChance>40</TroopDamageChance>
+  <TroopDamageChance>32</TroopDamageChance>
   <ShieldPenChance>3</ShieldPenChance>
 
 

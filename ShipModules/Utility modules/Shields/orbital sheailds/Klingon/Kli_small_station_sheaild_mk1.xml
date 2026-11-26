@@ -26,9 +26,9 @@
   <Name>Klingon Station Shield Emitter</Name>
   <IconTexturePath>Modules/small_station_sheaild_mk1</IconTexturePath>
   <Mass>9000</Mass>
-  <HealthMax>45737</HealthMax>
+  <HealthMax>26701</HealthMax>
   
-  <Description>A shield emitter for a small Klingon station. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon station shields, size for size, it draws the least power and is the cheapest to build, but holds the least energy.</Description>
+  <Description>A shield emitter for a small Klingon station. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>900</PowerDraw>
@@ -39,9 +39,9 @@
   <!-- for shield items -->
   <ShieldPowerMax>495000</ShieldPowerMax>
   <ShieldRechargeDelay>10</ShieldRechargeDelay>
-  <ShieldRechargeRate>1200</ShieldRechargeRate>
+  <ShieldRechargeRate>960</ShieldRechargeRate>
   <ShieldRadius>340</ShieldRadius>
-  <ShieldRechargeCombatRate>600</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>480</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.39</ShieldEnergyResist>
   <ShieldBeamResist>0.39</ShieldBeamResist>
   <ShieldKineticResist>0.39</ShieldKineticResist>

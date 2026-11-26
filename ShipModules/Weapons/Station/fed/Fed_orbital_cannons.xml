@@ -23,8 +23,8 @@
   <UID>Fed_orbital_cannons</UID>
   <IconTexturePath>Modules/orbital_cannons</IconTexturePath>
   <Mass>5000</Mass>
-  <HealthMax>23334</HealthMax>
-  <Description>A fixed phaser bank for a planetary defence post, aimed by the station's tactical computer. Of the Starfleet orbital cannon weapons, it fires the slowest.</Description>
+  <HealthMax>28328</HealthMax>
+  <Description>A fixed phaser bank for a planetary defence post, aimed by the station's tactical computer.</Description>
   
   
   <PowerDraw>15</PowerDraw>

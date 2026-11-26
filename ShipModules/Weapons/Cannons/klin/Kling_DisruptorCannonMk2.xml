@@ -14,8 +14,8 @@
 
   <IconTexturePath>Modules/Kling_DisruptorCannonMk2</IconTexturePath>
   <Mass>21</Mass>
-  <HealthMax>9555</HealthMax>
-  <Description>A heavier disruptor cannon, mounted on the battle cruisers of the Empire. Of the Klingon cannon weapons, it fires the slowest.</Description>
+  <HealthMax>5578</HealthMax>
+  <Description>A heavier disruptor cannon, mounted on the battle cruisers of the Empire.</Description>
   <CrewRequired>12</CrewRequired>
   
   <PowerDraw>11</PowerDraw>

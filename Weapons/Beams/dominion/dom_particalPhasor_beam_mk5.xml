@@ -5,11 +5,11 @@
 
   <UID>dom_particalPhasor_beam_mk5</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>5</FireDelay>
+  <FireDelay>6.56</FireDelay>
   <Range>12600</Range>
   <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2.6</BeamDuration>
+  <BeamDuration>1.04</BeamDuration>
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -20,10 +20,10 @@
   
   <!-- Projectile Information -->
   <BeamTexture>dom_polaronbeam</BeamTexture>
-  <DamageAmount>83</DamageAmount>
+  <DamageAmount>660</DamageAmount>
   <EffectVsArmor>1.25</EffectVsArmor>
   <BeamThickness>30</BeamThickness>
-  <BeamPowerCostPerSecond>1720</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>4300</BeamPowerCostPerSecond>
   <ShieldPenChance>20</ShieldPenChance>
   <WeaponRotation>2</WeaponRotation>
 
@@ -35,5 +35,5 @@
 
   
   <EffectVsShields>1.21</EffectVsShields>
-  <RepulsionDamage>1000</RepulsionDamage>
+  <RepulsionDamage>2500</RepulsionDamage>
 </Weapon>

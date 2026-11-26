@@ -6,11 +6,11 @@
   
   <UID>HeavyPhasorTurret</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
+  <FireDelay>2.6</FireDelay>
   <Range>6500</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>1</BeamDuration>
+  <BeamDuration>0.4</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
@@ -18,9 +18,9 @@
   <BeamTexture>beam_red</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>36</DamageAmount>
+  <DamageAmount>90</DamageAmount>
   <BeamThickness>25</BeamThickness>
-  <BeamPowerCostPerSecond>2024</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>5060</BeamPowerCostPerSecond>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>

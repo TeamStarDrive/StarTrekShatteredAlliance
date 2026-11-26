@@ -23,8 +23,8 @@
   <UID>Kli_orbital_cannons_mk3</UID>
   <IconTexturePath>Modules/orbital_cannons_mk3</IconTexturePath>
   <Mass>50000</Mass>
-  <HealthMax>34287</HealthMax>
-  <Description>A battery fitted to a great fortress, as at Ty'Gokor. Of the Klingon orbital cannon weapons, it is the cheapest for its size and has the fastest shots, but is the frailest for its size.</Description>
+  <HealthMax>20016</HealthMax>
+  <Description>A battery fitted to a great fortress, as at Ty'Gokor.</Description>
   
   
   <PowerDraw>40</PowerDraw>

@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>18</Mass>
-  <HealthMax>23420</HealthMax>
+  <HealthMax>28433</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>10</PowerDraw>
@@ -35,7 +35,7 @@
   <FieldOfFire>45</FieldOfFire>
 
   <!-- Description -->
-  <Description>A heavier array with a phase-modulated pulse. Of the Starfleet beam weapons, it fires the slowest.</Description>
+  <Description>A heavier array with a phase-modulated pulse.</Description>
   
 
 </ShipModule>

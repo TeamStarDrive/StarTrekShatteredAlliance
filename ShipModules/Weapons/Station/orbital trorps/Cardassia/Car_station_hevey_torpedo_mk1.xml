@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>108</Cost>
+  <Cost>131</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>5</XSize>
   <YSize>6</YSize>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_hevey_torpedo_mk1</IconTexturePath>
   <Mass>14000</Mass>
   <HealthMax>26649</HealthMax>
-  <Description>The heaviest launcher on a Cardassian station, built to crack a fleet. Of the Cardassian orbital torpedo weapons, it hits the hardest and is the cheapest for its size, but fires the slowest.</Description>
+  <Description>The heaviest launcher on a Cardassian station, built to crack a fleet.</Description>
   
   
   <PowerDraw>5</PowerDraw>

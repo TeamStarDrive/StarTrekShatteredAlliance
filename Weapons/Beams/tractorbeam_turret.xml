@@ -5,11 +5,11 @@
 
   <UID>tractorbeam_turret_Beams</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
+  <FireDelay>4.1</FireDelay>
   <Range>15000</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>3.5</BeamDuration>
+  <BeamDuration>1.4</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
 
@@ -18,13 +18,13 @@
   
   <!-- Projectile Information -->
   <TroopDamageChance>5</TroopDamageChance>
-  <TractorDamage>50</TractorDamage>
+  <TractorDamage>125</TractorDamage>
   <BeamTexture>beam_light_blue</BeamTexture>
   <EffectVsShields>1.90</EffectVsShields> 
   
-  <DamageAmount>1</DamageAmount>
+  <DamageAmount>2</DamageAmount>
   <BeamThickness>44</BeamThickness>
-  <BeamPowerCostPerSecond>1500</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>3750</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

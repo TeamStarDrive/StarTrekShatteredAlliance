@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-    <Cost>9</Cost>
+    <Cost>12</Cost>
     <!-- Tech Level -->
     <TechLevel>4</TechLevel>
     <TechBranch>Armor</TechBranch>
@@ -41,6 +41,6 @@
     <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Plate grown to order in the Dominion's habit of breeding what it needs, the way it bred the Jem'Hadar, and left to mend itself. Strong protection against every kind of fire. Of the Dominion orbital plates of its size, it is the lightest, but the hardest to repair.</Description>
+    <Description>Plate grown to order in the Dominion's habit of breeding what it needs, the way it bred the Jem'Hadar, and left to mend itself. Strong protection against every kind of fire.</Description>
     <APResist>1</APResist>    
 </ShipModule>

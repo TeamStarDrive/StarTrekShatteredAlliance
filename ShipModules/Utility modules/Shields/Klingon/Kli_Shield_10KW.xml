@@ -18,7 +18,7 @@
   <Name>Klingon D7 Deflector Grid</Name>
   <IconTexturePath>Modules/shield_3x3</IconTexturePath>
   <Mass>81</Mass>
-  <HealthMax>11559</HealthMax>
+  <HealthMax>6748</HealthMax>
   <PowerDraw>95</PowerDraw>
   
   <Description>The deflector grid of the D7 battlecruiser, the old warhorse of the fleet. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
@@ -32,9 +32,9 @@
   <!-- for shield items -->
   <ShieldPowerMax>32400</ShieldPowerMax>
   <ShieldRechargeDelay>16</ShieldRechargeDelay>
-  <ShieldRechargeRate>650.0</ShieldRechargeRate>
+  <ShieldRechargeRate>520</ShieldRechargeRate>
   <ShieldRadius>170</ShieldRadius>
-  <ShieldRechargeCombatRate>100</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>80</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.38</ShieldEnergyResist>
   <ShieldBeamResist>0.30</ShieldBeamResist>
   <ShieldKineticResist>-0.30</ShieldKineticResist>

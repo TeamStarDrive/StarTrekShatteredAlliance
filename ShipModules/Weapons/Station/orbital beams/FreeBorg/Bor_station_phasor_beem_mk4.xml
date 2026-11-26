@@ -14,7 +14,7 @@
   <UID>Bor_station_phasor_beem_mk4</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>41</Cost>
+  <Cost>59</Cost>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
   <!-- Tech Level Used by AI for Upgrading Ships -->
@@ -47,7 +47,7 @@
   <FieldOfFire>180</FieldOfFire>
 
   <!-- Description -->
-  <Description>The long cutting lance of the Collective's greatest structures. Of the Borg orbital beam weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
+  <Description>The long cutting lance of the Collective's greatest structures.</Description>
   
 
 </ShipModule>

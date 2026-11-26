@@ -23,11 +23,11 @@
   <ExcludesFighters>true</ExcludesFighters>  
   <ExcludesCorvettes>true</ExcludesCorvettes>   
   
-  <FireDelay>8</FireDelay>
+  <FireDelay>32</FireDelay>
   <Range>5000</Range>
-  <HitPoints>75</HitPoints>
-  <PowerRequiredToFire>400</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
+  <HitPoints>188</HitPoints>
+  <PowerRequiredToFire>1600</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>40</OrdinanceRequiredToFire>
   <ProjectileCount>1</ProjectileCount>
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_torpedo_01</FireCueName>
@@ -36,7 +36,7 @@
   <EffectVsArmor>1.5</EffectVsArmor>
   <!-- EffectVsShields>.5</EffectVsShields -->
   <!-- Projectile Information -->
-  <DamageAmount>1800</DamageAmount>
+  <DamageAmount>7200</DamageAmount>
   <ArmorPen>1</ArmorPen>
   <ExplosionRadius>30</ExplosionRadius> <!-- This projectile explodes -->
   

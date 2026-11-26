@@ -23,8 +23,8 @@
   <UID>Kli_orbital_cannons_mk1</UID>
   <IconTexturePath>Modules/orbital_cannons_mk1</IconTexturePath>
   <Mass>50000</Mass>
-  <HealthMax>16525</HealthMax>
-  <Description>A heavy disruptor cannon for a station's ring. Of the Klingon orbital cannon weapons, it has the fastest shots, but fires the slowest.</Description>
+  <HealthMax>9647</HealthMax>
+  <Description>A heavy disruptor cannon for a station's ring.</Description>
   
   
   <PowerDraw>20</PowerDraw>

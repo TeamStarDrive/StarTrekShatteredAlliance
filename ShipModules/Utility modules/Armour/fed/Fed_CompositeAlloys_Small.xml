@@ -37,7 +37,7 @@
 
   <!-- Mass and Health -->
   <Mass>7</Mass>
-  <HealthMax>5894</HealthMax>
+  <HealthMax>7155</HealthMax>
   <RepairDifficulty>1.25</RepairDifficulty>
   <Deflection>0</Deflection>              
   <!-- Armor resistance -->
@@ -48,7 +48,7 @@
   <ExplosiveResist>0.16</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Tritanium alloy, the hull and bulkhead metal of Galaxy- and Intrepid-class starships, laid in layers. Tritanium in its pure form is 21.4 times as hard as diamond. Good protection against explosions, some protection against kinetic rounds. Of the Starfleet ship plates of its size, it is the weakest against beams.</Description>
+  <Description>Tritanium alloy, the hull and bulkhead metal of Galaxy- and Intrepid-class starships, laid in layers. Tritanium in its pure form is 21.4 times as hard as diamond. Good protection against explosions, some protection against kinetic rounds.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

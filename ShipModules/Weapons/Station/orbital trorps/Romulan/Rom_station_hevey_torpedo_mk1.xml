@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_hevey_torpedo_mk1</IconTexturePath>
   <Mass>14000</Mass>
   <HealthMax>52029</HealthMax>
-  <Description>The heaviest torpedo battery of the Star Empire. Of the Romulan orbital torpedo weapons, it hits the hardest and is the cheapest for its size, but fires the slowest.</Description>
+  <Description>The heaviest torpedo battery of the Star Empire.</Description>
   
   
   <PowerDraw>5</PowerDraw>

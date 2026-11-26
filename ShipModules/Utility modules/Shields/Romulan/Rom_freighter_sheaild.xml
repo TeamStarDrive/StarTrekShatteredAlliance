@@ -31,7 +31,7 @@
   <Mass>16</Mass>
   <HealthMax>2140</HealthMax>
   
-  <Description>A deflector generator for convoys, which in the Star Empire often carry cargo that is not for casual eyes. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Romulan ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
+  <Description>A deflector generator for convoys, which in the Star Empire often carry cargo that is not for casual eyes. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>15</PowerDraw>

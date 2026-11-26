@@ -31,7 +31,7 @@
   <Mass>91</Mass>
   <HealthMax>37048</HealthMax>
   
-  <Description>A deflector grid fed straight from the warbird's quantum singularity, which gives it power to spare. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Romulan ship shields, size for size, it is the quickest to come back after being knocked down.</Description>
+  <Description>A deflector grid fed straight from the warbird's quantum singularity, which gives it power to spare. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>200</PowerDraw>

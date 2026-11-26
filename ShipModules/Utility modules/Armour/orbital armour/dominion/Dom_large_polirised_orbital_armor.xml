@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-    <Cost>16</Cost>
+    <Cost>21</Cost>
     <FighterModule>false</FighterModule>
     <!-- Tech Level -->
     <TechLevel>3</TechLevel>
@@ -41,6 +41,6 @@
     <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Polarised plate for the rings of the stations in the Omarion Nebula, which hides the Founders' homeworld. Strong protection against beams, plasma and explosions, good protection against kinetic rounds. Of the Dominion orbital plates of its size, it is the lightest and the cheapest to build, but the most fragile.</Description>
+    <Description>Polarised plate for the rings of the stations in the Omarion Nebula, which hides the Founders' homeworld. Strong protection against beams, plasma and explosions, good protection against kinetic rounds.</Description>
     <APResist>1</APResist>
 </ShipModule>

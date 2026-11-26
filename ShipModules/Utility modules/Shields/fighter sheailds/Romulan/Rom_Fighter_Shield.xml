@@ -28,7 +28,7 @@
   <Mass>9</Mass>
   <HealthMax>410</HealthMax>
   
-  <Description>A light emitter for raiders and scouts, tuned to cooperate with a cloaking device. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Romulan fighter shields, size for size, it draws the least power, but holds the least energy.</Description>
+  <Description>A light emitter for raiders and scouts, tuned to cooperate with a cloaking device. Good protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>20</PowerDraw>

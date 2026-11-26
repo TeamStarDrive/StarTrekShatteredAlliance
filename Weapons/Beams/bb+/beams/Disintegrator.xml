@@ -20,11 +20,11 @@
 
   <UID>Disintegrator</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>11</FireDelay>
+  <FireDelay>13.4</FireDelay>
   <Range>11000</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>4</BeamDuration>
+  <BeamDuration>1.6</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
@@ -32,9 +32,9 @@
   <BeamTexture>beam_green</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>125</DamageAmount>
+  <DamageAmount>312</DamageAmount>
   <BeamThickness>100</BeamThickness>
-  <BeamPowerCostPerSecond>9583</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>23958</BeamPowerCostPerSecond>
   <EffectVsArmor>1.20</EffectVsArmor>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

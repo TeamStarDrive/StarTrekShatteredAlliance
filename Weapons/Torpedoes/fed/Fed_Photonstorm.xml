@@ -20,12 +20,12 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>  
   
   <UID>Fed_Photonstorm</UID>
-  <FireDelay>8</FireDelay>
+  <FireDelay>59</FireDelay>
   <Range>16000</Range>
-  <PowerRequiredToFire>1000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>500</OrdinanceRequiredToFire>
-  <HitPoints>20</HitPoints>
-  <SalvoCount>35</SalvoCount>
+  <PowerRequiredToFire>15555.556</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>7777.778</OrdinanceRequiredToFire>
+  <HitPoints>50</HitPoints>
+  <SalvoCount>9</SalvoCount>
   <SalvoTimer>9</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -34,7 +34,7 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>14582</DamageAmount>
+  <DamageAmount>1845838</DamageAmount>
   <Scale>1</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>1500</ProjectileSpeed>

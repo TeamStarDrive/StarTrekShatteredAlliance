@@ -23,7 +23,7 @@
 
   <!-- Mass and Health -->
   <Mass>60</Mass>
-  <HealthMax>50688</HealthMax>
+  <HealthMax>29591</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>10</PowerDraw>
@@ -34,7 +34,7 @@
   <FieldOfFire>65</FieldOfFire>
   <AccuracyPercent>0.98</AccuracyPercent>
   <!-- Description -->
-  <Description>A disruptor array that fires three beams focused on one target. Of the Klingon beam weapons, it hits the hardest and reaches the farthest.</Description>
+  <Description>A disruptor array that fires three beams focused on one target.</Description>
   
 
 </ShipModule>

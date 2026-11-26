@@ -6,11 +6,11 @@
   <ExcludesFighters>true</ExcludesFighters>  
   <UID>FocusFusionBeam</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>9</FireDelay>
+  <FireDelay>11.4</FireDelay>
   <Range>8400</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>4</BeamDuration>
+  <BeamDuration>1.6</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_laser_large_alt_04</FireCueName>
@@ -21,9 +21,9 @@
   <BeamTexture>beam_purple</BeamTexture>
   
   
-  <DamageAmount>18</DamageAmount>
+  <DamageAmount>45</DamageAmount>
   <BeamThickness>32</BeamThickness>
-  <BeamPowerCostPerSecond>1267</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>3168</BeamPowerCostPerSecond>
   <EffectVsArmor>1.15</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>
 

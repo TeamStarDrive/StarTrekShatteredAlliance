@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/Kling_TriTorpedoMk2</IconTexturePath>
   <Mass>350</Mass>
-  <HealthMax>7733</HealthMax>
-  <Description>The large, heavy form of the trilithium torpedo, with a warhead made to destroy stations and fortresses outright. Of the Klingon torpedo weapons, it is the frailest for its size.</Description>
+  <HealthMax>4514</HealthMax>
+  <Description>The large, heavy form of the trilithium torpedo, with a warhead made to destroy stations and fortresses outright.</Description>
   
   
   <PowerDraw>5</PowerDraw>

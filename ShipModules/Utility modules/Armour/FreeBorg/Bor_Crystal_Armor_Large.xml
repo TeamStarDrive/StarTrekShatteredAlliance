@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <Cost>28</Cost>
+    <Cost>40</Cost>
     <FighterModule>false</FighterModule>
     <!-- Tech Level -->
     <TechLevel>5</TechLevel>
@@ -31,6 +31,6 @@
     <PlasmaResist>-0.05</PlasmaResist>
 
     <!-- Description -->
-    <Description>A crystalline lattice grown by nanoprobes, which lay the atoms down along the lines of the hull stress. Good protection against explosions, some protection against kinetic rounds. Of the Borg ship plates of its size, it is the best against armour-piercing rounds, but the heaviest.</Description>
+    <Description>A crystalline lattice grown by nanoprobes, which lay the atoms down along the lines of the hull stress. Good protection against explosions, some protection against kinetic rounds.</Description>
     <APResist>2</APResist>
 </ShipModule>

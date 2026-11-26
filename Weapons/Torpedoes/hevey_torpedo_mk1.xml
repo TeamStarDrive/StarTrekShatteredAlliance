@@ -21,17 +21,17 @@
 
   <UID>hevey_torpedo_mk1</UID>
   <Range>10000</Range>
-  <PowerRequiredToFire>1500</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>20</OrdinanceRequiredToFire>
+  <PowerRequiredToFire>12000</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>160</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>50</HitPoints>
-  <SalvoCount>2</SalvoCount>
+  <HitPoints>125</HitPoints>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>7</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   
   <!-- Projectile Information -->
-  <DamageAmount>29000</DamageAmount>
+  <DamageAmount>232000</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>1700</ProjectileSpeed>
   <ExplosionRadius>90</ExplosionRadius> <!-- This projectile explodes -->
@@ -57,5 +57,5 @@
   <FireArc>45</FireArc>
   <DieCue>Explo1</DieCue>
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
-  <FireDelay>10</FireDelay>
+  <FireDelay>61</FireDelay>
 </Weapon>

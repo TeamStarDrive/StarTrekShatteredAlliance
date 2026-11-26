@@ -23,15 +23,15 @@
 
 <UID>Tactical nuke</UID>
 
-  <HitPoints>290</HitPoints>
-  <FireDelay>5</FireDelay>
+  <HitPoints>725</HitPoints>
+  <FireDelay>20</FireDelay>
   <Range>17500</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>75</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>300</OrdinanceRequiredToFire>
   <DelayedIgnition>1.5</DelayedIgnition>
 <!-- Projectile stats -->
-  <DamageAmount>65000</DamageAmount>
-  <EMPDamage>4000</EMPDamage>
+  <DamageAmount>260000</DamageAmount>
+  <EMPDamage>16000</EMPDamage>
   <ProjectileSpeed>1750</ProjectileSpeed>
   <ExplosionRadius>196</ExplosionRadius> <!-- This projectile explodes -->
   <EffectVsShields>0.85</EffectVsShields>

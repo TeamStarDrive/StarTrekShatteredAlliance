@@ -12,7 +12,7 @@
   <FreighterModule>true</FreighterModule>
   <PlatformModule>false</PlatformModule>
   <StationModule>false</StationModule>
-  <Cost>7</Cost>
+  <Cost>10</Cost>
 
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>2</TechLevel>
@@ -31,7 +31,7 @@
   <Mass>16</Mass>
   <HealthMax>3254</HealthMax>
   
-  <Description>A minimal subspace field for transports and tenders. It adapts, but not far. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Borg ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
+  <Description>A minimal subspace field for transports and tenders. It adapts, but not far. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>15</PowerDraw>

@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/romulan_disrupter_cannon_mk2</IconTexturePath>
   <Mass>15</Mass>
   <HealthMax>11790</HealthMax>
-  <Description>A heavier cannon, mounted on the larger warships. Of the Romulan cannon weapons, it fires the fastest and fires the largest salvos.</Description>
+  <Description>A heavier cannon, mounted on the larger warships.</Description>
   
   
   <PowerDraw>4</PowerDraw>

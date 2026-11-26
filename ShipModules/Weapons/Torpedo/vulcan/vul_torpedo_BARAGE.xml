@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/torpedo_BARAGE</IconTexturePath>
   <Mass>350</Mass>
-  <HealthMax>58740</HealthMax>
-  <Description>A launcher that fires a barrage of torpedoes in one volley, spaced by calculation. Of the Vulcan torpedo weapons, it fires the fastest and fires the largest salvos.</Description>
+  <HealthMax>66750</HealthMax>
+  <Description>A launcher that fires a barrage of torpedoes in one volley, spaced by calculation.</Description>
   
   
   <PowerDraw>5</PowerDraw>

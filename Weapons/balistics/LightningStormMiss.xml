@@ -21,19 +21,19 @@
   <ExcludesStations>true</ExcludesStations>       
   <UID>LightningStormMiss</UID>
 
-  <HitPoints>10</HitPoints>
-  <FireDelay>3</FireDelay>
+  <HitPoints>25</HitPoints>
+  <FireDelay>15</FireDelay>
   <Range>3700</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>0.6</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>9.6</OrdinanceRequiredToFire>
   
 <!-- Projectile stats -->
   <ProjectileCount>1</ProjectileCount>
   <FireArc>15</FireArc>             <!--for shotgun effect-->
-  <DamageAmount>160</DamageAmount>
+  <DamageAmount>2560</DamageAmount>
   <ProjectileSpeed>1550</ProjectileSpeed>
   <ExplosionRadius>32</ExplosionRadius> <!-- This projectile explodes -->
-  <SalvoCount>8</SalvoCount>
+  <SalvoCount>2</SalvoCount>
   <SalvoTimer>1</SalvoTimer>
   <FireCone>30</FireCone>               <!--for salvos-->
   

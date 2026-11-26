@@ -26,9 +26,9 @@
   <Name>Klingon Fortress Deflector Array</Name>
   <IconTexturePath>Modules/station_deflector_mk2</IconTexturePath>
   <Mass>12000</Mass>
-  <HealthMax>80739</HealthMax>
+  <HealthMax>47134</HealthMax>
   
-  <Description>The deflector array of the Empire's greatest fortresses. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon station shields, size for size, it recharges the fastest and covers the widest area, but is the costliest to build.</Description>
+  <Description>The deflector array of the Empire's greatest fortresses. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>1600</PowerDraw>
@@ -39,9 +39,9 @@
   <!-- for shield items -->
   <ShieldPowerMax>1350000</ShieldPowerMax>
   <ShieldRechargeDelay>10</ShieldRechargeDelay>
-  <ShieldRechargeRate>9200</ShieldRechargeRate>
+  <ShieldRechargeRate>7360</ShieldRechargeRate>
   <ShieldRadius>520</ShieldRadius>
-  <ShieldRechargeCombatRate>1300</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>1040</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.79</ShieldEnergyResist>
   <ShieldBeamResist>0.79</ShieldBeamResist>
   <ShieldKineticResist>0.77</ShieldKineticResist>

@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>8</Mass>
-  <HealthMax>13844</HealthMax>
+  <HealthMax>16807</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>5</PowerDraw>
@@ -35,7 +35,7 @@
   <FieldOfFire>15</FieldOfFire>
 
   <!-- Description -->
-  <Description>A phased array that fires a stream of nadion-charged energy, with each emitter fed from the warp plasma grid. Of the Starfleet beam weapons, it hits the softest.</Description>
+  <Description>A phased array that fires a stream of nadion-charged energy, with each emitter fed from the warp plasma grid.</Description>
   
 
 </ShipModule>

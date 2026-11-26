@@ -12,7 +12,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
 
-  <Cost>45</Cost>
+  <Cost>59</Cost>
   <TechLevel>2</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons</IconTexturePath>
   <Mass>5000</Mass>
   <HealthMax>15444</HealthMax>
-  <Description>A fixed polaron bank for an outpost. Of the Dominion orbital cannon weapons, it fires the slowest.</Description>
+  <Description>A fixed polaron bank for an outpost.</Description>
   
   
   <PowerDraw>15</PowerDraw>

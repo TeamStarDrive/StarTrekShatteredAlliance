@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>108</Cost>
+  <Cost>131</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>4</XSize>
   <YSize>4</YSize>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_torpedo_launcher_mk1</IconTexturePath>
   <Mass>19500</Mass>
   <HealthMax>25410</HealthMax>
-  <Description>A launcher for a station's garrison, kept loaded in case of attack. Of the Cardassian orbital torpedo weapons, it fires the fastest, but has the slowest shots.</Description>
+  <Description>A launcher for a station's garrison, kept loaded in case of attack.</Description>
   
   
   <PowerDraw>5</PowerDraw>

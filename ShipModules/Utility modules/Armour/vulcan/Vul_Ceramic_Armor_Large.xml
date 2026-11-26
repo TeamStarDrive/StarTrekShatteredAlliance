@@ -20,7 +20,7 @@
     <DescriptionIndex>30011</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>54</Mass>
-    <HealthMax>55598</HealthMax>
+    <HealthMax>63180</HealthMax>
     <RepairDifficulty>1</RepairDifficulty>
     <Deflection>0</Deflection>            
     <!-- Armor resistance -->
@@ -30,6 +30,6 @@
     <ExplosiveResist>0.12</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Ceramic fired in the heat of the Forge, the desert of Vulcan, and finished without a single flaw. Some protection against kinetic rounds and explosions. Of the Vulcan ship plates of its size, it is the weakest against beams.</Description>
+    <Description>Ceramic fired in the heat of the Forge, the desert of Vulcan, and finished without a single flaw. Some protection against kinetic rounds and explosions.</Description>
     <APResist>1</APResist>
 </ShipModule>

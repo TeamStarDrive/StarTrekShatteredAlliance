@@ -4,7 +4,7 @@
   <UID>dom_particalPhasor_beam_mk1</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>75</Cost>
+  <Cost>98</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>2</TechLevel>
 
@@ -35,7 +35,7 @@
   <FieldOfFire>15</FieldOfFire>
 
   <!-- Description -->
-  <Description>A light phased polaron beam for attack ships, which in threes were enough to bring down a Galaxy-class starship. Of the Dominion beam weapons, it fires the fastest and is the sturdiest for its size, but hits the softest.</Description>
+  <Description>A light phased polaron beam for attack ships, which in threes were enough to bring down a Galaxy-class starship.</Description>
   
 
 </ShipModule>

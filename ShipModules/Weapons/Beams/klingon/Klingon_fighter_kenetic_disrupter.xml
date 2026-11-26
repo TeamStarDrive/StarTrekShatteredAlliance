@@ -23,7 +23,7 @@
 
   <!-- Mass and Health -->
   <Mass>60</Mass>
-  <HealthMax>1034</HealthMax>
+  <HealthMax>604</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>10</PowerDraw>
@@ -34,7 +34,7 @@
   <FieldOfFire>15</FieldOfFire>
   <AccuracyPercent>0.28</AccuracyPercent>
   <!-- Description -->
-  <Description>A light disruptor round for raiders, thrown rather than fired as a beam. Of the Klingon cannon weapons, it does the most to shields, but hits the softest.</Description>
+  <Description>A light disruptor round for raiders, thrown rather than fired as a beam.</Description>
   
 
 </ShipModule>

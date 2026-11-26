@@ -25,9 +25,9 @@
   <Name>Klingon Outpost Deflector Generator</Name>
   <IconTexturePath>Modules/ORBITAL_SHEAILD_2X2</IconTexturePath>
   <Mass>5000</Mass>
-  <HealthMax>37597</HealthMax>
+  <HealthMax>21949</HealthMax>
   
-  <Description>A deflector generator for outposts on the frontier. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon platform shields, size for size, it holds the most energy and recharges the fastest, but covers the narrowest area.</Description>
+  <Description>A deflector generator for outposts on the frontier. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>100</PowerDraw>
@@ -38,9 +38,9 @@
   <!-- for shield items -->
   <ShieldPowerMax>54000</ShieldPowerMax>
   <ShieldRechargeDelay>5</ShieldRechargeDelay>
-  <ShieldRechargeRate>2200</ShieldRechargeRate>
+  <ShieldRechargeRate>1760</ShieldRechargeRate>
   <ShieldRadius>90</ShieldRadius>
-  <ShieldRechargeCombatRate>400</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>320</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.39</ShieldEnergyResist>
   <ShieldBeamResist>0.39</ShieldBeamResist>
   <ShieldKineticResist>0.37</ShieldKineticResist>

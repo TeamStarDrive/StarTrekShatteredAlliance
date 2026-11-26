@@ -20,11 +20,11 @@
 
   <UID>PhasorBeam</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
+  <FireDelay>2.25</FireDelay>
   <Range>5900</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>0.5</BeamDuration>
+  <BeamDuration>0.25</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
  
@@ -32,10 +32,10 @@
   <BeamTexture>beam_red</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>26</DamageAmount>
+  <DamageAmount>52</DamageAmount>
   <EffectVsShields>1.1</EffectVsShields> 
   <BeamThickness>25</BeamThickness>
-  <BeamPowerCostPerSecond>1160</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>2320</BeamPowerCostPerSecond>
   <WeaponRotation>2</WeaponRotation>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->

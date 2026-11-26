@@ -4,7 +4,7 @@
   <UID>cutting_beam</UID> 
   <Version>2</Version>
 
-  <Cost>80</Cost>
+  <Cost>115</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>2</TechLevel>
   
@@ -33,7 +33,7 @@
   <WeaponType>cutting_beam</WeaponType>
   <FieldOfFire>15</FieldOfFire>
   <!-- Description -->
-  <Description>A high-energy cutting beam, the tool a drone uses to slice into a ship for assimilation. Of the Borg beam weapons, it hits the softest.</Description>
+  <Description>A high-energy cutting beam, the tool a drone uses to slice into a ship for assimilation.</Description>
   
 
 </ShipModule>

@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-    <Cost>10</Cost>
+    <Cost>14</Cost>
     <!-- Tech Level -->
     <TechLevel>4</TechLevel>
     <TechBranch>Armor</TechBranch>
@@ -41,6 +41,6 @@
     <ExplosiveResist>0.45</ExplosiveResist>
 
     <!-- Description -->
-    <Description>A regenerative hull, tended by nanoprobes. A cube can lose most of its mass and keep working, because its systems are decentralised and redundant. Strong protection against every kind of fire. Of the Borg orbital plates of its size, it is the lightest, but the hardest to repair.</Description>
+    <Description>A regenerative hull, tended by nanoprobes. A cube can lose most of its mass and keep working, because its systems are decentralised and redundant. Strong protection against every kind of fire.</Description>
     <APResist>1</APResist>    
 </ShipModule>

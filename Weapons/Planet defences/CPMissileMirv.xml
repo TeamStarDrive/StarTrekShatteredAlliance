@@ -21,14 +21,14 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>    
   <UID>CPMissileMirv</UID>
 
-  <HitPoints>50</HitPoints>
-  <FireDelay>6</FireDelay>
+  <HitPoints>125</HitPoints>
+  <FireDelay>24</FireDelay>
   <Range>4000</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>8</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>32</OrdinanceRequiredToFire>
   
 <!-- Projectile stats -->
-  <DamageAmount>10000</DamageAmount>
+  <DamageAmount>40000</DamageAmount>
   <ProjectileCount>4</ProjectileCount>
   <ProjectileSpeed>1600</ProjectileSpeed>
   <ExplosionRadius>60</ExplosionRadius> <!-- This Projectile Explodes -->

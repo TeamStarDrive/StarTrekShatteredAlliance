@@ -41,6 +41,6 @@
     <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Plate grown in the manner of the Remans, whose labour built much of the Empire, and mended by the same slow patience. Strong protection against every kind of fire. Of the Romulan orbital plates of its size, it is the lightest, but the hardest to repair.</Description>
+    <Description>Plate grown in the manner of the Remans, whose labour built much of the Empire, and mended by the same slow patience. Strong protection against every kind of fire.</Description>
     <APResist>1</APResist>    
 </ShipModule>

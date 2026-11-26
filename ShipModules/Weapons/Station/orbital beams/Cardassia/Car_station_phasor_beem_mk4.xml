@@ -14,7 +14,7 @@
   <UID>Car_station_phasor_beem_mk4</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>35</Cost>
+  <Cost>43</Cost>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
   <!-- Tech Level Used by AI for Upgrading Ships -->
@@ -47,7 +47,7 @@
   <FieldOfFire>180</FieldOfFire>
 
   <!-- Description -->
-  <Description>The long lance of the Union's fortress stations, which no ship can safely approach. Of the Cardassian orbital beam weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
+  <Description>The long lance of the Union's fortress stations, which no ship can safely approach.</Description>
   
 
 </ShipModule>

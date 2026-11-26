@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/romulan_disrupter_cannon_mk3</IconTexturePath>
   <Mass>25</Mass>
   <HealthMax>19613</HealthMax>
-  <Description>A cannon for breaking the defences of a held position. Of the Romulan cannon weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
+  <Description>A cannon for breaking the defences of a held position.</Description>
   
   
   <PowerDraw>4</PowerDraw>

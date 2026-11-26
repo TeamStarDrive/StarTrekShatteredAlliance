@@ -29,9 +29,9 @@
   <Name>Fed_advanced_crusier_sheaild</Name>
   <IconTexturePath>Modules/advanced_crusier_sheaild</IconTexturePath>
   <Mass>91</Mass>
-  <HealthMax>62951</HealthMax>
+  <HealthMax>76424</HealthMax>
   
-  <Description>The grid reads incoming fire and remodulates its shield harmonics to match, so each hit lands on a field already tuned against it. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it is the quickest to come back after being knocked down.</Description>
+  <Description>The grid reads incoming fire and remodulates its shield harmonics to match, so each hit lands on a field already tuned against it. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>200</PowerDraw>

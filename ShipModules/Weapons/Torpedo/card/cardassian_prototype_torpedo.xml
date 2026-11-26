@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>140</Cost>
+  <Cost>170</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>3</XSize>
   <YSize>7</YSize>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/cardassian_prototype_torpedo</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>14490</HealthMax>
-  <Description>An experimental launcher, still on the testing range. Of the Cardassian torpedo weapons, it hits the hardest and reaches the farthest, but has the slowest shots.</Description>
+  <Description>An experimental launcher, still on the testing range.</Description>
   
   
   <PowerDraw>5</PowerDraw>

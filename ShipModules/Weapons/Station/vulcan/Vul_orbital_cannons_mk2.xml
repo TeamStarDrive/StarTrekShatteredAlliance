@@ -23,8 +23,8 @@
   <UID>Vul_orbital_cannons_mk2</UID>
   <IconTexturePath>Modules/orbital_cannons_mk2</IconTexturePath>
   <Mass>50000</Mass>
-  <HealthMax>27020</HealthMax>
-  <Description>A battery of phase cannons around a station's ring. Of the Vulcan orbital cannon weapons, it has the fastest shots.</Description>
+  <HealthMax>30705</HealthMax>
+  <Description>A battery of phase cannons around a station's ring.</Description>
   
   
   <PowerDraw>30</PowerDraw>

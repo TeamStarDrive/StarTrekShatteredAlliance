@@ -41,6 +41,6 @@
     <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Polarised plate for the ring of a Neutral Zone station, built to take a surprise. Strong protection against beams, plasma and explosions, good protection against kinetic rounds. Of the Romulan orbital plates of its size, it is the lightest and the cheapest to build, but the most fragile.</Description>
+    <Description>Polarised plate for the ring of a Neutral Zone station, built to take a surprise. Strong protection against beams, plasma and explosions, good protection against kinetic rounds.</Description>
     <APResist>1</APResist>
 </ShipModule>

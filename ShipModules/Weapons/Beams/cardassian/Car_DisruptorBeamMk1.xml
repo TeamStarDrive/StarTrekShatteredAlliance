@@ -4,7 +4,7 @@
   <UID>Car_DisruptorBeamMk1</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>70</Cost>
+  <Cost>85</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>1</TechLevel>
 
@@ -35,7 +35,7 @@
   <FieldOfFire>30</FieldOfFire>
 
   <!-- Description -->
-  <Description>The spiral-wave disruptor is the standard gun of Cardassian warships, with a firing arc wide enough for a long patrol. Of the Cardassian beam weapons, it hits the softest.</Description>
+  <Description>The spiral-wave disruptor is the standard gun of Cardassian warships, with a firing arc wide enough for a long patrol.</Description>
   
 
 </ShipModule>

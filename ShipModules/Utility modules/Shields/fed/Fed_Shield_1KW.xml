@@ -18,9 +18,9 @@
 
   <IconTexturePath>Modules/Shield_1KW</IconTexturePath>
   <Mass>36</Mass>
-  <HealthMax>12665</HealthMax>
+  <HealthMax>15376</HealthMax>
   
-  <Description>The standard deflector generator of Starfleet escorts and patrol craft, with its emitters modulated across a narrow frequency band. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it covers the narrowest area.</Description>
+  <Description>The standard deflector generator of Starfleet escorts and patrol craft, with its emitters modulated across a narrow frequency band. Good protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>45</PowerDraw>

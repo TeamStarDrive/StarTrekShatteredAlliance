@@ -14,7 +14,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>77</Cost>
+  <Cost>94</Cost>
   <TechLevel>4</TechLevel>
 
   <RepairDifficulty>4</RepairDifficulty>
@@ -31,7 +31,7 @@
   <Mass>91</Mass>
   <HealthMax>18976</HealthMax>
   
-  <Description>The Keldon-class shares the Galor's hull with an extra superstructure, and a stronger grid to match. Its shields take energy fire well. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it is the quickest to come back after being knocked down.</Description>
+  <Description>The Keldon-class shares the Galor's hull with an extra superstructure, and a stronger grid to match. Its shields take energy fire well. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>200</PowerDraw>

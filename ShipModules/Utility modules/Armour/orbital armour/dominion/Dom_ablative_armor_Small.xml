@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>4</Cost>
+  <Cost>5</Cost>
   <DroneModule>true</DroneModule>
   <FighterModule>true</FighterModule>
   <CorvetteModule>true</CorvetteModule>
@@ -58,7 +58,7 @@
   <PlasmaResist>0.2</PlasmaResist>
 
   <!-- Description -->
-  <Description>Ablative plating for the depots that store ketracel-white, the one cargo the Dominion cannot afford to lose. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Dominion orbital plates of its size, it is the toughest and the best protected against beams, but the heaviest.</Description>
+  <Description>Ablative plating for the depots that store ketracel-white, the one cargo the Dominion cannot afford to lose. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

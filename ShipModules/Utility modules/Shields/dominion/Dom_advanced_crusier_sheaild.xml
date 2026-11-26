@@ -14,7 +14,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>83</Cost>
+  <Cost>108</Cost>
   <TechLevel>4</TechLevel>
 
   <RepairDifficulty>4</RepairDifficulty>
@@ -31,7 +31,7 @@
   <Mass>91</Mass>
   <HealthMax>37499</HealthMax>
   
-  <Description>The deflector grid of the Dominion battleships, the largest ships the Dominion ever sent to war. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Dominion ship shields, size for size, it is the quickest to come back after being knocked down.</Description>
+  <Description>The deflector grid of the Dominion battleships, the largest ships the Dominion ever sent to war. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>200</PowerDraw>

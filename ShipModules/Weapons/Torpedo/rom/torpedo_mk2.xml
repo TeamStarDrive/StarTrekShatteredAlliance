@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/torpedo_mk2</IconTexturePath>
   <Mass>132</Mass>
   <HealthMax>11070</HealthMax>
-  <Description>A larger torpedo for the warbirds, fired from tubes along the hull. Of the Romulan torpedo weapons, it fires the fastest, but carries the least ordnance.</Description>
+  <Description>A larger torpedo for the warbirds, fired from tubes along the hull.</Description>
   
   
   <PowerDraw>5</PowerDraw>

@@ -53,11 +53,11 @@
   </EconomicTraitsWeights>  
   
   <!-- Rebel Faction data.-->
-  <RebelName>Syrrannite Movement</RebelName>
-  <RebelSing>Syrrannite</RebelSing>
-  <RebelPlur>Syrrannites</RebelPlur>
-  <TroopNameIndex>40110</TroopNameIndex>
-  <TroopDescriptionIndex>40111</TroopDescriptionIndex>
+  <RebelName>Confederate Rebels</RebelName>
+  <RebelSing>Confederate</RebelSing>
+  <RebelPlur>Confederates</RebelPlur>
+  <TroopNameIndex>2083</TroopNameIndex>
+  <TroopDescriptionIndex>2092</TroopDescriptionIndex>
 
   <Traits>
     <Name>Vulcan</Name>
@@ -69,10 +69,10 @@
     <Adj2>simian</Adj2>
     <HomeSystemName>Vulcan</HomeSystemName>
     <HomeworldName>Vulcan</HomeworldName>
-    <FlagIndex>4</FlagIndex>
-    <R>406</R>
-    <G>306</G>
-    <B>506</B>
+    <FlagIndex>5</FlagIndex>
+    <R>235</R>
+    <G>125</G>
+    <B>40</B>
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>

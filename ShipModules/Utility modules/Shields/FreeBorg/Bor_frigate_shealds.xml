@@ -14,7 +14,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>64</Cost>
+  <Cost>92</Cost>
 
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
@@ -33,7 +33,7 @@
   <Mass>46</Mass>
   <HealthMax>33772</HealthMax>
   
-  <Description>The adaptive field of a Borg sphere, which keeps remodulating while the ship works. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Borg ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build.</Description>
+  <Description>The adaptive field of a Borg sphere, which keeps remodulating while the ship works. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>120</PowerDraw>

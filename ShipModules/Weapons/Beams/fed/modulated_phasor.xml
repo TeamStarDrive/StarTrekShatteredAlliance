@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>28</Mass>
-  <HealthMax>45308</HealthMax>
+  <HealthMax>55006</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>15</PowerDraw>
@@ -35,7 +35,7 @@
   <FieldOfFire>360</FieldOfFire>
 
   <!-- Description -->
-  <Description>A phaser whose pulse is modulated across many frequencies at once, so it finds the gaps in a hull's plating. Of the Starfleet beam weapons, it hits the hardest and reaches the farthest.</Description>
+  <Description>A phaser whose pulse is modulated across many frequencies at once, so it finds the gaps in a hull's plating.</Description>
   
 
 </ShipModule>

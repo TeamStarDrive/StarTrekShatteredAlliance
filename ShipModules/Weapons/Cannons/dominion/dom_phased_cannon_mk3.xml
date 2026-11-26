@@ -3,7 +3,7 @@
 
   <DroneModule>false</DroneModule>
 
-  <Cost>38</Cost>
+  <Cost>50</Cost>
   <TechLevel>3</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/phased_cannon_mk3</IconTexturePath>
   <Mass>25</Mass>
   <HealthMax>22202</HealthMax>
-  <Description>A cannon for breaking the defences of a held position. Of the Dominion cannon weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
+  <Description>A cannon for breaking the defences of a held position.</Description>
   
   
   <PowerDraw>7</PowerDraw>

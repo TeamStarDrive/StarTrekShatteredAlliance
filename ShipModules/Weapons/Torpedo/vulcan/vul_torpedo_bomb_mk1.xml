@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/torpedo_bomb_mk1</IconTexturePath>
   <Mass>200</Mass>
-  <HealthMax>21780</HealthMax>
-  <Description>A launcher for a torpedo bomb, a single heavy warhead. Of the Vulcan torpedo weapons, it hits the hardest and has the widest blast, but fires the smallest salvos.</Description>
+  <HealthMax>24750</HealthMax>
+  <Description>A launcher for a torpedo bomb, a single heavy warhead.</Description>
   
   
   <PowerDraw>20</PowerDraw>

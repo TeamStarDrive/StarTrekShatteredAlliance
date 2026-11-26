@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/hevey_torpedo_mk1</IconTexturePath>
   <Mass>190</Mass>
-  <HealthMax>25740</HealthMax>
-  <Description>A heavy launcher, for a warhead that can break a hull. Of the Vulcan torpedo weapons, it fires the slowest.</Description>
+  <HealthMax>29250</HealthMax>
+  <Description>A heavy launcher, for a warhead that can break a hull.</Description>
   
   
   <PowerDraw>5</PowerDraw>

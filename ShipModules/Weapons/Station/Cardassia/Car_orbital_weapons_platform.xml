@@ -13,7 +13,7 @@
   <StationModule>true</StationModule>
   <DroneModule>false</DroneModule>
 
-  <Cost>35</Cost>
+  <Cost>43</Cost>
   <TechLevel>1</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -25,7 +25,7 @@
   <IconTexturePath>Modules/orbital_weapons_platform</IconTexturePath>
   <Mass>29</Mass>
   <HealthMax>7813</HealthMax>
-  <Description>An orbital weapon platform carried three disruptor arrays. Many were built to guard the home worlds so the fleet could be used offensively. Of the Cardassian orbital cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
+  <Description>An orbital weapon platform carried three disruptor arrays. Many were built to guard the home worlds so the fleet could be used offensively.</Description>
   
   
   <PowerDraw>10</PowerDraw>

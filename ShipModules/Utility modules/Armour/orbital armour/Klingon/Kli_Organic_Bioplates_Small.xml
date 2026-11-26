@@ -47,7 +47,7 @@
 
   <!-- Mass and Health -->
   <Mass>3</Mass>
-  <HealthMax>12210</HealthMax>
+  <HealthMax>7128</HealthMax>
   <RepairDifficulty>2</RepairDifficulty>
   <Deflection>50</Deflection>              
   <!-- Armor resistance -->
@@ -58,7 +58,7 @@
     <ExplosiveResist>0.35</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Klingons are born with two of every organ, and so is this plate. When one layer is wounded, a spare takes its place. Strong protection against every kind of fire. Of the Klingon orbital plates of its size, it is the lightest.</Description>
+  <Description>Klingons are born with two of every organ, and so is this plate. When one layer is wounded, a spare takes its place. Strong protection against every kind of fire.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

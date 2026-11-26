@@ -4,7 +4,7 @@
   <UID>cardasian_fighter_beam</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>35</Cost>
+  <Cost>43</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
 
@@ -35,7 +35,7 @@
   <FieldOfFire>45</FieldOfFire>
 
   <!-- Description -->
-  <Description>Light disruptor array for Hideki-pattern fighters. Disruptors break down the target's molecular bonds, and this one does it from a small hull. Of the Cardassian beam weapons, it fires the fastest and is the sturdiest for its size, but has the shortest reach.</Description>
+  <Description>Light disruptor array for Hideki-pattern fighters. Disruptors break down the target's molecular bonds, and this one does it from a small hull.</Description>
   
 
 </ShipModule>

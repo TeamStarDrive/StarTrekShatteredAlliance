@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons_mk1</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>13733</HealthMax>
-  <Description>A heavy disruptor cannon for a station's ring. Of the Romulan orbital cannon weapons, it has the fastest shots, but fires the slowest.</Description>
+  <Description>A heavy disruptor cannon for a station's ring.</Description>
   
   
   <PowerDraw>20</PowerDraw>

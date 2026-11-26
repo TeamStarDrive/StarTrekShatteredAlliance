@@ -23,21 +23,21 @@
 
   <UID>MRM mk3</UID>
 
-  <HitPoints>35</HitPoints>
-  <FireDelay>10.5</FireDelay>
+  <HitPoints>88</HitPoints>
+  <FireDelay>48</FireDelay>
   <Range>6000</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>16</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>256</OrdinanceRequiredToFire>
   <TerminalPhaseAttack>true</TerminalPhaseAttack>      
   <TerminalPhaseDistance>2000</TerminalPhaseDistance>      
   <TerminalPhaseSpeedMod>2.5</TerminalPhaseSpeedMod>  
   <DelayedIgnition>0.75</DelayedIgnition>    
   
 <!-- Projectile stats -->
-  <DamageAmount>1500</DamageAmount>
+  <DamageAmount>24000</DamageAmount>
   <ProjectileSpeed>1200</ProjectileSpeed>
   <ExplosionRadius>40</ExplosionRadius> <!-- This projectile explodes -->
-  <SalvoCount>4</SalvoCount>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>2</SalvoTimer>
   <ShieldPenChance>6</ShieldPenChance>
   <DelayedIgnition>1</DelayedIgnition>

@@ -21,11 +21,11 @@
 
   <UID>FocusPhasorBeam</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>10</FireDelay>
+  <FireDelay>12.4</FireDelay>
   <Range>9800</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>4</BeamDuration>
+  <BeamDuration>1.6</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
@@ -33,9 +33,9 @@
   <BeamTexture>beam_red</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>37</DamageAmount>
+  <DamageAmount>92</DamageAmount>
   <BeamThickness>42</BeamThickness>
-  <BeamPowerCostPerSecond>2787</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>6968</BeamPowerCostPerSecond>
   <EffectVsArmor>1.20</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>
  

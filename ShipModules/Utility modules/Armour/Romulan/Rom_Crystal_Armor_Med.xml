@@ -30,6 +30,6 @@
     <PlasmaResist>-0.05</PlasmaResist>
 
     <!-- Description -->
-    <Description>A crystal lattice from the secret works of the Tal Shiar, which does not say what it is made of. Good protection against explosions, some protection against kinetic rounds. Of the Romulan ship plates of its size, it is the best protected against explosions and the best against armour-piercing rounds, but the costliest to build.</Description>
+    <Description>A crystal lattice from the secret works of the Tal Shiar, which does not say what it is made of. Good protection against explosions, some protection against kinetic rounds.</Description>
     <APResist>2</APResist>    
 </ShipModule>

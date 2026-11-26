@@ -4,7 +4,7 @@
   <UID>dom_particalPhasor_beam_mk2</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>83</Cost>
+  <Cost>108</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>3</TechLevel>
 
@@ -35,7 +35,7 @@
   <FieldOfFire>15</FieldOfFire>
 
   <!-- Description -->
-  <Description>A bank of phased polaron emitters, the standard ship weapon of the Dominion. Of the Dominion beam weapons, it fires the slowest.</Description>
+  <Description>A bank of phased polaron emitters, the standard ship weapon of the Dominion.</Description>
   
 
 </ShipModule>

@@ -26,9 +26,9 @@
   <Name>Klingon Station Deflector Array</Name>
   <IconTexturePath>Modules/station_deflector_mk1</IconTexturePath>
   <Mass>10000</Mass>
-  <HealthMax>62017</HealthMax>
+  <HealthMax>36205</HealthMax>
   
-  <Description>The deflector array of a Klingon station, with emitters on every arm. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon station shields, size for size, it has the sturdiest housing, but draws the most power.</Description>
+  <Description>The deflector array of a Klingon station, with emitters on every arm. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>1200</PowerDraw>
@@ -39,9 +39,9 @@
   <!-- for shield items -->
   <ShieldPowerMax>675000</ShieldPowerMax>
   <ShieldRechargeDelay>10</ShieldRechargeDelay>
-  <ShieldRechargeRate>3200</ShieldRechargeRate>
+  <ShieldRechargeRate>2560</ShieldRechargeRate>
   <ShieldRadius>400</ShieldRadius>
-  <ShieldRechargeCombatRate>900</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>720</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.49</ShieldEnergyResist>
   <ShieldBeamResist>0.49</ShieldBeamResist>
   <ShieldKineticResist>0.49</ShieldKineticResist>

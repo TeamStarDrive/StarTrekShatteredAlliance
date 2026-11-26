@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>98</Cost>
+  <Cost>119</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>2</XSize>
   <YSize>5</YSize>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Car_PhotonTorpedoMk3</IconTexturePath>
   <Mass>300</Mass>
   <HealthMax>9198</HealthMax>
-  <Description>A heavier launcher for the Keldon-class. Of the Cardassian torpedo weapons, it has the fastest shots, but has the smallest blast.</Description>
+  <Description>A heavier launcher for the Keldon-class.</Description>
   
   
   <PowerDraw>5</PowerDraw>

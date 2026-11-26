@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-    <Cost>28</Cost>
+    <Cost>40</Cost>
     <FighterModule>false</FighterModule>
     <!-- Tech Level -->
     <TechLevel>6</TechLevel>
@@ -42,6 +42,6 @@
     <PlasmaResist>0.2</PlasmaResist>
 
     <!-- Description -->
-    <Description>Ablative plating for the nodes and hubs of the Collective. Drones replace it as it burns off. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Borg orbital plates of its size, it is the toughest and the best protected against explosions, but the heaviest.</Description>
+    <Description>Ablative plating for the nodes and hubs of the Collective. Drones replace it as it burns off. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma.</Description>
     <APResist>2</APResist>
 </ShipModule>

@@ -20,9 +20,9 @@
   
   <UID>Kling_DisruptorCannonMk1</UID>
   <Range>4000</Range>
-  <PowerRequiredToFire>100</PowerRequiredToFire>
+  <PowerRequiredToFire>1600</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <SalvoCount>4</SalvoCount>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>3</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -34,7 +34,7 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>224</DamageAmount>
+  <DamageAmount>29680</DamageAmount>
   <ProjectileSpeed>4200</ProjectileSpeed>
   <Light>Green</Light>
   <Scale>1.0</Scale>
@@ -45,6 +45,6 @@
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
   <WeaponType>Disruptor Cannons</WeaponType>
   <FireCueName>disruptor</FireCueName>
-  <FireDelay>4</FireDelay>
+  <FireDelay>25</FireDelay>
   <EffectVsArmor>1.06</EffectVsArmor>
 </Weapon>

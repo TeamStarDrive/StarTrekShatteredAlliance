@@ -12,7 +12,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
 
-  <Cost>48</Cost>
+  <Cost>69</Cost>
   <TechLevel>2</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons</IconTexturePath>
   <Mass>5000</Mass>
   <HealthMax>20877</HealthMax>
-  <Description>A gravimetric cannon for a node, aimed by the node's own sensors. Of the Borg orbital cannon weapons, it fires the slowest.</Description>
+  <Description>A gravimetric cannon for a node, aimed by the node's own sensors.</Description>
   
   
   <PowerDraw>15</PowerDraw>

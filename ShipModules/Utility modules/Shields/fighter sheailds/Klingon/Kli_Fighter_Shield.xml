@@ -26,9 +26,9 @@
 
   <IconTexturePath>Modules/Fighter_Shield</IconTexturePath>
   <Mass>9</Mass>
-  <HealthMax>370</HealthMax>
+  <HealthMax>216</HealthMax>
   
-  <Description>A light deflector emitter for raiders and scouts, which trust speed and teeth more than shielding. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon fighter shields, size for size, it draws the least power, but holds the least energy.</Description>
+  <Description>A light deflector emitter for raiders and scouts, which trust speed and teeth more than shielding. Good protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>20</PowerDraw>
@@ -39,8 +39,8 @@
   <!-- for shield items -->
   <ShieldPowerMax>2000</ShieldPowerMax>
   <ShieldRechargeDelay>7</ShieldRechargeDelay>
-  <ShieldRechargeRate>15</ShieldRechargeRate>
-  <ShieldRechargeCombatRate>50</ShieldRechargeCombatRate>
+  <ShieldRechargeRate>12</ShieldRechargeRate>
+  <ShieldRechargeCombatRate>40</ShieldRechargeCombatRate>
   <ShieldRadius>50</ShieldRadius>
   <ShieldEnergyResist>0.15</ShieldEnergyResist>
   <ShieldBeamResist>0.15</ShieldBeamResist>

@@ -30,7 +30,7 @@
     <DescriptionIndex>30393</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>90400</Mass>
-    <HealthMax>63452</HealthMax>
+    <HealthMax>77033</HealthMax>
     <RepairDifficulty>1</RepairDifficulty>
     <Deflection>0</Deflection>
     <!-- Armor resistance -->
@@ -40,6 +40,6 @@
     <ExplosiveResist>0.12</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Polarised plating, a current run through the hull to stiffen it against impact. It was in use before shields, and still guards the rings of starbases. Some protection against kinetic rounds and explosions. Of the Starfleet orbital plates of its size, it is the cheapest to build and the easiest to repair, but the most fragile.</Description>
+    <Description>Polarised plating, a current run through the hull to stiffen it against impact. It was in use before shields, and still guards the rings of starbases. Some protection against kinetic rounds and explosions.</Description>
     <APResist>1</APResist>
 </ShipModule>

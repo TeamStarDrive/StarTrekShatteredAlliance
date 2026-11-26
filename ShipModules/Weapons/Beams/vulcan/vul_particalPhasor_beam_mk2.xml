@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>18</Mass>
-  <HealthMax>21954</HealthMax>
+  <HealthMax>24948</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>10</PowerDraw>
@@ -35,7 +35,7 @@
   <FieldOfFire>15</FieldOfFire>
 
   <!-- Description -->
-  <Description>Two emitters set side by side, firing together. Of the Vulcan beam weapons, it does the most to armour, but fires the slowest.</Description>
+  <Description>Two emitters set side by side, firing together.</Description>
   
 
 </ShipModule>

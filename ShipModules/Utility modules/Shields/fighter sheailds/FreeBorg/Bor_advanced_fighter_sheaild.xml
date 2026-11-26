@@ -15,7 +15,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>10</Cost>
+  <Cost>14</Cost>
   <!-- common traits shared by all ship modules -->
   <TechLevel>2</TechLevel>
   <ModuleType>Shield</ModuleType>
@@ -30,7 +30,7 @@
   <Mass>10</Mass>
   <HealthMax>1530</HealthMax>
   
-  <Description>The field remodulates after each hit, so the weapon that struck it once does less the next time. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Borg fighter shields, size for size, it recharges the fastest, but draws the most power.</Description>
+  <Description>The field remodulates after each hit, so the weapon that struck it once does less the next time. Good protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>30</PowerDraw>

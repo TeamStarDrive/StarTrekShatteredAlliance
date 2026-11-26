@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/Fed_HeavyPhotonTorpedo_Mk2</IconTexturePath>
   <Mass>292</Mass>
-  <HealthMax>20691</HealthMax>
-  <Description>A launcher tuned for a high-yield warhead, with a larger antimatter charge. Of the Starfleet torpedo weapons, it hits the hardest and is the cheapest for its size, but carries the least ordnance.</Description>
+  <HealthMax>25120</HealthMax>
+  <Description>A launcher tuned for a high-yield warhead, with a larger antimatter charge.</Description>
   
   
   <PowerDraw>20</PowerDraw>

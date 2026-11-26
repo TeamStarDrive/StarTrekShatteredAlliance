@@ -14,7 +14,7 @@
   <UID>Car_station_phasor_beem_mk1</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>15</Cost>
+  <Cost>18</Cost>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
   <!-- Tech Level Used by AI for Upgrading Ships -->
@@ -47,7 +47,7 @@
   <FieldOfFire>360</FieldOfFire>
 
   <!-- Description -->
-  <Description>A lance for outposts, firing a narrow beam. Of the Cardassian orbital beam weapons, it is the sturdiest for its size, but hits the softest.</Description>
+  <Description>A lance for outposts, firing a narrow beam.</Description>
   
 
 </ShipModule>

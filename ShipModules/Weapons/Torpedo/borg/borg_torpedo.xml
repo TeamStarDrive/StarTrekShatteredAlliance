@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>92</Cost>
+  <Cost>132</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>1</XSize>
   <YSize>4</YSize>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/borg_torpedo</IconTexturePath>
   <Mass>90</Mass>
   <HealthMax>11781</HealthMax>
-  <Description>A missile used when the tractor beam cannot reach, built to drain a target's shields on a hit. Of the Borg missile weapons, it is the sturdiest for its size and has the fastest shots, but hits the softest.</Description>
+  <Description>A missile used when the tractor beam cannot reach, built to drain a target's shields on a hit.</Description>
   
   
   <PowerDraw>5</PowerDraw>

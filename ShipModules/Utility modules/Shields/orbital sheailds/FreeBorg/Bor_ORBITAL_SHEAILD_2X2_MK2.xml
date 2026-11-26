@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>102</Cost>
+  <Cost>147</Cost>
   <RepairDifficulty>7</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -27,7 +27,7 @@
   <Mass>6000</Mass>
   <HealthMax>63043</HealthMax>
   
-  <Description>A node field that remodulates between shots and keeps its frequencies close to the Collective's own. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Borg platform shields, size for size, it is the lightest and the cheapest to build, but holds the least energy.</Description>
+  <Description>A node field that remodulates between shots and keeps its frequencies close to the Collective's own. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>450</PowerDraw>

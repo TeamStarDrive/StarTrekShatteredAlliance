@@ -17,10 +17,10 @@
   <Tag_Cannon>true</Tag_Cannon>
   
   <UID>PlasmaCannonWpn</UID>
-  <FireDelay>2</FireDelay>
+  <FireDelay>8</FireDelay>
   <Range>4000</Range>
-  <PowerRequiredToFire>40</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>0.5</OrdinanceRequiredToFire>
+  <PowerRequiredToFire>160</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>2</OrdinanceRequiredToFire>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_railgun_01</FireCueName>
@@ -29,7 +29,7 @@
   <!-- Projectile Information -->
   <EffectVsArmor>1.1</EffectVsArmor>
   <EffectVsShields>1</EffectVsShields>
-  <DamageAmount>265</DamageAmount>
+  <DamageAmount>1060</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>1800</ProjectileSpeed>
   

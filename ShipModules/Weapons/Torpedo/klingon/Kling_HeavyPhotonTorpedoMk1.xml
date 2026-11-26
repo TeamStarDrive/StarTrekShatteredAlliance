@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/Kling_HeavyPhotonTorpedoMk1</IconTexturePath>
   <Mass>150</Mass>
-  <HealthMax>23532</HealthMax>
-  <Description>A heavy launcher for ships that want a hull and not a shield. Of the Klingon torpedo weapons, it carries the most ordnance, but has the smallest blast.</Description>
+  <HealthMax>13738</HealthMax>
+  <Description>A heavy launcher for ships that want a hull and not a shield.</Description>
   
   
   <PowerDraw>5</PowerDraw>

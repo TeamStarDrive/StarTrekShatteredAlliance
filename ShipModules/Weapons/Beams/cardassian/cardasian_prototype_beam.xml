@@ -4,7 +4,7 @@
   <UID>cardasian_prototype_beam</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>91</Cost>
+  <Cost>111</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>5</TechLevel>
 
@@ -35,7 +35,7 @@
   <FieldOfFire>60</FieldOfFire>
 
   <!-- Description -->
-  <Description>A trial array built for the Central Command's testing yards. Hand-tuned, and not yet ready for the line. Of the Cardassian beam weapons, it hits the hardest and fires the fastest, but is the frailest for its size.</Description>
+  <Description>A trial array built for the Central Command's testing yards. Hand-tuned, and not yet ready for the line.</Description>
   
 
 </ShipModule>

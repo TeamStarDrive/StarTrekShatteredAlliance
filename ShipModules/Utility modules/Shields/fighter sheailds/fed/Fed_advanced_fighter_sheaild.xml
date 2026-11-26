@@ -28,9 +28,9 @@
 
   <IconTexturePath>Modules/advanced_fighter_sheaild</IconTexturePath>
   <Mass>10</Mass>
-  <HealthMax>1710</HealthMax>
+  <HealthMax>2076</HealthMax>
   
-  <Description>The emitter steps through a rotating shield frequency, so an enemy that has matched one harmonic is thrown off at the next. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet fighter shields, size for size, it recharges the fastest, but draws the most power.</Description>
+  <Description>The emitter steps through a rotating shield frequency, so an enemy that has matched one harmonic is thrown off at the next. Good protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>30</PowerDraw>

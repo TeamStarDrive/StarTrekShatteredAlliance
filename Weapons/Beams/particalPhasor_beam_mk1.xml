@@ -21,11 +21,11 @@
 
   <UID>particalPhasor_beam_mk1</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>5</FireDelay>
+  <FireDelay>6.2</FireDelay>
   <Range>6000</Range>
   <PowerRequiredToFire>50</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2</BeamDuration>
+  <BeamDuration>0.8</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
@@ -33,9 +33,9 @@
   <BeamTexture>pulse_beam_purple</BeamTexture>
   
   <!-- Projectile Information -->
-  <DamageAmount>14</DamageAmount>
+  <DamageAmount>35</DamageAmount>
   <BeamThickness>10</BeamThickness>
-  <BeamPowerCostPerSecond>187</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>468</BeamPowerCostPerSecond>
   <EffectVsArmor>1.15</EffectVsArmor>
   <WeaponRotation>2</WeaponRotation>
  

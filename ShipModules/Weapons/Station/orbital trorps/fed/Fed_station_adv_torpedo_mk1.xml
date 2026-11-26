@@ -23,8 +23,8 @@
 
   <IconTexturePath>Modules/station_adv_torpedo_mk1</IconTexturePath>
   <Mass>14500</Mass>
-  <HealthMax>115596</HealthMax>
-  <Description>A battery of quantum torpedoes, with the vacuum-energy cores held in a shielded magazine. Of the Starfleet orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size.</Description>
+  <HealthMax>140338</HealthMax>
+  <Description>A battery of quantum torpedoes, with the vacuum-energy cores held in a shielded magazine.</Description>
   
   
   <PowerDraw>5</PowerDraw>

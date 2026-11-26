@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>13</Cost>
+  <Cost>16</Cost>
 
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>2</TechLevel>
@@ -20,7 +20,7 @@
   <Mass>36</Mass>
   <HealthMax>3818</HealthMax>
   
-  <Description>The standard generator of the Union's small patrol craft and escorts. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it covers the narrowest area.</Description>
+  <Description>The standard generator of the Union's small patrol craft and escorts. Good protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>45</PowerDraw>

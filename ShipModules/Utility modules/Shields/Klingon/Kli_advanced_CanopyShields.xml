@@ -16,9 +16,9 @@
   <Name>Klingon Negh'Var Deflector Canopy</Name>
   <IconTexturePath>Modules/advanced_CanopyShields</IconTexturePath>
   <Mass>250</Mass>
-  <HealthMax>81153</HealthMax>
+  <HealthMax>47376</HealthMax>
   
-  <Description>The deflector canopy of a Negh'Var-class warship, the flagship of the fleet. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
+  <Description>The deflector canopy of a Negh'Var-class warship, the flagship of the fleet. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>1400</PowerDraw>
@@ -29,9 +29,9 @@
   <!-- for shield items -->
   <ShieldPowerMax>226800</ShieldPowerMax>
   <ShieldRechargeDelay>20</ShieldRechargeDelay>
-  <ShieldRechargeRate>1200</ShieldRechargeRate>
+  <ShieldRechargeRate>960</ShieldRechargeRate>
   <ShieldRadius>600</ShieldRadius>
-  <ShieldRechargeCombatRate>1200</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>960</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.54</ShieldEnergyResist>
   <ShieldBeamResist>0.55</ShieldBeamResist>
   <ShieldKineticResist>-0.57</ShieldKineticResist>

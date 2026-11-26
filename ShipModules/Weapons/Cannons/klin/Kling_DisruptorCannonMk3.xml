@@ -14,8 +14,8 @@
 
   <IconTexturePath>Modules/Kling_DisruptorCannonMk3</IconTexturePath>
   <Mass>20</Mass>
-  <HealthMax>11331</HealthMax>
-  <Description>The heaviest disruptor cannon, mounted on the Vor'cha-class attack cruisers. Of the Klingon cannon weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
+  <HealthMax>6615</HealthMax>
+  <Description>The heaviest disruptor cannon, mounted on the Vor'cha-class attack cruisers.</Description>
   <CrewRequired>12</CrewRequired>
   
   <PowerDraw>12</PowerDraw>

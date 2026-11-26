@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/hevey_torpedo_mk2</IconTexturePath>
   <Mass>200</Mass>
-  <HealthMax>29700</HealthMax>
-  <Description>A heavier launcher still, meant for defended targets. Of the Vulcan torpedo weapons, it is the cheapest for its size, but is the frailest for its size.</Description>
+  <HealthMax>33750</HealthMax>
+  <Description>A heavier launcher still, meant for defended targets.</Description>
   
   
   <PowerDraw>5</PowerDraw>

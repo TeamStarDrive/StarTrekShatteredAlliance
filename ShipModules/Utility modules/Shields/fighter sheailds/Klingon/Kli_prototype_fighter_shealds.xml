@@ -28,9 +28,9 @@
 
   <IconTexturePath>Modules/prototype_fighter_shealds</IconTexturePath>
   <Mass>10</Mass>
-  <HealthMax>2072</HealthMax>
+  <HealthMax>1210</HealthMax>
   
-  <Description>An emitter built to work alongside a cloak. Early cloaks could not run while shields were up, and this prototype is an attempt to change that. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon fighter shields, size for size, it is the quickest to come back after being knocked down and draws the least power.</Description>
+  <Description>An emitter built to work alongside a cloak. Early cloaks could not run while shields were up, and this prototype is an attempt to change that. Good protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>40</PowerDraw>
@@ -41,8 +41,8 @@
   <!-- for shield items -->
   <ShieldPowerMax>13500</ShieldPowerMax>
   <ShieldRechargeDelay>3</ShieldRechargeDelay>
-  <ShieldRechargeRate>125</ShieldRechargeRate>
-  <ShieldRechargeCombatRate>60</ShieldRechargeCombatRate>
+  <ShieldRechargeRate>100</ShieldRechargeRate>
+  <ShieldRechargeCombatRate>48</ShieldRechargeCombatRate>
   <ShieldRadius>105</ShieldRadius>
   <ShieldEnergyResist>0.29</ShieldEnergyResist>
   <ShieldBeamResist>0.29</ShieldBeamResist>

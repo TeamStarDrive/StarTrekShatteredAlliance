@@ -17,9 +17,9 @@
   <Tag_Cannon>true</Tag_Cannon>
 
   <UID>IonDefenseCannon</UID>
-  <FireDelay>1.5</FireDelay>
+  <FireDelay>6</FireDelay>
   <Range>9800</Range>
-  <PowerRequiredToFire>180</PowerRequiredToFire>
+  <PowerRequiredToFire>720</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -28,9 +28,9 @@
 
 
   <!-- Projectile Information -->
-  <DamageAmount>1600</DamageAmount>
-  <EMPDamage>1250</EMPDamage>
-  <PowerDamage>1250</PowerDamage>
+  <DamageAmount>6400</DamageAmount>
+  <EMPDamage>5000</EMPDamage>
+  <PowerDamage>5000</PowerDamage>
   
   
   <MuzzleFlash>Yes</MuzzleFlash>

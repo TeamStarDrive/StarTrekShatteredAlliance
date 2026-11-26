@@ -25,9 +25,9 @@
   <Name>Fed_ORBITAL_SHEAILD_2X2_MK2</Name>
   <IconTexturePath>Modules/ORBITAL_SHEAILD_2X2_MK2</IconTexturePath>
   <Mass>6000</Mass>
-  <HealthMax>70460</HealthMax>
+  <HealthMax>85541</HealthMax>
   
-  <Description>A platform deflector with its emitters phase-locked into one field. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet platform shields, size for size, it is the lightest and the cheapest to build, but holds the least energy.</Description>
+  <Description>A platform deflector with its emitters phase-locked into one field. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>450</PowerDraw>

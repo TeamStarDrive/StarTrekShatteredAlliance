@@ -23,8 +23,8 @@
   <UID>Vul_orbital_cannons_mk1</UID>
   <IconTexturePath>Modules/orbital_cannons_mk1</IconTexturePath>
   <Mass>50000</Mass>
-  <HealthMax>27020</HealthMax>
-  <Description>A heavy phase cannon for a station's ring. Of the Vulcan orbital cannon weapons, it has the fastest shots, but fires the slowest.</Description>
+  <HealthMax>30705</HealthMax>
+  <Description>A heavy phase cannon for a station's ring.</Description>
   
   
   <PowerDraw>20</PowerDraw>

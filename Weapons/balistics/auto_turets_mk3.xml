@@ -20,17 +20,17 @@
 
   
   <UID>auto_turets_mk3</UID>
-  <FireDelay>5</FireDelay>
+  <FireDelay>25.7</FireDelay>
   <Range>6000</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>4</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>48</OrdinanceRequiredToFire>
 
 
   <!-- name of XACT audio cue to play on firing this weapon -->
    <FireCueName>sd_weapon_bigcannon_01</FireCueName>
   <DieCue>Explo1</DieCue>
   <!-- Projectile Information -->
-  <DamageAmount>1500</DamageAmount>
+  <DamageAmount>18000</DamageAmount>
   <Scale>1.8</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>1850</ProjectileSpeed>
@@ -39,7 +39,7 @@
   
   <ProjectileTexturePath>projTear_02_green</ProjectileTexturePath>
   <ModelPath>projTear</ModelPath>
-  <SalvoCount>6</SalvoCount>
+  <SalvoCount>2</SalvoCount>
   <SalvoTimer>1.9</SalvoTimer>
   <ShieldPenChance>0.4</ShieldPenChance>
   <!--the projectile count is spread over the fire arc-->

@@ -31,7 +31,7 @@
     <DescriptionIndex>30389</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>15400</Mass>
-    <HealthMax>129518</HealthMax>
+    <HealthMax>147180</HealthMax>
     <RepairDifficulty>1</RepairDifficulty>
     <Deflection>50</Deflection>            
     <!-- Armor resistance -->
@@ -41,6 +41,6 @@
     <ExplosiveResist>0.4</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Polarised plate for the ring of a Vulcan station, tuned to hold its shape under load. Strong protection against beams, plasma and explosions, good protection against kinetic rounds. Of the Vulcan orbital plates of its size, it is the lightest and the cheapest to build, but the most fragile.</Description>
+    <Description>Polarised plate for the ring of a Vulcan station, tuned to hold its shape under load. Strong protection against beams, plasma and explosions, good protection against kinetic rounds.</Description>
     <APResist>1</APResist>
 </ShipModule>

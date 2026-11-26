@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/singlarity_torpedo</IconTexturePath>
   <Mass>300</Mass>
   <HealthMax>25010</HealthMax>
-  <Description>A torpedo that draws on the quantum singularity technology that powers the warbirds, kept for the targets that matter most. Of the Romulan torpedo weapons, it reaches the farthest and is the cheapest for its size, but fires the slowest.</Description>
+  <Description>A torpedo that draws on the quantum singularity technology that powers the warbirds, kept for the targets that matter most.</Description>
   
   
   <PowerDraw>5</PowerDraw>

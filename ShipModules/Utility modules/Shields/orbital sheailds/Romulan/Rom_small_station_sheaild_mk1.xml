@@ -28,7 +28,7 @@
   <Mass>9000</Mass>
   <HealthMax>41467</HealthMax>
   
-  <Description>A shield emitter for a listening post, whose first job is to be forgotten. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Romulan station shields, size for size, it draws the least power and is the cheapest to build, but holds the least energy.</Description>
+  <Description>A shield emitter for a listening post, whose first job is to be forgotten. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>900</PowerDraw>

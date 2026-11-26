@@ -4,7 +4,7 @@
   <UID>cutting_beam_mk3</UID> 
   <Version>2</Version>
 
-  <Cost>26</Cost>
+  <Cost>37</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
   
@@ -33,7 +33,7 @@
   <WeaponType>cutting_beam_mk3</WeaponType>
   <FieldOfFire>45</FieldOfFire>
   <!-- Description -->
-  <Description>A focused cutting beam for tactical vessels, tuned to the shield frequency of its target. Of the Borg beam weapons, it hits the hardest and reaches the farthest, but fires the slowest.</Description>
+  <Description>A focused cutting beam for tactical vessels, tuned to the shield frequency of its target.</Description>
   
 
 </ShipModule>

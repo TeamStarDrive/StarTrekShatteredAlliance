@@ -12,7 +12,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
 
-  <Cost>42</Cost>
+  <Cost>51</Cost>
   <TechLevel>2</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons</IconTexturePath>
   <Mass>5000</Mass>
   <HealthMax>7815</HealthMax>
-  <Description>The System-5 disruptor was a planetary defence weapon, never designed to move. It guarded outposts like Korma. Of the Cardassian orbital cannon weapons, it fires the slowest.</Description>
+  <Description>The System-5 disruptor was a planetary defence weapon, never designed to move. It guarded outposts like Korma.</Description>
   
   
   <PowerDraw>15</PowerDraw>

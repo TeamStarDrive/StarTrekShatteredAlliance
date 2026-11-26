@@ -3,7 +3,7 @@
 
   <DroneModule>false</DroneModule>
 
-  <Cost>34</Cost>
+  <Cost>44</Cost>
   <TechLevel>2</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/phased_cannon_mk2</IconTexturePath>
   <Mass>15</Mass>
   <HealthMax>13072</HealthMax>
-  <Description>A heavier cannon, mounted on the larger Jem'Hadar warships. Of the Dominion cannon weapons, it fires the fastest and fires the largest salvos.</Description>
+  <Description>A heavier cannon, mounted on the larger Jem'Hadar warships.</Description>
   
   
   <PowerDraw>4</PowerDraw>

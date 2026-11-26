@@ -26,9 +26,9 @@
   <Name>Vulcan Seleya Fortress Deflector</Name>
   <IconTexturePath>Modules/station_deflector_mk2</IconTexturePath>
   <Mass>12000</Mass>
-  <HealthMax>130928</HealthMax>
+  <HealthMax>148782</HealthMax>
   
-  <Description>The deflector of Vulcan's great fortress stations, the last line of defence. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Vulcan station shields, size for size, it recharges the fastest and covers the widest area, but is the costliest to build.</Description>
+  <Description>The deflector of Vulcan's great fortress stations, the last line of defence. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>1600</PowerDraw>

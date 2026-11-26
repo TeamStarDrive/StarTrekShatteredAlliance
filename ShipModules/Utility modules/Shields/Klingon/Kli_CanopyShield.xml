@@ -16,9 +16,9 @@
   <Name>Klingon Battlecruiser Deflector Canopy</Name>
   <IconTexturePath>Modules/shield_3x6</IconTexturePath>
   <Mass>200</Mass>
-  <HealthMax>65273</HealthMax>
+  <HealthMax>38105</HealthMax>
   
-  <Description>A deflector canopy drawn over a battlecruiser's whole hull. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon ship shields, size for size, it is the slowest to come back after being knocked down.</Description>
+  <Description>A deflector canopy drawn over a battlecruiser's whole hull. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>900</PowerDraw>
@@ -29,9 +29,9 @@
   <!-- for shield items -->
   <ShieldPowerMax>153000</ShieldPowerMax>
   <ShieldRechargeDelay>30</ShieldRechargeDelay>
-  <ShieldRechargeRate>1200</ShieldRechargeRate>
+  <ShieldRechargeRate>960</ShieldRechargeRate>
   <ShieldRadius>400</ShieldRadius>
-  <ShieldRechargeCombatRate>900</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>720</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.44</ShieldEnergyResist>
   <ShieldBeamResist>0.45</ShieldBeamResist>
   <ShieldKineticResist>-0.47</ShieldKineticResist>

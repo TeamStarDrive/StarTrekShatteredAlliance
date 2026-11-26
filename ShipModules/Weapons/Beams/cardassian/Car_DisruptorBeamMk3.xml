@@ -4,7 +4,7 @@
   <UID>Car_DisruptorBeamMk3</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>85</Cost>
+  <Cost>103</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>3</TechLevel>
 
@@ -35,7 +35,7 @@
   <FieldOfFire>45</FieldOfFire>
 
   <!-- Description -->
-  <Description>A heavier array for the Keldon-class, which shares the Galor's hull under a larger superstructure. Of the Cardassian beam weapons, it fires the fastest, but does the least to armour.</Description>
+  <Description>A heavier array for the Keldon-class, which shares the Galor's hull under a larger superstructure.</Description>
   
 
 </ShipModule>

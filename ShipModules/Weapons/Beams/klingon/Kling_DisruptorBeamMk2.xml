@@ -23,7 +23,7 @@
 
   <!-- Mass and Health -->
   <Mass>60</Mass>
-  <HealthMax>18209</HealthMax>
+  <HealthMax>10630</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>15</PowerDraw>
@@ -34,7 +34,7 @@
   <FieldOfFire>15</FieldOfFire>
   <AccuracyPercent>0.68</AccuracyPercent>
   <!-- Description -->
-  <Description>The disruptor banks of the K't'inga-class battlecruiser, which carries several along its hull. Of the Klingon beam weapons, it fires the fastest and is the cheapest for its size, but is the frailest for its size.</Description>
+  <Description>The disruptor banks of the K't'inga-class battlecruiser, which carries several along its hull.</Description>
   
 
 </ShipModule>

@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/plasma_torpedo_mk2</IconTexturePath>
   <Mass>350</Mass>
   <HealthMax>23370</HealthMax>
-  <Description>A heavier plasma torpedo for the great warbirds, the same weapon on a larger scale. Of the Romulan torpedo weapons, it hits the hardest and reaches the farthest, but fires the smallest salvos.</Description>
+  <Description>A heavier plasma torpedo for the great warbirds, the same weapon on a larger scale.</Description>
   
   
   <PowerDraw>5</PowerDraw>

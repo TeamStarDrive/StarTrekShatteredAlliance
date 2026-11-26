@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>202</Cost>
+  <Cost>245</Cost>
   <RepairDifficulty>16</RepairDifficulty>
   <TechLevel>6</TechLevel>
   
@@ -18,7 +18,7 @@
   <Mass>250</Mass>
   <HealthMax>37685</HealthMax>
   
-  <Description>The canopy field of the biggest Cardassian warships. Meant to cover a whole squadron at once. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
+  <Description>The canopy field of the biggest Cardassian warships. Meant to cover a whole squadron at once. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>1400</PowerDraw>

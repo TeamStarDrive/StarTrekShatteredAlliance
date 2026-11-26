@@ -25,9 +25,9 @@
   <Name>Fed_TRANSPHASIC_OWP_SHEAILD</Name>
   <IconTexturePath>Modules/TRANSPHASIC_OWP_SHEAILD</IconTexturePath>
   <Mass>7000</Mass>
-  <HealthMax>75476</HealthMax>
+  <HealthMax>91630</HealthMax>
   
-  <Description>A transphasic shield for the largest platforms, with a subspace compression pulse that randomises the phase of the field. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet platform shields, size for size, it covers the widest area, but draws the most power.</Description>
+  <Description>A transphasic shield for the largest platforms, with a subspace compression pulse that randomises the phase of the field. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>450</PowerDraw>

@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>12</Mass>
-  <HealthMax>8547</HealthMax>
+  <HealthMax>4990</HealthMax>
 
   <!-- Armor resistance -->
     <KineticResist>-0.05</KineticResist>
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.13</ExplosiveResist>
 
   <!-- Description -->
-  <Description>A laminate turned out in the shipyards of Qo'noS, rolled in great sheets for the fleet. Some protection against explosions. Of the Klingon ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams.</Description>
+  <Description>A laminate turned out in the shipyards of Qo'noS, rolled in great sheets for the fleet. Some protection against explosions.</Description>
   
 
 </ShipModule>

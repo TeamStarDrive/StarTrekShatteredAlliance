@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>240</Cost>
+  <Cost>345</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>5</XSize>
   <YSize>5</YSize>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_adv_torpedo_mk1</IconTexturePath>
   <Mass>14500</Mass>
   <HealthMax>94809</HealthMax>
-  <Description>A torpedo battery for a Unimatrix, built to hold off a fleet. Of the Borg orbital torpedo weapons, it reaches the farthest and fires the fastest, but is the costliest for its size.</Description>
+  <Description>A torpedo battery for a Unimatrix, built to hold off a fleet.</Description>
   
   
   <PowerDraw>5</PowerDraw>

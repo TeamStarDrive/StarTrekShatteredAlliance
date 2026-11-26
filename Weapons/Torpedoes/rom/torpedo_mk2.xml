@@ -21,17 +21,17 @@
 
   <UID>torpedo_mk2</UID>
   <Range>8800</Range>
-  <PowerRequiredToFire>1000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>10</OrdinanceRequiredToFire>
+  <PowerRequiredToFire>12000</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>120</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>15</HitPoints>
-  <SalvoCount>3</SalvoCount>
+  <HitPoints>38</HitPoints>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>7</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   
   <!-- Projectile Information -->
-  <DamageAmount>19617</DamageAmount>
+  <DamageAmount>2394060</DamageAmount>
   <ExplosionRadius>60</ExplosionRadius>
   <ShieldPenChance>10</ShieldPenChance>
   <MuzzleFlash>Yes</MuzzleFlash>
@@ -57,5 +57,5 @@
   <FireArc>45</FireArc>
   <DieCue>Explo1</DieCue>
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
-  <FireDelay>8</FireDelay>
+  <FireDelay>53</FireDelay>
 </Weapon>

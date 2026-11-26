@@ -6,11 +6,11 @@
   
   <UID>DualFusionBeam</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>2</FireDelay>
+  <FireDelay>2.6</FireDelay>
   <Range>5600</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>1</BeamDuration>
+  <BeamDuration>0.4</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
   <FireCueName>sd_weapon_laser_large_alt_04</FireCueName>
@@ -21,9 +21,9 @@
   <BeamTexture>beam_purple</BeamTexture>
   
   
-  <DamageAmount>24</DamageAmount>
+  <DamageAmount>60</DamageAmount>
   <BeamThickness>24</BeamThickness>
-  <BeamPowerCostPerSecond>1290</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>3225</BeamPowerCostPerSecond>
 
   <!-- Effects are defined in 3DParticles/ParticleEffects.yaml -->
   <WeaponType>Energy Beam</WeaponType>

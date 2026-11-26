@@ -26,9 +26,9 @@
   <Name>Fed_small_station_sheaild_mk1</Name>
   <IconTexturePath>Modules/small_station_sheaild_mk1</IconTexturePath>
   <Mass>9000</Mass>
-  <HealthMax>70460</HealthMax>
+  <HealthMax>85541</HealthMax>
   
-  <Description>A shield emitter for outposts and relay stations, tied to the station's structural integrity field. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Starfleet station shields, size for size, it draws the least power and is the cheapest to build, but holds the least energy.</Description>
+  <Description>A shield emitter for outposts and relay stations, tied to the station's structural integrity field. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>900</PowerDraw>

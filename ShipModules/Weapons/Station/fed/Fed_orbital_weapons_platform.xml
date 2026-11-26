@@ -24,8 +24,8 @@
   <UID>Fed_orbital_weapons_platform</UID>
   <IconTexturePath>Modules/orbital_weapons_platform</IconTexturePath>
   <Mass>29</Mass>
-  <HealthMax>23328</HealthMax>
-  <Description>A phaser array for automated defence platforms in orbit, fed from the platform's own power grid. Of the Starfleet orbital cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
+  <HealthMax>28321</HealthMax>
+  <Description>A phaser array for automated defence platforms in orbit, fed from the platform's own power grid.</Description>
   
   
   <PowerDraw>10</PowerDraw>

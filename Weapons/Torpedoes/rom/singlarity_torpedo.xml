@@ -21,17 +21,17 @@
 
   <UID>singlarity_torpedo</UID>
   <Range>16500</Range>
-  <PowerRequiredToFire>2500</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>30</OrdinanceRequiredToFire>
+  <PowerRequiredToFire>20000</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>240</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>300</HitPoints>
-  <SalvoCount>2</SalvoCount>
+  <HitPoints>750</HitPoints>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>11</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   
   <!-- Projectile Information -->
-  <DamageAmount>50624</DamageAmount>
+  <DamageAmount>2745848</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>2300</ProjectileSpeed>
 
@@ -56,5 +56,5 @@
   <FireArc>45</FireArc>
   <DieCue>Explo1</DieCue>
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
-  <FireDelay>40</FireDelay>
+  <FireDelay>193</FireDelay>
 </Weapon>

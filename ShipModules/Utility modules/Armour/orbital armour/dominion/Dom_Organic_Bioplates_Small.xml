@@ -58,7 +58,7 @@
     <ExplosiveResist>0.3</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Plate grown to order in the Dominion's habit of breeding what it needs, the way it bred the Jem'Hadar, and left to mend itself. Strong protection against every kind of fire. Of the Dominion orbital plates of its size, it is the lightest.</Description>
+  <Description>Plate grown to order in the Dominion's habit of breeding what it needs, the way it bred the Jem'Hadar, and left to mend itself. Strong protection against every kind of fire.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

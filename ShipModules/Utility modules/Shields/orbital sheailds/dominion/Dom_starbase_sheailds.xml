@@ -12,7 +12,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>366</Cost>
+  <Cost>478</Cost>
   <RepairDifficulty>11</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -28,7 +28,7 @@
   <Mass>11000</Mass>
   <HealthMax>64382</HealthMax>
   
-  <Description>The shield grid of the great shipyards at Monac. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Dominion station shields, size for size, it holds the most energy and is the lightest.</Description>
+  <Description>The shield grid of the great shipyards at Monac. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>1400</PowerDraw>

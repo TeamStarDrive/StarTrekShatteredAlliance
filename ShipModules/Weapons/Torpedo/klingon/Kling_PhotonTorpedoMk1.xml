@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/Kling_PhotonTorpedoMk1</IconTexturePath>
   <Mass>100</Mass>
-  <HealthMax>12617</HealthMax>
-  <Description>The launcher of a Bird-of-Prey, with one tube forward and one aft. Of the Klingon torpedo weapons, it is the sturdiest for its size, but hits the softest.</Description>
+  <HealthMax>7366</HealthMax>
+  <Description>The launcher of a Bird-of-Prey, with one tube forward and one aft.</Description>
   
   
   <PowerDraw>5</PowerDraw>

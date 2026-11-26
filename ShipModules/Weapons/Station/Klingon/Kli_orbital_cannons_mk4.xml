@@ -23,8 +23,8 @@
   <UID>Kli_orbital_cannons_mk4</UID>
   <IconTexturePath>Modules/orbital_cannons_mk4</IconTexturePath>
   <Mass>50000</Mass>
-  <HealthMax>52047</HealthMax>
-  <Description>The largest disruptor battery in the Empire's fortresses. Of the Klingon orbital cannon weapons, it hits the hardest and reaches the farthest.</Description>
+  <HealthMax>30384</HealthMax>
+  <Description>The largest disruptor battery in the Empire's fortresses.</Description>
   
   
   <PowerDraw>60</PowerDraw>

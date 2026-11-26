@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>25</Mass>
-  <HealthMax>36474</HealthMax>
+  <HealthMax>41448</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>10</PowerDraw>
@@ -35,7 +35,7 @@
   <FieldOfFire>45</FieldOfFire>
 
   <!-- Description -->
-  <Description>The particle array of the D'Kyr-class, whose firepower exceeded the early Earth NX-class. Of the Vulcan beam weapons, it fires the slowest.</Description>
+  <Description>The particle array of the D'Kyr-class, whose firepower exceeded the early Earth NX-class.</Description>
   
 
 </ShipModule>

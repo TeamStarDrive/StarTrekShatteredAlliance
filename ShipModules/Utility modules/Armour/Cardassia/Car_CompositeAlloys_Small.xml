@@ -48,7 +48,7 @@
   <ExplosiveResist>0.16</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Uridium alloy bonded in layers with other metals. The Union cannot afford to waste ships, so the plate is made to keep them alive. Good protection against explosions, some protection against kinetic rounds. Of the Cardassian ship plates of its size, it is the weakest against beams.</Description>
+  <Description>Uridium alloy bonded in layers with other metals. The Union cannot afford to waste ships, so the plate is made to keep them alive. Good protection against explosions, some protection against kinetic rounds.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

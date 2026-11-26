@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>28</Mass>
-  <HealthMax>17948</HealthMax>
+  <HealthMax>21790</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>15</PowerDraw>
@@ -35,7 +35,7 @@
   <FieldOfFire>90</FieldOfFire>
 
   <!-- Description -->
-  <Description>A compact phaser for fighters that bleeds the power grid of whatever it hits. Of the Starfleet beam weapons, it hits the hardest and fires the fastest, but is the costliest for its size.</Description>
+  <Description>A compact phaser for fighters that bleeds the power grid of whatever it hits.</Description>
   
 
 </ShipModule>

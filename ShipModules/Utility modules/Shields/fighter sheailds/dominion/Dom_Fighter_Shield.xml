@@ -13,7 +13,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>false</StationModule>
   
-  <Cost>7</Cost>
+  <Cost>9</Cost>
   <!-- common traits shared by all ship modules -->
   <TechLevel>1</TechLevel>
   <ModuleType>Shield</ModuleType>
@@ -28,7 +28,7 @@
   <Mass>9</Mass>
   <HealthMax>415</HealthMax>
   
-  <Description>A light emitter for Jem'Hadar attack ships, which go to war in swarms and expect to lose some of them. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Dominion fighter shields, size for size, it draws the least power, but holds the least energy.</Description>
+  <Description>A light emitter for Jem'Hadar attack ships, which go to war in swarms and expect to lose some of them. Good protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>20</PowerDraw>

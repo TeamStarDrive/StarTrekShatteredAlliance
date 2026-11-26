@@ -14,7 +14,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>17</Cost>
+  <Cost>24</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
   <RepairDifficulty>2</RepairDifficulty>
@@ -32,7 +32,7 @@
   <Mass>12</Mass>
   <HealthMax>4896</HealthMax>
   
-  <Description>The field records the phase compression pulse of an enemy weapon and remodulates to match it, with no delay the enemy can use. Strong protection against beams and energy fire. Of the Borg fighter shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
+  <Description>The field records the phase compression pulse of an enemy weapon and remodulates to match it, with no delay the enemy can use. Strong protection against beams and energy fire.</Description>
   
   
   <PowerDraw>60</PowerDraw>

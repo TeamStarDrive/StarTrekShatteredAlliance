@@ -20,9 +20,9 @@
   
   <UID>Fed_PhaserCannon_2x2</UID>
   <Range>4000</Range>
-  <PowerRequiredToFire>100</PowerRequiredToFire>
+  <PowerRequiredToFire>1600</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <SalvoCount>4</SalvoCount>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>3</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -38,8 +38,8 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>237</DamageAmount>
-  <TractorDamage>800</TractorDamage>
+  <DamageAmount>42320</DamageAmount>
+  <TractorDamage>12800</TractorDamage>
   <ProjectileSpeed>4200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>1.5</Scale>
@@ -49,5 +49,5 @@
   <ModelPath>projTear</ModelPath>
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
   <WeaponType>Phaser Cannons</WeaponType>
-  <FireDelay>4</FireDelay>
+  <FireDelay>25</FireDelay>
 </Weapon>

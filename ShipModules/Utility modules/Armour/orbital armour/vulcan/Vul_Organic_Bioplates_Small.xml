@@ -47,7 +47,7 @@
 
   <!-- Mass and Health -->
   <Mass>3</Mass>
-  <HealthMax>19800</HealthMax>
+  <HealthMax>22500</HealthMax>
   <RepairDifficulty>2</RepairDifficulty>
   <Deflection>50</Deflection>              
   <!-- Armor resistance -->
@@ -58,7 +58,7 @@
     <ExplosiveResist>0.3</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Plate that repairs itself in a slow, disciplined cycle, named for the healing trance in which a Vulcan mends injuries. Strong protection against every kind of fire. Of the Vulcan orbital plates of its size, it is the lightest.</Description>
+  <Description>Plate that repairs itself in a slow, disciplined cycle, named for the healing trance in which a Vulcan mends injuries. Strong protection against every kind of fire.</Description>
   <APResist>1</APResist>  
 
 </ShipModule>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>128</Cost>
+  <Cost>184</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>3</XSize>
   <YSize>7</YSize>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/borg_hevey_torp_mk2</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>27489</HealthMax>
-  <Description>The projectile launcher of a Borg cube. Of the Borg missile weapons, it hits the hardest and reaches the farthest, but fires the slowest.</Description>
+  <Description>The projectile launcher of a Borg cube.</Description>
   
   
   <PowerDraw>5</PowerDraw>

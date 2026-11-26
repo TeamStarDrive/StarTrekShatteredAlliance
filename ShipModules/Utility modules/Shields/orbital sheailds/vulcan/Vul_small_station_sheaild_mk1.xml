@@ -26,9 +26,9 @@
   <Name>Vulcan Outpost Deflector Emitter</Name>
   <IconTexturePath>Modules/small_station_sheaild_mk1</IconTexturePath>
   <Mass>9000</Mass>
-  <HealthMax>74168</HealthMax>
+  <HealthMax>84282</HealthMax>
   
-  <Description>A deflector emitter for outposts on the edge of Vulcan space. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Vulcan station shields, size for size, it draws the least power and is the cheapest to build, but holds the least energy.</Description>
+  <Description>A deflector emitter for outposts on the edge of Vulcan space. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>900</PowerDraw>

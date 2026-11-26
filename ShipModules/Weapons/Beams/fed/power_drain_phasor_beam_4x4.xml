@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>28</Mass>
-  <HealthMax>17948</HealthMax>
+  <HealthMax>21790</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>15</PowerDraw>
@@ -35,7 +35,7 @@
   <FieldOfFire>90</FieldOfFire>
 
   <!-- Description -->
-  <Description>A heavy phaser lance tuned to overload a target's power grid rather than burn its hull. Of the Starfleet beam weapons, it fires the fastest and does the most to armour, but has the shortest reach.</Description>
+  <Description>A heavy phaser lance tuned to overload a target's power grid rather than burn its hull.</Description>
   
 
 </ShipModule>

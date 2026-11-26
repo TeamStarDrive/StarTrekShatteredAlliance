@@ -33,9 +33,9 @@
     <ShipType>Corsair</ShipType>
     <HomeSystemName>Sol</HomeSystemName>
     <HomeworldName>Earth</HomeworldName>
-    <FlagIndex>65</FlagIndex>
-    <R>347</R>
-    <G>48</G>
-    <B>129</B>
+    <FlagIndex>7</FlagIndex>
+    <R>60</R>
+    <G>200</G>
+    <B>110</B>
   </Traits>
 </EmpireData>

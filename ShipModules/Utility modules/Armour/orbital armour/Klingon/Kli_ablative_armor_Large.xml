@@ -31,7 +31,7 @@
     <DescriptionIndex>30339</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>85530</Mass>
-    <HealthMax>293040</HealthMax>
+    <HealthMax>171072</HealthMax>
     <RepairDifficulty>3</RepairDifficulty>
     <Deflection>120</Deflection>                  
     <!-- Armor resistance -->
@@ -42,6 +42,6 @@
     <PlasmaResist>0.2</PlasmaResist>
 
     <!-- Description -->
-    <Description>Ablative plating for the fortresses of the Empire, replaced after every siege. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Klingon orbital plates of its size, it is the toughest and the best protected against explosions, but the heaviest.</Description>
+    <Description>Ablative plating for the fortresses of the Empire, replaced after every siege. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma.</Description>
     <APResist>2</APResist>
 </ShipModule>

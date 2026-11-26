@@ -19,7 +19,7 @@
     <DescriptionIndex>30101</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>32</Mass>
-    <HealthMax>25788</HealthMax>
+    <HealthMax>15054</HealthMax>
     <RepairDifficulty>1.5</RepairDifficulty>
     <Deflection>0</Deflection>
     <!-- Armor resistance -->
@@ -30,6 +30,6 @@
     <PlasmaResist>-0.05</PlasmaResist>
 
     <!-- Description -->
-    <Description>A crystal lattice grown hard and clear, struck and tested in the forges before it is allowed on a ship. Good protection against explosions, some protection against kinetic rounds. Of the Klingon ship plates of its size, it is the best protected against explosions and the best against armour-piercing rounds, but the costliest to build.</Description>
+    <Description>A crystal lattice grown hard and clear, struck and tested in the forges before it is allowed on a ship. Good protection against explosions, some protection against kinetic rounds.</Description>
     <APResist>2</APResist>    
 </ShipModule>

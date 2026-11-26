@@ -25,7 +25,7 @@
   <IconTexturePath>Modules/orbital_weapons_platform</IconTexturePath>
   <Mass>29</Mass>
   <HealthMax>13729</HealthMax>
-  <Description>A disruptor array for the platforms that watch the Neutral Zone. Of the Romulan orbital cannon weapons, it is the sturdiest for its size, but hits the softest.</Description>
+  <Description>A disruptor array for the platforms that watch the Neutral Zone.</Description>
   
   
   <PowerDraw>10</PowerDraw>

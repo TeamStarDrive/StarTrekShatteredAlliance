@@ -12,7 +12,7 @@
   <FreighterModule>true</FreighterModule>
   <PlatformModule>false</PlatformModule>
   <StationModule>false</StationModule>
-  <Cost>7</Cost>
+  <Cost>9</Cost>
 
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>2</TechLevel>
@@ -31,7 +31,7 @@
   <Mass>16</Mass>
   <HealthMax>2166</HealthMax>
   
-  <Description>A deflector generator for the supply convoys of the Gamma Quadrant, where the Karemma trade under the Dominion's eye. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Dominion ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
+  <Description>A deflector generator for the supply convoys of the Gamma Quadrant, where the Karemma trade under the Dominion's eye. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>15</PowerDraw>

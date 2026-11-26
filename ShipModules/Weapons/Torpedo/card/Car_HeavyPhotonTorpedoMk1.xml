@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>112</Cost>
+  <Cost>136</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>3</XSize>
   <YSize>6</YSize>
@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/Car_HeavyPhotonTorpedoMk1</IconTexturePath>
   <Mass>250</Mass>
   <HealthMax>7371</HealthMax>
-  <Description>A heavy launcher for ships built to break defended worlds. Of the Cardassian torpedo weapons, it is the cheapest for its size and has the widest blast.</Description>
+  <Description>A heavy launcher for ships built to break defended worlds.</Description>
   
   
   <PowerDraw>5</PowerDraw>

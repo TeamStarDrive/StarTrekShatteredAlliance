@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/plasma_torpedo</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>15990</HealthMax>
-  <Description>A plasma torpedo, the weapon the Romulans turned on the Earth outposts along the Neutral Zone. Of the Romulan torpedo weapons, it fires the largest salvos and is the sturdiest for its size, but has the slowest shots.</Description>
+  <Description>A plasma torpedo, the weapon the Romulans turned on the Earth outposts along the Neutral Zone.</Description>
   
   
   <PowerDraw>5</PowerDraw>

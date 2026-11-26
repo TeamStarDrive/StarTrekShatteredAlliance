@@ -28,11 +28,11 @@
   </ExcludedDTraits>
   
   <!-- Rebel Faction data.-->
-  <RebelName>House of Duras</RebelName>
-  <RebelSing>Duras Rebel</RebelSing>
-  <RebelPlur>Duras Rebels</RebelPlur>
-  <TroopNameIndex>40104</TroopNameIndex>
-  <TroopDescriptionIndex>40105</TroopDescriptionIndex>
+  <RebelName>Confederate Rebels</RebelName>
+  <RebelSing>Confederate</RebelSing>
+  <RebelPlur>Confederates</RebelPlur>
+  <TroopNameIndex>2083</TroopNameIndex>
+  <TroopDescriptionIndex>2092</TroopDescriptionIndex>
 
   <!-- Fertility multipliers for environments. The default is 1 in the code, but the tags are included here for reference -->
   <EnvTerran>1</EnvTerran>
@@ -87,10 +87,10 @@
     <Adj2>simian</Adj2>
     <HomeSystemName>Klinzhai</HomeSystemName>
     <HomeworldName>Qo'noS</HomeworldName>
-    <FlagIndex>6</FlagIndex>
-    <R>606</R>
-    <G>304</G>
-    <B>503</B>
+    <FlagIndex>3</FlagIndex>
+    <R>205</R>
+    <G>35</G>
+    <B>35</B>
 	<TraitSets> <!-- The first trait set is what the player sees. Other sets are extra sets randomized for the AI -->
 		<TraitSet>
 			<TraitOptions>

@@ -26,9 +26,9 @@
 
   <IconTexturePath>Modules/Fighter_Shield</IconTexturePath>
   <Mass>9</Mass>
-  <HealthMax>660</HealthMax>
+  <HealthMax>750</HealthMax>
   
-  <Description>Compact deflector emitter for Vulcan scouts and shuttles, set to a single calculated frequency. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan fighter shields, size for size, it draws the least power, but holds the least energy.</Description>
+  <Description>Compact deflector emitter for Vulcan scouts and shuttles, set to a single calculated frequency. Good protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>20</PowerDraw>

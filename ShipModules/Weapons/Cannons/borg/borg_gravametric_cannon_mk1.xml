@@ -3,7 +3,7 @@
 
   <DroneModule>false</DroneModule>
 
-  <Cost>32</Cost>
+  <Cost>46</Cost>
   <TechLevel>1</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -15,7 +15,7 @@
   <IconTexturePath>Modules/borg_gravametric_cannon_mk1</IconTexturePath>
   <Mass>10</Mass>
   <HealthMax>12314</HealthMax>
-  <Description>A cannon that fires a burst of gravimetric distortion, built for a drone's close work. Of the Borg cannon weapons, it fires the fastest and is the sturdiest for its size, but hits the softest.</Description>
+  <Description>A cannon that fires a burst of gravimetric distortion, built for a drone's close work.</Description>
   
   
   <PowerDraw>4</PowerDraw>

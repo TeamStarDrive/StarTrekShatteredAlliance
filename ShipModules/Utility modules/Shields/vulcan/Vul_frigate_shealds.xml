@@ -31,9 +31,9 @@
 
   <IconTexturePath>Modules/frigate_shealds</IconTexturePath>
   <Mass>46</Mass>
-  <HealthMax>39732</HealthMax>
+  <HealthMax>45150</HealthMax>
   
-  <Description>The deflector grid of the Suurok-class, the Vulcan science ship. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build.</Description>
+  <Description>The deflector grid of the Suurok-class, the Vulcan science ship. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>120</PowerDraw>

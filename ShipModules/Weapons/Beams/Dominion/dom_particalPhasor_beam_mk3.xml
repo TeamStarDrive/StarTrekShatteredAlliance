@@ -4,7 +4,7 @@
   <UID>dom_particalPhasor_beam_mk3</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>90</Cost>
+  <Cost>118</Cost>
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
 
@@ -35,7 +35,7 @@
   <FieldOfFire>45</FieldOfFire>
 
   <!-- Description -->
-  <Description>The polaron array of the Dominion battle cruisers. Of the Dominion beam weapons, it fires the slowest.</Description>
+  <Description>The polaron array of the Dominion battle cruisers.</Description>
   
 
 </ShipModule>

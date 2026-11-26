@@ -25,8 +25,8 @@
 
   <IconTexturePath>Modules/orbital_defence_torpedo</IconTexturePath>
   <Mass>19500</Mass>
-  <HealthMax>41107</HealthMax>
-  <Description>A fixed torpedo tube for a garrison. Of the Klingon orbital torpedo weapons, it fires the fastest and is the sturdiest for its size, but hits the softest.</Description>
+  <HealthMax>23998</HealthMax>
+  <Description>A fixed torpedo tube for a garrison.</Description>
   
   
   <PowerDraw>5</PowerDraw>

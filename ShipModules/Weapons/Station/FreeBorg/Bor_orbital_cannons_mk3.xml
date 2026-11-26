@@ -12,7 +12,7 @@
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
 
-  <Cost>96</Cost>
+  <Cost>138</Cost>
   <TechLevel>5</TechLevel>
   <!-- common traits shared by all ship modules -->
   <ModuleType>Turret</ModuleType>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/orbital_cannons_mk3</IconTexturePath>
   <Mass>50000</Mass>
   <HealthMax>43322</HealthMax>
-  <Description>A battery fitted to a Unimatrix, firing as one. Of the Borg orbital cannon weapons, it is the cheapest for its size and has the fastest shots, but is the frailest for its size.</Description>
+  <Description>A battery fitted to a Unimatrix, firing as one.</Description>
   
   
   <PowerDraw>40</PowerDraw>

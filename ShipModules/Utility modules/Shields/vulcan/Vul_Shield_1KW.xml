@@ -18,9 +18,9 @@
 
   <IconTexturePath>Modules/Shield_1KW</IconTexturePath>
   <Mass>36</Mass>
-  <HealthMax>13332</HealthMax>
+  <HealthMax>15150</HealthMax>
   
-  <Description>The standard deflector generator of Vulcan patrol vessels, built to the specification and no further. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it covers the narrowest area.</Description>
+  <Description>The standard deflector generator of Vulcan patrol vessels, built to the specification and no further. Good protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>45</PowerDraw>

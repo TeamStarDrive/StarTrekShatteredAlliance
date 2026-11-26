@@ -3,10 +3,10 @@
   <Tag_Kinetic>true</Tag_Kinetic>
 
   <UID>PlanetAC</UID>
-  <FireDelay>2</FireDelay>
+  <FireDelay>8.9</FireDelay>
   <Range>6000</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>0.9</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>7.2</OrdinanceRequiredToFire>
   <ExcludesFighters>true</ExcludesFighters>  
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_flakcannon_01</FireCueName>
@@ -14,8 +14,8 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
   <MuzzleFlash>Yes</MuzzleFlash>
   <!-- Projectile Information -->
-  <DamageAmount>5500</DamageAmount>
-  <SalvoCount>2</SalvoCount>
+  <DamageAmount>44000</DamageAmount>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>0.3</SalvoTimer>  
   <Scale>1.2</Scale>
   <ProjectileSpeed>1500</ProjectileSpeed>

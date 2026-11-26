@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <Cost>7</Cost>
+    <Cost>9</Cost>
     <!-- Tech Level -->
     <TechLevel>3</TechLevel>
     <TechBranch>Armor</TechBranch>
@@ -29,6 +29,6 @@
     <ExplosiveResist>0.12</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Ceramic plate fired in the Gamma Quadrant and left in the dull, workmanlike finish of a Dominion hull. Some protection against kinetic rounds and explosions. Of the Dominion ship plates of its size, it is the weakest against beams.</Description>
+    <Description>Ceramic plate fired in the Gamma Quadrant and left in the dull, workmanlike finish of a Dominion hull. Some protection against kinetic rounds and explosions.</Description>
     <APResist>1</APResist>
 </ShipModule>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <Cost>216</Cost>
+  <Cost>282</Cost>
   <RepairDifficulty>16</RepairDifficulty>
   <TechLevel>6</TechLevel>
   
@@ -18,7 +18,7 @@
   <Mass>250</Mass>
   <HealthMax>74473</HealthMax>
   
-  <Description>The canopy of ships that carry a Vorta, with every emitter locked together so that the commander is the last thing left uncovered. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Dominion ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
+  <Description>The canopy of ships that carry a Vorta, with every emitter locked together so that the commander is the last thing left uncovered. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>1400</PowerDraw>

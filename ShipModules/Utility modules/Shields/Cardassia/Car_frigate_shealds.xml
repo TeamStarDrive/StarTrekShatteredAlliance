@@ -14,7 +14,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>56</Cost>
+  <Cost>68</Cost>
 
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
@@ -33,7 +33,7 @@
   <Mass>46</Mass>
   <HealthMax>11378</HealthMax>
   
-  <Description>The grid carried by Cardassian frigates, the picket ships that kept order over worlds like Bajor. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Cardassian ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build.</Description>
+  <Description>The grid carried by Cardassian frigates, the picket ships that kept order over worlds like Bajor. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>120</PowerDraw>

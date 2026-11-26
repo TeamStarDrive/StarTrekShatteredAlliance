@@ -2,11 +2,11 @@
   <UID>ACAP</UID>
   <Tag_Cannon>true</Tag_Cannon>
   <Tag_Kinetic>true</Tag_Kinetic>
-  <FireDelay>3.2</FireDelay>
+  <FireDelay>14.3</FireDelay>
   <Range>7800</Range>
-  <PowerRequiredToFire>70</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>0.4</OrdinanceRequiredToFire>
-  <SalvoCount>5</SalvoCount>
+  <PowerRequiredToFire>1400</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>8</OrdinanceRequiredToFire>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>0.5</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -15,7 +15,7 @@
 
 
   <!-- Projectile Information -->
-  <DamageAmount>980</DamageAmount>
+  <DamageAmount>19600</DamageAmount>
   <EffectVsArmor>0.4</EffectVsArmor>
   <Scale>0.8</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>

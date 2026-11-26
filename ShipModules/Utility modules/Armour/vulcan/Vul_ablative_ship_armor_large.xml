@@ -20,7 +20,7 @@
     <DescriptionIndex>30235</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>40</Mass>
-    <HealthMax>120119</HealthMax>
+    <HealthMax>136498</HealthMax>
     <RepairDifficulty>2.5</RepairDifficulty>
     <Deflection>130</Deflection>                  
     <!-- Armor resistance -->
@@ -31,6 +31,6 @@
     <PlasmaResist>0.20</PlasmaResist>
 
     <!-- Description -->
-    <Description>Ablative plate for the Vulcan combat cruisers, built to wear away under fire rather than fail. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Vulcan ship plates of its size, it is the toughest and the best protected against beams, but the costliest to build.</Description>
+    <Description>Ablative plate for the Vulcan combat cruisers, built to wear away under fire rather than fail. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma.</Description>
     <APResist>2</APResist>
 </ShipModule>

@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>3</Mass>
-  <HealthMax>2904</HealthMax>
+  <HealthMax>3300</HealthMax>
 
   <!-- Armor resistance -->
     <KineticResist>-0.05</KineticResist>
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.08</ExplosiveResist>
 
   <!-- Description -->
-  <Description>A laminate for the great ring ships, the flattened conical hulls the High Command flew in the twenty-second century. Some protection against explosions. Of the Vulcan ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams.</Description>
+  <Description>A laminate for the great ring ships, the flattened conical hulls the High Command flew in the twenty-second century. Some protection against explosions.</Description>
   
 
 </ShipModule>

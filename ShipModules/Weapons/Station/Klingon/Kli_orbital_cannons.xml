@@ -23,8 +23,8 @@
   <UID>Kli_orbital_cannons</UID>
   <IconTexturePath>Modules/orbital_cannons</IconTexturePath>
   <Mass>5000</Mass>
-  <HealthMax>16523</HealthMax>
-  <Description>A fixed disruptor bank for a garrison. Of the Klingon orbital cannon weapons, it fires the slowest.</Description>
+  <HealthMax>9646</HealthMax>
+  <Description>A fixed disruptor bank for a garrison.</Description>
   
   
   <PowerDraw>15</PowerDraw>

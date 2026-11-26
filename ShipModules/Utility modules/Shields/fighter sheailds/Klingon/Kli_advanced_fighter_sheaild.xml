@@ -28,9 +28,9 @@
 
   <IconTexturePath>Modules/advanced_fighter_sheaild</IconTexturePath>
   <Mass>10</Mass>
-  <HealthMax>1110</HealthMax>
+  <HealthMax>648</HealthMax>
   
-  <Description>An emitter set in the wing of a small warship, built to keep it alive long enough to close with the enemy. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon fighter shields, size for size, it recharges the fastest, but draws the most power.</Description>
+  <Description>An emitter set in the wing of a small warship, built to keep it alive long enough to close with the enemy. Good protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>30</PowerDraw>
@@ -41,8 +41,8 @@
   <!-- for shield items -->
   <ShieldPowerMax>6500</ShieldPowerMax>
   <ShieldRechargeDelay>5</ShieldRechargeDelay>
-  <ShieldRechargeRate>125</ShieldRechargeRate>
-  <ShieldRechargeCombatRate>50</ShieldRechargeCombatRate>
+  <ShieldRechargeRate>100</ShieldRechargeRate>
+  <ShieldRechargeCombatRate>40</ShieldRechargeCombatRate>
   <ShieldRadius>85</ShieldRadius>
   <ShieldEnergyResist>0.19</ShieldEnergyResist>
   <ShieldBeamResist>0.19</ShieldBeamResist>

@@ -14,7 +14,7 @@
   <StationModule>false</StationModule>
   
   
-  <Cost>60</Cost>
+  <Cost>78</Cost>
 
   <!-- Tech Level Used by AI for Upgrading Ships -->
   <TechLevel>4</TechLevel>
@@ -33,7 +33,7 @@
   <Mass>46</Mass>
   <HealthMax>22485</HealthMax>
   
-  <Description>The deflector grid of the escorts that keep a larger ship's flanks covered. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Dominion ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build.</Description>
+  <Description>The deflector grid of the escorts that keep a larger ship's flanks covered. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>120</PowerDraw>

@@ -25,9 +25,9 @@
   <Name>Klingon Planetary Platform Shield</Name>
   <IconTexturePath>Modules/TRANSPHASIC_OWP_SHEAILD</IconTexturePath>
   <Mass>7000</Mass>
-  <HealthMax>48993</HealthMax>
+  <HealthMax>28601</HealthMax>
   
-  <Description>A shield for the great defence platforms that guard Klingon worlds. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Klingon platform shields, size for size, it covers the widest area, but draws the most power.</Description>
+  <Description>A shield for the great defence platforms that guard Klingon worlds. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>450</PowerDraw>
@@ -38,9 +38,9 @@
   <!-- for shield items -->
   <ShieldPowerMax>90000</ShieldPowerMax>
   <ShieldRechargeDelay>5</ShieldRechargeDelay>
-  <ShieldRechargeRate>4200</ShieldRechargeRate>
+  <ShieldRechargeRate>3360</ShieldRechargeRate>
   <ShieldRadius>150</ShieldRadius>
-  <ShieldRechargeCombatRate>800</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>640</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.69</ShieldEnergyResist>
   <ShieldBeamResist>0.69</ShieldBeamResist>
   <ShieldKineticResist>0.67</ShieldKineticResist>

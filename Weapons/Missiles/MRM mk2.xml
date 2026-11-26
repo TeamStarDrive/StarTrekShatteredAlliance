@@ -22,20 +22,20 @@
   
   <ExcludesFighters>true</ExcludesFighters>  
 
-  <HitPoints>25</HitPoints>
-  <FireDelay>10.5</FireDelay>
+  <HitPoints>62</HitPoints>
+  <FireDelay>45</FireDelay>
   <Range>5500</Range>
   <PowerRequiredToFire>0</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>11</OrdinanceRequiredToFire>
+  <OrdinanceRequiredToFire>176</OrdinanceRequiredToFire>
   <TerminalPhaseAttack>true</TerminalPhaseAttack>      
   <TerminalPhaseDistance>1500</TerminalPhaseDistance>      
   <TerminalPhaseSpeedMod>3</TerminalPhaseSpeedMod>  
   <DelayedIgnition>0.5</DelayedIgnition>  
 <!-- Projectile stats -->
-  <DamageAmount>1150</DamageAmount>
+  <DamageAmount>18400</DamageAmount>
   <ProjectileSpeed>1200</ProjectileSpeed>
   <ExplosionRadius>35</ExplosionRadius> <!-- This projectile explodes -->
-  <SalvoCount>4</SalvoCount>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>1</SalvoTimer>
   <ShieldPenChance>5</ShieldPenChance>
 

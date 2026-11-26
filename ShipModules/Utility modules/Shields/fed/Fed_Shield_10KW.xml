@@ -18,7 +18,7 @@
   <Name>Fed_Shield_10KW</Name>
   <IconTexturePath>Modules/shield_3x3</IconTexturePath>
   <Mass>81</Mass>
-  <HealthMax>17807</HealthMax>
+  <HealthMax>21618</HealthMax>
   <PowerDraw>95</PowerDraw>
   
   <Description>The main deflector grid of Starfleet cruisers, with its emitters spread over the hull to keep the field even. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>

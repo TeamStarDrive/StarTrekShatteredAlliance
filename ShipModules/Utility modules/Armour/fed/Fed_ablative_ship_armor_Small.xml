@@ -37,7 +37,7 @@
 
   <!-- Mass and Health -->
   <Mass>10</Mass>
-  <HealthMax>20652</HealthMax>
+  <HealthMax>25073</HealthMax>
   <RepairDifficulty>1.5</RepairDifficulty>
   <Deflection>60</Deflection>              
   <!-- Armor resistance -->
@@ -48,7 +48,7 @@
   <PlasmaResist>0.03</PlasmaResist>
 
   <!-- Description -->
-  <Description>Ablative armour, as fitted to the USS Defiant: layers that burn away under fire and leave the hull beneath whole. Some protection against kinetic rounds, beams, energy fire and explosions. Of the Starfleet ship plates of its size, it is the toughest and the best protected against beams, but the heaviest.</Description>
+  <Description>Ablative armour, as fitted to the USS Defiant: layers that burn away under fire and leave the hull beneath whole. Some protection against kinetic rounds, beams, energy fire and explosions.</Description>
   <APResist>2</APResist>  
 
 </ShipModule>

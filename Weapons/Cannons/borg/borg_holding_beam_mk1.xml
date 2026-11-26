@@ -5,11 +5,11 @@
 
   <UID>borg_holding_beam_mk1</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>7</FireDelay>
+  <FireDelay>8.2</FireDelay>
   <Range>5000</Range>
   <PowerRequiredToFire>90</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2</BeamDuration>
+  <BeamDuration>0.8</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
 
@@ -17,16 +17,16 @@
   
   
   <!-- Projectile Information -->
-  <TroopDamageChance>3</TroopDamageChance>
-  <RepulsionDamage>4000</RepulsionDamage>
-  <EMPDamage>720</EMPDamage>
+  <TroopDamageChance>2.4</TroopDamageChance>
+  <RepulsionDamage>8000</RepulsionDamage>
+  <EMPDamage>900</EMPDamage>
   <ShieldPenChance>70</ShieldPenChance>
   <BeamTexture>beam_shinysaphir</BeamTexture>
-  <PowerDamage>1950</PowerDamage>
-  <SiphonDamage>600</SiphonDamage>
-  <DamageAmount>5</DamageAmount>
+  <PowerDamage>3900</PowerDamage>
+  <SiphonDamage>1200</SiphonDamage>
+  <DamageAmount>10</DamageAmount>
   <BeamThickness>34</BeamThickness>
-  <BeamPowerCostPerSecond>420</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>1050</BeamPowerCostPerSecond>
   <WeaponRotation>3</WeaponRotation>
   <OffPowerMod>0.01</OffPowerMod>
 

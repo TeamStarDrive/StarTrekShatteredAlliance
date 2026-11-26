@@ -31,9 +31,9 @@
 
   <IconTexturePath>Modules/frigate_shealds</IconTexturePath>
   <Mass>46</Mass>
-  <HealthMax>37745</HealthMax>
+  <HealthMax>45824</HealthMax>
   
-  <Description>A multiphasic grid, the advanced Federation deflector type that also shields against subspace radiation and the energy emissions of stars. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build.</Description>
+  <Description>A multiphasic grid, the advanced Federation deflector type that also shields against subspace radiation and the energy emissions of stars. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>120</PowerDraw>

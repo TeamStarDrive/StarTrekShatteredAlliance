@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>32</Mass>
-  <HealthMax>43734</HealthMax>
+  <HealthMax>49698</HealthMax>
 
   <!-- Power Drawn -->
   <PowerDraw>10</PowerDraw>
@@ -35,7 +35,7 @@
   <FieldOfFire>60</FieldOfFire>
 
   <!-- Description -->
-  <Description>The heaviest particle array, for the High Command's command ships. Of the Vulcan beam weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
+  <Description>The heaviest particle array, for the High Command's command ships.</Description>
   
 
 </ShipModule>

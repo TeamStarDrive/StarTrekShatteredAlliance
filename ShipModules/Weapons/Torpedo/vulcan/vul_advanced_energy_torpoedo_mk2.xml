@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/advanced_energy_torpoedo_mk2</IconTexturePath>
   <Mass>350</Mass>
-  <HealthMax>37620</HealthMax>
-  <Description>A launcher for a high-yield energy torpedo, with a calculated charge. Of the Vulcan torpedo weapons, it reaches the farthest and has the fastest shots, but fires the slowest.</Description>
+  <HealthMax>42750</HealthMax>
+  <Description>A launcher for a high-yield energy torpedo, with a calculated charge.</Description>
   
   
   <PowerDraw>5</PowerDraw>

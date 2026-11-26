@@ -14,8 +14,8 @@
   <UID>vul_phased_cannon_mk2</UID>
   <IconTexturePath>Modules/phased_cannon_mk2</IconTexturePath>
   <Mass>15</Mass>
-  <HealthMax>22869</HealthMax>
-  <Description>A heavier phase cannon, with a longer cycle between bolts. Of the Vulcan cannon weapons, it fires the fastest and fires the largest salvos.</Description>
+  <HealthMax>25988</HealthMax>
+  <Description>A heavier phase cannon, with a longer cycle between bolts.</Description>
   
   
   <PowerDraw>4</PowerDraw>

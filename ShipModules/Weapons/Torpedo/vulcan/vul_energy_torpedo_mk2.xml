@@ -13,8 +13,8 @@
 
   <IconTexturePath>Modules/energy_torpedo_mk2</IconTexturePath>
   <Mass>132</Mass>
-  <HealthMax>17820</HealthMax>
-  <Description>Two tubes, launching a pair of energy torpedoes. Of the Vulcan torpedo weapons, it carries the least ordnance.</Description>
+  <HealthMax>20250</HealthMax>
+  <Description>Two tubes, launching a pair of energy torpedoes.</Description>
   
   
   <PowerDraw>5</PowerDraw>

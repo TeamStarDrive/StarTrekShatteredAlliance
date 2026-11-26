@@ -23,8 +23,8 @@
 
   <IconTexturePath>Modules/station_torpedo_launcher_mk1</IconTexturePath>
   <Mass>19500</Mass>
-  <HealthMax>79860</HealthMax>
-  <Description>A photonic torpedo launcher for a station, kept loaded. Of the Vulcan orbital torpedo weapons, it fires the fastest, but has the slowest shots.</Description>
+  <HealthMax>90750</HealthMax>
+  <Description>A photonic torpedo launcher for a station, kept loaded.</Description>
   
   
   <PowerDraw>5</PowerDraw>

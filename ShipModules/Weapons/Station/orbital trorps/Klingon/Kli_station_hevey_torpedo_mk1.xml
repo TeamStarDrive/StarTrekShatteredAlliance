@@ -23,8 +23,8 @@
 
   <IconTexturePath>Modules/station_hevey_torpedo_mk1</IconTexturePath>
   <Mass>14000</Mass>
-  <HealthMax>62604</HealthMax>
-  <Description>The heaviest torpedo battery the Empire keeps. Of the Klingon orbital torpedo weapons, it hits the hardest and is the cheapest for its size, but fires the slowest.</Description>
+  <HealthMax>36547</HealthMax>
+  <Description>The heaviest torpedo battery the Empire keeps.</Description>
   
   
   <PowerDraw>5</PowerDraw>

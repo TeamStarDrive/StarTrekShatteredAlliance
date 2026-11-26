@@ -30,7 +30,7 @@
     <DescriptionIndex>30319</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>32000</Mass>
-    <HealthMax>118800</HealthMax>
+    <HealthMax>135000</HealthMax>
     <RepairDifficulty>1.5</RepairDifficulty>
     <Deflection>0</Deflection>
     <!-- Armor resistance -->
@@ -41,6 +41,6 @@
     <PlasmaResist>-0.05</PlasmaResist>
 
     <!-- Description -->
-    <Description>A bio-crystalline plate in a pattern recalling the Kir'Shara, the artefact that kept the teachings of Surak. Strong protection against kinetic rounds, beams, energy fire, plasma and explosions. Of the Vulcan orbital plates of its size, it is the best protected against plasma and the best against armour-piercing rounds, but the costliest to build.</Description>
+    <Description>A bio-crystalline plate in a pattern recalling the Kir'Shara, the artefact that kept the teachings of Surak. Strong protection against kinetic rounds, beams, energy fire, plasma and explosions.</Description>
     <APResist>2</APResist>    
 </ShipModule>

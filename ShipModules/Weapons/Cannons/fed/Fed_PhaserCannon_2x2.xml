@@ -14,8 +14,8 @@
   <UID>Fed_PhaserCannon_2x2</UID>
   <IconTexturePath>Modules/Fed_PhaserCannon_2x2</IconTexturePath>
   <Mass>29</Mass>
-  <HealthMax>11255</HealthMax>
-  <Description>A phase cannon that fires in pulses, each one a fresh bolt of phased energy. Of the Starfleet cannon weapons, it has the slowest shots.</Description>
+  <HealthMax>13664</HealthMax>
+  <Description>A phase cannon that fires in pulses, each one a fresh bolt of phased energy.</Description>
   
   
   <PowerDraw>4</PowerDraw>

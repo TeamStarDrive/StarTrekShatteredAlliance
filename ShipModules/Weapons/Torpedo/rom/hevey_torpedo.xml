@@ -14,7 +14,7 @@
   <IconTexturePath>Modules/hevey_torpedo</IconTexturePath>
   <Mass>200</Mass>
   <HealthMax>14391</HealthMax>
-  <Description>A heavy torpedo for the largest warbirds, kept for ships that do not care to be seen coming. Of the Romulan torpedo weapons, it fires the smallest salvos.</Description>
+  <Description>A heavy torpedo for the largest warbirds, kept for ships that do not care to be seen coming.</Description>
   
   
   <PowerDraw>5</PowerDraw>

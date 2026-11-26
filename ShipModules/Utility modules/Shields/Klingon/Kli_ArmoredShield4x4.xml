@@ -18,7 +18,7 @@
   <Name>Klingon Warship Emitter Housing</Name>
   <IconTexturePath>Modules/ArmoredShield4x4</IconTexturePath>
   <Mass>144</Mass>
-  <HealthMax>22385</HealthMax>
+  <HealthMax>13068</HealthMax>
   
   <Description>Emitters set in a hardened housing, so that they survive the beating the warship is expecting. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
@@ -33,9 +33,9 @@
   <!-- for shield items -->
   <ShieldPowerMax>67500</ShieldPowerMax>
   <ShieldRechargeDelay>20</ShieldRechargeDelay>
-  <ShieldRechargeRate>640</ShieldRechargeRate>
+  <ShieldRechargeRate>512</ShieldRechargeRate>
   <ShieldRadius>290</ShieldRadius>
-  <ShieldRechargeCombatRate>250</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>200</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.44</ShieldEnergyResist>
   <ShieldBeamResist>0.45</ShieldBeamResist>
   <ShieldKineticResist>-0.48</ShieldKineticResist>

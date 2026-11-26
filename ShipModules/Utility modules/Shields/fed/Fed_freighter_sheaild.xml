@@ -29,9 +29,9 @@
 
   <IconTexturePath>Modules/freighter_sheaild</IconTexturePath>
   <Mass>16</Mass>
-  <HealthMax>3637</HealthMax>
+  <HealthMax>4415</HealthMax>
   
-  <Description>A simple deflector generator for cargo haulers and tenders. It is built to turn away debris and the odd raider. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Starfleet ship shields, size for size, it draws the least power and is the lightest, but holds the least energy.</Description>
+  <Description>A simple deflector generator for cargo haulers and tenders. It is built to turn away debris and the odd raider. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>15</PowerDraw>

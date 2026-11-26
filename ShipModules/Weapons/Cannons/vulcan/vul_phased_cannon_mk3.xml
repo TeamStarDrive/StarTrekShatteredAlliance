@@ -14,8 +14,8 @@
   <UID>vul_phased_cannon_mk3</UID>
   <IconTexturePath>Modules/phased_cannon_mk3</IconTexturePath>
   <Mass>25</Mass>
-  <HealthMax>38841</HealthMax>
-  <Description>A phase cannon that fires in calculated pulses, each timed to the one before. Of the Vulcan cannon weapons, it hits the hardest and reaches the farthest, but is the frailest for its size.</Description>
+  <HealthMax>44138</HealthMax>
+  <Description>A phase cannon that fires in calculated pulses, each timed to the one before.</Description>
   
   
   <PowerDraw>7</PowerDraw>

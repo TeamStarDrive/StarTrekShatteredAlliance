@@ -21,17 +21,17 @@
 
   <UID>micro_torpedo</UID>
   <Range>6600</Range>
-  <PowerRequiredToFire>50</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>5</OrdinanceRequiredToFire>
+  <PowerRequiredToFire>600</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>60</OrdinanceRequiredToFire>
   <RotationRadsPerSecond>2</RotationRadsPerSecond>
-  <HitPoints>10</HitPoints>
-  <SalvoCount>3</SalvoCount>
+  <HitPoints>25</HitPoints>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>11</SalvoTimer>
 
   <!-- name of XACT audio cue to play on firing this weapon -->
   
   <!-- Projectile Information -->
-  <DamageAmount>3164</DamageAmount>
+  <DamageAmount>386136</DamageAmount>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>3000</ProjectileSpeed>
 
@@ -56,5 +56,5 @@
   <FireArc>45</FireArc>
   <DieCue>Explo1</DieCue>
   <FireCueName>sd_weapon_pulse_alt15_01</FireCueName>
-  <FireDelay>10</FireDelay>
+  <FireDelay>73</FireDelay>
 </Weapon>

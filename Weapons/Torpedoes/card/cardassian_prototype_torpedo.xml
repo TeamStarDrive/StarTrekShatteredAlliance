@@ -20,12 +20,12 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>  
   
   <UID>cardassian_prototype_torpedo</UID>
-  <FireDelay>6</FireDelay>
+  <FireDelay>45</FireDelay>
   <Range>15300</Range>
-  <PowerRequiredToFire>1900</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>15</OrdinanceRequiredToFire>
-  <HitPoints>30</HitPoints>
-  <SalvoCount>6</SalvoCount>
+  <PowerRequiredToFire>22800</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>180</OrdinanceRequiredToFire>
+  <HitPoints>75</HitPoints>
+  <SalvoCount>2</SalvoCount>
   <SalvoTimer>7</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -34,7 +34,7 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>40824</DamageAmount>
+  <DamageAmount>3571284</DamageAmount>
   <ShieldPenChance>25</ShieldPenChance>
   <Scale>2</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>

@@ -5,16 +5,16 @@
   <Tag_Cannon>true</Tag_Cannon>
 
   <UID>PlasmaThrower_Purple</UID>
-  <FireDelay>0.05</FireDelay>
+  <FireDelay>0.2</FireDelay>
   <Range>1300</Range>
-  <PowerRequiredToFire>16</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>0.4</OrdinanceRequiredToFire>
+  <PowerRequiredToFire>64</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>1.6</OrdinanceRequiredToFire>
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_flame_start_01</FireCueName>
   <ToggleSoundName>sd_weapon_flame_loop_01</ToggleSoundName>
   <Name>PlasmaThrower</Name>
   <!-- Projectile Information -->
-  <DamageAmount>140</DamageAmount>
+  <DamageAmount>560</DamageAmount>
   
   <ProjectileSpeed>1500</ProjectileSpeed>
   <EffectVsShields>1.4</EffectVsShields>

@@ -12,7 +12,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>272</Cost>
+  <Cost>330</Cost>
   <RepairDifficulty>10</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -28,7 +28,7 @@
   <Mass>10000</Mass>
   <HealthMax>28799</HealthMax>
   
-  <Description>The main deflector array of a Cardassian station, built to keep an occupied world's skies under guard. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Cardassian station shields, size for size, it has the sturdiest housing, but draws the most power.</Description>
+  <Description>The main deflector array of a Cardassian station, built to keep an occupied world's skies under guard. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>1200</PowerDraw>

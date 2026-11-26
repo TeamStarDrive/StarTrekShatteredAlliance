@@ -18,7 +18,7 @@
   <Name>Vulcan Seleya Emitter Housing</Name>
   <IconTexturePath>Modules/ArmoredShield4x4</IconTexturePath>
   <Mass>144</Mass>
-  <HealthMax>36300</HealthMax>
+  <HealthMax>41250</HealthMax>
   
   <Description>Emitters set in a hardened housing, so the grid can fail without the emitters going with it. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   

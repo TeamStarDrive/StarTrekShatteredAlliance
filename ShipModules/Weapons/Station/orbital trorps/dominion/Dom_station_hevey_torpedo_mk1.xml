@@ -11,7 +11,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>116</Cost>
+  <Cost>152</Cost>
   <!-- common traits shared by all ship modules -->
   <XSize>5</XSize>
   <YSize>6</YSize>
@@ -24,7 +24,7 @@
   <IconTexturePath>Modules/station_hevey_torpedo_mk1</IconTexturePath>
   <Mass>14000</Mass>
   <HealthMax>52664</HealthMax>
-  <Description>The heaviest torpedo battery of the Dominion. Of the Dominion orbital torpedo weapons, it hits the hardest and is the cheapest for its size, but fires the slowest.</Description>
+  <Description>The heaviest torpedo battery of the Dominion.</Description>
   
   
   <PowerDraw>5</PowerDraw>

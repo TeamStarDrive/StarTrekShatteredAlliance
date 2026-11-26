@@ -20,7 +20,7 @@
     <DescriptionIndex>30003</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>54</Mass>
-    <HealthMax>34286</HealthMax>
+    <HealthMax>20015</HealthMax>
     <RepairDifficulty>1</RepairDifficulty>
     <Deflection>0</Deflection>            
     <!-- Armor resistance -->
@@ -30,7 +30,7 @@
     <ExplosiveResist>0.17</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Ceramic armour made hard and brittle, for a ship expected to take hits and give more. Some protection against kinetic rounds and explosions. Of the Klingon ship plates of its size, it is the weakest against beams.</Description>
+    <Description>Ceramic armour made hard and brittle, for a ship expected to take hits and give more. Some protection against kinetic rounds and explosions.</Description>
     <APResist>1</APResist>
   <EnergyResist>0.05</EnergyResist>
 </ShipModule>

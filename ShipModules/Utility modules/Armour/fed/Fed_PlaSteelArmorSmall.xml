@@ -25,7 +25,7 @@
 
   <!-- Mass and Health -->
   <Mass>3</Mass>
-  <HealthMax>2759</HealthMax>
+  <HealthMax>3349</HealthMax>
 
   <!-- Armor resistance -->
     <KineticResist>-0.05</KineticResist>
@@ -35,7 +35,7 @@
     <ExplosiveResist>0.08</ExplosiveResist>
 
   <!-- Description -->
-  <Description>Transparent aluminium, the strong clear material of Starfleet viewports and cargo bay walls, laminated in layers and rolled opaque for use as hull plate. Its aluminium oxynitride matrix is aligned at the molecular level, so it is far stronger than it looks. Some protection against explosions. Of the Starfleet ship plates of its size, it is the lightest and the easiest to repair, but the weakest against beams.</Description>
+  <Description>Transparent aluminium, the strong clear material of Starfleet viewports and cargo bay walls, laminated in layers and rolled opaque for use as hull plate. Its aluminium oxynitride matrix is aligned at the molecular level, so it is far stronger than it looks. Some protection against explosions.</Description>
   
 
 </ShipModule>

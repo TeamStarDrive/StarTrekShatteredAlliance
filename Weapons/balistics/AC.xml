@@ -2,18 +2,18 @@
   <UID>AC</UID>
   <Tag_Cannon>true</Tag_Cannon>
   <Tag_Kinetic>true</Tag_Kinetic>
-  <FireDelay>3.2</FireDelay>
+  <FireDelay>14</FireDelay>
   <Range>6600</Range>
-  <PowerRequiredToFire>70</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>0.2</OrdinanceRequiredToFire>
-  <SalvoCount>4</SalvoCount>
+  <PowerRequiredToFire>1120</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>3.2</OrdinanceRequiredToFire>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>0.4</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
   <FireCueName>sd_weapon_Turretgun_001</FireCueName>
   <DieCue>sd_impact_bullet_small_01</DieCue>
   <!-- Projectile Information -->
-  <DamageAmount>550</DamageAmount>
+  <DamageAmount>8800</DamageAmount>
   <Scale>0.8</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>
   <ProjectileSpeed>1950</ProjectileSpeed>

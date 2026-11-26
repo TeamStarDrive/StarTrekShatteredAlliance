@@ -25,9 +25,9 @@
   <Name>Vulcan Phase-Coherent Platform Shield</Name>
   <IconTexturePath>Modules/TRANSPHASIC_OWP_SHEAILD</IconTexturePath>
   <Mass>7000</Mass>
-  <HealthMax>79448</HealthMax>
+  <HealthMax>90282</HealthMax>
   
-  <Description>A platform shield whose phase is held coherent across the whole field, with no gap to attack. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Vulcan platform shields, size for size, it covers the widest area, but draws the most power.</Description>
+  <Description>A platform shield whose phase is held coherent across the whole field, with no gap to attack. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>450</PowerDraw>

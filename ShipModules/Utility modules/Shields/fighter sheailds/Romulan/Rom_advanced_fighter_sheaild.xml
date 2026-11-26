@@ -30,7 +30,7 @@
   <Mass>10</Mass>
   <HealthMax>1230</HealthMax>
   
-  <Description>An emitter locked to the cloak, so that raising or dropping one does not leave a gap in the other. Good protection against beams and energy fire. Weak against kinetic rounds. Of the Romulan fighter shields, size for size, it recharges the fastest, but draws the most power.</Description>
+  <Description>An emitter locked to the cloak, so that raising or dropping one does not leave a gap in the other. Good protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>30</PowerDraw>

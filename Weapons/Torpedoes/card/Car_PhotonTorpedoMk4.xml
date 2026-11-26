@@ -20,12 +20,12 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>  
   
   <UID>Car_PhotonTorpedoMk4</UID>
-  <FireDelay>8</FireDelay>
+  <FireDelay>59</FireDelay>
   <Range>13500</Range>
-  <PowerRequiredToFire>2000</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>15</OrdinanceRequiredToFire>
-  <HitPoints>5</HitPoints>
-  <SalvoCount>2</SalvoCount>
+  <PowerRequiredToFire>16000</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>120</OrdinanceRequiredToFire>
+  <HitPoints>12</HitPoints>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>9</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -34,7 +34,7 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>17237</DamageAmount>
+  <DamageAmount>670176</DamageAmount>
   <ShieldPenChance>0.6</ShieldPenChance>
   <Scale>1</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>

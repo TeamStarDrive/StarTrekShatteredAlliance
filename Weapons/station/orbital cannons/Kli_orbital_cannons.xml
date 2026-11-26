@@ -20,9 +20,9 @@
   
   <UID>Kli_orbital_cannons</UID>
   <Range>8000</Range>
-  <PowerRequiredToFire>100</PowerRequiredToFire>
+  <PowerRequiredToFire>2000</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <SalvoCount>5</SalvoCount>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>3</SalvoTimer>
   
   <!-- name of XACT audio cue to play on firing this weapon -->
@@ -38,7 +38,7 @@
   <LoopAnimation>1</LoopAnimation>
   
   <!-- Projectile Information -->
-  <DamageAmount>2087</DamageAmount>
+  <DamageAmount>216000</DamageAmount>
   <ProjectileSpeed>4200</ProjectileSpeed>
   <Light>Orange</Light>
   <Scale>1</Scale>
@@ -48,6 +48,6 @@
   <ModelPath>projTear</ModelPath>
   <WeaponEffectType>DisruptorCannon</WeaponEffectType>
   <WeaponType>Phaser Cannons</WeaponType>
-  <FireDelay>3</FireDelay>
+  <FireDelay>21</FireDelay>
   <EffectVsArmor>1.1</EffectVsArmor>
 </Weapon>

@@ -14,7 +14,7 @@
   <UID>Bor_station_phasor_beem_mk1</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>17</Cost>
+  <Cost>24</Cost>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
   <!-- Tech Level Used by AI for Upgrading Ships -->
@@ -47,7 +47,7 @@
   <FieldOfFire>360</FieldOfFire>
 
   <!-- Description -->
-  <Description>A cutting lance for a node, firing a narrow beam. Of the Borg orbital beam weapons, it is the sturdiest for its size, but hits the softest.</Description>
+  <Description>A cutting lance for a node, firing a narrow beam.</Description>
   
 
 </ShipModule>

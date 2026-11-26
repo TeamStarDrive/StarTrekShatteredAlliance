@@ -12,7 +12,7 @@
   <FreighterModule>false</FreighterModule>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
-  <Cost>230</Cost>
+  <Cost>331</Cost>
   <RepairDifficulty>9</RepairDifficulty>
   
   <!-- common traits shared by all ship modules -->
@@ -28,7 +28,7 @@
   <Mass>9000</Mass>
   <HealthMax>63043</HealthMax>
   
-  <Description>A subspace field for relay structures, adapting to whatever is fired at them. Strong protection against kinetic rounds, beams, energy fire and plasma. Of the Borg station shields, size for size, it draws the least power and is the cheapest to build, but holds the least energy.</Description>
+  <Description>A subspace field for relay structures, adapting to whatever is fired at them. Strong protection against kinetic rounds, beams, energy fire and plasma.</Description>
   
   
   <PowerDraw>900</PowerDraw>

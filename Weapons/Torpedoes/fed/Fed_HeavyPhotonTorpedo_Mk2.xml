@@ -20,12 +20,12 @@
   <ExcludesCorvettes>true</ExcludesCorvettes>  
   
   <UID>Fed_HeavyPhotonTorpedo_Mk2</UID>
-  <FireDelay>8</FireDelay>
+  <FireDelay>53</FireDelay>
   <Range>11000</Range>
-  <PowerRequiredToFire>1500</PowerRequiredToFire>
-  <OrdinanceRequiredToFire>30</OrdinanceRequiredToFire>
-  <HitPoints>50</HitPoints>
-  <SalvoCount>2</SalvoCount>
+  <PowerRequiredToFire>12000</PowerRequiredToFire>
+  <OrdinanceRequiredToFire>240</OrdinanceRequiredToFire>
+  <HitPoints>125</HitPoints>
+  <SalvoCount>1</SalvoCount>
   <SalvoTimer>7</SalvoTimer>
  
   
@@ -35,7 +35,7 @@
  <!-- <ToggleSoundName>sd_weapon_vulcan_spinloop_01</ToggleSoundName> -->
 
   <!-- Projectile Information -->
-  <DamageAmount>34373</DamageAmount>
+  <DamageAmount>1534408</DamageAmount>
   <DamageRadius>40</DamageRadius>
   <Scale>4.5</Scale>
   <MuzzleFlash>Yes</MuzzleFlash>

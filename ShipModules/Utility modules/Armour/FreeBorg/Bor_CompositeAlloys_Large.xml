@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ShipModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <Cost>22</Cost>
+    <Cost>32</Cost>
     <FighterModule>false</FighterModule>
     <!-- Tech Level -->
     <TechLevel>4</TechLevel>
@@ -31,6 +31,6 @@
     <ExplosiveResist>0.21</ExplosiveResist>
 
     <!-- Description -->
-    <Description>Assimilated armour technology combined with alloys developed inside the Collective, layered by whatever the Collective weighs to be the most efficient. Good protection against explosions, some protection against kinetic rounds. Of the Borg ship plates of its size, it is the weakest against beams.</Description>
+    <Description>Assimilated armour technology combined with alloys developed inside the Collective, layered by whatever the Collective weighs to be the most efficient. Good protection against explosions, some protection against kinetic rounds.</Description>
     <APResist>1</APResist>    
 </ShipModule>

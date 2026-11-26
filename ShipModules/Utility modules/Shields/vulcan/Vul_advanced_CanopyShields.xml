@@ -16,9 +16,9 @@
   <Name>Vulcan Command Ship Canopy Array</Name>
   <IconTexturePath>Modules/advanced_CanopyShields</IconTexturePath>
   <Mass>250</Mass>
-  <HealthMax>131599</HealthMax>
+  <HealthMax>149544</HealthMax>
   
-  <Description>The canopy array of a Vulcan command ship, with every emitter phase-locked to the rest. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Vulcan ship shields, size for size, it holds the most energy and covers the widest area, but draws the most power.</Description>
+  <Description>The canopy array of a Vulcan command ship, with every emitter phase-locked to the rest. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>1400</PowerDraw>

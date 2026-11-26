@@ -14,7 +14,7 @@
   <UID>Bor_station_phasor_beem_mk2</UID> 
   <Version>2</Version>
   <OffPowerMod>0.35</OffPowerMod>
-  <Cost>25</Cost>
+  <Cost>36</Cost>
   <PlatformModule>true</PlatformModule>
   <StationModule>true</StationModule>
   <!-- Tech Level Used by AI for Upgrading Ships -->

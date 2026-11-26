@@ -31,9 +31,9 @@
 
   <IconTexturePath>Modules/frigate_shealds</IconTexturePath>
   <Mass>46</Mass>
-  <HealthMax>24501</HealthMax>
+  <HealthMax>14304</HealthMax>
   
-  <Description>The standard deflector shields of a Bird-of-Prey, the raider, scout and patrol ship of the Empire. Strong protection against beams and energy fire. Weak against kinetic rounds. Of the Klingon ship shields, size for size, it recharges the fastest and is the quickest to come back after being knocked down, but is the costliest to build.</Description>
+  <Description>The standard deflector shields of a Bird-of-Prey, the raider, scout and patrol ship of the Empire. Strong protection against beams and energy fire. Weak against kinetic rounds.</Description>
   
   
   <PowerDraw>120</PowerDraw>
@@ -44,9 +44,9 @@
   <!-- for shield items -->
   <ShieldPowerMax>36000</ShieldPowerMax>
   <ShieldRechargeDelay>13</ShieldRechargeDelay>
-  <ShieldRechargeRate>480.0</ShieldRechargeRate>
+  <ShieldRechargeRate>384</ShieldRechargeRate>
   <ShieldRadius>175</ShieldRadius>
-  <ShieldRechargeCombatRate>370</ShieldRechargeCombatRate>
+  <ShieldRechargeCombatRate>296</ShieldRechargeCombatRate>
   <ShieldEnergyResist>0.42</ShieldEnergyResist>
   <ShieldBeamResist>0.45</ShieldBeamResist>
   <ShieldKineticResist>-0.22</ShieldKineticResist>

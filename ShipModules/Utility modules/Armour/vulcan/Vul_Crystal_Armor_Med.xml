@@ -19,7 +19,7 @@
     <DescriptionIndex>30109</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>32</Mass>
-    <HealthMax>41818</HealthMax>
+    <HealthMax>47520</HealthMax>
     <RepairDifficulty>1.5</RepairDifficulty>
     <Deflection>0</Deflection>
     <!-- Armor resistance -->
@@ -30,6 +30,6 @@
     <PlasmaResist>-0.05</PlasmaResist>
 
     <!-- Description -->
-    <Description>A crystal lattice grown to a calculated pattern, its facets aligned so that an impact is spread evenly through the plate. Good protection against explosions, some protection against kinetic rounds. Of the Vulcan ship plates of its size, it is the best protected against explosions and the best against armour-piercing rounds, but the costliest to build.</Description>
+    <Description>A crystal lattice grown to a calculated pattern, its facets aligned so that an impact is spread evenly through the plate. Good protection against explosions, some protection against kinetic rounds.</Description>
     <APResist>2</APResist>    
 </ShipModule>

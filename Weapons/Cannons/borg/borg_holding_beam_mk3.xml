@@ -5,11 +5,11 @@
 
   <UID>borg_holding_beam_mk3</UID>
   <IsBeam>true</IsBeam>
-  <FireDelay>7</FireDelay>
+  <FireDelay>8.2</FireDelay>
   <Range>7000</Range>
   <PowerRequiredToFire>70</PowerRequiredToFire>
   <OrdinanceRequiredToFire>0</OrdinanceRequiredToFire>
-  <BeamDuration>2</BeamDuration>
+  <BeamDuration>0.8</BeamDuration>
   <!-- name of XACT audio cue to play on firing this weapon -->
 
 
@@ -17,17 +17,17 @@
   
   
   <!-- Projectile Information -->
-  <RepulsionDamage>19000</RepulsionDamage>
+  <RepulsionDamage>38000</RepulsionDamage>
   <EffectVsShields>40</EffectVsShields>
-  <TroopDamageChance>9</TroopDamageChance>
-  <PowerDamage>5200</PowerDamage>
-  <SiphonDamage>900</SiphonDamage>
-  <EMPDamage>2640</EMPDamage>
+  <TroopDamageChance>7.2</TroopDamageChance>
+  <PowerDamage>10400</PowerDamage>
+  <SiphonDamage>1800</SiphonDamage>
+  <EMPDamage>3300</EMPDamage>
   <ShieldPenChance>100</ShieldPenChance>
   <BeamTexture>borg_holdingbeam</BeamTexture>
-  <DamageAmount>12</DamageAmount>
+  <DamageAmount>73</DamageAmount>
   <BeamThickness>74</BeamThickness>
-  <BeamPowerCostPerSecond>1520</BeamPowerCostPerSecond>
+  <BeamPowerCostPerSecond>3800</BeamPowerCostPerSecond>
   <WeaponRotation>3</WeaponRotation>
   <OffPowerMod>0.01</OffPowerMod>
 

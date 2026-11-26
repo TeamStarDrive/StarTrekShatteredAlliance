@@ -20,7 +20,7 @@
   <Mass>100</Mass>
   <HealthMax>5588</HealthMax>
   
-  <Description>Harnesses an artificial quantum singularity to create large amounts of power</Description>
+  <Description>A power core built around an artificial quantum singularity, the Romulan way of feeding a warp field without a matter and antimatter reaction.</Description>
   <CrewRequired>10</CrewRequired>
   
   <PowerDraw>0</PowerDraw>

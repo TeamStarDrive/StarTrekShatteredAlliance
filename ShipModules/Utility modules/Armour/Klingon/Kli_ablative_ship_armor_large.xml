@@ -20,7 +20,7 @@
     <DescriptionIndex>30227</DescriptionIndex>
     <!-- Mass and Health -->
     <Mass>40</Mass>
-    <HealthMax>74073</HealthMax>
+    <HealthMax>43243</HealthMax>
     <RepairDifficulty>2.5</RepairDifficulty>
     <Deflection>130</Deflection>                  
     <!-- Armor resistance -->
@@ -31,6 +31,6 @@
     <PlasmaResist>0.20</PlasmaResist>
 
     <!-- Description -->
-    <Description>Extra armour of the kind added to Klingon cruisers in their refits, meant to be burned away in battle. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma. Of the Klingon ship plates of its size, it is the toughest and the best protected against beams, but the costliest to build.</Description>
+    <Description>Extra armour of the kind added to Klingon cruisers in their refits, meant to be burned away in battle. Strong protection against kinetic rounds, beams, energy fire and explosions, good protection against plasma.</Description>
     <APResist>2</APResist>
 </ShipModule>
